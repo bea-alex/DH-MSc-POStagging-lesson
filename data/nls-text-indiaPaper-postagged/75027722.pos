@@ -1,0 +1,750 @@
+IP/QB_NNP ,_, 10_CD No_UH ._.
+20_CD ._.
+(_( NEW_JJ SERIES_NNP ._. )_)
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+SERUM-THERAPY_NNP OF_NNP PLAGUE_NNP IN_NNP INDIA_NNP ;_: REPORTS_NNP BY_NNP MR._NNP W._NNP M._NNP HAFFKINE_NNP ,_, C.I.E._NNP ,_, AND_NNP VARIOUS_NNP OFFICERS_NNP OF_IN THE_NNP PLAGUE_NNP RESEARCH_NNP LABORATORY_NNP ,_, BOMBAY_NNP ._.
+EDITED_NN WITH_NNP AN_NNP INTRODUCTION_NNP BY_NNP LIEUT.-COL._NNP W._NNP B._NNP BANNERMAN_NNP ,_, M.D._NNP ,_, B.SC._NNP ,_, F.R.S.E._NNP ,_, I.M.S._NNP ,_, Director_NNP ,_, Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ._.
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75027838.tif_CD ]_JJ CALCUTTA_NNP :_: OFFICE_NN OF_IN THE_NNP SUPERINTENDENT_NNP OF_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ._.
+1905_CD ._.
+INDIA_NNP ._.
+Agents_NNS for_IN the_DT Sale_NNP of_IN Books_NNP published_VBN by_IN the_DT Superintendent_NNP of_IN Government_NNP Printing_NNP ,_, India_NNP ,_, Calcutta_NNP ._.
+IN_NNP ENGLAND_NNP ._.
+IN_NNP INDIA_NNP ._.
+H._NNP S._NNP KING_NNP &_CC Co._NNP ,_, 65_CD ,_, Cornhill_NNP ,_, &_CC 9_CD ,_, Pall_NNP Mall_NNP ,_, London_NNP ._.
+THACKER_NNP ,_, SPINK_NNP &_CC CO._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+NEWMAN_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+E._NNP A._NN ARNOLD_NNP ,_, 41_CD &_CC 43_CD ,_, Maddox_NNP Street_NNP ,_, Bond_NNP Street_NNP ,_, London_NNP ,_, W._NNP S.K_NNP ._.
+LAHIRI_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+CONSTABLE_NNP &_CC CO._NNP ,_, 16_CD ,_, James_NNP Street_NNP ,_, Hay_NNP Market_NNP ,_, London_NNP ,_, W._NNP R._NNP CAMBRAY_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+HIGGINBOTHAM_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+P._NNP S._NNP KING_NNP &_CC SON_NNP ,_, 2_CD &_CC 4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ,_, London_NNP ,_, S.W_NNP ._.
+V._NNP KALYANARAMA_NNP IYER_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+G._NNP A._NNP NATESAN_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRÜBNER_NNP &_CC CO._NNP ,_, Charing_NNP Cross_NNP Road_NNP ,_, London_NNP ,_, W.C._NNP THACKER_NNP &_CC CO._NNP ,_, LD._NNP ,_, Bombay_NNP ._.
+BERNARD_NNP QUARITCH_NNP ,_, 15_CD ,_, Piccadilly_NNP ,_, London_NNP ,_, W._NNP A._NNP J._NNP COMBRIDGE_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+B._NNP H._NNP BLACKWELL_NNP ,_, 50_CD &_CC 51_CD ,_, Broad_NNP Street_NNP ,_, Oxford_NNP ._.
+D._NNP B._NNP TARAPOREVALA_NNP ,_, SONS_NNP &_CC CO._NNP ,_, Bombay_NNP ._.
+DEIGHTON_NNP BELL_NNP &_CC CO._NNP ,_, Cambridge_NNP ._.
+RADHABAI_NNP ATMARAM_NNP SAGOON_NNP ,_, Bombay_NNP ._.
+ON_IN THE_DT CONTINENT_NNP ._.
+N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP ,_, Nazair_NNP Kanun_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+R._NNP FRIEDLANDER_NNP &_CC SOHN_NNP ,_, 11_CD ,_, Carlstrasse_NNP ,_, Berlin_NNP ,_, N.W_NNP ._.
+RAI_NNP SAHIB_NNP M._NNP GULAB_NNP SINGH_NNP &_CC SONS_NNP ,_, Mufid-i-Am_NNP Press_NNP ,_, Lahore_NNP ._.
+OTTO_NNP HARRASSOWITZ_NNP ,_, Leipzig_NNP ._.
+Superintendent_NN ,_, American_NNP Baptist_NNP Mission_NNP Press_NNP ,_, Rangoon_NNP ._.
+KARL_NNP W._NNP HIERSEMANN_NNP ,_, Leipzig_NNP ._.
+ERNEST_NNP LEROUX_NNP ,_, 28_CD ,_, Rue_NNP Bonaparte_NNP ,_, Paris_NNP ._.
+SUNDER_NNP PANDURANG_NNP ,_, Bombay_NNP ._.
+MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP ,_, Holland_NNP ._.
+A._NNP M._NNP &_CC J._NNP FERGUSON_NNP ,_, Ceylon_NNP ._.
+List_NN of_IN Numbers_NNP of_IN Scientific_NNP Memoirs_NNP by_IN Officers_NNP of_IN the_DT Medical_NNP and_CC Sanitary_NNP Departments_NNP of_IN the_DT Government_NNP of_IN India_NNP (_( New_NNP Series_NNP )_) published_VBD previous_JJ to_TO the_DT present_JJ issue_NN ._.
+No_DT ._.
+1_CD ._.
+Standardisation_NN of_IN Calmette_NNP 's_POS anti-venomous_JJ serum_NN with_IN pure_JJ cobra_NN venom_NN :_: the_DT deterioration_NN of_IN this_DT serum_NN through_IN keeping_VBG in_IN India_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M.B_NNP ._.
+Price_NN As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+2_CD ._.
+Malaria_NNP in_IN India_NNP ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+3_CD ._.
+Some_DT observations_NNS on_IN the_DT poison_NN of_IN Russell_NNP 's_POS Viper_NNP (_( Daboia_NNP Russellii_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M.B_NNP ._.
+Price_NN As_IN ._.
+5_CD or_CC 6d_CD ._.
+No_DT ._.
+4_CD ._.
+On_IN the_DT action_NN of_IN the_DT venoms_NNS of_IN the_DT Cobra_NNP and_CC of_IN the_DT Daboia_NNP on_IN the_DT red_JJ blood_NN cor-_NN puscles_NNS and_CC on_IN the_DT blood_NN plasma_NN ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+5_CD ._.
+Specificity_NN of_IN anti-venomous_JJ sera_NN ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+6_CD ._.
+First_NNP report_NN on_IN the_DT anti-malarial_JJ operations_NNS in_IN Mian_NNP Mir_NNP ,_, 1901-03_JJ ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1S_CD ._.
+2d_CD ._.
+No_DT ._.
+7_CD ._.
+Some_DT observations_NNS on_IN the_DT poison_NN of_IN the_DT Banded_NNP Krait_NNP (_( Bungarus_NNP Fasciatus_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+8_CD ._.
+A_DT preliminary_JJ report_NN on_IN a_DT parasite_NN found_VBN in_IN patients_NNS suffering_VBG from_IN enlargement_NN of_IN the_DT spleen_NN in_IN India_NNP ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+9_CD ._.
+Second_JJ report_NN of_IN the_DT anti-malarial_JJ operations_NNS at_IN Mian_NNP Mir_NNP ,_, 1901-03_JJ ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+10_CD ._.
+Specificity_NN of_IN anti-venomous_JJ sera_NN (_( second_JJ communication_NN )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+11_CD ._.
+On_IN a_DT parasite_NN found_VBN in_IN persons_NNS suffering_VBG from_IN enlargement_NN of_IN the_DT spleen_NN in_IN IndiaSERUM-THERAPY_NNP OF_NNP PLAGUE_NNP IN_NNP INDIA_NNP ._.
+INTRODUCTION_NNP ._.
+THE_DT papers_NNS published_VBN in_IN this_DT number_NN relate_NN to_TO trials_NNS in_IN the_DT Bombay_NNP Municipal_NNP Plague_NNP Hospitals_NNP ,_, of_IN the_DT sera_NN prepared_VBD according_VBG to_TO the_DT me_PRP thods_NNS of_IN Professor_NNP Lustig_NNP of_IN Florence_NNP ,_, Professor_NNP Terni_NNP ,_, formerly_RB of_IN Messina_NNP ,_, now_RB of_IN Milan_NNP ,_, Dr._NNP Brazil_NNP of_IN San_NNP Paulo_NNP ,_, Brazil_NNP ,_, and_CC Dr._NNP Roux_NNP of_IN the_DT Pasteur_NNP Institute_NNP of_IN Paris_NNP ._.
+Originally_RB they_PRP were_VBD submitted_VBN to_TO Government_NNP in_IN the_DT form_NN of_IN letters_NNS report-_JJ ing_JJ results_NNS as_IN the_DT experiments_NNS progressed_VBN ,_, and_CC the_DT work_NN of_IN the_DT editor_NN has_VBZ simply_RB been_VBN to_TO produce_VB connected_JJ reports_NNS from_IN the_DT materials_NNS submitted_VBN to_TO him_PRP for_IN this_DT purpose_NN ._.
+Though_IN it_PRP has_VBZ been_VBN necessary_JJ therefore_RB to_TO recast_VB the_DT reports_NNS ,_, the_DT sense_NN and_CC ,_, as_RB far_RB as_IN possible_JJ ,_, the_DT original_JJ wording_NN ,_, have_VBP been_VBN retained_VBN ._.
+The_DT first_JJ to_TO try_VB anti-plague_JJ serum_NN in_IN India_NNP was_VBD Yersin_NNP ,_, who_WP reached_VBD Bombay_NNP early_RB in_IN 1897_CD ,_, bringing_VBG with_IN him_PRP serum_VBP prepared_VBN in_IN Tongkin_NNP and_CC at_IN the_DT Pasteur_NNP Institute_NNP at_IN Paris_NNP ._.
+Its_PRP$ mode_NN of_IN preparation_NN is_VBZ thus_RB described_VBN by_IN Roux._NNP ``_``
+The_DT anti-plague_JJ serum_NN from_IN horses_NNS 21_CD and_CC 31_CD was_VBD prepared_VBN in_IN the_DT following_JJ way_NN :2_NNP so_IN it_PRP was_VBD weaker_JJR than_IN that_DT used_VBN last_JJ year_NN in_IN China_NNP ,_, and_CC the_DT doses_NNS to_TO be_VB injected_VBN consequently_RB had_VBD to_TO be_VB largely_RB increased_VBN ._.
+``_`` 2_CD The_DT following_JJ summarises_NNS those_DT cases_NNS treated_VBD either_RB by_IN himself_PRP or_CC under_IN his_PRP$ directions_NNS by_IN other_JJ medical_JJ men_NNS ,_, in_IN the_DT Bombay_NNP hospitals_NNS ._.
+In_IN the_DT Parel_NNP Old_NNP Government_NNP House_NNP Hospital_NNP 27_CD persons_NNS were_VBD inoculated_VBN with_IN Yersin_NNP 's_POS serum_NN ;_: the_DT first_JJ three_CD being_VBG injected_VBN by_IN Yersin_NNP himself_PRP and_CC the_DT rest_NN by_IN Captain_NNP Thomson_NNP ,_, I.M.S._NNP Three_CD of_IN these_DT must_MD be_VB excluded_VBN as_IN the_DT patients_NNS were_VBD not_RB suffering_VBG from_IN plague_NN ,_, but_CC from_IN (_( a_DT )_) meningitis_NN with_IN osseous_JJ tumour_NNS pressing_VBG on_IN the_DT medulla_NN ,_, (_( b_NN )_) hepatitis_NN and_CC remittent_NN fever_NN ,_, (_( c_NN )_) some_DT other_JJ disease_NN not_RB specified_VBN ._.
+One_CD healthy_JJ woman_NN was_VBD given_VBN a_DT prophylactic_JJ injection_NN ,_, and_CC must_MD also_RB be_VB excluded_VBN ._.
+Of_IN the_DT remaining_VBG 23_CD individuals_NNS who_WP undoubtedly_RB had_VBD plague_NN ,_, 14_CD died_VBD and_CC 9_CD recovered_VBN ,_, giving_VBG a_DT percentage_NN mortality_NN of_IN 6o.86.3_CD The_DT general_JJ mortality_NN in_IN the_DT Parel_NNP Hospital_NNP at_IN the_DT time_NN was_VBD 64.5_CD ,_, but_CC as_IN the_DT Medical_NNP Officer_NNP in_IN charge_NN points_NNS out_RP ,_, there_EX were_VBD among_IN them_PRP a_DT large_JJ number_NN of_IN moribund_NN cases_NNS ,_, which_WDT more_JJR than_IN accounts_NNS for_IN the_DT difference_NN ._.
+Captain_NNP G._NNP S._NNP Thomson_NNP ,_, M.B._NNP ,_, I.M.S._NNP ,_, who_WP was_VBD in_IN charge_NN of_IN the_DT cases_NNS ,_, reports_VBZ that_IN ``_`` the_DT temperature_NN ,_, pulse_NN and_CC respirations_NNS were_VBD recorded_VBN and_CC taken_VBN personally_RB immediately_RB before_IN injection_NN in_IN each_DT case_NN ._. ''_''
+He_PRP notes_VBZ the_DT following_NN as_IN results_NNS following_VBG the_DT injection_NN of_IN the_DT serum_NN :3_NN It_PRP will_MD be_VB noticed_VBN that_IN the_DT case_NN mortality_NN in_IN hospital_NN is_VBZ almost_RB the_DT same_JJ as_IN that_DT recorded_VBD for_IN the_DT same_JJ class_NN of_IN patients_NNS in_IN Dr._NNP West_NNP 's_POS report_NN on_IN the_DT trials_NNS with_IN Roux_NNP 's_POS serum_NN last_JJ year_NN (_( vide_IN p._RB 60_CD )_) ._.
+Further_JJ trial_NN of_IN serum_NN made_VBN on_IN this_DT system_NN was_VBD carried_VBN out_RP about_IN the_DT same_JJ time_NN by_IN the_DT German_NNP Plague_NNP Commission_NNP on_IN 26_CD patients_NNS in_IN the_DT Bombay_NNP Plague_NNP Hospitals_NNP ._.
+Of_IN these_DT 13_CD died_VBD and_CC 13_CD recovered4_NN ;_: but_CC as_IN noted_VBN by_IN the_DT Indian_NNP Plague_NNP Commission_NNP ,_, these_DT results_NNS are_VBP not_RB compared_VBN with_IN any_DT parallel_JJ series_NN of_IN controls_NNS ,_, and_CC are_VBP not_RB therefore_RB of_IN much_JJ statistical_JJ value_NN ,_, though_IN the_DT case_NN mortality_NN is_VBZ below_IN the_DT average_JJ met_NN with_IN in_IN plague_NN ._.
+The_DT serum_NN used_VBN for_IN these_DT cases_NNS is_VBZ described_VBN by_IN the_DT German_JJ Commission_NNP as_IN belonging_NN to_TO ``_`` the_DT older_JJR ``_`` sample_JJ supplied_VBN to_TO them_PRP ,_, and_CC they_PRP record_VBP that_IN ``_`` the_DT only_JJ certain_JJ inference_NN which_WDT can_MD be_VB drawn_VBN is_VBZ that_IN the_DT injections_NNS of_IN serum_NN have_VBP had_VBN no_DT perceptible_JJ immediate_NN or_CC remote_VB harmful_JJ results_NNS ._. ''_''
+The_DT next_JJ trial_NN with_IN Roux-Yersin_NNP serum_NN was_VBD made_VBN by_IN Captain_NNP H._NNP D._NNP Mason_NNP ,_, M.R_NNP ._.
+C._NNP S._NNP ,_, R_NNP ._.
+A_DT .M_JJ .C._NN ,_, in_IN the_DT State_NNP of_IN Cutch_NNP ,_, during_IN May_NNP and_CC June_NNP 1897_CD ._.
+The_DT serum_NN was_VBD obtained_VBN direct_JJ from_IN the_DT Pasteur_NNP Institute_NNP in_IN Paris._NNP ``_``
+The_DT serum_NN was_VBD administered_VBN to_TO human_JJ plague_NN patients_NNS in_IN doses_NNS from_IN 10_CD to_TO 6o_CD c.c_NN ._.
+The_DT smaller_JJR closes_NNS were_VBD employed_VBN in_IN the_DT cases_NNS first_RB treated_VBN ,_, the_DT larger_JJR doses_NNS being_VBG resorted_VBN to_TO as_IN experience_NN was_VBD gained_VBN ._.
+Quantities_NNS larger_JJR than_IN 60_CD c.c_NN ._.
+were_VBD not_RB administered_VBN ,_, because_IN it_PRP was_VBD found_VBN that_IN with_IN this_DT last_JJ dose_VB the_DT patients_NNS began_VBD to_TO suffer_VB from_IN painful_JJ swelling_NN of_IN the_DT joints.5_NN ''_'' The_DT amount_NN given_VBN varied_VBD from_IN 10_CD c.c_NN ._.
+(_( in_IN one_CD case_NN )_) to_TO 220_CD c.c_NN ._.
+The_DT following_VBG table_NN shows_VBZ the_DT numbers_NNS who_WP received_VBD (_( a_DT )_) less_JJR than_IN 100_CD c_JJ c._NN of_IN serum_NN ,_, (_( b_NN )_) those_DT who_WP received_VBD 100_CD c.c_NN ._.
+and_CC above_IN ,_, and_CC (_( c_NN )_) those_DT who_WP received_VBD 200_CD c.c_NN ._.
+or_CC above_IN ,_, with_IN the_DT case_NN mortality_NN in_IN each_DT :4_NN evidenced_VBN by_IN the_DT mortality_NN of_IN 83_CD per_IN cent_NN ._.
+in_IN the_DT hospital_NN ._.
+The_DT plague_NN patients_NNS ,_, however_RB ,_, who_WP were_VBD treated_VBN with_IN serum_NN ,_, were_VBD ,_, with_IN the_DT exception_NN of_IN the_DT first_JJ 5_CD cases_NNS treated_VBN ,_, admitted_VBN to_TO hospital_VB during_IN a_DT period_NN of_IN four_CD months_NNS of_IN a_DT declining_VBG epidemic_NN ,_, when_WRB we_PRP may_MD presume_VB the_DT type_NN of_IN the_DT disease_NN to_TO have_VB been_VBN much_JJ milder_NN ._.
+Again_RB ,_, only_RB 31_CD of_IN the_DT 100_CD serum_NN cases_NNS were_VBD admitted_VBN into_IN the_DT Brahmapuri_NNP Hospital_NNP ,_, this_DT apparently_RB being_VBG in_IN consequence_NN of_IN the_DT decline_NN of_IN the_DT epidemic_JJ in_IN Cutch_NNP Mandvi_NNP ._.
+The_DT remaining_VBG 69_CD cases_NNS were_VBD admitted_VBN into_IN hospital_NN in_IN smaller_JJR places_NNS in_IN the_DT neighbourhood_NN of_IN Cutch_NNP Mandvi_NNP ._.
+The_DT serum_NN cases_NNS were_VBD thus_RB hardly_RB comparable_JJ with_IN the_DT control_NN cases_NNS ._.
+It_PRP is_VBZ indeed_RB recognised_VBN by_IN Captain_NNP Mason_NNP that_IN the_DT average_JJ severity_NN of_IN the_DT disease_NN in_IN the_DT control_NN was_VBD greater_JJR than_IN that_DT in_IN the_DT serum_NN cases_NNS ._. ''_''
+A_DT comparison_NN of_IN the_DT serum_NN cases_NNS treated_VBN in_IN the_DT Brahmapuri_NNP Hospital_NNP from_IN the_DT 30th_CD of_IN May_NNP to_TO the_DT 9th_CD of_IN June_NNP 1897_CD ,_, i.e._FW ,_, within_IN a_DT week_NN after_IN the_DT date_NN of_IN admission_NN of_IN the_DT last_JJ control_NN case_NN shows_VBZ the_DT following_JJ result_NN :5_IN The_DT next_JJ observations_NNS with_IN this_DT serum_NN were_VBD those_DT of_IN Dr._NNP Simond_NNP of_IN the_DT Pasteur_NNP Institute_NNP ,_, Paris_NNP ,_, who_WP came_VBD out_RP to_TO India_NNP and_CC conducted_VBD the_DT experiments_NNS personally_RB ._.
+At_IN Karad_NNP in_IN the_DT Satara_NNP District_NNP ,_, 32_CD persons_NNS were_VBD treated_VBN by_IN him_PRP between_IN the_DT 5th_CD and_CC 24th_CD September_NNP 1897_CD ,_, in_IN the_DT hospital_NN there.9_VBD The_DT doses_NNS varied_VBD from_IN 10_CD c.c_NN ._.
+(_( in_IN one_CD case_NN )_) to_TO 30_CD c.c_NN ._.
+;_: and_CC the_DT largest_JJS total_JJ given_VBN to_TO any_DT one_CD patient_NN was_VBD 90_CD c.c_NN ._.
+in_IN 4_CD doses_NNS ._.
+The_DT following_VBG table_NN shows_VBZ the_DT numbers_NNS who_WP received_VBD (_( a_DT )_) less_JJR than_IN 40_CD c.c_NN ._.
+and_CC (_( b_NN )_) 40_CD c.c_NN ._.
+and_CC above_IN :6_NN From_IN these_DT figures_NNS they_PRP conclude_VBP that_IN (_( a_DT )_) the_DT type_NN of_IN case_NN admitted_VBN to_TO hospital_VB while_IN the_DT serum_NN was_VBD being_VBG used_VBN ,_, was_VBD gradually_RB becoming_VBG less_RBR severe_JJ ,_, as_IN indicated_VBN by_IN the_DT progressively_RB lessening_VBG case-mortality_NN returned_VBN from_IN the_DT hospital_NN ;_: this_DT corresponding_NN to_TO the_DT rapid_JJ decline_NN of_IN the_DT epidemic_NN in_IN the_DT latter_JJ half_NN of_IN May_NNP and_CC beginning_NN of_IN June_NNP 1898_CD in_IN Karachi_NNP town_NN ;_: and_CC (_( b_NN )_) that_WDT possibly_RB the_DT cases_NNS in_IN the_DT non-treated_JJ group_NN ``_`` included_VBD a_DT large_JJ number_NN of_IN moribund_NN or_CC hopeless_JJ cases_NNS ,_, ''_'' for_IN otherwise_NN it_PRP is_VBZ hard_JJ to_TO explain_VB the_DT somewhat_RB higher_JJR case-_JJ mortality_NN as_IN compared_VBN with_IN the_DT rate_NN in_IN the_DT pre-serum_JJ period_NN ,_, and_CC the_DT dispropor-_JJ tionate_NN height_NN as_IN contrasted_VBN with_IN the_DT immediately_RB succeeding_JJ period_NN ._.
+It_PRP is_VBZ thus_RB impossible_JJ to_TO form_VB ``_`` a_DT definite_JJ conclusion_NN as_IN to_TO the_DT effect_NN exerted_VBN by_IN the_DT serum_NN on_IN the_DT case-mortality_NN ._. ''_''
+It_PRP is_VBZ unfortunately_RB impossible_JJ to_TO found_VB anything_NN on_IN the_DT figures_NNS showing_VBG that_IN the_DT serum_NN was_VBD more_RBR effective_JJ when_WRB used_VBN in_IN the_DT first_JJ days_NNS of_IN illness_NN ,_, for_IN the_DT reason_NN that_IN the_DT patients_NNS universally_RB declared_VBD they_PRP were_VBD recently_RB affected_VBN ,_, from_IN fear_NN of_IN prosecution_NN for_IN concealment_NN of_IN cases_NNS ._.
+As_IN to_TO the_DT clinical_JJ effects_NNS of_IN the_DT serum_NN ,_, it_PRP appears_VBZ that_IN ``_`` in_IN fatal_JJ cases_NNS the_DT treatment_NN had_VBD not_RB the_DT slightest_JJS permanent_JJ effect_NN on_IN the_DT temperature_NN ._.
+``_`` 11_CD In_IN certain_JJ cases_NNS ,_, however_RB ,_, the_DT temperature_NN fell_VBD two_CD or_CC three_CD degrees_NNS ,_, especially_RB after_IN the_DT evening_NN injection_NN ._.
+In_IN cases_NNS ending_VBG in_IN recovery_NN ,_, the_DT serum_NN appeared_VBD to_TO act_VB in_IN much_JJ the_DT same_JJ way_NN ,_, and_CC the_DT temperature_NN did_VBD not_RB reach_VB normal_JJ any_DT sooner_JJR than_IN under_IN ordinary_JJ treatment_NN ._.
+The_DT pulse_NN ,_, however_RB ,_, often_RB became_VBD less_RBR rapid_JJ ,_, and_CC the_DT tongue_NN clean_NN and_CC moist_NN after_IN an_DT injection_NN of_IN serum_NN ,_, and_CC general_JJ improvement_NN in_IN symptoms_NNS was_VBD seen_VBN in_IN many_JJ cases_NNS ,_, even_RB when_WRB recovery_NN did_VBD not_RB eventually_RB ensue_VB ._.
+The_DT serum_NN had_VBD no_DT effect_NN on_IN septicæmic_NN or_CC pneumonic_JJ cases_NNS ,_, and_CC hardly_RB any_DT on_IN cases_NNS developing_VBG secondary_JJ pneumonia_NN ,_, nor_CC did_VBD it_PRP prevent_VB this_DT latter_JJ complication_NN ._.
+Convalescence_NN was_VBD likewise_RB not_RB affected_VBN by_IN the_DT treatment_NN ,_, and_CC four_CD cases_NNS developed_VBD rheumatic_JJ articular_NN pains_NNS ._.
+The_DT Indian_JJ Plague_NNP Commissioners_NNP made_VBD trial_NN of_IN samples_NNS of_IN this_DT serum_NN ,_, kindly_RB placed_VBN at_IN their_PRP$ disposal_NN by_IN the_DT authorities_NNS of_IN the_DT Pasteur_NNP Institute_NNP in_IN Paris_NNP ._.
+Patients_NNS were_VBD treated_VBN by_IN Lieutenant_NNP Stewart_NNP Douglas_NNP ,_, I.M.S._NNP ,_, at_IN Banga-_NNP lore_NN in_IN December_NNP 1898_CD and_CC January_NNP 1899.12_CD The_DT cases_NNS in_IN the_DT South_NNP Camp_NNP Hospital_NNP were_VBD treated_VBN with_IN serum_NN ,_, those_DT in_IN the_DT North_NNP Camp_NNP Hospital_NNP were_VBD observed_VBN as_IN controls_NNS ;_: both_DT hospitals_NNS admitting_VBG a_DT similar_JJ class_NN of_IN patients_NNS ._.
+In_IN all_DT ,_, 49_CD plague_NN patients_NNS were_VBD treated_VBN ,_, these_DT being_VBG all_PDT the_DT cases_NNS of_IN undoubted_JJ plague_NN admitted_VBD ,_, save_VBP those_DT manifestly_RB convalescent_JJ or_CC in_IN articulo_JJ mortis_NN ._.
+Of_IN these_DT ,_, 31_CD died_VBD giving_VBG a_DT case-mortality_NN of_IN 61.2_CD per_IN cent_NN ._.
+The_DT serum_NN was_VBD adminis-_JJ tered_JJ once_IN a_DT day_NN ,_, the_DT quantity_NN given_VBN to_TO the_DT first_JJ 28_CD cases_NNS varied_VBD from_IN 10_CD c.c_NN ._.
+to_TO 20_CD c.c._NN ,_, and_CC to_TO the_DT remaining_VBG 21_CD cases_NNS 40_CD c.c_NN ._.
+on_IN the_DT first_JJ day_NN ,_, and_CC generally_RB 20_CD c.c_NN ._.
+on_IN each_DT subsequent_JJ day_NN ._.
+Seventeen_JJ patients_NNS received_VBD less_JJR than_IN 40_CD c.c_NN ._.
+of_IN serum_NN ,_, and_CC of_IN these_DT 10_CD died_VBD ,_, a_DT percentage_NN case-mortality_NN of_IN 58.8_CD ;_: while_IN 32_CD 7_CD patients_NNS received_VBD 40_CD c.c_NN ._.
+of_IN serum_NN or_CC more_JJR and_CC had_VBD 21_CD deaths_NNS ,_, a_DT percentage_NN case-_JJ mortality_NN of_IN 65.6_CD ._.
+With_IN the_DT exception_NN of_IN eight_CD all_DT were_VBD well_RB marked_VBN bubonic_JJ cases_NNS ._.
+For_IN the_DT purpose_NN of_IN comparison_NN the_DT Indian_JJ Plague_NNP Commissioners_NNP give_VBP the_DT following_NN table_NN which_WDT shows_VBZ the_DT admission_NN of_IN plague_NN patients_NNS to_TO the_DT North_NNP and_CC South_NNP Camp_NNP hospitals_NNS during_IN the_DT period_NN covered_VBN by_IN the_DT administration_NN of_IN serum_JJ :8_VBP The_DT following_NN shows_VBZ the_DT general_JJ result_NN :9_NNP uncertain_NN or_CC when_WRB the_DT patient_NN was_VBD actually_RB on_IN the_DT point_NN of_IN death_NN ._.
+The_DT serum_NN was_VBD given_VBN hypodermically_RB :_: at_IN first_JJ 20_CD c.c_NN ._.
+daily_RB in_IN one_CD dose_NN ;_: later_RB ,_, an_DT additional_JJ 10_CD c.c_NN ._.
+was_VBD given_VBN in_IN the_DT evening_NN ,_, and_CC later_RB still_RB the_DT morning_NN dose_NN was_VBD increased_VBN to_TO 30_CD c.c_NN ._.
+These_DT doses_NNS were_VBD finally_RB increased_VBN to_TO 40_CD c.c_NN ._.
+in_IN the_DT morning_NN and_CC 20_CD c.c_NN ._.
+at_IN night._JJ ``_``
+More_JJR than_IN half_PDT the_DT cases_NNS were_VBD treated_VBN with_IN the_DT later_JJ doses_NNS ._.
+``_`` 16_CD The_DT following_NN table_NN shows_VBZ the_DT result_NN :10_NNP chronic_JJ disease_NN induced_VBN by_IN the_DT injections_NNS ,_, associated_VBN with_IN wasting_NN and_CC swelling_NN of_IN the_DT joints_NNS ,_, and_CC their_PRP$ serum_NN therefore_NN was_VBD not_RB used_VBN ._.
+Serum_NN from_IN the_DT horses_NNS ,_, cattle_NNS and_CC sheep_NN was_VBD used_VBN in_IN a_DT large_JJ number_NN of_IN cases_NNS at_IN Poona_NNP in_IN the_DT autumn_NN of_IN 1897_CD ._.
+Preliminary_JJ experiments_NNS on_IN animals_NNS had_VBD proved_VBN its_PRP$ efficacy_NN in_IN small_JJ doses_NNS to_TO protect_VB against_IN lethal_JJ injections_NNS of_IN living_VBG plague_NN germs.19_NN It_PRP was_VBD first_RB used_VBN on_IN human_JJ beings_NNS in_IN the_DT Byculla_NNP Jail_NNP and_CC Arthur_NNP Road_NNP hospital_NN ,_, Bombay_NNP ,_, in_IN the_DT early_JJ part_NN of_IN the_DT same_JJ year_NN ._.
+On_IN account_NN of_IN the_DT small_JJ amount_NN of_IN serum_NN then_RB available_JJ no_DT clear_JJ indication_NN as_IN to_TO its_PRP$ usefulness_NN ,_, or_CC otherwise_RB ,_, could_MD at_IN that_DT time_NN be_VB obtained_VBN ._.
+The_DT serum_NN procured_VBD from_IN the_DT animals_NNS was_VBD therefore_RB stored_VBN in_IN hermetically_RB sealed_VBN test_NN tubes_NNS till_VBP a_DT sufficient_JJ amount_NN had_VBD accumulated_VBN for_IN the_DT purposes_NNS of_IN a_DT crucial_JJ test_NN ._.
+In_IN the_DT autumn_NN of_IN 1897_CD ,_, when_WRB plague_NN was_VBD on_IN the_DT increase_NN in_IN Poona_NNP ,_, an_DT opportunity_NN presented_VBD itself_PRP of_IN making_VBG a_DT series_NN of_IN systematic_JJ observations_NNS on_IN the_DT plague_NN patients_NNS admitted_VBD to_TO the_DT special_JJ hospital_NN there_RB ._.
+Mr._NNP Haffkine_NNP ,_, accompanied_VBN by_IN the_DT present_JJ writer_NN ,_, accordingly_RB visited_VBD the_DT plague_NN hospital_NN every_DT morning_NN ,_, and_CC by_IN the_DT kindness_NN of_IN Captain_NNP J._NNP L._NNP T._NNP Jones_NNP ,_, M.B._NNP ,_, I.M.S._NNP ,_, in_IN charge_NN of_IN the_DT hospital_NN ,_, was_VBD enabled_VBN to_TO treat_VB with_IN this_DT serum_NN every_DT alternate_NN patient_NN admitted_VBN to_TO the_DT hospital_NN during_IN the_DT three_CD hours_NNS or_CC so_RB we_PRP remained_VBD there_EX daily_RB ._.
+As_IN most_JJS of_IN the_DT cases_NNS were_VBD admitted_VBN in_IN the_DT morning_NN as_IN the_DT result_NN of_IN house-_JJ to-house_JJ visitation_NN by_IN the_DT authorities_NNS ,_, and_CC as_IN some_DT 20_CD or_CC 30_CD patients_NNS were_VBD admitted_VBN daily_RB ,_, it_PRP was_VBD possible_JJ to_TO obtain_VB in_IN a_DT fortnight_NN a_DT decided_JJ opinion_NN on_IN the_DT usefulness_NN of_IN the_DT serum_NN ._.
+No_DT selection_NN was_VBD made_VBN except_IN when_WRB two_CD patients_NNS arrived_VBD simultaneously_RB ._.
+In_IN such_PDT a_DT case_NN that_WDT patient_NN was_VBD chosen_VBN for_IN injection_NN who_WP seemed_VBD to_TO us_PRP to_TO be_VB in_IN the_DT more_RBR serious_JJ condition_NN ._.
+In_IN this_DT way_NN close_RB on_IN 200_CD cases_NNS of_IN plague_NN passed_VBN through_IN our_PRP$ hands_NNS ,_, half_NN of_IN which_WDT were_VBD treated_VBN with_IN varying_VBG amounts_NNS of_IN serum_NN ,_, often_RB in_IN very_RB large_JJ amounts_NNS ._.
+No_DT evidence_NN from_IN clinical_JJ observation_NN was_VBD obtained_VBN of_IN any_DT effect_NN attributable_JJ to_TO the_DT serum_NN ,_, and_CC the_DT case-mortality_NN was_VBD ,_, probably_RB on_IN account_NN of_IN the_DT method_NN of_IN selection_NN noted_VBN above_IN ,_, some_DT 14_CD per_IN cent_NN ._.
+higher_RBR in_IN those_DT treated_VBN with_IN serum_NN than_IN in_IN the_DT controls_NNS ._.
+A_DT hint_NN of_IN beneficial_JJ action_NN was_VBD obtained_VBN in_IN the_DT case_NN of_IN patients_NNS treated_VBN with_IN the_DT sheep_JJ serum_NN ;_: but_CC none_NN in_IN the_DT case_NN of_IN those_DT injected_VBN with_IN the_DT cattle_NNS or_CC horse_NN serum_NN prepared_VBN in_IN this_DT way_NN ._.
+No_DT further_JJ experiments_NNS were_VBD therefore_RB performed_VBN with_IN this_DT serum_NN ._.
+Lustig_NNP 's_POS Serum_NNP ._.
+Professor_NNP Lustig_NNP of_IN Florence_NNP ,_, having_VBG by_IN experiment_NN on_IN small_JJ animals_NNS arrived_VBN at_IN the_DT conclusion_NN that_IN a_DT curative_JJ serum_NN for_IN plague_NN could_MD be_VB prepared_VBN by_IN the_DT injection_NN of_IN horses_NNS with_IN nucleo-albumen_NNS derived_VBN from_IN masses_NNS of_IN plague_NN germs_NNS treated_VBN with_IN certain_JJ chemicals_NNS ,_, was_VBD sent_VBN to_TO Bombay_NNP by_IN the_DT British_JJ Government_NNP 11_CD in_IN June_NNP 1897_CD for_IN the_DT purpose_NN of_IN trying_VBG his_PRP$ serum_NN on_IN human_JJ beings_NNS ._.
+By_IN this_DT time_NN the_DT plague_JJ epidemic_NN of_IN the_DT first_JJ year_NN had_VBD run_VBN its_PRP$ course_NN and_CC only_RB a_DT few_JJ sporadic_JJ cases_NNS were_VBD available_JJ for_IN this_DT purpose_NN ._.
+Dr._NNP Choksy_NNP ,_, the_DT Medical_NNP Officer_NNP in_IN charge_NN of_IN the_DT Arthur_NNP Road_NNP Hospital_NNP ,_, where_WRB it_PRP was_VBD first_RB tried_VBN ,_, reported_VBD that_IN it_PRP was_VBD ``_`` the_DT only_JJ serum_NN which_WDT gave_VBD anything_NN like_IN satisfactory_JJ results_NNS as_IN out_IN of_IN 7_CD cases_NNS treated_VBN with_IN this_DT serum_NN 6_CD recovered_VBN ,_, and_CC at_IN Lanowli_NNP 16_CD cases_NNS were_VBD treated_VBN and_CC 12_CD recovered_VBN ._.
+``_`` 20_CD Professor_NNP Lustig_NNP reports21_NN that_IN in_IN Bombay_NNP and_CC Poona_NNP he_PRP treated_VBD 30_CD patients_NNS with_IN 24_CD recoveries_NNS ._.
+On_IN the_DT strength_NN of_IN these_DT favourable_JJ results_NNS and_CC the_DT report_NN of_IN further_JJ experiments_NNS on_IN animals_NNS in_IN Florence_NNP ,_, the_DT Municipal_NNP Corporation_NNP of_IN Bombay_NNP asked_VBD Professor_NNP Lustig_NNP to_TO prepare_VB serum_NN for_IN them_PRP in_IN Florence_NNP and_CC agreed_VBD to_TO engage_VB the_DT services_NNS of_IN Dr._NNP (_( now_RB Professor_NNP )_) G._NNP Galeotti_NNP ,_, Professor_NNP Lustig_NNP 's_POS Assistant_NNP ,_, and_CC to_TO arrange_VB for_IN the_DT manufacture_NN of_IN serum_NN on_IN the_DT spot_NN ._.
+Dr._NNP Galeotti_NNP and_CC his_PRP$ Assistant_NNP Dr._NNP Polverini_NNP arrived_VBD in_IN Bombay_NNP on_IN the_DT 11th_CD of_IN March_NNP 1898_CD bringing_VBG a_DT supply_NN of_IN serum_NN which_WDT had_VBD been_VBN made_VBN in_IN Florence_NNP by_IN Professor_NNP Lustig_NNP ._.
+The_DT cases_NNS treated_VBN with_IN this_DT Florence-made_JJ serum_NN numbered_VBD 257_CD ,_, all_DT under_IN the_DT care_NN of_IN Dr._NNP Choksy_NNP at_IN the_DT Arthur_NNP Road_NNP Municipal_NNP Hospital_NNP ,_, and_CC admitted_VBN in_IN the_DT period_NN from_IN March_NNP to_TO October_NNP 1898_CD ._.
+The_DT serum_NN was_VBD given_VBN hypodermi_NNS cally_RB in_IN doses_NNS of_IN from_IN 10_CD to_TO 30_CD c.c_NN ._.
+night_NN and_CC morning_NN ._.
+``_`` The_DT patients_NNS to_TO whom_WP the_DT serum_NN was_VBD therapeutically_RB administered_VBN were_VBD to_TO some_DT extent_NN selected_VBN ,_, all_DT moribund_NN patients_NNS being_VBG excluded_VBN ,_, except_IN in_IN March_NNP and_CC part_NN of_IN April_NNP ._.
+The_DT case-mortality_NN of_IN the_DT selected_VBN patients_NNS who_WP were_VBD submitted_VBN to_TO the_DT serum_NN treat_NN ment_NN was_VBD compared_VBN with_IN the_DT case-mortality_NN in_IN the_DT remainder_NN of_IN the_DT hospital_NN patients_NNS ,_, including_VBG ,_, as_IN this_DT did_VBD ,_, the_DT moribund_NN patients_NNS who_WP were_VBD excluded_VBN from_IN the_DT serum_NN group_NN ._.
+The_DT results_NNS as_IN set_JJ forth_NN by_IN Dr._NNP Choksy_NNP were_VBD as_IN follows_VBZ ''_'' 22:12_CD unconsciously_RB ,_, have_VBP operated_VBN in_IN the_DT direction_NN of_IN including_VBG within_IN the_DT serum_NN group_NN the_DT milder_NN ,_, to_TO the_DT exclusion_NN of_IN the_DT severer_NN ,_, cases_NNS of_IN plague_NN ._. ''_''
+They_PRP therefore_RB believe_VBP that_IN these_DT statistics_NNS ``_`` do_VBP not_RB afford_VB any_DT conclusive_JJ evidence_NN of_IN the_DT efficacy_NN of_IN Lustig_NNP 's_POS serum_NN ._. ''_''
+The_DT Bombay_NNP Municipal_NNP Corporation_NNP having_VBG resolved_VBN to_TO start_VB the_DT manufac_JJ ture_NN of_IN Lustig_NNP 's_POS serum_NN on_IN the_DT spot_NN ,_, work_NN was_VBD begun_VBN with_IN five_CD horses_NNS on_IN the_DT 1st_CD of_IN November_NNP 1898_CD ._.
+Drs_NNP ._.
+Galeotti_NNP and_CC Polverini_NNP were_VBD in_IN charge_NN of_IN the_DT labo_JJ ratory_NN and_CC Professor_NNP Lustig_NNP himself_PRP came_VBD to_TO Bombay_NNP in_IN January_NNP 1899_CD to_TO see_VB its_PRP$ working_NN and_CC found_VBD it_PRP ``_`` completely_RB satisfactory_JJ in_IN every_DT regard_NN ._. ''_''
+Later_RB in_IN the_DT year_NN Dr._NNP Galeotti_NNP had_VBD to_TO return_VB to_TO Italy_NNP ,_, when_WRB Dr._NNP Polverini_NNP ,_, his_PRP$ assistant_NN ,_, assumed_VBN charge_NN and_CC with_IN the_DT assistance_NN of_IN Dr._NNP A._NNP Mayr_NNP was_VBD responsible_JJ for_IN the_DT production_NN of_IN the_DT serum_NN till_VBZ the_DT close_NN of_IN the_DT Municipal_NNP Laboratory_NNP in_IN June_NNP 1902_CD ._.
+Dr._NNP A._NN Mayr_NNP has_VBZ kindly_RB written_VBN out_RP a_DT clear_JJ statement_NN of_IN the_DT methods_NNS used_VBN by_IN them_PRP in_IN the_DT immunisation_NN of_IN the_DT horses_NNS (_( vide_IN Appendix_NNP A_NNP )_) ,_, which_WDT is_VBZ most_RBS valuable_JJ as_IN giving_VBG the_DT results_NNS of_IN the_DT experience_NN accumulated_VBN in_IN this_DT matter_NN ._.
+The_DT first_JJ trial_NN of_IN Lustig_NNP 's_POS serum_NN as_IN locally_RB manufactured_VBN in_IN Bombay_NNP was_VBD made_VBN in_IN the_DT period_NN from_IN February_NNP to_TO April_NNP 1899_CD ,_, and_CC relates_VBZ to_TO 403_CD serum-_JJ treated_JJ patients_NNS admitted_VBN to_TO the_DT Arthur_NNP Road_NNP Hospital_NNP under_IN the_DT care_NN of_IN Dr._NNP Choksy_NNP ._.
+``_`` In_IN this_DT series_NN of_IN observations_NNS only_RB patients_NNS admitted_VBN in_IN the_DT acute_JJ stages_NNS of_IN the_DT disease_NN and_CC in_IN a_DT non-moribund_JJ condition_NN were_VBD treated_VBN with_IN the_DT serum_NN ._.
+The_DT residuum_NN of_IN patients_NNS admitted_VBN to_TO the_DT hospital_NN during_IN the_DT corresponding_JJ period_NN was_VBD ,_, as_IN in_IN the_DT series_NN of_IN observations_NNS that_WDT have_VBP just_RB been_VBN considered_VBN ,_, taken_VBN as_IN control_NN ._.
+``_`` 24_CD The_DT result_NN was_VBD as_IN follows_VBZ :13_RB admitted_VBN to_TO the_DT latter_JJ institution_NN were_VBD chosen_VBN for_IN serum_NN treatment_NN ,_, an_DT opportunity_NN was_VBD not_RB afforded_VBN for_IN an_DT appreciable_JJ increase_NN in_IN case-mortality_NN in_IN the_DT large_JJ number_NN of_IN cases_NNS not_RB so_RB treated_JJ ._.
+They_PRP ,_, therefore_RB ,_, conclude_VBP that_IN this_DT second_JJ series_NN of_IN observations_NNS can_MD not_RB be_VB regarded_VBN as_IN affording_VBG conclusive_JJ evidence_NN of_IN an_DT advantage_NN accruing_VBG from_IN serum_JJ treatment_NN ._.
+The_DT third_JJ series_NN of_IN observations_NNS made_VBN at_IN the_DT Arthur_NNP Road_NNP Hospital_NNP is_VBZ dealt_VBN with_IN at_IN length_NN by_IN Mr._NNP Haffkine_NNP in_IN his_PRP$ report_NN (_( vide_JJ p._RB 28_CD )_) and_CC need_MD not_RB therefore_VB be_VB referred_VBN to_TO here_RB ._.
+In_IN the_DT other_JJ hospitals_NNS in_IN Bombay_NNP ,_, Lustig_NNP 's_POS serum_NN was_VBD used_VBN as_IN follows_VBZ 25_CD :14_IN the_DT patient_NN not_RB absolutely_RB moribund_NN ,_, was_VBD submitted_VBN to_TO the_DT injections_NNS ._.
+``_`` 27_CD Of_IN these_DT 10_CD died_VBD ,_, which_WDT is_VBZ equivalent_JJ to_TO a_DT case-mortality_NN of_IN 77_CD per_IN cent_NN ._.
+These_DT cases_NNS were_VBD injected_VBN by_IN Drs_NNP ._.
+Galeotti_NNP and_CC Polverini_NNP with_IN Florence-made_NNP serum_NN ._.
+In_IN the_DT Modikhana_NNP Hospital_NNP in_IN 1900_CD a_DT fairly_RB extensive_JJ trial_NN of_IN Lustig_NNP serum_NN as_IN made_VBN in_IN Bombay_NNP was_VBD carried_VBN out_RP by_IN Dr._NNP D._NNP A._NNP Turkhud_NNP ,_, M.B_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, in_IN charge_NN of_IN that_DT plague_JJ hospital_NN ._.
+The_DT method_NN of_IN selection_NN was_VBD as_IN follows_VBZ :15_JJ injections_NNS before_IN 8_CD o'clock,16_NN A_NNP capsule_NN of_IN blood_NN was_VBD taken_VBN from_IN each_DT patient_NN on_IN admission_NN ,_, and_CC sent_VBD to_TO the_DT Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ,_, where_WRB it_PRP was_VBD examined_VBN by_IN culture_NN and_CC injection_NN into_IN animals_NNS ._.
+The_DT results_NNS are_VBP shown_VBN below_IN :17_PDT The_DT difference_NN in_IN these_DT two_CD sets_NNS of_IN figures_NNS may_MD be_VB accounted_VBN for_IN on_IN the_DT supposition_NN that_IN Dr._NNP Choksy_NNP being_VBG rightly_RB regarded_VBN as_IN an_DT expert_NN in_IN plague_NN ,_, was_VBD called_VBN in_IN consultation_NN to_TO see_VB cases_NNS where_WRB the_DT treatment_NN of_IN others_NNS had_VBD failed_VBN ._.
+As_IN regards_NNS the_DT effects_NNS of_IN early_JJ treatment_NN on_IN these_DT private_JJ patients_NNS ,_, Dr._NNP Choksy_NNP remarks_NNS :18_VBD The_DT second_JJ patient_NN was_VBD a_DT male_NN ,_, aged_VBD 35_CD ,_, admitted_VBN to_TO hospital_VB on_IN the_DT 11th_CD February_NNP 1901_CD in_IN the_DT second_JJ day_NN of_IN illness_NN and_CC treated_VBN on_IN the_DT 12th_CD idem_NN ._.
+The_DT patient_NN was_VBD a_DT strong_JJ man_NN ,_, quite_RB sensible_JJ ,_, and_CC a_DT markedly_RB milder_NN case_NN than_IN the_DT former_JJ one_CD ._.
+Temperature_NN ranged_VBD between_IN 101.2°_CD and_CC 102.8º_CD F._NNP ,_, pulse_RB 132_CD fairly_RB strong_JJ ,_, respiration_NN 25_CD per_IN minute_NN ._.
+Bubo_NNP in_IN left_JJ femoral_JJ region_NN ,_, painful_JJ and_CC 19_CD metal_NN sieve_NN with_IN a_DT mesh_NN of_IN 0.1_CD m.m._NN ,_, or_CC through_IN a_DT piece_NN of_IN sterilised_JJ cloth_NN ._.
+It_PRP is_VBZ inoculated_VBN intravenously_RB in_IN increasing_VBG quantities_NNS ,_, beginning_VBG with_IN 5_CD c.c._NN ,_, and_CC the_DT animals_NNS then_RB give_VBP a_DT serum_NN of_IN exceptional_JJ curative_JJ value_NN ._. ''_''
+Brazil_NNP 's_POS Serum_NNP ._.
+A_DT trial_NN consignment_NN of_IN this_DT serum_NN was_VBD received_VBN through_IN the_DT Secretary_NNP of_IN State_NNP for_IN India_NNP towards_VBD the_DT end_NN of_IN 1902_CD ._.
+The_DT consignment_NN consisted_VBD of_IN 36_CD sealed_JJ test_NN tubes_NNS of_IN serum_NN ,_, but_CC unfortunately_RB only_RB 8_CD were_VBD found_VBN fit_NN for_IN use_NN on_IN opening_VBG the_DT boxes_NNS ._.
+Under_IN Mr._NNP Haffkine_NNP 's_POS directions_NNS two_CD cases_NNS were_VBD chosen_VBN ``_`` of_IN a_DT typically_RB severe_JJ type_NN ,_, in_IN order_NN to_TO avoid_VB such_JJ as_IN might_MD recover_VB under_IN treatment_NN without_IN serum_NN ._. ''_''
+One_CD received_VBN hypodermically_RB 66_CD c.c_NN ._.
+of_IN serum_NN ,_, the_DT other_JJ 10_CD c.c_NN ._.
+Both_DT died_VBD ,_, and_CC no_DT evidence_NN was_VBD found_VBN either_RB clinically_RB or_CC otherwise_RB of_IN benefit_NN attri-_JJ butable_NN to_TO the_DT serum_NN treatment_NN ._.
+Both_DT were_VBD treated_VBN in_IN the_DT Modikhana_NNP Hospital_NNP ,_, under_IN the_DT observation_NN of_IN Dr._NNP Costello_NNP ._.
+In_IN August_NNP 1903_CD another_DT consignment_NN of_IN 600_CD tubes_NNS was_VBD received_VBN with_IN which_WDT the_DT trial_NN reported_VBD on_IN by_IN Mr._NNP Haffkine_NNP and_CC Dr._NNP West_NNP was_VBD made_VBN ._.
+(_( Vide_NNP p.47_RB ._. )_)
+The_DT mode_NN of_IN preparation_NN of_IN this_DT serum_NN is_VBZ thus_RB described_VBN by_IN Dr._NNP Vital_NNP Brazil_NNP ,_, Director_NNP of_IN the_DT State_NNP Serum_NNP Institute_NNP ,_, San_NNP Paulo_NNP ,_, Brazil33_NNP :20_NNP were_VBD not_RB in_IN all_DT respects_NNS strictly_RB comparable_JJ for_IN one_CD reason_NN or_CC another_DT with_IN those_DT receiving_VBG the_DT serum_NN treatment_NN ._.
+The_DT tables_NNS I_PRP and_CC II_NNP below_IN show_NN at_IN a_DT glance_NN the_DT results_NNS obtained_VBN in_IN each_DT case_NN ._.
+TABLE_NNP I.21_NNP TABLE_NNP II.22_NNP therefore_RB to_TO study_VB a_DT large_JJ series_NN of_IN cases_NNS treated_VBN by_IN ordinary_JJ methods_NNS and_CC by_IN serum_JJ side_NN by_IN side_NN ,_, in_IN a_DT strictly_RB scientific_JJ manner_NN ,_, before_IN a_DT conclusion_NN could_MD be_VB arrived_VBN at_IN ._.
+This_DT has_VBZ ,_, I_PRP think_VBP ,_, been_VBN to_TO a_DT large_JJ extent_NN secured_VBN in_IN the_DT case_NN of_IN the_DT trials_NNS enumerated_VBD in_IN Table_NNP I_PRP ,_, and_CC it_PRP is_VBZ by_IN a_DT consideration_NN of_IN these_DT alone_RB ,_, that_IN a_DT true_JJ estimate_NN of_IN the_DT worth_NN of_IN serum_JJ treatment_NN for_IN plague_NN as_IN at_IN present_JJ practised_VBN can_MD be_VB reached_VBN ._.
+To_TO take_VB first_RB the_DT case_NN of_IN the_DT Roux_NNP Yersin_NNP serum_NN ,_, it_PRP is_VBZ seen_VBN that_IN in_IN all_PDT the_DT trials_NNS ,_, save_VBP one_CD ,_, the_DT case-mortality_NN of_IN those_DT treated_VBN with_IN serum_NN is_VBZ as_RB high_JJ or_CC higher_JJR than_IN that_DT of_IN the_DT control_NN patients_NNS ._.
+The_DT one_CD exception_NN is_VBZ in_IN the_DT series_NN of_IN 28_CD cases_NNS treated_VBN in_IN Bombay_NNP by_IN the_DT Indian_NNP Plague_NNP Commission_NNP ,_, in_IN which_WDT one_CD patient_NN fewer_JJR on_IN the_DT serum_JJ side_NN died_VBD than_IN among_IN the_DT controls_NNS ._.
+The_DT element_NN of_IN chance_NN must_MD be_VB reckoned_VBN with_IN here_RB ,_, as_IN the_DT numbers_NNS are_VBP small_JJ ._.
+With_IN regard_NN to_TO the_DT trial_NN of_IN the_DT serum_NN sent_VBD personally_RB by_IN Dr._NNP Roux_NNP and_CC dealt_NN with_IN fully_RB in_IN Dr._NNP West_NNP 's_POS report_NN ,_, it_PRP is_VBZ a_DT matter_NN for_IN regret_NN that_WDT permission_NN to_TO employ_VB the_DT intravenous_JJ method_NN was_VBD not_RB obtained_VBN at_IN an_DT earlier_JJR stage_NN of_IN the_DT experiment_NN ,_, so_IN that_IN a_DT greater_JJR number_NN of_IN patients_NNS might_MD have_VB been_VBN thus_RB treated_VBN ._.
+Dr._NNP Roux_NNP maintains_VBZ that_IN subcutaneous_JJ injection_NN ,_, entailing_VBG as_IN it_PRP does_VBZ slow_JJ absorption_NN of_IN the_DT serum_NN into_IN the_DT circulation_NN ,_, gives_VBZ time_NN for_IN the_DT formation_NN in_IN the_DT patient_NN of_IN anti-bodies_NNS to_TO the_DT serum_JJ anti-toxin_NN so_IN that_IN the_DT plague_NN bacilli_NN in_IN the_DT blood_NN are_VBP not_RB affected_VBN by_IN the_DT serum_NN ._.
+They_PRP may_MD even_RB ,_, as_IN Ainley_NNP Walker34_NNP has_VBZ pointed_VBN out_RP ,_, become_RB accustomed_JJ to_TO the_DT presence_NN of_IN the_DT anti-toxin_NN and_CC thereby_RB have_VB their_PRP$ virulence_NN increased_VBN ._.
+Roux_NNP maintains_VBZ that_IN the_DT full_JJ dose_NN of_IN serum_NN should_MD be_VB injected_VBN straight_RB into_IN the_DT blood_NN stream_NN ,_, so_IN that_IN the_DT bacilli_NN may_MD be_VB overwhelmed_VBN at_IN once_RB ,_, by_IN mass-action_NN as_IN it_PRP were_VBD ._.
+If_IN the_DT patients_NNS dealt_VBP with_IN in_IN this_DT trial_NN be_VB divided_VBN into_IN three_CD groups_NNS ,_, according_VBG as_IN they_PRP were_VBD treated_VBN :23_NN From_IN a_DT study_NN of_IN the_DT case-mortality_NN of_IN the_DT control_NN cases_NNS corresponding_VBG to_TO those_DT treated_VBN with_IN serum_NN as_IN above_IN divided_NN ,_, it_PRP is_VBZ evident_JJ that_IN the_DT epidemic_NN was_VBD declining_VBG in_IN severity_NN as_IN time_NN went_VBD on_IN ._.
+It_PRP is_VBZ not_RB therefore_RB possible_JJ to_TO say_VB that_IN the_DT lessened_JJ case-mortality_NN shown_VBN by_IN the_DT 13_CD cases_NNS treated_VBD according_VBG to_TO (_( c_NN )_) is_VBZ due_JJ to_TO that_DT treatment_NN ,_, for_IN a_DT corresponding_NN and_CC even_RB greater_JJR lessening_NN of_IN the_DT case-_JJ mortality_NN is_VBZ exhibited_VBN by_IN the_DT 13_CD alternate_NN control_NN cases_NNS receiving_VBG the_DT ordinary_JJ treatment_NN ._.
+We_PRP must_MD ,_, therefore_RB ,_, reluctantly_RB conclude_VBP that_IN the_DT serum_NN treatment_NN ,_, as_IN judged_VBN by_IN these_DT figures_NNS ,_, did_VBD not_RB affect_VB the_DT case-mortality_NN in_IN the_DT slightest_JJS degree_NN ._.
+In_IN three_CD out_IN of_IN the_DT four_CD trials_NNS made_VBN with_IN Lustig_NNP 's_POS serum_NN we_PRP find_VBP that_IN the_DT case-mortality_NN of_IN the_DT serum-treated_JJ patients_NNS is_VBZ higher_JJR than_IN among_IN those_DT receiving_VBG ordinary_JJ treatment_NN ._.
+The_DT exceptional_JJ case_NN is_VBZ that_IN treated_VBN at_IN length_NN in_IN the_DT report_NN forming_VBG the_DT first_JJ of_IN those_DT published_VBN in_IN this_DT memoir_NN ._.
+From_IN Table_NNP II_NNP of_IN this_DT report_NN we_PRP learn_VBP that_IN of_IN the_DT category_NN showing_VBG the_DT lowest_JJS mortality_NN (_( i.e._JJ ,_, those_DT in_IN whom_WP both_DT pulse_NN and_CC respiration_NN were_VBD slow_JJ )_) the_DT serum_NN group_NN of_IN patients_NNS had_VBD 46_CD ,_, while_IN the_DT control_NN group_NN comprises_VBZ only_RB 24_CD such_JJ cases_NNS ._.
+Table_JJ III_NNP of_IN the_DT same_JJ report_NN shows_VBZ that_IN cases_NNS without_IN buboes_NNS were_VBD ``_`` practi-_JJ cally_RB all_DT fatal_NN ._. ''_''
+Of_IN these_DT the_DT controls_NNS had_VBD 29_CD ,_, while_IN the_DT serum-treated_JJ cases_NNS had_VBD only_RB 5_CD ._.
+Table_JJ V_NNP shows_VBZ that_IN the_DT sex_NN distribution_NN likewise_NN is_VBZ in_IN favour_NN of_IN the_DT serum_NN cases_NNS ._.
+From_IN a_DT consideration_NN of_IN these_DT tables_NNS and_CC the_DT details_NNS set_VBD forth_NN in_IN Mr._NNP Haffkine_NNP 's_POS report_NN we_PRP must_MD reluctantly_RB arrive_VB at_IN the_DT conclusion_NN ,_, that_IN ,_, judged_VBN by_IN these_DT figures_NNS alone_RB ,_, there_EX is_VBZ no_DT certain_JJ evidence_NN that_IN the_DT serum_NN is_VBZ efficient_JJ ._.
+The_DT trial_NN made_VBD with_IN Terni_NNP 's_POS serum_NN shows_VBZ the_DT difference_NN in_IN favour_NN of_IN the_DT injected_JJ patients_NNS to_TO be_VB 0.91_CD per_IN cent_NN ._.
+only_RB ,_, an_DT amount_NN which_WDT can_MD not_RB be_VB regarded_VBN as_IN of_IN the_DT slightest_JJS significance_NN ._.
+As_IN regards_NNS Brazil_NNP 's_POS serum_NN it_PRP seems_VBZ highly_RB problematical_JJ if_IN the_DT 2.85_CD per_IN cent_NN ._.
+of_IN the_DT life-saving_JJ shown_VBN amongst_IN the_DT treated_JJ cases_NNS can_MD be_VB credited_VBN to_TO the_DT effects_NNS of_IN the_DT treatment_NN ._.
+For_IN in_IN one_CD hospital_NN we_PRP find_VBP that_IN of_IN the_DT serum-treated_JJ patients_NNS ten_VBP per_IN cent_NN ._.
+more_RBR died_JJ ,_, while_IN in_IN the_DT other_JJ ,_, eight_CD per_IN cent_NN ._.
+fewer_JJR of_IN the_DT cases_NNS had_VBD a_DT fatal_JJ termination_NN ._.
+From_IN the_DT stand-point_NN of_IN clinical_JJ evidence_NN ,_, however_RB ,_, there_EX is_VBZ more_JJR hope_NN in_IN the_DT outlook_NN ._.
+Almost_RB all_PDT the_DT clinicians_NNS who_WP have_VBP reported_VBN on_IN the_DT use_NN of_IN serum_NN in_IN their_PRP$ hospitals_NNS or_CC in_IN private_JJ practice_NN are_VBP emphatic_JJ that_IN it_PRP acts_VBZ favourably_RB on_IN the_DT course_NN of_IN the_DT disease_NN ._.
+It_PRP seems_VBZ ,_, for_IN instance_NN ,_, that_IN the_DT serum-treated_JJ cases_NNS live_VBP longer_JJR than_IN the_DT control_NN cases_NNS ._.
+24_CD The_DT following_JJ statement_NN brings_VBZ this_DT out_RP :25_NN In_IN such_JJ a_DT virulent_JJ disease_NN as_IN plague_NN is_VBZ in_IN India_NNP ,_, these_DT are_VBP no_DT small_JJ gains_NNS ,_, but_CC it_PRP must_MD be_VB remembered_VBN that_IN 60_CD per_IN cent_NN ._.
+of_IN all_DT bubonic_JJ cases_NNS are_VBP at_IN the_DT time_NN of_IN admission_NN to_TO hospital_VB septicaemic_JJ ._.
+It_PRP has_VBZ been_VBN urged_VBN by_IN certain_JJ competent_NN authorities_NNS (_( e.g._NN ,_, Roux_NNP )_) that_IN it_PRP is_VBZ quite_RB out_IN of_IN the_DT question_NN to_TO expect_VB to_TO get_VB any_DT results_NNS with_IN cases_NNS far_RB advanced_VBD in_IN the_DT disease_NN 37_CD and_CC that_IN therefore_VBD the_DT alternate_NN method_NN hitherto_NN tried_VBN in_IN Indian_JJ hospitals_NNS is_VBZ not_RB one_CD to_TO bring_VB out_RP the_DT true_JJ value_NN of_IN serum_JJ treatment_NN ._.
+But_CC perhaps_RB it_PRP would_MD be_VB possible_JJ to_TO get_VB an_DT experienced_JJ clinician_NN to_TO select_VB such_JJ cases_NNS as_IN he_PRP deemed_VBD suitable_JJ for_IN serum_NN treatment_NN and_CC to_TO admit_VB them_PRP to_TO a_DT separate_JJ ward_NN where_WRB they_PRP could_MD be_VB submitted_VBN to_TO the_DT alternate_JJ method_NN of_IN treatment_NN by_IN an_DT independent_JJ observer_NN ._.
+When_WRB comparing_VBG the_DT effects_NNS of_IN the_DT various_JJ sera_NN as_IN described_VBN in_IN this_DT memoir_NN ,_, it_PRP is_VBZ necessary_JJ to_TO remember_VB that_IN they_PRP differed_VBD much_RB as_IN regards_NNS freshness_NN ._.
+Thus_RB Lustig_NNP 's_POS serum_NN being_VBG made_VBN locally_RB was_VBD often_RB used_VBN within_IN a_DT few_JJ days_NNS of_IN separa-_JJ tion_NN from_IN the_DT blood_NN ;_: Brazil_NNP 's_POS serum_NN had_VBD been_VBN kept_VBN for_IN six_CD months_NNS in_IN the_DT ice_NN chest_NN after_IN receipt_NN in_IN India_NNP ,_, and_CC so_RB on_IN ._.
+Particulars_NNS as_IN to_TO date_NN of_IN receipt_NN and_CC use_NN will_MD be_VB found_VBN in_IN the_DT detailed_JJ reports_NNS ._.
+In_IN view_NN of_IN the_DT somewhat_RB discouraging_JJ results_NNS obtained_VBD among_IN hospital_JJ patients_NNS in_IN India_NNP ,_, it_PRP seems_VBZ necessary_JJ to_TO commence_VB anew_RB the_DT study_NN of_IN the_DT serum_JJ therapy_NN of_IN plague_NN ._.
+This_DT ,_, as_IN suggested_VBN by_IN the_DT Indian_NNP Plague_NNP Commission_NNP ,_, should_MD be_VB done_VBN by_IN studying_VBG the_DT action_NN of_IN plague_NN toxines_NNS on_IN animals_NNS and_CC the_DT blood_NN changes_NNS taking_VBG place_NN in_IN men_NNS and_CC animals_NNS injected_VBN with_IN living_NN plague_NN or_CC its_PRP$ toxines_NNS ._.
+It_PRP would_MD be_VB necessary_JJ also_RB to_TO find_VB out_RP whether_IN the_DT insusceptible_JJ horse_NN is_VBZ the_DT best_JJS manufacturer_NN of_IN plague_NN curative_JJ serum_NN ._.
+Brazil_NNP and_CC Haffkine_NNP seem_VBP to_TO have_VB been_VBN the_DT only_JJ experimenters_NNS with_IN serum_NN from_IN animals_NNS other_JJ than_IN the_DT horse_NN ._.
+Judged_VBN by_IN the_DT effect_NN of_IN serum_NN on_IN rabbits_NNS it_PRP appears_VBZ 38_CD that_IN the_DT toxicity_NN of_IN serum_NN from_IN various_JJ species_NNS of_IN animals_NNS may_MD be_VB arranged_VBN in_IN the_DT following_JJ order_NN of_IN decreasing_VBG virulence_NN ,_, viz.,26_NN REFERENCES_NNP TO_NNP INTRODUCTION_NNP ._.
+1_CD Report_NNP of_IN the_DT Indian_NNP Plague_NNP Commission_NNP ,_, Vol_NNP ._.
+III_NNP ,_, p._NN 382_CD ,_, Note_NNP 1_CD ._.
+Vide_NNP also_RB La_NNP Peste_NNP Bubonique_NNP ,_, Par_NNP M._NNP M._NNP Yersin_NNP ,_, Calmette_NNP et_FW Borrel_NNP ,_, Annales_NNP de_FW l_NN '_'' Institut_NNP Pasteur_NNP ,_, 1895_CD ,_, p._VBD 591_CD ._.
+2_CD Gatacre_NNP 's_POS Report_NNP ,_, pp_NN ._.
+145-6_JJ ._.
+``_`` Times_NNS of_IN India_NNP ''_'' Press_NNP ,_, Bombay_NNP ,_, 1897_CD ._.
+3_CD Report_NNP of_IN the_DT Indian_NNP Plague_NNP Commission_NNP ,_, Vol_NNP ._.
+I_PRP ,_, p._RB 395_CD ,_, also_RB vide_IN The_DT Bombay_NNP Plague_NNP ,_, Condon_NNP ,_, 1900_CD ,_, p._VBZ 85_CD ,_, and_CC General_NNP Gatacre_NNP 's_POS Report_NNP ,_, 1897_CD ,_, pp_NN ._.
+78_CD and_CC 80_CD ._.
+4_CD Indian_JJ Plague_NNP Commission_NNP Report_NNP ,_, Vol_NNP ._.
+V_NNP ,_, p._VBD 308_CD ._.
+5_CD Ibid_NNP ,_, Vol_NNP ._.
+V_NNP ,_, p._NN 298_CD ,_, and_CC Vol_NNP ._.
+III_NNP ,_, p._VBD 380_CD ._.
+6_CD Ibid_NNP ,_, Vol_NNP ._.
+V_NNP ,_, p._VBD 299_CD ._.
+7_CD Ibid_NNP ,_, Vol_NNP ._.
+V_NNP ,_, p._VBD 300_CD ._.
+8_CD Ibid_NNP ,_, Vol_NNP ._.
+V_NNP ,_, p._VBD 301_CD ._.
+9_CD Ibid_NNP ,_, Vol_NNP ._.
+III_NNP ,_, p._VBZ 136_CD and_CC V_NNP ,_, p._VBD 303_CD ._.
+10_CD Ibid_NNP ,_, Vol_NNP ._.
+V_NNP ,_, p._VBD 306_CD ._.
+11_CD Ibid_NNP ,_, Vol_NNP ._.
+V_NNP ,_, p._VBD 307_CD ._.
+12_CD Ibid_NNP ,_, Vol_NNP ._.
+III_NNP ,_, pp_NN ._.
+59327_CD 30_CD In_IN a_DT letter_NN to_TO the_DT writer_NN ._.
+31_CD Vide_NNP Appendix_NNP B_NNP ,_, Epitome_NNP of_IN Greig_NNP 's_POS unpublished_JJ paper_NN ._.
+32_CD Vide_NNP pages_NNS 11328_CD REPORT_NNP ON_NNP A_NNP SERIES_NNP OF_NNP 484_CD CASES_NNP OF_NNP PLAGUE_NNP TREATED_NNP WITH_NNP LUSTIG_NNP 'S_POS ANTI-PLAGUE_JJ SERUM_NNP ._.
+BY_NNP W._NNP M._NNP HAFFKINE_NNP ,_, C.I.E._NNP ,_, Director-in-Chief_NNP ,_, Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ._.
+THE_DT patients_NNS were_VBD those_DT received_VBN into_IN the_DT Bombay_NNP Municipal_NNP Plague_NNP Hospital_NNP at_IN Arthur_NNP Road_NNP ,_, which_WDT is_VBZ under_IN the_DT care_NN of_IN Khan_NNP Bahadur_NNP N._NNP H._NNP Choksy_NNP ,_, M.D_NNP ._.
+(_( Hon_NNP ._.
+causâ_NN ,_, Freiburg_NNP )_) ,_, L.M._NNP &_CC S._NNP ,_, Special_NNP Assistant_NNP Health_NNP Officer_NNP of_IN the_DT Bombay_NNP Municipality_NNP ._.
+The_DT patients_NNS were_VBD treated_VBN by_IN this_DT officer_NN and_CC by_IN Professor_NNP Lustig_NNP 's_POS assistants_NNS ,_, who_WP made_VBD the_DT serum_NN in_IN Bombay_NNP ._.
+Those_DT to_TO whom_WP the_DT serum_NN was_VBD administered_VBN were_VBD selected_VBN from_IN the_DT patients_NNS proved_VBD to_TO be_VB suffering_VBG from_IN plague_NN ,_, who_WP were_VBD admitted_VBN to_TO the_DT Arthur_NNP Road_NNP Muni-_NNP cipal_JJ Plague_NNP Hospital_NNP between_IN the_DT 1st_CD of_IN May_NNP 1899_CD and_CC the_DT 31st_CD of_IN July_NNP 1900_CD ._.
+After_IN the_DT diagnosis_NN had_VBD been_VBN made_VBN in_IN the_DT hospital_NN ,_, every_DT second_JJ plague_NN patient_NN was_VBD at_IN once_RB injected_VBN with_IN the_DT serum_NN ,_, while_IN the_DT alternate_JJ individuals_NNS were_VBD kept_VBN without_IN this_DT treatment_NN and_CC observed_VBD as_IN ``_`` controls_NNS ._. ''_''
+In_IN this_DT way_NN 484_CD cases_NNS diagnosed_VBN by_IN competent_JJ medical_JJ men_NNS as_IN plague_NN were_VBD treated_VBN with_IN this_DT serum_NN ,_, while_IN 484_CD cases_NNS similarly_RB diagnosed_VBN and_CC admitted_VBN alter-_JJ nately_RB with_IN them_PRP were_VBD observed_VBN for_IN comparison_NN ,_, and_CC not_RB given_VBN serum_NN at_IN any_DT time_NN ._.
+All_PDT these_DT 968_CD plague_NN patients_NNS were_VBD treated_VBN in_IN the_DT ordinary_JJ symptomatic_JJ way_NN ,_, the_DT only_JJ difference_NN being_VBG the_DT injection_NN of_IN serum_NN in_IN the_DT case_NN of_IN half_PDT the_DT number_NN ._.
+The_DT following_JJ report_NN is_VBZ compiled_VBN from_IN an_DT examination_NN of_IN the_DT temperature_NN charts_VBZ kept_VBN in_IN the_DT hospital_NN and_CC submitted_VBN to_TO me_PRP for_IN this_DT purpose_NN by_IN order_NN of_IN Government_NNP ._.
+The_DT actual_JJ clinical_JJ data_NNS submitted_VBD to_TO analysis_NN are_VBP those_DT in_IN which_WDT the_DT personality_NN of_IN the_DT observer_NN plays_VBZ no_DT part_NN ,_, viz._NN ,_, the_DT temperature_NN ,_, the_DT pulse-rate_NN ,_, the_DT number_NN of_IN respirations_NNS ,_, the_DT situation_NN of_IN the_DT buboes_NNS and_CC the_DT ultimate_JJ issue_NN of_IN each_DT case_NN ._.
+The_DT general_JJ results_NNS may_MD be_VB formulated_VBN as_IN follows:29_JJ temperature_NN on_IN admission_NN ,_, so_RB much_JJ the_DT greater_JJR is_VBZ the_DT mortality_NN ._.
+The_DT number_NN of_IN serum_NN treated_VBN patients_NNS ,_, however_RB ,_, is_VBZ slightly_RB less_RBR in_IN the_DT graver_NN categories_NNS ,_, and_CC more_RBR in_IN the_DT milder_NN forms_NNS ;_: though_IN indeed_RB ,_, the_DT difference_NN is_VBZ not_RB great_JJ ._.
+From_IN Table_NNP II_NNP ,_, it_PRP is_VBZ seen_VBN that_IN the_DT lowest_JJS mortality_NN occurred_VBD among_IN patients_NNS in_IN whom_WP both_DT pulse_NN and_CC respiration_NN were_VBD slow_JJ ._.
+Of_IN these_DT ,_, the_DT serum_NN cases_NNS had_VBD 46_CD ;_: the_DT control_NN cases_NNS 24_CD ._.
+On_IN the_DT other_JJ hand_NN ,_, patients_NNS in_IN whom_WP the_DT pulse_NN or_CC respiration_NN ,_, or_CC both_DT ,_, were_VBD so_RB imperceptible_JJ or_CC irregular_JJ that_IN they_PRP could_MD not_RB be_VB recorded_VBN ,_, showed_VBD the_DT highest_JJS mortality_NN ;_: of_IN these_DT ,_, the_DT control_NN cases_NNS had_VBD a_DT very_RB considerable_JJ preponderance_NN ._.
+Plague_NNP cases_NNS without_IN buboes_NNS ,_, i.e._FW ,_, septicæmic_JJ and_CC pneumonic_JJ cases_NNS ,_, are_VBP practically_RB all_DT fatal_NN ._.
+From_IN Table_NNP III_NNP it_PRP will_MD be_VB seen_VBN that_IN the_DT controls_NNS had_VBD 29_CD such_JJ cases_NNS ,_, while_IN the_DT serum_NN treated_VBD cases_NNS had_VBD only_RB 5_CD ._.
+It_PRP is_VBZ evident_JJ then_RB that_IN among_IN the_DT serum_NN patients_NNS there_RB must_MD have_VB existed_VBN a_DT group_NN of_IN 24_CD cases_NNS of_IN a_DT type_NN milder_NN than_IN these_DT cases_NNS without_IN buboes_NNS ._.
+It_PRP is_VBZ found_VBN from_IN Table_JJ V_NNP that_IN the_DT highest_JJS mortality_NN occurs_VBZ in_IN both_DT sexes_NNS between_IN the_DT ages_NNS of_IN 21_CD and_CC 40_CD ;_: but_CC it_PRP is_VBZ seen_VBN that_IN the_DT control_NN group_NN had_VBD 20_CD more_RBR such_JJ cases_NNS than_IN the_DT serum_NN group_NN ;_: the_DT numbers_NNS being_VBG 264_CD and_CC 244_CD ,_, respectively_RB ._.
+From_IN the_DT same_JJ table_NN we_PRP learn_VBP that_IN the_DT lowest_JJS mortality_NN was_VBD in_IN males_NNS below_IN 15_CD years_NNS of_IN age_NN ,_, and_CC of_IN these_DT the_DT treated_JJ cases_NNS had_VBD more_RBR than_IN those_DT not_RB treated_VBN ;_: the_DT numbers_NNS being_VBG 63_CD and_CC 52_CD ,_, respectively_RB ._.
+As_IN the_DT same_JJ individuals_NNS figure_NN afterwards_NNS in_IN other_JJ columns_NNS and_CC tables_NNS where_WRB they_PRP are_VBP considered_VBN from_IN other_JJ points_NNS of_IN view_NN ,_, the_DT effect_NN of_IN the_DT unequal_JJ gravity_NN of_IN the_DT cases_NNS will_MD be_VB seen_VBN in_IN the_DT form_NN of_IN a_DT lower_JJR mortality_NN in_IN each_DT of_IN the_DT cate-_JJ gories_NNS and_CC sub-divisions_NNS in_IN which_WDT they_PRP are_VBP grouped_VBN ._.
+It_PRP is_VBZ impossible_JJ to_TO maintain_VB that_IN this_DT uneven_JJ distribution_NN of_IN cases_NNS ,_, which_WDT in_IN most_JJS instances_NNS was_VBD quite_RB unavoidable_JJ ,_, accounts_NNS for_IN the_DT preponderance_NN of_IN deaths_NNS observed_VBN in_IN the_DT control_NN group_NN ,_, for_IN in_IN certain_JJ other_JJ sub-divisions_NNS showing_VBG a_DT lessened_JJ but_CC still_RB high_JJ mortality_NN ,_, there_EX was_VBD a_DT considerable_JJ though_IN less_JJR prepon-_JJ derance_NN of_IN serum_NN cases_NNS ._.
+But_CC it_PRP is_VBZ impossible_JJ also_RB to_TO say_VB with_IN certainty_JJ how_WRB many_JJ of_IN the_DT excess_JJ survivals_NNS ,_, if_IN any_DT ,_, are_VBP due_JJ to_TO the_DT serum_NN ._.
+In_IN my_PRP$ original_JJ plan_NN of_IN investigation_NN into_IN the_DT efficiency_NN of_IN plague_JJ anti-toxic_JJ sera_NN ,_, I_PRP had_VBD foreseen_JJ difficul-_JJ ties_NNS of_IN this_DT kind_NN ,_, and_CC ,_, as_IN a_DT corrective_NN ,_, added_VBD the_DT postulate_NN that_IN in_IN every_DT instance_NN in_IN which_WDT a_DT choice_NN has_VBZ to_TO be_VB made_VBN between_IN two_CD patients_NNS admitted_VBD to_TO hospital_VB at_IN the_DT same_JJ time_NN ,_, the_DT more_RBR severe_JJ case_NN be_VB taken_VBN for_IN serum_JJ treatment_NN and_CC the_DT milder_NN one_CD for_IN the_DT purposes_NNS of_IN control_NN observations_NNS ._.
+*_NN If_IN the_DT mortality_NN is_VBZ influenced_VBN favourably_RB in_IN these_DT circumstances_NNS ,_, a_DT proof_NN is_VBZ obtained_VBN à_JJ fortiori_NN of_IN the_DT beneficial_JJ action_NN of_IN the_DT treatment_NN applied_VBD ._.
+In_IN the_DT case_NN under_IN consideration_NN this_DT postulate_NN has_VBZ not_RB been_VBN complied_VBN with_IN ._.
+*_NN NOTE.30_NNP If_IN we_PRP admit_VBP that_IN the_DT distribution_NN of_IN patients_NNS between_IN the_DT control_NN and_CC serum_NN groups_NNS was_VBD sufficiently_RB uneven_JJ to_TO influence_VB ,_, at_IN least_JJS partially_RB ,_, the_DT mortality_NN rates_NNS ,_, we_PRP must_MD be_VB prepared_VBN to_TO find_VB that_IN it_PRP played_VBD also_RB a_DT part_NN in_IN the_DT difference_NN shown_VBN by_IN the_DT two_CD groups_NNS in_IN regard_NN to_TO the_DT duration_NN of_IN life_NN in_IN the_DT fatal_JJ cases_NNS (_( vide_IN Table_NNP 1_CD ,_, columns_VBZ 7_CD and_CC 11_CD )_) ._.
+It_PRP was_VBD expected_VBN that_IN the_DT favourable_JJ effect_NN of_IN a_DT serum_NN injection_NN would_MD manifest_VB itself_PRP in_IN an_DT immediate_JJ or_CC early_JJ reduction_NN of_IN the_DT fever_NN temperature_NN ._.
+In_IN a_DT number_NN of_IN cases_NNS this_DT expectation_NN was_VBD not_RB fulfilled_VBN ;_: in_IN a_DT large_JJ number_NN of_IN others_NNS the_DT temperature_NN began_VBD to_TO go_VB down_RP after_IN admission_NN to_TO hospital_VB without_IN any_DT serum_JJ injection_NN ;_: but_CC when_WRB we_PRP compare_VBP the_DT proportions_NNS ,_, we_PRP find_VBP a_DT favourable_JJ difference_NN attributable_JJ to_TO the_DT serum_NN ,_, but_CC perhaps_RB partially_RB also_RB to_TO the_DT better_JJR condition_NN of_IN the_DT serum_NN cases_NNS (_( Table_NNP VI_NNP )_) ._.
+This_DT initial_JJ favourable_JJ effect_NN of_IN the_DT serum_NN was_VBD unfortunately_RB not_RB maintained_VBN ,_, for_IN when_WRB we_PRP consider_VBP the_DT temperature_NN chart_NN throughout_IN the_DT patients_NNS '_POS illness_NN we_PRP do_VBP not_RB find_VB that_IN the_DT fever_NN left_VBD the_DT treated_JJ cases_NNS sooner_RBR than_IN the_DT controls_NNS (_( Table_NNP VII_NNP )_) ,_, or_CC that_IN in_IN the_DT recovery_NN cases_NNS the_DT normal_JJ temperature_NN was_VBD reached_VBN sooner_RB by_IN the_DT serum_NN cases_NNS than_IN by_IN the_DT controls_NNS (_( Table_NNP VIII_NNP )_) ._.
+A_DT paradoxical_JJ result_NN is_VBZ observed_VBN in_IN many_JJ of_IN the_DT facts_NNS recorded_VBN ._.
+Thus_RB ,_, for_IN instance_NN ,_, femoral_JJ buboes_NNS gave_VBD to_TO the_DT controls_NNS a_DT mortality_NN of_IN 79.74_CD per_IN cent_NN ._.
+;_: serum_NN would_MD seem_VB to_TO have_VB ``_`` reduced_VBN ''_'' it_PRP to_TO 55.05_CD per_IN cent_NN ._.
+Cervical_JJ glands_NNS appear_VBP somewhat_RB less_JJR fatal_JJ (_( 75.86_CD per_IN cent_NN ._.
+)_) ,_, still_RB the_DT serum_NN was_VBD much_RB less_JJR ``_`` successful_JJ ''_'' here_RB ,_, the_DT serum_NN cases_NNS having_VBG had_VBD a_DT mortality_NN of_IN 73.52_CD per_IN cent_NN ._.
+(_( Table_NNP III_NNP )_) ._.
+Similarly_RB patients_NNS with_IN multiple_JJ neighbouring_VBG glands_NNS seem_VBP to_TO die_VB more_RBR frequently_RB (_( mortality_NN of_IN controls_NNS 82.44_CD per_IN cent_NN ._. )_)
+than_IN those_DT with_IN multiple_JJ scattered_JJ and_CC opposite_JJ glands_NNS ._.
+Still_RB the_DT serum_NN would_MD seem_VB to_TO have_VB ``_`` reduced_VBN ''_'' the_DT mortality_NN in_IN the_DT first_JJ and_CC ``_`` increased_VBN ''_'' it_PRP in_IN the_DT two_CD other_JJ categories_NNS (_( Table_NNP III_NNP )_) ._.
+Males_NNS are_VBP shown_VBN in_IN the_DT group_NN under_IN study_NN to_TO recover_VB more_RBR frequently_RB than_IN females_NNS (_( Table_NNP V_NNP )_) ;_: but_CC under_IN the_DT serum_NN treatment_NN a_DT higher_JJR proportion_NN of_IN the_DT latter_JJR than_IN of_IN the_DT former_JJ recovered_NN ._.
+Among_IN the_DT male_NN control_NN cases_NNS the_DT highest_JJS mortality_NN is_VBZ found_VBN among_IN those_DT between_IN the_DT ages_NNS of_IN 21_CD and_CC 40_CD ,_, while_IN those_DT below_IN 15_CD years_NNS of_IN age_NN show_VBP the_DT lowest_JJS death-rate_NN ._.
+The_DT serum_NN would_MD appear_VB to_TO have_VB been_VBN very_RB successful_JJ with_IN the_DT first_JJ ,_, and_CC to_TO have_VB failed_VBN entirely_RB with_IN the_DT second_JJ ._.
+The_DT temperature_NN of_IN a_DT plague_NN patient_NN has_VBZ a_DT natural_JJ tendency_NN to_TO go_VB down_RP towards_NNS the_DT morning_NN and_CC to_TO rise_VB towards_NNS the_DT evening_NN ;_: one_CD might_MD therefore_VB expect_VB that_IN if_IN the_DT serum_NN injection_NN had_VBD the_DT virtue_NN of_IN bringing_VBG down_RP the_DT temperature_NN ,_, this_DT would_MD be_VB more_RBR often_RB manifested_VBN in_IN the_DT morning_NN temperatures_NNS after_IN evening_VBG injections_NNS than_IN in_IN the_DT evening_NN temperatures_NNS after_IN morning_NN injections_NNS ._.
+Indeed_RB in_IN 31_CD the_DT recovery_NN cases_NNS this_DT was_VBD so_RB ;_: in_IN the_DT fatal_JJ cases_NNS it_PRP would_MD seem_VB ,_, on_IN the_DT contrary_JJ ,_, as_IN if_IN the_DT serum_NN had_VBD interfered_VBN with_IN the_DT natural_JJ morning_NN fall_NN of_IN the_DT fever_NN (_( Table_NNP VI_NNP )_) ._.
+And_CC so_RB on_IN ._.
+The_DT above_JJ paradoxical_JJ cases_NNS seem_VBP to_TO suggest_VB that_IN in_IN the_DT facts_NNS observed_VBN there_EX were_VBD ,_, apart_RB from_IN the_DT serum_NN injections_NNS ,_, other_JJ factors_NNS which_WDT influenced_VBD the_DT course_NN of_IN the_DT disease_NN and_CC the_DT recovery_NN or_CC death_NN of_IN the_DT patients_NNS very_RB powerfully_RB ._.
+Were_NNP clinical_JJ symptoms_NNS actually_RB and_CC effectively_RB improved_VBN by_IN the_DT serum_NN ,_, and_CC this_DT improvement_NN maintained_VBD for_IN the_DT greater_JJR part_NN of_IN the_DT illness_NN ,_, this_DT need_NN not_RB necessarily_RB have_VB led_VBN to_TO an_DT improved_JJ mortality_NN rate_NN ._.
+I_PRP may_MD illustrate_VB my_PRP$ meaning_NN by_IN the_DT fact_NN that_IN the_DT injection_NN of_IN water_NN in_IN cholera_NN has_VBZ a_DT most_RBS striking_JJ effect_NN on_IN the_DT symptoms_NNS ,_, probably_RB such_JJ as_IN no_DT other_JJ operation_NN has_VBZ in_IN the_DT case_NN of_IN any_DT other_JJ disease_NN ;_: the_DT effect_NN on_IN the_DT mortality_NN appears_VBZ ,_, however_RB ,_, so_RB absolutely_RB negative_JJ that_IN the_DT injections_NNS have_VBP been_VBN abandoned_VBN in_IN practice_NN ._.
+Similarly_RB ,_, from_IN the_DT analysis_NN of_IN the_DT plague_NN cases_NNS treated_VBN with_IN Dr._NNP Terni_NNP 's_POS curative_JJ serum_NN in_IN the_DT Modikhana_NNP and_CC Maratha_NNP Municipal_NNP Plague_NNP hospitals_NNS ,_, it_PRP will_MD be_VB seen_VBN that_IN the_DT facts_NNS recorded_VBN present_JJ indications_NNS of_IN an_DT improvement_NN effected_VBN by_IN the_DT serum_NN in_IN the_DT clinical_JJ features_NNS of_IN the_DT disease_NN ._.
+Notwithstanding_VBG this_DT ,_, the_DT mortality_NN rate_NN was_VBD 90_CD deaths_NNS in_IN 110_CD serum_NN cases_NNS and_CC 89_CD deaths_NNS in_IN 110_CD controls_NNS ._.
+Considering_VBG that_IN the_DT cost_NN of_IN the_DT serum_NN is_VBZ something_NN like_IN Rs_NNP ._.
+60_CD per_IN patient_NN treated_VBN (_( not_RB patient_VB saved_VBN )_) ,_, the_DT results_NNS obtained_VBD so_RB far_RB from_IN the_DT Lustig_NNP ,_, Terni_NNP and_CC Brazil_NNP sera_NN are_VBP not_RB favourable_JJ to_TO a_DT general_JJ adoption_NN of_IN the_DT treatment_NN ._.
+I_PRP beg_VBP to_TO acknowledge_VB the_DT able_JJ assistance_NN given_VBN me_PRP by_IN Dr._NNP E._NNP S._NNP Winter_NNP of_IN this_DT Laboratory_NNP in_IN the_DT laborious_JJ task_NN of_IN compiling_VBG from_IN the_DT hospital_NN documents_NNS the_DT figures_NNS reproduced_VBN in_IN the_DT tables_NNS attached_VBN ._.
+32_CD Analysis_NN of_IN 968_CD hospital_NN charts_NNS referring_VBG to_TO 484_CD patients_NNS treated_VBN with_IN Professor_NNP Lustig_NNP 's_POS plague_NN curative_NN serum_NN and_CC 484_CD alternate_NN cases_NNS observed_VBD as_IN controls_NNS ,_, in_IN the_DT Arthur_NNP Road_NNP Municipal_NNP Plague_NNP Hospital_NNP ,_, Bombay_NNP ,_, under_IN Dr._NNP N._NNP H._NNP Choksy_NNP ,_, between_IN May_NNP 1899_CD and_CC July_NNP 1900_CD ._.
+I_PRP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP per-_JJ centage_NN ._.
+Average_JJ stay_NN in_IN hospital_JJ be-_JJ fore_NN death_NN (_( in_IN days_NNS )_) ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP per-_JJ centage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+I_PRP ._.
+State_NN on_IN ad-mission_NN ._.
+Tempera-ture_NN :_: Patients_NNS whose_WP$ first_JJ recorded_VBN tempera-_JJ ture_NN was33_NN III_NNP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+I34_NNP V._NNP CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+I-_NNP (_( contd_NN ._. )_)
+State_NN on_IN admis-_JJ sion_NN ._.
+Sex_NN ,_, Age_NNP ,_, Caste_NNP ,_, Na-_NNP tionality_NN ._.
+Among_IN the_DT patients_NNS there_EX were35_JJ Serum_NNP Cases36_NNP VIII_NNP ._.
+Temperature_NN of_IN twenty_JJ patients_NNS who_WP recovered_VBD (_( treated_VBN and_CC controls_NNS )_) who_WP had_VBD the_DT highest_JJS admission_NN temperature_NN ,_, and_CC average_JJ interval_NN between_IN the_DT first_JJ application_NN of_IN treatment_NN or_CC admission_NN to_TO hospital_NN and_CC the_DT time_NN when_WRB temperature_NN became_VBD for_IN the_DT first_JJ time_NN permanently_RB normal_JJ :37_NNP REPORT_NNP ON_NNP A_NNP SERIES_NNP OF_NNP 110_CD CASES_NNP OF_NNP PLAGUE_NNP TREATED_NNP WITH_NNP TERNI_NNP 'S_POS ANTI-PLAGUE_JJ SERUM_NNP ._.
+BY_NNP W._NNP M._NNP HAFFKINE_NNP ,_, C.I.E._NNP ,_, Director-in-Chief_NNP ,_, Plague_NNP Research_NNP Laboratory_NNP ,_, AND_NNP C._NNP T._NNP COSTELLO_NNP ,_, M.B._NNP ,_, B.Ch._NNP ,_, B.A_NNP ._.
+(_( Dublin_NNP )_) ,_, Attached_VBN to_TO the_DT Laboratory_NNP ._.
+THE_DT patients_NNS treated_VBN were_VBD those_DT admitted_VBN to_TO the_DT Modikhana_NNP Municipal_NNP Plague_NNP Hospital_NNP ,_, Bombay_NNP ,_, between_IN November_NNP 1902_CD and_CC July_NNP 1903_CD ._.
+This_DT hospital_NN was_VBD under_IN the_DT charge_NN of_IN Dr._NNP D._NNP A._NNP Turkhud_NNP ,_, M.B._NNP ,_, C.M_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, and_CC the_DT ordinary_JJ symptomatic_JJ treatment_NN of_IN the_DT cases_NNS was_VBD carried_VBN out_RP by_IN him_PRP ._.
+The_DT serum_NN employed_VBN was_VBD supplied_VBN by_IN Professor_NNP Terni_NNP of_IN Messina_NNP and_CC sent_VBD for_IN trial_NN through_IN the_DT Secretary_NNP of_IN State_NNP for_IN India_NNP ._.
+It_PRP was_VBD sent_VBN out_RP in_IN 10_CD c.c_NN ._.
+bottles_NNS ,_, which_WDT is_VBZ presumably_RB the_DT average_NN dose_NN to_TO be_VB given_VBN at_IN one_CD time_NN ._.
+In_IN reply_NN to_TO an_DT enquiry_NN Professor_NNP Terni_NNP informed_VBD one_CD of_IN us_PRP (_( W._NNP M._NNP Haffkine_NNP )_) ,_, that_IN he_PRP considered_VBD the_DT application_NN of_IN his_PRP$ treatment_NN to_TO some_DT 300_CD patients_NNS would_MD prove_VB its_PRP$ utility_NN ,_, and_CC accordingly_RB sent_VBD the_DT requisite_JJ amount_NN of_IN serum_NN for_IN this_DT purpose_NN ;_: viz._NN ,_, 1,500_CD bottles_NNS ,_, or_CC an_DT average_NN of_IN 5_CD bottles_NNS ,_, or_CC 50_CD c.c._NN ,_, for_IN each_DT patient_NN ._.
+Four_CD patients_NNS received_VBD less_JJR than_IN this_DT amount_NN (_( vide_IN Table_NNP V_NNP )_) because_IN they_PRP died_VBD before_IN the_DT full_JJ quantity_NN could_MD be_VB administered_VBN ;_: 42_CD received_VBD 50_CD c.c_NN ._.
+or_CC the_DT prescribed_JJ amount_NN and_CC the_DT rest_NN (_( 65_CD )_) were_VBD given_VBN more_JJR than_IN this_DT quantity_NN ,_, receiving_VBG from_IN 60_CD to_TO 130_CD c.c_NN ._.
+or_CC above_IN ._.
+All_DT were_VBD injected_VBN hypodermically_RB ._.
+The_DT injections_NNS were_VBD carried_VBN out_RP by_IN one_CD of_IN us_PRP (_( C._NNP T._NNP Costello_NNP )_) at_IN the_DT hospital_NN and_CC he_PRP also_RB watched_VBD the_DT patients_NNS and_CC compiled_VBD the_DT returns_NNS from_IN which_WDT the_DT subsequent_JJ analysis_NN was_VBD made_VBN ._.
+The_DT method_NN of_IN selecting_VBG the_DT cases_NNS was_VBD the_DT alternate_NN plan_NN ,_, modified_VBD as_IN follows_VBZ :38_VBP The_DT number_NN treated_VBN with_IN serum_NN was_VBD 111_CD ,_, and_CC the_DT number_NN admitted_VBN alter-_JJ nately_RB with_IN them_PRP was_VBD 112_CD ._.
+The_DT hundred_CD and_CC twelfth_JJ patient_NN (_( who_WP recovered_VBD )_) not_RB being_VBG required_VBN ,_, is_VBZ omitted_VBN from_IN the_DT subsequent_JJ analysis_NN ._.
+Further_RB ,_, the_DT chart_NN of_IN control_NN patient_JJ No_NNP ._.
+105_CD having_VBG been_VBN mislaid_VBN in_IN the_DT hospital_NN ,_, it_PRP is_VBZ necessary_JJ to_TO omit_VB the_DT corresponding_JJ serum-treated_JJ case_NN ._.
+The_DT number_NN dealt_NN with_IN below_NN is_VBZ therefore_RB reduced_VBN to_TO 110_CD cases_NNS in_IN each_DT category_NN ._.
+When_WRB patients_NNS coming_VBG under_IN the_DT headings_NNS (_( a_DT )_) ,_, (_( b_NN )_) ,_, (_( c_NN )_) ,_, (_( d_NN )_) ,_, noted_VBN above_IN ,_, were_VBD received_VBN ,_, they_PRP were_VBD passed_VBN over_IN ,_, and_CC the_DT next_JJ admission_NN taken_VBN for_IN treatment_NN with_IN or_CC without_IN serum_NN ,_, as_IN the_DT list_NN demanded_VBD ._.
+The_DT following_NN is_VBZ the_DT general_JJ result_NN of_IN the_DT analysis_NN of_IN the_DT tables_NNS below_IN ._.
+The_DT mortality_NN in_IN the_DT two_CD groups_NNS was_VBD practically_RB equal_JJ ,_, i.e._FW ,_, 89_CD deaths_NNS among_IN 110_CD cases_NNS treated_VBN with_IN serum_NN ,_, 90_CD deaths_NNS among_IN 110_CD not_RB so_RB treated_JJ ._.
+The_DT serum-treated_JJ cases_NNS lived_VBD on_IN the_DT average_NN about_IN 8_CD hours_NNS longer_RBR than_IN those_DT not_RB treated_VBN ,_, vide_IN Table_NNP I_PRP ._.
+The_DT good_JJ effects_NNS one_CD would_MD expect_VB from_IN an_DT early_JJ administration_NN of_IN the_DT remedy_NN are_VBP not_RB consistently_RB apparent_JJ in_IN Table_JJ I_PRP ._.
+Similarly_RB inconsistent_JJ results_NNS are_VBP seen_VBN in_IN Table_NNP II_NNP ._.
+where_WRB patients_NNS are_VBP grouped_VBN according_VBG to_TO the_DT apparent_JJ severity_NN of_IN the_DT disease_NN ._.
+The_DT serum_NN appears_VBZ to_TO have_VB benefited_VBN the_DT severer_NN cases_NNS ,_, but_CC not_RB those_DT of_IN a_DT milder_NN type_NN ._.
+Taking_VBG the_DT first_JJ recorded_JJ temperature_NN of_IN the_DT patients_NNS as_IN a_DT guide_NN ,_, it_PRP is_VBZ found_VBN in_IN the_DT control_NN group_NN that_IN the_DT higher_JJR this_DT is_VBZ ,_, the_DT greater_JJR is_VBZ the_DT death-rate_JJ among_IN them_PRP ._.
+But_CC the_DT serum_NN showed_VBD most_JJS success_NN in_IN those_DT with_IN a_DT temperature_NN between_IN 101°_CD and_CC 102.9°_CD F._NNP ,_, and_CC least_JJS in_IN those_DT whose_WP$ temperature_NN on_IN admission_NN ranged_VBD between_IN 99°_CD and_CC 100.9°_CD ._.
+There_EX is_VBZ no_DT such_JJ inconsistency_NN when_WRB we_PRP consider_VBP the_DT patients_NNS from_IN the_DT point_NN of_IN view_NN of_IN the_DT pulse_NN and_CC respirations_NNS recorded_VBN on_IN admission_NN ._.
+The_DT figures_NNS referring_VBG to_TO the_DT presence_NN or_CC absence_NN of_IN buboes_NNS or_CC their_PRP$ posi-_JJ tion_NN are_VBP small_JJ ,_, but_CC where_WRB they_PRP are_VBP considerable_JJ (_( single_JJ axillary_NN ,_, femoral_JJ or_CC inguinal_JJ buboes_NNS )_) ,_, the_DT result_NN is_VBZ not_RB consistent_JJ ._.
+The_DT groups_NNS to_TO which_WDT the_DT less_JJR fatal_JJ cases_NNS belong_RB do_VBP not_RB show_VB improved_JJ results_NNS under_IN serum_JJ treat-_JJ ment_NN ._.
+In_IN the_DT table_NN setting_VBG forth_VBD the_DT age-distribution_NN ,_, the_DT control_NN cases_NNS show_VBP the_DT greatest_JJS mortality_NN in_IN those_DT above_IN 25_CD years_NNS of_IN age_NN ,_, but_CC it_PRP is_VBZ just_RB in_IN these_DT cases_NNS that_IN the_DT serum_NN seems_VBZ to_TO have_VB had_VBN best_JJS effect_NN ,_, while_IN in_IN patients_NNS below_IN that_DT age_NN ,_, where_WRB the_DT untreated_JJ cases_NNS had_VBD a_DT lessened_JJ mortality_NN ,_, the_DT serum_NN seems_VBZ to_TO have_VB failed_VBN ._.
+From_IN Table_NNP III_NNP it_PRP seems_VBZ that_IN the_DT first_JJ application_NN of_IN serum_NN had_VBD some_DT effect_NN in_IN reducing_VBG the_DT temperature_NN and_CC pulse-rate_NN within_IN 24_CD hours_NNS after_IN admission_NN ;_: 39_CD but_CC unfortunately_RB the_DT mortality_NN appears_VBZ higher_JJR among_IN the_DT treated_VBN than_IN among_IN the_DT controls_NNS ._.
+The_DT injections_NNS appear_VBP also_RB to_TO have_VB reduced_VBN slightly_RB the_DT number_NN of_IN respirations_NNS per_IN minute_NN ._.
+Table_JJ IV_NNP shows_VBZ that_IN the_DT injections_NNS tend_VBP to_TO reduce_VB the_DT temperature_NN ,_, pulse_NN and_CC respiration_NN at_IN an_DT earlier_JJR date_NN than_IN in_IN the_DT case_NN of_IN the_DT controls_NNS ,_, though_IN the_DT mor-_JJ tality_NN is_VBZ not_RB favourably_RB affected_VBN ._.
+Table_JJ V_NNP shows_VBZ that_IN the_DT results_NNS are_VBP not_RB improved_VBN by_IN increasing_VBG the_DT initial_JJ dose_NN ,_, nor_CC by_IN increasing_VBG the_DT total_JJ amount_NN of_IN serum_NN given_VBN ._.
+Those_DT receiving_VBG more_JJR than_IN 20_CD c.c_NN ._.
+show_VB the_DT highest_JJS mortality_NN ._.
+There_EX is_VBZ thus_RB no_DT reason_NN to_TO suppose_VB that_IN better_JJR results_NNS would_MD be_VB obtained_VBN by_IN giving_VBG doses_NNS larger_JJR than_IN those_DT recommended_VBN by_IN Professor_NNP Terni_NNP ._.
+In_IN the_DT year_NN 1904_CD observations_NNS were_VBD made_VBN on_IN 16_CD cases_NNS of_IN plague_NN admitted_VBN to_TO the_DT Maratha_NNP Plague_NNP Hospital_NNP of_IN the_DT Bombay_NNP Municipal_NNP Corporation_NNP ._.
+These_DT were_VBD treated_VBN hypodermically_RB with_IN Terni_NNP 's_POS serum_NN in_IN large_JJ doses_NNS ,_, several_JJ hundred_CD c.c_NNS ._.
+being_VBG given_VBN in_IN some_DT cases_NNS ._.
+A_DT similar_JJ number_NN of_IN plague_JJ cases_NNS admitted_VBD alternately_RB with_IN them_PRP were_VBD observed_VBN as_IN controls_NNS ._.
+The_DT results_NNS are_VBP shown_VBN below_IN :40_JJ Analysis_NN of_IN 220_CD clinical_JJ charts_NNS referring_VBG to_TO 110_CD plague_NN patients_NNS treated_VBN with_IN Professors_NNS Term_NNP and_CC Bandi_NNP 's_POS curative_JJ serum_NN ,_, and_CC 110_CD alternate_NN cases_NNS observed_VBD as_IN controls_NNS ,_, in_IN the_DT Modikhana_NNP Municipal_NNP Plague_NNP Hospital_NNP ,_, Bombay_NNP ,_, under_IN Dr._NNP Turkhud_NNP ,_, between_IN November_NNP 1902_CD and_CC July_NNP 1903_CD ._.
+I_PRP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS Number_NNP of_IN deaths_JJ Mortality_NNP percentage_NN Average_NNP stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) Number_NNP of_IN patients_NNS Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN Average_NNP stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+I_PRP ._.
+Previous_JJ History_NNP 41_CD II.42_NNP III_NNP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS Their_PRP$ propotion_NN to_TO total_JJ (_( per_IN cent_NN )_) Number_NNP of_IN deaths_JJ Mortality_NNP percentage_NN Average_NN of_IN extent_NN of_IN in-_JJ crease_NN or_CC decrease_NN ._.
+Number_NNP in_IN patients_NNS Their_PRP$ proportion_NN to_TO total_JJ (_( per_IN cent_NN )_) ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ extent_JJ in-_JJ crease_NN or_CC decrease_NN ._.
+III_NNP Condition_NNP of_IN patients_NNS after_IN first_JJ application_NN of_IN treat-_JJ ment_NN ._.
+Duration_NN of_IN Life_NNP ._.
+Died_NNP within_IN 24_CD hours_NNS of_IN ad-_JJ mission_NN 18_CD 16.36_CD 18_CD 100.0_CD ..._: 19_CD 17.27_CD 19_CD 100.0_CD ..._:
+Lived_VBN for_IN more_JJR than_IN 24_CD hours_NNS ._.
+._.
+._.
+._.
+92_CD 83.63_CD 72_CD 78.28_CD ..._: 91_CD 82.72_CD 70_CD 76.92_CD ..._:
+Temperature_NN ._.
+Total_JJ admitted_VBD with_IN 100º_CD F._NNP and_CC over_RB ,_, who_WP lived_VBD for_IN more_JJR than_IN 24_CD hours_NNS ._.
+83_CD ..._: 64_CD 77.10_CD ..._: 79_CD ..._: 63_CD 79.74_CD ..._:
+Patients_NNS admitted_VBN with_IN temperature_NN above_IN 100º_CD F._NNP in_IN whom_WP the_DT next_JJ temperature_NN recorded_VBN after_IN treatment_NN (_( or_CC in_IN controls_NNS after_IN admis-_JJ sion_NN )_) ,_, showed43_JJ III44_NNP IV45_NNP IV46_NNP V._NNP Doses_NNP of_IN serum_JJ injected47_JJ REPORT_NNP ON_NNP A_NNP SERIES_NNP OF_NNP 70_CD CASES_NNP OF_NNP PLAGUE_NNP TREATED_NNP WITH_NNP BRAZIL_NNP 'S_POS ANTI-PLAGUE_JJ SERUM_NNP ._.
+BY_NNP W._NNP M._NNP HAFFKINE_NNP ,_, C.I.E._NNP ,_, Director-in-Chief_NNP ,_, Plague_NNP Research_NNP Laboratory_NNP ,_, AND_NNP W._NNP G._NNP WEST_NNP ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._.
+)_) ,_, L.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M.D_NNP ._.
+(_( Geneva_NNP )_) ,_, Attached_VBN to_TO the_DT Laboratory_NNP ._.
+THE_DT serum_NN used_VBN in_IN this_DT series_NN of_IN cases_NNS was_VBD prepared_VBN by_IN Dr._NNP Vital_NNP Brazil_NNP ,_, Director_NNP of_IN the_DT State_NNP Sero-therapeutic_JJ Institute_NNP of_IN San_NNP Paulo_NNP ,_, Brazil_NNP ,_, and_CC sent_VBD out_RP for_IN trial_NN by_IN the_DT Secretary_NNP of_IN State_NNP in_IN August_NNP 1903_CD ._.
+The_DT serum_NN was_VBD supplied_VBN in_IN sealed_JJ test-tubes_JJ each_DT containing_VBG about_IN 20_CD c.c_NN ._.
+Of_IN these_DT ,_, 600_CD were_VBD received_VBN and_CC stored_VBN in_IN an_DT ice-box_JJ till_NN February_NNP ,_, when_WRB a_DT sufficient_JJ number_NN of_IN patients_NNS began_VBD to_TO come_VB to_TO the_DT hospitals_NNS ._.
+The_DT patients_NNS treated_VBN were_VBD those_DT admitted_VBN to_TO hospital_VB between_IN the_DT 10th_CD of_IN February_NNP and_CC the_DT end_NN of_IN March_NNP 1904_CD ._.
+Fifty_NNP were_VBD treated_VBN in_IN the_DT Maratha_NNP Municipal_NNP Plague_NNP Hospital_NNP (_( in_IN charge_NN of_IN Dr._NNP N._NNP H._NNP Choksy_NNP )_) and_CC 20_CD in_IN the_DT Modikhana_NNP Municipal_NNP Plague_NNP Hospital_NNP (_( in_IN charge_NN of_IN Dr._NNP D._NNP A._NNP Turkhud_NNP )_) ._.
+These_DT medical_JJ men_NNS were_VBD responsible_JJ for_IN the_DT ordinary_JJ symptomatic_JJ treatment_NN ,_, which_WDT was_VBD used_VBN for_IN all_DT cases_NNS whether_IN or_CC not_RB they_PRP also_RB received_VBD the_DT serum_NN treatment_NN ._.
+Every_DT alternate_NN patient_NN received_VBD serum_JJ treatment_NN ,_, the_DT others_NNS being_VBG kept_VBD to_TO serve_VB as_IN controls_NNS ._.
+In_IN the_DT Modikhana_NNP hospital_NN ,_, which_WDT received_VBD a_DT somewhat_RB different_JJ class_NN of_IN patients_NNS ,_, several_JJ (_( 79_CD ,_, with_IN a_DT subsequent_JJ mortality_NN of_IN 67.1_CD per_IN cent_NN ._. )_)
+refused_VBN to_TO undergo_VB the_DT serum_NN treatment_NN ._.
+In_IN such_JJ circumstances_NNS the_DT serum_NN was_VBD offered_VBN to_TO the_DT next_JJ patient_NN admitted_VBD until_IN one_CD was_VBD found_VBN willing_JJ to_TO undergo_VB the_DT treatment_NN ,_, when_WRB the_DT next_JJ case_NN was_VBD taken_VBN as_IN a_DT control_NN case_NN ._.
+This_DT did_VBD not_RB disturb_VB the_DT experiment_NN to_TO any_DT extent_NN ;_: but_CC more_JJR difficulty_NN was_VBD found_VBN with_IN patients_NNS admitted_VBN with_IN no_DT definite_NN symptoms_NNS of_IN plague_NN ._.
+These_DT had_VBD to_TO be_VB kept_VBN separate_JJ till_NN a_DT definite_JJ diagnosis_NN was_VBD arrived_VBN at_IN ._.
+The_DT procedure_NN was_VBD thus_RB the_DT same_JJ as_IN in_IN the_DT trial_NN of_IN Terni_NNP 's_POS serum_NN (_( vide_JJ p._RB 37_CD )_) ._.
+The_DT serum_NN injections_NNS ,_, which_WDT in_IN all_DT cases_NNS were_VBD hypodermic_JJ ,_, were_VBD given_VBN by_IN one_CD of_IN us_PRP (_( W._NNP G._NNP West_NNP )_) ,_, who_WP was_VBD likewise_RB responsible_JJ for_IN the_DT correctness_NN of_IN the_DT history_NN of_IN each_DT patient_NN ,_, as_IN observed_VBN by_IN him_PRP at_IN the_DT hospitals_NNS ._.
+The_DT initial_JJ dose_NN injected_VBD was_VBD 40_CD c.c_NN ._.
+in_IN all_PDT the_DT cases_NNS (_( 20_CD in_IN number_NN )_) treated_VBD in_IN the_DT Modikhana_NNP Hospital_NNP ,_, while_IN in_IN the_DT Maratha_NNP Hospital_NNP two_CD cases_NNS received_VBD 20_CD C.C._NNP ,_, six_CD received_VBD 40_CD c.c._NNS ,_, while_IN the_DT remainder_NN (_( 42_CD )_) got_VBD 60_CD c.c_NN ._.
+The_DT doses_NNS were_VBD repeated_VBN once_RB in_IN 24_CD hours_NNS ,_, so_IN that_IN those_DT who_WP lived_VBD for_IN some_DT time_NN ,_, or_CC recovered_VBD ,_, received_VBD as_RB much_JJ as_IN 340_CD to_TO 360_CD c.c_NN ._.
+in_IN some_DT cases_NNS ._.
+This_DT method_VBZ 48_CD of_IN administration_NN was_VBD generally_RB in_IN accordance_NN with_IN the_DT instructions_NNS sent_VBN by_IN Dr._NNP Brazil_NNP ._.
+The_DT tables_NNS below_IN show_VBP the_DT results_NNS obtained_VBN in_IN the_DT two_CD hospitals_NNS :49_JJ Analysis_NNP of_IN one_CD hundred_JJ hospital_NN charts_NNS referring_VBG to_TO 50_CD patients_NNS treated_VBN with_IN Dr._NNP Brazil_NNP 's_POS plague_NN curative_NN serum_NN and_CC 50_CD alternate_NN cases_NNS observed_VBD as_IN controls_NNS in_IN the_DT Maratha_NNP Municipal_NNP Plague_NNP Hospital_NNP ,_, Bombay_NNP ,_, under_IN Dr._NNP N._NNP H._NNP Choksy_NNP ,_, in_IN 90450_CD CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hos-_JJ pital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN Average_NNP stay_NN in_IN hos-_JJ pital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+II51_NNP CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hos-_JJ pital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+II52_NNP III_NNP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Their_PRP$ proportion_NN to_TO total_JJ (_( percentage_NN )_) ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ extent_NN of_IN increase_NN or_CC decrease_NN ._.
+Number_NNP of_IN patients_NNS ._.
+Their_PRP$ proportion_NN to_TO total_JJ (_( percentage_NN )_) ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ extent_NN of_IN increase_NN or_CC decrease_NN ._.
+III_NNP ._.
+Condition_NN of_IN patients_NNS after_IN first_JJ application_NN of_IN treatment_NN ._.
+Lived_VBN for_IN more_JJR than_IN 24_CD hours_NNS ..._: 45_CD 90_CD 40_CD 88.88_CD ..._: 45_CD 90_CD 36_CD 80_CD ..._:
+Temperature_NN ._.
+Total_JJ admitted_VBD with_IN 100°_CD F._NNP and_CC over_RB ,_, who_WP lived_VBD for_IN more_JJR than_IN 24_CD hours_NNS ._.
+..._: 37_CD ..._: 32_CD 86.49_CD ..._: 34_CD ..._: 27_CD 79.41_CD ..._:
+Patients_NNS admitted_VBN with_IN temperature_NN above_IN 100°_CD F._NNP ,_, in_IN whom_WP the_DT next_JJ temperature_NN ,_, recorded_VBN after_IN treatment_NN (_( or_CC ,_, in_IN controls_NNS ,_, after_IN admission_NN )_) ,_, showed53_JJ IV_NNP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Their_PRP$ propor-_JJ tion_NN to_TO total_JJ (_( percentage_NN )_) ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Number_NNP of_IN patients_NNS ._.
+Their_PRP$ pro-_JJ portion_NN to_TO total_JJ (_( per-_JJ centage_NN )_) ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+IV_NNP ._.
+Condition_NN of_IN patients_NNS throughout_IN the_DT treatment_NN ._.
+Temperature_NN ._.
+TOTAL_JJ 25_CD ..._: 20_CD 80.0_CD 23_CD ..._: 16_CD 69.56_CD Patients_NNS admitted_VBN with_IN temperature_NN above_IN 100°F._CD ,_, who_WP lived_VBD for_IN more_JJR than_IN 48_CD hours_NNS ,_, and_CC in_IN whom_WP the_DT tem-_JJ perature_NN ,_, after_IN the_DT first_JJ application_NN of_IN treat-_JJ ment_NN or_CC ,_, in_IN controls_NNS ,_, after_IN admission_NN )_) ,_, reach-_JJ ed_NN maximum54_NN V._NNP Recovery_NNP cases_NNS :_: Interval_NN between_IN admission_NN to_TO hospital_NN and_CC the_DT time_NN when_WRB the_DT temperature_NN ,_, pulse_NN ,_, and_CC respiration_NN become_NN normal_JJ ._.
+Control_NNP cases_NNS ._.
+Treated_VBN cases_NNS ._.
+Temperature_NN 5.90_CD days_NNS 9.64_CD days_NNS ._.
+Pulse-rate_JJ 5.55_CD 8.42_CD Respiration_NN 6.66_CD ,_, ,_, 9.42_CD ,_, ,_, VI_NNP ._.
+Average_JJ stay_NN in_IN hospital_NN of_IN fatal_JJ cases_NNS ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+2.25_CD days_NNS ._.
+2.56_CD days_NNS ._.
+VII_NNP ._.
+Doses_NNS of_IN serum_NN injected_VBN (_( subcutaneously_RB )_) into_IN the_DT 50_CD Patients_NNS treated_VBN ._.
+Initial_JJ dose_NN injected_VBN (_( in_IN c.c_NN ._. )_) ._.
+Total_JJ quantity_NN injected_VBN (_( in_IN c.c_NN ._. )_) ._.
+Number_NNP of_IN patients_NNS so_RB injected_JJ ._.
+Number_NNP of_IN recoveries_NNS among_IN them_PRP ._.
+Number_NNP of_IN deaths_NNS among_IN them_PRP ._.
+20_CD 20_CD 1_CD ..._: 1_CD 20_CD 40_CD 1_CD ..._: 1_CD 40_CD 40_CD 1_CD ..._: 1_CD 60_CD 60_CD 15_CD ..._: 15_CD 20_CD 80_CD 1_CD 1_CD ..._: 40_CD 100_CD 1_CD ..._: 1_CD 40_CD 120_CD 1_CD ..._: 1_CD 60_CD 120_CD 8_CD ..._: 8_CD 20_CD 140_CD 1_CD 1_CD ..._: 60_CD 180_CD 5_CD ..._: 5_CD 60_CD 200_CD 1_CD ..._: 1_CD 60_CD 240_CD 4_CD ..._: 4_CD 40_CD 260_CD 1_CD 1_CD ..._: 60_CD 260_CD 1_CD 1_CD ..._: 60_CD 280_CD 3_CD 2_CD 1_CD 60_CD 340_CD 2_CD 2_CD ..._: 60_CD 350_CD 1_CD ..._: 1_CD 60_CD 360_CD 2_CD 1_CD 1_CD 55_CD Analysis_NN of_IN Forty_NNP clinical_JJ charts_NNS referring_VBG to_TO 20_CD patients_NNS treated_VBN with_IN Dr._NNP Brazil_NNP 's_POS plague_NN curative_NN serum_NN and_CC 20_CD alternate_NN cases_NNS observed_VBD as_IN controls_NNS ,_, in_IN the_DT Modikhana_NNP Municipal_NNP Plague_NNP Hospital_NNP in_IN Bombay_NNP ,_, under_IN Dr._NNP Turkhud_NNP ,_, in_IN 1904_CD ._.
+I_PRP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+I_PRP ._.
+1_CD day_NN 3_CD 2_CD 66.66_CD .66_NN ..._: ..._: ..._: ..._:
+Previous_JJ history_NN ._.
+2_CD days_NNS 5_CD 1_CD 20_CD 3.50_CD 4_CD 4_CD 100_CD 7.25_CD Patients_NNS who_WP stated_VBD they_PRP had_VBD been_VBN ill_VBN before_IN admission_NN for56_NN CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hos-_JJ pital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ stay_NN in_IN hos-_JJ pital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+II57_NNP III_NNP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ extent_NN of_IN increase_NN or_CC decrease_NN ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Average_JJ extent_NN of_IN increase_NN or_CC decrease_NN ._.
+III_NNP ._.
+Condition_NN of_IN patients_NNS after_IN first_JJ applica-_JJ tion_NN of_IN treatment_NN ._.
+Temperature_NN ._.
+Patients_NNS admitted_VBN with_IN temperature_NN above_IN 99°_CD F._NNP ,_, in_IN whom_WP the_DT next_JJ tem-_JJ perature_NN ,_, recorded_VBN after_IN treatment_NN (_( or_CC ,_, in_IN controls_NNS ,_, after_IN admission_NN )_) ,_, showed_VBD an58_JJ IV_NNP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+Number_NNP of_IN patients_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP percentage_NN ._.
+IV_NNP ._.
+Condition_NN of_IN patients_NNS throughout_IN the_DT treatment_NN ._.
+Temperature_NN ._.
+Patients_NNS admitted_VBN with_IN temperature_NN above_IN 99°F._CD ,_, who_WP lived_VBD for_IN more_JJR than_IN 48_CD hours_NNS ,_, and_CC in_IN whom_WP the_DT tem-_JJ perature_NN ,_, after_IN the_DT first_JJ application_NN of_IN treatment_NN (_( or_CC ,_, in_IN controls_NNS ,_, after_IN ad-_JJ mission_NN )_) ,_, reached_VBD maximum59_NN V._NNP Recovery_NNP cases_NNS (_( treated_VBN and_CC controls_NNS )_) :_: average_JJ interval_NN between_IN application_NN of_IN treatment_NN or_CC admission_NN to_TO hospital_NN ,_, and_CC the_DT time_NN when_WRB (_( 1_CD )_) temperature_NN ,_, (_( 2_CD )_) pulse_NN ,_, and_CC (_( 3_CD )_) respirations_NNS became_VBD for_IN the_DT first_JJ time_NN normal_JJ ._.
+Control_NNP cases_NNS ._.
+Treated_VBN cases_NNS ._.
+Temperature_NN 7.20_CD days_NNS 7_CD days_NNS Pulse_NNP 9.32_CD ,_, ,_, 6.33_CD ,_, ,_, Respirations_NNP 6.66_CD ,_, ,_, 6.33_CD ,_, ,_, VI_NNP ._.
+Amount_NN of_IN serum_NN injected_VBN (_( subcutaneously_RB )_) into_IN the_DT 20_CD patients_NNS ._.
+Total_NN of_IN serum_NN injected_VBN ._.
+Initial_JJ dose_NN injected_VBN on_IN admission_NN ._.
+Patient_JJ 1_CD ,_, 80_CD c.c_NN ._.
+injected_VBN in_IN the_DT vicinity_NN of_IN bubo60_JJ REPORT_NNP ON_NNP A_NNP SERIES_NNP OF_NNP 68_CD CASES_NNP OF_NNP PLAGUE_NNP TREATED_NNP WITH_NNP ROUX_NNP '_POS ANTI-PLAGUE_JJ SERUM_NNP ._.
+By_IN W._NNP G._NNP WEST_NNP ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._.
+)_) ,_, L.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M.D_NNP ._.
+(_( Geneva_NNP )_) ,_, Attached_VBN to_TO the_DT Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ._.
+THE_DT serum_NN was_VBD sent_VBN from_IN the_DT Pasteur_NNP Institute_NNP ,_, Paris_NNP ,_, in_IN the_DT middle_NN of_IN March_NNP 1904_CD ,_, by_IN Dr._NNP Roux_NNP ,_, in_IN response_NN to_TO a_DT telegram_NN from_IN Mr._NNP Haffkine_NNP ,_, and_CC was_VBD received_VBN here_RB in_IN the_DT beginning_NN of_IN the_DT following_VBG month_NN ._.
+Twenty_CD litres_NNS of_IN serum_NN were_VBD sent_VBN out_RP in_IN bottles_NNS containing_VBG 100_CD c.c_NN ._.
+each_DT ,_, secured_VBN by_IN India-rubber_NNP caps_NNS and_CC stoppers_NNS ._.
+The_DT experiment_NN was_VBD in_IN all_DT its_PRP$ details_NNS planned_VBN by_IN Mr._NNP Haffkine_NNP ,_, before_IN his_PRP$ departure_NN from_IN India_NNP ,_, but_CC the_DT watching_NN of_IN the_DT patients_NNS and_CC administration_NN of_IN the_DT serum_NN was_VBD carried_VBN out_RP in_IN hospital_NN by_IN the_DT present_JJ writer_NN ._.
+The_DT patients_NNS treated_VBN were_VBD those_DT admitted_VBN to_TO the_DT Maratha_NNP Municipal_NNP Plague_NNP hospital_NN (_( under_IN the_DT care_NN of_IN Dr._NNP N._NNP H._NNP Choksy_NNP )_) between_IN the_DT 8th_CD of_IN April_NNP and_CC the_DT 5th_CD of_IN May_NNP 1904_CD ._.
+Between_IN these_DT dates_NNS 160_CD cases_NNS were_VBD admitted_VBN ,_, 80_CD were_VBD placed_VBN in_IN the_DT serum_NN group_NN and_CC 80_CD alternate_NN cases_NNS in_IN the_DT control_NN group_NN ._.
+Twelve_CD patients_NNS of_IN the_DT serum_NN group_NN were_VBD either_RB moribund_JJ or_CC convalescent_NN on_IN admission_NN and_CC were_VBD therefore_RB not_RB injected_VBN ._.
+These_DT 12_CD cases_NNS ,_, as_RB well_RB as_IN the_DT 12_CD corresponding_VBG control_NN cases_NNS ,_, have_VBP therefore_RB been_VBN excluded_VBN from_IN the_DT 160_CD cases_NNS ,_, thus_RB leaving_VBG a_DT total_NN of_IN 68_CD cases_NNS on_IN each_DT side_NN ._.
+As_IN regards_NNS the_DT doses_NNS given_VBN ,_, Professor_NNP Roux_NNP '_POS recent_JJ recommendations_NNS (_( vide_JJ page_NN 63_CD ,_, Roux_NNP '_POS letter_NN )_) were_VBD as_RB far_RB as_IN possible_JJ carried_VBD out_RP ,_, viz_NN ._.
+:61_NN (_( b_NN )_) 12_CD patients_NNS were_VBD injected_VBN both_DT subcutaneously_RB and_CC intravenously_RB ,_, the_DT initial_JJ injection_NN in_IN these_DT patients_NNS being_VBG done_VBN subcutaneously_RB ._.
+Of_IN these_DT ,_, 8_CD died_VBD ,_, giving_VBG a_DT mortality_NN percentage_NN of_IN 66.66_CD per_IN cent_NN ._.
+and_CC ,_, lastly,62_VBZ The_DT method_NN adopted_VBN for_IN demonstrating_VBG microbes_NNS in_IN the_DT blood_NN was_VBD as_IN follows_VBZ :_: A_DT small_JJ capsule_NN of_IN blood_NN was_VBD taken_VBN from_IN the_DT patient_NN ,_, sealed_VBD up_RB and_CC sent_VBD to_TO the_DT laboratory_NN ._.
+This_DT blood_NN was_VBD then_RB placed_VBN in_IN a_DT watch_NN glass_NN ,_, mixed_JJ with_IN sterile_JJ salt_NN solution_NN and_CC injected_VBD subcutaneously_RB into_IN a_DT rat_NN ,_, by_IN one_CD of_IN the_DT laboratory_NN officials_NNS ._.
+When_WRB the_DT rat_NN died_VBD ,_, an_DT examination_NN by_IN spleen_JJ smear_NN and_CC culture_NN from_IN the_DT heart_NN blood_NN was_VBD made_VBN to_TO ascertain_VB the_DT presence_NN or_CC absence_NN of_IN plague_NN germs_NNS ._.
+It_PRP is_VBZ unfortunate_JJ that_IN owing_VBG to_TO pressure_NN of_IN work_NN in_IN the_DT laboratory_NN the_DT examination_NN of_IN the_DT rats_NNS dying_VBG after_IN injection_NN could_MD not_RB be_VB carried_VBN out_RP in_IN a_DT regular_JJ manner_NN ._.
+Such_JJ entries_NNS as_IN ``_`` rat_NN decomposed_VBD ''_'' occur_NN frequently_RB in_IN the_DT records_NNS ,_, and_CC it_PRP is_VBZ therefore_RB impossible_JJ to_TO say_VB that_IN the_DT ratio_NN of_IN 8_CD to_TO 19_CD represents_VBZ the_DT true_JJ proportion_NN of_IN septicæmic_JJ cases_NNS in_IN the_DT two_CD groups_NNS ._.
+As_IN the_DT cases_NNS were_VBD chosen_VBN impartially_RB ,_, it_PRP seems_VBZ incredible_JJ that_IN such_PDT a_DT large_JJ proportion_NN of_IN septicæmic_JJ cases_NNS should_MD have_VB found_VBN their_PRP$ way_NN into_IN the_DT serum_NN group_NN ._.
+But_CC the_DT fact_NN remains_VBZ that_IN this_DT is_VBZ so_RB ,_, and_CC it_PRP must_MD be_VB kept_VBN in_IN mind_NN in_IN reckoning_VBG the_DT results_NNS of_IN treatment_NN in_IN this_DT series_NN of_IN cases_NNS ._.
+All_PDT the_DT tables_NNS appear_VBP to_TO demonstrate_VB that_IN ,_, although_IN no_DT reduction_NN of_IN the_DT mortality_NN could_MD be_VB attributed_VBN to_TO the_DT treatment_NN ,_, yet_RB life_NN was_VBD prolonged_VBN in_IN many_JJ cases_NNS ._.
+That_IN the_DT initial_JJ effect_NN of_IN the_DT serum_NN had_VBD the_DT power_NN of_IN reducing_VBG the_DT tempera-_JJ ture_NN ,_, pulse_NN and_CC respirations_NNS would_MD appear_VB to_TO be_VB probable_JJ ,_, vide_JJ Table_NNP III_NNP ,_, but_CC this_DT favourable_JJ initial_JJ effect_NN was_VBD not_RB maintained_VBN ._.
+63_CD Copy_NNP of_IN a_DT letter_NN from_IN Professor_NNP Roux_NNP ,_, Paris_NNP ,_, to_TO W._NNP M._NNP Haffkine_NNP ,_, Esq._NNP ,_, C.I.E._NNP ,_, Director-in-Chief_NNP ,_, Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ;_: dated_VBN Paris_NNP ,_, the_DT 25th_CD March_NNP 1904._CD ``_``
+MON_NNP CHER_NNP DR._NNP HAFFKINE_NNP ,_, ``_`` En_NNP réponse_NN à_NNP votre_NN télégramme_NN je_NN vous_JJ ai_JJ fait_NN expedier_NN 10_CD litres_NNS de_FW sérum_FW antipesteux_FW en_FW flacons_NNS de_IN 100_CD c.c_NN ._.
+Ce_NNP sérum_VBD a_DT donné_NN d'excellents_NNS résultats_VBZ à_VBP Marseille_NNP chaque_NN fois_NN que_VBP nous_JJ l'avons_NNS essayé_VBP et_JJ aussi_NN au_NN Brésil_NNP ,_, en_FW République_NNP Argentine_NNP ,_, et_FW au_NN Mexique_NNP ._.
+Ce_NNP dont_NN il_NN faut_NN être_NNP bien_NN convaincu_NN c'est_NN que_NN les_VBZ grandes_NNS doses_NNS sont_JJ nécessaires_NNS ._.
+Les_NNP médecins_VBZ veulent_JJ toujours_NNS employer_VBP le_JJ sérum_NN antipesteux_NN comme_NN ils_VBZ employent_JJ le_JJ sérum_NN anti-diphtérique_JJ et_NN ils_NNS n'ont_JJ que_NN de_IN mauvais_FW effets._FW ``_``
+La_NNP peste_NN et_NN la_NN diphtérie_NN ne_JJ sont_JJ pas_NN des_NNS maladies_NNS comparables_NNS et_VBP le_JJ sérum_NN antipesteux_NN n'agit_JJ pas_NN à_NNP la_NN manière_NN du_NN sérum_VBD anti-diphtérique_NN ._.
+Si_NNP vous_JJ voulez_NN guérir_NN vos_NN pestifères_NNS ,_, injectez_VBP 100_CD c.c_NN ._.
+en_IN une_JJ seule_NN fois_NN et_FW réitérez_NN l'injection_NN dans_VBZ les_VBZ 12_CD heures_NNS ._.
+Ne_NNP craignez_NN pas_NN d'injecter_NN en_VBD tout_IN 300_CD et_NNS plus._VBP ``_``
+L'injection_NNP intra-veineuse_NN demande_NN moins_VBZ de_IN sérum_FW et_FW est_JJS plus_CC efficace_NN ._.
+Une_NNP première_JJ injection_NN de_IN 40_CD c.c_NN ._.
+suivie_NN d'une_NN seconde_NN de_IN même_FW quantité_FW quelques_NNS heures_NNS aprés_VBP suffit_JJ le_JJ plus_CC souvent._JJ ``_``
+Mais_NNP cette_NN petite_JJ opération_NN doit_NN être_NNP faite_NN avec_NN soin_NN ;_: il_CC faut_VB faire_NN tièdir_NN le_NN sérum_NN ,_, s'assurer_NN qu'il_NN n_NN '_'' y_CC a_DT pas_JJ trace_NN de_IN dépôt_FW et_FW pousser_FW l'injection_NN très_FW lentement_NN en_FW interrompant_JJ à_NNP la_NN moindre_NN gêne_NN respiratoire_NN ._.
+Les_NNP médecins_VBZ re-_JJ doutent_NN ces_NNS injections_NNS intra-veineuses_NNS qui_JJ ont_JJ si_NN bien_NN réussi_NN à_NNP Calmette_NNP et_FW à_NNP Salimbeni_NNP lors_NNS de_VBP l_NN '_'' épidémie_NNP de_IN Porto._NNP ``_``
+Vous_JJ serez_NN bien_NN aimable_JJ ,_, mon_JJ cher_NN Haffkine_NNP ,_, de_IN me_PRP dire_VBP ce_JJ qui_JJ arrivera_NN de_IN vos_FW essais_FW de_FW séro-thérapie_FW pesteuse._NN ``_``
+Recevez_NNP ,_, je_NN vous_JJ prie_NN ,_, l'assurance_NN de_FW mes_FW sentiments_NNS les_VBZ meilleurs_NNS et_VBP les_NNS plus_CC dévoués_NN ._. ''_''
+(_( Sé_NNP ._. )_)
+DR._NNP ROUX_NNP ._.
+64_CD Analysis_NN of_IN Sixty-eight_NNP clinical_JJ charts_NNS of_IN patients_NNS under_IN treatment_NN with_IN Roux_NNP serum_NN ._.
+I_PRP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN pati-_JJ ents_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP per-_JJ centage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+Number_NNP of_IN pati-_JJ ents_NNS ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP per-_JJ centage_NN ._.
+Average_JJ stay_NN in_IN hospital_NN before_IN death_NN (_( in_IN days_NNS )_) ._.
+I_PRP ._.
+Previous_JJ history_NN ._.
+Patients_NNS stated_VBN to_TO have_VB been_VBN ill_JJ before_IN ad-_JJ mission_NN for65_NN II66_NNP II67_NNP ._.
+III_NNP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN patients_NNS ._.
+Their_PRP$ ptopotion_NN to_TO total_JJ (_( per_IN cent_NN ._. )_)
+Number_NNP of_IN deaths_JJ Morality_NNP percentage_NN ._.
+Average_JJ extent_NN of_IN increase_NN or_CC decrease_NN ._.
+Number_NNP of_IN patients_NNS ._.
+Their_PRP$ ptopotion_NN to_TO total_JJ (_( per_IN cent_NN ._. )_)
+Number_NNP of_IN death_NN Morality_NNP percentage_NN ._.
+Average_JJ extent_NN of_IN increase_NN or_CC decrease_NN ._.
+III_NNP ._.
+Condition_NN of_IN patients_NNS after_IN first_JJ application_NN of_IN treat-_JJ ment_NN ._.
+Duration_NN of_IN life_NN ._.
+Died_NNP within_IN 24_CD hours_NNS of_IN ad-_JJ mission_NN ._.
+..._: ..._: 9_CD 13.23_CD 9_CD 100_CD ..._: 6_CD 8.82_CD 6_CD 100_CD ..._:
+Lived_VBN for_IN more_JJR than_IN 24_CD hours_NNS ..._: ..._: 59_CD 86.76_CD 32_CD 54.23_CD ..._: 62_CD 91.17_CD 39_CD 62.90_CD ..._:
+Temperature_NN ._.
+Total_NN of_IN patients_NNS admitted_VBN with_IN 100ºF_CD ._.
+and_CC over_IN ,_, who_WP lived_VBD for_IN more_JJR than_IN 24_CD hours_NNS ._.
+..._: ..._: 48_CD 70.58_CD 29_CD 6o.41_CD ..._: 55_CD 80.88_CD 36_CD 65.45_CD ..._:
+Patients_NNS admitted_VBD with_IN more_JJR than_IN 100°F._CD ,_, in_IN whom_WP the_DT next_JJ tempera-_JJ ture_NN ,_, examined_VBN after_IN treatment_NN (_( or_CC ,_, in_IN controls_NNS ,_, after_IN admission_NN )_) ,_, showed_VBD an68_NN ._.
+IV_NNP ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Number_NNP of_IN pati-_JJ ents_NNS ._.
+Their_PRP$ proportion_NN to_TO total_JJ (_( per_IN cent_NN ._. )_) ._.
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP per-_JJ centage_NN ._.
+Number_NNP of_IN pati-_JJ ents_NNS ._.
+Their_PRP$ proportion_NN to_TO total_JJ (_( per_IN cent_NN ._. )_)
+Number_NNP of_IN deaths_NNS ._.
+Mortality_NNP per-_JJ centage_NN ._.
+IV_NNP ._.
+Condition_NN of_IN patients_NNS throughout_IN the_DT treat-_JJ ment_NN ._.
+Temperature_NN ._.
+Patients_NNS admitted_VBD with_IN more_JJR than_IN 10069_CD V._NNP Additional_NNP Information_NNP :70_NNP (_( 2_CD )_) The_DT time_NN (_( in_IN days_NNS )_) when_WRB (_( 1_CD )_) temperature_NN ,_, (_( 2_CD )_) pulse_NN ,_, and_CC (_( 3_CD )_) respirations_NNS became_VBD for_IN the_DT first_JJ time_NN normal_JJ ,_, after_IN the_DT application_NN of_IN treatment_NN or_CC admission_NN into_IN hospital_NN (_( in_IN days_NNS )_) ._.
+CONTROL_NNP CASES_NNP ._.
+TREATED_NNP CASES_NNP ._.
+Temperature_NN ._.
+Pulse_NNP ._.
+Respirations_NNS ._.
+Temperature_NN ._.
+Pulse_NNP ._.
+Respirations_NNS ._.
+8.42_CD 9.20_CD 9.02_CD 6.24_CD 8.40_CD 7.04_CD (_( 3_CD )_) Average_NN stay_NN in_IN hospital_NN of_IN fatal_JJ cases_NNS (_( in_IN days_NNS )_) ._.
+Control_NNP cases_NNS ._.
+Treated_VBN cases_NNS ._.
+4.19_CD 7.59_CD 71_CD APPENDIX_NNP A_NNP ._.
+Method_NNP of_IN preparation_NN of_IN Lustig_NNP 's_POS Anti-Plague_JJ Serum_NNP ,_, as_IN employed_VBN by_IN Drs_NNP ._.
+G._NNP Polverini_NNP and_CC A._NNP Mayr_NNP in_IN the_DT Bombay_NNP Municipal_NNP Laboratory_NNP at_IN Parel_NNP ,_, until_IN May_NNP 1902_CD ._.
+By_IN A._NNP Mayr_NNP ,_, M.D_NNP ._.
+1_CD ._.
+Cultures_NNS of_IN B._NNP pestis_NN were_VBD made_VBN from_IN the_DT blood_NN of_IN plague_NN patients_NNS ._.
+These_DT were_VBD grown_VBN on_IN the_DT ordinary_JJ 1_CD per_IN cent_NN ._.
+peptone_NN agar_NN in_IN large_JJ glass_NN dishes_NNS (_( 10_CD ''_'' diameter_NN )_) for_IN 272_CD on_IN the_DT experience_NN that_IN serum_NN of_IN such_JJ activity_NN showed_VBD decided_VBD curative_JJ effects_NNS in_IN plague_NN patients_NNS in_IN doses_NNS of_IN about_IN 60_CD c.c_NN ._.
+The_DT serum_NN was_VBD neither_DT sterilised_JJ nor_CC was_VBD an_DT antiseptic_JJ added_VBD to_TO it_PRP ,_, but_CC its_PRP$ sterility_NN was_VBD controlled_VBN bacteriologically_RB and_CC its_PRP$ innocuity_NN by_IN injection_NN in_IN white_JJ mice_NN before_IN issue_NN ._.
+Every_DT thing_NN used_VBN for_IN the_DT preparation_NN of_IN the_DT serum_NN was_VBD of_IN course_NN sterilised_VBN ._.
+APPENDIX_NNP B._NNP Abstract_NNP of_IN an_DT unpublished_JJ paper_NN by_IN Captain_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.B._NNP ,_, B.Sc._NNP ,_, Edin._NNP ,_, I.M.S._NNP ,_, ``_`` On_IN the_DT Infection_NNP of_IN the_DT Blood_NNP in_IN Bubonic_NNP Plague_NNP ''_'' (_( From_IN the_DT Plague_NNP Research_NNP Laboratory_NNP ,_, Parel_NNP ,_, Bombay_NNP ,_, 18th_CD June_NNP 1902_CD )_) ._.
+Object_NN of_IN the_DT research:73_NN and_CC greatly_RB increases_VBZ the_DT gravity_NN of_IN the_DT prognosis_NN ;_: and_CC that_IN there_EX is_VBZ really_RB no_DT distinction_NN to_TO be_VB drawn_VBN between_IN bubonic_NN and_CC septicæmic_JJ plague_NN ,_, the_DT one_CD type_NN merging_NN into_IN the_DT other_JJ ._.
+A_DT further_JJ interesting_JJ point_NN is_VBZ the_DT varying_VBG length_NN of_IN time_NN patients_NNS live_VBP after_IN the_DT appear-_JJ ance_NN of_IN plague_NN germs_NNS in_IN their_PRP$ blood_NN ._.
+This_DT may_MD be_VB ascribed_VBN to_TO a_DT variation_NN in_IN the_DT bactericidal_JJ power_NN of_IN the_DT blood_NN in_IN different_JJ individuals_NNS ._.
+Wright_NNP (_( Lancet_NNP ,_, March_NNP 22_CD ,_, 1901_CD )_) has_VBZ shown_VBN that_IN human_JJ blood_NN usually_RB exhibits_VBZ little_JJ or_CC no_DT bactericidal_JJ power_NN towards_IN the_DT plague_NN bacillus_NN ,_, and_CC this_DT may_MD serve_VB to_TO explain_VB the_DT fatal_JJ nature_NN of_IN septicæmic_JJ cases_NNS in_IN this_DT disease_NN ._.
+The_DT following_NN are_VBP briefly_IN the_DT conclusions_NNS to_TO be_VB drawn_VBN from_IN the_DT above_JJ research_NN :_: No_DT ._.
+20_CD ._.
+(_( NEW_JJ SERIES_NNP ._. )_)
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+SERUM-THERAPY_NNP OF_NNP PLAGUE_NNP IN_NNP INDIA_NNP ;_: REPORTS_NNP BY_NNP MR._NNP W._NNP M._NNP HAFFKINE_NNP ,_, C.I.E._NNP ,_, AND_NNP VARIOUS_NNP OFFICERS_NNP OF_IN THE_NNP PLAGUE_NNP RESEARCH_NNP LABORATORY_NNP ,_, BOMBAY_NNP ._.
+EDITED_NN WITH_NNP AN_NNP INTRODUCTION_NNP BY_NNP LIEUT.-COL._NNP W._NNP B._NNP BANNERMAN_NNP ,_, M.D._NNP ,_, B.Sc._NNP ,_, F.R.S.E._NNP ,_, I.M.S._NNP ,_, Director_NNP ,_, Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ._.
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75028105.tif_CD ]_JJ CALCUTTA_NNP :_: OFFICE_NN OF_IN THE_NNP SUPERINTENDENT_NNP OF_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ._.
+1905_CD ._.

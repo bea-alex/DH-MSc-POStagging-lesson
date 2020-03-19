@@ -1,0 +1,860 @@
+IP/QB_NNP ._.
+10_CD M._NNP 91_CD b_NN ._.
+(_( NEW_NNP SERIES_NNP )_) No_NNP ._.
+49_CD SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP Epidemc_NNP Dropsy_NNP in_IN Calcutta_NNP BEING_NNP THE_NNP FINAL_NNP REPORT_NNP OF_IN AN_NNP ENQUIRY_NNP CARRIED_NNP OUT_NNP BY_NNP MAJOR_NNP E._NNP D._NNP W._NNP GREIG_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, Under_IN the_DT Direction_NNP of_IN the_DT Director_NNP ,_, Central_NNP Research_NNP Institute_NNP ,_, Kasauli_NNP ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061024.tif_CD ]_NNS CALCUTTA_NNP SPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1912_CD ._.
+Price_NNP Re_NNP ._.
+1-8_JJ as_IN ._.
+or_CC 2s_CD ._.
+6d_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061030.tif_CD ]_NNS 3943257_CD No_NNP ._.
+49_CD X_NNP (_( NEW_NNP SERIES_NNP )_) SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP BEING_NNP THE_NNP FINAL_NNP REPORT_NNP OF_IN AN_NNP ENQUIRY_NNP CARRIED_NNP OUT_NNP BY_NNP MAJOR_NNP E._NNP D._NNP W._NNP GREIG_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, Under_IN the_DT Direction_NNP of_IN the_DT Director_NNP ,_, Central_NNP Research_NNP Institute_NNP ,_, Kasauli_NNP ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061036.tif_CD ]_JJ [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061036.tif_CD ]_NNS CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1912_CD Agents_NNP for_IN the_DT Sale_NNP of_IN Books_NNP published_VBN by_IN the_DT Superintendent_NNP of_IN Government_NNP Printing_NNP ,_, India_NNP ,_, Calcutta_NNP ._.
+IN_NNP ENGLAND_NNP ._.
+Messrs._NNP CONSTABLE_NNP &_CC Co._NNP ,_, 10_CD ,_, Orange_NNP Street_NNP ,_, Leicester_NNP Square_NNP ,_, W.C._NNP Messrs._NNP KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRÜBNER_NNP &_CC Co._NNP ,_, 68-74_NNP ,_, Carter_NNP Lane_NNP ,_, E.C_NNP ._.
+Mr._NNP BERNARD_NNP QUARITCH_NNP ,_, 11_CD ,_, Grafton_NNP Street_NNP ,_, New_NNP Bond_NNP Street_NNP ,_, W._NNP Messrs._NNP P._NNP S._NNP KING_NNP &_CC SON_NNP ,_, 2_CD and_CC 4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ,_, Messrs._NNP H._NNP S._NNP KING_NNP &_CC Co._NNP ,_, 65_CD ,_, Cornhili_NNP ,_, and_CC 9_CD ,_, Pall_NNP Mall_NNP ,_, London_NNP ._.
+Messrs._NNP GRINDLAY_NNP &_CC Co._NNP ,_, 54_CD ,_, Parliament_NNP Street_NNP ,_, London_NNP ,_, S._NNP W._NNP Mr._NNP T._NNP FISHER_NNP UNWIN_NNP ,_, 1_CD ,_, Adelphi_NNP Terrace_NNP ,_, London_NNP ,_, W._NNP C._NNP Messrs._NNP W._NNP THACKER_NNP &_CC Co._NNP ,_, 2_CD ,_, Creed_NNP Lane_NNP ,_, London_NNP ,_, E.C_NNP ._.
+Mr._NNP B._NNP H._NNP BLACKWELL_NNP ,_, 50_CD and_CC 51_CD ,_, Broad_NNP Street_NNP ,_, Oxford_NNP ._.
+Messrs._NNP DEIGHTON_NNP BELL_NNP &_CC Co._NNP ,_, Cam-_NNP bridge_NN ._.
+Messrs._NNP LUZAC_NNP &_CC Co._NNP ,_, 46_CD ,_, Great_NNP Russell_NNP Street_NNP ,_, London_NNP ,_, W.C._NNP ON_NNP THE_NNP CONTINENT_NNP ._.
+Mr._NNP OTTO_NNP HARRASOWITZ_NNP Mr._NNP KARL_NNP HIERSEMANN_NNP Leipzig_NNP ._.
+Messrs._NNS R._NNP FRIEDLANDER_NNP ,_, &_CC SOHN_NNP ,_, Berlin_NNP ,_, W.N._NNP ,_, Carlstrasse_NNP ,_, 11_CD ._.
+Mr._NNP ERNEST_NNP LEROUX_NNP ,_, 28_CD ,_, Rue_NNP Bonaparte_NNP ,_, Paris_NNP ._.
+Mr._NNP MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP ,_, Holland_NNP ._.
+IN_NNP INDIA_NNP ._.
+Messrs._NN THACKER_NNP ,_, SPINK_NNP &_CC Co._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+Messrs._NNP NEWMAN_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+Messrs._NNS R._NNP CAMBRAY_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+Messrs._NNP S._NNP K._NNP LAHIRI_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+Messrs._NNP B._NNP BANERJEE_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+The_DT CALCUTTA_NNP SCHOOL_NNP BOOK_NNP AND_NNP USEFUL_NNP LITERATURE_NNP SOCIETY_NNP ,_, 1_CD ,_, Wellington_NNP Square_NNP ,_, Calcutta_NNP ._.
+Messrs._NNP BUTTERWORTH_NNP &_CC Co._NNP (_( India_NNP )_) ,_, Limited_NNP ,_, Calcutta_NNP ._.
+Messrs._NNP HIGGINBOTHAM_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNS V._NNP KALYANARAMA_NNP IYER_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNP G._NNP A._NNP NATESAN_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP S._NNP MURTHY_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP THOMPSON_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP TEMPLE_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP COMBRIDGE_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNS P._NNP R._NNP RAMA_NNP IYER_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP THACKER_NNP &_CC CO._NNP ,_, LD._NNP ,_, Bombay_NNP ._.
+Messrs._NNP A._NNP J._NNP COMBRIDGE_NNP &_CC CO._NNP ,_, Bombay_NNP ._.
+Messrs._NNS D._NNP B._NNP TARAPOREVALA_NNP ,_, SONS_NNP &_CC CO._NNP ,_, Bombay_NNP ._.
+Mrs._NNP RADHABAI_NNP ATMARAM_NNP SAGOON_NNP ,_, Bombay_NNP ._.
+Mr._NNP SUNDER_NNP PANDURANG_NNP ,_, Bombay_NNP ._.
+Messrs._NNS GOPAL_NNP NARAYAN_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+Messrs._NNP RAM_NNP CHANDRA_NNP GOVIND_NNP &_CC SON_NNP ,_, Kalbadevi_NNP ,_, Bombay_NNP ._.
+Superintendent_NN ,_, American_NNP Baptist_NNP Mission_NNP Press_NNP ,_, Rangoon_NNP ._.
+RAI_NNP SAHIB_NNP M._NNP GULAB_NNP SINGH_NNP &_CC SONS_NNP ,_, Mufid-i-Am_NNP Press_NNP ,_, Lahore_NNP and_CC Cal-_NNP cutta_NN ._.
+Mr._NNP N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP ,_, Nazir_NNP Kanun_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+Messrs._NNP A._NNP CHAND_NNP &_CC Co._NNP ,_, Punjab_NNP ._.
+Messrs._NNP A._NNP M._NNP &_CC J._NNP FERGUSON_NNP ,_, Ceylon_NNP ._.
+Babu_NNP S._NNP C._NNP TAL_NNP UKDAR_NNP ,_, Proprietor_NNP ,_, Students_NNS and_CC Company_NNP ,_, Cooch_NNP Behar_NNP ._.
+List_NN of_IN numbers_NNS of_IN Scientific_NNP Memoirs_NNP by_IN Officers_NNP of_IN the_DT Medical_NNP and_CC Sanitary_NNP Departments_NNP of_IN the_DT Government_NNP of_IN India_NNP (_( New_NNP Series_NNP )_) published_VBD previous_JJ to_TO the_DT present_JJ issue_NN ._.
+No_DT ._.
+1_CD ._.
+Standardisation_NN of_IN Calmette_NNP 's_POS Anti-Venomous_JJ Serum_NNP with_IN Pure_NNP Cobra_NNP Venom_NNP :_: the_DT Deterioration_NN of_IN this_DT Serum_NNP through_IN keeping_VBG in_IN India_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M.B_NNP ._.
+Price_NN As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+2_CD ._.
+Malaria_NNP in_IN India_NNP ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+3_CD ._.
+Some_DT Observations_NNS on_IN the_DT Poison_NNP of_IN Russell_NNP 's_POS Viper_NNP (_( Daboia_NNP Russellii_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M.B_NNP ._.
+Price_NN As_IN ._.
+5_CD or_CC 6d_CD ._.
+No_DT ._.
+4_CD ._.
+On_IN the_DT Action_NNP of_IN the_DT Venoms_NNP of_IN the_DT Cobra_NNP and_CC of_IN the_DT Daboia_NNP on_IN the_DT Red_NNP Blood_NNP corpuscles_NNS and_CC on_IN the_DT blood_NN plasma_NN ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP ._.
+As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+5_CD ._.
+Specificity_NN of_IN Anti-Venomous_JJ Sera_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S_NNP ._.
+Price_NN As_IN ._.
+3._CD or_CC 4d_CD ._.
+No_DT ._.
+6_CD ._.
+First_NNP Report_NNP on_IN the_DT Anti-Malarial_JJ Operations_NNS in_IN Mian_NNP Mir_NNP ,_, 1901-03_JJ ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, Price_NNP As_NNP ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+7_CD ._.
+Some_DT Observations_NNS on_IN the_DT Poison_NNP of_IN the_DT Banded_NNP Krait_NNP (_( Bungarus_NNP Fasciatus_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+8_CD ._.
+A_DT Preliminary_JJ Report_NNP on_IN a_DT Parasite_NNP found_VBN in_IN Patients_NNS suffering_VBG from_IN En-_NNP largement_NN of_IN the_DT Spleen_NNP in_IN India_NNP ,_, by_IN Lieutenant_NNP S._NNP R_NNP ,_, Christophers_NNP ,_, Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+9_CD ._.
+Second_JJ Report_NNP of_IN the_DT Anti-Malarial_JJ Operations_NNS at_IN Mian_NNP Mir_NNP ,_, 1901-03_JJ ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+10_CD ._.
+Specificity_NN of_IN Anti-Venomous_JJ Sera_NNP (_( Second_NNP Communication_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+11_CD ._.
+On_IN a_DT Parasite_NNP found_VBN in_IN persons_NNS suffering_VBG from_IN Enlargement_NNP of_IN the_DT Spleen_NNP in_IN India2_NNP No_NNP ._.
+20_CD ._.
+Serum-Therapy_NN of_IN Plague_NNP in_IN India_NNP ;_: Reports_NNS by_IN Mr._NNP W._NNP M._NNP Haffkine_NNP ,_, C.I.E._NNP ,_, and_CC various_JJ Officers_NNS of_IN the_DT Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ,_, by_IN Lieutenant-Colonel_NNP W._NNP B._NNP Bannerman_NNP ,_, M.D._NNP ,_, B.Sc._NNP ,_, F.R.C.S._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+14_CD or_CC 1s_CD ._.
+4d_CD ._.
+No_DT ._.
+21_CD ._.
+On_IN the_DT Standardisation_NNP of_IN Anti-Typhoid_NNP Vaccine_NNP ,_, by_IN Captain_NNP George_NNP Lamb_NNP ,_, M.D._NNP ,_, 1.M.S_CD ._.
+(_( Director_NNP ,_, Pasteur_NNP Institute_NNP of_IN India_NNP )_) ,_, and_CC Captain_NNP W._NNP B._NNP C._NNP Forster_NNP ,_, M.B._NNP ,_, D.P.H._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+6_CD or_CC 7d_CD ._.
+No_DT ._.
+22_CD ._.
+Mediterranean_JJ Fever_NNP in_IN India_NNP :_: Isolation_NN of_IN the_DT Micrococcus_NNP Melitensis_NNP ,_, by_IN Captain_NNP George_NNP Lamb_NNP ,_, M.D._NNP ,_, I.M.S._NNP ,_, and_CC Assistant_NNP ,_, Surgeon_NNP M._NNP Kesava_NNP Pai_NNP ,_, M.B._NNP ,_, C.M_NNP ._.
+(_( Madras_NNP )_) ._.
+Price_NN As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+23_CD ._.
+The_DT Anatomy_NNP and_CC Histology_NNP of_IN Ticks_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+3_CD or_CC 4s_CD ._.
+6d_CD ._.
+No_DT ._.
+24_CD ._.
+On_IN a_DT Parasite_NNP found_NN in_IN the_DT White_NNP Corpuscles_NNPS of_IN the_DT blood_NN of_IN Palm_NNP Squirrels_NNP ,_, by_IN Captain_NNP W._NNP S._NNP Patton_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+25_CD ._.
+On_IN the_DT importance_NN of_IN Larval_NNP Characters_NNP in_IN the_DT Classification_NNP of_IN Mosquitoes_NNP ,_, by_IN Captain_NNP ,_, S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+26_CD ._.
+Leucocytozoon_NNP Canis_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+27_CD ._.
+Preliminary_JJ Report_NNP on_IN the_DT Development_NNP of_IN the_DT Leishman-Donovan_NNP Body_NNP in_IN the_DT Bed_NNP Bug_NNP ,_, by_IN Captain_NNP W._NNP S._NNP Patton_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+28_CD ._.
+The_DT Sexual_JJ Cycle_NNP of_IN Leucocytozoon_NNP Canis_NNP in_IN the_DT Tick_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+29_CD ._.
+Piroplasma_NNP Canis_NNP and_CC its_PRP$ Cycle_NNP in_IN the_DT Tick_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+No_DT ._.
+30_CD ._.
+The_DT Theory_NNP and_CC Practice_NNP of_IN Anti-Rabic_NNP Immunisation_NNP ,_, by_IN Captain_NNP W.F_NNP ._.
+Harvey_NNP ,_, M.B._NNP ,_, I.M.S._NNP ,_, and_CC Captain_NNP Anderson_NNP McKendrick_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+31_CD ._.
+The_DT Development_NNP of_IN the_DT Leishman-Donovan_NNP Parasite_NNP in_IN Cimex_NNP Rotundatus3_NNP No_NNP ._.
+40_CD ._.
+The_DT Destruction_NNP of_IN Fleas_NNP by_IN Exposure_NNP to_TO the_DT Sun_NNP ,_, by_IN Captain_NNP J._NNP Cunningham_NNP ,_, M.D._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+41_CD ._.
+Quinine_NNP and_CC its_PRP$ Salts_NNP ,_, their_PRP$ Solubility_NN and_CC Absorbability_NNP ,_, by_IN Captain_NNP A._NNP C._NNP MacGilchrist_NNP ,_, M.A._NNP ,_, M.D._NNP ,_, M.R.C.P._NNP ,_, I.M.S_NNP ._.
+Price_NN As_IN ._.
+9_CD or_CC 10d_CD ._.
+No_DT ._.
+42_CD ._.
+The_DT Cultivation_NNP of_IN the_DT Bacillus_NNP of_IN Leprosy_NNP and_CC the_DT Treatment_NNP of_IN cases_NNS by_IN means_NNS of_IN a_DT Vaccine_NNP prepared_VBN from_IN the_DT Cultivations_NNP ,_, Part_NNP I_PRP ,_, by_IN Major_NNP E._NNP R._NNP Rost_NNP ,_, I.M.S_NNP ._.
+The_DT Cultivation_NNP of_IN the_DT Leprosy_NNP Bacillus_NNP ,_, by_IN Captain_NNP T._NNP S._NNP B._NNP Williams_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+43_CD ._.
+The_DT Relation_NNP of_IN Tetanus_NNP to_TO the_DT Hypodermic_NNP or_CC Intramuscular_NNP Injection_NNP of_IN Quinine_NNP ,_, by_IN Lieutenant-Colonel_NNP ,_, Sir_NNP D._NNP Semple_NNP ,_, KT._NNP ,_, M.D_NNP ._.
+Price_NN As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+44_CD ._.
+The_DT Preparation_NNP of_IN a_DT Safe_NNP and_CC Efficient_NNP Anti-rabic_NNP Vaccine_NNP ,_, by_IN Lieutenant-_NNP Colonel_NNP Sir_NNP D._NNP Semple_NNP ,_, KT._NNP ,_, M.D._NNP ,_, D.P.H._NNP ,_, R.A.M.C_NNP ._.
+(_( Retired_VBN )_) ._.
+Price_NN As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+45_CD ._.
+Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ,_, by_IN Major_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-4_CD or_CC 2s_CD ._.
+No_DT ._.
+46_CD ._.
+Malaria_NNP in_IN the_DT Punjab_NNP ,_, by_IN Major_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+No_DT ._.
+47_CD ._.
+Dysentery_NNP and_CC Liver_NNP Abscess_NNP in_IN Bombay_NNP ,_, by_IN Major_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, and_CC Captain_NNP R._NNP P._NNP Wells_NNP ,_, M.A._NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+No_DT ._.
+48_CD ._.
+Investigations_NNS into_IN the_DT Jail_NNP Dietaries_NNP of_IN the_DT United_NNP Provinces_NNPS :_: with_IN some_DT Observations_NNS on_IN the_DT Influence_NNP of_IN Dietary_NNP on_IN the_DT Physical_NNP Development_NNP and_CC well-being_NN of_IN the_DT people_NNS of_IN the_DT United_NNP Provinces_NNPS ,_, by_IN Major_NNP D._NNP McCay_NNP ,_, M.B._NNP ,_, M.R.C.P._NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-12_CD or_CC 3s_CD ._.
+No_DT ._.
+49_CD ._.
+Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ,_, by_IN Major_NNP E._NNP W._NNP D._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S_NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+6d_CD ._.
+Published_VBN by_IN and_CC on_IN sale_NN at_IN the_DT Office_NNP of_IN the_DT Superintendent_NNP of_IN Government_NNP Printing_NNP ,_, India_NNP ,_, Calcutta_NNP Copies_NNP are_VBP also_RB available_JJ from_IN all_DT Agents_NNS for_IN the_DT sale_NN of_IN Government_NNP publications_NNS ._.
+CONTENTS_NNS ._.
+PAGE_NNP INTRODUCTION_NNP 1_CD CHAPTER_NN I_PRP ._.
+STUDY_NNP OF_NNP OUTBREAK_NNP OF_NNP EPIDEMIC_NNP DROPSY_NNP IN_NNP CALCUTTA_NNP IN_NNP 1909_CD 4_CD (_( i_NN )_) METHODS_NNP OF_NNP COLLECTING_NNP INFORMATION_NNP REGARDING_NNP THE_NNP EPIDEMIC_NNP 6_CD (_( ii_NN )_) EPIDEMIOLOGICAL_NNP INVESTIGATIONS_NNP [_NNP ii_NN ]_NNP PAGE_NNP CHAPTER_NNP II_NNP ._.
+NOTE_NN ON_NNP OUTBREAK_NNP RESEMBLING_NNP BERIBERI_NNP AT_NNP BASTI_NNP JAIL_NNP 34_CD CHAPTER_NNP III_NNP ._.
+RELATION_NNP OF_NNP EPIDEMIC_NNP DROPSY_NNP TO_NNP ``_`` SHIP_NNP BERIBERI_NNP ''_'' 39_CD CHAPTER_NNP IV_NNP ._.
+RELATION_NNP OF_NNP EPIDEMIC_NNP DROPSY_NNP TO_NNP SCURVY_NNP 44_CD CHAPTER_NNP V._NNP RESULTS_NNP OF_NNP EXPERIMENTAL_NNP INVESTIGATIONS_NNP 49_CD CHAPTER_NNP VI_NNP ._.
+GENERAL_NNP CONCLUSIONS_NNP 78_CD DESCRIPTION_NNP OF_NNP ILLUSTRATIONS_NNP ._.
+Nos_NNP ._.
+[_JJ iv_NN ]_NNP Nos_NNP ._.
+Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ._.
+INTRODUCTION_NNP ._.
+HAVING_NN completed_VBN my_PRP$ epidemiological_JJ enquiries_NNS at_IN Calcutta_NNP and_CC as_IN no_DT fresh_JJ cases_NNS of_IN the_DT disease_NN were_VBD occurring_VBG I_PRP proceeded_VBD on_IN 11th_CD December_NNP 1910_CD to_TO Kasauli_NNP to_TO officiate_VB (_( for_IN three_CD months_NNS )_) as_IN Director_NNP of_IN the_DT Central_NNP Research_NNP Institute_NNP and_CC also_RB to_TO continue_VB my_PRP$ experimental_JJ investigations_NNS in_IN relation_NN to_TO the_DT etiology_NN of_IN Epidemic_NNP Dropsy_NNP ._.
+On_IN my_PRP$ leaving_VBG Calcutta_NNP the_DT services_NNS of_IN Assistant_NNP Surgeons_NNP Taraknath_NNP Sur_NNP and_CC Charu_NNP Chandra_NNP Bose_NNP were_VBD replaced_VBN at_IN the_DT disposal_NN of_IN the_DT Inspector_NNP General_NNP ,_, Civil_NNP Hospitals_NNP ,_, Ben-_NNP gal_NN ._.
+Assistant_NNP Surgeon_NNP J._NNP G._NNP Mukerji_NNP assisted_VBD me_PRP in_IN the_DT experimental_JJ investigations_NNS at_IN Kasauli_NNP ._.
+This_DT is_VBZ the_DT final_JJ report_NN so_RB far_RB as_IN the_DT present_JJ enquiry_NN is_VBZ concerned_VBN ;_: there_EX are_VBP ,_, however_RB ,_, interesting_VBG problems_NNS arising_VBG out_IN of_IN the_DT investigations_NNS deserving_NN of_IN further_JJ study_NN :_: these_DT problems_NNS are_VBP connected_VBN with_IN the_DT important_JJ question_NN of_IN diet_NN ._.
+In_IN recent_JJ years_NNS ,_, especially_RB in_IN connection_NN with_IN the_DT study_NN of_IN tropical_JJ ._.
+diseases_NNS ,_, a_DT great_JJ deal_NN of_IN attention_NN has_VBZ been_VBN directed_VBN to_TO the_DT parasitic_JJ origin_NN of_IN disease_NN ,_, and_CC deservedly_RB so_RB ,_, because_IN it_PRP is_VBZ a_DT subject_NN of_IN very_RB great_JJ importance_NN ;_: ._.
+this_DT has_VBZ ,_, however_RB ,_, somewhat_RB overshadowed_VBD the_DT question_NN of_IN the_DT relation_NN of_IN defects_NNS of_IN dietary_JJ to_TO the_DT causation_NN of_IN disease_NN in_IN the_DT tropics_NNS ._.
+The_DT time_NN has_VBZ now_RB come_VBN when_WRB the_DT older_JJR methods_NNS of_IN determining_VBG the_DT nutritive_JJ value_NN of_IN food_NN materials_NNS require_VBP reconsideration_NN ,_, and_CC further_JJ investigation_NN is_VBZ wanted_VBN on_IN this_DT important_JJ subject_NN ._.
+Defects_NNS in_IN dietary_JJ not_RB only_RB require_VB careful_JJ atten-_JJ tion_NN from_IN the_DT point_NN of_IN view_NN of_IN diseases_NNS which_WDT result_VBP directly_RB from_IN them_PRP ,_, but_CC they_PRP are_VBP of_IN equal_JJ importance_NN as_IN affecting_VBG the_DT course_NN of_IN certain_JJ diseases_NNS occa-_JJ sioned_VBN by_IN parasites_NNS ,_, as_RB well_RB as_IN the_DT general_JJ health_NN of_IN communities_NNS ._.
+The_DT conclusions_NNS arrived_VBD at_IN in_IN my_PRP$ first_JJ report1_NN have_VBP been_VBN confirmed_VBN by_IN my_PRP$ subsequent_JJ investigations_NNS ._.
+It_PRP may_MD be_VB desirable_JJ to_TO summarise_VB shortly_RB the_DT facts_NNS connected_VBN with_IN the_DT etiology_NN of_IN Epidemic_NNP Dropsy_NNP as_IN determined_VBN by_IN my_PRP$ enquiry_NN at_IN Calcutta_NNP ._.
+In_IN the_DT first_JJ place_NN it_PRP will_MD be_VB seen_VBN that_IN the_DT two_CD severe_JJ epidemics_NNS ,_, in_IN 1878-79_JJ and_CC 1908-09_JJ ,_, in_IN Calcutta_NNP have_VBP commenced_VBN and_CC declined_VBN with_IN a_DT rise_NN and_CC a_DT fall_NN in_IN the_DT price_NN of_IN food_NN grains_NNS ._.
+During_IN the_DT periods_NNS of_IN both_DT the_DT above-mentioned_JJ 1_CD First_NNP Report_NNP on_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP by_IN Major_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP Scientific_NNP Memoir_NNP No_NNP ._.
+45_CD ._.
+B_NNP 2_CD epidemics_NNS there_RB was_VBD a_DT very_RB high_JJ and_CC sustained_JJ rise_NN in_IN the_DT price_NN of_IN food_NN grains_NNS ._.
+In_IN the_DT interval_NN between_IN these_DT severe_JJ outbreaks_VBZ the_DT price_NN curve_NN did_VBD not_RB show_VB such_JJ a_DT change_NN ,_, and_CC associated_VBN with_IN this_DT there_EX was_VBD no_DT severe_JJ out-_JJ break_NN of_IN the_DT disease_NN ._.
+Further_RB ,_, conditions_NNS of_IN dietary_JJ remaining_VBG the_DT same_JJ as_IN at_IN present_NN ,_, an_DT outbreak_NN of_IN Epidemic_NNP Dropsy_NNP may_MD be_VB expected_VBN in_IN the_DT future_NN when_WRB the_DT curve_NN of_IN the_DT price_NN of_IN food_NN grains_NNS again_RB assumes_VBZ the_DT characters_NNS met_VBD with_IN during_IN the_DT two_CD previous_JJ outbreaks_NNS in_IN Calcutta_NNP ._.
+Hence_NN it_PRP will_MD be_VB evi-_JJ dent_NN that_IN a_DT study_NN of_IN this_DT curve_NN is_VBZ a_DT very_RB important_JJ matter_NN ,_, and_CC the_DT curve_NN may_MD be_VB used_VBN as_IN an_DT indicator_NN for_IN forecasting_VBG the_DT occurrence_NN or_CC non-occurrence_NN of_IN conditions_NNS favourable_JJ or_CC unfavourable_JJ to_TO the_DT development_NN of_IN so-callel_JJ Epi-_NNP demic_NN Dropsy_NNP amongst_VBZ the_DT population_NN ._.
+The_DT modus_NN operandi_NN of_IN this_DT factor_NN in_IN the_DT production_NN of_IN Epidemic_NNP Dropsy_NNP will_MD be_VB understood_VBN from_IN a_DT consideration_NN of_IN the_DT following_JJ facts_NNS which_WDT have_VBP been_VBN scientifically_RB demonstrated_VBN ._.
+The_DT signs_NNS and_CC symptoms_NNS of_IN this_DT disease_NN are_VBP liable_JJ to_TO develop_VB when_WRB a_DT diet_NN ,_, largely_RB composed_VBN of_IN polished_JJ rice_NN or_CC poor_JJ in_IN certain_JJ constituents_NNS ,_, is_VBZ consumed_VBN ._.
+In_IN a_DT dietary_JJ largely_RB composed_VBN of_IN polished_JJ rice_NN these_DT essential_JJ constituents_NNS ,_, which_WDT are_VBP required_VBN to_TO meet_VB the_DT physiological_JJ demands_NNS of_IN the_DT body_NN ,_, and_CC especially_RB of_IN the_DT peripheral_JJ nervous_JJ system_NN ,_, are_VBP not_RB present_JJ in_IN sufficient_JJ quantity_NN ;_: but_CC the_DT necessary_JJ constitutents_NNS can_MD be_VB supplied_VBN by_IN supplementing_VBG the_DT dietary_JJ by_IN suitable_JJ articles_NNS of_IN food_NN containing_VBG them_PRP ;_: a_DT full_JJ discussion_NN regarding_VBG the_DT nature_NN of_IN these_DT essential_JJ constituents_NNS will_MD be_VB found_VBN in_IN the_DT chapter_NN devoted_VBN to_TO experimental_JJ investigations_NNS in_IN this_DT report_NN ,_, page_NN 49_CD ._.
+When_WRB the_DT price_NN of_IN food_NN grains_NNS is_VBZ low_JJ ,_, it_PRP is_VBZ possible_JJ to_TO purchase_VB these_DT supplementary_JJ articles_NNS ,_, but_CC when_WRB the_DT price_NN of_IN food_NN grains_NNS rises_NNS and_CC remains_VBZ high_JJ the_DT capacity_NN for_IN purchasing_VBG additional_JJ suitable_JJ articles_NNS of_IN diet_JJ diminishes_NNS and_CC the_DT diet_JJ becomes_VBZ danger-_JJ ously_RB ``_`` One-sided_JJ ._. ''_''
+Enquiry_NN showed_VBD that_IN the_DT section_NN of_IN the_DT population_NN in_IN Calcutta_NNP ,_, amongst_NN whom_WP the_DT disease_NN was_VBD most_RBS prevalent_JJ ,_, was_VBD the_DT class_NN with_IN small_JJ fixed_VBN incomes_NNS ,_, vide_JJ page_NN 10_CD of_IN this_DT report_NN ;_: the_DT reason_NN for_IN this_DT is_VBZ obvious_JJ ,_, seeing_VBG that_IN the_DT purchasing_VBG power_NN of_IN this_DT class_NN is_VBZ definitely_RB limited_JJ ,_, and_CC there-_JJ fore_NN a_DT rise_NN in_IN the_DT price_NN of_IN food_NN grains_NNS affects_VBZ them_PRP most_JJS severely_RB ,_, because_IN they_PRP become_VBP unable_JJ to_TO purchase_VB the_DT additions_NNS necessary_JJ to_TO render_VB the_DT diet_JJ safe_JJ ._.
+In_IN this_DT research_NN it_PRP has_VBZ been_VBN shown_VBN that_IN a_DT most_RBS valuable_JJ portion_NN of_IN the_DT rice_NN ,_, namely_RB ,_, the_DT Koorah_NNP or_CC polishings_NNS ,_, is_VBZ not_RB being_VBG utilised_VBN ,_, this_DT could_MD be_VB pro-_JJ perly_JJ cleaned_VBN and_CC sifted_VBN ,_, and_CC made_VBD available_JJ as_IN an_DT article_NN of_IN diet_NN ._.
+If_IN an_DT adequate_JJ percentage_NN of_IN rice_NN bran_NN is_VBZ consumed_VBN daily_RB ,_, scientific_JJ investigation_NN shows_VBZ that_IN considerable_JJ protection_NN will_MD be_VB afforded_VBN against_IN the_DT accidents_NNS classed_VBN under_IN the_DT heading_VBG Epidemic_NNP Dropsy_NNP ._.
+In_IN this_DT report_NN the_DT subject_NN of_IN rice_NN bran_NN is_VBZ fully_RB discussed_VBN in_IN its_PRP$ various_JJ aspects_NNS ._.
+The_DT question_NN of_IN the_DT addi-_JJ tion_NN of_IN rice_NN bran_NN to_TO the_DT diet_NN and_CC other_JJ questions_NNS dealing_VBG with_IN the_DT removal_NN of_IN defects_NNS in_IN dietary_JJ considered_VBN in_IN my_PRP$ reports_NNS on_IN Epidemic_NNP Dropsy_NNP should_MD 3_CD receive_VB careful_JJ attention_NN from_IN those_DT responsible_JJ for_IN the_DT administration_NN of_IN Jails_NNP ,_, Asylums_NNP ,_, etc._NN ,_, etc._NN ,_, in_IN India_NNP ._.
+Further_RB ,_, in_IN regard_NN to_TO ships_NNS ,_, especially_RB those_DT carrying_VBG Indian_JJ crews_NNS and_CC other_JJ rice-eating_JJ peoples_NNS ,_, the_DT responsible_JJ authorities_NNS should_MD have_VB their_PRP$ attention_NN specially_RB directed_VBN to_TO this_DT and_CC other_JJ matters_NNS dealt_VBP with_IN in_IN my_PRP$ reports_NNS as_IN they_PRP are_VBP of_IN very_RB considerable_JJ importance_NN to_TO shipping_VBG communities_NNS ._.
+B2_NNP 4_CD CHAPTER_NN I_PRP ._.
+Study_NN of_IN the_DT Outbreak_NNP of_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP in_IN 1909_CD ._.
+In_IN the_DT first_JJ place_NN I_PRP shall_MD deal_VB with_IN the_DT complete_JJ study_NN of_IN the_DT outbreak_NN of_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP in_IN 1909_CD ._.
+Before_IN proceeding_VBG to_TO give_VB a_DT detailed_JJ account_NN of_IN the_DT investigations_NNS it_PRP may_MD be_VB well_RB to_TO record_VB a_DT few_JJ facts_NNS regarding_VBG the_DT city_NN of_IN Calcutta_NNP ._.
+The_DT notes_NNS have_VBP been_VBN taken_VBN from_IN the_DT Gazetteer_NNP of_IN India.1_NNP Calcutta_NNP ,_, the_DT capital_NN of_IN the_DT Indian_JJ Empire_NNP ,_, is_VBZ situated_VBN 22°_CD 34_CD ''_'' N._NNP ,_, 88°_CD 22_CD ''_'' E._NNP ,_, on_IN the_DT east_JJ bank_NN of_IN the_DT Hooghly_NNP river_NN ,_, within_IN the_DT 24-Parganas_JJ district_NN ,_, Bengal_NNP ._.
+The_DT city_NN lies_VBZ about_IN 86_CD miles_NNS from_IN the_DT sea_NN and_CC is_VBZ only_RB about_RB 18_CD to_TO 21_CD feet_NNS above_IN mean_NN sea_NN level_NN ._.
+It_PRP covers_VBZ an_DT area_NN of_IN 20,547_CD acres_NNS of_IN which_WDT only_RB 1,792_CD are_VBP rural_JJ ,_, and_CC 1,113_CD acres_NNS form_VBP the_DT maidan_NN ._.
+The_DT city_NN is_VBZ bounded_VBN on_IN all_DT sides_NNS by_IN suburban_JJ municipalities_NNS which_WDT have_VBP been_VBN excluded_VBN from_IN Calcutta_NNP for_IN the_DT purpose_NN of_IN municipal_JJ administration_NN ._.
+These_DT are_VBP Cossipore_NNP Chitpore_NNP on_IN the_DT north_NN ,_, Maniktala_NNP on_IN the_DT east_NN ,_, Garden_NNP Reach_NNP on_IN the_DT south-west_NN ,_, Howrah_NNP on_IN the_DT west_JJS bank_NN of_IN the_DT Hooghly_NNP river_NN ._.
+If_IN these_DT be_VB included_VBN Calcutta_NNP has_VBZ a_DT population_NN of_IN 1,106,738_CD ,_, which_WDT is_VBZ greater_JJR than_IN any_DT European_JJ city_NN except_IN London_NNP ,_, Constantinople_NNP ,_, Paris_NNP ,_, and_CC Berlin_NNP ,_, and_CC of_IN any_DT city_NN in_IN America_NNP ,_, except_IN New_NNP York_NNP ,_, Chicago_NNP ,_, and_CC Philadelphia_NNP ._.
+Excluding_VBG China_NNP ,_, the_DT popula-_JJ tion_NN of_IN whose_WP$ cities_NNS is_VBZ uncertain_JJ ,_, the_DT only_JJ city_NN in_IN Asia_NNP with_IN more_JJR inhabitants_NNS than_IN Calcutta_NNP is_VBZ Tokio_NNP :_: and_CC next_JJ to_TO London_NNP is_VBZ the_DT most_RBS populous_JJ city_NN in_IN the_DT British_JJ Empire_NNP ._.
+In_IN the_DT centre_NN of_IN the_DT town_NN stands_VBZ Fort_NNP William_NNP ,_, surrounded_VBN by_IN the_DT noble_JJ expanse_NN of_IN park_NN known_VBN as_IN the_DT Maidan_NNP ._.
+North_NN of_IN this_DT are_VBP the_DT shops_NNS and_CC busi-_JJ ness_NN houses_NNS of_IN the_DT Europeans_NNPS ,_, whose_WP$ residential_JJ quarter_NN bounds_VBZ it_PRP on_IN the_DT east_NN ._.
+Surrounding_VBG the_DT European_JJ quarter_NN is_VBZ Burra_NNP Bazar_NNP ,_, the_DT chief_JJ centre_NN of_IN native_JJ business_NN :_: the_DT buildings_NNS are_VBP mainly_RB one-storeyed_JJ masonry_NN shops_NNS ,_, and_CC it_PRP is_VBZ only_RB here_RB and_CC in_IN the_DT adjoining_VBG quarters_NNS of_IN Joraabagan_NNP and_CC Bow_NNP Bazar_NNP that_IN brick_NN buildings_NNS are_VBP more_RBR numerous_JJ than_IN tiled_VBN huts_NNS ._.
+Three-fifths_NNS of_IN the_DT whole_JJ popu-_JJ lation_NN live_NN in_IN the_DT latter_NN which_WDT have_VBP mud_NN or_CC wattle_VB walls_NNS and_CC are_VBP known_VBN as_IN kachcha_NN ,_, houses_NNS ._.
+The_DT native_JJ town_NN is_VBZ traversed_VBN by_IN three_CD main_JJ roads_NNS from_IN north_JJ to_TO south_VB ,_, and_CC by_IN five_CD or_CC six_CD roads_NNS from_IN east_JJ to_TO west_JJS ,_, but_CC with_IN these_DT excep-_JJ tions_NNS it_PRP is_VBZ extremely_RB ill-arranged_JJ ._.
+The_DT lanes_NNS are_VBP tortuous_JJ and_CC badly_RB lit_VBD ;_: the_DT dwellings_NNS are_VBP overcrowded_VBN and_CC insanitary_JJ ;_: and_CC the_DT overwhelming_JJ propor-_JJ tion_NN of_IN one-storeyed_JJ houses_NNS gives_VBZ this_DT portion_NN of_IN the_DT town_NN a_DT peculiarly_JJ squalid_JJ appearance_NN ._.
+1_CD Vol_NNP ._.
+IX_NNP ,_, 1908_CD ._.
+5_CD The_DT soil_NN on_IN which_WDT Calcutta_NNP has_VBZ been_VBN built_VBN has_VBZ been_VBN formed_VBN at_IN a_DT compara-_NN tively_RB recent_JJ date_NN by_IN the_DT alluvial_JJ deposit_NN of_IN the_DT Gangetic_NNP delta_NN ;_: excavations_NNS made_VBN for_IN tanks_NNS and_CC foundations_NNS disclose_VB alternate_JJ layers_NNS of_IN sand_NN and_CC clay_NN ._.
+The_DT climate_NN is_VBZ hot_JJ and_CC moist_NN ._.
+The_DT mean_JJ temperature_NN averages_NNS 79°_CD F._NNP ,_, the_DT mean_JJ maximum_NN being_VBG 102°_CD F._NNP in_IN May_NNP ,_, and_CC the_DT mean_JJ minimum_JJ 48°_CD F._NNP in_IN Janu-_NNP ary_NN ._.
+The_DT average_JJ temperature_NN in_IN the_DT hot_JJ season_NN is_VBZ 85°_CD F._NNP ,_, in_IN the_DT rains_NNS 83°_CD F._NNP ,_, and_CC in_IN the_DT cold_JJ season_NN 72°_CD F._NNP Humidity_NNP averages_VBZ 78_CD per_IN cent_NN ._.
+of_IN saturation_NN ,_, ranging_VBG from_IN 69_CD per_IN cent_NN ._.
+in_IN March_NNP to_TO 89_CD per_IN cent_NN ._.
+in_IN August_NNP ._.
+The_DT annual_JJ rainfall_NN averages_NNS 60_CD inches_NNS ,_, and_CC the_DT average_JJ number_NN of_IN rainy_JJ days_NNS in_IN the_DT year_NN is_VBZ 118_CD ._.
+The_DT population_NN of_IN Calcutta_NNP in_IN 1901_CD was_VBD 847,796_CD ,_, the_DT mean_JJ den-_JJ sity_NN being_VBG 41_CD persons_NNS per_IN acre_NN for_IN the_DT whole_JJ city_NN ,_, and_CC 68_CD in_IN Calcutta_NNP proper_NN ._.
+Judged_VBN by_IN European_JJ standards_NNS the_DT city_NN is_VBZ seriously_RB overcrowded_VBN :_: more_JJR than_IN half_PDT the_DT population_NN have_VBP less_JJR than_IN half_PDT a_DT room_NN per_IN head_NN ,_, and_CC 90_CD per_IN cent_NN ._.
+have_VB three-quarters_NNS of_IN a_DT room_NN or_CC less_JJR ._.
+In_IN the_DT whole_JJ population_NN there_EX are_VBP only_RB half_RB as_IN many_JJ women_NNS as_IN men_NNS ._.
+This_DT is_VBZ due_JJ to_TO the_DT large_JJ number_NN of_IN immigrants_NNS ,_, among_IN whom_WP there_EX are_VBP only_RB 279_CD females_NNS to_TO 1,000_CD males_NNS ;_: the_DT majority_NN of_IN these_DT are_VBP temporary_JJ settlers_NNS who_WP leave_VBP their_PRP$ families_NNS at_IN home_NN ._.
+Another_DT result_NN of_IN the_DT large_JJ volume_NN of_IN immi-_JJ gration_NN is_VBZ that_IN 44_CD per_IN cent_NN ._.
+of_IN the_DT entire_JJ population_NN are_VBP adult_JJ males_NNS ,_, which_WDT is_VBZ double_JJ the_DT proportion_NN of_IN the_DT whole_NN of_IN Bengal_NNP ._.
+Nearly_RB a_DT third_JJ of_IN the_DT inhabitants_NNS of_IN Calcutta_NNP are_VBP engaged_VBN in_IN manufac-_JJ tures_NNS and_CC nearly_RB a_DT fourth_JJ in_IN trade_NN ,_, while_IN personal_JJ service_NN accounts_NNS for_IN a_DT sixth_JJ ._.
+The_DT city_NN has_VBZ been_VBN divided_VBN into_IN four_CD municipal_JJ districts_NNS ,_, each_DT with_IN its_PRP$ own_JJ staff_NN for_IN conservancy_NN ,_, roads_NNS ,_, and_CC buildings_NNS ._.
+The_DT drinking_NN water_NN supply_NN is_VBZ derived_VBN from_IN the_DT Hooghly_NNP river_NN at_IN Palta_NNP ,_, 17_CD miles_NNS north_RB of_IN Calcutta_NNP ,_, where_WRB it_PRP is_VBZ pumped_VBN up_RP into_IN settling_VBG tanks_NNS and_CC filtered_VBN ._.
+The_DT pure_JJ water_NN is_VBZ conveyed_VBN by_IN gravitation_NN through_IN iron_NN mains_NNS to_TO masonry_VB reservoirs_NNS at_IN the_DT north_JJ end_NN of_IN the_DT city_NN ._.
+Thence_NN it_PRP is_VBZ pumped_VBN into_IN distributing_VBG mains_NNS and_CC three_CD other_JJ reservoirs_NNS in_IN different_JJ quarters_NNS of_IN the_DT city_NN ,_, and_CC from_IN these_DT it_PRP is_VBZ again_RB pumped_VBN into_IN distributing_VBG pipes_NNS ._.
+The_DT scheme_NN was_VBD inaugurated_VBN in_IN 1860_CD ,_, and_CC it_PRP was_VBD then_RB intended_VBN to_TO supply_VB 6,000,000_CD gallons_NNS per_IN diem_NN or_CC 15_CD gallons_NNS per_IN head_NN ._.
+In_IN recent_JJ years_NNS the_DT works_NNS have_VBP been_VBN greatly_RB extended_VBN ,_, and_CC the_DT Corporation_NNP has_VBZ now_RB three_CD pumping_VBG stations_NNS at_IN Palta_NNP and_CC four_CD in_IN the_DT city_NN ;_: there_EX are_VBP 1,997_CD standposts_NNS and_CC 5,904_CD ground_NN hydrants_NNS ,_, and_CC the_DT number_NN of_IN filtered_JJ water_NN connections_NNS exceeds_VBZ 26,000_CD ._.
+These_DT give_VBP to_TO Calcutta_NNP and_CC the_DT adjacent_JJ towns_NNS of_IN Barrackpore_NNP ,_, Dum-Dum_NNP ,_, Cossipore_NNP Chit-_NNP pore_NN ,_, Maniktala_NNP ,_, and_CC Garden_NNP Reach_NNP a_DT daily_JJ supply_NN of_IN over_IN 7,624,000,000_CD gallons_NNS of_IN filtered_JJ water_NN ,_, or_CC 21½_CD gallons_NNS per_IN head_NN ._.
+6_CD The_DT streets_NNS are_VBP watered_VBN and_CC the_DT drains_NNS flushed_VBN with_IN unfiltered_JJ water_NN pumped_VBD up_RP in_IN Calcutta_NNP ,_, and_CC for_IN these_DT purposes_NNS there_EX are_VBP more_JJR than_IN 3,500_CD connections_NNS ._.
+The_DT scheme_NN of_IN underground_JJ drainage_NN ,_, by_IN which_WDT the_DT city_NN is_VBZ freed_VBN of_IN sur-_JJ plus_JJ water_NN and_CC of_IN filth_NN ,_, which_WDT water_NN will_MD carry_VB ,_, was_VBD inaugurated_VBN half_PDT a_DT cen-_JJ tury_NN ago_RB ._.
+The_DT drainage_NN is_VBZ carried_VBN eastwards_NNS by_IN a_DT series_NN of_IN five_CD parallel_NNS conduits_NNS which_WDT discharge_VBP into_IN an_DT intercepting_VBG sewer_NN ,_, and_CC thence_NN into_IN a_DT large_JJ well_NN at_IN Tangra_NNP in_IN the_DT eastern_JJ suburbs_NN ._.
+There_EX it_PRP is_VBZ raised_VBN by_IN steam_NN pumps_NNS into_IN a_DT high_JJ level_NN sewer_NN ,_, which_WDT carries_VBZ it_PRP to_TO the_DT salt_NN water_NN lakes_VBD east_NN of_IN the_DT city_NN ,_, there_EX to_TO undergo_VB oxidation_NN ._.
+The_DT original_JJ project_NN was_VBD commenced_VBN in_IN 1859_CD and_CC took_VBD sixteen_JJ years_NNS to_TO complete_VB ;_: but_CC meanwhile_RB fresh_JJ additions_NNS had_VBD been_VBN found_VBN necessary_JJ ,_, these_DT are_VBP still_RB incomplete_JJ so_RB far_RB as_IN the_DT ``_`` added_JJ area_NN ``_`` is_VBZ concerned_VBN ._.
+(_( i_NN )_) Method_NNP of_IN collecting_VBG :_: Information_NN regarding_VBG the_DT Epidemic_NNP in_IN Calcutta_NNP ._.
+As_IN the_DT cases_NNS of_IN Epidemic_NNP Dropsy_NNP were_VBD not_RB notified_VBN to_TO the_DT Health_NNP Depart-_NNP ment_NN ,_, Calcutta_NNP ,_, it_PRP was_VBD necessary_JJ to_TO seek_VB out_RP as_IN many_JJ of_IN these_DT cases_NNS as_IN possible_JJ and_CC make_VB full_JJ enquiry_NN regarding_VBG them_PRP ._.
+From_IN the_DT inspection_NN of_IN bodies_NNS at_IN the_DT burning_VBG Ghaut_NNP ,_, Calcutta_NNP ,_, a_DT rough_JJ estimate_NN of_IN the_DT cause_NN of_IN death_NN is_VBZ made_VBN ,_, and_CC the_DT name_NN and_CC address_NN of_IN the_DT deceased_VBN is_VBZ taken_VBN ._.
+From_IN this_DT source_NN ,_, informa-_JJ tion_NN regarding_VBG the_DT deaths_NNS stated_VBN to_TO be_VB due_JJ to_TO Epidemic_NNP Dropsy_NNP was_VBD obtained_VBN ,_, and_CC formed_VBD the_DT starting_NN point_NN for_IN further_JJ investigations_NNS at_IN the_DT house_NN of_IN the_DT deceased_VBN ,_, where_WRB it_PRP was_VBD found_VBN ,_, as_IN a_DT rule_NN ,_, that_IN other_JJ cases_NNS of_IN Epidemic_NNP Dropsy_NNP were_VBD present_JJ among_IN the_DT family_NN ,_, or_CC there_EX was_VBD a_DT history_NN of_IN previous_JJ cases_NNS or_CC deaths_NNS ._.
+From_IN the_DT Health_NNP Officer_NNP ,_, Calcutta_NNP ,_, I_PRP obtained_VBD a_DT complete_JJ list_NN of_IN the_DT names_NNS and_CC addresses_NNS of_IN all_DT fatal_JJ cases_NNS of_IN Epidemic_NNP Dropsy_NNP reported_VBD from_IN the_DT burning_VBG Ghaut_NNP ,_, and_CC the_DT houses_NNS and_CC inhabitants_NNS were_VBD carefully_RB investigated_VBN by_IN myself_PRP or_CC my_PRP$ assistants_NNS and_CC the_DT information_NN obtained_VBN was_VBD recorded_VBN on_IN two_CD forms_NNS which_WDT I_PRP had_VBD prepared_VBN specially_RB for_IN the_DT purpose_NN ,_, see_VBP appendix_RB to_TO my_PRP$ first_JJ report1_NN on_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ._.
+During_IN the_DT year_NN ,_, 1909-10_JJ ,_, I_PRP was_VBD engaged_VBN on_IN the_DT enquiry_NN at_IN Calcutta_NNP ,_, I_PRP investigated_VBD 321_CD houses_NNS with_IN a_DT total_NN of_IN 4,637_CD inhabitants_NNS among_IN whom_WP were_VBD 1,581_CD cases_NNS of_IN Epidemic_NNP Dropsy_NNP ._.
+In_IN this_DT way_NN a_DT large_JJ amount_NN of_IN valuable_JJ information_NN regarding_VBG the_DT epidemic_NN was_VBD recorded_VBN ._.
+In_IN my_PRP$ first_JJ report1_VB some_DT of_IN the_DT facts_NNS obtained_VBN were_VBD dealt_JJ with_IN and_CC in_IN this_DT report_NN the_DT remainder_NN are_VBP given_VBN in_IN full_JJ ._.
+In_IN dealing_VBG with_IN the_DT information_NN collected_VBD it_PRP has_VBZ been_VBN divided_VBN into_IN Epidemiological_NNP ,_, Symptomatological_NNP ,_, and_CC Dietetic_NNP ._.
+1_CD First_NNP Report_NNP on_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP by_IN Major_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, Scientific_NNP Memoir_NNP No_NNP ._.
+45_CD ._.
+I_PRP ._.
+CHART_NNP SHOWING_NNP THE_NNP MONTHLY_NNP INCIDENCE_NNP OF_NNP EPIDEMIC_NNP DROPSY_NNP DURING_NNP 1909_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061087.tif_CD ]_JJ NUMBER_NNP OF_NNP CASES_NNP OF_NNP EPIDEMIC_NNP DROPSY_NNP ._.
+By_IN B._NNP L._NNP DAS_NNP ._.
+ARTIST_NNP ._.
+7_CD (_( ii_NN )_) Epidemiological_JJ Investigations_NNS ._.
+1_CD ._.
+Annual_JJ Incidence_NNP of_IN Cases_NNP ._.
+The_DT following_VBG table_NN shows_VBZ the_DT number_NN of_IN cases_NNS of_IN Epidemic_NNP Dropsy_NNP in-_NN vestigated_VBD which_WDT occurred_VBD in_IN Calcutta_NNP in_IN 1907-08-09-10:8_CD The_DT following_VBG table_NN shows_VBZ the_DT number_NN of_IN houses_NNS investigated_VBN in_IN which_WDT cases_NNS of_IN Epidemic_NNP Dropsy_NNP were_VBD ascertained_VBN to_TO have_VB occurred_VBN in_IN the_DT various_JJ Wards_NNS in_IN Calcutta_NNP in_IN 1909:9_CD 5_CD ._.
+General_NNP Mortality_NNP amongst_VBP Cases_NNP of_IN Epidemic_NNP Dropsy_NNP investigated_VBD The_DT following_VBG table_NN shows_VBZ the_DT total_JJ number_NN of_IN cases_NNS of_IN Epidemic_NNP Dropsy_NNP investigated_VBD and_CC the_DT total_JJ number_NN of_IN deaths_NNS amongst_IN these_DT cases:10_NNS 8_CD ._.
+Mortality_NN from_IN Epidemic_NNP Dropsy_NNP at_IN different_JJ Age_NNP Periods_NNP ._.
+The_DT following_VBG table_NN shows_VBZ the_DT total_JJ number_NN of_IN fatal_JJ cases_NNS of_IN Epidemic_NNP Dropsy_NNP investigated_VBD ,_, the_DT number_NN of_IN deaths_NNS from_IN Epidemic_NNP Dropsy_NNP in_IN each_DT of_IN the_DT following_JJ age_NN periods_NNS amongst_VBP males_NNS and_CC females_NNS :_: II_NNP ._.
+AGE_NNP DISTRIBUTION_NNP OF_IN 1000_CD OF_IN EACH_NNP SEX_NNP IN_NNP CALCUTTA_NNP (_( CENSUS_NNP OF_NNP INDIA_NNP ,_, 1901_CD ._.
+Vol_NNP ._.
+VII_NNP ._.
+PART_NN IV_NNP ._. )_)
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061102.tif_CD ]_NNS PER_NNP THOUSAND_NNP ._.
+II_NNP ._.
+AGE_NNP DISTRIBUTION_NNP OF_IN 1000_CD OF_IN EACH_NNP SEX_NNP IN_NNP CALCUTTA_NNP (_( CENSUS_NNP OF_NNP INDIA_NNP ,_, 1901_CD ._.
+Vol_NNP ._.
+VII_NNP ._.
+PART_NN IV_NNP ._. )_)
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061105.tif_CD ]_JJ NUMBER_NNP PER_NNP THOUSAND_NNP ._.
+BY_NNP B.L.DAS_NNP ._.
+ARTIST_NNP ._.
+MALES.=III_NNP ._.
+AGE_NNP INCIDENCE_NNP OF_NNP EPIDEMIC_NNP DROPSY_NNP ._.
+MALE_NN AND_CC FEMALE_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061111.tif_CD ]_JJ NUMBER_NNP OF_NNP CASES_NNP OF_NNP EPIDEMIC_NNP DROPSY_NNP ._.
+BY_NNP B.L.DAS_NNP ._.
+ARTIST._NNP ,_, IV_NNP ._.
+CHART_NNP SHOWING_NNP MORTALITY_NNP FROM_NNP EPIDEMIC_NNP DROPSY_NNP AT_NNP VARIOUS_NNP AGE_NNP PERIODS_NNP ._.
+MALE_NN AND_CC FEMALE_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061117.tif_CD ]_JJ NUMBER_NNP OF_NNP FATAL_NNP CASES_NNP ._.
+OF_IN EPIDEMIC_NNP DROPSY_NNP ._.
+BY_NNP B.L.DAS_NNP ._.
+ARTIST_NNP V._NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061126.tif_CD ]_NNS BY_NNP B._NNP L_NNP DAS._NNP ,_, CALCUTTA_NNP ._.
+11_CD 2.12_CD 11_CD ._.
+Case_NNP Mortality_NNP amongst_VBP Hindu_NNP Females_NNP (_( Married_NNP ,_, Unmarried_NNP ,_, and_CC Widows_NNP )_) ._.
+The_DT following_VBG table_NN shows_VBZ the_DT case_NN mortality_NN from_IN Epidemic_NNP Dropsy_NNP amongst_VBZ female_JJ Hindus_NNP in_IN Calcutta:13_NNP (_( 3_CD )_) Households_NNP of_IN four_CD families_NNS ._.
+Total_JJ number_NN of_IN house-_JJ holds_VBZ investigated_VBN ._.
+NUMBER_NNP OF_NNP HOUSEHOLDS_NNP IN_NNP WHICH_NNP One_NNP family_NN attacked_VBD ._.
+Two_CD families_NNS attacked_VBD ._.
+Three_CD families_NNS attacked_VBD ._.
+Four_CD families_NNS attacked_VBN ._.
+16_CD 10_CD 4_CD 2_CD 0_CD (_( 4_CD )_) Households_NNS of_IN five_CD families_NNS ._.
+Total_JJ number_NN of_IN households_NNS investigated_VBN ._.
+NUMBER_NNP OF_NNP HOUSEHOLDS_NNP IN_NNP WHICH_NNP One_NNP family_NN attacked_VBD ._.
+Two_CD families_NNS attacked_VBD ._.
+Three_CD families_NNS attacked_VBD ._.
+Four_CD families_NNS attacked_VBN ._.
+Five_CD families_NNS attacked_VBN ._.
+1_CD 1_CD 0_CD 0_CD 0_CD 0_CD (_( 5_CD )_) Households_NNS of_IN six_CD families_NNS ._.
+Total_JJ number_NN of_IN households_NNS investigated_VBN ._.
+NUMBER_NNP OF_NNP HOUSEHOLDS_NNP IN_NNP WHICH_NNP One_NNP family_NN attacked_VBD ._.
+Two_CD families_NNS attacked_VBD ._.
+Three_CD families_NNS attacked_VBD ._.
+Four_CD families_NNS attacked_VBN ._.
+Five_CD families_NNS attacked_VBN ._.
+Six_NNP families_NNS attacked_VBD ._.
+2_CD 1_CD 0_CD 1_CD 0_CD 0_CD 0_CD (_( 6_CD )_) Households_NNS of_IN more_JJR thaw_JJ six_CD families_NNS ._.
+Number_NNP of_IN families_NNS in_IN household_NN ._.
+Total_JJ number_NN of_IN such_JJ households_NNS investigated_VBN ._.
+NUMBER_NNP OF_NNP HOUSEHOLDS_NNP IN_NNP WHICH_NNP One_NNP family_NN attacked_VBD ._.
+More_JJR than_IN one_CD attacked_NN ._.
+7_CD 1_CD 1_CD 0_CD 9_CD 2_CD 2_CD 0_CD 10_CD 1_CD 1_CD 0_CD 11_CD 1_CD 1_CD 0_CD 12_CD 1_CD 1_CD 0_CD In_IN the_DT above_NN tables_VBZ some_DT of_IN the_DT households_NNS investigated_VBN have_VBP been_VBN classi-_JJ fied_VBN into_IN those_DT with_IN 2_CD ,_, 3_CD ,_, 4_CD ,_, 5_CD ,_, and_CC 6_CD families_NNS ,_, and_CC the_DT results_NNS of_IN the_DT enquiry_NN as_IN to_TO the_DT number_NN of_IN families_NNS in_IN each_DT household_NN which_WDT was_VBD attacked_VBN by_IN Epidemic_NNP Dropsy_NNP stated_VBD ._.
+It_PRP is_VBZ interesting_VBG to_TO note_VB that_IN in_IN the_DT great_JJ majority_NN of_IN instances_NNS 14_CD 1_CD family_NN only_RB in_IN these_DT various_JJ sized_VBD households_NNS was_VBD attacked_VBN ._.
+This_DT limita-_JJ tion_NN of_IN the_DT disease_NN to_TO single_JJ families_NNS in_IN households_NNS is_VBZ important_JJ in_IN regard_NN to_TO the_DT question_NN of_IN infectivity_NN of_IN the_DT disease_NN ._.
+That_DT is_VBZ to_TO say_VB ,_, that_WDT amongst_VBZ the_DT healthy_JJ inhabitants_NNS there_EX were_VBD foci_NNS of_IN persons_NNS attacked_VBN by_IN Epidemic_NNP Dropsy_NNP and_CC the_DT disease_NN did_VBD not_RB spread_VB from_IN these_DT foci_NNS to_TO the_DT unaffected_JJ population_NN ._.
+The_DT question_NN of_IN the_DT infectivity_NN of_IN Epidemic_NNP Dropsy_NNP has_VBZ been_VBN discussed_VBN fully_RB in_IN my_PRP$ previous_JJ report,1_NN and_CC reference_NN to_TO it_PRP should_MD be_VB made_VBN in_IN this_DT connection_NN ._.
+13_CD ._.
+Degree_NNP of_IN Communication_NNP between_IN Families_NNP in_IN Households_NNP affected_VBD by_IN Epidemic_NNP Dropsy_NNP ._.
+The_DT following_VBG table_NN shows_VBZ the_DT degree_NN of_IN communication_NN between_IN families_NNS in_IN households_NNS affected_VBN by_IN Epidemic_NNP Dropsy_NNP ,_, the_DT food_NN and_CC cooking_VBG arrange-_JJ ments_NNS of_IN these_DT families_NNS ,_, and_CC the_DT occurrence_NN or_CC non-occurrence_NN of_IN Epidemic_NNP Dropsy_NNP in_IN unaffected_JJ families:15_NN This_DT table_NN was_VBD referred_VBN to_TO in_IN my_PRP$ first_JJ report.1It_JJ very_RB clearly_RB demon-_JJ strates_VBZ the_DT fact_NN that_IN the_DT spread_NN of_IN the_DT disease_NN does_VBZ not_RB follow_VB the_DT importation_NN of_IN cases_NNS into_IN households_NNS previously_RB free_VBP from_IN infection_NN ;_: and_CC taken_VBN along_RB with_IN the_DT other_JJ evidence_NN supports_VBZ the_DT contention_NN that_IN Epidemic_NNP Dropsy_NNP is_VBZ non-_JJ infectious_JJ ._.
+15_CD ._.
+Incidence_NN of_IN Epidemic_NNP Dropsy_NNP amongst_NN Servants_NNS ._.
+The_DT following_VBG table_NN shows_VBZ the_DT number_NN of_IN servants_NNS in_IN households_NNS in_IN which_WDT cases_NNS of_IN Epidemic_NNP Dropsy_NNP occurred_VBD ,_, and_CC the_DT number_NN of_IN servants_NNS attacked_VBN by_IN Epidemic_NNP Dropsy_NNP :16_IN It_PRP is_VBZ noteworthy_JJ that_IN when_WRB single_JJ cases_NNS of_IN Epidemic_NNP Dropsy_NNP were_VBD report-_JJ ed_NN from_IN a_DT house_NN it_PRP was_VBD found_VBN ,_, on_IN investigation_NN ,_, that_IN either_CC the_DT disease_NN was_VBD not_RB Epidemic_NNP Dropsy_NNP ,_, or_CC that_IN the_DT case_NN had_VBD been_VBN imported_VBN ._.
+It_PRP was_VBD rare_JJ for_IN a_DT single_JJ individual_NN to_TO be_VB attacked_VBN in_IN a_DT household_NN ;_: generally_RB a_DT whole_JJ family_NN ._.
+17_CD ._.
+Sanitation_NN of_IN Houses_NNP in_IN which_WDT Cases_NNP of_IN Epidemic_NNP Dropsy_NNP occurred_VBD ._.
+The_DT following_VBG table_NN shows_VBZ the_DT number_NN of_IN houses_NNS investigated_VBN ,_, in_IN which_WDT cases_NNS of_IN Epidemic_NNP Dropsy_NNP occurred_VBD ,_, and_CC the_DT condition_NN of_IN the_DT sanitation_NN of_IN these_DT houses:17_NN From_IN this_DT table_NN it_PRP will_MD be_VB observed_VBN that_IN from_IN 3_CD to_TO 4_CD months_NNS was_VBD the_DT dura-_JJ tion_NN of_IN the_DT disease_NN in_IN 40.4_CD per_IN cent_NN ._.
+of_IN the_DT total_JJ number_NN of_IN cases_NNS examined_VBN and_CC 5_CD to_TO 6_CD months_NNS in_IN 24.9_CD per_IN cent_NN ._.
+It_PRP will_MD be_VB seen_VBN from_IN these_DT figures_NNS that_IN the_DT duration_NN of_IN the_DT disease_NN is_VBZ prolonged_VBN ._.
+In_IN many_JJ cases_NNS certain_JJ symptoms_NNS ,_, e.g._NN ,_, cardiac_JJ disturbance_NN ,_, slight_VBD 18_CD 5_CD ._.
+19_CD Maynard1_NNP contributes_VBZ an_DT interesting_JJ note_NN on_IN increased_JJ intraocular_JJ ten-_JJ sion_NN met_VBD with_IN in_IN cases_NNS of_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ._.
+He_PRP states_VBZ ,_, ``_`` On_IN examining_VBG them_PRP one_CD usually_RB finds_VBZ the_DT cornea_NN a_DT little_JJ steamy_NN ;_: the_DT anterior_JJ chamber_NN normal_JJ or_CC deep_JJ ,_, pupils_VB small_JJ or_CC moderately_RB dilated_JJ and_CC acting_VBG but_CC sluggishly_JJ to_TO light_NN ;_: there_EX is_VBZ sometimes_RB complaint_NN of_IN pain_NN ,_, but_CC rarely_RB is_VBZ there_EX any_DT injection_NN of_IN the_DT vessels_NNS ._.
+The_DT tension_NN of_IN the_DT eyeball_NN is_VBZ usually_RB distinctly_RB increased_VBN ;_: sometimes_VBZ it_PRP is_VBZ normal_JJ ,_, in_IN one_CD case_NN it_PRP was_VBD diminished_VBN ._.
+Halos_NNP ,_, gene-_JJ rally_NN rainbow-like_JJ ,_, are_VBP spontaneously_RB complained_VBN of_IN by_IN those_DT not_RB complain-_JJ ing_NN of_IN dimness_NN of_IN vision_NN ;_: it_PRP will_MD often_RB be_VB found_VBN that_IN they_PRP have_VBP had_VBN halos_VBN at_IN some_DT time_NN or_CC another_DT during_IN the_DT attack_NN of_IN dropsy_NN ._.
+These_DT halos_NNS are_VBP some-_JJ times_NNS seen_VBN early_RB in_IN the_DT morning_NN ,_, but_CC more_RBR often_RB later_RB in_IN the_DT day_NN and_CC lasting_VBG only_RB a_DT few_JJ hours_NNS ,_, sometimes_RB recurring_VBG again_RB in_IN the_DT evening_NN ._.
+They_PRP are_VBP not_RB due_JJ to_TO conjunctival_JJ secretion_NN ._.
+Usually_RB the_DT failure_NN of_IN the_DT vision_NN follows_VBZ the_DT dropsy_NN ,_, but_CC in_IN some_DT cases_NNS it_PRP is_VBZ noticed_VBN at_IN the_DT same_JJ time_NN and_CC in_IN two_CD cases_NNS it_PRP preceded_VBD the_DT dropsical_JJ signs_NNS by_IN a_DT short_JJ interval._NN ``_``
+Two-thirds_NNS of_IN the_DT cases_NNS showed_VBD pathological_JJ cupping_NN of_IN the_DT disc_NN from_IN 2_CD to_TO 6_CD D_NNP in_IN depth_NN ,_, a_DT few_JJ showed_VBD only_RB physiological_JJ cupping_NN ,_, though_IN usually_RB of_IN considerable_JJ extent_NN ,_, and_CC a_DT few_JJ showed_VBD no_DT cupping_NN at_IN all_DT ._.
+The_DT retinal_JJ veins_NNS are_VBP usually_RB engorged_VBN and_CC both_DT they_PRP and_CC the_DT arteries_NNS show_VBP marked_JJ pressure_NN pulsation_NN in_IN several_JJ cases_NNS ._.
+Priestly_RB Smith_NNP 's_POS scotometer_NN frequently_RB gave_VBD nega-_JJ tive_JJ results_NNS ,_, Bijerrum_NNP 's_POS sign_NN being_VBG absent_NN ._.
+The_DT fields_NNS were_VBD generally_RB contracted_VBN ,_, especially_RB on_IN the_DT nasal_JJ side_NN ._.
+In_IN none_NN was_VBD the_DT eyeball_NN enlarged_VBD ._.
+None_NN had_VBD R._NNP P._NNP or_CC signs_NNS of_IN iritis_NN ,_, past_NN or_CC present_NN ._.
+None_NN of_IN the_DT patients_NNS had_VBD markedly_RB small_JJ corneæ_NN ._.
+Two_CD were_VBD myopes_NNS ._.
+Two-thirds_NNS were_VBD men_NNS and_CC one-third_JJ women_NNS ._.
+The_DT ages_NNS of_IN all_DT except_IN 2_CD were_VBD under_IN 36_CD ._.
+Eight_CD were_VBD under_IN 28_CD ,_, and_CC ._.
+there_EX was_VBD no_DT family_NN history_NN of_IN Glaucoma_NNP forthcoming_NN ._. ''_''
+9_CD ._.
+Skin_NNP Lesions_NNP in_IN Epidemic_NNP Dropsy_NNP ._.
+The_DT following_VBG table_NN shows_VBZ the_DT kind_NN and_CC frequency_NN of_IN occurrence_NN of_IN skin_JJ lesions_NNS in_IN Epidemic_NNP Dropsy:20_NNP The_DT petechiæ_NN were_VBD quite_RB distinct_JJ from_IN the_DT mottling_NN and_CC their_PRP$ distribu-_JJ tion_NN was_VBD different_JJ ,_, being_VBG found_VBN on_IN the_DT back_NN ,_, chest_NN and_CC other_JJ places_NNS ,_, whilst_VBP the_DT mottling_NN was_VBD confined_VBN to_TO the_DT 21_CD In_IN severe_JJ cases_NNS with_IN generalised_JJ 22_CD follows_VBZ that_IN the_DT blood_NN of_IN a_DT Beriberi_NNP case_NN is_VBZ much_RB richer_JJR in_IN water_NN than_IN a_DT healthy_JJ person_NN ._.
+Schaumann1_NNP gives_VBZ the_DT results_NNS of_IN his_PRP$ analyses_NNS of_IN the_DT urine_NN and_CC fæces_NNS of_IN cases_NNS of_IN ``_`` Ship_NNP Beriberi_NNP ``_`` at_IN Hamburg_NNP ._.
+The_DT following_VBG table_NN from_IN his_PRP$ monograph_NN shows_VBZ the_DT results_NNS of_IN his_PRP$ analy-_JJ sis_NN of_IN urine_JJ and_CC fæces_NNS before_IN treatment_NN and_CC after_IN treatment:23_JJ INCREASE_NNP OF_NNP P2O5_NNP IN_NNP 624_CD Schaumann1_NNP also_RB gives_VBZ the_DT following_JJ table:25_NN Without_IN Phosphorus_NNP treatment_NN ._.
+AVERAGE_JJ OUTPUT_NNP IN_NNP 24_CD HOURS_NNP ._.
+Quantity_NN ._.
+Specific_JJ gravity_NN ._.
+Calcium_NNP oxide_NN ._.
+Sodium_NNP chloride_NN ._.
+Sulphuric_JJ acid_NN ._.
+Phosphoric_NNP acid_NN ._.
+Urea_NNP ._.
+c._NN c._NN Gram_NNP ._.
+Gram_NNP ._.
+Gram_NNP ._.
+Gram_NNP ._.
+On_IN first_JJ day_NN 1,147_CD 1.021_CD 0.2736_CD 9.8170_CD 1.9563_CD 2.3996_CD 25.66_CD After_IN 12_CD days_NNS 778_CD 1.022_CD 0.1636_CD 6.4416_CD 1.4185_CD 2.3334_CD 17.06_CD Difference_NN 26_CD Schaumann_NNP tested_VBD the_DT effect_NN of_IN the_DT addition_NN of_IN various_JJ other_JJ phosphorus_NN containing_VBG substances_NNS to_TO the_DT diet_NN on_IN the_DT output_NN of_IN phosphorus_NN in_IN the_DT urine_NN ._.
+He_PRP found_VBD that_IN the_DT greatest_JJS increase_NN in_IN the_DT output_NN was_VBD given_VBN with_IN Mung_NNP dal_NN and_CC the_DT least_JJS with_IN yeast_NN ._.
+The_DT beneficial_JJ action_NN of_IN Mung_NNP dal_NN in_IN the_DT preventive_NN and_CC curative_JJ treat-_JJ ment_NN of_IN Epidemic_NNP Dropsy_NNP is_VBZ fully_RB discussed_VBN in_IN this_DT report_NN ,_, page_NN 49_CD ._.
+(_( iv_NN )_) Diet_NNP in_IN Epidemic_NNP Dropsy_NNP ._.
+As_IN it_PRP became_VBD early_JJ evident_NN in_IN the_DT course_NN of_IN the_DT enquiry_NN that_IN there_EX was_VBD a_DT relationship_NN between_IN the_DT causation_NN of_IN Epidemic_NNP Dropsy_NNP and_CC the_DT kind_NN of_IN food_NN consumed_VBN ,_, detailed_JJ notes_NNS of_IN the_DT diet_NN in_IN each_DT case_NN of_IN Epidemic_NNP Dropsy_NNP investi-_NN gated_VBN were_VBD made_VBN ,_, and_CC these_DT records_NNS were_VBD analysed_VBN with_IN the_DT following_VBG re-_JJ sults:27_JJ 2_CD ._.
+Dal_NNP ._.
+The_DT following_VBG table_NN shows_VBZ the_DT total_JJ number_NN of_IN cases_NNS investigated_VBN with_IN special_JJ reference_NN to_TO diet_VB ,_, and_CC the_DT number_NN of_IN those_DT consuming_VBG dal:28_JJ 5_CD ._.
+Meat_NN ._.
+The_DT following_VBG table_NN shows_VBZ the_DT total_JJ number_NN of_IN cases_NNS of_IN Epidemic_NNP Dropsy_NNP investigated_VBD with_IN special_JJ reference_NN to_TO diet_VB ,_, and_CC the_DT number_NN of_IN cases_NNS consuming_VBG meat:29_JJ Several_JJ interesting_JJ facts_NNS emerge_VBP from_IN a_DT study_NN of_IN the_DT above_JJ tables_NNS giving_VBG details_NNS of_IN the_DT diet_NN of_IN cases_NNS of_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ._.
+In_IN the_DT first_JJ place_NN it_PRP will_MD be_VB seen_VBN that_IN every_DT one_CD of_IN the_DT persons_NNS attacked_VBD consumed_JJ rice_NN ,_, and_CC this_DT was_VBD their_PRP$ staple_JJ food_NN ._.
+Further_RB ,_, it_PRP will_MD be_VB observed_VBN that_IN the_DT amount_NN of_IN rice_NN consumed_VBN daily_RB varied_VBN from_IN 1_CD Chittak_NNP to_TO 8_CD Chittaks_NNP (_( 1_CD Chittak_NNP equals_NNS 2_CD 2/35_CD oz_NN ._.
+Avoir_NNP ._. )_) ._.
+In_IN my_PRP$ first_JJ report1_NN I_PRP dealt_VBP very_RB fully_RB with_IN the_DT question_NN of_IN rice_NN as_IN an_DT etiologic_JJ factor_NN in_IN Epidemic_NNP Dropsy_NNP ,_, and_CC in_IN the_DT pre-_JJ sent_JJ report_NN ,_, in_IN the_DT chapter_NN dealing_VBG with_IN experimental_JJ investigations_NNS ,_, further_JJ particulars_NNS are_VBP given_VBN ._.
+It_PRP may_MD be_VB recalled_VBN ,_, however_RB ,_, that_IN the_DT rice_NN consumed_VBN by_IN persons_NNS attacked_VBN by_IN Epidemic_NNP Dropsy_NNP had_VBD undergone_RP a_DT process_NN of_IN polishing_VBG which_WDT deprived_VBD it_PRP of_IN certain_JJ constituents_NNS essential_JJ for_IN the_DT physiological_JJ re-_JJ quirements_NNS of_IN the_DT body_NN ._.
+Since_IN the_DT last_JJ report_NN was_VBD written_VBN an_DT interesting_JJ paper_NN on_IN ``_`` The_DT bran_NN of_IN paddy_NN in_IN the_DT prevention_NN and_CC cure_NN of_IN Beriberi_NNP ,_, ''_'' by_IN Breaudat_NNP and_CC Dernier_NNP ,_, 2_CD has_VBZ been_VBN published_VBN ._.
+They_PRP studied_VBD an_DT epidemic_NN of_IN Beriberi_NNP in_IN 1909-10_JJ at_IN Cape_NNP St._NNP Jacques_NNP ._.
+The_DT disease_NN was_VBD of_IN moderate_JJ severity_NN with_IN a_DT marked_JJ predomin-_JJ ance_NN of_IN cardiac_JJ troubles_NNS ._.
+Preventive_JJ treatment_NN was_VBD attempted_VBN in_IN the_DT 5th_JJ Regiment_NNP of_IN Artillery_NNP from_IN 1st_CD July_NNP 1909_CD to_TO 1st_CD March_NNP 1910_CD ;_: among_IN the_DT Rifles_NNP from_IN the_DT 23rd_CD June_NNP to_TO the_DT end_NN of_IN January_NNP 1910_CD ._.
+290_CD men_NNS were_VBD given_VBN rice_NN bran_NN ,_, and_CC 471_CD were_VBD kept_VBN as_IN controls_NNS ._.
+Different_JJ doses_NNS of_IN bran_NN were_VBD administered_VBN ._.
+From_IN the_DT 23rd_CD June_NNP to_TO the_DT 9th_CD August_NNP the_DT men_NNS took_VBD 20_CD gram_NN ._.
+bran_NN ._.
+They_PRP furnished_VBD 17_CD cases_NNS per_IN thousand_NN ,_, the_DT controls_NNS 34_CD ._.
+From_IN 9th_CD August_NNP to_TO the_DT 15th_JJ September_NNP the_DT men_NNS took_VBD 30_CD gram_NN ._.
+bran_NN ._.
+They_PRP supplied_VBD 5_CD cases_NNS per_IN thousand_NN ,_, the_DT controls_NNS 45_CD per_IN thousand_NN ._.
+From_IN the_DT 15th_JJ September_NNP to_TO 1st_CD February_NNP 1910_CD the_DT batch_NN of_IN men_NNS treated_VBN was_VBD reduced_VBN to_TO 165_CD ,_, and_CC the_DT controls_NNS to_TO 189_CD ._.
+The_DT men_NNS took_VBD 40_CD gram_NN ._.
+bran_NN ._.
+There_EX was_VBD not_RB a_DT single_JJ case_NN of_IN Beri-_NNP beri_NN amongst_VBZ the_DT treated_JJ ,_, but_CC there_EX were_VBD 174_CD cases_NNS among_IN the_DT controls_NNS ._.
+The_DT experiments_NNS on_IN the_DT curative_JJ treatment_NN lasted_VBN at_IN the_DT Hospital_NN at_IN St._NNP Jacques_NNP from_IN 15th_CD September_NNP 1909_CD to_TO 5th_CD April_NNP 1910_CD ._.
+There_EX were_VBD 119_CD cases_NNS during_IN this_DT period_NN ._.
+In_IN the_DT first_JJ month_NN all_PDT the_DT patients_NNS without_IN exception_NN were_VBD sup-_JJ plied_VBN with_IN bran_NN ._.
+From_IN the_DT 15th_CD October_NNP every_DT alternate_NN case_NN was_VBD treated_VBN ,_, there_EX was_VBD thus_RB a_DT batch_NN of_IN treated_VBN and_CC a_DT batch_NN of_IN controls_NNS ._.
+The_DT doses_NNS of_IN bran_NN varied_VBN from_IN 40_CD to_TO 350_CD gram_NN ._.
+The_DT patients_NNS of_IN this_DT series_NN had_VBD the_DT ordinary_JJ diet_NN without_IN medicine_NN ._.
+The_DT control_NN batch_NN was_VBD treated_VBN on_IN the_DT usual_JJ therapeutic_JJ lines_NNS ;_: absolute_VB milk_NN diet_JJ ,_, cardiac_JJ medication_NN (_( Caffeine_NNP and_CC Digitalis_NNP )_) ,_, purga-_JJ tives_NNS ,_, Brandy_NNP ,_, Cod_NNP liver_NN oil_NN ,_, Potassium_NNP Iodide_NNP ,_, Cocodylate_NNP of_IN Soda_NNP ,_, Fowler_NNP 's_POS solution_NN ,_, Quinine_NNP ._.
+From_IN the_DT milk_NN dietary_JJ they_PRP passed_VBD on_IN to_TO ordinary_JJ food_NN through_IN soups_NNS ,_, meat_NN juice_NN ,_, bread_NN and_CC grilled_VBD meat_NN ._.
+A_DT meat_NN ration_NN entered_VBD 1_CD First_NNP Report_NNP on_IN Epidemie_NNP Dropsy_NNP in_IN Calcutta_NNP by_IN Major_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, Scientific_NNP Memoir_NNP No_NNP ._.
+45_CD ._.
+2_CD Bull_NNP ._.
+de_IN la_FW Soc_NNP ._.
+Path_NN ._.
+Exot_NNP ._.
+Seance_NN ._.
+Nov._NNP 9_CD ,_, 1910_CD ,_, Tome_NNP III_NNP ,_, No_NNP ._.
+9_CD ._.
+30_CD into_IN the_DT diet_NN of_IN these_DT patients_NNS ._.
+In_IN both_DT batches_NNS the_DT progress_NN of_IN the_DT disease_NN was_VBD the_DT same_JJ ._.
+The_DT 31_CD The_DT analysis_NN of_IN the_DT ration_NN distributed_VBD to_TO the_DT prisoners_NNS at_IN Poulo_NNP Condore_NNP leads_VBZ the_DT author_NN to_TO believe_VB that_IN the_DT symptoms_NNS are_VBP due_JJ to_TO an_DT insufficient_JJ quan-_JJ tity_NN of_IN phosphorus_NN in_IN the_DT diet_NN ._.
+Contagion_NN does_VBZ not_RB appear_VB to_TO play_VB any_DT part_NN at_IN all_DT ._.
+In_IN a_DT note_NN ,_, appended_VBD to_TO the_DT report_NN of_IN M._NNP Theze_NNP ,_, the_DT Editor_NNP of_IN the_DT Annales_NNP d'hygiene_NN de_FW medicine_FW coloniales_NNS gives_VBZ an_DT interesting_JJ account_NN of_IN the_DT results_NNS obtained_VBN in_IN the_DT prison_NN at_IN Saigon_NNP by_IN excluding_VBG polished_JJ rice_NN ;_: the_DT orders_NNS were_VBD given_VBN by_IN M._NNP Grall_NNP in_IN November_NNP 1903_CD ._.
+The_DT following_VBG table_JJ gives_VBZ the_DT results:32_NN Gilmore_NNP Ellis,1_NNP Medical_NNP Superintendent_NNP ,_, and_CC Medical_NNP Officer_NNP ,_, Beriberi_NNP Hospital_NNP ,_, Singapore_NNP ,_, brings_VBZ forward_RB evidence_NN from_IN his_PRP$ own_JJ investigations_NNS ,_, which_WDT have_VBP been_VBN carried_VBN on_IN since_IN 1901_CD ,_, showing_VBG the_DT causal_NN connection_NN between_IN polished_VBN rice_NN and_CC Beriberi_NNP ._.
+It_PRP is_VBZ interesting_VBG to_TO note_VB that_IN ,_, in_IN his_PRP$ report_NN on_IN the_DT Medical_NNP Department_NNP of_IN the_DT Straits_NNP Settlements_NNP for_IN 1909_CD ,_, Dr._NNP Ellis2_NNP states_VBZ that_IN no_DT case_NN of_IN Beriberi_NNP originated_VBD in_IN the_DT Singapore_NNP Jail_NNP ;_: this_DT is_VBZ the_DT third_JJ year_NN in_IN succession_NN in_IN which_WDT this_DT immunity_NN has_VBZ occurred_VBN ._.
+In_IN the_DT same_JJ report_NN it_PRP is_VBZ stated_VBN that_IN parboiled_JJ rice_NN is_VBZ now_RB used_VBN in_IN various_JJ Government_NNP institutions_NNS of_IN the_DT Malacca_NNP Pro-_NNP vince_NN ._.
+One_CD fatal_JJ case_NN of_IN Beriberi_NNP occurred_VBD at_IN a_DT police_NN depôt_NN ;_: the_DT victim_NN ,_, a_DT sub-inspector_NN ,_, had_VBD been_VBN warned_VBN against_IN Siam_NNP rice_NN ,_, but_CC refused_VBD to_TO alter_VB his_PRP$ diet_NN ._.
+It_PRP will_MD be_VB observed_VBN from_IN my_PRP$ tables_NNS that_IN the_DT quantity_NN of_IN dal_NN taken_VBN by_IN the_DT Bengalis_NNP in_IN Calcutta_NNP is_VBZ small_JJ ;_: in_IN the_DT great_JJ majority_NN of_IN cases_NNS under_IN 1_CD Chittak_NNP a_DT day_NN is_VBZ consumed_VBN ._.
+This_DT is_VBZ an_DT important_JJ point_NN ,_, because_IN I_PRP have_VBP shown_VBN in_IN my_PRP$ previous_JJ report3_NN that_WDT dal_VBZ ,_, especially_RB the_DT Mung_NNP dal_NN ,_, Phaseolus_NNP radiatus_NN ,_, has_VBZ valuable_JJ prophylactic_JJ and_CC curative_JJ properties_NNS when_WRB administered_VBN in_IN suitable_JJ doses_NNS ;_: it_PRP supplies_VBZ the_DT essential_JJ constituents_NNS which_WDT are_VBP deficient_NN in_IN a_DT polished_JJ rice_NN diet_NN ._.
+In_IN the_DT chapter_NN of_IN this_DT report_NN dealing_VBG with_IN the_DT results_NNS of_IN the_DT ex-_JJ perimental_JJ investigations_NNS the_DT prophylactic_JJ and_CC curative_JJ properties_NNS of_IN the_DT Indian_JJ Mung_NNP dal_NN in_IN relation_NN to_TO the_DT neuritis_NN of_IN birds_NNS are_VBP clearly_RB demonstrated_VBN ._.
+In_IN regard_NN to_TO the_DT consumption_NN of_IN ata_NN a_DT very_RB interesting_JJ fact_NN is_VBZ brought_VBN out_RP ,_, namely_RB ,_, that_IN practically_RB all_DT cases_NNS of_IN Epidemic_NNP Dropsy_NNP amongst_NN Bengalis_NNP in_IN Calcutta_NNP partook_NN of_IN fine_NN or_CC sifted_VBN ata_NNS ,_, and_CC this_DT ,_, as_IN was_VBD shown_VBN in_IN my_PRP$ first_JJ report,4_NN is_VBZ remarkably_RB poor_JJ in_IN certain_JJ essential_JJ constituents_NNS necessary_JJ to_TO meet_VB the_DT physiological_JJ requirements_NNS of_IN the_DT body_NN ._.
+Consequently_RB ,_, a_DT diet_JJ composed_VBN of_IN polished_JJ rice_NN and_CC sifted_VBN ata_NN is_VBZ very_RB deficient_JJ in_IN respect_NN of_IN these_DT constitu-_JJ ents_NNS ._.
+It_PRP will_MD be_VB noted_VBN that_IN Hindu_NNP widows_VBZ partake_NN of_IN very_RB little_JJ fish_NN and_CC no_DT meat_NN at_IN all_DT ._.
+Thus_RB of_IN 84_CD widows_NNS suffering_VBG from_IN Epidemic_NNP Dropsy_NNP ,_, only_RB 13_CD took_VBD fish_NN ,_, and_CC none_NN consumed_VBN meat_NN ._.
+By_IN reference_NN to_TO the_DT tables_NNS giving_VBG the_DT mortality_NN it_PRP will_MD be_VB observed_VBN that_IN the_DT death_NN rate_NN from_IN Epidemic_NNP Dropsy_NNP amongst_VBZ the_DT Hindu_NNP females_NNS in_IN Calcutta_NNP is_VBZ very_RB high_JJ ._.
+Considerable_JJ importance_NN has_VBZ been_VBN attached_VBN to_TO mustard_VB oil_NN in_IN connection_NN with_IN the_DT etiology_NN of_IN Epidemic_NNP Dropsy_NNP ,_, and_CC consequently_RB enquiries_NNS were_VBD made_VBN 1_CD Brit_NNP ._.
+Med_NNP ._.
+Journal_NNP ,_, Oct._NNP 2_CD ,_, 1909_CD ._.
+2_CD Lancet_NNP ,_, Feb._NNP 4_CD ,_, 1911_CD ._.
+3_CD First_NNP Report_NNP on_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP by_IN Major_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, Scientific_NNP Memoir_NNP No_NNP ._.
+45_CD ._.
+4_CD Ibid_NNP ._.
+33_CD regarding_VBG it_PRP ._.
+It_PRP was_VBD thought_VBN that_IN the_DT causation_NN of_IN Epidemic_NNP Dropsy_NNP was_VBD dependent_VBN on_IN certain_JJ impurities_NNS ,_, mineral_NN oils_NNS (_( ``_`` Batch_NNP and_CC Bloomless_NNP oils_NNS ''_'' )_) ,_, in_IN the_DT mustard_NN oil_NN ,_, and_CC this_DT hypothesis_NN received_VBD a_DT considerable_JJ amount_NN of_IN popular_JJ attention_NN in_IN Calcutta_NNP ._.
+The_DT results_NNS of_IN the_DT experimental_JJ study_NN of_IN this_DT question_NN are_VBP recorded_VBN in_IN the_DT chapter_NN dealing_VBG with_IN experimental_JJ investiga-_JJ tions_NNS in_IN this_DT report_NN ._.
+Neither_CC the_DT epidemiological_JJ nor_CC the_DT experimental_JJ studies_NNS ,_, made_VBN in_IN connection_NN with_IN the_DT present_JJ enquiry_NN ,_, support_VB the_DT above_JJ hypothesis_NN ,_, and_CC there_EX is_VBZ no_DT scientific_JJ evidence_NN in_IN favour_NN of_IN it_PRP ._.
+F_NNP 34_CD CHAPTER_NNP II_NNP ._.
+Note_NN on_IN an_DT Outbreak_NNP of_IN Epidemic_NNP Dropsy_NNP in_IN Basti_NNP Jail_NNP ,_, United_NNP Provinces_NNPS ._.
+As_IN some_DT interesting_JJ facts_NNS regarding_VBG the_DT relationship_NN of_IN rice_NN diet_NN to_TO Epidemic_NNP Dropsy_NNP were_VBD brought_VBN out_RP in_IN the_DT course_NN of_IN this_DT enquiry_NN ,_, a_DT record_NN of_IN it_PRP may_MD be_VB appropriately_RB inserted_VBN at_IN this_DT point_NN ._.
+In_IN December_NNP 1907_CD I_PRP was_VBD directed_VBN to_TO proceed_VB to_TO Basti_NNP Jail_NNP to_TO enquire_VB into_IN an_DT outbreak_NN of_IN a_DT disease_NN resembling_VBG Beriberi_NNP ._.
+I_PRP was_VBD only_RB able_JJ to_TO devote_VB a_DT short_JJ time_NN to_TO the_DT enquiry_NN as_IN I_PRP was_VBD officiating_VBG as_IN Director_NNP of_IN the_DT Central_NNP Research_NNP Institute_NNP at_IN the_DT time_NN ._.
+From_IN the_DT evidence_NN I_PRP was_VBD able_JJ to_TO collect_VB I_PRP expressed_VBD the_DT opinion_NN ,_, tentatively_RB ,_, that_DT defects_VBZ in_IN dietary_JJ were_VBD playing_VBG an_DT important_JJ part_NN in_IN the_DT causation_NN of_IN the_DT disease_NN ._.
+The_DT general_JJ features_NNS of_IN the_DT condition_NN very_RB closely_RB resembled_VBN those_DT of_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ._.
+In_IN this_DT jail_NN rice_NN was_VBD consumed_VBN ,_, and_CC it_PRP is_VBZ of_IN interest_NN to_TO note_VB that_IN this_DT was_VBD the_DT only_JJ jail_NN in_IN the_DT United_NNP Provinces_NNPS in_IN which_WDT rice_NN was_VBD generally_RB consumed_VBN by_IN all_PDT the_DT prisoners_NNS ,_, and_CC it_PRP is_VBZ the_DT only_JJ jail_NN in_IN the_DT United_NNP Provinces_NNP which_WDT has_VBZ recorded_VBN an_DT outbreak_NN of_IN this_DT disease_NN ._.
+The_DT Honourable_JJ Lieutenant-Colonel_NNP C._NNP Mactaggart_NNP ,_, I.M.S._NNP ,_, Inspector-_NNP General_NNP of_IN Prisons_NNP ,_, United_NNP Provinces_NNPS ,_, in_IN answer_NN to_TO a_DT recent_JJ query_NN by_IN me_PRP kindly_RB supplied_VBD me_PRP with_IN further_JJ notes_NNS regarding_VBG the_DT epidemic_NN at_IN Basti_NNP Jail_NNP ._.
+He_PRP writes_VBZ under_IN date_NN 23rd_CD February_NNP 1910_CD ,_, ``_`` So_RB far_RB as_IN I_PRP am_VBP aware_JJ no_DT cases_NNS of_IN Beriberi_NNP or_CC Epidemic_NNP Dropsy_NNP have_VBP occurred_VBN in_IN our_PRP$ jails_NNS except_IN those_DT you_PRP investigated_VBN at_IN Basti_NNP ._.
+I_PRP was_VBD on_IN the_DT Factory_NNP Commission_NNP when_WRB the_DT epidemic_NN in_IN Basti_NNP Jail_NNP occurred_VBD ,_, and_CC you_PRP yourself_PRP know_VBP far_RB more_RBR about_IN the_DT epidemic_JJ than_IN I_PRP do_VBP ._.
+Rice_NN is_VBZ never_RB given_VBN in_IN our_PRP$ jails_NNS as_IN an_DT article_NN of_IN diet_JJ except_IN to_TO a_DT few_JJ toothless_NN old_JJ prisoners_NNS and_CC infirms_NNS ._.
+The_DT only_JJ exception_NN to_TO this_DT rule_NN was_VBD the_DT Basti_NNP Jail_NNP ,_, where_WRB for_IN some_DT years_NNS rice_NN was_VBD given_VBN as_IN a_DT forenoon_NN meal_NN ,_, because_IN some_DT Superintendent_NNP of_IN that_DT jail_NN considered_VBD it_PRP was_VBD more_RBR in_IN harmony_NN with_IN the_DT diet_NN of_IN the_DT free_JJ population_NN of_IN the_DT district_NN ,_, and_CC the_DT prisoners_NNS did_VBD better_JJR on_IN it_PRP than_IN wheat_NN ._.
+I_PRP stopped_VBD the_DT issue_NN of_IN rice_NN in_IN the_DT Basti_NNP Jail_NNP in_IN October_NNP 1907_CD owing_VBG to_TO the_DT occurrence_NN of_IN some_DT cases_NNS of_IN cholera_NN ,_, and_CC it_PRP must_MD have_VB been_VBN about_IN the_DT same_JJ time_NN that_IN the_DT cases_NNS of_IN Beriberi_NNP occurred_VBD although_IN the_DT disease_NN was_VBD not_RB recognised_VBN till_JJ November_NNP ._.
+Whether_IN the_DT disease_NN was_VBD due_JJ to_TO the_DT rice_NN diet_NN or_CC not_RB I_PRP can_MD not_RB say_VB ,_, but_CC it_PRP is_VBZ peculiar_JJ that_IN the_DT disease_NN should_MD have_VB occurred_VBN in_IN the_DT only_JJ jail_NN where_WRB rice_NN was_VBD issued_VBN generally_RB as_IN an_DT article_NN of_IN diet_NN ._.
+The_DT epidemic_JJ in_IN Basti_NNP came_VBD to_TO an_DT end_NN in_IN January_NNP 1908_CD I_PRP believe_VBP ._.
+Rice_NNP diet_NN has_VBZ not_RB been_VBN reverted_VBN to_TO in_IN the_DT jail_NN and_CC so_RB far_RB as_IN I_PRP know_VBP there_RB have_VBP been_VBN no_DT cases_NNS of_IN Beri-_NNP beri_NN in_IN the_DT jail_NN since_IN January_NNP 1908_CD ._.
+35_CD ``_`` Mustard_NNP oil_NN is_VBZ issued_VBN to_TO all_DT prisoners_NNS in_IN our_PRP$ jails_NNS daily_RB and_CC the_DT oil_NN issued_VBN is_VBZ made_VBN in_IN the_DT jail_NN ._.
+I_PRP do_VBP not_RB think_VB it_PRP is_VBZ at_IN all_DT likely_JJ that_IN adulteration_NN with_IN petroleum_NN could_MD occur_VB ._.
+I_PRP believe_VBP there_EX were_VBD some_DT cases_NNS of_IN Epidemic_NNP Dropsy_NNP in_IN Gorakhpur_NNP city_NN and_CC a_DT few_JJ in_IN Cawnpore_NNP city_NN some_DT time_NN ago_RB ,_, but_CC otherwise_RB I_PRP have_VBP never_RB heard_VBN of_IN the_DT disease_NN in_IN these_DT Provinces_NNS ._.
+Cases_NNS may_MD occasionally_RB occur_VB but_CC they_PRP are_VBP certainly_RB rare_JJ ._. ''_''
+The_DT study_NN of_IN this_DT outbreak_NN at_IN Basti_NNP Jail_NNP presents_VBZ several_JJ interesting_JJ features_NNS ._.
+In_IN the_DT first_JJ place_NN it_PRP will_MD be_VB noted_VBN that_IN the_DT disease_NN occurred_VBD in_IN the_DT only_JJ jail_NN in_IN the_DT United_NNP Provinces_NNPS in_IN which_WDT rice_NN is_VBZ consumed_VBN generally_RB ,_, and_CC this_DT in_IN itself_PRP is_VBZ a_DT significant_JJ fact_NN in_IN the_DT light_NN of_IN our_PRP$ recent_JJ knowledge_NN of_IN this_DT disease_NN ._.
+Nextly_RB ,_, with_IN the_DT cessation_NN of_IN the_DT rice_NN and_CC the_DT replacement_NN of_IN it_PRP by_IN wheat_VBG the_DT epidemic_NN stopped_VBD and_CC no_DT fresh_JJ cases_NNS occurred_VBD ._.
+Further_RB ,_, the_DT mus-_JJ tard_NN oil_NN consumed_VBN could_MD not_RB have_VB been_VBN adulterated_VBN with_IN petroleum_NN ,_, as_IN will_MD be_VB seen_VBN from_IN the_DT letter_NN of_IN the_DT Inspector_NNP General_NNP ._.
+Hence_RB in_IN this_DT case_NN the_DT etiolo-_JJ gical_JJ connection_NN between_IN adulterated_VBN oil_NN and_CC Epidemic_NNP Dropsy_NNP could_MD be_VB excluded_VBN ._.
+Evacuation_NN was_VBD not_RB carried_VBN out_RP ._.
+Had_VBD it_PRP taken_VBN place_NN the_DT cessation_NN of_IN the_DT outbreak_NN might_MD have_VB been_VBN attributed_VBN erroneously_RB to_TO this_DT measure_NN ._.
+As_IN my_PRP$ report_NN on_IN the_DT epidemic_NN at_IN Basti_NNP Jail_NNP to_TO the_DT Sanitary_NNP Commissioner_NNP with_IN the_DT Government_NNP of_IN India_NNP has_VBZ not_RB been_VBN published_VBN before_IN ,_, I_PRP include_VBP it_PRP in_IN the_DT present_JJ one_CD ,_, because_IN ,_, it_PRP has_VBZ important_JJ relationships_NNS to_TO the_DT Calcutta_NNP epidemic_NN ._.
+A_DT Report_NNP on_IN an_DT Epidemic_NNP resembling_NN Beriberi_NNP at_IN Basti_NNP Jail_NNP ,_, United_NNP Provinces_NNPS ,_, by_IN Captain_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, I.M.S_NNP ._.
+Forwarded_VBN to_TO the_DT Sanitary_NNP Commissioner_NNP with_IN the_DT Government_NNP of_IN India_NNP on_IN 14th_CD January_NNP 1908_CD ._.
+I_PRP have_VBP the_DT honour_NN to_TO state_NN that_IN in_IN accordance_NN with_IN your_PRP$ telegram_NN No_DT ._.
+53_CD ,_, dated_VBD the_DT 22nd_CD December_NNP 1907_CD ,_, I_PRP proceeded_VBD to_TO Lucknow_NNP on_IN December_NNP 26th_CD ,_, and_CC arrived_VBD there_EX next_JJ day_NN and_CC had_VBD an_DT interview_NN with_IN Lieutenant-Colonel_NNP S._NNP H._NNP Henderson_NNP ,_, I.M.S._NNP ,_, Officiating_NNP Inspector_NNP General_NNP of_IN Prisons_NNP ,_, United_NNP Provinces_NNPS ,_, who_WP gave_VBD me_PRP particulars_NNS of_IN a_DT disease_NN resembling_VBG Beriberi_NNP in_IN the_DT Basti_NNP Jail_NNP ._.
+I_PRP reached_VBD Basti_NNP next_JJ day_NN and_CC remained_VBD there_EX till_RB 31st_CD December_NNP ._.
+This_DT report_NN contains_VBZ the_DT result_NN of_IN the_DT enquiry_NN which_WDT I_PRP conducted_VBD with_IN the_DT Superintendent_NNP ,_, Basti_NNP Jail_NNP ,_, Dr._NNP N._NNP S._NNP Harvey_NNP ,_, who_WP facilitated_VBD my_PRP$ work_NN there_RB in_IN every_DT way_NN ._.
+2_CD ._.
+The_DT first_JJ official_JJ intimation_NN of_IN the_DT occurrence_NN of_IN cases_NNS of_IN a_DT disease_NN resembling_VBG Beriberi_NNP in_IN Basti_NNP Jail_NNP was_VBD made_VBN by_IN Dr._NNP Harvey_NNP ,_, who_WP reported_VBD on_IN 2nd_CD December_NNP 1907_CD that_IN ,_, ``_`` I_PRP took_VBD over_RP the_DT jail_NN from_IN Dr._NNP MacLeod_NNP on_IN the_DT 19th_CD November_NNP 1907_CD ,_, he_PRP handed_VBD over_RP to_TO me_PRP two_CD convicts_NNS in_IN the_DT Jail_NNP Hospital_NNP who_WP F_VBD 2_CD 36_CD were_VBD suffering_VBG from_IN 37_CD 320_CD and_CC 350_CD ,_, cases_NNS have_VBP been_VBN admitted_VBN into_IN hospital_NN from_IN practically_RB every_DT part_NN of_IN it_PRP ._.
+Cases_NNS have_VBP been_VBN received_VBN from_IN the_DT female_JJ ward_NN ;_: here_RB the_DT female_JJ prisoners_NNS are_VBP completely_RB shut_VBN off_RP from_IN all_DT communication_NN with_IN the_DT male_JJ pri-_JJ soners_NNS ._.
+Also_RB ,_, cases_NNS have_VBP occurred_VBN in_IN the_DT families_NNS of_IN the_DT jailors_NNS ,_, who_WP never_RB mix_VBP with_IN the_DT prisoners_NNS ._.
+A_DT feature_NN of_IN interest_NN is_VBZ that_IN the_DT disease_NN was_VBD first_RB detected_VBN amongst_RP the_DT prisoners_NNS employed_VBD as_IN cooks_NNS ,_, and_CC the_DT incidence_NN of_IN the_DT disease_NN was_VBD high_JJ amongst_IN them_PRP ._.
+38.5_CD per_IN cent_NN ._.
+of_IN the_DT prisoners_NNS employed_VBD as_IN cooks_NNS contracted_VBD the_DT disease_NN ._.
+5_CD ._.
+The_DT etiology_NN of_IN Beriberi_NNP and_CC its_PRP$ allies_NNS has_VBZ not_RB yet_RB been_VBN scientifically_RB determined.1_JJ Hence_NNP in_IN investigating_VBG a_DT disease_NN of_IN this_DT class_NN the_DT most_RBS profitable_JJ course_NN to_TO adopt_VB is_VBZ to_TO proceed_VB to_TO analyse_VB systematically_RB ,_, on_IN scientific_JJ lines_NNS ,_, the_DT bearing_NN of_IN each_DT conceivable_JJ factor_NN in_IN the_DT production_NN of_IN the_DT disease_NN ._.
+In_IN this_DT particular_JJ epidemic_NN ,_, the_DT factor_NN common_JJ to_TO all_DT effected_VBN individuals_NNS ,_, is_VBZ the_DT food_NN supply_NN ,_, and_CC this_DT factor_NN is_VBZ ,_, also_RB ,_, common_JJ to_TO the_DT population_NN of_IN this_DT district_NN ,_, in_IN which_WDT the_DT disease_NN is_VBZ prevailing_VBG ._.
+The_DT food_NN supply_NN of_IN the_DT jail_NN ,_, therefore_RB ,_, requires_VBZ ,_, in_IN the_DT first_JJ place_NN ,_, to_TO be_VB carefully_RB studied_VBN in_IN its_PRP$ possible_JJ causal_NN rela-_JJ tion_NN to_TO the_DT disease_NN ._.
+6_CD ._.
+By_IN the_DT following_JJ observation_NN it_PRP could_MD be_VB ascertained_VBN whether_IN or_CC not_RB the_DT food_NN supply_NN (_( grain_NN )_) of_IN the_DT district_NN ,_, which_WDT is_VBZ partly_RB used_VBN in_IN Basti_NNP Jail_NNP ,_, can_MD produce_VB the_DT train_NN of_IN symptoms_NNS associated_VBN with_IN this_DT disease_NN ._.
+The_DT pri-_JJ soners_NNS in_IN Basti_NNP Jail_NNP might_MD be_VB equally_RB divided_VBN into_IN two_CD groups_NNS A_DT and_CC B_NNP for_IN the_DT purpose_NN of_IN this_DT observation_NN ._.
+A_DT roll_NN of_IN prisoners_NNS in_IN A_NNP and_CC B_NNP groups_NNS re-_JJ spectively_RB would_MD be_VB made_VBN out_RP ._.
+The_DT food_NN of_IN the_DT prisoners_NNS in_IN A_NNP group_NN would_MD be_VB exactly_RB the_DT same_JJ as_IN they_PRP are_VBP getting_VBG at_IN present_JJ whilst_NN all_PDT the_DT grain_NN for_IN B_NNP group_NN would_MD be_VB got_VBN from_IN a_DT district_NN free_JJ from_IN the_DT disease_NN ,_, preferably_RB ,_, the_DT same_JJ kind_NN of_IN grain_NN as_IN is_VBZ being_VBG used_VBN in_IN the_DT jail_NN of_IN the_DT selected_VBN district_NN ._.
+The_DT quanti-_JJ ties_NNS and_CC kind_NN of_IN grain_NN would_MD be_VB exactly_RB the_DT same_JJ for_IN A_DT and_CC B_NNP ,_, the_DT only_JJ differ-_JJ ence_NN being_VBG the_DT source_NN ._.
+Should_MD ,_, therefore_RB ,_, the_DT disease_NN continue_NN ,_, it_PRP would_MD be_VB possible_JJ to_TO determine_VB whether_IN or_CC not_RB the_DT grain_NN of_IN Basti_NNP district_NN is_VBZ producing_VBG the_DT train_NN of_IN symptoms_NNS at_IN present_JJ met_NN with_IN amongst_PDT the_DT prisoners_NNS in_IN the_DT jail.2_NN 7_CD ._.
+On_IN my_PRP$ arrival_NN at_IN the_DT Basti_NNP Jail_NNP the_DT great_JJ majority_NN of_IN the_DT cases_NNS of_IN the_DT disease_NN resembling_VBG Beriberi_NNP were_VBD already_RB convalescent_JJ ;_: so_RB I_PRP had_VBD not_RB an_DT oppor-_JJ tunity_NN of_IN observing_VBG the_DT clinical_JJ phenomena_NN of_IN the_DT acute_JJ phase_NN of_IN the_DT malady_NN ._.
+In_IN Table_NNP No_NNP ._.
+11_CD an_DT analysis_NN of_IN the_DT signs_NNS and_CC symptoms_NNS of_IN all_DT cases_NNS of_IN this_DT disease_NN at_IN present_NN in_IN hospital_NN is_VBZ given_VBN ;_: the_DT most_RBS constant_JJ objective_JJ feature_NN of_IN these_DT cases_NNS is_VBZ 38_CD jerks_NNS were_VBD absent_JJ in_IN a_DT number_NN of_IN cases_NNS ,_, but_CC they_PRP showed_VBD no_DT signs_NNS of_IN paralysis_NN or_CC paresis.1_NN In_IN one_CD of_IN the_DT more_RBR severe_JJ cases_NNS there_EX was_VBD distinct_JJ tenderness_NN on_IN pressure_NN over_IN the_DT nerves_NNS ._.
+In_IN a_DT certain_JJ percentage_NN of_IN cases_NNS cardiac_JJ signs_NNS and_CC ,_, symptoms_NNS were_VBD present_JJ ._.
+Examination_NN of_IN the_DT urine_NN by_IN Dr._NNP Harvey_NNP had_VBD shown_VBN it_PRP to_TO be_VB normal_JJ ._.
+Apart_RB from_IN the_DT nervous_JJ and_CC circulatory_NN ,_, the_DT systems_NNS of_IN the_DT body_NN presented_VBD no_DT noteworthy_JJ alteration_NN ._.
+8_CD ._.
+The_DT daily_JJ diet_NN of_IN the_DT prisoners_NNS at_IN present_JJ is_VBZ :_: Wheat_NNP (_( 1st_CD Class_NNP 12_CD Chittaks_NNP ;_: 2nd_CD Class_NNP 10_CD Chittaks_NNP )_) ;_: Gram_NNP (_( 1st_CD Class_NNP 2_CD Chittaks_NNP ;_: 2nd_CD Class_NNP 2_CD Chittaks_NNP )_) ;_: Dal_NNP (_( 1_CD Chittak_NNP )_) ;_: Vegetables_NNP (_( 3_CD Chittaks_NNP )_) ._.
+Mustard_NNP oil_NN 2_CD seers_NNS oil_NN per_IN 100_CD diets_NNS ._.
+Up_RB to_TO 2nd_CD October_NNP the_DT prisoners_NNS were_VBD receiving_VBG Rice_NNP (_( 1st_CD Class_NNP 7_CD Chittaks_NNP ;_: 2nd_CD Class_NNP 6_CD Chittaks_NNP )_) in_IN addition_NN to_TO a_DT smaller_JJR quantity_NN of_IN Wheat_NNP (_( 1st_CD Class_NNP 7_CD Chittaks_NNP ;_: 2nd_CD Class_NNP 6_CD Chittaks_NNP )_) and_CC Gram_NNP (_( 1_CD Chittak_NNP for_IN both_DT classes_NNS )_) ._.
+On_IN this_DT date_NN owing_VBG to_TO cholera_VB the_DT rice_NN was_VBD stopped_VBN and_CC the_DT amount_NN of_IN wheat_NN and_CC gram_NN increased_VBD as_IN before.2_NN 9_CD ._.
+In_IN this_DT district_NN I_PRP am_VBP informed_VBN by_IN Dr._NNP Harvey_NNP that_IN although_IN actual_JJ famine_NN conditions_NNS do_VBP not_RB exist_VB there_EX is_VBZ a_DT scarcity_NN at_IN present.3_JJ 1_CD In_IN this_DT respect_NN they_PRP closely_RB resemble_VBP the_DT cases_NNS of_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ._.
+2_CD This_DT is_VBZ a_DT very_RB important_JJ point_NN ,_, because_IN shortly_RB after_IN the_DT rice_NN was_VBD stopped_VBN and_CC the_DT wheat_NN increased_VBD the_DT acute_JJ phase_NN of_IN the_DT epidemic_JJ ceased_VBN ._.
+The_DT part_NN played_VBN by_IN diet_JJ in_IN the_DT production_NN of_IN this_DT disease_NN has_VBZ been_VBN more_JJR clearly_RB demonstrated_VBN by_IN recent_JJ research_NN ._.
+3_CD This_DT is_VBZ an_DT interesting_JJ point_NN ,_, because_IN in_IN this_DT outbreak_VBZ the_DT conditions_NNS of_IN scarcity_NN would_MD operate_VB by_IN bringing_VBG about_IN a_DT ``_`` One-sidedness_JJ ''_'' in_IN dietary_NN of_IN the_DT population_NN outside_IN the_DT jail_NN ,_, amongst_JJ whom_WP cases_NNS of_IN the_DT disease_NN were_VBD occurring_VBG ,_, in_IN the_DT same_JJ way_NN as_IN I_PRP have_VBP shown_VBN the_DT high_JJ price_NN of_IN food_NN operated_VBN in_IN the_DT Calcutta_NNP epidemic_NN ._.
+TABLE_NN I_PRP ._.
+Showing_VBG population_NN of_IN Basti_NNP Jail_NNP in_IN December_NNP 1907_CD ,_, the_DT number_NN of_IN cases_NNS ,_, and_CC the_DT number_NN of_IN deaths_NNS from_IN Epidemic_NNP Dropsy_NNP which_WDT occurred_VBD there_RB ._.
+Population_NN of_IN Jail_NNP ._.
+Total_JJ number_NN of_IN cases_NNS of_IN Epidemic_NNP Dropsy_NNP ._.
+Total_JJ number_NN of_IN deaths_NNS from_IN Epidemic_NNP Dropsy_NNP ._.
+329_CD 81_CD 4_CD TABLE_NNP II_NNP ._.
+Showing_VBG an_DT analysis_NN of_IN the_DT signs_NNS of_IN Epidemic_NNP Dropsy_NNP as_IN observed_VBN in_IN 63_CD prisoners_NNS at_IN Basti_NNP Jail_NNP ._.
+39_CD CHAPTER_NN III_NNP ._.
+Epidemic_NNP Dropsy_NNP and_CC Ship_NNP Beriberi_NNP ._.
+In_IN my_PRP$ first_JJ report1_NN I_PRP referred_VBD to_TO the_DT similarity_NN of_IN the_DT features_NNS of_IN Epidemic_NNP Dropsy_NNP and_CC Ship_NNP Beriberi_NNP as_IN described_VBN by_IN Axel_NNP Holst_NNP and_CC the_DT Norwegian_JJ Ship_NNP Beriberi_NNP Committee_NNP ._.
+Since_IN my_PRP$ last_JJ report_NN I_PRP have_VBP obtained_VBN furher_RBR in-_JJ formation_NN on_IN this_DT important_JJ question_NN ._.
+Fleet_NNP Surgeon_NNP R._NNP C._NNP Munday_NNP ,_, R.N._NNP ,_, P.M.O._NNP ,_, of_IN the_DT ships_NNS in_IN the_DT Persian_NNP Gulf_NNP ,_, writes_VBZ under_IN date_NN 28th_CD November_NNP 1910_CD to_TO me2_VB that_IN ,_, ``_`` Last_JJ year_NN we_PRP had_VBD a_DT number_NN of_IN cases_NNS of_IN Beriberi_NNP amongst_VBP the_DT natives_NNS in_IN the_DT crews_NNS of_IN these_DT ships_NNS and_CC there_EX was_VBD a_DT high_JJ mortality_NN ._.
+I_PRP advised_VBD the_DT Admiral_NNP to_TO allow_VB none_NN but_CC cured_VBD (_( parboiled_VBN )_) rice_NN on_IN board_NN any_DT ship_NN ._.
+Since_IN then_RB although_IN the_DT number_NN of_IN lascars_NNS have_VBP enormously_RB increased_VBN no_DT Beriberi_NNP has_VBZ occurred_VBN ._.
+On_IN the_DT other_JJ hand_NN although_IN there_EX has_VBZ been_VBN no_DT Beriberi_NNP amongst_VBZ the_DT natives_NNS ,_, we_PRP have_VBP had_VBD a_DT run-_JJ ning_NN dropping_VBG fire_NN of_IN cases_NNS of_IN peripheral_JJ neuritis_NN closely_RB resembling_VBG Beriberi_NNP occurring_VBG solely_RB amongst_JJ Europeans_NNPS and_CC having_VBG no_DT mortality_NN ._.
+There_EX was_VBD in_IN nearly_RB every_DT case_NN some_DT slight_VBD 40_CD this_DT outbreak_NN is_VBZ clearly_RB shown_VBN ,_, and_CC in_IN this_DT relation_NN the_DT table_NN from_IN Schaumann_NNP 's_POS monograph_NN given_VBN on_IN page_NN 46_CD showing_VBG the_DT phosphorus_NN content_NN of_IN fresh_JJ and_CC preserved_JJ meat_NN should_MD be_VB studied_VBN as_IN it_PRP affords_VBZ an_DT explanation_NN of_IN the_DT ameliora-_JJ tion_NN of_IN the_DT symptoms_NNS as_IN noted_VBN by_IN the_DT P._NNP M._NNP O_NNP ._.
+The_DT following_JJ interesting_JJ report_NN regarding_VBG an_DT outbreak_NN of_IN Beriberi_NNP which_WDT occurred_VBD on_IN the_DT S._NNP S._NNP ``_`` Clan_NNP Urquhart_NNP ``_`` was_VBD submitted_VBN by_IN Dr._NNP N._NNP N._NNP Chowdhury_NNP ,_, Port_NNP Health_NNP Officer_NNP ,_, Chittagong_NNP ,_, and_CC forwarded_VBD to_TO me_PRP ._.
+He_PRP reports_VBZ ,_, ``_`` that_IN the_DT S._NNP S._NNP 'Clan_NNP Urquhart_NNP '_POS arrived_VBN at_IN this_DT port_NN from_IN the_DT United_NNP Kingdom_NNP on_IN 17th_CD September_NNP 1910_CD ;_: there_EX had_VBD been_VBN an_DT outbreak_JJ amongst_NN the_DT Indian_JJ crew_NN during_IN the_DT voyage_NN ._.
+This_DT particular_JJ voyage_NN con-_JJ sisted_VBN of_IN nearly_RB 4½_CD months_NNS in_IN all_DT and_CC commenced_VBN from_IN Colombo_NNP on_IN the_DT 30th_CD April_NNP 1910_CD ,_, from_IN where_WRB the_DT crew_NN were_VBD recruited_VBN and_CC terminated_VBN at_IN Chittagong_NNP on_IN the_DT 17th_CD September_NNP 1910_CD ._.
+In_IN all_DT she_PRP had_VBD 68_CD Indian_JJ crew:41_NN During_IN the_DT period_NN 6_CD died_VBD and_CC three_CD were_VBD left_VBN at_IN Durban_NNP Hospital_NNP and_CC the_DT rest_NN improved_VBD their_PRP$ health_NN on_IN their_PRP$ way_NN to_TO this_DT port_NN ._. ''_''
+Dr._NNP Chowdhury_NNP also_RB gives_VBZ a_DT table_NN ,_, given_VBN below_IN ,_, which_WDT shows_VBZ the_DT distribu-_JJ tion_NN of_IN the_DT disease_NN amongst_VBZ the_DT crew_NN and_CC he_PRP directs_VBZ attention_NN to_TO the_DT fact_NN that_IN the_DT engine_NN room_NN crew_NN were_VBD most_RBS affected:42_JJ Lb_NNP ._.
+Oz_NNP ._.
+Dram_NNP ._.
+Vegetables43_NNP June_NNP 1910_CD and_CC it_PRP was_VBD at_IN the_DT latter_JJ port_NN that_IN the_DT master_NN observed_VBD the_DT first_JJ manifestations_NNS of_IN the_DT disease_NN ._.
+It_PRP is_VBZ interesting_VBG to_TO note_VB ,_, therefore_RB ,_, that_IN the_DT early_JJ cases_NNS did_VBD not_RB occur_VB in_IN a_DT tropical_JJ port_NN ._.
+Further_RB ,_, the_DT period_NN elapsing_VBG between_IN the_DT commencement_NN of_IN the_DT Rangoon_NNP or_CC polished_VBN rice_NN dietary_NN and_CC the_DT development_NN of_IN the_DT first_JJ case_NN was_VBD about_IN two_CD months_NNS ,_, and_CC this_DT interval_JJ corre-_JJ sponds_NNS closely_RB to_TO that_DT required_VBN for_IN the_DT experimental_JJ production_NN of_IN neuritis_NN in_IN pigeons_NNS and_CC fowls_JJ fed_NN on_IN polished_JJ rices_NNS ._.
+As_IN will_MD be_VB seen_VBN from_IN the_DT report_NN a_DT change_NN of_IN diet_NN was_VBD made_VBN on_IN July_NNP 25th_CD ,_, 1910_CD ,_, additional_JJ articles_NNS were_VBD given_VBN and_CC the_DT dietary_JJ became_VBD much_RB less_JJR ``_`` One-sided_JJ ;_: ''_'' after_IN the_DT change_NN no_DT further_JJ cases_NNS of_IN the_DT disease_NN occurred_VBD ._.
+Schaumann1_NN in_IN his_PRP$ important_JJ monograph_NN on_IN the_DT etiology_NN of_IN Beriberi_NNP states_NNS that_IN in_IN his_PRP$ opinion_NN ,_, ``_`` Ship_NN Beriberi_NNP ''_'' is_VBZ the_DT pathological_JJ expression_NN of_IN a_DT rapidly_RB brought_VBN about_RP deficit_NN through_IN a_DT great_JJ want_NN of_IN organic_JJ phosphorus_NN components_NNS ,_, whilst_JJ tropical_JJ Beriberi_NNP is_VBZ a_DT gradually_RB produced_VBN deficit_NN occasion-_JJ ed_NN by_IN a_DT slight_NN ,_, and_CC indeed_RB ,_, sometimes_RB ,_, without_IN a_DT failure_NN of_IN these_DT substances_NNS ._. ''_''
+And_CC he_PRP concludes_VBZ further_RB ,_, ``_`` 'Ship_POS Beriberi_NNP '_'' is_VBZ a_DT disease_NN of_IN metabolism_NN ,_, which_WDT is_VBZ produced_VBN by_IN a_DT poverty_NN of_IN organic_JJ phosphorus_NN compounds_NNS in_IN the_DT dietary_NN ._. ''_''
+A_DT consideration_NN of_IN these_DT facts_NNS shows_VBZ that_IN this_DT disease_NN presents_VBZ an_DT im-_JJ portant_NN problem_NN in_IN connection_NN with_IN shipping_NN ._.
+In_IN the_DT case_NN of_IN the_DT ``_`` Clan_NNP Urquhart_NNP ``_`` the_DT outbreak_NN was_VBD brought_VBN about_RB by_IN the_DT consumption_NN of_IN very_RB high-_JJ ly_NN polished_VBD rice_NN which_WDT had_VBD been_VBN deprived_VBN of_IN constituents_NNS essential_JJ for_IN nutrition_NN ,_, especially_RB of_IN the_DT peripheral_JJ nerves_NNS ._.
+Consequently_RB ships_VBZ undertaking_VBG pro-_JJ longed_JJ voyages_NNS should_MD be_VB careful_JJ to_TO avoid_VB the_DT use_NN of_IN polished_JJ rice_NN and_CC increase_VB the_DT supply_NN of_IN Mung_NNP dal_NN ._.
+The_DT question_NN of_IN adding_VBG rice_NN bran_NN to_TO the_DT diet_NN should_MD be_VB carefully_RB considered_VBN ._.
+1Archiv_CD ._.
+Schiffs_NNP u._JJ Tropenhygiene_NNP ,_, Bd_NNP ._.
+XIV_NN ,_, Beiheft_NNP ,_, Dec._NNP 8_CD ,_, 1910_CD ._.
+G_NNP ._.
+2_CD 44_CD CHAPTER_NN IV_NNP ._.
+Epidemic_NNP Dropsy_NNP and_CC Scurvy_NNP ._.
+In_IN my_PRP$ former_JJ Report_NNP I_PRP discussed_VBD at_IN some_DT length_VBP the_DT relationship_NN of_IN Scurvy_NNP to_TO Epidemic_NNP Dropsy_NNP ,_, and_CC quoted_VBD the_DT opinions_NNS of_IN the_DT old_JJ Indian_JJ observers_NNS on_IN the_DT subject_NN ,_, namely_RB ,_, Chevers_NNP ,_, Morehead_NNP ,_, Waddell_NNP ,_, etc_NN ._.
+Since_IN the_DT report_NN was_VBD written_VBN Couvy_NNP ,_, a_DT French_JJ investigator_NN ,_, has_VBZ recorded_VBN some_DT interesting_JJ observa-_JJ tions_NNS on_IN this_DT problem_NN ._.
+Couvy1_NNP observed_VBD an_DT epidemic_NN of_IN Scurvy_NNP and_CC Beriberi_NNP amongst_VBP the_DT garrison_NN of_IN Akjoucht_NNP ._.
+The_DT Garrison_NNP consisted_VBD of_IN 11_CD Europeans_NNPS and_CC 150_CD Natives_NNS ._.
+PROGRESS_NN OF_IN EPIDEMIC_NNP ._.
+Natives_NNS ._.
+On_IN 23rd_CD May_NNP 4_CD cases_NNS amongst_VBP the_DT 150_CD 45_CD paralytic_JJ symptoms_NNS occurred_VBD ._.
+On_IN the_DT 23rd_CD aggravation_NN of_IN symptoms_NNS showed_VBD itself_PRP in_IN 88_CD cases_NNS ._.
+This_DT relapse_NN occurred_VBD in_IN men_NNS already_RB quite_RB convalescent_NN ._.
+On_IN June_NNP 23rd_CD millet_NN intended_VBN for_IN the_DT horses_NNS of_IN the_DT post_NN was_VBD distributed_VBN to_TO the_DT worst_JJS cases_NNS ._.
+Improvement_NN was_VBD noted_VBN on_IN the_DT 29th_CD and_CC 30th_CD June_NNP ._.
+From_IN 1st_CD July_NNP ,_, after_IN the_DT millet_NN was_VBD exhausted_VBN ,_, it_PRP was_VBD necessary_JJ to_TO give_VB rice_NN ;_: since_IN the_DT 3rd_CD 17_CD cases_NNS of_IN aggravation_NN of_IN the_DT condition_NN with_IN cardio-respiratory_JJ trouble_NN occurred_VBD ._.
+On_IN the_DT 6th_CD the_DT number_NN of_IN relapses_NNS reached_VBD 66_CD ,_, some_DT days_NNS later_RB 83_CD ._.
+Before_IN these_DT occurrences_NNS a_DT ration_NN of_IN 350_CD grammes_NNS of_IN meal_JJ flour_NN was_VBD sub-_JJ stituted_VBN for_IN rice_NN in_IN the_DT case_NN of_IN the_DT more_RBR severely_RB affected_JJ patients_NNS ._.
+The_DT poor_JJ state_NN of_IN the_DT provisions_NNS never_RB permitted_VBN of_IN continuing_VBG the_DT appropriate_JJ diet_NN until_IN the_DT cure_NN was_VBD complete_JJ ;_: when_WRB a_DT patient_NN improved_VBN and_CC was_VBD no_DT longer_RBR in_IN danger_NN it_PRP was_VBD necessary_JJ to_TO put_VB him_PRP on_IN a_DT rice_NN diet_NN which_WDT was_VBD followed_VBN by_IN a_DT fatal_JJ relapse_NN ._.
+Finally_RB on_IN 23rd_CD August_NNP a_DT convoy_NN arrived_VBN with_IN millet_NN and_CC bis-_JJ cuits_NNS ;_: since_IN then_RB all_PDT the_DT beriberi_NN cases_NNS have_VBP been_VBN able_JJ to_TO consume_VB without_IN inter-_JJ ruption_NN their_PRP$ ration_NN of_IN biscuit_NN in_IN place_NN of_IN rice_NN ._.
+This_DT absolute_JJ suppression_NN of_IN rice_NN has_VBZ corresponded_VBN with_IN a_DT rapid_JJ amelioration_NN without_IN relapse_NN ,_, and_CC on_IN 15th_CD September_NNP all_PDT the_DT symptoms_NNS of_IN severe_JJ beriberi_NN had_VBD disappeared_VBN in_IN all_PDT the_DT cases_NNS ._.
+They_PRP had_VBD 5_CD deaths_NNS on_IN 9th_CD ,_, 17th_CD ,_, 22nd_CD August_NNP ,_, that_WDT is_VBZ during_IN the_DT period_NN they_PRP failed_VBD to_TO have_VB suitable_JJ provisions_NNS ._.
+Two_CD deaths_NNS occurred_VBD on_IN 1st_CD Septem-_JJ ber_NN from_IN cardiac_JJ disorder_NN ,_, the_DT symptoms_NNS commenced_VBD on_IN 20th_CD August_NNP ._.
+Suppression_NN of_IN rice_NN and_CC substitution_NN of_IN biscuit_NN had_VBD always_RB a_DT beneficial_JJ and_CC rapid_JJ effect_NN on_IN the_DT cardiac_JJ disorders_NNS ._.
+This_DT influence_NN was_VBD so_RB distinct_JJ that_IN it_PRP was_VBD possible_JJ to_TO obtain_VB an_DT improvement_NN even_RB in_IN the_DT most_RBS severe_JJ cases_NNS by_IN stopping_VBG rice_NN for_IN 2_CD to_TO 6_CD days_NNS ._.
+On_IN the_DT contrary_JJ the_DT absorption_NN of_IN 1_CD to_TO 2_CD kilo-_JJ grammes_NNS of_IN rice_NN in_IN 2_CD to_TO 4_CD days_NNS sufficed_VBN in_IN the_DT majority_NN of_IN cases_NNS to_TO produce_VB a_DT severe_JJ relapse_NN ._.
+This_DT interesting_JJ paper_NN brings_VBZ out_RP the_DT point_NN that_IN there_EX is_VBZ a_DT relationship_NN between_IN Scurvy_NNP and_CC Beriberi_NNP ,_, and_CC further_RB ,_, it_PRP demonstrates_VBZ how_WRB the_DT symptoms_NNS may_MD be_VB modified_VBN by_IN change_NN of_IN diet_NN ._.
+Monteith,1_NNP whilst_NN in_IN North-West_NNP Australia_NNP during_IN 1890-91_CD and_CC 1892_CD ,_, as_IN Medical_JJ Officer_NNP to_TO Messrs._NNP Streeters_NNP ,_, Pearling_NNP Fleet_NNP ,_, observed_VBD an_DT epidemic_NN of_IN Beriberi_NNP with_IN symptoms_NNS which_WDT pointed_VBD very_RB strongly_RB to_TO a_DT Scorbutic_JJ origin_NN ._.
+The_DT disease_NN affected_VBD chiefly_PDT the_DT lugger_NN boys_VBZ shipped_VBN from_IN Koepang_NNP ,_, F._NNP M._NNP S._NNP The_DT cooks_NN ,_, Chinamen_NNP generally_RB ,_, the_DT West_NNP Australian_JJ aboriginals_NNS ,_, and_CC the_DT white_JJ men_NNS who_WP lived_VBD aft_NN in_IN the_DT schooners_NNS ,_, seemed_VBD exempt_JJ from_IN the_DT disease_NN The_DT disease_NN manifested_VBD itself_PRP when_WRB the_DT men_NNS had_VBD been_VBN many_JJ months_NNS at_IN sea_NN ._.
+The_DT prominent_NN symptoms_NNS were:46_VBP painful_JJ ,_, especially_RB at_IN night_NN ._.
+A_DT bronzing_NN or_CC pigmentation_NN was_VBD visible_JJ in_IN the_DT buccal_JJ mucous_JJ membrane_NN and_CC the_DT gums_NNS were_VBD redish_JJ and_CC spongy_JJ and_CC in_IN some_DT cases_NNS overgrown_VBP ._.
+In_IN a_DT case_NN of_IN fatal_JJ termination_NN the_DT symptoms_NNS would_MD be_VB obstinate_JJ constipation_NN and_CC vomiting_NN and_CC dyspn47_NN Food_NNP material_NN (_( dried_VBN at_IN 100_CD C._NNP (_( In_IN the_DT dried_JJ substance_NN )_) ._.
+100_CD GRAM_NNP ._.
+OF_IN FOOD_NNP MATERIAL_NNP CONTAIN_NNP TOTAL_NNP P2O5_NNP ._.
+Phos-_NNP phatid_NN P2O5_NNP ._.
+Water_NNP soluble_JJ Ester_NNP P2O5_NNP ._.
+Nuclein_NNP and_CC Proteid_NNP P2O5_NNP ._.
+WATER_NNP SOLUBLE_NNP PHOSPHATES_NNP P2O5_NNP Estimated_NNP direct_NN ._.
+Calculated_VBN ._.
+In_IN gram_NN ._.
+of_IN substance_NN ._.
+In_IN per_JJ cent_NN ._.
+of_IN total_JJ P2O5_NNP ._.
+Gram_NNP ._.
+Gram_NNP ._.
+Gram_NNP ._.
+Gram_NNP ._.
+Gram_NNP ._.
+3_CD ._.
+Salt_NNP meat_NN (_( beef_NN )_) fat_VBD free_JJ from_IN ship_NN M._NNP K._NNP 0.241_CD 0.219_CD 0.053_CD 0.048_CD 0.094_CD 0.024_CD 9.96_CD 4_CD ._.
+Salt_NNP meat_NN (_( beef_NN )_) fat_VBD free_JJ from_IN ship_JJ L._NNP P._NNP 0.139_CD 0.161_CD 0.040_CD 0.055_CD 0.048_CD 0.018_CD 12.96_CD 5_CD ._.
+Salt_NNP meat_NN (_( beef_NN )_) fat_VBD free_JJ from_IN ship_NN H._NNP 0.386_CD 0.378_CD 0.066_CD 0.079_CD 0.160_CD 0.073_CD 22.12_CD 6_CD ._.
+Preserved_VBN meat_NN (_( boiled_VBN beef_NN )_) fat_VBD free_JJ from_IN ship_JJ C._NNP H._NNP 1.179_CD 1.063_CD 0.214_CD 0.198_CD 0.124_CD 0.527_CD 44.70_CD 7_CD ._.
+Dried_VBN fish_NN from_IN ship_NN H._NNP fat_JJ free_JJ ._.
+1.823_CD 1.625_CD 0.144_CD 0.125_CD 0.148_CD 1.208_CD 66.26_CD 8_CD ._.
+Fat_NNP free_JJ preparation_NN of_IN Testicles_NNP ._.
+3.550_CD 3.477_CD 0.382_CD 1.050_CD 0.977_CD 1.068_CD 30.08_CD Phosphorus_NNP in_IN fresh_JJ vegetables_NNS ._.
+Vageler,1_NNP states_NNS that_IN ,_, ``_`` The_DT fresh_JJ vegetables_NNS ,_, which_WDT in_IN spring_NN and_CC summer_NN are_VBP always_RB available_JJ ,_, and_CC whose_WP$ advantages_NNS are_VBP generally_RB recognised_VBN ,_, are_VBP es-_JJ pecially_RB rich_JJ in_IN Phosphatides_NNP ._.
+One_CD will_MD not_RB go_VB far_RB wrong_JJ if_IN one_CD ascribes_NN in_IN great_JJ part_NN the_DT excellent_JJ physiological_JJ action_NN of_IN these_DT substances_NNS to_TO the_DT alcohol_NN soluble_JJ phosphatides_NNS ._. ''_''
+Schaumann_NNP agrees_VBZ with_IN this_DT and_CC adds_VBZ ,_, ``_`` The_DT salad_NN is_VBZ frequently_RB considered_VBN to_TO be_VB a_DT specially_RB active_JJ vegetable_NN ,_, this_DT is_VBZ explained_VBN not_RB only_RB by_IN the_DT high_JJ Phosphatide_NNP content_NN ,_, but_CC also_RB by_IN the_DT fact_NN that_IN it_PRP is_VBZ eaten_JJ raw_JJ ,_, hence_RB all_DT loss_NN and_CC alteration_NN of_IN phosphorus_NN containing_VBG substances_NNS by_IN cooking_VBG is_VBZ avoided_VBN ._. ''_''
+The_DT above_JJ facts_NNS afford_VBP an_DT explanation_NN of_IN the_DT improvement_NN of_IN the_DT symp-_JJ toms_NNS in_IN the_DT cases_NNS of_IN Epidemic_NNP Dropsy_NNP amongst_VBZ the_DT Europeans_NNPS of_IN the_DT ships_NNS of_IN the_DT Squadron_NNP in_IN the_DT Persian_NNP Gulf_NNP ,_, page_NN 40_CD of_IN this_DT Report_NNP ._.
+As_IN noted_VBN by_IN Staff_NNP Surgeon_NNP Munday_NNP as_RB soon_RB as_IN fresh_JJ fruit_NN and_CC meat_NN were_VBD added_VBN to_TO the_DT dietary_JJ cases_NNS of_IN peripheral_JJ neuritis_NN diminished_VBN and_CC finally_RB ceased_VBN ._.
+These_DT questions_NNS ,_, therefore_RB ,_, should_MD be_VB carefully_RB noted_VBN by_IN authorities_NNS re-_JJ sponsible_JJ for_IN the_DT maintenance_NN of_IN health_NN on_IN board_NN ship_NN ._.
+1Biochem_CD ._.
+Zeitschr_NNP ._.
+1909_CD Bd_NNP ._.
+XVII_NN ,_, p._NN 189_CD (_( quoted_VBN by_IN Schaumann_NNP )_) ._.
+48_CD Effect_NNP of_IN Pickling_VBG on_IN Phosphorus_NNP Content_NNP of_IN Meat_NNP ._.
+The_DT observations_NNS of_IN Nothwang1_NNP on_IN the_DT effects_NNS of_IN pickling_VBG beef_NN are_VBP of_IN in-_JJ terest_NN ._.
+The_DT following_VBG table_NN shows_VBZ the_DT loss_NN of_IN Proteid_NNP and_CC Phosphoric_NNP acid_VBD which_WDT results_NNS from_IN pickling:49_JJ CHAPTER_NNP V._NNP Experimental_NNP Investigations_NNP ._.
+In_IN my_PRP$ first_JJ Report_NNP a_DT number_NN of_IN experiments_NNS with_IN fowls_NNS and_CC pigeons_NNS are_VBP recorded_VBN ._.
+It_PRP was_VBD shown_VBN that_IN progressive_JJ loss_NN of_IN weight_NN and_CC neuritis_NN resulted_VBD from_IN feeding_VBG pigeons_NNS on_IN polished_JJ Bengal_NNP and_CC Rangoon_NNP rice_NN ,_, whereas_WP when_WRB fed_VBN on_IN a_DT mixture_NN of_IN wheat_NN and_CC pulses_VBZ no_DT neuritis_NN developed_VBD and_CC the_DT animals_NNS remained_VBD in_IN perfect_JJ health_NN ._.
+The_DT observations_NNS were_VBD carried_VBN on_IN over_IN several_JJ Months_NNS ._.
+In_IN the_DT present_JJ Report_NNP the_DT results_NNS of_IN further_JJ experimental_JJ researches_NNS are_VBP given_VBN ._.
+In_IN December_NNP 1810_CD Fraser_NNP and_CC Stanton1_NNP published_VBD the_DT results_NNS of_IN their_PRP$ re-_JJ cent_NN investigations_NNS on_IN the_DT etiology_NN of_IN Beriberi_NNP in_IN the_DT F._NNP M._NNP S._NNP Schaumann2_NNP in_IN ._.
+the_DT same_JJ month_NN published_VBD an_DT important_JJ monograph_NN on_IN the_DT etiology_NN of_IN Beriberi_NNP including_VBG ``_`` Ship_NNP Beriberi_NNP ``_`` in_IN which_WDT he_PRP gives_VBZ the_DT results_NNS of_IN his_PRP$ chemical_NN and_CC experimental_JJ investigations_NNS on_IN this_DT subject_NN ._.
+As_IN these_DT results_NNS are_VBP very_RB inter-_JJ esting_NN and_CC important_JJ a_DT full_JJ summary_NN of_IN the_DT two_CD works_NNS is_VBZ given_VBN here_RB before_RB proceeding_VBG to_TO describe_VB the_DT details_NNS of_IN my_PRP$ further_JJ experimental_JJ investigations_NNS ._.
+Fraser_NNP and_CC Stanton_NNP during_IN the_DT past_JJ year_NN have_VBP directed_VBN their_PRP$ attention_NN to-_NN wards_IN the_DT determination_NN of_IN the_DT nature_NN of_IN the_DT substances_NNS present_NN in_IN the_DT sub-_JJ pericarpal_JJ layers_NNS of_IN the_DT original_JJ rice_NN grain_NN which_WDT are_VBP removed_VBN in_IN the_DT milling_NN process_NN and_CC which_WDT it_PRP would_MD appear_VB are_VBP of_IN such_JJ high_JJ physiological_JJ importance_NN in_IN maintaining_VBG the_DT normal_JJ nutrition_NN when_WRB a_DT diet_JJ largely_RB composed_VBN of_IN white_JJ ,_, polished_JJ rice_NN is_VBZ consumed_VBN ._.
+As_IN in_IN the_DT previous_JJ experiments_NNS Fraser_NNP and_CC Stanton_NNP employed_VBD fowls_NN for_IN testing_VBG the_DT value_NN of_IN the_DT various_JJ materials_NNS ._.
+In_IN the_DT present_JJ investigation_NN all_PDT the_DT products_NNS employed_VBN ,_, unpolished_JJ rice_NN ,_, polished_JJ rice_NN ,_, polishings_NNS ,_, etc._FW ,_, were_VBD de-_JJ rived_VBN from_IN the_DT same_JJ lot_NN of_IN paddy_NN ._.
+The_DT following_VBG table_NN shows_VBZ the_DT results_NNS of_IN their_PRP$ analyses:50_NN They_PRP also_RB give_VBP the_DT following_NN table_NN which_WDT shows_VBZ the_DT composition_NN of_IN these_DT articles_NNS calculated_VBD on_IN dried_JJ materials_NNS which_WDT renders_NNS differences_NNS more_RBR striking_JJ and_CC accurate_JJ ,_, and_CC also_RB the_DT composition_NN of_IN a_DT diet_JJ composed_VBN of_IN 60_CD gram_NN ._.
+of_IN polished_JJ rice_NN and_CC 5_CD gram_NN ._.
+of_IN polishings_NNS calculated_VBN in_IN the_DT same_JJ manner_NN and_CC shows_VBZ how_WRB closely_RB this_DT diet_JJ approximates_VBZ to_TO one_CD of_IN polished_JJ rice:51_NN polished_VBD rice_NN alone_RB ._.
+Fraser_NNP and_CC Stanton_NNP disproved_VBD the_DT importance_NN of_IN phytin_NN by_IN their_PRP$ experiments_NNS ._.
+3_CD ._.
+Substance_NN soluble_JJ in_IN 0.3_CD per_IN cent_NN ._.
+hydrochloric_JJ acid.52_NN and_CC previous_JJ researches_NNS as_IN a_DT test_NN of_IN Beriberi_NNP producing_VBG power_NN of_IN a_DT rice_NN when_WRB it_PRP forms_VBZ the_DT staple_NN of_IN a_DT diet_NN in_IN man_NN ._.
+3_CD ._.
+The_DT addition_NN of_IN rice_NN polishings_NNS to_TO a_DT diet_NN of_IN white_JJ rice_NN is_VBZ an_DT effective_JJ preventive_NN of_IN the_DT development_NN of_IN polyneuritis_NN in_IN fowls_NN ._.
+Rice_NNP polishings_NNS comprise_NN from_IN 8_CD to_TO 10_CD per_IN cent_NN ._.
+by_IN weight_NN of_IN the_DT original_JJ grain_NN ._.
+4_CD ._.
+The_DT substances_NNS contained_VBN in_IN polishings_NNS which_WDT are_VBP effective_JJ in_IN prevent-_JJ ing_NN polyneuritis_NN are_VBP soluble_JJ in_IN 0.3_CD per_IN cent_NN ._.
+HCL_NNP ._.
+and_CC are_VBP not_RB precipitated_VBN from_IN the_DT solution_NN on_IN the_DT addition_NN of_IN 95_CD per_IN cent_NN ._.
+alcohol_NN ,_, in_IN quantity_NN sufficient_NN to_TO make_VB the_DT resulting_JJ mixture_NN of_IN proof_NN spirit_NN strength_NN ._.
+These_DT substances_NNS comprise_VBP 16_CD per_IN cent_NN ._.
+or_CC less_RBR by_IN weight_NN of_IN rice_NN polishings_NNS or_CC 1.6_CD per_IN cent_NN ._.
+or_CC less_RBR by_IN weight_NN of_IN the_DT original_JJ unpolished_JJ rice_NN grain_NN ._.
+5_CD ._.
+The_DT fats_NNS ,_, which_WDT are_VBP contained_VBN in_IN comparative_JJ abundance_NN in_IN rice_NN polishings_NNS ,_, have_VBP been_VBN proved_VBN of_IN no_DT importance_NN in_IN preventing_VBG polyneuritis_NN ._.
+6_CD ._.
+Phosphorus_NNP compounds_VBZ equal_JJ to_TO 85_CD per_IN cent_NN ._.
+of_IN the_DT total_JJ phosphorus_NN content_NN have_VBP been_VBN proved_VBN to_TO be_VB unimportant_JJ in_IN preventing_VBG polyneuritis_NN ._.
+Breaudat1_NNP has_VBZ extracted_VBN from_IN rice_NN bran_NN a_DT nucleoalbumin_NN or_CC vegetable_JJ casein_NN ,_, a_DT gluten_NN ,_, which_WDT is_VBZ present_JJ in_IN the_DT rice_NN to_TO the_DT amount_NN of_IN 12_CD to_TO 13_CD per_IN cent_NN ._.
+and_CC which_WDT he_PRP found_VBD protected_JJ pigeons_NNS fed_VBP on_IN white_JJ polished_JJ rice_NN from_IN poly-_JJ neuritis_NN ._.
+In_IN my_PRP$ previous_JJ Report2_NNP the_DT effect_NN of_IN the_DT addition_NN of_IN meat_NN to_TO and_CC its_PRP$ absence_NN from_IN the_DT dietary_NN in_IN cases_NNS of_IN Epidemic_NNP Dropsy_NNP was_VBD recorded_VBN ._.
+Hindu_NNP widows_NNS ,_, for_IN religious_JJ reasons_NNS ,_, do_VBP not_RB consume_VB meat_NN at_IN all_DT and_CC the_DT mortality_NN from_IN Epidemic_NNP Dropsy_NNP was_VBD shown_VBN to_TO be_VB very_RB high_JJ amongst_IN them_PRP ,_, whilst_VB male_NN Hindus_NNP (_( Bengalis_NNP )_) pertake_NN of_IN a_DT considerable_JJ amount_NN of_IN meat_NN and_CC the_DT mor-_JJ tality_NN was_VBD low_JJ ._.
+It_PRP is_VBZ interesting_VBG to_TO note_VB that_IN McCay3_NNP has_VBZ shown_VBN from_IN his_PRP$ investigations_NNS on_IN Bengal_NNP Jail_NNP diet_NN that_IN the_DT reduction_NN of_IN the_DT quantity_NN of_IN rice_NN and_CC the_DT addition_NN of_IN fish_NN or_CC meat_NN to_TO the_DT dietary_JJ improves_NNS nitrogen_RB metabolism_NN as_IN the_DT following_VBG table_NN from_IN his_PRP$ Report_NNP shows:53_VBD The_DT following_NN is_VBZ a_DT fairly_RB full_JJ summary_NN of_IN a_DT recently_RB published_VBN Mono-_NNP graph_NN by_IN Dr._NNP H._NNP Schaumann1_NNP on_IN the_DT etiology_NN of_IN Beriberi_NNP including_VBG ``_`` Ship_NNP Beriberi_NNP ._. ''_''
+The_DT monograph_NN contains_VBZ a_DT very_RB complete_JJ ,_, up_RB to_TO date_NN bibliography_NN on_IN the_DT subject_NN ._.
+Schaumann_NNP has_VBZ exhaustively_RB examined_VBN possible_JJ factors_NNS as_IN causal_NN agents_NNS in_IN Beriberi_NNP and_CC particularly_RB ``_`` Ship_NNP Beriberi_NNP ._. ''_''
+The_DT following_NN are_VBP extracts_NNS from_IN his_PRP$ important_JJ monograph:54_NN ``_`` A_NNP protective_JJ action_NN of_IN the_DT mineral_JJ constituents_NNS added_VBD to_TO the_DT food_NN was_VBD ex-_RB cluded_VBN ._. ''_''
+5_CD ._.
+Phosphorus_NNP and_CC its_PRP$ relation_NN to_TO Beriberi.55_VB the_DT number_NN of_IN these_DT combinations_NNS to_TO an_DT extraordinary_JJ extent_NN ,_, since_IN according_VBG to_TO the_DT investigations_NNS of_IN Tanmann1_NNP the_DT metaphosphates_NNS as_IN concerns_NNS their_PRP$ rich-_JJ ness_NN in_IN Isomeres_NNP and_CC Polymeres_NNP ,_, are_VBP unique_JJ ._.
+3_CD ._.
+Paranucleoproteids_NNS (_( Nucleo-albumin_NNP )_) ._.
+Kasein_NNP ._.
+4_CD ._.
+Phytin.56_NNP Schaumann_NNP gives_VBZ the_DT following_VBG table_NN which_WDT shows_VBZ the_DT distribution_NN of_IN P2O5_NNP in_IN the_DT organs_NNS of_IN the_DT human_JJ body:57_NN Schaumann_NNP considers_VBZ it_PRP probable_JJ that_IN the_DT absence_NN of_IN the_DT different_JJ phos-_JJ phorus_NN combinations_NNS in_IN the_DT organism_NN will_MD be_VB expressed_VBN specifically_RB in_IN various_JJ ways_NNS ,_, that_IN it_PRP will_MD produce_VB different_JJ kinds_NNS of_IN morbid_NN phenomena_NN ,_, e.g._NN ,_, Scurvy_NNP ,_, Beriberi_NNP ,_, Ship_NNP Beriberi_NNP ,_, etc_NN ._.
+He_PRP admits_VBZ ,_, however_RB 2_CD that_IN the_DT subject_NN is_VBZ a_DT very_RB complex_JJ one_CD ._.
+As_IN a_DT result_NN of_IN his_PRP$ experimental_JJ studies_NNS in_IN animals_NNS he_PRP comes_VBZ to_TO the_DT follow-_JJ ing_NN conclusions:58_NN is_VBZ the_DT case_NN ,_, as_IN has_VBZ been_VBN proved_VBN in_IN plants_NNS ,_, and_CC as_RB is_VBZ the_DT case_NN in_IN other_JJ food_NN stuffs_NNS (_( albumins_NNS and_CC carbohydrates_NNS )_) ._.
+7_CD ._.
+Nitrogen_NN and_CC Phosphorus_NNP metabolism_NN ,_, as_IN has_VBZ been_VBN shown_VBN by_IN former_JJ experiment_NN and_CC confirmed_VBN by_IN my_PRP$ own_JJ observations_NNS ,_, stand_VBP in_IN close_JJ relationship_NN ._.
+If_IN the_DT content_NN in_IN organic_JJ phosphorus_NN combinations_NNS sinks_VBP below_IN a_DT certain_JJ amount_NN in_IN the_DT food_NN ,_, then_RB nitrogen_DT transformation_NN is_VBZ simultaneously_RB depressed_VBN ._.
+8_CD ._.
+The_DT polyneuritis_NN ,_, which_WDT occurs_VBZ in_IN animals_NNS ,_, dependent_NN on_IN an_DT alimentary_JJ origin_NN or_CC produced_VBN intentionally_RB ,_, is_VBZ a_DT disease_NN of_IN metabolism_NN ,_, which_WDT in_IN the_DT latter_JJ case_NN is_VBZ dependent_JJ on_IN the_DT poverty_NN of_IN the_DT food_NN in_IN certain_JJ organic_JJ phosphorus_NN combinations_NNS ,_, which_WDT require_VBP to_TO be_VB more_RBR closely_RB defined_VBN ._.
+Schaumann_NNP comes_VBZ to_TO the_DT following_JJ final_JJ conclusions_NNS on_IN the_DT etiology_NN of_IN Beriberi_NNP including_VBG ``_`` Ship_NNP Beriberi_NNP ''_'' :59_NN 4_CD ._.
+Osteomalacia.1_RB 5_CD ._.
+Pellagra_NNP perhaps_RB ._.
+He_PRP considers_VBZ that_IN the_DT explanation_NN of_IN the_DT difference_NN in_IN the_DT features_NNS of_IN the_DT above_JJ diseases_NNS is_VBZ dependent_JJ on_IN the_DT absence_NN of_IN different_JJ kinds_NNS of_IN combinations_NNS of_IN organic_JJ phosphorus_NN :_: each_DT combination_NN plays_VBZ a_DT specific_JJ part_NN in_IN the_DT function_NN ._.
+of_IN metabolism_NN of_IN the_DT human_JJ body_NN ;_: and_CC their_PRP$ absence_NN is_VBZ expressed_VBN by_IN disease_NN processes_NNS ,_, which_WDT are_VBP as_IN specifically_RB different_JJ from_IN one_CD another_DT ,_, as_IN are_VBP the_DT organic_JJ phosphorus_NN combinations_NNS ,_, the_DT absence_NN of_IN which_WDT produces_VBZ them_PRP ._.
+Heubner_NNP &_CC Reeb2_NNP give_VBP as_IN the_DT result_NN of_IN their_PRP$ analysis_NN the_DT following_JJ dis-_JJ tribution_NN of_IN Phosphorus_NNP in_IN polished_JJ rice:60_NN Having_NNP discussed_VBD the_DT literature_NN of_IN the_DT most_RBS recent_JJ and_CC important_JJ experi-_JJ mental_JJ investigations_NNS on_IN the_DT etiology_NN of_IN Beriberi_NNP including_VBG ``_`` Ship_NNP Beriberi_NNP ``_`` I_PRP now_RB proceed_VBP to_TO detail_VB the_DT results_NNS of_IN my_PRP$ own_JJ experimental_JJ enquiry_NN on_IN the_DT etiology_NN of_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ._.
+The_DT animal_JJ experiments_NNS referred_VBD to_TO in_IN my_PRP$ previous_JJ Report1_NNP have_VBP been_VBN continued_VBN and_CC a_DT large_JJ number_NN of_IN feeding_VBG experiments_NNS with_IN pigeons_NNS and_CC fowls_NN to_TO test_VB the_DT nutritive_JJ value_NN of_IN the_DT various_JJ kinds_NNS of_IN food_NN grains_NNS have_VBP been_VBN carried_VBN out_RP by_IN me_PRP ._.
+As_IN already_RB pointed_VBN out_RP these_DT animals_NNS form_VBP very_RB delicate_JJ in-_JJ dicators_NNS of_IN the_DT food_NN value_NN of_IN the_DT different_JJ grains_NNS ._.
+When_WRB fed_VBN on_IN polished_JJ grains_NNS they_PRP lose_VBP weight_NN progressively_RB and_CC develop_VB neuritis_NN ._.
+A_DT symptom_NN ,_, which_WDT was_VBD frequently_RB noted_VBN in_IN pigeons_NNS and_CC fowls_NN ,_, which_WDT showed_VBD signs_NNS of_IN neuritis_NN ,_, was_VBD a_DT recurving_NN of_IN the_DT neck_NN ,_, the_DT head_NN being_VBG drawn_VBN over_IN towards_IN the_DT animal_NN 's_POS back_NN ._.
+Post_NNP mortem_NN the_DT peripheral_JJ nerves_NNS of_IN pigeons_NNS and_CC fowls_VBZ dying_VBG with_IN symptoms_NNS above_IN noted_VBD show_NN well_RB marked_VBN degeneration_NN changes_NNS ,_, and_CC a_DT plate_NN is_VBZ given_VBN in_IN my_PRP$ first_JJ Report1_NNP which_WDT depicts_VBZ these_DT changes_NNS in_IN the_DT nerves_NNS of_IN the_DT animals_NNS ._.
+I_PRP have_VBP carried_VBN out_RP a_DT large_JJ number_NN of_IN experiments_NNS with_IN pigeons_NNS and_CC fowls_JJ fed_VBN on_IN different_JJ kinds_NNS of_IN polished_JJ grains_NNS with_IN the_DT result_NN that_WDT progressive_JJ loss_NN of_IN weight_NN and_CC neuritis_NN with_IN death_NN invariably_RB occurred_VBD ._.
+The_DT symptoms_NNS developed_VBD whether_IN the_DT rice_NN was_VBD boiled_VBN or_CC unboiled_VBN ;_: indeed_RB a_DT more_RBR rapid_JJ course_NN was_VBD taken_VBN by_IN the_DT disease_NN in_IN the_DT case_NN of_IN animals_NNS fed_VBN on_IN boiled_JJ rice_NN ._.
+The_DT rice_NN was_VBD also_RB placed_VBN in_IN the_DT autoclav_NN for_IN one_CD hour_NN before_IN giving_VBG it_PRP to_TO the_DT pigeons_NNS ,_, in_IN this_DT way_NN any_DT organisms_NNS ,_, moulds_NNS ,_, bacteria_NNS ,_, etc._NN ,_, and_CC ,_, probably_RB ,_, enzymes_NNS ,_, pre-_JJ sent_NN in_IN the_DT rice_NN would_MD be_VB destroyed_VBN ;_: yet_CC loss_NN of_IN weight_NN and_CC neuritis_NN invariably_RB resulted_VBD when_WRB pigeons_NNS were_VBD fed_VBN on_IN polished_JJ rice_NN so_RB heated_JJ ._.
+An_DT account_NN of_IN the_DT experimental_JJ work_NN is_VBZ given_VBN below_IN and_CC Charts_NNP No_NNP ._.
+6_CD to_TO 9_CD and_CC Photographs_NNP 10-14_JJ illustrate_NN certain_JJ experiments_NNS ._.
+The_DT details_NNS of_IN the_DT conditions_NNS under_IN which_WDT the_DT experiments_NNS were_VBD conducted_VBN are_VBP given_VBN in_IN my_PRP$ first_JJ Report.1_NNP 1_CD ._.
+Experiments_NNS with_IN polished_JJ grains_NNS ._.
+Bengal_NNP (_( Khulna_NNP )_) rice_NN polished_VBN (_( unboiled_JJ )_) This_DT variety_NN of_IN Bengal_NNP rice_NN was_VBD used_VBN because_IN a_DT sample_NN was_VBD sent_VBN in_IN to_TO the_DT Medical_NNP College_NNP from_IN Khulna_NNP district_NN ,_, where_WRB Epidemic_NNP Dropsy_NNP was_VBD prevailing_VBG at_IN the_DT time_NN ,_, to_TO be_VB examined_VBN ._.
+Six_CD pigeons_NNS Were_NNP fed_VBN on_IN 30_CD gram_NN ._.
+of_IN this_DT rice_NN daily_RB ._.
+No_DT other_JJ grain_NN was_VBD given_VBN ._.
+1_CD First_NNP Report_NNP on_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP by_IN Major_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, Scientific_NNP Memoir_NNP No_NNP ._.
+45_CD ._.
+61_CD The_DT chemical_NN analysis_NN of_IN these_DT grains_NNS gave_VBD the_DT ,_, following_VBG results:62_NN The_DT following_VBG table_NN shows_VBZ the_DT number_NN of_IN pigeons_NNS fed_VBN ,_, the_DT duration_NN of_IN the_DT experiment_NN ,_, the_DT weight_NN at_IN the_DT beginning_NN and_CC end_NN of_IN experiment_NN ,_, the_DT percentage_NN loss_NN of_IN weight_NN ,_, and_CC the_DT occurrence_NN of_IN neuritis:63_JJ percentage_NN loss_NN of_IN weight_NN ,_, and_CC the_DT occurrence_NN or_CC non-occurrence_NN of_IN neuritis:64_FW The_DT chemical_NN analysis_NN is_VBZ same_JJ as_IN that_DT given_VBN under_IN Experiment_NNP 22_CD ._.
+The_DT following_VBG table_NN shows_VBZ the_DT number_NN of_IN pigeons_NNS fed_VBN ,_, the_DT duration_NN of_IN the_DT experiment_NN ,_, the_DT weight_NN at_IN the_DT beginning_NN and_CC end_NN of_IN the_DT experiment_NN ,_, the_DT percentage_NN loss_NN of_IN weight_NN ,_, the_DT occurrence_NN or_CC non-occurrence_NN of_IN neuritis:65_JJ Remarks.66_NNP (_( 2_CD )_) By_IN substituting_VBG unpolished_JJ for_IN polished_JJ rice_NN or_CC by_IN adding_VBG the_DT polishings_NNS of_IN rice_NN (_( Koorah_NNP )_) in_IN a_DT certain_JJ percentage_NN to_TO the_DT polished_JJ rice_NN diet_NN ._.
+The_DT following_VBG table_JJ gives_VBZ the_DT results_NNS of_IN the_DT analysis_NN of_IN the_DT various_JJ ingre-_JJ dients_NNS of_IN the_DT mixture:67_NN percentage_NN gain_NN or_CC loss_NN of_IN weight_NN ,_, and_CC the_DT occurrence_NN or_CC non-occurrence_NN of_IN neuritis:68_FW The_DT following_VBG table_NN shows_VBZ the_DT number_NN of_IN fowls_JJ fed_NN ,_, the_DT duration_NN of_IN the_DT experiment_NN ,_, the_DT percentage_NN gain_NN or_CC loss_NN of_IN weight_NN ,_, and_CC the_DT occurrence_NN or_CC non-occurrence_NN of_IN neuritis_NN :_: [_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061300.tif_CD ]_JJ VI_NNP ._.
+EXPERIMENT_NNP XXXXVI_NNP FOWLS_NNP ON_NNP POLISHED_NNP RICE_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061303.tif_CD ]_JJ EXPERIMENT_NNP XXXVII_NNP FOWLS_NNP ON_NNP UNPOLISHED_NNP RICE_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061303.tif_CD ]_JJ PERIOD_NN DURING_NNP WHICH_NNP THE_NNP FOWLS_NNP ARE_NNP FED_NNP ON_NNP POLISHED_NNP RICE_NNP ._.
+,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,UNPOLISHED_NNP RICE_NNP ._.
+SHOWING_NN PIGEONS_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061309.tif_CD ]_JJ PIGEONS_NNP FED_NNP O_NNP BY_NNP B.L_NNP ._.
+DAS._NNP ,_, CALCUTTA_NNP ._.
+THIS_NNP CONTINUOUS_NNP LINES_NNP DOTTED_NNP ,_, ,_, THICK_NNP CONTINUOUS_NNP LINE_NNP DOTTED_NNP ,_, ,_, VII_NNP ._.
+PREVENTION_NN OF_NNP NEURITIS_NNP ,_, SHOWING_NNP EFFECT_NNP OF_NNP ADDING_NNP MUNG_NNP DAL_NNP TO_NNP POLISHED_NNP RICE_NNP ._.
+EXPERIMENT_RB 54_CD ._.
+PIGEONS_NNP FED_NNP ON_NNP POLISHED_NNP RICE_NNP (_( RANGOON_NNP )_) ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061312.tif_CD ]_JJ EXPERIMENT_NNP 47_CD ._.
+PIGEONS_NNP FED_NNP ON_NNP MIXTURE_NNP POLISHED_NNP RICE_NNP &_CC MUNG_NNP DAL_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061312.tif_CD ]_NN BY_NNP B_NNP .L.DAS._NNP ,_, CALCUTTA_NNP THIS_NNP CONTINUOUS_NNP LINES_NNP SHOW_NNP THE_NNP WEIGHT_NNP OF_NNP PIGEONS_NNP IN_NNP GRAMMES_NNP FED_NNP ON_NNP POLISHED_NNP RICE_NNP ._.
+DOTTED_NNP ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,AND_CC MUNG_NNP DAL_NNP ._.
+THICK_NNP CONTINUOUS_NNP LINES_NNP SHOW_NNP THE_NNP PERIOD_NNP THE_NNP PIGEONS_NNP WERE_NNP FED_NNP ON_NNP POLISHED_NNP RICE_NNP ._.
+DOTTED_NNP ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, AND_NNP MUNG_NNP DAL_NNP ._.
+69_CD percentage_NN gain_NN or_CC loss_NN of_IN weight_NN and_CC the_DT occurrence_NN or_CC non-occurrence_NN of_IN neuritis_NN :70_NN on_IN the_DT polished_JJ rice_NN and_CC on_IN the_DT wheat_NN pulse_JJ mixture_NN ,_, the_DT weight_NN at_IN the_DT begin-_JJ ning_NN and_CC end_NN of_IN the_DT periods_NNS of_IN experiment_NN on_IN polished_JJ rice_NN and_CC on_IN wheat_NN pulses_NNS ,_, the_DT percentage_NN gain_NN and_CC loss_NN of_IN weight_NN during_IN both_DT periods_NNS ,_, the_DT occurrence_NN or_CC non-occurrence_NN of_IN neuritis_NN during_IN these_DT periods_NNS :_: -_: Period_NN on_IN polished_JJ rice_NN (_( Rangoon_NNP )_) ._.
+No_DT ._.
+of_IN pigeon_NN ._.
+Duration_NN of_IN experiment_NN ._.
+Weight_NNP at_IN beginning_VBG of_IN experiment_NN ._.
+Weight_NNP at_IN end_NN of_IN experiment_NN ._.
+Gain_NN or_CC loss_NN of_IN weight_NN ._.
+Result_NN ._.
+Days_NNS ._.
+Gram_NNP ._.
+Gram_NNP ._.
+Per_NNP cent_NN ._.
+1_CD 28_CD 330_CD 200_CD -39.3_JJ Neuritis_NNP ._.
+2_CD 13_CD 290_CD 240_CD -17.3_NN ,_, ,_, 3_CD 20_CD 240_CD 190_CD -12.5_NN ,_, ,_, 4_CD 20_CD 280_CD 210_CD -25.0_NN ,_, ,_, 5_CD 36_CD 310_CD 200_CD -35.4_NN VIII_NNP ._.
+Ex_NNP ._.
+XXXV_NN ._.
+Fowl_NNP ,_, No_NNP I_PRP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061324.tif_CD ]_NNS BY_NNP B.L_NNP ._.
+DAS._NNP ,_, ARTIST_NNP Period_NNP during_IN which_WDT the_DT fowl_NN is_VBZ fed_VBN on_IN Barley_NNP ._.
+Period_NNP during_IN which_WDT the_DT fowl_NN is_VBZ fed_VBN on_IN MSHOW_NNP WHEA_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061330.tif_CD ]_NNS THIN_NNP CONTINUOUS_NNP LINE_NNP DOTTED_NNP ,_, ,_, THICK_NNP CONTINUOUS_NNP LINE_NNP DOTTED_NNP ,_, ,_, Reg_NNP No_NNP ._.
+3705_CD E._NNP ,_, 11.IX_CD ._.
+DIETETIC_NNP TREATMENT_NNP OF_NNP NEURITIS_NNP ._.
+SHOWING_NN EFFECT_NNP OF_NNP CHANGING_NNP DIET_NNP FROM_NNP POLISHED_NNP RICE_NNP TO_NNP WHEAT_NNP AND_NNP PULSES_NNP AFTER_NNP DEVELOPMENT_NNP OF_NNP NEURITIS_NNP ,_, EXPERIMENT_NNP 49_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061333.tif_CD ]_NNS BY_NNP B._NNP L._NNP Das_NNP ._.
+THIN_NNP CONTINUOUS_NNP LINES_NNP SHOW_NNP THE_NNP WEIGHT_NNP OF_NNP PIGEONS_NNP IN_NNP GRAMMES_NNP FED_NNP ON_NNP POLISHED_NNP RICE_NNP ._.
+DOTTED_NNP ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, SAME_NNP ,_, ,_, ,_, ,_, WHEN_NNP DIET_NNP CHANGED_NNP TO_NNP MUNG_NNP DAL_NNP ,_, WHEAT_NNP AND_NNP PULSES_NNP ._.
+THICK_NNP CONTINUOUS_NNP LINES_NNP SHOW_NNP THE_NNP ,_, PERIOD_NNP THE_NNP PIGEONS_NNP WERE_NNP FED_NNP ON_NNP POLISHED_NNP RICE_NNP ._.
+DOTTED_NNP ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, ,_, SAME_NNP ,_, ,_, ,_, ,_, ,_, ,_, MUNG_NNP DAL_NNP AND_NNP PULSES_NNP ,_, Reg_NNP ._.
+No_DT ._.
+3705E._CD ,_, 11.71_CD ments_NNS already_RB made_VBN ._.
+By_IN stopping_VBG the_DT rice_NN dietary_JJ completely_RB and_CC substitut-_JJ ing_NN wheat_NN and_CC pulses_NNS I_PRP was_VBD able_JJ to_TO save_VB all_DT five_CD pigeons_NNS ._.
+The_DT symptoms_NNS of_IN neuritis_NN gradually_RB disappear_VBP ._.
+In_IN one_CD animal_NN the_DT gait_NN remained_VBD altered_VBN for_IN some_DT weeks_NNS ,_, but_CC gradually_RB improved_VBN ._.
+All_DT five_CD pigeons_NNS regained_VBD the_DT weight_NN which_WDT they_PRP had_VBD lost_VBN ._.
+The_DT experiment_NN is_VBZ of_IN very_RB considerable_JJ importance_NN and_CC throws_VBZ light_NN on_IN the_DT treatment_NN of_IN this_DT condition_NN ._.
+If_IN the_DT structural_JJ alterations_NNS are_VBP too_RB ad-_JJ vanced_JJ then_RB ,_, of_IN course_NN ,_, change_NN of_IN diet_NN will_MD not_RB be_VB so_RB likely_JJ to_TO effect_NN an_DT improve-_JJ ment_NN ._.
+Hence_NN in_IN the_DT case_NN of_IN human_JJ beings_NNS the_DT early_JJ recognition_NN of_IN the_DT disease_NN is_VBZ of_IN great_JJ importance_NN in_IN order_NN that_IN the_DT change_NN of_IN diet_NN may_MD be_VB made_VBN at_IN the_DT earliest_JJS opportunity_NN before_IN the_DT anatomical_JJ lesions_NNS are_VBP too_RB pronounced_JJ ._.
+In_IN regard_NN to_TO the_DT above_JJ experiments_NNS on_IN the_DT prophylactic_JJ and_CC curative_JJ treatment_NN of_IN Epidemic_NNP Dropsy_NNP a_DT recent_JJ publication_NN of_IN Hulshoff_NNP Pol.1_NNP in_IN which_WDT he_PRP communicates_VBZ the_DT results_NNS of_IN his_PRP$ researches_NNS on_IN Beriberi_NNP in_IN the_DT Dutch_NNP East_NNP India_NNP Colonies_NNP with_IN special_JJ reference_NN to_TO its_PRP$ prophylactic_JJ and_CC curative_JJ treat-_JJ ment_NN is_VBZ of_IN interest_NN and_CC a_DT full_JJ summary_NN of_IN this_DT important_JJ paper_NN is_VBZ given_VBN ._.
+He_PRP conducted_VBD an_DT investigation_NN on_IN the_DT curative_JJ action_NN of_IN Phaseolus_NNP radiatus_NN ,_, the_DT Mung_NNP dal_NN of_IN India_NNP ,_, on_IN Beriberi_NNP cases_NNS occurring_VBG in_IN his_PRP$ Lunatic_JJ Asylum_NNP ._.
+The_DT observation_NN lasted_VBD from_IN August_NNP 1901_CD to_TO end_VB of_IN April_NNP 1902_CD ._.
+He_PRP added_VBD to_TO the_DT usual_JJ dietary_NN of_IN half_PDT the_DT Beriberi_NNP patients_NNS ,_, Phaseolus_NNP radiatus_VBZ 50_CD grammes_NNS thrice_JJ daily_RB ._.
+The_DT other_JJ articles_NNS of_IN diet_NN were_VBD 500_CD gram_NN ._.
+rice_NN daily_RB ;_: in_IN the_DT morning_NN ,_, rice_NN and_CC flesh_NN or_CC fish_NN ._.
+Abundance_NN of_IN vegetables_NNS and_CC spices_NNS were_VBD given_VBN also_RB ._.
+Later_RB when_WRB he_PRP became_VBD convinced_JJ of_IN the_DT curative_JJ value_NN of_IN the_DT bean_JJ one_CD meal_NN of_IN rice_NN was_VBD withdrawn_VBN and_CC replaced_VBN by_IN 150_CD grammes_NNS beans_NNS ._.
+The_DT beans_NNS were_VBD cooked_VBN as_IN porridge_NN ,_, and_CC sweetened_VBD with_IN sugar_NN ._.
+It_PRP was_VBD definitely_RB determined_VBN that_IN the_DT beans_NNS were_VBD eaten_VBN ,_, by_IN the_DT observa-_JJ tions_NNS of_IN himself_PRP or_CC his_PRP$ European_JJ attendants_NNS ._.
+The_DT following_VBG table_JJ gives_VBZ the_DT results_NNS of_IN his_PRP$ observations_NNS :72_VBP The_DT following_JJ observations_NNS were_VBD made_VBN by_IN him_PRP on_IN the_DT prophylactic_JJ value_NN of_IN Phaseolus_NNP in_IN Beriberi_NNP :73_VBP The_DT following_VBG table_NN shows_VBZ the_DT complete_JJ results_NNS of_IN his_PRP$ prophylactic_JJ experi-_JJ ments_NNS with_IN Phaseolus_NNP which_WDT extended_VBD over_IN three_CD years:74_NNS 75_CD B_NNP ._.
+Experiment_NN with_IN decoction_NN ._.
+18_CD Beriberi_NNP cases_NNS ._.
+(_( a_DT )_) Recovered_NNP ._.
+13_CD Became_NNP better_RBR ._.
+5_CD (_( c_NN )_) Remained_VBD stationary_JJ ._.
+0_CD (_( d_NN )_) Became_NNP worse_JJR ._.
+0_CD (_( e_NN )_) Became_NNP very_RB ill_RB ._.
+0_CD (_( f_NN )_) Died_VBD ._.
+TOTAL_NN ._.
+18_CD Kiewiet_NNP de_FW Jonge_NNP confirmed_VBD the_DT curative_JJ action_NN of_IN the_DT decoction_NN of_IN Phaseolus_NNP ._.
+Hulshoff_NNP Pol_NNP isolated_VBD chemically_RB from_IN the_DT decoction_NN of_IN beans_NNS an_DT active_JJ ingredient_NN ,_, and_CC he_PRP calls_VBZ it_PRP X._NNP acid_NN ._.
+He_PRP reaches_VBZ the_DT following_JJ conclusions_NNS as_IN a_DT result_NN of_IN his_PRP$ investigations_NNS :76_VBP 10_CD ._.
+The_DT practitioner_NN must_MD regularly_VB determine_NN that_IN the_DT patients_NNS are_VBP taking_VBG the_DT remedy_NN ,_, because_IN a_DT few_JJ of_IN them_PRP oppose_VBP it_PRP after_IN long_RB use_NN ._.
+11_CD ._.
+The_DT poor_JJ results_NNS which_WDT Japanese_JJ practitioners_NNS have_VBP had_VBN in_IN treating_VBG Beriberi_NNP with_IN Phaseolus_NNP (_( Aduki_NNP )_) are_VBP partly_RB due_JJ to_TO the_DT fact_NN that_IN they_PRP have_VBP attempted_VBN to_TO treat_VB the_DT degeneration_NN of_IN the_DT neurones_NNS with_IN Aduki_NNP ._.
+12_CD ._.
+The_DT Japanese_JJ Aduki_NNP and_CC the_DT Dutch_NNP East_NNP Indian_NNP Katjong_NNP hidjoe_VBD be-_RB long_RB to_TO the_DT same_JJ plant_NN family_NN :_: Phaseolus_CC radiates_NNS ,_, L._NNP ,_, but_CC they_PRP are_VBP different_JJ varieties_NNS ._.
+The_DT Japanese_JJ beans_NNS are_VBP red_JJ to_TO black_JJ ,_, the_DT Dutch_NNP East_NNP Indian_NNP are_VBP green_JJ ._.
+The_DT Japanese_JJ variety_NN can_MD thrive_VB in_IN the_DT Dutch_NNP East_NNP Indian_JJ Colonies_NNP ,_, but_CC not_RB well_RB ._.
+13_CD ._.
+The_DT Katjong_NNP hidjoe_NN has_VBZ no_DT direct_JJ specific_JJ action_NN on_IN the_DT kidneys_NNS ._.
+The_DT disappearance_NN of_IN the_DT 77_CD mustard_NN oil_NN consumed_VBN by_IN Bengalis_NNP attacked_VBN by_IN Epidemic_NNP Dropsy_NNP during_IN the_DT last_JJ Calcutta_NNP outbreak_NN ._.
+Experiment_JJ 33.78_CD CHAPTER_NN VI_NNP ._.
+General_JJ Conclusions_NNPS ._.
+As_IN will_MD be_VB seen_VBN from_IN a_DT study_NN of_IN this_DT report_NN ,_, the_DT two_CD main_JJ factors_NNS which_WDT have_VBP determined_VBN the_DT recent_JJ outbreak_NN of_IN Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP are_VBP :79_VBG It_PRP has_VBZ also_RB an_DT important_JJ bearing_NN on_IN the_DT maintenance_NN of_IN the_DT health_NN of_IN crews_NNS of_IN ships_NNS undertaking_VBG prolonged_JJ voyages_NNS ,_, particularly_RB those_DT ships_NNS carry-_JJ ing_VBG rice-eating_JJ crews_NNS ._.
+Consequently_RB the_DT accounts_NNS of_IN recent_JJ researches_NNS on_IN this_DT subject_NN should_MD be_VB brought_VBN to_TO the_DT notice_NN of_IN all_DT concerned_VBN with_IN a_DT view_NN to_TO prevent-_JJ ing_VBG outbreaks_NN of_IN this_DT disease_NN ._.
+An_DT Indian_JJ food_NN grain_NN ,_, which_WDT I_PRP have_VBP shown_VBN has_VBZ valuable_JJ prophylactic_JJ curative_NN properties_NNS in_IN this_DT disease_NN ,_, is_VBZ the_DT green_JJ Mung_NNP dal_NN of_IN India_NNP ,_, which_WDT corresponds_VBZ to_TO the_DT Katjong_NNP hidjoe_NN of_IN the_DT Far_NNP East_NNP and_CC the_DT Aduki_NNP of_IN Japan_NNP and_CC its_PRP$ technical_JJ name_NN is_VBZ Phaseolus_NNP radiatus_NN ._.
+Green_JJ Mung_NNP or_CC Mung_NNP dal_NN is_VBZ cultivated_VBN in_IN India_NNP ,_, chiefly_NN at_IN Bijapur,1_NNP North_NNP Canara,2_NNP Kathiawar,3_NNP Poona,4_NNP Satara,5_NNP Sirsi_NNP ,_, North_NNP Canara.6_NNP Van_NNP Andel,7_NNP in_IN the_DT treatment_NN of_IN Beriberi_NNP patients_NNS ,_, CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 8_CD ,_, HASTINGS_NNP STREET_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061369.tif_CD ]_JJ Photo.-Engraved_NNP printed_VBD at_IN the_DT offices_NNS of_IN the_DT Survey_NNP of_IN lndia_NN ,_, Calcutta_NNP ._.
+1911_CD PIGEON_NNP No_NNP ._.
+1_CD ._.
+NEURITIS_NNP EARLY_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061375.tif_CD ]_NNP Photo.-Engraved_NNP &_CC printed_VBN at_IN the_DT Offices_NNS of_IN the_DT Survey_NNP of_IN India_NNP ,_, Calcutta_NNP ,_, 1911_CD PIGEON_NNP No_NNP ._.
+2_CD ._.
+NEURITIS_NNP MODERATLY_NNP ADVANCED_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061381.tif_CD ]_NNP Photo.-Engraved_NNP &_CC printed_VBN at_IN the_DT Offices_NNS of_IN the_DT Survey_NNP of_IN India_NNP ,_, Calcutta_NNP ,_, 1911_CD ._.
+PIGEON_NNP No_NNP ._.
+3_CD ._.
+NEURITIS_NNP ADVANCED_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061387.tif_CD ]_NNP Photo.-Engraved_NNP &_CC printed_VBN at_IN the_DT Offices_NNS of_IN the_DT Survey_NNP of_IN India_NNP ,_, Calcutta_NNP ,_, 1911_CD ._.
+PIGEON_NNP No_NNP ._.
+4_CD ,_, HEALTHY_NNP ._.
+NEURITIS_RB CURED_NNP BY_NNP MUNG_NNP DAL_NNP &_CC PULSES_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75061393.tif_CD ]_NNP Photo.-Engraved_NNP &_CC printed_VBN at_IN the_DT Offices_NNS of_IN the_DT Survey_NNP of_IN India_NNP Calcutta_NNP ,_, 1911_CD PIGEON_NNP No_NNP ._.
+5_CD ,_, HEALTHY_NNP ._.
+POLISHED_NNP RICE_NNP &_CC MUNG_NNP DAL_NNP DIET_NNP ._.

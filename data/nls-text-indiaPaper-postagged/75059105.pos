@@ -1,0 +1,428 @@
+IP/QB_NNP ,_, 10_CD m.91.b_NN ._.
+No_DT ._.
+47_CD ._.
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP Dysentery_NNP and_CC Liver_NNP Abscess_NNP in_IN Bombay_NNP BEING_NNP THE_NNP REPORT_NNP OF_NNP AN_NNP ENQUIRY_NNP CARRIED_NNP OUT_NNP BY_NNP MAJOR_NNP E._NNP D._NNP W._NNP GREIG_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, AND_NNP CAPTAIN_NNP R._NNP T._NNP WELLS_NNP ,_, M.A._NNP ,_, M.B._NNP ,_, I.M.S_NNP ._.
+Under_IN the_DT direction_NN of_IN the_DT Director_NNP ,_, Central_NNP Research_NNP Institute_NNP ,_, Kasauli_NNP ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059112.tif_CD ]_NNS CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1911_CD Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+S._NNP 12._CD a._NN M._NNP 91._CD b_NN (_( NEW_JJ SERIES_NNP ._. )_)
+No_DT ._.
+47_CD ._.
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP Dysentery_NNP and_CC Liver_NNP Abscess_NNP in_IN Bombay_NNP BEING_NNP THE_NNP REPORT_NNP OF_NNP AN_NNP ENQUIRY_NNP CARRIEID_NNP OUT_NNP BY_NNP MAJOR_NNP ,_, E._NNP D._NNP W._NNP GREIG_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP ,_, AND_NNP CAPTAIN_NNP R._NNP T._NNP WELLS_NNP ,_, M.A._NNP ,_, M.B._NNP ,_, I.M.S_NNP ._.
+Under_IN the_DT direction_NN of_IN the_DT Director_NNP ,_, Central_NNP Research_NNP Institute_NNP ,_, Kasauli_NNP ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059124.tif_CD ]_JJ CALCUTTA_NNP ._.
+SUPERINTENDENT_JJ GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1911_CD [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059124.tif_CD ]_JJ Agents_NNS for_IN the_DT Sale_NNP of_IN Books_NNP published_VBN by_IN the_DT Superintendent_NNP of_IN Government_NNP Printing_NNP ,_, India_NNP ,_, Calcutta_NNP ._.
+IN_NNP ENGLAND_NNP ._.
+Mr._NNP E._NNP A._NNP ARNOLD_NNP ,_, 41_CD and_CC ._.
+43_CD ,_, Maddox_NNP Street_NNP ,_, Bond_NNP Street_NNP ,_, London_NNP ,_, W._NNP Messrs._NNP CONSTABLE_NNP &_CC Co._NNP ,_, 10_CD ,_, Orange_NNP Street_NNP ,_, Leicester_NNP Square_NNP ,_, W.C._NNP Messrs._NNP KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRÜBNER_NNP &_CC Co._NNP ,_, 43_CD ,_, Gerrard_NNP Street_NNP ,_, Soho_NNP ,_, London_NNP ,_, W._NNP Mr._NNP BERNARD_NNP QUARITCH_NNP ,_, 11_CD ,_, Grafton_NNP Street_NNP ,_, New_NNP Bond_NNP ._.
+Street_NNP ,_, W._NNP Messrs._NNP P._NNP S._NNP KING_NNP &_CC SON_NNP ,_, 2_CD and_CC ._.
+4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ._.
+Messrs._NNP H._NNP S._NNP KING_NNP &_CC Co._NNP ,_, 65_CD ,_, Cornhill_NNP ,_, and_CC 9_CD ,_, Pall_NNP Mall_NNP ,_, London_NNP ._.
+Messrs._NNP GRINDLAY_NNP &_CC Co._NNP ,_, 54_CD ,_, Parliament_NNP Street_NNP ,_, London_NNP ,_, S.W_NNP ._.
+Mr._NNP T._NNP FISHER_NNP UNWIN_NNP ,_, 1_CD ,_, Adelphi_NNP Terrace_NNP ,_, London_NNP ,_, W.C._NNP Messrs._NNP W._NNP THACKER_NNP &_CC Co._NNP ,_, 2_CD ,_, Creed_NNP Lane_NNP ,_, London_NNP ,_, E.C_NNP ._.
+Mr._NNP B._NNP H._NNP BLACKWELL_NNP ,_, 50_CD and_CC 51_CD ,_, Broad_NNP Street_NNP ,_, Oxford_NNP ._.
+Messrs._NNP DEIGHTON_NNP BELL_NNP &_CC CO._NNP ,_, Cambridge_NNP ._.
+Messrs._NNP LUZAC_NNP &_CC Co._NNP ,_, 46_CD ,_, Great_NNP Russell_NNP Street_NNP ,_, London_NNP ,_, W.C._NNP ON_NNP THE_NNP CONTINENT_NNP ._.
+Mr._NNP OTTO_NNP HARRASSOWITZ_NNP ,_, Mr._NNP KARL_NNP HIERSEMANN_NNP ,_, Leipzig_NNP ._.
+Messrs._NNS R._NNP FRIEDLÄNDER_NNP &_CC SOHN_NNP ,_, Berlin_NNP ,_, W.N._NNP ,_, Carlstrasse_NNP ,_, 11_CD ._.
+Mr._NNP ERNEST_NNP LEROUX_NNP ,_, 2S_CD ,_, Rue_NNP Bonaparte_NNP ,_, Paris_NNP ._.
+Mr._NNP MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP ,_, Holland_NNP ._.
+IN_NNP INDIA_NNP ._.
+Messrs._NN THACKER_NNP ,_, SPINK_NNP &_CC CO._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+Messrs._NNP NEWMAN_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+Messrs._NNS R._NNP CAMBRAY_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+Messrs._NNP S._NNP K._NNP LAHIRI_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+Messrs._NNP B._NNP BANERJEE_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+The_DT Calcutta_NNP School_NNP Book_NNP and_CC Useful_NNP Litera-_NNP ture_NN Society_NNP ,_, 1_CD ,_, Wellington_NNP ._.
+Square_NNP ,_, Calcutta_NNP ._.
+Messrs._NNP HIGGINBOTHAM_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNS V._NNP KALYANARAMA_NNP IYER_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNP G._NNP A._NNP NATESAN_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP S._NNP MURTHY_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNP THOMPSON_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP TEMPLE_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP COMBRIDGE_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNS P._NNP R._NNP RAMA_NNP IYER_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP THACKER_NNP &_CC Co._NNP ,_, LD._NNP ,_, Bombay_NNP ._.
+Messrs._NNP A._NNP J._NNP COMBRIDGE_NNP &_CC CO._NNP ,_, Bombay_NNP ._.
+Messrs._NNS D._NNP B._NNP TARAPOREVALA_NNP ,_, SONS_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+Mrs._NNP RADHABAI_NNP ATMARAM_NNP SAGOON_NNP ,_, Bombay_NNP ._.
+Mr._NNP SUNDER_NNP PANDURANG_NNP ,_, Bombay_NNP ._.
+Messrs._NNS GOPAL_NNP NARAYAN_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+Superintendent_NN ,_, American_NNP Baptist_NNP Mission_NNP Press_NNP ,_, Rangoon_NNP ._.
+RAI_NNP SAHIB_NNP M._NNP GULAB_NNP SINGH_NNP &_CC SONS_NNP ,_, Mufid-_NNP i-Am_JJ Press_NNP ,_, Lahore_NNP and_CC Calcutta_NNP ._.
+Mr._NNP N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP ,_, Nazair_NNP Kanun_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+Messrs._NNP A._NNP CHAND_NNP &_CC Co._NNP ,_, Punjab_NNP ._.
+Messrs._NNP A._NNP M._NNP &_CC J._NNP FERGUSON_NNP ,_, Ceylon_NNP ._.
+Babu_NNP S._NNP C._NNP TALUKDAR_NNP ,_, Proprietor_NNP ,_, Students_NNS and_CC Company_NNP ,_, Cooch_NNP Behar_NNP ._.
+List_NN of_IN numbers_NNS of_IN Scientific_NNP Memoirs_NNP by_IN Officers_NNP of_IN the_DT Medical_NNP and_CC Sanitary_NNP Departments_NNP of_IN the_DT Government_NNP of_IN India_NNP (_( New_NNP Series_NNP )_) published_VBD previous_JJ to_TO the_DT present_JJ issue_NN ._.
+No_DT ._.
+1_CD ._.
+Standardisation_NN of_IN Calmette_NNP 's_POS Anti-Venomous_JJ Serum_NNP with_IN Pure_NNP Cobra_NNP Venom_NNP :_: the_DT Deterioration_NN of_IN this_DT Serum_NNP through_IN keeping_VBG in_IN India_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq.._NNP ,_, M.B_NNP ._.
+Price_NN As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+2_CD ._.
+Malaria_NNP in_IN India_NNP ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+3_CD ._.
+Some_DT Observations_NNS on_IN the_DT Poison_NNP of_IN Russell_NNP 's_POS Viper_NNP (_( Daboia_NNP Russellii_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M.B_NNP ._.
+Price_NN As_IN ._.
+5_CD or_CC 6d_CD ._.
+No_DT ._.
+4_CD ._.
+On_IN the_DT Action_NNP of_IN the_DT Venoms_NNP of_IN the_DT Cobra_NNP and_CC of_IN the_DT Daboia_NNP on_IN the_DT Red_NNP Blood_NNP corpuscles_NNS and_CC on_IN the_DT blood_NN plasma_NN ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M_NNP .S_NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+5_CD ._.
+Specificity_NN of_IN Anti-Venomous_JJ Sera_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+6_CD ._.
+First_NNP Report_NNP on_IN the_DT Anti-Malarial_JJ Operations_NNS in_IN Mian_NNP Mir_NNP ,_, 1901-03_JJ ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC is_VBZ ._.
+2d_CD ._.
+No_DT ._.
+7_CD ._.
+Some_DT Observations_NNS on_IN the_DT Poison_NNP of_IN the_DT Banded_NNP Krait_NNP (_( Bungarus_NNP Fasciatus_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+8_CD ._.
+A_DT Preliminary_JJ Report_NNP on_IN a_DT Parasite_NNP found_VBN in_IN Patients_NNS suffering_VBG from_IN Enlargement_NNP of_IN the_DT Spleen_NNP in_IN India_NNP ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+9_CD ._.
+Second_JJ Report_NNP of_IN the_DT Anti-Malarial_JJ Operations_NNS at_IN Mian_NNP Mir_NNP ,_, 1901-03_JJ ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+10_CD or_CC is_VBZ ._.
+No_DT ._.
+10_CD ._.
+Specificity_NN of_IN Anti-Venomous_JJ Sera_NNP (_( Second_NNP Communication_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+11_CD ._.
+On_IN a_DT Parasite_NNP found_VBN in_IN persons_NNS suffering_VBG from_IN Enlargement_NNP of_IN the_DT Spleen_NNP in_IN India-_NNP Second_NNP Report_NNP ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+No_DT ._.
+12_CD ._.
+On_IN the_DT Morphology_NNP ,_, Teratology_NNP ,_, and_CC Diclinism_NNP of_IN the_DT Flowers_NNP of_IN Cannabis_NNP ,_, by_IN Major_NNP D._NNP Prain_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+14_CD or_CC 1s_CD ._.
+4d_CD ._.
+No_DT ._.
+13_CD ._.
+Oriental_JJ or_CC Delhi_NNP Sore_NNP ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+14_CD ._.
+On_IN a_DT Parasite_NNP found_NN in_IN the_DT White_NNP Corpuscles_NNPS of_IN the_DT Blood_NNP of_IN Dogs_NNP ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+15_CD ._.
+On_IN a_DT Parasite_NNP found_VBN in_IN persons_NNS suffering_VBG from_IN Enlargement_NNP of_IN the_DT Spleen_NNP in_IN India-_NNP Third_NNP Report_NNP ,_, by_IN Lieutenant_NNP S._NNP R.Christophers_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+16_CD ._.
+The_DT Specificity_NNP of_IN Anti-Venomous_NNP Sera_NNP with_IN special_JJ reference_NN to_TO a_DT Serum_NNP prepared_VBN with_IN the_DT Venom_NNP of_IN the_DT Daboia_NNP Russellii_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+6_CD or_CC 7d_CD ._.
+No_DT ._.
+17_CD ._.
+Snake-Venoms_NNS in_IN relation_NN to_TO Hæmolysis_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+6_CD or_CC 7d_CD ._.
+No_DT ._.
+18_CD ._.
+Hæmogregarina_NNP Gerbilli_NNP ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+19_CD ._.
+On_IN Kala_NNP Azar_NNP ,_, Malaria_NNP and_CC Malarial_NNP Cachexia_NNP ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, M.B._NNP ,_, I.M.S_NNP ._.
+Price_NNP Re_NNP ._.
+1-4_CD or_CC 1s_CD ._.
+11d_CD ._.
+No_DT ._.
+20_CD ._.
+Serum-Therapy_NN of_IN Plague_NNP in_IN India_NNP ;_: Reports_NNS by_IN Mr._NNP W._NNP M._NNP Haffkine_NNP ,_, C.I.E._NNP ,_, and_CC various_JJ officers_NNS of_IN the_DT Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ._.
+by_IN Lieutenant-_NNP Colonel_NNP W._NNP B._NNP Bannerman_NNP ,_, M.D._NNP ,_, B.Sc._NNP ,_, F.R_NNP ,_, C.S._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+14_CD or_CC 1s_CD ._.
+4d_CD ._.
+2_CD No_DT ._.
+21_CD ._.
+On_IN the_DT Standardisation_NNP of_IN Anti-Typhoid_NNP Vaccine_NNP ,_, by_IN Captain_NNP George_NNP Lamb_NNP ,_, M.D._NNP ,_, I.M.S._NNP (_( Director_NNP ,_, Pasteur_NNP Institute_NNP of_IN India_NNP )_) ,_, and_CC Captain_NNP W._NNP B._NNP C._NNP Forster_NNP ,_, M.B._NNP ,_, D.P.H._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+6_CD or_CC 7d_CD ._.
+No_DT ._.
+22_CD ._.
+Mediterranean_JJ Fever_NNP in_IN India_NNP :_: Isolation_NN of_IN the_DT Micrococcus_NNP Melitensis_NNP ,_, by_IN Captain_NNP George_NNP Lamb_NNP ,_, M.D._NNP ,_, I.M.S._NNP ,_, and_CC Assistant_NNP Surgeon_NNP M._NNP Kesava_NNP Pai_NNP ,_, M.B._NNP ,_, C.M_NNP ._.
+(_( Madras_NNP )_) ._.
+Price_NN As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+23_CD ._.
+The_DT Anatomy_NNP and_CC Histology_NNP of_IN Ticks_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+3_CD or_CC 4s_CD ._.
+6d_CD ._.
+No_DT ._.
+24_CD ._.
+On_IN a_DT Parasite_NNP found_NN in_IN the_DT White_NNP Corpuscles_NNPS of_IN the_DT blood_NN of_IN Palm_NNP Squirrels_NNP ,_, by_IN Captain_NNP W._NNP S._NNP Patton_NNP ,_, M.B._NNP ,_, .I.M.S_NNP ._.
+Price_NN As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+25_CD ._.
+On_IN the_DT importance_NN of_IN Larval_NNP Characters_NNP in_IN the_DT Classification_NNP of_IN Mosquitoes_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+26_CD ._.
+Leucocytozoon_NNP Canis_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+27_CD ._.
+Preliminary_JJ Report_NNP on_IN the_DT Development_NNP of_IN the_DT Leishman-Donovan_NNP Body_NNP in_IN the_DT Bed_NNP Bug_NNP ,_, by_IN Captain_NNP W._NNP S._NNP Patton_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+28_CD ._.
+The_DT Sexual_JJ Cycle_NNP of_IN Leucocytozoon_NNP Canis_NNP in_IN the_DT Tick_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.8_NNP ._.
+Price_NN As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+29_CD ._.
+Piroplasma_NNP Canis_NNP and_CC its_PRP$ Cycle_NNP in_IN the_DT Tick_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+No_DT ._.
+30_CD ._.
+The_DT Theory_NNP and_CC Practice_NNP of_IN Anti-Rabic_NNP Immunisation_NNP ,_, by_IN Captain_NNP W._NNP F._NNP Harvey_NNP ,_, M.B._NNP ,_, I.M.S._NNP ,_, and_CC Captain_NNP Anderson_NNP McKendrick_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD r_NN 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+31_CD ._.
+The_DT Development_NNP of_IN the_DT Leishman-Donovan_NNP Parasite_NNP in_IN Cimex_NNP Rotundatus-Second_NNP Report_NNP ,_, by_IN Captain_NNP W._NNP S._NNP Patton_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1_CD or_CC 1s_CD ._.
+6d_CD ._.
+No_DT ._.
+32_CD ._.
+An_DT Enquiry_NNP on_IN Enteric_NNP Fever_NNP in_IN India_NNP carried_VBD out_RP at_IN the_DT Central_NNP Research_NNP Institute_NNP ,_, Kasauli_NNP ,_, under_IN the_DT direction_NN of_IN Lieutenant-Colonel_NNP D._NNP Semple_NNP ,_, M.D._NNP ,_, and_CC Captain_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D_NNP ._.
+Price_NNP Re_NNP ._.
+1-2_CD or_CC 1s_CD ._.
+9d_CD ._.
+No_DT ._.
+33_CD ._.
+The_DT Production_NN of_IN Alkali_NNP in_IN Liquid_NNP Media_NNP by_IN the_DT Bacillus_NNP Pestis_NNP ,_, by_IN Lieutenant-_NNP Colonel_NNP W._NNP B._NNP Bannerman_NNP ,_, M.D._NNP ,_, B.Sc._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+5_CD or_CC 6d_CD ._.
+No_DT ._.
+34_CD ._.
+Standards_NNS of_IN the_DT Constituents_NNS of_IN the_DT Urine_NNP and_CC Blood_NNP and_CC the_DT bearing_NN of_IN the_DT Meta-_NNP bolism_NN of_IN Bengalis_NNP on_IN the_DT Problems_NNP of_IN Nutrition_NNP ,_, by_IN Captain_NNP D._NNP McCay_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+35_CD ._.
+Black-water_NNP Fever_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP ,_, and_CC Dr._NNP C._NNP A._NNP Bentley_NNP ._.
+No_DT ._.
+36_CD ._.
+Observations_NNS on_IN Rabies_NNS :_: with_IN special_JJ reference_NN to_TO an_DT Atrophic_JJ form_NN of_IN the_DT disease_NN occurring_VBG in_IN animals_NNS ,_, by_IN Major_NNP G._NNP Lamb_NNP ,_, M.D._NNP ,_, I.M.S._NNP ,_, and_CC Captain_NNP A._NNP G._NNP McKendrick_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+37_CD ._.
+Investigations_NNS on_IN Bengal_NNP Jail_NNP Dietaries_NNS :_: with_IN some_DT observations_NNS on_IN the_DT influence_NN of_IN dietary_NN on_IN the_DT physical_JJ development_NN and_CC well-being_NN of_IN the_DT people_NNS of_IN Bengal_NNP ,_, by_IN Captain_NNP D._NNP McCay_NNP ,_, M.B._NNP ,_, B.Ch._NNP ,_, B.A.O._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+2-6_JJ or_CC 4s_CD ._.
+3d_CD ._.
+No_DT ._.
+38_CD ._.
+Preliminary_JJ Report_NNP on_IN the_DT killing_NN of_IN Rats_NNP and_CC Rat_NNP Fleas_NNP by_IN Hydrocyanic_NNP Acid_NNP Gas_NNP ,_, by_IN Captain_NNP W._NNP D._NNP H._NNP Stevenson_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+39_CD ._.
+The_DT Applicability_NNP to_TO Medico-Legal_NNP Practice_NNP in_IN India_NNP of_IN the_DT Biochemical_NNP Tests_NNS for_IN the_DT Origin_NNP of_IN Blood-Stains_NNP ,_, by_IN Lieutenant-Colonel_NNP W._NNP D._NNP Sutherland_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT 40_CD ._.
+The_DT Destruction_NNP of_IN Fleas_NNP by_IN Exposure_NNP to_TO the_DT Sun_NNP ,_, by_IN Captain_NNP J._NNP Cunningham_NNP ,_, M.D._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+41_CD ._.
+Quinine_NNP and_CC its_PRP$ Salts_NNP ,_, their_PRP$ Solubility_NN and_CC ._.
+Absorbability_NNP ,_, by_IN Captain_NNP A._NNP C._NNP MacGilchrist_NNP ,_, M.A._NNP ,_, M.D._NNP ,_, M.R.C.P._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+9_CD or_CC 10d_CD ._.
+3_CD No_DT ._.
+42_CD ._.
+The_DT Cultivation_NNP of_IN the_DT Bacillus_NNP of_IN Leprosy_NNP and_CC the_DT Treatment_NNP of_IN cases_NNS by_IN means_NNS of_IN a_DT Vaccine_NNP prepared_VBN from_IN the_DT Cultivations_NNP ,_, by_IN Major_NNP E._NNP R._NNP Rost_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+43_CD ._.
+The_DT Relation_NNP of_IN Tetanus_NNP to_TO the_DT Hypodermic_NNP or_CC Intramuscular_NNP Injection_NNP of_IN Quinine_NNP ,_, by_IN Lieutenant-Colonel_NNP Sir_NNP D._NNP Semple_NNP ,_, KT._NNP ,_, M.D_NNP ._.
+Price_NN As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+44_CD ._.
+The_DT Preparation_NNP of_IN a_DT Safe_NNP and_CC Efficient_NNP Antirabic_NNP Vaccine_NNP ,_, by_IN Lieutenant-Colonel_NNP Sir_NNP D._NNP Semple_NNP ,_, KT._NNP ,_, M.D._NNP ,_, ._.
+D.P.H._NNP ,_, R.A.M.C_NNP ._.
+(_( Retired_VBN )_) ._.
+Price_NN As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+45_CD ._.
+Epidemic_NNP Dropsy_NNP in_IN Calcutta_NNP ,_, by_IN Major_NNP E._NNP D._NNP W._NNP Greig_NNP ,_, M.D._NNP ,_, D.Sc._NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-4_CD or_CC 2s_CD ._.
+No_DT ._.
+46_CD ._.
+Malaria_NNP in_IN the_DT Punjab_NNP ,_, by_IN Major_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+Published_VBN by_IN and_CC on_IN sale_NN at_IN the_DT Office_NNP of_IN the_DT Superintendent_NNP of_IN Government_NNP Printing_NNP ,_, India_NNP ,_, Calcutta_NNP ._.
+Copies_NNS are_VBP also_RB available_JJ from_IN all_DT Agents_NNS for_IN the_DT sale_NN of_IN Government_NNP publications_NNS ._.
+CONTENTS_NNS ._.
+PART_NN I_PRP ._.
+PAGE_NN ._.
+I_PRP ._.
+[_JJ ii_NN ]_VBD 6_CD ._.
+TEXT_NNP FIGURE_NNP NO_NNP ._.
+1_CD SHOWING_NNP LIFE_NNP CYCLE_NNP OF_NNP AMAn_NNP Enquiry_NNP on_IN Dysentery_NNP and_CC Liver_NNP Abscess_NNP in_IN Bombay_NNP ._.
+PART_NN I_PRP I.2_NNP B._NNP dysenteriæ_NN isolated_VBD ;_: the_DT investigation_NN of_IN am3_PDT The_DT following_VBG table_NN shows_VBZ the_DT various_JJ Military_JJ Hospitals_NNS in_IN Bombay_NNP and_CC the_DT number_NN of_IN cases_NNS examined_VBN in_IN each:4_CC The_DT following_JJ table_NN shows_VBZ the_DT total_JJ number_NN of_IN cases_NNS of_IN dysentery_NN examined_VBN amongst_IN the_DT Civil_NNP population_NN and_CC the_DT presence_NN or_CC absence_NN of_IN Trichomonas_NNP and_CC the_DT ova_NN of_IN intestinal_JJ worms_NNS in_IN the_DT stools_NNS :5_VBP The_DT following_VBG table_NN shows_VBZ the_DT reaction_NN of_IN the_DT stool_NN in_IN the_DT cases_NNS of_IN dysentery_NN tested_VBN amongst_IN the_DT Military_NNP population:6_NN dysentery_NN serum_NN ._.
+If_IN a_DT colony_NN reacted_VBN ,_, it_PRP was_VBD sub-cultured_VBN on_IN agar_NN ._.
+From_IN agar_NN ,_, tubes_NNS of_IN glucose_JJ agar_NN and_CC litmus_JJ milk_NN were_VBD inoculated_VBN in_IN the_DT first_JJ place_NN ,_, and_CC if_IN no_DT gas_NN was_VBD produced_VBN in_IN the_DT former_JJ ,_, and_CC in_IN the_DT latter_JJ the_DT production_NN of_IN alkali_NN ,_, after_IN a_DT preliminary_JJ acid_NN formation_NN ,_, without_IN clotting_VBG ,_, occurred_VBD ,_, then_RB it_PRP was_VBD grown_VBN in_IN ,_, the_DT various_JJ sugars_NNS ._.
+The_DT indol_JJ reaction_NN ,_, and_CC the_DT effect_NN of_IN inoculation_NN into_IN the_DT rabbit_NN was_VBD also_RB determined_VBN ._.
+The_DT morphological_JJ characters_NNS of_IN the_DT bacillus_NN ,_, motility_NN ,_, etc._NN ,_, as_RB well_RB as_IN its_PRP$ behaviour_NN towards_IN Gram_NNP 's_POS stain_NN ,_, were_VBD noted_VBN in_IN each_DT case_NN ._.
+In_IN this_DT way_NN it_PRP was_VBD possible_JJ to_TO determine_VB exactly_RB the_DT variety_NN of_IN dysentery_NN bacillus_NN under_IN observation_NN ._.
+Each_DT case_NN of_IN dysentery_NN was_VBD examined_VBN a_DT number_NN of_IN times_NNS for_IN the_DT Bacillus_NNP dysenteri7_NN be_VB observed_VBN ,_, also_RB ,_, that_IN the_DT excretion_NN of_IN the_DT bacilli_NN in_IN some_DT cases_NNS is_VBZ intermittent_JJ ._.
+The_DT full_JJ details_NNS of_IN the_DT results_NNS of_IN the_DT examination_NN of_IN each_DT case_NN of_IN bacillary_JJ dysentery_NN are_VBP given_VBN in_IN Table_NNP I_PRP ,_, Appendix_NNP ._.
+The_DT Widal_NNP reaction_NN in_IN bacillary_JJ dysentery_NN was_VBD tested_VBN in_IN a_DT number_NN of_IN cases_NNS ._.
+It_PRP was_VBD not_RB possible_JJ to_TO separate_VB an_DT infection_NN with_IN B._NNP dysenteri8_NN d'avoir_NN cree_VBP cette_NN fausse_NN conception_NN d'Amibe_NN non_JJ pathogene_NN ._. '_''
+II_NNP n'est_JJS pas_NN certain_JJ que_JJ I'Ent_NNP ._.
+coli_NNS soit_VBP un_JJ parasite_JJ aussi_NN inoffensif_NN qu'on_NN le_NN croit_NN ._.
+Et_NNP Gasser_NNP ,_, quelque_NN sceptique_NN ,_, qu'il_FW puisse_FW être_FW sur_NN le_NN r_NN le_NN pathogène_NN des_VBZ amibes_IN a_DT tout_NN de_IN même_FW constaté_NN ,_, 45_CD fois_NN sur_VBD 109_CD cas_NN de_FW dysentérie_FW ,_, la_FW presence_NN de_FW I'Ent_NNP ._.
+coli_NNS (_( cité_JJ par_NN Patrick_NNP Manson_NNP )_) ._.
+D'ailleurs_NNP a-t-on_JJ jusqu'ici_NN examiné_NN systematiquement_NN les_VBZ selles_NNS dans_NNS les_NNS cas_VBP de_IN dysentérie_FW nostras_NNS ?_.
+Est-on_JJ sûr_NN que_NN là_NN on_IN I'Ent_NNP ._.
+histolytica_NN fût_NN diagnostique_NN iI_NN ne_JJ s'agissait_NN pas_NN par_NN fois_NN d'autres_VBZ espèces_NNS ?_.
+Viereck1_NNP dit_NN avoir_NN trouvé_NN son_NN Amibe_NNP chez_NN des_NNS personnes_VBP non_RB dysentérique_JJ commes_NNS d'autres_VBZ qui_JJ ont_JJ fait_NN des_NNS observations_NNS analogues_NNS concernant_VBP les_VBZ autres_NNS Amibes_NNP connues_NNS ._. ''_''
+On_IN this_DT point_NN Dofiein_NNP 2_CD states_NNS ``_`` That_DT Musgrave_NNP and_CC Clegg_NNP have_VBP come_VBN to_TO the_DT ._.
+conclusion_NN from_IN infections_NNS produced_VBN by_IN am9_NN (_( b_NN )_) Seasonal_NNP Prevalence_NNP of_IN Am10_NNP The_DT following_JJ chart_NN shows_VBZ the_DT monthly_JJ variation_NN from_IN the_DT mean_NN of_IN am11_PDT The_DT following_JJ chart_NN shows_VBZ the_DT monthly_JJ variation_NN from_IN the_DT mean_NN of_IN am12_NN ascertain_NN this_DT the_DT average_JJ admissions_NNS for_IN dysentery_NN to_TO the_DT Bombay_NNP Prisons_NNP for_IN ten_CD years_NNS ,_, 1897-1906_JJ ,_, were_VBD obtained_VBN for_IN each_DT month_NN of_IN the_DT year_NN from_IN the_DT Reports_NNS of_IN the_DT Sanitary_NNP Commissioner_NNP with_IN the_DT Government_NNP of_IN India_NNP ._.
+These_DT averages_NNS were_VBD added_VBN together_RB and_CC divided_VBN by_IN the_DT number_NN of_IN months_NNS ,_, giving_VBG a_DT mean_JJ admission_NN rate_NN for_IN the_DT period_NN ._.
+The_DT monthly_JJ variations_NNS from_IN this_DT mean_NN were_VBD plotted_VBN out_RP and_CC a_DT curve_NN was_VBD obtained_VBN showing_VBG the_DT seasonal_JJ variations_NNS of_IN dysentery_NN in_IN the_DT Bombay_NNP Prisons_NNP ._.
+On_IN comparing_VBG this_DT with_IN the_DT curve_NN of_IN am13_NN (_( c_NN )_) Characters_NNS of_IN Am14_NNP cultures_NNS of_IN am15_JJ 2_CD ._.
+MOVEMENTS_NNS ._.
+When_WRB seen_VBN in_IN stools_NNS ,_, pus_NN ,_, and_CC in_IN cultures_NNS ,_, the_DT am16_JJ stages_NNS of_IN the_DT life-cycle_NN of_IN the_DT am17_JJ bud_NN of_IN protoplasm_NN is_VBZ protruded_VBN through_IN the_DT cyst_NN wall_NN at_IN one_CD point_NN ._.
+This_DT bud_NN shows_VBZ am18_IN These_DT 'buds_NNS ,_, '_'' which_WDT become_VBP young_JJ am19_NNS rapidly_RB ,_, and_CC being_VBG young_JJ ,_, nuclear_JJ division_NN is_VBZ favoured_VBN and_CC premature_NN buds_NNS are_VBP produced_VBN ._.
+An_DT examination_NN of_IN cysts_NNS ,_, fixed_VBN and_CC stained_VBN by_IN various_JJ methods_NNS ,_, shows_VBZ that_IN the_DT endoplasm_NN of_IN the_DT am20_NN liver_NN abscesses_NNS ._.
+The_DT following_VBG table_NN ,_, taken_VBN from_IN his_PRP$ paper_NN ,_, shows_VBZ the_DT presence_NN or_CC absence_NN of_IN am21_NN to_TO note_VB in_IN this_DT connection_NN that_WDT spontaneous_JJ am22_NN apparently_RB closely_RB resembles_VBZ the_DT am23_NN the_DT stomach_NN ._.
+On_IN the_DT other_JJ hand_NN the_DT two_CD chief_JJ characteristics_NNS of_IN the_DT histolytica_NN type_NN are_VBP the_DT superficial_JJ nucleus_NN ,_, placed_VBN at_IN the_DT boundary_NN between_IN ectoplasm_NN and_CC endoplasm_NN ,_, and_CC the_DT greatly_RB developed_JJ ectoplasmic_JJ layer_NN :_: both_DT these_DT features_NNS are_VBP seen_VBN ._.
+The_DT blood_NN corpuscles_NNS in_IN process_NN of_IN digestion_NN would_MD be_VB in_IN the_DT endoplasm_NN ._.
+I_PRP think_VBP therefore_RB your_PRP$ cat_NN had_VBD got_VBN an_DT infection_NN of_IN am24_NN ducing_VBG definite_JJ lesions_NNS in_IN monkeys_NNS by_IN feeding_VBG them_PRP with_IN cultures_NNS of_IN am25_JJ opening_VBG the_DT abdomen_NNS patches_NNS of_IN deep_JJ injection_NN were_VBD visible_JJ in_IN the_DT large_JJ intestine_NN ,_, most_JJS marked_VBN in_IN the_DT transverse_NN colon_NN ,_, sigmoid_NN and_CC rectum_NN ._.
+The_DT omentum_NN is_VBZ firmly_RB adherent_JJ to_TO the_DT transverse_NN colon_NN ._.
+Slight_NNP diffuse_NN injection_NN of_IN the_DT small_JJ intestine_NN up_IN to_TO the_DT duodenum_NN ._.
+On_IN opening_VBG the_DT large_JJ intestine_JJ extensive_JJ ulcer-_JJ ation_NN is_VBZ found_VBN ;_: the_DT ulcers_NNS are_VBP very_RB irregular_JJ ,_, undermining_VBG the_DT mucus_NN membrane_NN ._.
+Small_JJ intestine.26_NN Ex_NNP ._.
+8.27_CD No_DT ._.
+of_IN Monkey_NNP ._.
+Weight_NNP (_( grams_NNS )_) ._.
+Stools_NNP ._.
+AM28_IN The_DT following_VBG table_NN shows_VBZ the_DT presence_NN or_CC absence_NN of_IN am29_PDT The_DT following_VBG table_NN shows_VBZ the_DT presence_NN or_CC absence_NN of_IN am30_NN (_( a_DT )_) BLOOD_NN CHANGES_NNP IN_NNP AM31_NNP Serial_NNP No_NNP ._.
+Name_NN ._.
+Age_NNP ._.
+Sex_NN ._.
+Race_NN ._.
+Occupation_NN ._.
+Number_NNP of_IN days_NNS in_IN hospital_NN and_CC result_NN ._.
+Temperature_NN ._.
+Date_NNP of_IN examination_NN ._.
+R._NNP B._NNP C._NNP W._NNP B._NNP C._NNP PERCENTAGES_NNP ._.
+Blood_NN ._.
+Malarial_JJ paras.te_NN ._.
+STOOLS_NNP ._.
+P._NNP N._NNP S._NNP M._NNP L._NNP M._NNP E._NNP Character_NNP ._.
+Am32_NNP Serial_NNP No_NNP Name_NNP ._.
+Age_NNP ._.
+Sex_NN ._.
+Race_NN ._.
+Occupation_NN ._.
+Number_NNP of_IN days_NNS in_IN hospital_NN and_CC result_NN ._.
+Temperature_NN ._.
+Date_NNP of_IN examination_NN ._.
+R._NNP B._NNP C._NNP W._NNP B._NNP C._NNP PERCENTAGES_NNP ._.
+Blood_NN ._.
+Malarial_NNP parasite_NN ._.
+STOOLS_NNP ._.
+P._NNP N._NNP S._NNP M._NNP L.M_NNP ._.
+E._NNP Character_NNP ._.
+Am33_$ 25th_CD May_NNP 1909_CD ._.
+6,920,000_CD 20,700_CD 61_CD 34_CD 3_CD 2_CD 28th_CD May_NNP 1909_CD ._.
+17,280_CD 63.5_CD 31_CD 4.5_CD 1_CD 1st_CD June_NNP 1909_CD 15,200_CD 59_CD 37.5_CD 3.5_CD 0_CD 4th_CD June_NNP 1909_CD 13,200_CD 13_CD H._NNP D._NNP 23_CD M_NNP M_NNP Scpoy_NNP ,_, 116th_CD Mah_NNP ._.
+8_CD days_NNS ._.
+R._NNP Normal_NNP 16th_CD April_NNP 1909_CD ._.
+4,560,000_CD 6,700_CD 84_CD 8.5_CD 7.5_CD 34_CD Serial_JJ No_NNP ._.
+Name_NN ._.
+Age_NNP ._.
+Sex_NN ._.
+Race_NN ._.
+Occupation_NN ._.
+Number_NNP of_IN days_NNS in_IN hospital_NN and_CC result_NN ._.
+Temperature_NN ._.
+Date_NNP of_IN examination_NN ._.
+R._NNP B._NNP C._NNP W._NNP B._NNP C._NNP PERCENTAGES_NNP ._.
+Blood_NN ._.
+Malarial_NNP parasite_NN ._.
+STOOLS_NNP ._.
+P.N_NNP ._.
+S.M_NNP ._.
+L.M_NNP ._.
+E._NNP Character_NNP ._.
+Am35_NNP In_IN considering_VBG these_DT results_NNS the_DT cases_NNS may_MD be_VB divided_VBN for_IN convenience_NN into_IN three_CD classes36_NN of_IN the_DT liver_NN by_IN the_DT am37_NN retracted_VBD and_CC moves_NNS freely_RB with_IN respiration_NN ,_, both_DT iliac_JJ fossæ_NN free_JJ from_IN tenderness_NN ,_, Colon_NNP not_RB palpable_JJ ._.
+Spleen_NNP not_RB palpable_JJ ._.
+Liver_RB very_RB tender_NN ,_, enlarged_VBD ;_: mostly_RB down-_JJ wards_NNS in_IN front_NN ;_: area_NN of_IN dullness_NN in_IN middle_JJ line_NN 3¾_CD inches_NNS ,_, in_IN nipple_JJ line_NN 6¼_CD inches_NNS ._.
+Upper_NNP border_NN of_IN dullness_NN cuts_NNS the_DT mid_JJ line_NN in_IN the_DT 6th_CD interspace_NN and_CC the_DT nipple_JJ line_NN in_IN the_DT 5th_JJ interspace_NN ._.
+Lungs_NNS ,_, bronchitis_NN râles_NNS at_IN bases_NNS ;_: otherwise_RB normal_JJ ._.
+Liver_NNP was_VBD punctured_VBN in_IN three_CD places_NNS in_IN front_NN ._.
+A_DT small_JJ quantity_NN of_IN sanguineous_JJ fluid_NN only_RB withdrawn_NN ,_, no_DT pus_NN ._.
+May_NNP 31st_CD ,_, 1909.38_CD The_DT following_NN table_NN shows_VBZ the_DT result_NN of_IN the_DT examination_NN of_IN the_DT blood_NN :39_VBZ The_DT following_JJ chart_NN shows_VBZ the_DT course_NN of_IN the_DT disease_NN and_CC the_DT total_JJ number_NN of_IN W._NNP B._NNP C._NNP per_IN c.m.m_NN ._.
+of_IN blood_NN :40_NNP CHART_NNP ._.
+VII_NNP ._.
+(_( Cont_NNP )_) ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059265.tif_CD ]_JJ TOTAL_NNP LEUCOCYTES.PER_NNP CMM_NNP OF_NNP BLOOD_NNP ._.
+TEMPERATURE_NNP ._.
+The_DT two_CD following_VBG cases_NNS are_VBP given_VBN to_TO show_VB the_DT effect_NN of_IN administration_NN of_IN ipecacuanha_NN on_IN the_DT temperature_NN and_CC leucocytosis_NN in_IN cases_NNS of_IN dysentery_NN :41_IN The_DT following_JJ chart_NN shows_VBZ the_DT course_NN of_IN the_DT disease_NN and_CC the_DT total_JJ number_NN of_IN W._NNP B._NNP C._NNP per_IN c.m.m_NN ._.
+of_IN blood_NN :42_NNP Case_NNP 204_CD ._.
+A._NN D._NNP ,_, Medical_NNP Student_NNP ,_, age_NN 28_CD ._.
+May_NNP 5th_CD ,_, 1909.43_CD May_NNP 13th_CD ,_, 1909.44_CD The_DT following_JJ illustrates_VBZ the_DT value_NN of_IN ipecacuanha_NN in_IN a_DT case_NN of_IN liver_NN abscess_NN which_WDT had_VBD been_VBN opened_VBN and_CC drained_VBN ,_, and_CC where_WRB it_PRP was_VBD found_VBN necessary_JJ to_TO open_VB a_DT second_JJ abscess_NN ._.
+The_DT temperature_NN and_CC leucocyte_NN count_NN after_IN the_DT second_JJ operation_NN still_RB remained_VBD elevated_JJ ,_, accordingly_RB the_DT patient_NN was_VBD placed_VBN on_IN large_JJ doses_NNS of_IN ipeca-_JJ cuanha_NN with_IN the_DT result_NN that_IN both_DT the_DT temperature_NN and_CC leucocyte_NN curve_NN fell_VBD to_TO normal_JJ ._.
+Case_NNP 85_CD T._NNP ,_, European_NNP ,_, age_NN 28_CD ._.
+May_NNP 24th_CD ,_, 1909.45_CD May_NNP 29th_CD ,_, 1909.46_CD May_NNP 20th_CD ,_, 1909.47_CD The_DT following_NN table_NN shows_VBZ the_DT result_NN of_IN the_DT examination_NN of_IN the_DT blood_NN :48_NNP Social_NNP condition.49_VBD The_DT following_VBG table_NN shows_VBZ the_DT result_NN of_IN the_DT examination_NN of_IN the_DT blood_NN :50_VBZ The_DT following_VBG table_NN shows_VBZ the_DT results_NNS of_IN the_DT examination_NN of_IN the_DT stools_NNS of_IN a_DT series_NN of_IN cases_NNS of_IN dysentery_NN :51_NN This_DT table_NN shows_VBZ that_IN the_DT am52_NN The_DT diagnosis_NN of_IN the_DT early_JJ stage_NN of_IN am53_JJ hepatitis_NN may_MD or_CC may_MD not_RB be_VB present_JJ at_IN first_JJ ,_, but_CC sooner_RB or_CC later_RB will_MD develop_VB ,_, and_CC ,_, if_IN not_RB treated_VBN ,_, may_MD culminate_VB in_IN the_DT grave_JJ complication_NN of_IN abscess_NN of_IN the_DT liver_NN ._.
+14.That_CD the_DT administration_NN of_IN ipecacuanha_NN in_IN full_JJ doses_NNS ,_, as_IN pointed_VBN out_RP by_IN Major_NNP L._NNP Rogers_NNP ,_, I.M.S._NNP ,_, in_IN the_DT class_NN of_IN case_NN referred_VBN to_TO in_IN 13_CD will_MD produce_VB a_DT reduction_NN to_TO normal_JJ of_IN the_DT temperature_NN and_CC leucocyte_NN curves_NNS and_CC prevent_VBP the_DT formation_NN of_IN liver_NN abscess_NN ._.
+These_DT observations_NNS are_VBP of_IN particular_JJ importance_NN in_IN regard_NN to_TO the_DT treatment_NN of_IN dysentery_NN among_IN the_DT European_JJ troops_NNS in_IN India_NNP ,_, amongst_JJ whom_WP am55_VBP PART_NNP II_NNP ._.
+APPENDIX_NNP ._.
+Table_NN I_PRP ._.
+Showing_VBG results_NNS obtained_VBN by_IN observations_NNS on_IN cases_NNS of_IN Bacillary_JJ Dysentery_NNP ._.
+NOTE.56_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP No_NNP ._.
+2_CD ._.
+Rank.57_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP No_NNP ._.
+3_CD ._.
+Rank.58_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP No_NNP ._.
+5_CD ._.
+Rank.59_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP No_NNP ._.
+7_CD ._.
+Rank.60_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP No_NNP ._.
+8_CD ._.
+Rank.61_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP NO_NNP ._.
+9_CD ._.
+Rank.62_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP No_NNP ._.
+10_CD ._.
+Rank.63_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP NO_NNP ._.
+11_CD ._.
+Name.64_NNP BACILLARY_NNP DYSENTERY_NNP ,_, CASE_NNP No_NNP ._.
+13_CD ._.
+Name.65_NNP Table_NNP III_NNP ._.
+Showing_VBG the_DT result_NN of_IN the_DT examination_NN of_IN the_DT stools_NNS of_IN a_DT number_NN of_IN healthy_JJ monkeys_NNS for_IN Am66_NNP Table_NNP III67_NNP Table_NNP III68_NNP Table_NNP III69_NNP Table_NNP III70_NNP Table_NNP III71_NNP Table_NNP III72_NNP Table_NNP III73_NNP Table_NNP III74_NNP Table_NNP III75_NNP Table_NNP III76_NNP Table_NNP III77_NNP Description_NNP of_IN Plates_NNP ._.
+The_DT figures_NNS in_IN Plates_NNP I_PRP and_CC II_NNP were_VBD drawn_VBN with_IN a_DT large_JJ Zeiss_NNP Camera_NNP Lucida_NNP apparatus_NN ,_, tube_NN of_IN microscope_NN being_VBG extended_VBN to_TO 160_CD m.m_NNS ._.
+Ocular_NN ._.
+No_DT ._.
+6._CD compensating_VBG Objective_NNP ,_, Zeiss_NNP 2_CD m.m_NN ._.
+Apoch_NNP ._.
+Aperture_NN 1.30_CD ._.
+For_IN description_NN see_VBP page_NN 13_CD ._.
+Plate_NNP I._NNP Figs_NNP ._.
+1_CD ,_, 2_CD ,_, 3_CD and_CC 4.78_CD Fig_NNP ._.
+27_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059382.tif_CD ]_JJ [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059388.tif_CD ]_JJ [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059394.tif_CD ]_NNS Fig.1.x_NNP 70_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059394.tif_CD ]_NNS Fig_NNP 2._CD x_NN 390_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75059394.tif_CD ]_JJ Fig_NNP ._.
+3._CD x_JJ 460_CD ._.
+CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 8_CD ,_, HASTINGS_NNP STREET_NNP

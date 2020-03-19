@@ -1,0 +1,448 @@
+I_PRP P/QB.10_NNP m_VBD 91._CD b_NN No_NNP ._.
+38_CD ._.
+(_( NEW_NNP SERIES_NNP )_) SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP PRELMINARY_NNP REPORT_NNP ON_NNP THE_NNP KILLING_NNP OF_NNP RATS_NNP AND_NNP RAT_NNP FLEAS_NNP BY_NNP HYDROCYANIC_NNP ACID_NNP GAS_NNP ._.
+BY_NNP CAPTAIN_NNP W._NNP D._NNP H._NNP STEVENSON_NNP ,_, M.B._NNP ,_, I.M.S._NNP (_( Bombay_NNP Bacteriological_NNP Laboratory_NNP ._. )_)
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75033552.tif_CD ]_NNS CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1910_CD Price_NNP annas_VBD 8_CD or_CC 9d_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75033558.tif_CD ]_NNS 3943075_CD No_NNP ._.
+38_CD ._.
+(_( NEW_JJ SERIES_NNP ._. )_)
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+PRELIMINARY_NNP REPORT_NNP ON_NNP THE_NNP KILLING_NNP OF_NNP RATS_NNP AND_NNP RAT_NNP FLEAS_NNP BY_NNP HYDROCYANIC_NNP ACID_NNP GAS_NNP ._.
+BY_NNP CAPTAIN_NNP W._NNP D._NNP H._NNP STEVENSON_NNP ,_, M.B._NNP ,_, I.M.S._NNP (_( Bombay_NNP Bacteriological_NNP Laboratory_NNP ._. )_)
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75033564.tif_CD ]_NNS CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1910_CD [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75033564.tif_CD ]_JJ Agents_NNS for_IN the_DT sale_NN of_IN Books_NNP published_VBN by_IN the_DT Superintendent_NNP of_IN Government_NNP ;_: Printing_NNP ,_, India_NNP ,_, Calcutta_NNP ._.
+IN_NNP ENGLAND_NNP ._.
+Mr._NNP E._NNP A._NNP ARNOLD_NNP ,_, 41_CD and_CC 43_CD ,_, Maddox_NNP Street_NNP ,_, Bond_NNP Street_NNP ,_, London_NNP ,_, W._NNP Messrs._NNP CONSTABLE_NNP &_CC Co._NNP ,_, 10_CD ,_, Orange_NNP Street_NNP ,_, Leicester_NNP Square_NNP ,_, W.C._NNP Messrs._NNP KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRÜBNER_NNP &_CC Co._NNP ,_, 43_CD ,_, Gerrard_NNP Street_NNP ,_, Soho_NNP ,_, London_NNP ,_, W._NNP Mr._NNP BERNARD_NNP QUARITCH_NNP ,_, II_NNP ,_, Grafton_NNP Street_NNP ,_, New_NNP Bond_NNP Street_NNP ,_, W._NNP Messrs._NNP P._NNP S._NNP KING_NNP &_CC SON_NNP ,_, 2_CD and_CC 4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ._.
+Messrs._NNP H._NNP S._NNP KING_NNP &_CC Co._NNP ,_, 65_CD ,_, Cornhill_NNP ,_, and_CC 9_CD ,_, Pall_NNP Mall_NNP ,_, London_NNP ._.
+Messrs._NNP GRINDLAY_NNP &_CC CO._NNP ,_, 54_CD ,_, Parliament_NNP Street_NNP ,_, London_NNP ,_, S.W_NNP ._.
+Mr._NNP T._NNP FISHER_NNP UNWIN_NNP ,_, I_PRP ,_, ADELPHI_NNP TERRACE_NNP ,_, London_NNP ,_, W.C._NNP Messrs._NNP W._NNP THACKER_NNP &_CC Co._NNP ,_, 2_CD ,_, Creed_NNP Lane_NNP ,_, London_NNP ,_, E.C_NNP ._.
+Mr._NNP B._NNP H._NNP BLACKWELL_NNP ,_, 50_CD and_CC 51_CD ,_, Broad_NNP Street_NNP ,_, Oxford_NNP ._.
+Messrs._NNP DEIGHTON_NNP BELL_NNP &_CC CO._NNP ,_, Cambridge_NNP ._.
+Messrs._NNP LUZAC_NNP &_CC CO._NNP ,_, 46_CD ,_, Great_NNP Russell_NNP Street_NNP ,_, London_NNP ,_, W.C._NNP ON_NNP THE_NNP CONTINENT_NNP ._.
+Mr._NNP RUDOLF_NNP HAUPT_NNP I_PRP ,_, Dorrienstrasse_NNP ,_, Leipzig_NNP ,_, Germany_NNP ._.
+Mr._NNP OTTO_NNP HARRASSOWITZ_NNP Mr._NNP KARL_NNP HIERSE1ANN_NNP Leipzig_NNP ._.
+Messrs._NNS R._NNP FRIEDLANDER_NNP &_CC SOHN_NNP ,_, Berlin_NNP ,_, W._NNP N._NNP ,_, Carlstrasse_NNP ,_, II_NNP Mr._NNP ERNEST_NNP LEROUX_NNP ,_, 28_CD ,_, Rue_NNP Bonaparte_NNP ,_, Paris_NNP ._.
+Mr._NNP MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP ,_, Holland_NNP ._.
+IN_NNP INDIA_NNP ._.
+Messrs._NN THACKER_NNP ,_, SPINK_NNP &_CC CO._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+Messrs._NNP NEWMAN_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+Messrs._NNS R._NNP CAMBRAY_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+Messrs._NNP S._NNP K._NNP LAHIRI_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+Messrs._NNP B._NNP BANERJEE_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+Messrs._NNP HIGGINBOTHAM_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNS V._NNP KALYANARAMA_NNP IYER_NNP &_CC CO._NNP ;_: Madras_NNP ._.
+Messrs._NNP G._NNP A._NNP NATESAN_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNP S._NNP MURTHY_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNP THOMPSON_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNP TEMPLE_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNP COMBRIDGE_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+Messrs._NNS P._NNP R._NNP RAMA_NNP IYER_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+Messrs._NNP A._NNP R._NNP PILLAI_NNP &_CC CO._NNP ,_, Trivandrum_NNP ._.
+Messrs._NNP THACKER_NNP &_CC Co._NNP ,_, LD._NNP ,_, Bombay_NNP ._.
+Messrs._NNP A._NNP J._NNP COMBRIDGE_NNP &_CC CO._NNP ,_, Bombay_NNP ._.
+Messrs._NNS D._NNP B._NNP TARAPOREVALA_NNP ,_, SONS_NNP &_CC CO_NNP ,_, Bombay_NNP ._.
+Mrs._NNP RADHABAI_NNP ATMARAM_NNP SAGOON_NNP ,_, Bombay_NNP ._.
+Mr._NNP SUNDER_NNP PANDURANG_NNP ,_, Bombay_NNP ._.
+Messrs._NNS GOPAL_NNP NARAYAN_NNP &_CC CO._NNP ,_, Bombay_NNP ._.
+Superintendent_NN ,_, American_NNP Raptist_NNP Mission_NNP Press_NNP ,_, Rangoon_NNP ._.
+RAI_NNP SAHIB_NNP M._NNP GULAB_NNP SINGH_NNP &_CC SONS_NNP ,_, Mufid-i-Am_NNP Press_NNP ,_, Lahore_NNP and_CC Calcutta_NNP ._.
+Mr._NNP N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP ,_, Nazair_NNP Kanun_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+Messrs._NNP A._NNP CHAND_NNP &_CC CO._NNP ,_, Punjab_NNP ._.
+Messrs._NNP A._NNP M._NNP &_CC J._NNP FERGUSON_NNP ,_, Ceylon_NNP ._.
+Babu_NNP S._NNP C._NNP TALUKDAR_NNP ,_, Proprietor_NNP ,_, Students_NNS and_CC Company_NNP ,_, Cooch_NNP Behar_NNP ._.
+List_NN of_IN numbers_NNS of_IN Scientific_NNP Memoirs_NNP by_IN Officers_NNP of_IN the_DT Medical_NNP and_CC Sanitary_NNP Departments_NNP of_IN the_DT Government_NNP of_IN India_NNP (_( New_NNP Series_NNP )_) published_VBD previous_JJ to_TO the_DT present_JJ issue_NN ._.
+No_DT ._.
+1_CD ._.
+Standardisation_NN of_IN Calmette_NNP 's_POS Anti-Venomous_JJ Serum_NNP with_IN Pure_NNP Cobra_NNP Venom_NNP :_: the_DT Deterioration_NN of_IN this_DT Serum_NNP through_IN keeping_VBG in_IN India_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I._NNP M._NNP S._NNP and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M._NNP B_NNP ._.
+Price_NN As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+2_CD ._.
+Malaria_NNP in_IN India_NNP ,_, by_IN Captain_NNP S._NNP P._NNP James_NNP ,_, I._NNP M._NNP S._NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+3_CD ._.
+Some_DT Observations_NNS on_IN the_DT Poison_NNP of_IN Russell_NNP 's_POS Viper_NNP (_( Daboia_NNP Russellii_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I._NNP M._NNP S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M._NNP B_NNP ._.
+Price_NN As_IN ._.
+5_CD or_CC 6d_CD ._.
+No_DT ._.
+4_CD ._.
+On_IN the_DT Action_NNP of_IN the_DT Venoms_NNP of_IN the_DT Cobra_NNP and_CC of_IN the_DT Daboia_NNP on_IN the_DT Red_NNP Blood_NNP corpuscles_NNS and_CC on_IN the_DT blood_NN plasma_NN ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I._NNP M._NNP S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+5_CD ._.
+Specificity_NN of_IN Anti-Venomous_JJ Sera_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I._NNP M._NNP S._NNP Price_NNP As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+6_CD ._.
+First_NNP Report_NNP on_IN the_DT Anti-Malarial_JJ Operations_NNS in_IN Mian_NNP Mir_NNP ,_, 19012_CD No_UH ._.
+20_CD ._.
+Serum-Therapy_NN of_IN Plague_NNP in_IN India_NNP ;_: Reports_NNS by_IN Mr._NNP W._NNP M._NNP Haffkine_NNP ,_, C.I.E._NNP ,_, and_CC various_JJ Officers_NNS of_IN the_DT Plague_NNP Research_NNP Laboratory_NNP ,_, Bombay_NNP ,_, by_IN Lieute-_NNP nant-Colonel_JJ W._NNP B._NNP Bannerman_NNP ,_, M._NNP D._NNP ,_, B.Sc._NNP ,_, F.R.C.S_NNP ._.
+I.M.S._JJ Price_NNP As_NNP ._.
+14_CD or_CC 1s_CD ._.
+4d_CD ,_, No_DT ._.
+21_CD ._.
+On_IN the_DT Standardisation_NNP of_IN Anti-Typhoid_NNP Vaccine_NNP ,_, by_IN Captain_NNP George_NNP Lamb_NNP ,_, M.D._NNP ,_, I.M.S._NNP (_( Director_NNP ,_, Pasteur_NNP Institute_NNP of_IN India_NNP )_) ,_, and_CC Captain_NNP W._NNP B._NNP C._NNP Forster_NNP ,_, M.B._NNP ,_, D.P.H._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+6._CD or_CC 7d_CD ._.
+No_DT ._.
+22_CD ._.
+Mediterranean_JJ Fever_NNP in_IN India_NNP :_: Isolation_NN of_IN the_DT Micrococcus_NNP Melitensis_NNP ,_, by_IN Captain_NNP George_NNP Lamb_NNP ,_, M.D._NNP ,_, I.M.S._NNP ,_, and_CC Assistant_NNP Surgeon_NNP M._NNP Kesava_NNP Pai_NNP ,_, M.B._NNP ,_, C.M._NNP ,_, (_( Madras_NNP )_) ._.
+Price_NN As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+23_CD ._.
+The_DT Anatomy_NNP and_CC Histology_NNP of_IN Ticks_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP Rs_NNP ._.
+3_CD or_CC 4s_CD ._.
+6d_CD ._.
+No_DT ._.
+24_CD ._.
+On_IN a_DT Parasite_NNP found_NN in_IN the_DT White_NNP Corpuscles_NNPS of_IN the_DT blood_NN of_IN Palm_NNP Squirrels_NNP ,_, by_IN Captain_NNP W._NNP S._NNP Patton_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+25_CD ._.
+On_IN the_DT importance_NN of_IN Larval_NNP Characters_NNP in_IN the_DT Classification_NNP of_IN Mosquitoes_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+26_CD ._.
+Leucocytozoon_NNP Canis_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+27_CD ._.
+Preliminary_JJ Report_NNP on_IN the_DT Development_NNP of_IN the_DT Leishman-Donovan_NNP Body_NNP in_IN the_DT Bed_NNP Bug_NNP ,_, by_IN Captain_NNP W._NNP S._NNP Patton_NNP ,_, M._NNP B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+28_CD ._.
+The_DT Sexual_JJ Cycle_NNP of_IN Leucocytozoon_NNP Canis_NNP in_IN the_DT Tick_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+29_CD ._.
+Piroplasma_NNP Canis_NNP and_CC its_PRP$ Cycle_NNP in_IN the_DT Tick_NNP ,_, by_IN Captain_NNP S._NNP R._NNP Christophers_NNP ,_, M.B_NNP ._.
+I.M.S._NNP Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+No_DT ._.
+30_CD ._.
+The_DT Theory_NNP and_CC Practice_NNP of_IN Anti-Rabic_NNP Immunisation_NNP ,_, by_IN Captain_NNP W._NNP F._NNP Harvey_NNP ,_, M._NNP B._NNP ,_, I.M.S._NNP ,_, and_CC Captain_NNP Anderson_NNP McKendrick_NNP ,_, M.B._NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+31_CD ._.
+The_DT Development_NNP of_IN the_DT Leishman-Donovan_NNP Parasite_NNP in_IN Cimex_NNP RotundatusPRELIMINARY_NNP REPORT_NNP ON_NNP THE_NNP KILLING_NNP OF_NNP RATS_NNP AND_NNP RAT_NNP FLEAS_NNP BY_NNP HYDROCYANIC_NNP ACID_NNP GAS_NNP ._.
+AT_IN the_DT suggestion_NN of_IN Captain_NNP W._NNP Glen_NNP Liston_NNP ,_, I.M.S._NNP ,_, experiments_VBZ with_IN hydrocyanic_JJ acid_NN gas_NN ,_, as_IN a_DT measure_NN to_TO exterminate_VB rats_NNS and_CC fleas_NNS ,_, were_VBD commenced_VBN in_IN May_NNP 1909_CD ._.
+The_DT first_JJ experiments_NNS were_VBD made_VBN under_IN his_PRP$ supervision_NN ._.
+We_PRP were_VBD later_RB informed_VBN by_IN Mr._NNP Lefroy_NNP ,_, the_DT Imperial_NNP Entomologist_NNP ,_, that_WDT large_JJ use_NN had_VBD been_VBN made_VBN of_IN this_DT gas_NN by_IN the_DT Agricultural_NNP Departments_NNPS in_IN the_DT United_NNP States_NNPS of_IN America_NNP and_CC in_IN South_NNP Africa_NNP ._.
+He_PRP kindly_RB sent_VBD us_PRP some_DT of_IN the_DT literature_NN on_IN the_DT subject_NN along_IN with_IN an_DT account_NN of_IN his_PRP$ own_JJ experiments_NNS conducted_VBN at_IN Pusa_NNP ,_, all_DT of_IN which_WDT have_VBP proved_VBN of_IN great_JJ help_NN to_TO us_PRP ._.
+It_PRP will_MD be_VB useful_JJ to_TO consider_VB briefly_VB some_DT of_IN the_DT previous_JJ work_NN done_VBN on_IN this_DT subject_NN ._.
+Hydrocyanic_NNP acid_NN gas_NN was_VBD first_RB used_VBN in_IN 1886_CD by_IN Coquillet_NNP in_IN California_NNP to_TO destroy_VB the_DT ``_`` Cottony_NNP Cushion_NNP Scale_NNP ''_'' insect_NN on_IN plants_NNS ;_: and_CC later_RB ,_, fumigation_NN of_IN nursery_JJ stock_NN with_IN this_DT gas_NN has_VBZ become_VBN compulsory_JJ throughout_IN certain_JJ of_IN the_DT States_NNPS ._.
+It_PRP is_VBZ now_RB used_VBN throughout_IN Canada_NNP ,_, the_DT United_NNP States_NNPS of_IN America_NNP ,_, South_NNP Africa_NNP ,_, and_CC Australia_NNP ,_, not_RB only_RB for_IN the_DT disinfection_NN of_IN nursery_JJ stock_NN ,_, but_CC also_RB as_IN a_DT means_NN of_IN ridding_VBG orchard_NN trees_NNS of_IN their_PRP$ pests_NNS ._.
+More_RBR important_JJ for_IN our_PRP$ purpose_NN is_VBZ the_DT use_NN of_IN the_DT gas_NN for_IN the_DT disinfection_NN of_IN houses_NNS ,_, jails_NNS ,_, and_CC railway_NN coaches_NNS ._.
+The_DT application_NN has_VBZ naturally_RB been_VBN very_RB limited_JJ on_IN account_NN of_IN the_DT deadly_JJ nature_NN of_IN the_DT gas_NN ._.
+Most_JJS of_IN the_DT information_NN on_IN this_DT point_NN we_PRP have_VBP obtained_VBN from_IN the_DT Reports_NNS of_IN the_DT Government_NNP Entomologist_NNP to_TO the_DT Cape_NNP of_IN Good_NNP Hope_NNP for_IN the_DT years_NNS 1898_CD to_TO 1901_CD ._.
+In_IN 1898_CD he_PRP considered_VBD the_DT gas_NN too_RB dangerous_JJ for_IN house_NN disinfection_NN ;_: but_CC in_IN 1900_CD ,_, at_IN the_DT request_NN of_IN the_DT Colonial_NNP Office_NNP ,_, he_PRP rid_VBZ the_DT Worcester_NNP jail_NN of_IN the_DT bed_NN bug2_JJ time_NN were_VBD considered_VBN to_TO be_VB possibly_RB the_DT carriers_NNS of_IN the_DT plague_JJ germ_NN ._.
+The_DT experiments_NNS were_VBD discontinued_VBN owing_VBG to_TO the_DT decline_NN of_IN the_DT epidemic_JJ and_CC the_DT departure_NN of_IN Professor_NNP Simpson_NNP ._.
+In_IN America_NNP also_RB fumigation_NN by_IN this_DT gas_NN has_VBZ been_VBN occasionally_RB used_VBN to_TO rid_VB buildings_NNS of_IN pests_NNS ._.
+For_IN example_NN ,_, in_IN the_DT ``_`` Proceedings_NNP of_IN the_DT 17th_JJ Annual_NNP Meeting_NN of_IN the_DT Association_NNP of_IN Economic_NNP Entomologists_NNP of_IN America_NNP ''_'' a_DT paper_NN was_VBD read_VBN on_IN the_DT fumigation_NN of_IN a_DT four-storey_JJ building_NN to_TO get_VB rid_JJ of_IN the_DT ``_`` Clinocoris_NNP lectularia_NN ._. ''_''
+The_DT building_NN was_VBD of_IN about_IN 150,000_CD cubic_JJ feet_NNS capacity_NN ;_: 80_CD lbs_NN ._.
+of_IN potassium_NN cyanide_NN were_VBD used_VBN ;_: the_DT building_NN was_VBD kept_VBN shut_RB up_RP for_IN two_CD days_NNS ._.
+All_PDT the_DT insects_NNS and_CC eggs_NNS were_VBD killed._VBN ``_``
+No_DT eggs_NNS appeared_VBD to_TO hatch_VB afterwards_NNS though_IN examination_NN was_VBD made_VBN frequently_RB for_IN a_DT period_NN of_IN several_JJ weeks_NNS ._. ''_''
+The_DT production_NN of_IN the_DT gas_NN ._.
+The_DT chemicals_NNS used3_JJ mixture_NN of_IN both_DT potassium_NN and_CC sodium_NN cyanides_NNS ,_, yielding_VBG 33.9_CD per_IN cent_NN ._.
+hydro-_JJ cyanic_JJ acid_NN equivalent_NN to_TO 81.6725_CD potassium_NN cyanide_NN ._.
+One_CD hundred_VBN per_IN cent_NN ._.
+potassium_NN cyanide_NN would_MD yield_VB 41.5_CD per_IN cent_NN ._.
+of_IN its_PRP$ weight_NN of_IN hydrocyanic_JJ acid_NN and_CC 100_CD per_IN cent_NN ._.
+sodium_NN cyanide_NN 55.1_CD per_IN cent_NN ._.
+There_EX were_VBD no_DT nitrates_NNS ;_: but_CC chlorides_NNS were_VBD present_JJ to_TO the_DT amount_NN 3.778_CD per_IN cent_NN calculated_VBN as_IN hydrochloric_JJ acid_NN ._.
+The_DT sulphuric_JJ acid_NN ought_MD to_TO be_VB commercial_JJ concentrated_VBN sulphuric_JJ acid_NN (_( specific_JJ gravity_NN 1.83_CD )_) ._.
+(_( 2_CD )_) Sulphuric_NNP Acid_NNP ._.
+The_DT proportional_JJ amounts_NNS of_IN potassium_NN cyanide_NN ,_, sulphuric_JJ acid_NN ,_, and_CC water_NN are_VBP important_JJ ._.
+Coquillet_NN in_IN 1889_CD found_VBD that_IN the_DT best_JJS results_NNS were_VBD obtained_VBN by_IN using_VBG 1_CD part_NN potassium_NN cyanide_NN ,_, 1_CD part_NN of_IN sulphuric_JJ acid_NN ,_, and_CC 2_CD of_IN water_NN ._.
+But_CC the_DT usage_NN of_IN different_JJ workers_NNS has_VBZ varied_VBN considerably_RB on_IN this_DT point_NN ._.
+However_RB ,_, the_DT majority_NN advocate_VBP the_DT 1-2-4._JJ formula_NN ,_, i.e._NN ,_, 1_CD oz_NN ._.
+of_IN 98_CD per_IN cent_NN ._.
+potassium_NN cyanide_NN ,_, 2_CD fluid_NN ozs_NN ._.
+of_IN sulphuric_JJ acid_NN ,_, and_CC 4_CD fluid_NN ozs_NN ._.
+of_IN water_NN ._.
+The_DT advantage_NN is_VBZ twofold_VBN :_: (_( 1_CD )_) There_EX is_VBZ enough_JJ water_NN to_TO dissolve_VB the_DT potassium_NN bisulphate_NN formed_VBN and_CC so_RB prevent_VB the_DT deposit_NN of_IN this_DT salt_NN round_VBD the_DT potassium_NN cyanide_NN which_WDT would_MD reduce_VB the_DT formation_NN of_IN hydrocyanic_JJ acid_NN gas_NN ._.
+(_( 2_CD )_) When_WRB 2_CD ozs_NN ._.
+of_IN sulphuric_JJ acid_NN at_IN 20°C_CD ._.
+were_VBD mixed_JJ with_IN 4_CD ozs_NNS ._.
+of_IN water_NN at_IN 20°C_CD ._.
+the_DT initial_JJ tem-_JJ perature_NN became_VBD 110°C_CD ._.
+;_: one_CD oz_NN ._.
+of_IN potassium_NN cyanide_NN was_VBD added_VBN and_CC the_DT whole_JJ mixture_NN exposed_VBN to_TO the_DT outside_JJ air_NN having_VBG a_DT temperature_NN of_IN 14°C_CD ._.
+for_IN 40_CD minutes_NNS ._.
+At_IN the_DT end_NN of_IN that_DT period_NN the_DT mixture_NN had_VBD a_DT temperature_NN of_IN 32°C_CD ._.
+The_DT boiling_VBG point_NN of_IN prussic_JJ acid_NN is_VBZ 26½°C._CD ,_, so_RB that_IN throughout_IN the_DT whole_JJ period_NN the_DT tempera-_JJ ture_NN was_VBD sufficient_JJ to_TO volatilize_VB the_DT prussic_JJ acid_NN ._.
+If_IN more_JJR water_NN is_VBZ added_VBN the_DT initial_JJ temperature_NN is_VBZ less_RBR ;_: if_IN less_JJR water_NN is_VBZ added_VBN than_IN 4_CD ozs_NN ._.
+the_DT addition_NN of_IN 1_CD oz_NN ._.
+of_IN potassium_NN cyanide_NN would_MD also_RB diminish_VB the_DT initial_JJ temperature_NN ._.
+These_DT conclusions_NNS were_VBD arrived_VBN at_IN by_IN Wilmon_NNP Newell_NNP ,_, as_IN noted_VBN in_IN the_DT above-_JJ mentioned_JJ paper_NN ._.
+Some_DT experiments_NNS were_VBD performed_VBN on_IN this_DT point_NN by_IN us_PRP ._.
+The_DT room_NN temperature_NN was_VBD 28°C_CD ._.
+The_DT initial_JJ temperature_NN of_IN both_CC the_DT sulphuric_JJ acid_NN and_CC the_DT water_NN was_VBD 28°C._CD ,_, quite_RB sufficient_JJ for_IN the_DT volatilization_NN of_IN the_DT gas_NN ._.
+I_PRP ._.
+Three_CD parts_NNS of_IN water_NN were_VBD added_VBN to_TO one_CD part_NN of_IN sulphuric_JJ acid_NN ._.
+The_DT initial_JJ temperature_NN became_VBD 88°C_CD ._.
+;_: after_IN forty_NN minutes_NNS the_DT temperature_NN was_VBD 43°C_CD ._.
+II_NNP ._.
+Two_CD parts_NNS of_IN water_NN were_VBD added_VBN to_TO one_CD part_NN of_IN sulphuric_JJ acid_NN ._.
+The_DT initial_JJ temperature_NN became_VBD 105°C_CD ._.
+;_: forty_NN minutes_NNS later_RB the_DT temperature_NN was_VBD 39°C_CD ._.
+III_NNP ._.
+One_CD part_NN of_IN water_NN to_TO one_CD part_NN acid_NN ._.
+The_DT initial_JJ temperature_NN was_VBD 115°C_CD ._.
+;_: forty_NN minutes_NNS later_RB the_DT temperature_NN was_VBD 41°C_CD ._.
+B_NNP 2_CD 4_CD The_DT end_NN results_NNS vary_JJ then_RB ,_, not_RB only_RB with_IN the_DT initial_JJ temperature_NN developed_VBD ,_, but_CC with_IN the_DT bulk_NN of_IN fluid_NN used_VBN ._.
+In_IN cold_JJ climates_NNS ,_, as_IN in_IN the_DT Punjab_NNP in_IN the_DT Cold_NNP weather_NN ,_, it_PRP would_MD be_VB advisable_JJ to_TO mix_VB the_DT various_JJ chemicals_NNS in_IN one_CD large_JJ vessel_NN rather_RB than_IN distribute_VB them_PRP in_IN small_JJ charges_NNS about_IN a_DT room_NN ,_, as_IN cooling_NN of_IN the_DT mixture_NN in_IN the_DT latter_JJ case_NN would_MD occur_VB so_RB much_RB more_RBR quickly_RB ._.
+Considering_VBG every_DT point_NN the_DT use_NN of_IN the_DT 1-2-4_JJ formula_NN is_VBZ probably_RB the_DT best_JJS ._.
+A_DT few_JJ minor_JJ points_NNS advocated_VBN by_IN various_JJ authorities_NNS are:5_VBP Sirrine_NNP advises_VBZ 25_CD grammes_NNS of_IN potassium_NN cyanide_NN per_IN too_RB cubic_JJ feet_NNS ;_: or_CC for_IN orchard_NN trees_NNS ,_, owing_VBG to_TO the_DT moisture_NN and_CC absorption_NN of_IN the_DT evolved_JJ hydro-_JJ cyanic_JJ acid_NN gas_NN ,_, 30_CD grammes_NNS ,_, i.e._FW ,_, about_IN 1_CD oz_NNS ._.
+to_TO 100_CD cubic_JJ feet_NNS ._.
+The_DT Government_NNP Entomologist_NNP for_IN the_DT Cape_NNP of_IN Good_NNP Hope_NNP in_IN his_PRP$ Report_NN for_IN the_DT year_NN 1901_CD states_NNS that_IN bugs_NNS are_VBP more_JJR refractory_JJ to_TO the_DT gas_NN than_IN any_DT other_JJ house_NN insect_NN ._.
+One_CD ounce_NN of_IN potassuim_JJ cyanide_NN to_TO 155_CD cubic_JJ feet_NNS of_IN air_NN space_NN with_IN an_DT exposure_NN of_IN one_CD hour_NN killed_VBD 12_CD out_IN of_IN 15_CD bugs_NNS ._.
+The_DT remaining_VBG 3_CD were_VBD very_RB feeble_JJ ._.
+Eggs_NNS of_IN the_DT bugs_NNS failed_VBD to_TO hatch_VB in_IN three_CD tests_NNS after_IN exposure_NN for_IN one_CD hour_NN to_TO gas_NN of_IN the_DT above_JJ strength_NN ._.
+He_PRP advises_VBZ the_DT use_NN of_IN one_CD ounce_NN to_TO too_RB cubic_JJ feet_NNS of_IN space_NN and_CC an_DT exposure_NN for_IN two_CD hours_NNS ._.
+``_`` When_WRB there_EX are_VBP any_DT deep_JJ cracks_NNS or_CC crevices_NNS in_IN any_DT building_NN to_TO be_VB penetrated_VBN ,_, one_CD ounce_NN to_TO 65_CD cubic_JJ feet_NNS of_IN space_NN may_MD be_VB used_VBN ._. ''_''
+(_( 2_CD )_) Actual_JJ procedure_NN to_TO be_VB adopted_VBN as_IN advised_VBN in_IN the_DT report_NN of_IN the_DT Government_NNP Entomologist_NNP for_IN the_DT Cape_NNP of_IN Good_NNP Hope_NNP for_IN the_DT year_NN 1901_CD ._.
+The_DT building_NN to_TO be_VB fumigated_VBN is_VBZ made_VBN as_RB air-tight_JJ as_IN possible_JJ ._.
+Arrange-_JJ ments_NNS should_MD be_VB made_VBN for_IN opening_VBG doors_NNS and_CC windows_NNS from_IN the_DT outside_NN to_TO ._.
+ventilate_NN after_IN fumigation_NN ._.
+Each_DT room_NN should_MD be_VB fumigated_VBN separately_RB ,_, if_IN possible_JJ ,_, but_CC sometimes_RB two_CD connecting_VBG spaces_NNS may_MD be_VB treated_VBN as_IN one_CD ._.
+In_IN the_DT latter_JJ case_NN crevices_NNS and_CC splits_NNS in_IN doors_NNS connecting_VBG the_DT two_CD spaces_NNS should_MD be_VB enlarged_VBN and_CC burrows_NNS opened_VBD up_RP ._.
+Bedding_NNP ,_, clothing_NN ,_, etc._FW ,_, should_MD be_VB spread_VBN out_IN to_TO let_VB the_DT gas_NN get_VB full_JJ effect_NN on_IN them_PRP ._.
+The_DT vessels_NNS in_IN which_WDT the_DT chemicals_NNS are_VBP to_TO be_VB mixed_JJ must_MD be_VB of_IN such_JJ a_DT nature_NN that_IN they_PRP are_VBP not_RB acted_VBN on_IN by_IN them_PRP ._.
+Their_PRP$ size_NN depends_VBZ on_IN the_DT quantity_NN of_IN chemicals_NNS to_TO be_VB used_VBN ._.
+They_PRP must_MD be_VB of_IN such_JJ a_DT shape_NN that_IN the_DT depth_NN of_IN combined_JJ sulphuric_JJ acid_NN and_CC water_NN will_MD cover_VB the_DT cyanide_NN put_VBD in_IN ._.
+They_PRP may_MD be_VB glazed_VBN earthenware_JJ vessels_NNS or_CC china_NNS washhand_VBP vessels_NNS ._.
+Lead_JJ vessels_NNS are_VBP good_JJ but_CC heavy_JJ and_CC soft_JJ ._.
+Enamelware_NNP till_NN cracked_VBD acts_NNS well_RB ._.
+Kerosine_NNP oil_NN tins_NNS will_MD serve_VB for_IN two_CD or_CC three_CD different_JJ charges_NNS ._.
+One_CD of_IN these_DT tins_NNS can_MD take_VB a_DT charge_NN of_IN 3_CD lbs_NNS ._.
+of_IN potassium_NN cyanide6_NN being_VBG lighter_JJR than_IN air_NN ,_, if_IN there_EX are_VBP two_CD storeys_NNS begin_VBP at_IN the_DT top_NN ;_: and_CC if_IN there_EX are_VBP many_JJ rooms_NNS in_IN a_DT corridor_NN begin_NN at_IN the_DT farthest_JJS from_IN the_DT exit_NN ._.
+An_DT assistant_NN may_MD go_VB in_IN front_NN mixing_VBG the_DT acid_NN and_CC water_NN ._.
+Great_NNP quickness_NN and_CC care_NN are_VBP essential_JJ as_IN the_DT gas_NN is_VBZ so_RB poisonous_JJ ._.
+Of_IN course_NN if_IN a_DT tenement_NN is_VBZ to_TO be_VB disinfected_VBN all_DT inhabitants_NNS must_MD be_VB cleared_VBN out_RP first_RB ._.
+It_PRP is_VBZ essential_JJ to_TO have_VB a_DT clear_JJ space_NN round_VBD the_DT building_NN to_TO be_VB fumigated_VBN ._.
+It_PRP is_VBZ recorded_VBN in_IN one_CD of_IN the_DT American_JJ experiments_NNS that_IN persons_NNS walking_VBG 100_CD feet_NNS from_IN the_DT building_NN could_MD detect_VB the_DT odour_NN of_IN the_DT gas_NN the_DT whole_JJ time_NN ._.
+The_DT period_NN of_IN exposure_NN should_MD be_VB two_CD hours_NNS at_IN least_JJS ._.
+It_PRP is_VBZ better_RBR not_RB to_TO try_VB ventilation_NN till_IN 127_CD The_DT action_NN on_IN animals_NNS ,_, insects_NNS ,_, plants_NNS ,_, food_NN ,_, and_CC fabrics_NNS ._.
+Our_PRP$ experiments_NNS have_VBP been_VBN almost_RB entirely_RB on_IN rats_NNS and_CC rat_NN fleas_NNS ,_, and_CC will_MD be_VB detailed_VBN later_RB ._.
+With_IN respect_NN to_TO its_PRP$ action_NN on_IN certain_JJ insects_NNS ,_, arachnoids_NNS and_CC mammals_NNS ,_, Lounsbury_NNP states_VBZ that_IN flies_NNS are_VBP much_RB more_RBR susceptible_JJ to_TO the_DT gas_NN than_IN fleas_NNS ,_, and_CC fleas_NNS than_IN bed_NN bugs_NNS ._.
+Argas_NNP persicus8_NN As_IN all_PDT the_DT experience_NN of_IN workers_NNS in_IN America_NNP and_CC South_NNP Africa_NNP goes_VBZ to_TO show_VB that_IN even_RB delicate_JJ plants_NNS are_VBP not_RB injured_VBN by_IN the_DT gas_NN when_WRB present_NN in_IN sufficient_JJ concentration_NN to_TO clear_VB them_PRP of_IN insects_NNS ,_, the_DT answer_NN would_MD be_VB that_IN it_PRP is_VBZ not_RB injurious_JJ ._.
+An_DT experiment_NN we_PRP did_VBD confirmed_VB this_DT ._.
+Certain_NNP amounts_NNS of_IN the_DT above_NN grains_NNS subjected_VBN to_TO the_DT gas_NN were_VBD planted_VBN ,_, and_CC their_PRP$ growth_NN compared_VBN with_IN control_NN grains_NNS which_WDT had_VBD not_RB been_VBN fumigated_VBN ._.
+No_DT difference_NN in_IN the_DT rate_NN of_IN growth_NN could_MD be_VB detected_VBN ._.
+So_RB during_IN a_DT fumigation_NN ,_, stored_VBD dry_JJ grain_NN can_MD be_VB left_VBN in_IN the_DT house_NN ._.
+without_IN fear_NN of_IN rendering_VBG it_PRP poisonous_JJ or_CC of_IN destroying_VBG its_PRP$ germinating_VBG power_NN ._.
+Unlike_IN Sulphur_NNP dioxide_NN gas_NN hydrocyanic_JJ acid_NN gas_NN has_VBZ no_DT action_NN on_IN metals_NNS or_CC fabrics_NNS ._.
+The_DT action_NN of_IN the_DT gas_NN on_IN bacteria_NNS ._.
+About_IN 4.38_CD cubic_JJ feet_NNS of_IN diluted_VBN gas_NN were_VBD introduced_VBN into_IN a_DT room_NN of_IN capacity_NN 830_CD cubic_JJ feet_NNS and_CC allowed_VBN to_TO act_VB for_IN twenty_JJ minutes_NNS on_IN bacteria_NNS ._.
+Cultures_NNS of_IN streptococci_NN ,_, Bacillus_NNP typhosus_NN ,_, Bacillus_NNP coli_NNS ,_, and_CC Bacillus_NNP pestis_NN on_IN agar_NN slopes_NNS in_IN test_NN tubes_NNS with_IN their_PRP$ cotton-wool_JJ stoppers_NNS removed_VBN were_VBD put_VBN in_IN the_DT room_NN ._.
+After_IN the_DT experiment_NN subcultures_VBZ on_IN agar_NN showed_VBD that_IN the_DT plague_NN was_VBD overgrown_VBN with_IN a_DT yellow_JJ contaminating_NN organism_NN ._.
+The_DT other_JJ bacteria_NNS had_VBD not_RB been_VBN killed_VBN by_IN the_DT action_NN of_IN the_DT gas_NN ._.
+This_DT coincides_VBZ with_IN the_DT experience_NN of_IN the_DT Government_NNP Entomologist_NNP of_IN the_DT Cape_NNP of_IN Good_NNP Hope_NNP as_IN noted_VBN in_IN the_DT Report_NNP for_IN 1901_CD :_: ``_`` Cultures_NNS of_IN the_DT plague_NN ._.
+bacillus_NN were_VBD found_VBN to_TO be_VB unaffected_VBN when_WRB exposed_VBN by_IN substituting_VBG a_DT piece_NN of_IN gauze_NNS tied_VBN over_IN the_DT top_NN for_IN the_DT plug_NN of_IN cotton-wool_JJ ordinarily_NNS used_VBN for_IN stopping_VBG culture_NN tubes_NNS by_IN one_CD hour_NN in_IN 1_CD to_TO 80_CD gas9_NN experiments_NNS in_IN a_DT specially_RB constructed_VBN leaden_JJ vessel_NN ._.
+The_DT mixture_NN was_VBD heated_VBN over_IN a_DT Bunsen_NNP flame_NN ,_, the_DT whole_JJ being_VBG placed_VBN outside_IN the_DT room_NN to_TO be_VB fumigated_VBN ,_, Tubes_NNP conducting_VBG the_DT undiluted_JJ gas_NN were_VBD led_VBN directly_RB into_IN the_DT room_NN in_IN some_DT cases_NNS ;_: in_IN others_NNS the_DT tubes_NNS were_VBD led_VBN into_IN a_DT large_JJ iron_NN vessel_NN from_IN which_WDT the_DT gas_NN was_VBD pumped_VBN by_IN a_DT powerful_JJ fan_NN into_IN the_DT room_NN through_IN a_DT large_JJ delivery_NN pipe_NN ._.
+There_EX was_VBD a_DT second_JJ opening_NN in_IN the_DT iron_NN vessel_NN through_IN which_WDT air_NN was_VBD pumped_VBN and_CC mixed_JJ with_IN the_DT hydrocyanic_JJ acid_NN gas_NN ._.
+It_PRP was_VBD the_DT largely_RB diluted_VBN hydrocyanic_JJ acid_NN gas_NN that_WDT was_VBD introduced_VBN ._.
+The_DT quantities_NNS of_IN hydrocyanic_JJ acid_NN gas_NN produced_VBN were_VBD calculated_VBN as_IN follows_VBZ :_: about_RB 82_CD grammes_NNS of_IN pure_JJ potassium_NN cyanide_NN taken_VBN as_IN 100_CD per_IN cent_NN ._.
+will_MD produce_VB I_PRP cubic_JJ foot_NN of_IN hydrocyanic_JJ acid_NN gas_NN ._.
+We_PRP used_VBD for_IN one_CD charge_NN 85_CD grammes_NNS of_IN 98_CD per_IN cent_NN ._.
+potassium_NN cyanide_NN or_CC the_DT equivalent_JJ amount_NN of_IN other_JJ strengths_NNS of_IN the_DT salt_NN ._.
+We_PRP were_VBD at_IN the_DT time_NN unaware_NN of_IN the_DT necessity_NN of_IN using_VBG sodium_JJ chloride_JJ free_JJ potassium_NN cyanide_NN stated_VBN by_IN Wilmon_NNP Newell_NNP in_IN his_PRP$ paper_NN and_CC quoted_VBN above_IN on_IN page_NN 2_CD ._.
+With_IN the_DT 85_CD grammes_NNS of_IN potassium_NN cyanide_NN we_PRP mixed_VBD 35_CD c.c_NN ._.
+of_IN strong_JJ commercial_JJ sulphuric_NN acid_RB diluted_VBD to_TO 700_CD c.c_NN ._.
+with_IN water_NN (_( i.e._FW ,_, H2SO4_NNP 1_CD in_IN 20_CD strength_NN )_) ._.
+The_DT room_NN in_IN which_WDT these_DT experiments_NNS were_VBD carried_VBN out_RP is_VBZ comparatively_RB air-_JJ tight_NN ._.
+It_PRP is_VBZ of_IN the_DT following_JJ dimensions_NNS :_: length_NN 12_CD feet_NNS 6_CD inches_NNS ;_: breadth_VBZ 7_CD feet_NNS 8_CD inches_NNS ._.
+The_DT roof_NN slopes_VBZ upward_RB from_IN a_DT wall_NN 5_CD feet_NNS 8_CD inches_NNS to_TO one_CD of_IN 11_CD feet_NNS 8_CD inches_NNS ._.
+The_DT cubic_JJ capacity_NN is_VBZ about_IN 830_CD cubic_JJ feet_NNS ._.
+The_DT walls_NNS are_VBP of_IN cement_NN ._.
+The_DT floor_NN is_VBZ of_IN stamped_JJ earth_NN ._.
+The_DT roof_NN is_VBZ of_IN corrugated_JJ iron_NN made_VBD rat-proof_NN by_IN being_VBG firmly_RB fastened_VBN to_TO the_DT walls_NNS ._.
+There_EX is_VBZ a_DT large_JJ window_NN 2_CD feet_NNS 7_CD inches_NNS by_IN 3_CD feet_NNS 6_CD inches_NNS and_CC opposite_VB it_PRP a_DT large_JJ door_NN 3_CD feet_NNS 2_CD inches_NNS by_IN 5_CD feet_NNS 6_CD inches_NNS ._.
+The_DT window_NN is_VBZ capable_JJ of_IN being_VBG tightly_RB closed_VBN by_IN shutters_NNS ._.
+Through_IN the_DT shutters_NNS the_DT delivery_NN pipe_NN was_VBD led_VBN into_IN the_DT room_NN ._.
+The_DT door_NN ,_, which_WDT leads_VBZ into_IN another_DT room_NN ,_, was_VBD closed_VBN and_CC any_DT cracks_NNS or_CC obvious_JJ holes_NNS sealed_VBN over_RP ,_, so_RB that_IN a_DT com-_JJ paratively_RB air-tight_JJ chamber_NN was_VBD produced_VBN ._.
+In_IN the_DT different_JJ experiments_NNS varying_VBG amounts_NNS of_IN gas_NN from_IN 2_CD to_TO 4.38_CD cubic_JJ feet_NNS were_VBD introduced_VBN into_IN the_DT room_NN for_IN different_JJ periods_NNS of_IN time_NN ._.
+The_DT results_NNS giving_VBG details_NNS of_IN amounts_NNS of_IN gas_NN used_VBN ,_, the_DT time_NN of_IN exposure_NN ,_, and_CC the_DT effect_NN on_IN fleas_NNS in_IN different_JJ situations_NNS are_VBP given_VBN in_IN Experiments_NNS I_PRP to_TO VI_NNP ._.
+Rats_NNS were_VBD introduced_VBN into_IN the_DT room_NN simply_RB to_TO discover_VB what_WP amount_NN of_IN gas_NN would_MD be_VB necessary_JJ to_TO kill_VB them_PRP ._.
+They_PRP require_VBP more_JJR gas_NN and_CC a_DT longer_RBR exposure_NN than_IN fleas_NNS ._.
+But_CC the_DT effect_NN of_IN the_DT gas_NN on_IN them_PRP is_VBZ of_IN no_DT importance_NN for_IN this_DT investi-_JJ gation10_NN Both_DT objects_NNS were_VBD attained_VBN ._.
+Bundles_NNS of_IN clothes_NNS wrapped_VBD fairly_RB tightly_RB up_RP were_VBD thoroughly_RB penetrated_VBN by_IN the_DT gas_NN ._.
+A_DT consideration_NN of_IN the_DT tables_NNS will_MD show_VB this_DT ._.
+For_IN example_NN ,_, in_IN Experiment_NNP I_PRP the_DT gas_NN penetrated_VBD through_IN four_CD bags_NNS ,_, 11_CD strong_JJ sulphuric_JJ acid_NN were_VBD added_VBN evolving_VBG heat_NN ,_, and_CC then_RB I_PRP oz_VBP ._.
+of_IN potassium_NN cyanide_NN was_VBD finally_RB put_VBN in_IN and_CC the_DT door_NN closed_VBD ._.
+The_DT gas_NN was_VBD left_VBN in_IN contact_NN with_IN the_DT clothes_NNS for_IN forty_NN minutes_NNS and_CC then_RB the_DT door_NN was_VBD opened_VBN ._.
+The_DT room_NN was_VBD entered_VBN fifteen_JJ minutes_NNS later_RB ._.
+The_DT fleas_JJ left_NN in_IN different_JJ parts_NNS of_IN the_DT room_NN were_VBD all_DT killed,12_NNS In_IN the_DT following_JJ experiments_NNS as_IN many_JJ of_IN the_DT large_JJ ventilating_NN holes_NNS as_IN could_MD be_VB filled_VBN up_RP were_VBD closed_VBN with_IN tightly_RB packed_VBN paper_NN and_CC the_DT room_NN was_VBD made_VBN as_RB air-tight_JJ as_IN most_JJS native_JJ huts_NNS can_MD be_VB made_VBN ._.
+In_IN the_DT floor_NN of_IN the_DT room_NN four_CD types_NNS of_IN rat_NN burrows_NNS were_VBD present_JJ ,_, each_DT consisted_VBN of_IN a_DT small_JJ wooden_NN box_NN to_TO contain_VB rats_NNS and_CC fleas_NNS and_CC one_CD or_CC two_CD passages_NNS leading_VBG from_IN it_PRP to_TO the_DT floor_NN of_IN the_DT room_NN ._.
+The_DT boxes_NNS measured_VBD 21_CD by_IN 10¾_CD by_IN 12_CD inches_NNS ._.
+They_PRP are_VBP fitted_VBN with_IN hinged_JJ lids_NNS and_CC are_VBP sunk_VBN in_IN the_DT ground_NN ._.
+Inside_IN each_DT box_NN is_VBZ a_DT rack_NN to_TO hold_VB test-tubes_JJ containing_VBG fleas_NNS ._.
+The_DT cage_NN for_IN the_DT rat_NN can_MD be_VB placed_VBN inside_IN the_DT box_NN ._.
+The_DT channels_NNS consist_NN of_IN a_DT series_NN of_IN short_JJ sections_NNS of_IN earthenware_JJ pipes_NNS sunk_NN in_IN the_DT ground_NN ._.
+Each_DT section_NN is_VBZ made_VBN up_IN of_IN concave_JJ country_NN roofing_VBG tiles_NNS placed_VBN together_RB to_TO form_VB a_DT somewhat_RB tapering_JJ pipe_NN ,_, the_DT narrow_JJ end_NN of_IN one_CD section_NN fitting_VBG into_IN the_DT broad_JJ end_NN of_IN the_DT other_JJ ._.
+The_DT narrow_JJ end_NN of_IN the_DT lowest_JJS of_IN these_DT sections_NNS projects_NNS slightly_RB into_IN the_DT box_NN ._.
+These_DT ``_`` burrows_NNS ''_'' measured_VBN from_IN 5½_CD to_TO 12_CD feet_NNS ._.
+There_EX are_VBP four_CD types_NNS of_IN burrows_NNS :13_VBP the_DT bottom_NN ,_, and_CC in_IN test-tubes_JJ in_IN the_DT burrows,14_NN isolated_VBD houses_NNS to_TO investigate_VB its_PRP$ action_NN on_IN rats_NNS under_IN natural_JJ conditions_NNS ._.
+The_DT investigation_NN should_MD be_VB made_VBN by_IN some_DT one_CD familiar_JJ with_IN the_DT use_NN of_IN the_DT gas_NN ._.
+Cost_NN of_IN Disinfection_NNP ._.
+I.15_NNP Experiment_NNP I_PRP ._.
+*_JJ A._NNP Fleas_NNP and_CC rats_NNS were_VBD placed_VBN in_IN the_DT small_JJ room_NN described_VBN on_IN page_NN 9_CD of_IN 830_CD cubic_JJ feet_NNS capacity_NN ._.
+170_CD grammes_NNS of_IN 98_CD per_IN cent_NN ._.
+potassium_NN cyanide_NN ,_, equivalent_JJ to_TO about_IN ¾_NNP oz_NN ._.
+of_IN the_DT salt_NN to_TO 100_CD cubic_JJ feet_NNS air_NN space_NN ,_, was_VBD decomposed_VBN outside_IN the_DT room_NN ._.
+The_DT resultant_NN gas_NN calculated_VBD to_TO be_VB about_IN 2.19_CD cubic_JJ feet_NNS at_IN 26°_CD Centi-_JJ grade_NN was_VBD led_VBN into_IN the_DT room_NN by_IN tubes_NNS without_IN the_DT use_NN of_IN a_DT fan_NN to_TO drive_VB it_PRP in_IN ._.
+The_DT generation_NN of_IN gas_NN took_VBD 51_CD minutes_NNS ._.
+The_DT object_NN of_IN this_DT experiment_NN with_IN fleas_NNS was_VBD to_TO test_VB the_DT penetration_NN of_IN gas_NN through_IN various_JJ layers_NNS of_IN cloth_JJ stuffs_NNS ._.
+Details_NNS of_IN covering_VBG ,_, etc._FW ,_, enclosing_VBG the_DT fleas_NNS ._.
+Results_NNS after_IN 51_CD minutes_NNS '_POS exposure_NN to_TO the_DT gas_NN ._.
+REMARKS_NNP ._.
+(_( a_DT )_) 15_CD fleas_NNS were_VBD put_VBN in_IN a_DT white_JJ cotton_NN bag_NN and_CC that_DT again_RB enclosed_VBN in_IN one_CD bag_NN of_IN coarse_NN red_JJ blanket_NN ._.
+(_( a_DT )_) All_DT fleas_NNS were_VBD found_VBN dead_JJ ._.
+(_( b_NN )_) 9_CD fleas_NNS in_IN a_DT white_JJ cotton_NN bag_NN were_VBD enclosed_VBN in_IN two_CD layers_NNS of_IN coarse_NN red_JJ blankets_NNS ._.
+(_( b_NN )_) Do_VBP ._.
+(_( c_NN )_) 11_CD fleas_NNS in_IN a_DT white_JJ cotton_NN bag_NN were_VBD enclosed_VBN in_IN three_CD layers_NNS of_IN coarse_NN red_JJ blankets_NNS ._.
+(_( c_NN )_) 10_CD dead_JJ ;_: 1_CD alive_NN ._.
+(_( d_NN )_) 11_CD fleas_NNS were_VBD put_VBN in_IN a_DT fine_JJ flannel_NN bag_NN ._.
+(_( d_NN )_) All_DT fleas_JJ dead_JJ ._.
+(_( e_NN )_) 9_CD fleas_NNS were_VBD put_VBN in_IN a_DT chintz_NN bag_NN (_( e_NN )_) Do_VBP ._.
+(_( f_NN )_) 10_CD fleas_NNS were_VBD put_VBN in_IN a_DT cashmere_JJ bag_NN (_( f_NN )_) Do_VBP ._.
+(_( g_NN )_) 20_CD fleas_NNS were_VBD put_VBN in_IN a_DT single_JJ chintz_NN bag_NN and_CC that_DT rolled_VBD in_IN a_DT durree_NN ,_, blanket_NN ,_, coat_NN and_CC trousers_NNS ._.
+(_( g_NN )_) 7_CD escaped_VBD ;_: 12_CD alive_JJ ;_: 1_CD dead_NN ._.
+*_JJ NOTE.16_NNP Experiment_NNP I17_NNP Experiment_NNP II_NNP ._.
+A_DT small_JJ room_NN was_VBD used18_JJ Experiment_NNP III_NNP ._.
+A_DT small_JJ room_NN of_IN 830_CD cubic_JJ feet_NNS capacity_NN was_VBD used_VBN ._.
+340_CD grammes_NNS of_IN 98_CD per_IN cent_NN ._.
+potassium_NN cyanide_NN ,_, equivalent_JJ to_TO about_IN 1½_CD ozs_NNS ._.
+of_IN the_DT salt_NN to_TO 100_CD cubic_JJ feet_NNS air_NN space_NN ,_, was_VBD decomposed_VBN outside_IN the_DT room_NN ._.
+The_DT resultant_NN gas_NN ,_, calculated_VBN to_TO be_VB about_IN 4.38_CD cubic_JJ feet_NNS at_IN 26°_CD Centigrade_NNP was_VBD delivered_VBN into_IN the_DT room_NN by_IN means_NNS of_IN a_DT fan_NN ._.
+Exposure_NN for_IN 20_CD minutes_NNS ._.
+Details_NNS as_IN to_TO conditions_NNS under_IN which_WDT the_DT fleas_NNS were_VBD admitted_VBN to_TO the_DT action_NN of_IN the_DT gas_NN ._.
+Results_NNS of_IN fumigation_NN ._.
+REMARKS_NNP ._.
+(_( 1_CD )_) 10_CD fleas_NNS in_IN a_DT cotton_NN bag_NN wrapped_VBN in_IN several_JJ layers_NNS of_IN blanket_NN and_CC thick_JJ sheet_NN ._.
+(_( 1_CD )_) All_DT dead_JJ In_IN all_PDT these_DT results_NNS the_DT fleas_NNS were_VBD kept_VBN for_IN two_CD hours_NNS and_CC looked_VBD at_IN again19_JJ Experiment_NNP IV_NNP ._.
+In_IN disinfection_NN of_IN boxes_NNS do_VBP the_DT clothes_NNS need_VBP to_TO be_VB taken_VBN out_IN of_IN boxes_NNS and_CC hung_VB up_RP ;_: or_CC can_MD we_PRP thoroughly_VB disinfect_JJ clothes_NNS by_IN leading_VBG pipes_NNS into_IN the_DT boxes_NNS ?_.
+Two_CD experiments_NNS were_VBD done_VBN on_IN this_DT point_NN ._.
+The_DT same_JJ amount_NN of_IN hydrocyanic_JJ acid_NN gas_NN as_IN in_IN Experiment_NNP III_NNP was_VBD pumped_VBN into_IN the_DT small_JJ room_NN of_IN 830_CD cubic_JJ feet_NNS capacity_NN (_( about_IN 4.38_CD cubic_JJ feet_NNS )_) ._.
+The_DT exposure_NN was_VBD for_IN 20_CD minutes_NNS ._.
+The_DT room_NN was_VBD entered_VBN in_IN 30_CD minutes_NNS from_IN commencement_NN of_IN operations_NNS ._.
+By_IN using_VBG the_DT test_NN rod_NN a_DT good_JJ prussian_JJ blue_NN tint_NN showed_VBD that_IN a_DT concentrated_JJ gas_NN was_VBD passed_VBN into_IN the_DT room_NN ._.
+Nine_NNP pipes_NNS took_VBD the_DT gas_NN into_IN the_DT room_NN from_IN the_DT generating_VBG chamber_NN outside_IN ._.
+One_CD pipe_NN was_VBD led_VBN into_IN the_DT bottom_NN of_IN Box_NNP I_PRP ._.
+Two_CD pipes_NNS were_VBD led_VBN into_IN the_DT bottom_NN of_IN Box_NNP II_NNP ._.
+In_IN Box_NNP I_PRP from_IN above_IN downwards_NNS fleas_NNS were_VBD put_VBN in_IN the_DT following_JJ positions:20_NN Experiment_NNP V._NNP With_IN Clothes_NNP in_IN Boxes_NNP ._.
+Same_JJ period_NN of_IN exposure_NN 20_CD minutes_NNS ._.
+The_DT same_JJ amount_NN of_IN hydrocyanic_JJ acid_NN gas_NN (_( about_IN 4.38_CD cubic_JJ feet_NNS )_) as_IN in_IN Experiment_NNP III_NNP was_VBD introduced_VBN into_IN the_DT room_NN of_IN 830_CD cubic_JJ feet_NNS capacity_NN by_IN means_NNS of_IN a_DT fan_NN ._.
+Box_NNP I_PRP ,_, from_IN above_IN downwards_NNS ._.
+PARTICULARS_NNS ._.
+Result_NN ._.
+REMARKS_NNP ._.
+1_CD ._.
+Rug_NNP and_CC chudder_NN ,_, then_RB cotton_NN bag_NN with_IN 10_CD fleas_NNS in_IN it_PRP ._.
+10_CD fleas_NNS ;_: all_DT dead_JJ ._.
+2_CD ._.
+Then_RB durree_NN and_CC 2_CD blankets_NNS with_IN bag_NN of_IN 7_CD fleas_NNS below_IN ._.
+7_CD fleas_NNS ;_: all_DT dead_JJ ._.
+3_CD ._.
+Then_RB one_CD blanket_NN ,_, with_IN bag_NN of_IN 9_CD fleas_NNS below_IN ._.
+9_CD fleas_NNS ;_: all_DT dead_JJ ._.
+4_CD ._.
+Then_RB a_DT blanket_NN in_IN several_JJ folds_NNS and_CC a_DT bag_NN with_IN 7_CD fleas_NNS below_IN it_PRP ._.
+7_CD fleas_NNS ;_: all_DT dead_JJ ._.
+5_CD ._.
+Then_RB another_DT blanket_NN with_IN 9_CD fleas_NNS below_IN in_IN a_DT bag_NN ._.
+9_CD fleas_NNS ;_: all_DT dead_JJ ._.
+Box_NNP II.21_NNP Experiment_NNP VI_NNP ._.
+Does_VBZ the_DT gas_NN kill_NN cultures_NNS of_IN micro-organisms_NNS and_CC what_WP effect_NN has_VBZ it_PRP on_IN the_DT germinating_VBG power_NN of_IN grains_NNS ?_.
+Does_VBZ it_PRP render_VB dry_JJ food-stuff_NN poisonous_JJ ?_.
+The_DT small_JJ room_NN of_IN 830_CD cubic_JJ feet_NNS capacity_NN was_VBD used_VBN ._.
+About_IN 4.38_CD cubic_JJ feet_NNS of_IN hydrocyanic_JJ acid_NN gas_NN was_VBD introduced_VBN by_IN a_DT fan_NN and_CC allowed_VBN to_TO act_VB 20_CD minutes_NNS from_IN the_DT start_NN ._.
+The_DT test_NN rod_NN showed_VBD plenty_NN of_IN gas_NN to_TO be_VB present_JJ ._.
+The_DT grains_NNS tested_VBN were_VBD :_: (_( 1_CD )_) Bajri_NNP ,_, (_( 2_CD )_) ,_, Wheat_NNP ,_, (_( 3_CD )_) Jowari_NNP ,_, (_( 4_CD )_) Mula_NN or_CC Radish_JJ ,_, and_CC (_( 5_CD )_) Rice_NN ._.
+(_( 1_CD )_) ,_, (_( 2_CD )_) ,_, and_CC (_( 5_CD )_) were_VBD put_VBN in_IN kerosine_NN oil_NN tins_NNS ._.
+A_DT pipe_NN conveying_VBG the_DT gas_NN was_VBD conducted_VBN to_TO the_DT bottom_NN of_IN the_DT mass_NN and_CC one_CD was_VBD directed_VBN on_IN the_DT surface_NN ._.
+Mula_NNP and_CC jowari_NN were_VBD in_IN small_JJ amounts_NNS and_CC gas_NN played_VBN on_IN their_PRP$ surface_NN from_IN pipes_NNS directly_RB placed_VBN on_IN them_PRP ._.
+I_PRP ._.
+Were_WRB the_DT grains_NNS poisonous_JJ ?_.
+No_DT ._.
+Tested_VBN on_IN monkeys_NNS ,_, rabbits_NNS ,_, guinea-pigs_NNS ,_, hens_NNS ,_, and_CC pigeons_NNS ._.
+Fed_NNP on_IN it_PRP for_IN 24_CD hours_NNS ._.
+None_NN dead_JJ nor_CC ill._JJ Again_NNP chapatis_NN were_VBD made_VBN of_IN the_DT wheat_NN ,_, jowari_NN ,_, and_CC bajri_NN ,_, and_CC monkeys_NNS and_CC hens_NNS were_VBD fed_VBN on_IN them_PRP ._.
+No_DT ill_JJ results_NNS ._.
+II_NNP ._.
+The_DT germinating_VBG power_NN of_IN the_DT seeds_NNS was_VBD not_RB affected_VBN ._.
+Certain_NNP quanti-_JJ ties_NNS of_IN the_DT above_NN grains_NNS were_VBD planted_VBN and_CC seeds_NNS not_RB subjected_VBN to_TO the_DT gas_NN were_VBD planted_VBN at_IN the_DT same_JJ time_NN to_TO serve_VB as_IN control_NN in_IN the_DT comparison_NN of_IN the_DT rate_NN of_IN growth_NN ._.
+Both_DT examples_NNS of_IN bajri_NN ,_, jowari_NN ,_, and_CC mula_NN grew_VBD well_RB ;_: of_IN wheat_NN grew_VBD feebly_RB ,_, because_IN much_JJ of_IN it_PRP was_VBD husked_VBN ._.
+Cultures_NNS of_IN (_( a_DT )_) Micrococcus_NNP melitensis_NN ,_, (_( b_NN )_) Cholera_NNP spirillum_NN ,_, and_CC (_( c_NN )_) Bacillus_NNP anthracis_NN ,_, were_VBD placed_VBN in_IN the_DT room_NN ,_, but_CC the_DT cotton-wool_JJ stoppers_NNS were_VBD not_RB removed_VBN from_IN the_DT test-tubes_JJ containing_VBG the_DT cultures_NNS as_IN it_PRP was_VBD thought_VBN not_RB to_TO be_VB safe_JJ to_TO do_VB so_RB ._.
+They_PRP were_VBD after_IN subjection_NN to_TO the_DT gas_NN re-transplanted_JJ on_IN agar_NN and_CC showed_VBD good_JJ growths_NNS ._.
+Test-tubes_JJ containing_VBG cultures_NNS of_IN (_( a_DT )_) Streptococci_NNP ,_, (_( b_NN )_) Bacillus_NNP typhosus_NN ,_, (_( c_NN )_) Bacillus_NNP coli_NNS communis_NN ,_, and_CC (_( d_NN )_) Bacillus_NNP pestis_NN ,_, were_VBD placed_VBN in_IN the_DT room_NN with_IN their_PRP$ cotton-wool_JJ plugs_NNS removed_VBN ,_, so_IN that_IN the_DT gas_NN had_VBD full_JJ action_NN on_IN the_DT germs_NNS ._.
+After_IN the_DT experiment_NN the_DT germs_NNS were_VBD recultured_VBN on_IN agar_NN ._.
+The_DT Bacillus_NNP pestis_NN was_VBD overgrown_VBN with_IN some_DT yellow_JJ contaminating_NN organism_NN ._.
+The_DT others_NNS grew_VBD well_RB and_CC seemed_VBD to_TO the_DT naked_JJ eye_NN to_TO be_VB pure_JJ cultures_NNS ._.
+So_RB probably_RB the_DT above_NN germs_NNS are_VBP not_RB affected_VBN by_IN the_DT gas_NN ._.
+Fleas_NNS after_IN 5_CD minutes_NNS '_POS exposure_NN to_TO the_DT gas_NN were_VBD found_VBN dead_JJ ._.
+They_PRP were_VBD put_VBN into_IN tubes_NNS and_CC withdrawn_NN after_IN 5_CD ,_, 10_CD ,_, and_CC 15_CD minutes_NNS '_POS exposure_NN ,_, all_DT dead_JJ ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75033636.tif_CD ]_JJ 22_CD Experiment_NNP VII_NNP ._.
+The_DT following_JJ experiments23_JJ Experiment_NNP VIII_NNP ._.
+Another_DT experiment_NN was_VBD tried_VBN with_IN the_DT following_JJ alterations_NNS :_: (_( 1_CD )_) the_DT fan_NN was_VBD worked_VBN ;_: (_( 2_CD )_) the_DT tubes_NNS leading_VBG off_RP from_IN the_DT main_JJ tube_NN were_VBD larger_JJR in_IN calibre_NN and_CC their_PRP$ total_JJ surface_NN area_NN equal_JJ to_TO the_DT surface_NN area_NN of_IN the_DT large_JJ tube_NN leading_VBG from_IN the_DT generator_NN ,_, so_IN that_IN the_DT full_JJ amount_NN of_IN gas_NN was_VBD delivered_VBN into_IN the_DT room_NN ._.
+There_EX were_VBD nine_CD pipes_NNS altogether_RB :_: five_CD delivered_VBN into_IN the_DT room_NN at_IN different_JJ heights_NNS and_CC four_CD were_VBD inserted_VBN into_IN the_DT four_CD burrows_NNS ,_, and_CC the_DT mouths_NNS of_IN the_DT burrows_NNS where_WRB the_DT pipes_NNS were_VBD inserted_VBN were_VBD choked_VBN up_RP ._.
+Three_CD hundred_CD and_CC forty_JJ grammes_NNS of_IN 98_CD per_IN cent_NN ._.
+potassium_NN cyanide_NN was_VBD decomposed_VBN ._.
+The_DT resultant_NN hydrocyanic_JJ acid_NN gas_NN calculated_VBD to_TO be_VB about_IN 4.38_CD cubic_JJ feet_NNS at_IN 26°_CD Centigrade_NNP was_VBD delivered_VBN into_IN the_DT room_NN of_IN about_IN 1,640_CD cubic_JJ feet_NNS capacity_NN ._.
+The_DT amount_NN of_IN potassium_NN cyanide_NN used_VBN would_MD be_VB equivalent_JJ to_TO about_IN ¾_NNP oz_NN ._.
+to_TO 100_CD cubic_JJ feet_NNS air_NN space_NN ._.
+There_EX was_VBD 35_CD minutes_NNS '_POS exposure_NN to_TO the_DT gas_NN ._.
+By_IN means_NNS of_IN the_DT observation_NN rods_VBZ the_DT room_NN was_VBD seen_VBN to_TO be_VB sufficiently_RB free_JJ from_IN the_DT gas_NN five_CD minutes_NNS later_RB ._.
+Forty_NNP minutes_NNS ,_, therefore_RB ,_, were_VBD taken_VBN for_IN the_DT whole_JJ experiment_NN ._.
+After_IN the_DT fumigation_NN the_DT fleas_NNS were_VBD examined_VBN at_IN once_RB and_CC also_RB three_CD hours_NNS later_RB to_TO see_VB whether_IN they_PRP had_VBD revived_VBN ._.
+POSITION_NN ._.
+RATS_NNP ._.
+FLEAS_NNP ._.
+REMARKS_NNP ._.
+Dead_NNP ._.
+Sick_NNP ._.
+Alive_NNP ._.
+Dead_NNP ._.
+Alive_NNP ._.
+On_IN the_DT floor_NN 3_CD ..._: 1_CD 28_CD (_( all_DT )_) ..._: 4_CD feet_NNS from_IN ground_NN 3_CD ..._: 1_CD 12_CD (_( all_DT )_) ..._: 6_CD do_VBP ._.
+2_CD ..._: ..._: ..._: ..._: 8_CD do_VBP ._.
+2_CD ..._: ..._: ..._: ..._: 12_CD do_VBP ._.
+3_CD ..._: ..._: 10_CD (_( all_DT )_) ..._: On_IN the_DT rafters_NNS ..._: ..._: ..._: 11_CD (_( all_DT )_) ..._: Burrow_VBP A_DT 1_CD ..._: ..._: 15_CD (_( all_DT )_) ..._: For_IN description_NN of_IN burrows_NNS ,_, see_VBP page_JJ 12_CD ._.
+24_CD Experiment_JJ IX_NNP ._.
+Into_IN the_DT same_JJ room_NN of_IN about_IN 1,640_CD cubic_JJ feet_NNS capacity_NN about_IN 6.57_CD cubic_JJ feet_NNS of_IN hydrocyanic_JJ acid_NN gas_NN were_VBD introduced_VBN ,_, equivalent_JJ to_TO about_IN 1.2_CD ozs_NNS ._.
+potassium_NN cyanide_NN to_TO 100_CD cubic_JJ feet_NNS air_NN space_NN ._.
+The_DT exposure_NN was_VBD for_IN 40_CD minutes_NNS ._.
+Rats_NNS were_VBD let_VBN loose_RB on_IN the_DT floor_NN and_CC put_VB loose_RB into_IN the_DT burrows_NNS to_TO simulate_VB natural_JJ conditions_NNS ._.
+The_DT gas_NN was_VBD driven_VBN into_IN the_DT room_NN by_IN the_DT fan_NN ._.
+The_DT disposition_NN of_IN pipes_NNS was_VBD similar_JJ to_TO that_DT in_IN Experiment_NNP VIII_NNP ._.
+POSITION_NN ._.
+RESULTS_NNP ._.
+REMARKS_NNP ._.
+Dead_NNP ._.
+Sick_NNP ._.
+Alive_NNP ._.
+6_CD on_IN the_DT floor_NN 3_CD 1_CD 2_CD For_IN description_NN of_IN burrows_NNS ,_, see_VBP page_JJ 12_CD ._.
+Burrow_VB A_NNP ,_, 3_CD put_NN in_IN 3_CD ..._: ..._:
+Blind_NNP burrows_NNS ._.
+Burrow_NNP B_NNP ,_, 3_CD put_NN in_IN 3_CD ..._: ..._: Burrow_NNP C_NNP ,_, 4_CD put_NN in_IN 1_CD ..._: 3_CD escaped_VBD ._.
+Burrow_NNP D_NNP ,_, 3_CD put_NN in_IN 2_CD ..._: 1_CD escaped_VBD ._.
+25_CD Experiment_JJ X_NN ._.
+The_DT following_JJ experiments26_JJ Experiment_NNP X27_NNP The_DT following_JJ experiments28_JJ Experiment_NNP XII_NNP ._.
+Same_JJ room_NN ._.
+16½_CD ozs_NN ._.
+of_IN potassium_NN cyanide_NN (_( same_JJ salt_NN as_IN in_IN Experiments_NNP X_NNP and_CC XI_NNP )_) ,_, 32_CD ozs_NN ._.
+of_IN sulphuric_JJ acid_NN of_IN specific_JJ gravity_NN 1.83_CD and_CC 64_CD ozs_NN ._.
+of_IN waterNo_NN ._.
+38_CD ._.
+(_( NEW_NNP SERIES_NNP )_) SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP PRELMINARY_NNP REPORT_NNP ON_NNP THE_NNP KILLING_NNP OF_NNP RATS_NNP AND_NNP RAT_NNP FLEAS_NNP BY_NNP HYDROCYANIC_NNP ACID_NNP GAS_NNP ._.
+BY_NNP CAPTA_NNP D._NNP H._NNP STEVENSON_NNP ,_, M.B._NNP ,_, I.M.S._NNP (_( Homo_NNP Bacteriological_NNP Laboratory_NNP ._. )_)
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75033708.tif_CD ]_NNS CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1910_CD Price_NNP annas_VBD 8_CD or_CC 9d_CD ._.
