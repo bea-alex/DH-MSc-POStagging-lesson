@@ -1,2 +1,2 @@
 # DH-MSc-POStagging-lesson
-A lesson on part-of-speech tagging a collection and visualising the output
+A lesson on part-of-speech tagging the Medical History of British India collection provided by the National Library of Scotland as an example.
