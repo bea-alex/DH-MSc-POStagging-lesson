@@ -1,0 +1,867 @@
+REPORT_NNP ON_NNP MALARIA_NNP IN_NNP THE_NNP PUNJAB_NNP DURING_NNP THE_NNP YEAR_NN 1915_CD TOGETHER_NNP WITH_NNP AN_NNP ACCOUNT_NNP OF_NNP THE_NNP WORK_NNP OF_IN THE_NNP PUNJAB_NNP MALARIA_NNP BUREAU_NNP BY_NNP COLONEL_NNP H._NNP HENDLEY_NNP ,_, M._NNP D._NNP ,_, K._NNP H._NNP S._NNP ,_, I._NNP M._NNP S._NNP ,_, CHIEF_NNP MALARIA_NNP MEDICAL_NNP OFFICER_NNP ,_, PUNJAB_NNP ._.
+Lahore_NN :_: PRINTED_NN BY_IN THE_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, PUNJAB_NNP ._.
+1916_CD ._.
+Price_NN :_: Rs_NNP ._.
+2-4-0_JJ or_CC 3s_CD ._.
+&_CC 4d_CD ._.
+REPORT_NNP ON_NNP MALARIA_NNP IN_NNP THE_NNP PUNJAB_NNP DURING_NNP THE_NNP YEAR_NN 1915_CD ._.
+Revised_VBN list_NN of_IN Agents_NNS for_IN the_DT sale_NN of_IN Punjab_NNP Government_NNP Publications_NNP ._.
+IN_NNP THE_NNP UNITED_NNP KINGDOM_NNP ._.
+CONSTABLE_NNP &_CC Co._NNP ,_, 10_CD ,_, Orange_NNP Street_NNP ,_, Leicester_NNP Square_NNP ,_, London_NNP ,_, W._NNP C._NNP KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRBNER_NNP &_CC Co._NNP ,_, Limited_NNP ,_, 68-74_JJ ,_, Carter_NNP Lane_NNP ,_, E._NNP C._NNP ,_, and_CC 25_CD ,_, Museum_NNP Street_NNP ,_, London_NNP ,_, W._NNP C._NNP BERNARD_NNP QUARITCH_NNP ,_, 11_CD ,_, Grafton_NNP Street_NNP ,_, New_NNP Bond_NNP Street_NNP ,_, London_NNP ,_, W._NNP T._NNP FISHER_NNP UNWIN_NNP ,_, Limited_NNP ,_, No_NNP ._.
+1_CD ,_, Adelphi_NNP Terrace_NNP ,_, London_NNP ,_, W._NNP C._NNP P._NNP S._NNP KING_NNP AND_NNP SON_NNP ,_, 2_CD &_CC 4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ,_, London_NNP ,_, S._NNP W._NNP H._NNP S._NNP KING_NNP &_CC Co._NNP ,_, 65_CD ,_, Cornhill_NNP and_CC 9_CD ,_, Pall_NNP Mall_NNP ,_, London_NNP ._.
+GRINDLAY_NNP &_CC Co._NNP ,_, 54_CD ,_, Parliament_NNP Street_NNP ,_, London_NNP ,_, S._NNP W._NNP W._NNP THACKER_NNP &_CC Co._NNP ,_, 2_CD ,_, Creed_NNP Lane_NNP ,_, London_NNP ,_, E._NNP C._NNP LUZAC_NNP &_CC Co._NNP ,_, 46_CD ,_, Great_NNP Russell_NNP Street_NNP ,_, London_NNP ,_, W._NNP C._NNP B._NNP H._NNP BLACKWELL_NNP ,_, 50_CD ,_, and_CC 51_CD ,_, Broad_NNP Street_NNP ,_, Oxford_NNP ._.
+DEIGHTON_NNP BELL_NNP ,_, &_CC Co._NNP ,_, Limited_NNP ,_, Cambridge_NNP ._.
+OLIVER_NNP &_CC BOYD_NNP ,_, Tweeddale_NNP Court_NNP ,_, Edinburgh_NNP ._.
+E._NNP PONSONBY_NNP ,_, Limited_NNP ,_, 116_CD ,_, Grafton_NNP Street_NNP ,_, Dublin_NNP ._.
+ON_IN THE_DT CONTINENT_NNP ._.
+ERNEST_NNP LEROUX_NNP ,_, 28_CD ,_, Rue_NNP Bonaparte_NNP ,_, Paris_NNP ,_, France_NNP ._.
+MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP Holland_NNP ._.
+IN_NNP INDIA_NNP ._.
+A._NNP CHAND_NNP &_CC Co._NNP ,_, Imperial_NNP Book_NNP Dept_NNP Office_NNP ,_, Delhi_NNP ._.
+GULAB_NNP SINGH_NNP AND_NNP SONS_NNP ,_, Mufid-i-_NNP '_POS Am_NNP Press_NNP ,_, Lahore_NNP ._.
+MANAGER_NNP ,_, Punjab_NNP Law_NNP Book_NNP Depôt_NNP ,_, Anarkali_NNP Bazar_NNP ,_, Lahore_NNP ._.
+S._NNP MUMTAZ_NNP ALI_NNP &_CC SON_NNP ,_, Rafah-i-_NNP '_POS Am_NNP Press_NNP ,_, Lahore_NNP (_( for_IN vernacular_NN publications_NNS only_RB )_) ._.
+RAMA_NNP KRISHNA_NNP &_CC SONS_NNP ,_, Book-Sellers_NNP and_CC News_NNP Agents_NNP ,_, Anarkali_NNP Street_NNP ,_, Lahore_NNP ._.
+N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP and_CC Proprietor_NNP ,_, Nazir_NNP Kanun_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+D._NNP B._NNP TARAPOREVALA_NNP ,_, SONS_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+THACKER_NNP SPINK_NNP &_CC Co._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+NEWMAN_NNP and_CC Co._NNP ,_, Calcutta_NNP ._.
+R._NNP CAMBRAY_NNP and_CC Co._NNP ,_, Calcutta_NNP ._.
+THACKER_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+HIGGINBOTHAMS_NNP ,_, Limited_NNP ,_, Madras_NNP ._.
+T._NNP FISHER_NNP UNWIN_NNP ,_, Calcutta_NNP ._.
+V._NNP KALYANARAM_NNP IYER_NNP &_CC Co._NNP ,_, 189_CD ,_, Esplanade_NNP Row_NNP ,_, Madras_NNP ._.
+G._NNP A._NNP NATESAN_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+SUPERINTENDENT_NNP ,_, AMERICAN_NNP BATTIST_NNP MISSION_NNP PRESS_NNP ,_, RANGOON_NNP ._.
+REPORT_NNP ON_NNP MALARIA_NNP IN_NNP THE_NNP PUNJAB_NNP DURING_NNP THE_NNP YEAR_NN 1915_CD ._.
+TOGETHER_RB WITH_NNP AN_NNP ACCOUNT_NNP OF_NNP THE_NNP WORK_NNP OF_IN THE_NNP PUNJAB_NNP MALARIA_NNP BUREAU_NNP BY_NNP COLONEL_NNP H._NNP HENDLEY_NNP ,_, M._NNP D._NNP ,_, K._NNP H_NNP S_NNP ,_, I._NNP M._NNP S._NNP ,_, CHIEF_NNP MALARIA_NNP MEDICAL_NNP OFFICER_NNP ,_, PUNJAB_NNP ._.
+Lahore_NN :_: PRINTED_NN BY_IN THE_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, PUNJAB_NNP ,_, 1916_CD ._.
+Appendices_NNS ._.
+The_DT following_JJ Appendices_NNS accompany_VBP the_DT report_NN :_: -_: Appendix_DT A-Chart_JJ I.-Showing_NNP the_DT Total_NNP Mortality_NNP and_CC Fever_NNP Mortality_NNP in_IN the_DT Punjab_NNP from_IN 1867-1915_CD ._.
+Chart_NNP II.-Autumnal_NNP Fever_NNP Mortality_NNP (_( October_NNP and_CC November_NNP deaths_NNS )_) in_IN the_DT Punjab_NNP from_IN 1867-1915_CD ._.
+Chart_NNP III.-Showing_NNP the_DT Monthly_NNP Fever_NNP Mortality_NNP in_IN the_DT Punjab_NNP during_IN 1914_CD and_CC 1915_CD ._.
+Appendix_NNP B.-Deaths_NNP registered_VBD from_IN fever_NN in_IN the_DT districts_NNS of_IN the_DT Punjab_NNP in_IN the_DT year_NN 1915_CD ._.
+Appendix_DT C.-Map_NNP I.-Showing_NNP the_DT fever_JJ death_NN rate_NN per_IN mille_NN for_IN all_PDT the_DT districts_NNS of_IN the_DT Punjab_NNP for_IN 1914_CD and_CC 1915_CD ._.
+Map_NNP II.-Showing_NNP the_DT spleen_JJ index_NN in_IN June_NNP 1914_CD for_IN the_DT Punjab_NNP ._.
+Map_NNP III.-Showing_NNP the_DT spleen_JJ index_NN of_IN the_DT Punjab_NNP in_IN November_NNP 1914_CD ._.
+Map_NNP IV.-Showing_NNP the_DT spleen_JJ index_NN of_IN the_DT Punjab_NNP in_IN June_NNP 1915_CD ._.
+Map_NNP V.-Showing_NNP the_DT spleen_JJ index_NN of_IN the_DT Punjab_NNP in_IN November_NNP 1915_CD ._.
+Appendix_NNP D.-Showing_NNP the_DT Monthly_NNP Fever_NNP Mortality_NNP of_IN the_DT towns_NNS and_CC rural_JJ areas_NNS of_IN the_DT Punjab_NNP for_IN the_DT year_NN 1915_CD ._.
+No_DT ._.
+8-Medl.-1_JJ ._.
+FROM_NNP L._NNP FRENCH_NNP ,_, ESQUIRE_NNP ,_, O.I.E._NNP ,_, I.C.S._NNP ,_, Additional_NNP Secretary_NNP to_TO Government_NNP ,_, Punjab_NNP ,_, To_TO THE_DT INSPECTOR-GENERAL_NNP OF_NNP CIVIL_NNP HOSPITALS_NNP ,_, PUNJAB_NNP ._.
+Dated_VBN Lahore_NNP ,_, 8th_CD December_NNP 1916_CD ._.
+Home_NN ._.
+Medical_NNP ._.
+SIR_NNP ,_, I_PRP AM_VBP directed_VBN to_TO acknowledge_VB receipt_NN of_IN your_PRP$ letter_NN No_DT ._.
+6275_CD General_NNP ,_, dated_VBD the_DT 1st_CD November_NNP 1916_CD ,_, with_IN which_WDT was_VBD forwarded_VBN the_DT Annual_NNP Report_NNP of_IN the_DT Chief_NNP Malaria_NNP Officer_NNP ,_, Punjab_NNP ,_, on_IN the_DT work_NN done_VBN in_IN the_DT Malaria_NNP Bureau_NNP during_IN the_DT year_NN 1915_CD with_IN your_PRP$ remarks_NNS thereon_NN ._.
+2_CD ._.
+Last_JJ year_NN the_DT attention_NN of_IN the_DT officers_NNS concerned_VBN was_VBD drawn_VBN to_TO suggestions_NNS made_VBN by_IN Colonel_NNP Lane_NNP for_IN the_DT amelioration_NN of_IN conditions_NNS favourable_JJ to_TO the_DT development_NN of_IN malaria_NNS in_IN certain_JJ localities_NNS :_: and_CC they_PRP were_VBD directed_VBN to_TO take_VB such_JJ action_NN as_IN might_MD be_VB possible_JJ ._.
+This_DT year_NN 's_POS Report_NNP contains_VBZ no_DT reference_NN to_TO any_DT results_NNS which_WDT may_MD have_VB been_VBN obtained_VBN in_IN consequence_NN of_IN such_JJ action_NN :_: and_CC I_PRP am_VBP to_TO request_VB that_IN this_DT matter_NN may_MD be_VB noticed_VBN in_IN next_JJ year_NN 's_POS Report_NNP ._.
+3_CD ._.
+It_PRP appears_VBZ that_IN 51/2_CD months_NNS were_VBD consumed_VBN in_IN printing_VBG this_DT Report_NN with_IN its_PRP$ charts_NNS ._.
+No_DT doubt_NN in_IN present_JJ conditions_NNS the_DT expeditious_JJ production_NN of_IN maps_NNS in_IN India_NNP can_MD not_RB be_VB assured_VBN bat_NN :_: His_PRP$ Honour_NN trusts_NNS that_IN it_PRP will_MD be_VB possible_JJ in_IN future_JJ to_TO reduce_VB the_DT delay_NN which_WDT has_VBZ occurred_VBN and_CC effect_NN publication_NN more_RBR promptly_RB than_IN has_VBZ been_VBN the_DT case_NN this_DT year_NN ._.
+I_PRP have_VBP ,_, &_CC c._NN ,_, L._NNP FRENCH_NNP ,_, Additional_NNP Secretary_NNP to_TO Government_NNP ,_, Punjab_NNP ._.
+No_DT ._.
+8-Medl-2_JJ ._.
+COPY_NNP ,_, with_IN a_DT copy_NN of_IN the_DT Malaria_NNP Report_NNP ,_, forwarded_VBD to-_NN (_( 1_CD )_) the_DT Secretary_NNP to_TO Government_NNP ,_, Punjab_NNP ,_, Public_NNP Works_NNP Department_NNP ,_, Buildings_NNP and_CC Roads_NNP Branch_NNP ,_, (_( 2_CD )_) the_DT Secretary_NNP to_TO Government_NNP ,_, Punjab_NNP ,_, Public_NNP Works_NNP Department_NNP ,_, Irrigation_NNP Branch_NNP ,_, (_( 3_CD )_) the_DT Agent_NNP ,_, North-Western_NNP Railway_NNP ,_, (_( 4_CD )_) all_DT Commissioners_NNPS and_CC Deputy_NNP Commissioners_NNP in_IN the_DT Punjab_NNP ,_, for_IN information_NN and_CC such_JJ action_NN as_IN may_MD be_VB possible_JJ ._.
+By_IN order_NN ,_, &_CC c._NN ,_, L._NNP FRENCH_NNP ,_, Additional_NNP Secretary_NNP to_TO Government_NNP ,_, Punjab_NNP ._.
+1719_CD CS-490_JJ -131216-SGPP_NNP Lahore_NNP No_NNP ._.
+2645_CD GENERAL_NNP ._.
+FROM_IN THE_NNP HON'BLE_NNP COLONEL_NNP H._NNP HENDLEY_NNP ,_, M._NNP D._NNP ,_, K.H.S._NNP ,_, I.M.S._NNP ,_, Inspector-General_NNP of_IN Civil_NNP Hospitals_NNP ,_, Punjab_NNP ,_, To_TO THE_NNP ADDITIONAL_NNP SECRETARY_NNP TO_NNP GOVERNMENT_NNP ,_, PUNJAB_NNP ._.
+Dated_VBN Lahore_NNP ,_, the_DT 15th_CD May_NNP 1916_CD ._.
+SIR_NNP ,_, I_PRP HAVE_VBP the_DT honour_NN to_TO forward_VB herewith_PDT the_DT annual_JJ report_NN of_IN the_DT Chief_NNP Malaria_NNP Medical_NNP Officer_NNP ,_, Punjab_NNP ,_, on_IN the_DT work_NN done_VBN in_IN the_DT Malaria_NNP Bureau_NNP during_IN the_DT year_NN 1915_CD and_CC to_TO convey_VB the_DT following_JJ remarks_NNS ._.
+2_CD ._.
+The_DT report_NN on_IN the_DT work_NN done_VBN ,_, specially_RB in_IN connection_NN with_IN the_DT study_NN of_IN malaria_NNS in_IN the_DT Punjab_NNP ,_, shows_VBZ that_IN useful_JJ information_NN is_VBZ being_VBG obtained_VBN which_WDT it_PRP is_VBZ hoped_VBN will_MD eventually_RB lead_VB to_TO good_JJ practical_JJ results_NNS ._.
+The_DT most_RBS im-_JJ portant_JJ result_NN will_MD be_VB to_TO focus_VB attention_NN upon_IN endemic_JJ centres_NNS in_IN which_WDT measures_NNS on_IN sound_NN lines_NNS will_MD be_VB taken_VBN to_TO ameliorate_VB conditions_NNS of_IN life_NN so_RB as_IN to_TO prevent_VB them_PRP becoming_VBG reservoirs_NNS for_IN widespread_JJ infection_NN in_IN bad_JJ years_NNS ._.
+3_CD ._.
+The_DT Province_NNP is_VBZ fortunate_VBN in_IN having_VBG had_VBD another_DT healthy_JJ year_NN ,_, and_CC though_IN the_DT conditions_NNS that_WDT led_VBD to_TO it_PRP are_VBP not_RB compatible_JJ with_IN plentiful_JJ harvests_NNS ,_, yet_RB they_PRP have_VBP not_RB been_VBN altogether_RB inimical_JJ to_TO the_DT interests_NNS of_IN Government_NN at_IN this_DT time_NN of_IN stress_NN as_IN ,_, but_CC for_IN them_PRP ,_, the_DT excellent_JJ recruiting_NN results_NNS obtained_VBN in_IN the_DT Punjab_NNP would_MD not_RB have_VB been_VBN possible_JJ ._.
+I_PRP have_VBP the_DT honour_NN to_TO be_VB ,_, SIR_NNP ,_, Your_NNP most_RBS obedient_JJ Servant_NNP ,_, H._NNP HENDLEY_NNP ,_, M._NNP D._NNP ,_, COL._NNP ,_, I.M.S._NNP ,_, Inspector-General_NNP of_IN Civil_NNP Hospitals_NNP ,_, Punjab_NNP ._.
+6_CD IGCH-420-17-5-16-SGPP_JJ Lahore_NNP ._.
+No_DT ._.
+120_CD M._NNP I_PRP ._.
+FROM_IN THE_NNP HON'BLE_NNP COLONEL_NNP H._NNP HENDLEY_NNP ,_, M._NNP D._NNP ,_, K.H.S._NNP ,_, I.M.S._NNP ,_, Chief_NNP Malaria_NNP Medical_NNP Officer_NNP ,_, Punjab_NNP ,_, TO_NNP THE_NNP INSPECTOR-GENERAL_NNP OF_NNP CIVIL_NNP HOSPITALS_NNP ,_, PUNJAB_NNP ._.
+Dated_VBN Lahore_NNP ,_, the_DT 30th_CD March_NNP 1916_CD ._.
+SIR_NNP ,_, I_PRP HAVE_VBP the_DT honour_NN to_TO submit_VB the_DT annual_JJ report_NN on_IN the_DT work_NN done_VBN in_IN the_DT Malaria_NNP Bureau_NNP during_IN the_DT year_NN 1915_CD ._.
+I_PRP have_VBP the_DT honour_NN to_TO be_VB ,_, SIR_NNP ,_, Your_NNP most_RBS obedient_JJ Servant_NNP ,_, H._NNP HENDLEY_NNP ,_, M.D._NNP ,_, COL._NNP ,_, I.M.S._NNP ,_, Chief_NNP Malaria_NNP Medical_NNP Officer_NNP ,_, Punjab_NNP ._.
+6_CD IGCH-420-17-5-16-SGPP_JJ Lahore_NNP ._.
+?_. REPORT_NNP ON_NNP MALARIA_NNP IN_NNP THE_NNP PUNJAB_NNP DURING_NNP THE_NNP YEAR_NN 1915_CD ._.
+I.-GENERAL_JJ CONSIDERATION_NNP ._.
+During_IN the_DT last_JJ forty-eight_JJ years_NNS ,_, since_IN 1867_CD ,_, the_DT average_JJ annual_JJ mortality_NN under_IN the_DT heading_NN of_IN a_DT very_RB vague_JJ term_NN ``_`` Fevers_NNP ``_`` has_VBZ been_VBN about_IN 350,000_CD ._.
+During_IN the_DT year_NN under_IN review_NN the_DT total_JJ fever_NN mortality_NN was_VBD 284,784_CD as_IN compared_VBN with_IN 345,471_CD in_IN 1914_CD and_CC 331,698_CD in_IN 1913_CD ._.
+The_DT annual_JJ mortality_NN from_IN fevers_NNS shown_VBN in_IN Chart_NNP I_PRP of_IN Appendix_NNP A_NNP shows_VBZ a_DT distinct_JJ fall_NN as_IN compared_VBN with_IN that_DT of_IN 1914_CD ._.
+The_DT chart_NN also_RB incidentally_RB brings_VBZ out_RP clearly_RB the_DT relationship_NN of_IN fever_NN mortality_NN to_TO the_DT total_JJ mortality_NN ._.
+Chart_NNP II_NNP of_IN Appendix_NNP A_NNP shows_VBZ the_DT autumnal_JJ (_( October_NNP and_CC Novem-_NNP ber_NNP )_) fever_VBP mortality_NN from_IN 1867_CD up_IN to_TO the_DT year_NN under_IN review_NN ._.
+The_DT fever_NN mortality_NN during_IN the_DT months_NNS of_IN October_NNP and_CC November_NNP for_IN 1915_CD was_VBD markedly_RB less_JJR than_IN that_DT of_IN 1914_CD ,_, the_DT figures_NNS for_IN the_DT former_JJ being_VBG 45,686_CD against_IN 70,389_CD in_IN the_DT previous_JJ year_NN and_CC 73,334_CD in_IN the_DT year_NN 1913_CD ._.
+In_IN Chart_NNP III_NNP of_IN Appendix_NNP A_NNP a_DT comparison_NN is_VBZ made_VBN of_IN the_DT monthly_JJ fever_NN mortality_NN in_IN the_DT Punjab_NNP during_IN 1914_CD and_CC 1915_CD ._.
+Vital_JJ statistics_NNS ,_, depending_VBG as_IN they_PRP do_VBP upon_IN the_DT village_NN Chaukidar_NNP ,_, are_VBP very_RB unreliable_JJ ._.
+For_IN scientific_JJ purposes_NNS some_DT more_RBR satisfactory_JJ means_NNS must_MD be_VB devised_VBN for_IN gauging_VBG the_DT pre-_JJ valence_NN of_IN malaria_NN ,_, in_IN order_NN that_IN some_DT measures_NNS of_IN reliance_NN may_MD be_VB placed_VBN upon_IN the_DT data_NN provided_VBD ._.
+With_IN this_DT in_IN view_NN a_DT biennial_JJ splenic_JJ census_NN in_IN the_DT Punjab_NNP was_VBD introduced_VBN ._.
+The_DT record_NN of_IN a_DT spleen_JJ census_NN before_IN and_CC after_IN the_DT fever_NN season_NN for_IN a_DT large_JJ number_NN of_IN years_NNS should_MD be_VB of_IN immense_JJ value_NN ;_: changes_NNS and_CC oscillations_NNS ,_, whether_IN due_JJ to_TO natural_JJ causes_NNS or_CC to_TO artificial_JJ changes_NNS in_IN a_DT locality_NN or_CC to_TO anti-_JJ malarial_JJ measures_NNS can_MD be_VB thus_RB carefully_RB watched_VBN and_CC registered_VBN ._.
+Moreover_RB ,_, the_DT splenic_JJ index_NN ,_, unlike_IN the_DT parasite_NN rate_NN ,_, is_VBZ also_RB least_RBS liable_JJ to_TO seasonal_JJ fluctua-_JJ tions_NNS ._.
+It_PRP is_VBZ thus_RB a_DT very_RB excellent_JJ means_NNS of_IN judging_NN of_IN the_DT extent_NN to_TO which_WDT mala-_JJ ria_NN prevails_VBZ in_IN a_DT locality_NN ._.
+II.-DISTRIBUTION_NN OF_NNP Endemic_NNP MALARIA_NNP ._.
+The_DT year_NN under_IN review_NN was_VBD unattended_VBN by_IN any_DT epidemic_NN of_IN malaria_NN ,_, and_CC again_RB afforded_VBD a_DT favourable_JJ opportunity_NN for_IN the_DT study_NN of_IN the_DT endemicity_NN of_IN the_DT disease_NN in_IN the_DT Province_NNP ._.
+Since_IN the_DT epidemic_NN of_IN 1908_CD there_EX has_VBZ been_VBN no-_JJ thing_NN in_IN the_DT nature_NN of_IN an_DT epidemic_JJ ,_, so_IN that_IN where_WRB the_DT spleen_JJ rate_NN tends_NNS to_TO keep_VB high_JJ ,_, the_DT regular_JJ endemic_JJ centres_NNS become_VBP very_RB perceptible_JJ ._.
+The_DT fever_NN mortality_NN for_IN the_DT Province_NNP as_IN a_DT whole_NN was_VBD 284,784_CD equivalent_NN to_TO a_DT fever_JJ death-rate_NN of_IN 14.72_CD per_IN mille_NN of_IN population_NN as_IN compared_VBN with_IN 17.86_CD per_IN mille_NN in_IN the_DT previous_JJ year_NN and_CC 17.15_CD per_IN mille_NN in_IN 1913_CD and_CC 1422_CD in_IN 1912_CD ._.
+The_DT extent_NN to_TO which_WDT the_DT usual_JJ annual_JJ variations_NNS occur_VBP in_IN ``_`` fever_JJ ``_`` mortality_NN in_IN the_DT Punjab_NNP is_VBZ shown_VBN in_IN the_DT table_NN given_VBN below_IN ._.
+:_: -_: Table_NN I_PRP ._.
+To_TO show_VB the_DT fever_NN mortality_NN and_CC fever_VB death-rate_JJ per_IN mille_NN in_IN the_DT Punjab_NNP during_IN the_DT year_NN 1908-1915_RB ._.
+1908_CD 1909_CD 1910_CD 1911_CD 1912_CD 1913_CD 1914_CD 1915_CD Fever_NNP deaths_NNS ._.
+Death_NNP ratio_NN ._.
+Fever_NNP deaths_NNS ._.
+Death_NNP ratio_NN ._.
+Fever_NNP deaths_NNS ._.
+Death_NNP ratio_NN ._.
+Fever_NNP deaths_NNS ._.
+Death_NNP ratio_NN ._.
+Fever_NNP deaths_NNS ._.
+Death_NNP ratio_NN ._.
+Fever_NNP deaths_NNS Death_NNP ratio_NN ._.
+Fever_NNP deaths_NNS Death_NNP ratio_NN ._.
+Fever_NNP deaths_NNS ._.
+Death_NNP ratio_NN ._.
+697.058_CD 34.66_CD 410,273_CD 20.40_CD 343,925_CD 17.10_CD 302,417_CD 15.33_CD 275,040_CD 14.22_CD 331,698_CD 17.15_CD 345,471_CD 17.86_CD 284,784_CD 14.72_CD ?_. 2_CD From_IN this_DT the_DT spontaneous_JJ fluctuations_NNS to_TO which_WDT the_DT fever_NN mortality_NN is_VBZ subject_JJ in_IN the_DT Punjab_NNP can_MD be_VB easily_RB judged_VBN ._.
+The_DT statement_NN also_RB shows_VBZ that_IN fever_NN in_IN the_DT province_NN underwent_VBD a_DT steady_JJ decrease_NN from_IN 1908_CD to_TO 1912_CD ;_: but_CC was_VBD followed_VBN by_IN a_DT slight_JJ rise_NN in_IN mortality_NN during_IN 1913_CD and_CC 1914_CD ,_, which_WDT ,_, again_RB subsided_VBD very_RB definitely_RB during_IN the_DT year_NN under_IN review_NN when_WRB the_DT fever_NN mortality_NN rate_NN was_VBD practically_RB half_JJ that_IN of_IN 1908_CD ,_, the_DT year_NN of_IN the_DT last_JJ great_JJ epidemic_JJ ._.
+The_DT distribution_NN of_IN fever_NN mortality_NN in_IN different_JJ areas_NNS with_IN the_DT monthly_JJ fever_NN mortality_NN for_IN each_DT district_NN of_IN the_DT province_NN is_VBZ given_VBN in_IN the_DT table_NN in_IN Appen-_NNP dix_NN B_NNP ._.
+A_DT glance_NN at_IN the_DT table_NN in_IN Appendix_NNP B_NNP shows_VBZ that_IN the_DT districts_NNS with_IN a_DT high_JJ fever_NN mortality_NN are_VBP Muzaffargarh_NNP with_IN 20.34_CD ,_, Mianwali_NNP 20.10_CD ,_, Amritsar_NNP 18.18_CD ,_, Attock_NNP 18.13_CD ,_, Rawalpindi_NNP ,_, Kangra_NNP ,_, Multan_NNP ,_, Hoshiarpur_NNP and_CC Gujranwala_NNP 17.95_CD ,_, 17.41_CD ,_, 17.31_CD ,_, 16_CD 93_CD and_CC 16_CD 89_CD per_IN mille_NN ._.
+The_DT districts_NNS show-_JJ ing_VBG the_DT lowest_JJS fever_NN death-rate_NN per_IN mille_NN were_VBD Simla_NNP (_( 7.69_CD ,_, Gurgaon_NNP (_( 9.49_CD )_) ,_, Gujrat_NNP (_( 10.76_CD )_) and_CC Shahpur_NNP (_( 1095_CD ._. )_)
+A_DT reference_NN to_TO the_DT fever_NN mortality_NN records_NNS of_IN the_DT previous_JJ year_NN shows_VBZ that_IN the_DT fever_NN mortality_NN ratio_NN per_IN mille_NN was_VBD highest_JJS in_IN Muzaffargarh_NNP with_IN 25.45_CD ,_, Karnal_NNP 23.07_CD ,_, Gujranwala_NNP 22.17_CD ,_, Attock_NNP 21.56_CD ._.
+Rawalpindi_NNP 21.03_CD ,_, Ambala_NNP 20.12_CD ,_, Multan_NNP 19.78_CD and_CC Rohtak_NNP 19.40_CD ;_: and_CC the_DT lowest_JJS in_IN Simla_NNP 8.46_CD ,_, Ferozepore_RB 12.73_CD ,_, Ludhiana_NNP 12_CD 95_CD and_CC Gurdaspur_NNP 14.41_CD ._.
+The_DT fever_NN figures_NNS in_IN 1913_CD were_VBD highest_JJS in_IN Karnal_NNP 24.80_CD ,_, Ambala_NNP 24.43_CD ,_, Rawalpindi_NNP 23.38_CD ,_, Muzaffargarh_NNP 21.95_CD ,_, Mianwali_NNP 20.68_CD and_CC Attock_NNP 19.86_CD ._.
+From_IN a_DT comparison_NN of_IN the_DT fever_NN figures_NNS for_IN the_DT last_JJ three_CD years-years_NNS practically_RB free_VBP from_IN a_DT malaria_JJ epidemic-it_NN will_MD be_VB seen_VBN that_IN the_DT fever-rate_NN has_VBZ been_VBN constantly_RB high_JJ in_IN Muzaffargarh_NNP ,_, Rawalpindi_NNP ,_, Attock_NNP ,_, Mianwali_NNP ,_, Multan_NNP and_CC Gujranwala_NNP ._.
+Although_IN it_PRP is_VBZ not_RB fair_JJ to_TO draw_VB any_DT hasty_JJ conclusions_NNS after_IN studying_VBG the_DT fever_NN mortality_NN figures_NNS of_IN the_DT districts_NNS of_IN the_DT Punjab_NNP for_IN only_RB the_DT last_JJ three_CD years_NNS ,_, one_CD must_MD ,_, it_PRP is_VBZ thought_VBN ,_, conclude_VBP that_IN the_DT districts_NNS enumerated_VBN above_IN include_VBP some_DT endemic_JJ centres_NNS ._.
+In_IN map_NN I_PRP given_VBN in_IN Appendix_NNP C_NNP a_DT comparison_NN is_VBZ made_VBN of_IN the_DT fever_JJ death-_JJ rate_NN per_IN mille_NN for_IN 1915_CD with_IN that_DT of_IN 1914_CD for_IN all_DT districts_NNS ._.
+A_DT study_NN of_IN Chart_NNP III_NNP shows_VBZ that_IN there_EX was_VBD a_DT very_RB distinct_JJ fall_NN in_IN fever_JJ mortality_NN from_IN October_NNP 1914_CD to_TO February_NNP 1915_CD ;_: thereafter_RB there_EX was_VBD a_DT slight_JJ rise_NN in_IN March_NNP 1915_CD with_IN a_DT similar_JJ fall_NN in_IN April_NNP followed_VBN by_IN a_DT very_RB distinct_JJ and_CC abrupt_JJ rise_NN in_IN May_NNP ._.
+After_IN May_NNP there_EX was_VBD a_DT steady_JJ fall_NN and_CC a_DT decrease_NN in_IN mor-_JJ tality_NN up_RB to_TO September_NNP ,_, followed_VBD in_IN its_PRP$ turn_NN by_IN a_DT constant_JJ rise_NN to_TO the_DT end_NN of_IN December_NNP ,_, which_WDT became_VBD more_RBR marked_VBN in_IN the_DT latter_JJ month_NN ,_, and_CC the_DT fever_NN mortality_NN reached_VBD its_PRP$ highest_JJS pitch_NN in_IN December_NNP ._.
+The_DT chief_JJ feature_NN of_IN the_DT chart_NN is_VBZ the_DT distinct_JJ rise_NN in_IN fever_NN mortality_NN in_IN the_DT autumnal_JJ months-October_NN and_CC November-and_NNP that_IN of_IN December_NNP ,_, which_WDT shows_VBZ that_IN the_DT bad_JJ fever_JJ months_NNS were_VBD October_NNP ,_, November_NNP and_CC December_NNP instead_RB of_IN the_DT usual_JJ autumnal_JJ months-_JJ September_NNP ,_, October_NNP and_CC November_NNP ._.
+This_DT may_MD be_VB attributed_VBN to_TO the_DT fact_NN that_IN the_DT monsoon_NN was_VBD scanty_JJ and_CC ended_VBD early_RB ,_, and_CC that_IN the_DT effects_NNS of_IN the_DT coldest_JJS months_NNS of_IN the_DT year_NN were_VBD later_RB in_IN affecting_VBG the_DT health_NN of_IN the_DT people_NNS ._.
+The_DT short_JJ but_CC distinct_JJ rise_NN in_IN May_NNP ,_, which_WDT was_VBD also_RB to_TO be_VB noticed_VBN in_IN the_DT charts_NNS of_IN 1913_CD and_CC 1914_CD may_MD be_VB due_JJ to_TO :_: -_: (_( 1_CD )_) a_DT slight_JJ recrudescence_NN of_IN malaria_NN every_DT year_NN at_IN the_DT end_NN of_IN April_NNP and_CC in_IN the_DT month_NN of_IN May_NNP ._.
+(_( 2_CD )_) some_DT of_IN the_DT plague_JJ deaths_NNS were_VBD no_DT doubt_NN returned_VBD as_IN fever_NN deaths_NNS by_IN the_DT chaukidars_NNS ;_: the_DT plague_NN mortality_NN was_VBD at_IN its_PRP$ highest_JJS in_IN May_NNP ._.
+Maps_NNP No_NNP ._.
+II_NNP ,_, III_NNP ,_, IV_NNP and_CC V_NNP are_VBP appended_VBN in_IN Appendix_NNP C_NNP to_TO show_VB the_DT spleen-rates_NNS of_IN different_JJ towns_NNS taken_VBN in_IN June_NNP and_CC November_NNP of_IN 1914_CD and_CC 1915_CD ,_, i.e._FW ,_, before_IN and_CC after_IN the_DT fever_NN season_NN ._.
+3_CD A_DT scrutiny_NN of_IN these_DT spleen_JJ census_NN maps_NNS of_IN 1914_CD and_CC 1915_CD shows_NNS that_IN the_DT following_JJ towns_NNS are_VBP highly_RB endemic_JJ or_CC hyper-endemic_JJ in_IN terms_NNS of_IN relative_JJ intensity_NN of_IN malaria_NN :_: -_: Table_NN II_NNP ._.
+Highly_NNP endemic_JJ areas_NNS ,_, with_IN spleen_JJ index_NN approximately_RB between_IN 25_CD and_CC 50_CD percent_NN ._.
+No_DT ._.
+District_NNP ._.
+Town_NNP ._.
+Spleen-rate_NNP ,_, June_NNP 1914_CD Spleen-_NNP rate_NN ,_, November_NNP 1914_CD ._.
+Spleen-_JJ rate_NN ,_, June_NNP 1915_CD ._.
+Spleen-_JJ rate_NN ,_, November_NNP 1915_CD ._.
+1_CD Hissar_NNP Ambala_NNP 1_CD ._.
+Fetahabad_NNP 16.6_CD 50.0_CD 43.4_CD 27.03_CD 2_CD ._.
+Hissar_NNP 20.0_CD 32.4_CD 20.0_CD 5.6_CD 3_CD ._.
+Sirsa_NNP 30.0_CD 17.0_CD 27.6_CD 19.1_CD 2_CD Rohtak_NNP 1_CD ._.
+Gohana_NNP 0.0_CD 52.9_CD 27.02_CD 31.4_CD 3_CD Gurgaon_NNP 1_CD ._.
+Nuh_NNP 46.0_CD 32.7_CD 35.8_CD 34.0_CD 2_CD ._.
+Sohna_NNP 29.0_CD 23.2_CD 20.3_CD 12.8_CD 3_CD ._.
+Ballabgarh_NNP 56.2_CD 44.2_CD 34.4_CD 15.0_CD 4_CD Karnal_NNP 1_CD ._.
+Kaithal_NNP 25.7_CD 32.7_CD 42.1_CD 11.5_CD 2_CD ._.
+Ladwa_NNP 44.2_CD 43.1_CD 46.1_CD 13.5_CD 3_CD ._.
+Gubla_NNP 20.0_CD 28.5_CD 22.2_CD 17.3_CD 5_CD Ambala_NNP 1_CD ._.
+Sadhaura_NNP 14.1_CD 52.0_CD 35.8_CD 14.5_CD 2_CD ._.
+Manimajra_NNP 28.0_CD 27.3_CD 20.6_CD 19.4_CD 6_CD Kangra_NNP Jullundur_NNP 1_CD ._.
+Dharmsala_NNP 31.1_CD 37.6_CD 42.4_CD 5.5_CD 2_CD ._.
+Hamirpur_NNP 32.1_CD 49.2_CD 21.7_CD 22.4_CD 3_CD ._.
+Banjar_NNP 45.4_CD 48.07_CD 25.0_CD 14.0_CD 7_CD Hoshiarpur_NNP 1_CD ._.
+Gagret_NNP 28.5_CD 57.1_CD 20.0_CD 36.6_CD 2_CD ._.
+Shamchaurasi_NNP 60.8_CD 60.1_CD 43.7_CD 41.4_CD 8_CD Jullundur_NNP 1_CD ._.
+Shahkot_NNP 38.4_CD 56.1_CD 42.8_CD 45.9_CD 9_CD Ferozepore_RB 1_CD ._.
+Fazilka_NNP 4.3_CD 42.5_CD 47.6_CD 0.0_CD 10_CD Lahore_NNP Lahore_NNP 1_CD ._.
+Shahdara_NNP 39.9_CD 35.6_CD 36.2_CD 27.8_CD 2_CD ._.
+Khudian_JJ 17.6_CD 40.0_CD 22.5_CD 54.4_CD 11_CD Amritsar_NNP 1_CD ._.
+Attari_NNP 23.3_CD 43.4_CD 40.0_CD 25.0_CD 12_CD Gurdarpur_NNP 1_CD ._.
+Pathankot_NNP 45.0_CD 42.1_CD 35.4_CD 43.3_CD 2_CD ._.
+Dunera_NNP 33.3_CD 0.0_CD 37.5_CD 71.4_CD 3_CD ._.
+Narot_NNP 19.4_CD 54.1_CD 34.2_CD 48.8_CD 13_CD Sialkot_NNP 1_CD ._.
+Phukalian_JJ 19.7_CD 53.2_CD 30.8_CD 44.6_CD 14_CD Gujrnwala_NNP 1_CD ._.
+Akalgarh_NNP 26.7_CD 32.4_CD 25.3_CD 8.3_CD 2_CD ._.
+Sangla_NNP 23.4_CD 37.3_CD 32.4_CD 25.5_CD 15_CD Shahpur_NNP Rawalpindi_NNP 1_CD ._.
+Bhera_NNP 25.2_CD 54.8_CD 43.7_CD 39.1_CD 2_CD ._.
+Sahiwal_NNP 43.0_CD 34.3_CD 3.1_CD 12.2_CD 3_CD ._.
+Nurpur_NNP 22.8_CD 22.1_CD 17.2_CD 47.7_CD 16_CD Jhelum_NNP 1_CD ._.
+Chakwal_NNP 28.8_CD 33.1_CD 25.5_CD 5.3_CD 2_CD ._.
+Kalar_NNP Kahar_NNP 36.0_CD 87.5_CD 100.0_CD 53.8_CD 17_CD Campbellpur_NNP 1_CD ._.
+Hasanabdal_NNP 71.7_CD 58.4_CD 32.0_CD 33.3_CD 18_CD Mianwali_NNP 1_CD ._.
+Mianwali_NNP 21.4_CD 56.7_CD 25.0_CD 17.41_CD 2_CD ._.
+Bhakkar_NNP 24.7_CD 23.2_CD 63.8_CD 47.8_CD 19_CD Montgomery_NNP Multan_NNP 1_CD ._.
+Boyleganj_NNP 0.0_CD 48.0_CD 25.0_CD 32.0_CD 20_CD Jhang_NNP 1_CD ._.
+Atharanhazari_NNP 30.5_CD 54.7_CD 41.6_CD 15.2_CD 2_CD ._.
+Bhowana_NNP 19.0_CD 24.0_CD 29.4_CD 33.3_CD 21_CD Multan_NNP 1_CD ._.
+Khanewal_NNP 15.0_CD 50.0_CD 46.8_CD 38.5_CD 2_CD ._.
+Jalalpur_NNP 27.2_CD 47.7_CD 50.0_CD 47.8_CD 3_CD ._.
+Kabirwala_NNP 50.0_CD 35.5_CD 26.4_CD 42.5_CD 22_CD Muzaffargarh_NNP 1_CD ._.
+Kot_NNP Adu_NNP 66.0_CD 50.4_CD 36.4_CD 34.3_CD 2_CD ._.
+Sinanwan_NNP 33.3_CD 75.8_CD 60.6_CD 36.6_CD 23_CD D._NNP G._NNP Khan_NNP 1_CD ._.
+Mithankot_NNP 59.6_CD 38.8_CD 36.0_CD 44.0_CD Table_JJ III_NNP ._.
+Hyper_NNP endemic_JJ areas_NNS ,_, with_IN spleen_JJ index_NN above_IN 50_CD percent_NN ._.
+No_DT ._.
+District_NNP ._.
+Town_NNP ._.
+Spleen-rate_NN in_IN June_NNP 1914_CD ._.
+Spleen-rate_NN in_IN November_NNP 1914_CD ._.
+Spleen-rate_NN in_IN June_NNP 1915_CD ._.
+Spleen-rate_NN in_IN November_NNP 1915_CD ._.
+1_CD Karnal_NNP 1_CD ._.
+Pehowa_NNP 2_CD ._.
+Thanesar_NNP 56.0_CD 65.0_CD 58.2_CD 36.8_CD 59.0_CD 71.4_CD 71.4_CD 66.0_CD 2_CD Kangra_NNP 1_CD ._.
+Dera_NNP Gopipur_NNP 2_CD ._.
+Jawalamukhi_NNP 0.0_CD 40.7_CD 65.4_CD 80.7_CD 33.6_CD 77.7_CD 71.6_CD 82.1_CD 3_CD Hoshiarpur_NNP 1_CD ._.
+Miani_NNP 84.2_CD 76.4_CD 68.4_CD 42.1_CD 4_CD Ferozepore_RB 1_CD ._.
+Jalalabad_NNP 15.0_CD 66.6_CD 57.5_CD 64.4_CD 5_CD Gujranwala_NNP 1_CD ._.
+Eminabad_RB 2_CD ._.
+Butala_NNP 47.7_CD 97.1_CD 94.6_CD 80.1_CD 47.8_CD 54.5_CD 59.2_CD 42.8_CD 6_CD Shahpur_NNP 1_CD ._.
+Girot_NNP 48.5_CD 58.4_CD 61.6_CD 50.7_CD 7_CD Montgomery_NNP 1_CD ._.
+Montgomery_NNP 0.0_CD 44.9_CD 62.7_CD 70.1_CD 8_CD Lyallpur_NNP 1_CD ._.
+Jaranwala_NNP 63.9_CD 61.2_CD 57.4_CD 34.4_CD 9_CD Jhang_NNP 1_CD ._.
+Bhamb_NNP 85.0_CD 80.7_CD 79.1_CD 37.8_CD 10_CD Muzaffargarh_NNP 1_CD ._.
+Muzaffargarh_NNP 2_CD ._.
+Rangpur_NNP 67.0_CD 61.6_CD 59.8_CD 32.1_CD 79.5_CD 94.04_CD 55.5_CD 61.1_CD The_DT years_NNS 1914_CD and_CC 1915_CD were_VBD practically_RB free_JJ from_IN malaria_NN ,_, but_CC the_DT towns_NNS enumerated_VBN above_IN show_NN a_DT high_JJ spleen-rate_JJ even_RB in_IN these_DT non-epidemic_JJ years_NNS ._.
+No_DT opinion_NN can_MD be_VB formed_VBN at_IN this_DT stage_NN as_IN to_TO whether_IN all_PDT these_DT places_NNS are_VBP definite_JJ endemic_JJ centres_NNS or_CC not_RB ,_, as_IN other_JJ factors-newly_JJ introduced-_NN may_MD influence_VB the_DT spleen-rate_NN ._.
+As_IN ,_, for_IN instance_NN ,_, the_DT spleen-rate_NN of_IN Montgomery_NNP in_IN September_NNP 1913_CD was_VBD 4.16_CD percent._NN ,_, and_CC in_IN November_NNP 1914_CD it_PRP went_VBD so_RB high_JJ as_IN 44.9_CD percent._NNS ,_, while_IN in_IN June_NNP and_CC November_NNP 1915_CD it_PRP was_VBD still_RB higher_JJR ,_, so_RB much_RB so_IN that_IN it_PRP reached_VBD to_TO 62.7_CD and_CC 70.l_CD percent._NN ,_, respectively_RB ._.
+It_PRP was_VBD found_VBN out_RP that_IN the_DT severe_JJ epidemic_NN coincided_VBD with_IN the_DT bringing_NN of_IN the_DT Lower_NNP Bari_NNP Doab_NNP Canal_NNP into_IN this_DT town_NN ._.
+The_DT Kalar_NNP soil_NN of_IN Montgomery_NNP is_VBZ more_RBR or_CC less_RBR impervious_JJ ,_, so_IN you_PRP get_VBP conditions_NNS connected_VBN with_IN irrigation_NN arising_VBG quickly_RB similar_JJ to_TO those_DT due_JJ to_TO local_JJ flooding_NN ._.
+III.-EPIDEMIC_JJ MALARIA_NNP ._.
+Fortunately_RB there_EX has_VBZ been_VBN no_DT epidemic_NN of_IN malaria_NN in_IN the_DT present_JJ year_NN except_IN in_IN a_DT few_JJ isolated_JJ places_NNS and_CC areas_NNS ._.
+By_IN consulting_VBG the_DT two_CD following_VBG factors_NNS the_DT virulence_NN of_IN this_DT disease_NN in_IN certain_JJ isolated_JJ areas_NNS is_VBZ made_VBN manifest_NN :_: -_: (_( 1_CD )_) Epidemic_NNP figure_NN for_IN the_DT different_JJ towns_NNS and_CC rural_JJ circles_NNS of_IN the_DT Province_NNP ._.
+(_( 2_CD )_) Comparison_NNP of_IN spleen_JJ census_NN figures_NNS for_IN June_NNP and_CC November_NNP 1915_CD (_( any_DT distinct_JJ increase_NN in_IN the_DT spleen-rate_NN of_IN the_DT latter_NN over_IN the_DT former_JJ compared_VBN with_IN previous_JJ years_NNS is_VBZ indicative_JJ of_IN comparative_JJ virulence_NN )_) ._.
+5_CD ?_. A_DT slight_JJ change_NN has_VBZ seemed_VBN to_TO be_VB necessary_JJ for_IN working_VBG out_RP the_DT epidemic_JJ figure_NN this_DT year_NN ._.
+The_DT epidemic_JJ figure_NN was_VBD obtained_VBN by_IN dividing_VBG the_DT fever_NN mortality_NN figures_NNS for_IN December_NNP by_IN the_DT average_JJ monthly_JJ fever_NN mortality_NN for_IN February_NNP ,_, March_NNP and_CC April_NNP ._.
+This_DT was_VBD done_VBN as_IN the_DT fever_NN mortality_NN exhibited_VBD its_PRP$ greatest_JJS intensity_NN in_IN December_NNP and_CC was_VBD at_IN its_PRP$ ebb_NN in_IN the_DT months_NNS of_IN February_NNP ,_, March_NNP and_CC April_NNP ._.
+In_IN many_JJ districts_NNS the_DT epidemic_JJ figure_NN was_VBD not_RB higher_JJR than_IN 1_CD ,_, rather_RB less_RBR in_IN many_JJ places_NNS ,_, showing_VBG that_IN the_DT number_NN of_IN deaths_NNS in_IN December_NNP did_VBD not_RB exceed_VB the_DT normal_JJ ._.
+The_DT epidemic_JJ figure_NN up_RB to_TO about_IN 5_CD may_MD be_VB taken_VBN to_TO indicate_VB an_DT increased_JJ mortality_NN due_JJ to_TO autumnal_JJ recrudescence_NN ._.
+From_IN the_DT persual_NN of_IN the_DT epidemic_JJ figures_NNS for_IN the_DT Province_NNP it_PRP is_VBZ concluded_VBN that_IN the_DT autumnal_JJ recrudescence_NN of_IN malaria_NN was_VBD less_RBR conspicuous_JJ than_IN usual_JJ for_IN the_DT greater_JJR part_NN of_IN the_DT Punjab_NNP ._.
+The_DT few_JJ towns_NNS and_CC rural_JJ circles_NNS where_WRB the_DT epidemic_JJ figure_NN was_VBD about_RB 5_CD or_CC above_IN it_PRP are_VBP given_VBN below_IN :_: -_: Table_NN IV_NNP ._.
+Showing_VBG towns_NNS and_CC rural_JJ circles_NNS with_IN epidemic_JJ figure_NN about_IN 5_CD or_CC above_IN it_PRP ._.
+No_DT ._.
+District_NNP ._.
+Town_NNP ._.
+Epidemic_JJ figure_NN ._.
+REMARKS_NNP ._.
+1_CD Hissar_NNP Fatehabad_NNP 10.0_CD 1_CD ._.
+Firozpur-Jhirka_JJ 15.0_CD Jhir_NNP stream_NN from_IN Mewat_NNP Hills_NNP joins_VBZ Landoha_NNP stream_NN near_IN Firozpur_NNP ._.
+2_CD ._.
+Hodal_$ 20.0_CD Agra_NNP Canal_NNP ._.
+2_CD Gurgaon_NNP 3_CD ._.
+Faridabad_NNP 9.9_CD River_NNP Jumna_NNP ._.
+4_CD ._.
+Shahjahanpur_NNP P._NNP S._NNP 10.6_CD 5_CD ._.
+Nuh_NNP P._NNP S._NNP 5.8_CD Near_NNP big_JJ ._.
+Chadaini_NNP Jhil_NNP to_TO the_DT North-West_NNP at_IN the_DT foot_NN of_IN Alvar_NNP Hills_NNP ._.
+3_CD Ambala_NNP Ropar_NNP 10.0_CD Satluj_NNP River_NNP ._.
+4_CD Ludhiana_NNP Raikot_NNP 12.0_CD Bhatinda_NNP Branch_NNP of_IN Sirhind_NNP ._.
+Canal_NNP ._.
+5_CD Gurdaspur_NNP Rania_NNP P._NNP S._NNP 20.6_CD Upper_NNP Bari_NNP Doab_NNP Main_NNP Canal_NNP ._.
+6_CD Sialkot_NNP 1_CD ._.
+Zafarwal_NNP 10.0_CD 2_CD ._.
+Kalaswala_NNP 6.0_CD 7_CD Montgomery_NNP Montgomery_NNP 4.8_CD Lower_NNP Bari_NNP Doab_NNP Canal_NNP ._.
+8_CD Shahpur_NNP Shahpur_NNP 6.9_CD Jhelum_NNP River_NNP ._.
+NOTE.-P._JJ S.-Police_NNP Station_NNP including_VBG rural_JJ circle_NN ._.
+A_DT scrutiny_NN of_IN the_DT spleen_JJ census_NN maps_NNS IV_NNP &_CC V_NNP of_IN Appendix_NNP C_NNP for_IN 1915-_CD on_IN which_WDT is_VBZ based_VBN the_DT following_VBG table-shows_NNS that_IN most_JJS of_IN the_DT places_NNS which_WDT suffered_VBD in_IN a_DT marked_JJ manner_NN were_VBD along_RB river_JJ banks_NNS ,_, visited_VBN by_IN local_JJ inundations_NNS though_IN often_RB of_IN no_DT great_JJ importance_NN ._.
+The_DT immediate_JJ effect_NN of_IN floods_NNS is_VBZ to_TO check_VB the_DT development_NN of_IN malaria_NNS on_IN account_NN of_IN the_DT destructive_JJ effect_NN of_IN inundation_NN on_IN the_DT breeding_NN places_NNS of_IN anopheles_NNS ._.
+It_PRP is_VBZ after_IN the_DT waters_NNS have_VBP subsided_VBN and_CC stationary_JJ collections_NNS of_IN water_NN are_VBP left_VBN in_IN ditches_NNS and_CC on_IN uneven_JJ land_NN that_IN an_DT epidemic_JJ develops_NN ._.
+It_PRP is_VBZ in_IN these_DT temporary_JJ breeding_NN places_NNS that_IN the_DT natural_JJ enemies_NNS of_IN the_DT mosquito_NN larv_NN are_VBP rarely_RB to_TO be_VB found_VBN ;_: that_IN the_DT anopheles_NNS larv_VBP have_VBP a_DT free_JJ field_NN to_TO develop_VB in_IN during_IN the_DT fever_JJ months_NNS ._.
+?_. 6_CD Table_JJ V._NNP Table_NNP showing_VBG the_DT places_NNS where_WRB the_DT spleen-rate_NN rose_VBD after_IN the_DT fever_NN season_NN of_IN 1915_CD ._.
+District_NNP ._.
+Town_NNP ._.
+Spleen_JJ rate_NN ,_, June_NNP 1915_CD ._.
+Spleen_JJ rate_NN ,_, November_NNP 1915_CD ._.
+REMARKS_NNP ._.
+(_( River-side_NNP or_CC not_RB )_) Kangra_NNP 1_CD ._.
+Kangra_NNP 3.8_CD 24.0_CD A_NNP hill_NN torrent_NN runs_VBZ along_RB ._.
+2_CD ._.
+Nurpur_NNP 18.3_CD 50.7_CD A_DT hill-torrent_JJ runs_NN at_IN foot_NN ._.
+3_CD ._.
+Palampur_NNP 5.0_CD 34.8_CD Ditto_NNP ditto_NN ._.
+4_CD ._.
+Dera_NNP Gopipur_NNP 65.4_CD 80.7_CD On_IN the_DT bank_NN of_IN River_NNP Beas_NNP ._.
+Hoshiarpur_$ 1_CD ._.
+Mahilpur_NNP 2.1_CD 16.1_CD A_NNP hill_NN torrent_NN runs_VBZ along_RB ._.
+2_CD ._.
+Gagret_NNP 20.0_CD 36.4_CD Soan_NNP ,_, a_DT hill_JJ torrent_NN of_IN great_JJ magnitude_NN ._.
+Jullundur_NNP Adampur_NNP 22.3_CD 74.4_CD A_NNP hill_NN torrent_NN runs_NNS close_RB by_IN ._.
+Lahore_RB 1_CD ._.
+Khudian_JJ 22.5_CD 54.4_CD Katora_NNP Canal_NNP from_IN Satluj_NNP ._.
+2_CD ._.
+Alirazabad_NNP 1.3_CD 14.9_CD Ravi_NNP ._.
+Gurdaspur_NNP Dunera_NNP 87.5_CD 71.4_CD Sialkot_NNP Phukalian_JJ 30.8_CD 44.6_CD Chenab_NNP River_NNP ._.
+Gujrat_NNP Kotla_NNP 8.7_CD 18.6_CD Bahadur_NNP Nalla_NNP (_( a_DT tributary_NN of_IN Bhimber_NNP Nalla_NNP )_) ._.
+Shahpur_NNP 1_CD ._.
+Bhera_NNP 4.3_CD 39.1_CD Jhelum_NNP River_NNP ._.
+2_CD ._.
+Girot_NNP 38.3_CD 50.7_CD Ditto_NNP ._.
+3_CD ._.
+Nurpur_NNP 17.2_CD 47.7_CD Montgomery_NNP Montgomery_NNP 62.7_CD 70.1_CD Lower_NNP Bari_NNP Doab_NNP Main_NNP Canal_NNP ._.
+Multan_NNP Kabirwala_NNP 26.4_CD 42.5_CD A_NNP torrent_NN of_IN River_NNP Ravi_NNP ._.
+Dera_NNP Ghazi_NNP Khan_NNP Mithankot_NNP 36.0_CD 44.0_CD Junction_NN of_IN 5_CD Punjab_NNP Rivers_NNPS ._.
+Special_JJ note_NN on_IN Montgomery_NNP ._.
+The_DT spleen-rate_NN of_IN Montgomery_NNP has_VBZ risen_VBN as_RB high_JJ as_IN from_IN 4.16_CD per_IN cent_NN ._.
+in_IN September_NNP 1913_CD to_TO 70.l_CD per_IN cent_NN ,_, in_IN November_NNP 1915_CD and_CC 77.27_CD per_IN cent_NN ,_, in_IN the_DT first_JJ part_NN of_IN February_NNP 1916_CD ;_: while_IN the_DT parasite_NN rate_NN has_VBZ gone_VBN up_RB from_IN 2.72_CD in_IN September_NNP 1913_CD to_TO 27.27_CD in_IN February_NNP 1916_CD ._.
+Table_NN ._.
+VI_NNP ._.
+Special_JJ note_NN on_IN Mianwali_NNP Civil_NNP Station_NNP ._.
+Table_JJ showing_VBG the_DT number_NN of_IN out-door_JJ and_CC in-door_JJ patients_NNS treated_VBN in_IN Mianwali_NNP Police_NNP Hospital_NNP ._.
+Patients_NNS ,_, YEAR_NNP REMARKS_NNP ._.
+1905_CD ._.
+1906_CD ._.
+1907_CD ._.
+1908_CD ._.
+1909_CD ._.
+1910_CD ._.
+1911_CD ._.
+1912_CD ._.
+1913_CD ._.
+1914_CD ._.
+1915_CD ._.
+Outdoor_NNP 175_CD 375_CD 415_CD 578_CD 600_CD 454_CD 218_CD 353_CD 335_CD 840_CD 608_CD Indoor_NNP 75_CD 73_CD 83_CD 107_CD 53_CD 30_CD 15_CD 33_CD 31_CD 79_CD 41_CD Total_JJ 250_CD 448_CD 498_CD 685_CD 653_CD 484_CD 233_CD 386_CD 366_CD 919_CD 649_CD After_IN the_DT opening_NN of_IN the_DT canal_JJ 919_CD patients_NNS from_IN the_DT Police_NNP force_NN attended_VBD the_DT Police_NNP hospital_NN in_IN 1914_CD and_CC 649_CD in_IN 1915_CD ;_: whilst_VBN in_IN 1908-the_JJ year_NN of_IN the_DT heavy_JJ fever_NN mortality-and_NN 1909_CD ,_, the_DT year_NN after_IN ,_, only_RB 685_CD and_CC 653_CD patients_NNS ,_, respectively_RB ,_, attended_VBD the_DT hospital_NN ._.
+In_IN the_DT absence_NN of_IN any_DT large_JJ number_NN of_IN towns_NNS and_CC rural_JJ circles_NNS showing_VBG the_DT epidemic_JJ figure_NN higher_JJR than_IN 5_CD it_PRP has_VBZ not_RB been_VBN thought_VBN necessary_JJ to_TO prepare_VB and_CC append_VB a_DT separate_JJ map_NN showing_VBG the_DT distribution_NN and_CC intensity_NN of_IN malaria_NN for_IN the_DT present_JJ year_NN ._.
+?_. 7_CD IV.-REPORT_NN ON_NNP THE_NNP WORK_NNP OF_IN THE_NNP PUNJAB_NNP MALARIA_NNP BUREAU_NNP ._.
+In_IN submitting_VBG this_DT report_NN it_PRP is_VBZ necessary_JJ to_TO give_VB a_DT resum_NN of_IN the_DT work_NN done_VBN by_IN the_DT Punjab_NNP Malaria_NNP Bureau_NNP ._.
+Owing_VBG to_TO the_DT outbreak_NN of_IN war_NN the_DT ap-_JJ pointment_NN of_IN the_DT Chief_NNP Malaria_NNP Medical_NNP Officer_NNP ,_, which_WDT passed_VBD through_IN the_DT hands_NNS of_IN various_JJ officers_NNS in_IN rapid_JJ succession_NN in_IN 1914_CD ,_, experienced_VBN yet_RB another_DT change_NN by_IN the_DT transfer_NN of_IN Lieutenant-Colonel_NNP D._NNP T._NNP Lane_NNP to_TO the_DT Civil_NNP Surgeoncy_NNP of_IN Ambala_NNP on_IN 24th_CD September_NNP :_: since_IN that_DT date_NN it_PRP has_VBZ become_VBN merged_VBN in_IN the_DT other_JJ appointments_NNS held_VBN temporarily_RB by_IN the_DT Inspector-General_NNP of_IN Civil_NNP Hospi-_NNP tals_NNS ,_, Punjab_NNP ._.
+There_EX were_VBD changes_NNS in_IN the_DT subordinate_NN staff_NN which_WDT handicapped_VBD the_DT work_NN of_IN the_DT Bureau_NNP for_IN some_DT months_NNS ._.
+Malaria_NNP surveys_NNS of_IN Thanesar_NNP ,_, Montgo-_NNP mery_NN ,_, Mianwali_NNP ,_, Gujranwala_NNP and_CC Lyallpur_NNP were_VBD undertaken_VBN ,_, and_CC the_DT local_JJ con-_JJ ditions_NNS of_IN these_DT towns_NNS studied_VBD throughout_IN the_DT whole_NN of_IN the_DT year_NN ._.
+Some_DT investigations_NNS in_IN connection_NN with_IN the_DT effect_NN of_IN certain_JJ aromatic_JJ plants_NNS on_IN anopheles_NNS were_VBD made_VBN ,_, but_CC no_DT definite_JJ information_NN has_VBZ been_VBN elicited_VBN ;_: though_IN some_DT made_VBN on_IN the_DT action_NN of_IN the_DT fumes_NNS of_IN chemical_NN agents_NNS showed_VBD that_IN the_DT smoke_NN of_IN saponified_JJ cresol_NN was_VBD a_DT very_RB deadly_JJ culicide_NN ._.
+Some_DT examination_NN was_VBD made_VBN into_IN the_DT local_JJ conditions_NNS with_IN regard_NN to_TO malaria_VB in_IN the_DT town_NN and_CC civil_JJ station_NN of_IN Ambala_NNP ,_, larval_NN and_CC adult_NN surveys_NNS were_VBD carried_VBN out_RP ,_, the_DT various_JJ breading_VBG grounds_NNS noted_VBN and_CC recommendations_NNS in_IN connection_NN with_IN them_PRP were_VBD made_VBN to_TO the_DT local_JJ authorities_NNS ._.
+Some_DT thousands_NNS of_IN anopheles_NNS were_VBD dissected_VBN with_IN a_DT view_NN to_TO discovering_VBG the_DT local_JJ carriers_NNS of_IN malaria_NNS in_IN places_NNS under_IN survey_NN ._.
+Hundreds_NNS of_IN A._NN Rossi_NNP were_VBD dissected_VBN in_IN the_DT hope_NN of_IN finding_VBG zygotes_NNS and_CC sporozoits_NNS in_IN the_DT stomach_NN and_CC salivary_JJ glands_NNS ,_, but_CC without_IN success_NN ._.
+More_JJR dissections_NNS will_MD be_VB carried_VBN out_RP next_JJ autumn_NN ._.
+The_DT survey_NN of_IN Lahore_NNP which_WDT was_VBD taken_VBN up_RP early_JJ in_IN the_DT year_NN had_VBD to_TO be_VB discontinued_VBN for_IN various_JJ reasons_NNS ._.
+The_DT spleen_JJ census_NN of_IN school_NN children_NNS (_( under_IN 10_CD years_NNS )_) in_IN the_DT Punjab_NNP was_VBD again_RB carried_VBN out_RP in_IN June_NNP and_CC November_NNP 1915_CD ._.
+The_DT results_NNS are_VBP shown_VBN in_IN the_DT maps_NNS IV_NNP and_CC V_NNP of_IN Appendix_NNP C._NNP The_DT spleen_JJ census_NN before_IN and_CC after_IN the_DT fever_NN season_NN gives_VBZ a_DT fair_JJ idea_NN of_IN limited_JJ epidemics_NNS in_IN small_JJ localities_NNS ._.
+The_DT comparison_NN of_IN spleen_JJ census_NN maps_NNS for_IN 1914_CD and_CC 1915_CD (_( vide_IN Ap-_NNP pendix_NNP C_NNP )_) gives_VBZ a_DT fair_JJ idea_NN as_IN to_TO what_WP are_VBP the_DT endemic_JJ centres_NNS in_IN the_DT Province_NNP ._.
+This_DT information_NN if_IN made_VBN continuously_RB available_JJ will_MD be_VB of_IN the_DT utmost_JJ value_NN ._.
+A_DT leaflet_NN has_VBZ been_VBN written_VBN on_IN malaria_NNS ,_, and_CC will_MD be_VB shortly_RB submitted_VBN to_TO the_DT Inspector-General_NNP of_IN Civil_NNP Hospitals_NNP ,_, Punjab_NNP ._.
+A_DT correspondence_NN is_VBZ going_VBG on_IN with_IN the_DT Director_NNP of_IN Public_NNP Instruction_NNP ,_, Punjab_NNP ,_, and_CC his_PRP$ attention_NN is_VBZ being_VBG drawn_VBN to_TO the_DT proposal_NN to_TO provide_VB all_DT schools_NNS with_IN test_NN tubes_NNS exhibiting_VBG mosquitoes_NNS for_IN the_DT purpose_NN of_IN providing_VBG the_DT means_NNS of_IN practically_RB demonstrating_VBG the_DT difference_NN between_IN the_DT different_JJ kinds_NNS ._.
+V.-ANTI-MALARIAL_JJ MEASURES_NNP ._.
+Except_IN for_IN a_DT few_JJ laboratory_NN experiments_NNS ,_, no_DT anti-malaria_JJ measures_NNS have_VBP been_VBN carried_VBN out_RP during_IN the_DT year_NN under_IN review_NN ._.
+It_PRP was_VBD found_VBN that_IN anopheles_NNS larv_NNS were_VBD destroyed_VBN readily_RB by_IN a_DT weak_JJ solution_NN of_IN saponified_JJ cresol_NN in_IN fire-buckets_NNS and_CC in_IN small_JJ puddles_NNS and_CC collections_NNS of_IN water_NN in_IN the_DT neighbourhood_NN of_IN houses_NNS ;_: but_CC nymphs_VBP showed_VBD considerable_JJ re-_JJ sisting_VBG power-24_JJ minutes_NNS '_POS exposure_NN before_IN they_PRP were_VBD killed_VBN ._.
+Assistant_NNP Surgeon_NNP Bawa_NNP Harnam_NNP Singh_NNP Bhalla_NNP has_VBZ been_VBN in_IN charge_NN of_IN the_DT laboratory_NN throughout_IN the_DT year_NN ._.
+Lieutenant-Colonel_NNP Lane_NNP was_VBD very_RB pleased_JJ with_IN his_PRP$ work_NN while_IN he_PRP held_VBD the_DT appointment_NN of_IN Chief_NNP Malaria_NNP Medical_NNP Officer_NNP ,_, Punjab_NNP ,_, and_CC since_IN I_PRP took_VBD over_RP I_PRP have_VBP been_VBN much_RB indebted_VBN to_TO him_PRP for_IN his_PRP$ very_RB effective_JJ help_NN both_DT in_IN connection_NN with_IN the_DT laboratory_NN and_CC field_NN work_NN ._.
+Sub-Assistant_JJ Surgeons_NNP Abdul_NNP Ghaffar_NNP and_CC Ghulam_NNP Mohy-ud-Din_NNP have_VBP worked_VBN well_RB throughout_IN the_DT year_NN in_IN the_DT laboratory-the_JJ former_JJ ,_, on_IN account_NN of_IN his_PRP$ good_JJ work_NN was_VBD promoted_VBN to_TO the_DT 3rd_CD grade_NN without_IN examination_NN ._.
+The_DT Laboratory_NNP Assistants_NNP Daulat_NNP Ram_NNP and_CC Abdul_NNP Razaq_NNP have_VBP done_VBN useful_JJ work_NN ,_, and_CC the_DT clerical_JJ establishment_NN has_VBZ given_VBN satisfaction_NN ._.
+H._NNP HENDLEY_NNP ,_, M.D._NNP ,_, COLONEL_NNP ,_, I.M.S._NNP ,_, Chief_NNP Malaria_NNP Medical_NNP Officer_NNP ,_, Punjab_NNP ._.
+Appendix_IN A_NNP ._.
+CHART_NNP No_NNP ._.
+1_CD ._.
+Showing_VBG the_DT Total_JJ Mortality_NNP and_CC the_DT ``_`` Fever_NNP ''_'' Mortality_NN in_IN the_DT Punjab_NNP from_IN 1867-1915_CD ._.
+Red-Total_JJ Recorded_NNP Mortality_NNP ._.
+Green-Total_JJ ``_`` Fever_NNP ''_'' Mortality_NNP ._.
+No_DT ._.
+4655-420_JJ Appendix_NNP A_NNP ._.
+CHART_NNP No_NNP ._.
+2_CD ._.
+Autumnal_NNP Fever_NNP Mortality_NNP (_( October_NNP and_CC November_NNP Deaths_NNP )_) in_IN the_DT Punjab_NNP from_IN 1867-1915_CD ._.
+No_DT ._.
+4655-1=420_JJ Appendix_NNP A_NNP ._.
+CHART_NNP No_NNP ._.
+3_CD ._.
+Showing_VBG the_DT Monthly_JJ Fever_NNP Mortality_NNP in_IN the_DT Punjab_NNP during_IN 1914-1915_JJ ._.
+Dotted-Average_NN ._.
+1914_CD ________JJ 1916_CD ________NN No_NNP ._.
+4655-2=420_JJ APPENDIX_NNP B_NNP ._.
+DEATHS_NNS REGISTERED_NNP FROM_NNP FEVER_NNP IN_NNP THE_NNP DISTRICTS_NNP OF_IN THE_NNP PUNJAB_NNP DURING_NNP 1915._CD ii_NN APPEN_NNP Deaths_NNP registered_VBD from_IN ``_`` Fever_NNP ''_'' in_IN the_DT No_NNP ._.
+Districts_NNS ._.
+Popuolation_NN 1911_CD ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+AMBALA_NNP DIVISION_NNP ._.
+1_CD Hissar_NNP 804,889_CD 1,156_CD 801_CD 1,032_CD 979_CD 1,198_CD 2_CD Rohtak_NNP 714,834_CD 724_CD 513_CD 541_CD 650_CD 1,180_CD 3_CD Gurgaon_NNP 729,167_CD 706_CD 375_CD 440_CD 483_CD 713_CD 4_CD Karnal_NNP 799,787_CD 1,265_CD 978_CD 1,047_CD 771_CD 995_CD 5_CD Ambala_NNP 632,553_CD 766_CD 666_CD 666_CD 594_CD 774_CD 6_CD Simla_NNP 34,970_CD 17_CD 16_CD 17_CD 29_CD 38_CD JULLUNDER_NNP DIVISION_NNP ._.
+7_CD Kangra_NNP 766,686_CD 882_CD 749_CD 909_CD 858_CD 1,441_CD 8_CD Hoshiarpur_NNP 918,569_CD 1,323_CD 1,107_CD 1,199_CD 1,381_CD 1,656_CD 9_CD Jullundur_NNP 787,956_CD 866_CD 832_CD 837_CD 805_CD 1,161_CD 10_CD Ludhiana_NNP ._.
+517,192_CD 530_CD 895_CD 468_CD 439_CD 573_CD 11_CD Ferozepore_RB 933,499_CD 1,153_CD 961_CD 983_CD 926_CD 1,196_CD LAHORE_NNP DIVISION_NNP ._.
+12_CD Lahore_NNP 1,017,742_CD 1,335_CD 975_CD 1,025_CD 1,087_CD 1,869_CD 13_CD Amritsar_NNP 879,311_CD 1,375_CD 1,157_CD 1,320_CD 1,263_CD 1,952_CD 14_CD Gurdaspur_NNP 832,561_CD 923_CD 771_CD 774_CD 615_CD 1,041_CD 15_CD Sialkot_NNP 963,279_CD 1,160_CD 932_CD 1,034_CD 899_CD 1,332_CD 16_CD Gujranwala_NNP 923,419_CD 1,694_CD 1,181_CD 1,101_CD 792_CD 1,563_CD RAWALPINDI_NNP DIVISION_NNP ._.
+17_CD Gujrat_NNP 745,634_CD 775_CD 584_CD 548_CD 346_CD 418_CD 18_CD Shahpur_NNP 687,366_CD 738_CD 557_CD 544_CD 416_CD 609_CD 19_CD Jhelum_NNP 504,193_CD 762_CD 613_CD 466_CD 368_CD 465_CD 20_CD Rawalpindi_NNP 507,642_CD 872_CD 693_CD 716_CD 634_CD 741_CD 21_CD Attock_NNP 515,286_CD 1,058_CD 771_CD 721_CD 585_CD 647_CD 22_CD Mianwali_NNP 341,377_CD 637_CD 548_CD 612_CD 492_CD 555_CD MULTAN_NNP DIVISION_NNP ._.
+23_CD Montgomery_NNP 535,299_CD 1,126_CD 747_CD 649_CD 458_CD 711_CD 24_CD Lyallpur_NNP 857,711_CD 920_CD 725_CD 804_CD 974_CD 1,405_CD 25_CD Jhang_NNP 515,526_CD 725_CD 504_CD 522_CD 518_CD 577_CD 26_CD Multan_NNP 801,375_CD 1,911_CD 1,307_CD 1,211_CD 869_CD 1,152_CD 27_CD Muzaffargarh_NNP 569,461_CD 1,747_CD 1,166_CD 890_CD 819_CD 922_CD 28_CD Dera_NNP Ghazi_NNP Khan_NNP 499,860_CD 896_CD 812_CD 801_CD 652_CD 729_CD Total_JJ 19,337,146_CD 28,042_CD 21,436_CD 21,877_CD 19,702_CD 27,613_CD Photo.-Mechl_NN ._.
+and_CC Litho_NNP ._.
+Dept._NNP ,_, Thomason_NNP College_NNP ,_, Roorkee_NNP ._.
+May_NNP ,_, 1916.-No.4655-4-420_JJ Photo.-Mechl_NNP ._.
+and_CC Litho_NNP ._.
+Dept._NNP ,_, Thomason_NNP College_NNP ,_, Roorkee_NNP ._.
+May_NNP ._.
+1916.-No.46558-420_JJ Photo.-Mechl_NNP ._.
+and_CC Litho_NNP ._.
+Dept._NNP ,_, Thomason_NNP College_NNP ,_, Roorkee_NNP ._.
+May_NNP ,_, 1916.-No_JJ ._.
+4655-6-420_JJ Photo.-Mechl_NNP ._.
+and_CC Litho_NNP ._.
+Dept._NNP ,_, Thomason_NNP College_NNP ,_, Roorkee_NNP ._.
+May_NNP ,_, 1916.-No_JJ ._.
+4655-7-420_JJ ?_. iii_JJ DIX_NNP B._NNP districts_NNS of_IN the_DT Punjab_NNP during_IN 1915_CD ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+Total_NN ._.
+Ratio_NNP per_IN mille_NN ._.
+1,144_CD 1,083_CD 851_CD 730_CD 761_CD 876_CD 1,339_CD 11,950_CD 14.85_CD 863_CD 709_CD 556_CD 439_CD 520_CD 758_CD 1,151_CD 8,604_CD 12.04_CD 618_CD 470_CD 394_CD 444_CD 455_CD 726_CD 1,096_CD 6,920_CD 9.49_CD 1,051_CD 1,154_CD 843_CD 795_CD 736_CD 1,112_CD 1,362_CD 12,109_CD 15.14_CD 747_CD 706_CD 537_CD 611_CD 646_CD 735_CD 815_CD 8,263_CD 13.06_CD 27_CD 22_CD 20_CD 17_CD 31_CD 18_CD 17_CD 269_CD 7.69_CD 1,178_CD 1,083_CD 966_CD 1,383_CD 1,489_CD 1,190_CD 1,219_CD 13,347_CD 17.41_CD 1,397_CD 1,176_CD 1,116_CD 1,150_CD 1,273_CD 1,220_CD 1,557_CD 15,555_CD 16.93_CD 945_CD 829_CD 729_CD 715_CD 710_CD 873_CD 1,102_CD 10,404_CD 13.20_CD 588_CD 543_CD 444_CD 361_CD 457_CD 541_CD 592_CD 5,931_CD 11.47_CD 1,076_CD 1,083_CD 935_CD 872_CD 933_CD 1,125_CD 1,527_CD 12,770_CD 13.68_CD 1,732_CD 1,444_CD 1,262_CD 1,150_CD 1,141_CD 1,374_CD 1,841_CD 16,235_CD 15.95_CD 1,637_CD 1,349_CD 1,198_CD 1,041_CD 1,032_CD 1,253_CD 1,405_CD 15,982_CD 18.18_CD 1,092_CD 936_CD 795_CD 798_CD 851_CD 978_CD 1,020_CD 10,594_CD 12.72_CD 1,161_CD 998_CD 873_CD 851_CD 913_CD 1,034_CD 1,303_CD 12,490_CD 12.97_CD 1,556_CD 1,347_CD 1,193_CD 979_CD 943_CD 1,303_CD 1,943_CD 15,595_CD 15.89_CD 476_CD 820_CD 664_CD 804_CD 773_CD 792_CD 1,025_CD 8,025_CD 10.76_CD 655_CD 669_CD 593_CD 468_CD 496_CD 663_CD 1,117_CD 7,525_CD 10.95_CD 529_CD 507_CD 457_CD 479_CD 481_CD 669_CD 867_CD 6,663_CD 13.21_CD 690_CD 648_CD 627_CD 588_CD 717_CD 925_CD 1,263_CD 9,114_CD 17.95_CD 644_CD 663_CD 592_CD 561_CD 621_CD 929_CD 1,552_CD 9,344_CD 18.13_CD 545_CD 502_CD 489_CD 430_CD 498_CD 584_CD 968_CD 6,860_CD 20.10_CD 626_CD 546_CD 551_CD 446_CD 440_CD 653_CD 999_CD 7,952_CD 15.77_CD 1,154_CD 1,084_CD 1,004_CD 813_CD 787_CD 969_CD 1,384_CD 12,023_CD 13.53_CD 498_CD 484_CD 491_CD 443_CD 442_CD 594_CD 911_CD 6,709_CD 13.02_CD 937_CD 977_CD 759_CD 763_CD 960_CD 1,294_CD 1,732_CD 13,872_CD 17.31_CD 687_CD 754_CD 598_CD 615_CD 922_CD 1,110_CD 1,356_CD 11,586_CD 20.34_CD 632_CD 520_CD 518_CD 435_CD 611_CD 749_CD 738_CD 8,093_CD 16.19_CD 24,885_CD 23,106_CD 20,055_CD 19,181_CD 20,639_CD 25,047_CD 33,201_CD 284,784_CD 14.72_CD iv_NN Appendix_NNP D._NNP SHOWING_NNP THE_NNP MONTHLY_NNP FEVER_NNP MORTALITY_NNP OF_IN THE_NNP TOWNS_NNP AND_NNP RURAL_NNP AREAS_NNP OF_IN THE_NNP PUNJAB_NNP FOR_IN THE_NNP YEAR_NN 1915_CD ._.
+Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Hissar_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Hissar_NNP 12_CD 9_CD 21_CD 15_CD 22_CD 18_CD 17_CD 18_CD 10_CD 17_CD 17_CD 32_CD 208_CD 2_CD Hansi_NNP 17_CD 13_CD 21_CD 12_CD 16_CD 12_CD 9_CD 7_CD 7_CD 5_CD 17_CD 32_CD 168_CD 3_CD Bhiwani_NNP 23_CD 23_CD 37_CD 16_CD 33_CD 26_CD 17_CD 15_CD 28_CD 15_CD 33_CD 49_CD 315_CD 4_CD Sirsa_NNP 12_CD 10_CD 13_CD 14_CD 22_CD 23_CD 15_CD 9_CD 15_CD 8_CD 14_CD 38_CD 193_CD 5_CD Fattehabad_NNP 2_CD 1_CD 1_CD 2_CD 4_CD 1_CD 1_CD 3_CD 15_CD Total_NN of_IN towns_NNS 66_CD 56_CD 92_CD 57_CD 94_CD 81_CD 58_CD 53_CD 61_CD 46_CD 81_CD 154_CD 899_CD 6_CD Hissar_NNP 87_CD 62_CD 69_CD 63_CD 88_CD 88_CD 61_CD 60_CD 55_CD 49_CD 74_CD 104_CD 860_CD 7_CD Barwala_NNP 27_CD 23_CD 25_CD 25_CD 33_CD 27_CD 56_CD 41_CD 23_CD 35_CD 30_CD 38_CD 383_CD 8_CD Balsamand_NNP 49_CD 27_CD 27_CD 27_CD 32_CD 25_CD 39_CD 18_CD 14_CD 14_CD 20_CD 42_CD 334_CD 9_CD Siwani_NNP 20_CD 17_CD 19_CD 15_CD 25_CD 17_CD 12_CD 16_CD 10_CD 6_CD 18_CD 13_CD 188_CD 10_CD Hansi_NNP 131_CD 47_CD 96_CD 59_CD 84_CD 107_CD 120_CD 87_CD 81_CD 61_CD 79_CD 107_CD 1,059_CD 11_CD Narnaund_NNP 74_CD 23_CD 59_CD 83_CD 48_CD 84_CD 89_CD 54_CD 86_CD 59_CD 80_CD 85_CD 824_CD 12_CD Bhiwani_NNP 35_CD 26_CD 18_CD 23_CD 40_CD 28_CD 23_CD 20_CD 11_CD 12_CD 18_CD 38_CD 292_CD 13_CD Kairoo_NNP 14_CD 19_CD 20_CD 22_CD 26_CD 25_CD 17_CD 13_CD 6_CD 11_CD 10_CD 17_CD 200_CD 14_CD Tosham_NNP 29_CD 34_CD 23_CD 29_CD 45_CD 33_CD 39_CD 23_CD 22_CD 16_CD 26_CD 37_CD 356_CD 15_CD Bahal_NNP 6_CD 6_CD 7_CD 7_CD 8_CD 5_CD 3_CD 1_CD 3_CD 2_CD 4_CD 12_CD 64_CD 16_CD Fattehabad_NNP 112_CD 101_CD 87_CD 113_CD 154_CD 108_CD 122_CD 74_CD 59_CD 92_CD 72_CD 133_CD 1,227_CD 17_CD Ratia_NNP 65_CD 45_CD 57_CD 38_CD 32_CD 43_CD 58_CD 44_CD 31_CD 40_CD 38_CD 46_CD 537_CD 18_CD Bhudhalda_NNP 35_CD 4_CD 4_CD 7_CD 15_CD 10_CD 6_CD 12_CD 5_CD 12_CD 11_CD 23_CD 144_CD 19_CD Tohana_NNP 28_CD 41_CD 49_CD 41_CD 41_CD 65_CD 49_CD 44_CD 28_CD 38_CD 32_CD 47_CD 503_CD 20_CD Bahuna_NNP 59_CD 29_CD 64_CD 53_CD 79_CD 92_CD 70_CD 49_CD 38_CD 38_CD 55_CD 68_CD 694_CD 21_CD Sirsa_NNP 88_CD 50_CD 113_CD 79_CD 74_CD 82_CD 83_CD 84_CD 32_CD 56_CD 51_CD 82_CD 874_CD 22_CD Jamal_NNP 22_CD 17_CD 32_CD 27_CD 26_CD 41_CD 27_CD 10_CD 14_CD 14_CD 9_CD 29_CD 268_CD 23_CD Rania_NNP 83_CD 56_CD 62_CD 75_CD 90_CD 53_CD 43_CD 48_CD 60_CD 33_CD 47_CD 85_CD 735_CD 24_CD Ellenabad_NNP 36_CD 11_CD 20_CD 22_CD 19_CD 14_CD 8_CD 9_CD 2_CD 12_CD 7_CD 30_CD 190_CD 25_CD Rori_NNP 36_CD 50_CD 52_CD 62_CD 87_CD 58_CD 58_CD 53_CD 45_CD 71_CD 69_CD 79_CD 720_CD 26_CD Dabwali_NNP 37_CD 38_CD 27_CD 26_CD 27_CD 36_CD 34_CD 25_CD 25_CD 22_CD 26_CD 49_CD 372_CD 27_CD Chowtala_NNP 17_CD 19_CD 10_CD 26_CD 31_CD 22_CD 8_CD 13_CD 19_CD 22_CD 19_CD 21_CD 227_CD Total_NN of_IN rural_JJ circles_NNS 1,090_CD 745_CD 940_CD 922_CD 1,104_CD 1,063_CD 1,025_CD 798_CD 669_CD 715_CD 795_CD 1,185_CD 11,051_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+1,156_CD 801_CD 1,032_CD 979_CD 1,198_CD 1,144_CD 1,083_CD 851_CD 730_CD 761_CD 876_CD 1,339_CD 11,950_CD v_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Rohtak_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Rohtak_NNP 22_CD 12_CD 10_CD 14_CD 27_CD 20_CD 14_CD 15_CD 13_CD 27_CD 20_CD 44_CD 238_CD 2_CD Jhajjar_NNP 8_CD 9_CD 7_CD 11_CD 17_CD 8_CD 6_CD 7_CD 6_CD 7_CD 8_CD 13_CD 107_CD 3_CD Beri_NNP 5_CD 9_CD 2_CD 12_CD 10_CD 9_CD 8_CD 8_CD 4_CD 8_CD 5_CD 24_CD 104_CD 4_CD Gohana_NNP 10_CD 3_CD 7_CD 4_CD 15_CD 8_CD 5_CD 5_CD 8_CD 2_CD 5_CD 72_CD 5_CD Bahadurgarh_NNP 5_CD 3_CD 5_CD 7_CD 4_CD 7_CD 2_CD 4_CD 1_CD 10_CD 12_CD 14_CD 74_CD 6_CD Sonepat_NNP 7_CD 4_CD 10_CD 22_CD 19_CD 12_CD 11_CD 5_CD 8_CD 11_CD 8_CD 13_CD 130_CD Total_NN of_IN towns_NNS 57_CD 40_CD 41_CD 70_CD 92_CD 64_CD 46_CD 44_CD 40_CD 65_CD 53_CD 113_CD 725_CD 7_CD Rohtak_NNP 32_CD 37_CD 29_CD 51_CD 51_CD 45_CD 40_CD 28_CD 21_CD 18_CD 37_CD 55_CD 444_CD 8_CD Beri_NNP 45_CD 2_CD 28_CD 33_CD 46_CD 37_CD 25_CD 21_CD 20_CD 29_CD 26_CD 42_CD 373_CD 9_CD Kalanaur_NNP 37_CD 41_CD 26_CD 28_CD 87_CD 51_CD 55_CD 27_CD 19_CD 19_CD 38_CD 64_CD 492_CD 10_CD Mehm_NNP 55_CD 36_CD 34_CD 45_CD 52_CD 40_CD 51_CD 41_CD 32_CD 41_CD 37_CD 67_CD 531_CD 11_CD Jhajjar_NNP 39_CD 25_CD 33_CD 27_CD 38_CD 40_CD 24_CD 32_CD 17_CD 28_CD 47_CD 53_CD 403_CD 12_CD Salawas_NNP 43_CD 38_CD 39_CD 40_CD 67_CD 60_CD 56_CD 43_CD 35_CD 33_CD 64_CD 98_CD 616_CD 13_CD Gohana_NNP 76_CD 48_CD 45_CD 39_CD 146_CD 77_CD 55_CD 49_CD 40_CD 45_CD 71_CD 93_CD 784_CD 14_CD Baroda_NNP 73_CD 30_CD 18_CD 51_CD 91_CD 83_CD 60_CD 48_CD 28_CD 25_CD 52_CD 81_CD 640_CD 15_CD Sampla_NNP 74_CD 52_CD 49_CD 37_CD 122_CD 68_CD 57_CD 56_CD 37_CD 38_CD 89_CD 109_CD 788_CD 16_CD Bahadurgarh_NNP 32_CD 25_CD 25_CD 45_CD 64_CD 27_CD 36_CD 39_CD 20_CD 36_CD 38_CD 73_CD 460_CD 17_CD Sonepat_NNP 57_CD 41_CD 51_CD 63_CD 84_CD 72_CD 63_CD 35_CD 50_CD 44_CD 66_CD 112_CD 738_CD 18_CD Rai_NNP 43_CD 35_CD 65_CD 54_CD 108_CD 71_CD 64_CD 40_CD 36_CD 41_CD 61_CD 77_CD 695_CD 19_CD Larsauli_NNP 61_CD 44_CD 58_CD 67_CD 132_CD 128_CD 77_CD 53_CD 44_CD 58_CD 79_CD 114_CD 915_CD Total_NN of_IN rural_JJ circles_NNS 667_CD 473_CD 500_CD 580_CD 11,088_CD 799_CD 663_CD 512_CD 399_CD 455_CD 705_CD 1,038_CD 7,879_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+724_CD 513_CD 541_CD 650_CD 1,180_CD 863_CD 709_CD 556_CD 439_CD 520_CD 758_CD 1,151_CD 8,604_CD vi_JJ Register_NNP of_IN ``_`` Fever_NNP ``_`` Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT district_NN of_IN Gurgaon_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Rewari_NNP 1_CD 3_CD 1_CD 2_CD 1_CD 2_CD 10_CD 2_CD Palwal_NNP 6_CD 1_CD 5_CD 3_CD 11_CD 6_CD 9_CD 5_CD 3_CD 6_CD 9_CD 9_CD 73_CD 3_CD Firozpur-Jhirka_JJ 9_CD 1_CD 1_CD 11_CD 6_CD 3_CD 6_CD 5_CD 3_CD 4_CD 9_CD 58_CD 4_CD Hodt.I_NNP 8_CD 1_CD 1_CD 4_CD 2_CD 4_CD 5_CD 5_CD 12_CD 12_CD 54_CD 5_CD Balabgarh_NNP 2_CD 3_CD 2_CD 5_CD 6_CD 3_CD 4_CD 2_CD 3_CD 3_CD 1_CD 11_CD 45_CD 6_CD Faridabad_NNP 7_CD 5_CD 3_CD 1_CD 5_CD 7_CD 3_CD 2_CD 3_CD 4_CD 12_CD 52_CD Total_NN of_IN towns_NNS 32_CD 10_CD 12_CD 14_CD 34_CD 26_CD 23_CD 20_CD 21_CD 17_CD 30_CD 53_CD 292_CD 7_CD Gurgaon_NNP 67_CD 32_CD 47_CD 33_CD 55_CD 48_CD 47_CD 40_CD 29_CD 28_CD 80_CD 117_CD 623_CD 8_CD Sohna_NNP 53_CD 9_CD 26_CD 28_CD 24_CD 21_CD 17_CD 12_CD 22_CD 18_CD 42_CD 74_CD 346_CD 9_CD Farrukhnagar_NNP 24_CD 15_CD 13_CD 14_CD 22_CD 21_CD 21_CD 14_CD 11_CD 19_CD 33_CD 47_CD 254_CD 10_CD Rewari_NNP 17_CD 14_CD 24_CD 21_CD 42_CD 43_CD 36_CD 21_CD 19_CD 31_CD 37_CD 58_CD 363_CD 11_CD Shahjahanpur_NNP 6_CD 4_CD 1_CD 9_CD 13_CD 8_CD 5_CD 6_CD 4_CD 6_CD 17_CD 79_CD 12_CD Khol_NNP 24_CD 26_CD 26_CD 24_CD 31_CD 31_CD 29_CD 13_CD 26_CD 21_CD 43_CD 57_CD 351_CD 13_CD Jatusana_NNP 22_CD 15_CD 26_CD 30_CD 29_CD 19_CD 26_CD 13_CD 21_CD 27_CD 21_CD 40_CD 289_CD 14_CD Nuh_NNP 86_CD 7_CD 8_CD 9_CD 56_CD 34_CD 10_CD 29_CD 35_CD 5_CD 53_CD 47_CD 379_CD 15_CD Hathin_NNP 30_CD 20_CD 5_CD 30_CD 39_CD 34_CD 20_CD 11_CD 25_CD 32_CD 54_CD 73_CD 373_CD 16_CD Taoru_NNP 26_CD 9_CD 13_CD 15_CD 18_CD 20_CD 12_CD 17_CD 15_CD 6_CD 32_CD 26_CD 209_CD 17_CD Firozpur_NNP Jhirka_NNP 74_CD 49_CD 49_CD 68_CD 112_CD 99_CD 82_CD 55_CD 44_CD 85_CD 101_CD 109_CD 927_CD 18_CD Punahana_NNP 47_CD 36_CD 36_CD 22_CD 45_CD 49_CD 30_CD 43_CD 44_CD 49_CD 24_CD 73_CD 498_CD 19_CD Palwal_NNP 39_CD 28_CD 37_CD 32_CD 39_CD 38_CD 32_CD 19_CD 25_CD 23_CD 31_CD 63_CD 406_CD 20_CD Hodal_NNP 26_CD 11_CD 24_CD 27_CD 36_CD 14_CD 11_CD 22_CD 19_CD 23_CD 31_CD 46_CD 290_CD 21_CD Hasanpur_NNP 29_CD 22_CD 25_CD 23_CD 29_CD 18_CD 9_CD 15_CD 23_CD 16_CD 24_CD 32_CD 265_CD 22_CD Balabgarh_NNP 38_CD 34_CD 30_CD 32_CD 28_CD 40_CD 17_CD 19_CD 23_CD 19_CD 22_CD 68_CD 370_CD 23_CD Faridadad_NNP 41_CD 18_CD 20_CD 27_CD 27_CD 24_CD 13_CD 15_CD 13_CD 17_CD 33_CD 49_CD 297_CD 24_CD Chhaessa_NNP 25_CD 20_CD 15_CD 33_CD 38_CD 26_CD 27_CD 11_CD 23_CD 15_CD 29_CD 47_CD \ill\09_JJ Total_NNP of_IN rural_JJ circles_NNS 674_CD 365_CD 428_CD 469_CD 679_CD 592_CD 447_CD 374_CD 423_CD 438_CD 696_CD 1,043_CD 6,628_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+706_CD 375_CD 440_CD 483_CD 713_CD 618_CD 470_CD 394_CD 444_CD 455_CD 726_CD 1,096_CD 6,920_CD vii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Death_NN in_IN the_DT Punjab_NNP in_IN the_DT district_NN of_IN Karnal_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Karnal_NNP 22_CD 23_CD 21_CD 24_CD 41_CD 2\ill\_CD 17_CD 25_CD 21_CD 37_CD 43_CD 40_CD 342_CD 2_CD Kaithal_NNP 15_CD 11_CD 18_CD 25_CD 9_CD 14_CD 21_CD 19_CD 10_CD 14_CD 21_CD 41_CD 218_CD 3_CD Panipat_NNP 14_CD 19_CD 35_CD 8_CD 24_CD 33_CD 43_CD 21_CD 26_CD 14_CD 28_CD 41_CD 306_CD 4_CD Shahabad_NNP 8_CD 2_CD 4_CD 6_CD 8_CD 1_CD 7_CD 3_CD 4_CD 7_CD 7_CD 6_CD 63_CD 5_CD Thanesar_NNP 3_CD 3_CD 3_CD 6_CD 2_CD 4_CD 2_CD 4_CD 5_CD 4_CD 9_CD 45_CD Total_NN of_IN towns_NNS 62_CD 58_CD 81_CD 69_CD 82_CD 73_CD 92_CD 70_CD 65_CD 77_CD 108_CD 137_CD 974_CD 6_CD Karnal_NNP 62_CD 52_CD 44_CD 45_CD 49_CD 54_CD 46_CD 49_CD 46_CD 31_CD 65_CD 70_CD 617_CD 7_CD Gharaunda_NNP 67_CD 60_CD 59_CD 28_CD 46_CD 45_CD 36_CD 29_CD 38_CD 39_CD 40_CD 54_CD 541_CD 8_CD Nisang_NNP 73_CD 51_CD 46_CD 32_CD 36_CD 25_CD 53_CD 35_CD 32_CD 19_CD 44_CD 49_CD 495_CD 9_CD Butana_NNP 65_CD 39_CD 36_CD 38_CD 54_CD 59_CD 73_CD 35_CD 32_CD 28_CD 60_CD 69_CD 588_CD 10_CD Indri_NNP 77_CD 56_CD 83_CD 33_CD 46_CD 45_CD 30_CD 39_CD 44_CD 37_CD 60_CD 61_CD 611_CD 11_CD Rajaund_NNP 37_CD 29_CD 31_CD 26_CD 49_CD 82_CD 76_CD 73_CD 43_CD 39_CD 49_CD 49_CD 583_CD 12_CD Pundri_NNP 92_CD 69_CD 54_CD 59_CD 89_CD 94_CD 128_CD 61_CD 69_CD 52_CD 84_CD 102_CD 953_CD 13_CD Kaithal_NNP and_CC Sewan_NNP 73_CD 75_CD 62_CD 45_CD 38_CD 54_CD 67_CD 72_CD 38_CD 38_CD 62_CD 92_CD 716_CD 14_CD Asundh_NNP 21_CD 25_CD 33_CD 24_CD 40_CD 43_CD 47_CD 40_CD 21_CD 25_CD 25_CD 27_CD 371_CD 15_CD Guhla_NNP 45_CD 32_CD 44_CD 15_CD 34_CD 48_CD 44_CD 44_CD 34_CD 31_CD 44_CD 71_CD 486_CD 16_CD Urlana_NNP Kalan_NNP 76_CD 54_CD 54_CD 57_CD 63_CD 82_CD 76_CD 54_CD 51_CD 41_CD 76_CD 87_CD 771_CD 17_CD Sambhalka_NNP 66_CD 54_CD 63_CD 38_CD 80_CD 67_CD 50_CD 31_CD 27_CD 38_CD 44_CD 83_CD 641_CD 18_CD Panipat_NNP 73_CD 61_CD 56_CD 59_CD 70_CD 67_CD 42_CD 34_CD 38_CD 24_CD 42_CD 59_CD 625_CD 19_CD Pehowa_NNP 58_CD 39_CD 31_CD 28_CD 35_CD 40_CD 64_CD 42_CD 33_CD 35_CD 47_CD 71_CD 523_CD 20_CD Ladwa_NNP 48_CD 29_CD 40_CD 33_CD 10_CD 20_CD 27_CD 4_CD 13_CD 38_CD 39_CD 38_CD 339_CD 21_CD Shahabad_NNP 80_CD 50_CD 76_CD 60_CD 68_CD 46_CD 72_CD 31_CD 49_CD 46_CD 60_CD 56_CD 694_CD 22_CD Thaska_NNP Miran_NNP 45_CD 36_CD 37_CD 25_CD 29_CD 33_CD 28_CD 26_CD 28_CD 22_CD 42_CD 39_CD 390_CD 23_CD Thanesar_NNP 41_CD 37_CD 43_CD 17_CD 29_CD 28_CD 25_CD 29_CD 31_CD 19_CD 29_CD 38_CD 366_CD 24_CD Sanghor_NNP 49_CD 39_CD 38_CD 30_CD 23_CD 25_CD 29_CD 25_CD 27_CD 20_CD 34_CD 43_CD 382_CD 25_CD Radaur_NNP 55_CD 33_CD 36_CD 6_CD 25_CD 21_CD 49_CD 20_CD 36_CD 37_CD 58_CD 67_CD 443_CD Total_NN of_IN rural_JJ circles_NNS 1,203_CD 920_CD 966_CD 702_CD 913_CD 978_CD 1,062_CD 773_CD 730_CD 659_CD 1,004_CD 1,225_CD 11,135_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+1,265_CD 978_CD 1,047_CD 771_CD 995_CD 1,051_CD 1,154_CD 843_CD 795_CD 736_CD 1,112_CD 1,362_CD 12,109_CD ?_. viii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Ambala_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Ambala_NNP city_NN 15_CD 8_CD 8_CD 19_CD 31_CD 30_CD 29_CD 34_CD 21_CD 17_CD 22_CD 23_CD 260_CD 2_CD Jagadhri_NNP 20_CD 25_CD 38_CD 14_CD 27_CD 18_CD 20_CD 24_CD 15_CD 15_CD 19_CD 20_CD 255_CD 3_CD Buriya_NNP 7_CD 6_CD 9_CD 5_CD 7_CD 6_CD 2_CD 4_CD 9_CD 8_CD 8_CD 3_CD 74_CD 4_CD Sadhaura_NNP 2_CD 2_CD 2_CD 1_CD 7_CD 7_CD 3_CD 6_CD 4_CD 6_CD 10_CD 1_CD 51_CD 5_CD Rupar_NNP 2_CD 2_CD 1_CD 7_CD 9_CD 4_CD 5_CD 6_CD 2_CD 6_CD 10_CD 54_CD Total_NN of_IN towns_NNS 46_CD 43_CD 57_CD 40_CD 79_CD 70_CD 58_CD 73_CD 55_CD 48_CD 65_CD 60_CD 394_CD 6_CD Ambala_NNP 44_CD 49_CD 59_CD 58_CD 75_CD 69_CD 66_CD 51_CD 47_CD 33_CD 63_CD 64_CD 678_CD 7_CD Mullana_NNP 57_CD 47_CD 48_CD 53_CD 74_CD 49_CD 37_CD 36_CD 37_CD 36_CD 58_CD 67_CD 599_CD 8_CD Jagadhri_NNP 78_CD 100_CD 77_CD 54_CD 63_CD 59_CD 71_CD 61_CD 54_CD 60_CD 96_CD 104_CD 877_CD 9_CD Bilaspur_NNP 102_CD 57_CD 71_CD 69_CD 67_CD 83_CD 54_CD 39_CD 42_CD 60_CD 68_CD 82_CD 794_CD 10_CD Chappar_NNP 50_CD 60_CD 49_CD 49_CD 39_CD 46_CD 41_CD 31_CD 43_CD 53_CD 57_CD 71_CD 589_CD 11_CD Sadhaura_NNP 37_CD 44_CD 28_CD 19_CD 39_CD 39_CD 31_CD 32_CD 25_CD 34_CD 41_CD 36_CD 405_CD 12_CD Naraingarh_NNP 56_CD 42_CD 50_CD 35_CD 34_CD 41_CD 54_CD 22_CD 41_CD 57_CD 39_CD 54_CD 525_CD 13_CD Raipur_NNP 19_CD 26_CD 29_CD 33_CD 36_CD 28_CD 45_CD 84_CD 29_CD 59_CD 84_CD 31_CD 403_CD 14_CD Chandigarh_NNP 44_CD 28_CD 30_CD 22_CD 3\ill\_CD 28_CD 29_CD 24_CD 29_CD 31_CD 37_CD 40_CD 378_CD 15_CD Mubarakpur_NNP 32_CD 28_CD 32_CD 20_CD 40_CD 40_CD 21_CD 20_CD 15_CD 28_CD 21_CD 38_CD 335_CD 16_CD Kharar_NNP 87_CD 61_CD 57_CD 72_CD 8\ill\_CD 87_CD 85_CD 49_CD 74_CD 73_CD 66_CD 69_CD 869_CD 17_CD Rupar_NNP 57_CD 34_CD 89_CD 28_CD 39_CD 50_CD 51_CD 29_CD 56_CD 38_CD 56_CD 60_CD 537_CD 18_CD Moranda_NNP 56_CD 45_CD 37_CD 37_CD 54_CD 52_CD 58_CD 33_CD 61_CD 31_CD 32_CD 32_CD 528_CD 19_CD Kalka_NNP 1_CD 2_CD 3_CD 5_CD 10_CD 6_CD 5_CD 3_CD 8_CD 5_CD 2_CD 7_CD 52_CD Total_NN of_IN rural_JJ circles_NNS ._.
+720_CD 623_CD 609_CD 554_CD 695_CD 677_CD 648_CD 464_CD 556_CD 598_CD 670_CD 755_CD 7,569_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 766_CD 666_CD 666_CD 594_CD 774_CD 747_CD 706_CD 537_CD 611_CD 646_CD 735_CD 815_CD 8,263_CD ix_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Simla_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Simla_NNP 9_CD 7_CD 7_CD 13_CD 23_CD 16_CD 18_CD 6_CD 7_CD 18_CD 10_CD 14_CD 148_CD Total_NN of_IN towns_NNS 9_CD 7_CD 7_CD 13_CD 23_CD 16_CD 18_CD 6_CD 7_CD 18_CD 10_CD 14_CD 148_CD 2_CD Kot_NNP Khai_NNP 6_CD 3_CD 6_CD 15_CD 9_CD 3_CD 2_CD 7_CD 4_CD 8_CD 7_CD 1_CD 71_CD 3_CD Bharnauli_NNP 2_CD 6_CD 4_CD 1_CD 6_CD 8_CD 2_CD 7_CD 6_CD 5_CD 1_CD 2_CD 50_CD Total_NN of_IN rural_JJ circles_NNS 8_CD 9_CD 10_CD 16_CD 15_CD 11_CD 4_CD 14_CD 10_CD 13_CD 8_CD 3_CD 12\ill\_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+17_CD 16_CD 17_CD 29_CD 38_CD 27_CD 22_CD 20_CD 17_CD 31_CD 18_CD 17_CD 269_CD x_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Kangra_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Kangra_NNP 1_CD 1_CD 4_CD 4_CD 3_CD 3_CD 4_CD 4_CD 2_CD 2_CD 3_CD 31_CD 2_CD Dharmsala_NNP 1_CD 1_CD 4_CD 5_CD 4_CD 15_CD Total_NN of_IN towns_NNS 1_CD 1_CD 4_CD 4_CD 2_CD 4_CD 5_CD 8_CD 7_CD 6_CD 3_CD 46_CD 3_CD Kangra_NNP 37_CD 20_CD 52_CD 65_CD 133_CD 66_CD 50_CD 73_CD 106_CD 111_CD 74_CD 63_CD 850_CD 4_CD Shahpur_NNP 18_CD 24_CD 29_CD 9_CD 46_CD 52_CD 20_CD 45_CD 39_CD 48_CD 36_CD 82_CD 898_CD 5_CD Palampur_NNP 78_CD 91_CD 109_CD 82_CD 221_CD 167_CD 168_CD 107_CD 226_CD 183_CD 92_CD 127_CD 1,651_CD 6_CD Dharumsala_NNP 20_CD 22_CD 24_CD 18_CD 45_CD 43_CD 23_CD 33_CD 32_CD 22_CD 24_CD 22_CD 328_CD 7_CD Hamirpur_NNP 84_CD 79_CD 89_CD 96_CD 125_CD 88_CD 83_CD 70_CD 124_CD 111_CD 92_CD 86_CD 1,127_CD 8_CD Sujanpur_NNP 63_CD 54_CD 82_CD 67_CD 107_CD 115_CD 74_CD 79_CD 130_CD 139_CD 91_CD 92_CD 1,093_CD 9_CD Barsar_NNP 108_CD 81_CD 110_CD 107_CD 108_CD 61_CD 89_CD 75_CD 92_CD 109_CD 111_CD 122_CD 1,173_CD 10_CD Kulu_NNP 99_CD 65_CD 95_CD 101_CD 169_CD 217_CD 201_CD 179_CD 136_CD 128_CD 103_CD 83_CD 1,576_CD 11_CD Saraj_NNP 48_CD 53_CD 56_CD 34_CD 64_CD 68_CD 78_CD 67_CD 52_CD 53_CD 58_CD 66_CD 697_CD 12_CD Haripur_NNP 54_CD 48_CD 27_CD 57_CD 71_CD 52_CD 57_CD 41_CD 79_CD 78_CD 80_CD 78_CD 722_CD 13_CD Dera_NNP 72_CD 54_CD 55_CD 37_CD 61_CD 51_CD 49_CD 50_CD 69_CD 93_CD 72_CD 65_CD 728_CD 14_CD Jawalaji_NNP 52_CD 41_CD 55_CD 51_CD 89_CD 62_CD 51_CD 52_CD 98_CD 171_CD 95_CD 113_CD 930_CD 15_CD Nurpur_NNP 67_CD 67_CD 62_CD 70_CD 106_CD 56_CD 75_CD 54_CD 88_CD 139_CD 164_CD 133_CD 1,081_CD 16_CD Indoura_NNP 52_CD 24_CD 39_CD 42_CD 56_CD 40_CD 30_CD 15_CD 53_CD 57_CD 62_CD 83_CD 553_CD 17_CD Kotla_NNP 29_CD 26_CD 24_CD 18_CD 36_CD 37_CD 31_CD 21_CD 51_CD 40_CD 30_CD 51_CD 394_CD Total_NN of_IN rural_JJ circles_NNS 881_CD 749_CD 908_CD 854_CD 1,437_CD 1,175_CD 1,079_CD 961_CD 1,375_CD 1,482_CD 1,184_CD 1,216_CD 13,301_CD Total_NN of_IN town_NN and_CC rural_JJ circles_NNS ._.
+882_CD 749_CD 909_CD 858_CD 1,441_CD 1,178_CD 1,083_CD 966_CD 1,383_CD 1,489_CD 1,190_CD 1,219_CD 13,847_CD xi_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Hoshiarpur_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Hoshiarpur_NNP 18_CD 12_CD 20_CD 19_CD 33_CD 24_CD 32_CD 11_CD 21_CD 14_CD 18_CD 10_CD 232_CD 2_CD Khanpur_NNP 2_CD 2_CD 4_CD 3_CD 3_CD 2_CD 4_CD 5_CD 3_CD 28_CD 3_CD Hariana_NNP 14_CD 10_CD 4_CD 9_CD 6_CD 11_CD 8_CD 6_CD 7_CD 6_CD 5_CD 14_CD 100_CD 4_CD Garhdiwala_NNP 2_CD 3_CD 4_CD 3_CD 2_CD 1_CD 8_CD 5_CD 1_CD 7_CD 36_CD 5_CD Dasuya_NNP 2_CD 5_CD 11_CD 6_CD 7_CD 9_CD 7_CD 8_CD 4_CD 6_CD 1_CD 6_CD 72_CD 6_CD Tanda_NNP 10_CD 14_CD 17_CD 14_CD 17_CD 14_CD 14_CD 9_CD 7_CD 4_CD 10_CD 12_CD 142_CD 7_CD Miani_NNP 8_CD 1_CD 5_CD 7_CD 12_CD 7_CD 1_CD 6_CD 4_CD 6_CD 6_CD 63_CD 8_CD Mukerian_JJ 2_CD 3_CD 3_CD 1_CD 2_CD 3_CD 5_CD 1_CD 1_CD 2_CD 3_CD 26_CD 9_CD Una_NNP 2_CD 6_CD 1_CD 3_CD 2_CD 4_CD 5_CD 3_CD 7_CD 7_CD 3_CD 5_CD 48_CD 10_CD Anandpur_NNP 1_CD 1_CD 9_CD 6_CD 4_CD 4_CD 7_CD 3_CD 3_CD 3_CD 4_CD 4_CD 49_CD Total_NN of_IN towns_NNS 61_CD 51_CD 68_CD 73_CD 83_CD 85_CD 86_CD 58_CD 61_CD 53_CD 50_CD 67_CD 796_CD 11_CD Hoshiarpur_NNP 116_CD 95_CD 108_CD 147_CD 151_CD 123_CD 117_CD 117_CD 112_CD 113_CD 105_CD 145_CD 1,449_CD 12_CD Hariana_NNP 101_CD 73_CD 93_CD 117_CD 139_CD 105_CD 86_CD 94_CD 71_CD 97_CD 85_CD 97_CD 1,158_CD 13_CD Garhdiwala_NNP 65_CD 45_CD 58_CD 69_CD 77_CD 74_CD 57_CD 54_CD 56_CD 56_CD 46_CD 62_CD 719_CD 14_CD Dasuya_NNP 57_CD 68_CD 61_CD 65_CD 77_CD 58_CD 47_CD 73_CD 50_CD 46_CD 64_CD 53_CD 719_CD 15_CD Tanda_NNP 63_CD 74_CD 69_CD 86_CD 98_CD 111_CD 67_CD 70_CD 52_CD 50_CD 61_CD 75_CD 876_CD 16_CD Mukerian_JJ 75_CD 50_CD 54_CD 77_CD 95_CD 80_CD 67_CD 61_CD 63_CD 68_CD 73_CD 74_CD 837_CD 17_CD Hajipur_NNP 81_CD 97_CD 86_CD 96_CD 139_CD 94_CD 85_CD 56_CD 78_CD 99_CD 92_CD 130_CD 1,133_CD 18_CD Garhshankar_NNP 128_CD 102_CD 108_CD 105_CD 124_CD 122_CD 110_CD 80_CD 97_CD 118_CD 113_CD 195_CD 1,402_CD 19_CD Balachaur_NNP 92_CD 72_CD 80_CD 71_CD 119_CD 99_CD 67_CD 79_CD 87_CD 72_CD 71_CD 81_CD 990_CD 20_CD Mahilpur_NNP 117_CD 73_CD 59_CD 95_CD 134_CD 122_CD 106_CD 114_CD 96_CD 102_CD 101_CD 133_CD 1,252_CD 21_CD Una_NNP 156_CD 135_CD 148_CD 156_CD 147_CD 123_CD 103_CD 99_CD 139_CD 157_CD 152_CD 173_CD 1,688_CD 22_CD Umb_NNP 101_CD 79_CD 93_CD 100_CD 130_CD 96_CD 82_CD 67_CD 104_CD 134_CD 117_CD 154_CD 1,257_CD 23_CD Nurpur_NNP 70_CD 57_CD 64_CD 80_CD 91_CD 65_CD 65_CD 59_CD 56_CD 63_CD 57_CD 82_CD 809_CD 24_CD Anandpur_NNP 40_CD 36_CD 50_CD 44_CD 52_CD 40_CD 31_CD 35_CD 28_CD 45_CD 33_CD 36_CD 470_CD 25_CD Thana_NNP Total_NNP of_IN rural_JJ circles_NNS 1,262_CD 1,056_CD 1,131_CD 1,308_CD 1,573_CD 1,312_CD 1,090_CD 1,058_CD 1,089_CD 1,220_CD 1,170_CD 1,490_CD 14,759_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+1,323_CD 1,107_CD 1,199_CD 1,381_CD 1,656_CD 1,397_CD 1,176_CD 1,116_CD 1,150_CD 1,273_CD 1,220_CD 1,557_CD 15,555_CD ?_. xii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Jullundur_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Jullundur_NNP 38_CD 39_CD 46_CD 42_CD 55_CD 52_CD 45_CD 44_CD 28_CD 35_CD 35_CD 62_CD 521_CD 2_CD Kartarpur_NNP 3_CD 8_CD 4_CD 6_CD 13_CD 9_CD 3_CD 6_CD 8_CD 5_CD 10_CD 9_CD 84_CD 3_CD Rahon_NNP 10_CD 5_CD 5_CD 12_CD 2_CD 7_CD 5_CD 5_CD 5_CD 4_CD 3_CD 3_CD 66_CD 4_CD Banga_NNP 3_CD 4_CD 5_CD 4_CD 9_CD 8_CD 7_CD 3_CD 7_CD 3_CD 11_CD 15_CD 79_CD 5_CD Phillaur_NNP 5_CD 3_CD 6_CD 5_CD 6_CD 8_CD 3_CD 3_CD 3_CD 4_CD 8_CD 6_CD 60_CD 6_CD Nurmahal_NNP 8_CD 7_CD 1_CD 5_CD 9_CD 10_CD 4_CD 8_CD 7_CD 4_CD 8_CD 10_CD 81_CD 7_CD Nakodar_NNP 8_CD 15_CD 6_CD 10_CD 11_CD 6_CD 7_CD 8_CD 11_CD 5_CD 20_CD 13_CD 120_CD Total_NN of_IN towns_NNS 75_CD 81_CD 73_CD 84_CD 105_CD 100_CD 74_CD 77_CD 69_CD 60_CD 95_CD 118_CD 1,011_CD 8_CD Jullundur_NNP 139_CD 130_CD 101_CD 63_CD 94_CD 101_CD 88_CD 84_CD 56_CD 64_CD 87_CD 92_CD 1,099_CD 9_CD Adampur_NNP 62_CD 57_CD 73_CD 84_CD 126_CD 75_CD 80_CD 66_CD 68_CD 63_CD 65_CD 86_CD 905_CD 10_CD Kartarpur_NNP 46_CD 33_CD 24_CD 17_CD 81_CD 21_CD 29_CD 35_CD 23_CD 22_CD 26_CD 30_CD 337_CD 11_CD Banga_NNP 80_CD 70_CD 64_CD 44_CD 133_CD 72_CD 74_CD 80_CD 112_CD 98_CD 125_CD 121_CD 1,073_CD 12_CD Rahon_NNP 53_CD 108_CD 107_CD 115_CD 91_CD 75_CD 77_CD 54_CD 84_CD 79_CD 85_CD 104_CD 1,032_CD 13_CD Phillaur_NNP 143_CD 86_CD 90_CD 57_CD 142_CD 142_CD 82_CD 76_CD 69_CD 72_CD 76_CD 128_CD 1,163_CD 14_CD Nurmahal_NNP 59_CD 72_CD 61_CD 88_CD 87_CD 96_CD 70_CD 69_CD 58_CD 79_CD 82_CD 96_CD 867_CD 15_CD Nakodar_NNP 82_CD 84_CD 116_CD 127_CD 125_CD 104_CD 100_CD 75_CD 71_CD 54_CD 87_CD 137_CD 1,162_CD 16_CD Shahkot_NNP 91_CD 88_CD 101_CD 141_CD 184_CD 112_CD 121_CD 81_CD 69_CD 89_CD 111_CD 148_CD 1,336_CD 17_CD Bhogpur_NNP 36_CD 23_CD 27_CD 35_CD 43_CD 47_CD 34_CD 32_CD 36_CD 30_CD 34_CD 42_CD 419_CD Total_NN of_IN rural_JJ circles_NNS 791_CD 751_CD 764_CD 721_CD 1,056_CD 845_CD 755_CD 652_CD 646_CD 650_CD 778_CD 984_CD 9,393_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 866_CD 832_CD 837_CD 805_CD 1,161_CD 945_CD 829_CD 729_CD 715_CD 710_CD 873_CD 1,102_CD 10,404_CD ?_. xiii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Ludhiana_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Ludhiana_NNP 74_CD 63_CD 105_CD 87_CD 76_CD 39_CD 32_CD 28_CD 31_CD 42_CD 51_CD 47_CD 675_CD 2_CD Jagraon_NNP 12_CD 12_CD 16_CD 19_CD 12_CD 9_CD 13_CD 6_CD 13_CD 14_CD 12_CD 14_CD 152_CD 3_CD Raekot_NNP 2_CD 1_CD 1_CD 6_CD 1_CD 2_CD 2_CD 5_CD 4_CD 5_CD 7_CD 36_CD 4_CD Khanna_NNP 1_CD 3_CD 3_CD 5_CD 2_CD 6_CD 2_CD 2_CD 2_CD 4_CD 30_CD Total_NN of_IN towns_NNS 88_CD 75_CD 123_CD 110_CD 97_CD 54_CD 49_CD 42_CD 51_CD 62_CD 70_CD 72_CD 893_CD 5_CD Ludhiana_NNP 70_CD 56_CD 67_CD 53_CD 94_CD 85_CD 75_CD 54_CD 46_CD 56_CD 70_CD 70_CD 796_CD 6_CD Dehlon_NNP 61_CD 44_CD 47_CD 32_CD 73_CD 69_CD 60_CD 46_CD 45_CD 62_CD 70_CD 110_CD 719_CD 7_CD Raekot_NNP 50_CD 42_CD 22_CD 29_CD 27_CD 47_CD 61_CD 39_CD 38_CD 49_CD 63_CD 67_CD 534_CD 8_CD Kahna_NNP 24_CD 19_CD 20_CD 19_CD 38_CD 52_CD 19_CD 30_CD 25_CD 22_CD 26_CD 24_CD 318_CD 9_CD Sahnewal_NNP 45_CD 29_CD 28_CD 30_CD 44_CD 50_CD 42_CD 28_CD 26_CD 27_CD 38_CD 39_CD 426_CD 10_CD Jagraon_NNP 49_CD 44_CD 50_CD 60_CD 80_CD 109_CD 110_CD 92_CD 48_CD 71_CD 68_CD 75_CD 856_CD 11_CD Dakha_NNP 22_CD 18_CD 27_CD 21_CD 25_CD 20_CD 28_CD 24_CD 13_CD 18_CD 34_CD 58_CD 308_CD 12_CD Khanna_NNP 49_CD 30_CD 32_CD 37_CD 35_CD 40_CD 37_CD 39_CD 27_CD 38_CD 54_CD 15_CD 433_CD 13_CD Machhiwara_NNP 36_CD 27_CD 30_CD 28_CD 30_CD 25_CD 22_CD 20_CD 20_CD 19_CD 18_CD 27_CD 802_CD 14_CD Samrala_NNP 36_CD 11_CD 22_CD 20_CD 30_CD 37_CD 40_CD 30_CD 22_CD 33_CD 30_CD 35_CD 346_CD Total_NN of_IN rural_JJ circles_NNS 442_CD 320_CD 345_CD 329_CD 476_CD 534_CD 494_CD 402_CD 310_CD 395_CD 471_CD 520_CD 5,038_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 530_CD 396_CD 468_CD 439_CD 573_CD 588_CD 543_CD 444_CD 361_CD 457_CD 541_CD 592_CD 5,931_CD xiv_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT district_NN of_IN Ferozepore_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Ferozepore_NNP 34_CD 24_CD 20_CD 20_CD 24_CD 31_CD 21_CD 18_CD 17_CD 18_CD 11_CD 28_CD 266_CD 2_CD Zira_NNP 3_CD 2_CD 2_CD 6_CD 10_CD 6_CD 3_CD 4_CD 2_CD 3_CD 2_CD 9_CD 52_CD 3_CD Dharmkot_NNP 2_CD 1_CD 2_CD 3_CD 7_CD 2_CD 5_CD 1_CD 1_CD 3_CD 2_CD 29_CD 4_CD Muktsar_NNP 3_CD 4_CD 11_CD 5_CD 8_CD 12_CD 3_CD 3_CD 5_CD 5_CD 12_CD 10_CD 81_CD 5_CD Fazilka_NNP 11_CD 11_CD 9_CD 9_CD 2_CD 12_CD 11_CD 11_CD 8_CD 10_CD 15_CD 20_CD 129_CD Total_NN of_IN towns_NNS 53_CD 42_CD 44_CD 43_CD 51_CD 63_CD 43_CD 37_CD 32_CD 37_CD 43_CD 69_CD 557_CD 6_CD Ferozepore_RB 108_CD 114_CD 90_CD 76_CD 75_CD 72_CD 105_CD 47_CD 44_CD 42_CD 57_CD 72_CD 902_CD 7_CD Ghall_NNP 44_CD 17_CD 17_CD 30_CD 34_CD 39_CD 44_CD 40_CD 31_CD 43_CD 31_CD 49_CD 419_CD 8_CD Zira_NNP 41_CD 43_CD 44_CD 46_CD 50_CD 47_CD 55_CD 62_CD 67_CD 37_CD 52_CD 62_CD 606_CD 9_CD Mallanwala_NNP 12_CD 10_CD 6_CD 1_CD 14_CD 9_CD 6_CD 14_CD 4_CD 9_CD 2_CD 11_CD 98_CD 10_CD Mukhoo_NNP 25_CD 22_CD 19_CD 22_CD 29_CD 19_CD 21_CD 27_CD 19_CD 25_CD 27_CD 40_CD 295_CD 11_CD Dharmkot_NNP 56_CD 52_CD 51_CD 44_CD 76_CD 43_CD 51_CD 47_CD 42_CD 39_CD 51_CD 58_CD 610_CD 12_CD Mogha_NNP 34_CD 45_CD 56_CD 54_CD 59_CD 64_CD 70_CD 54_CD 61_CD 72_CD 69_CD 94_CD 782_CD 13_CD Nehalsinghwala_NNP 19_CD 10_CD 27_CD 18_CD 25_CD 34_CD 28_CD 28_CD 38_CD 26_CD 30_CD 44_CD 327_CD 14_CD Bhagpurana_NNP 46_CD 47_CD 33_CD 41_CD 73_CD 90_CD 77_CD 65_CD 59_CD 74_CD 86_CD 88_CD 779_CD 15_CD Nathana_NNP 35_CD 14_CD 25_CD 18_CD 20_CD 39_CD 44_CD 36_CD 30_CD 37_CD 38_CD 41_CD 376_CD 16_CD Muktsar_NNP 72_CD 76_CD 70_CD 67_CD 109_CD 89_CD 69_CD 75_CD 62_CD 61_CD 66_CD 121_CD 937_CD 17_CD Kot_NNP Bhai_NNP 24_CD 37_CD 49_CD 43_CD 69_CD 43_CD 52_CD 58_CD 39_CD 53_CD 46_CD 49_CD 562_CD 18_CD Jalalabad_NNP 148_CD 103_CD 90_CD 74_CD 84_CD 111_CD 90_CD 71_CD 49_CD 57_CD 157_CD 191_CD 1,225_CD 19_CD Mohanke_NNP 34_CD 24_CD 14_CD 20_CD 29_CD 27_CD 29_CD 15_CD 17_CD 6_CD 23_CD 19_CD 257_CD 20_CD Mamdot_NNP 70_CD 67_CD 40_CD 35_CD 52_CD 53_CD 34_CD 40_CD 31_CD 25_CD 53_CD 43_CD 553_CD 21_CD Abohar_NNP 87_CD 59_CD 78_CD 94_CD 114_CD 68_CD 86_CD 51_CD 87_CD 88_CD 92_CD 167_CD 1,071_CD 23_CD Usman_NNP Khera_NNP 34_CD 21_CD 27_CD 28_CD 17_CD 12_CD 23_CD 31_CD 25_CD 24_CD 31_CD 33_CD 306_CD 23_CD Malout_NNP 91_CD 71_CD 114_CD 121_CD 114_CD 86_CD 78_CD 64_CD 53_CD 93_CD 92_CD 118_CD 1,095_CD 24_CD Fazilka_NNP 120_CD 87_CD 89_CD 51_CD 102_CD 68_CD 78_CD 73_CD 82_CD 76_CD 79_CD 158_CD 1,063_CD Total_NN of_IN rural_JJ circles_NNS 1,100_CD 919_CD 939_CD 883_CD 1,145_CD 1,013_CD 1,040_CD 898_CD 840_CD 896_CD 1,082_CD 1,458_CD 12,213_CD Total_NN of_IN rural_JJ circles_NNS and_CC towns_NNS 1,153_CD 961_CD 983_CD 926_CD 1,196_CD 1,076_CD 1,083_CD 935_CD 872_CD 933_CD 1,125_CD 1,527_CD 12,770_CD XV_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT district_NN of_IN Lahore_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Lahore_NNP 226_CD 154_CD 231_CD 354_CD 524_CD 417_CD 371_CD 327_CD 265_CD 243_CD 358_CD 438_CD 3,903_CD 2_CD Chunian_JJ 5_CD 2_CD 9_CD 12_CD 7_CD 13_CD 9_CD 8_CD 7_CD 12_CD 12_CD 96_CD 9_CD Khudian_JJ 7_CD 2_CD 2_CD 1_CD 5_CD 3_CD 6_CD 7_CD 5_CD 3_CD 2_CD 43_CD 4_CD Kasur_NNP 39_CD 18_CD 89_CD 27_CD 66_CD 36_CD 40_CD 21_CD 16_CD 20_CD 23_CD 29_CD 374_CD 5_CD Khemkaran_NNP 4_CD 6_CD 2_CD 6_CD 5_CD 4_CD 1_CD 2_CD 1_CD 1_CD 6_CD 38_CD 6_CD Patti_NNP 5_CD 9_CD 7_CD 11_CD 11_CD 9_CD 10_CD 5_CD 9_CD 7_CD 7_CD 9_CD 99_CD Total_NN of_IN towns_NNS 28_CD 189_CD 281_CD 403_CD 620_CD 479_CD 441_CD 3_CD 9_CD 307_CD 283_CD 404_CD 496_CD 4,553_CD 7_CD Naulakha_NNP 11_CD 8_CD 9_CD 15_CD 10_CD 12_CD 4_CD 20_CD 6_CD 17_CD 18_CD 26_CD 156_CD 8_CD Muzang_NNP 61_CD 33_CD 34_CD 40_CD 80_CD 5_CD 50_CD 40_CD 37_CD 27_CD 40_CD 87_CD 575_CD 9_CD Raewind_NNP 71_CD 34_CD 51_CD 40_CD 81_CD 89_CD 76_CD 61_CD 63_CD 72_CD 72_CD 92_CD 802_CD 10_CD Munawan_NNP 46_CD 50_CD 46_CD 86_CD 96_CD 68_CD 55_CD 47_CD 55_CD 53_CD 66_CD 79_CD 607_CD 11_CD Shahdara_NNP 37_CD 37_CD 28_CD 29_CD 55_CD 48_CD 43_CD 41_CD 50_CD 69_CD 34_CD 59_CD 530_CD 12_CD Chung_NNP 52_CD 24_CD 25_CD 34_CD 28_CD 50_CD 31_CD 35_CD 30_CD 42_CD 38_CD 56_CD 445_CD 13_CD Kana_NNP Kacha_NNP 51_CD 44_CD 39_CD 39_CD 88_CD 101_CD 85_CD 54_CD 52_CD 43_CD 47_CD 64_CD 707_CD 14_CD Bhai_NNP Phern_NNP 40_CD 39_CD 35_CD 17_CD 63_CD 65_CD 51_CD 54_CD 46_CD 47_CD 51_CD 77_CD 585_CD 15_CD Serai_NNP Mughal_NNP 41_CD 23_CD 21_CD 14_CD 21_CD 39_CD 35_CD 18_CD 15_CD 28_CD 25_CD 28_CD 308_CD 16_CD Chunian_JJ 100_CD 66_CD 62_CD 44_CD 90_CD 64_CD 62_CD 65_CD 55_CD 36_CD 56_CD 89_CD 789_CD 17_CD Changa_NNP Manga_NNP 1_CD 1_CD 2_CD 2_CD 6_CD 18_CD Khudian_JJ 78_CD 42_CD 48_CD 42_CD 29_CD 56_CD 46_CD 38_CD 52_CD 39_CD 47_CD 64_CD 581_CD 19_CD Kanganpur_NNP 76_CD 46_CD 38_CD 34_CD 56_CD 52_CD 42_CD 30_CD 35_CD 26_CD 35_CD 74_CD 544_CD 20_CD Kasur_NNP 36_CD 32_CD 21_CD 24_CD 30_CD 50_CD 40_CD 29_CD 42_CD 28_CD 31_CD 60_CD 421_CD 21_CD Lulliani_NNP 48_CD 40_CD 35_CD 26_CD 65_CD 84_CD 56_CD 70_CD 46_CD 40_CD 47_CD 45_CD 602_CD 22_CD Patti_NNP 33_CD 33_CD 34_CD 40_CD 88_CD 73_CD 37_CD 38_CD 48_CD 57_CD 67_CD 67_CD 615_CD 23_CD Khalra_NNP 53_CD 65_CD 80_CD 78_CD 107_CD 108_CD 89_CD 65_CD 56_CD 60_CD 82_CD 91_CD 934_CD 24_CD Waltoha_NNP 50_CD 48_CD 45_CD 44_CD 82_CD 70_CD 58_CD 46_CD 39_CD 49_CD 49_CD 57_CD 632_CD 25_CD Barki_NNP 30_CD 23_CD 14_CD 28_CD 55_CD 45_CD 30_CD 25_CD 25_CD 29_CD 47_CD 57_CD 408_CD 26_CD Gaudas_NNP nghwala_RB 63_CD 57_CD 32_CD 18_CD 38_CD 54_CD 37_CD 38_CD 26_CD 24_CD 42_CD 55_CD 484_CD 27_CD Pattoki_NNP 74_CD 42_CD 39_CD 29_CD 77_CD 62_CD 64_CD 72_CD 56_CD 63_CD 62_CD 105_CD 745_CD 28_CD Mughalpur_NNP 8_CD 5_CD 8_CD 13_CD 10_CD 7_CD 11_CD 6_CD 9_CD 9_CD 12_CD 13_CD 111_CD Total_NN of_IN rural_JJ circles_NNS 1,049_CD 786_CD 744_CD 684_CD 1,249_CD 1,253_CD 1,003_CD 893_CD 843_CD 858_CD 970_CD 1,345_CD 11,677_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 1,335_CD 975_CD 1,025_CD 1,087_CD 1,869_CD 1,732_CD 1,444_CD 1,262_CD 1,150_CD 1,141_CD 1,374_CD 1,841_CD 16,235_CD ?_. xvi_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Amritsar_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Amritsar_NNP 267_CD 190_CD 229_CD 239_CD 249_CD 194_CD 212_CD 185_CD 140_CD 147_CD 159_CD 148_CD 2,359_CD 2_CD Majitha_NNP 2_CD 3_CD 8_CD 3_CD 18_CD 5_CD 5_CD 4_CD 4_CD 3_CD 5_CD 2_CD 57_CD 3_CD Jandiala_NNP 12_CD 8_CD 11_CD 6_CD 21_CD 18_CD 18_CD 9_CD 7_CD 3_CD 6_CD 5_CD 124_CD 4_CD Tarn_NNP Taran_NNP 3_CD 4_CD 4_CD 3_CD 6_CD 3_CD 4_CD 1_CD 2_CD 2_CD ..._: 2_CD 84_CD Total_NN of_IN towns_NNS 284_CD 205_CD 252_CD 251_CD 289_CD 220_CD 239_CD 199_CD 153_CD 155_CD 170_CD 157_CD 2,574_CD 5_CD Amritsar_NNP Civil_NNP Lines_NNPS ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 6_CD Amritsar_NNP P._NNP S._NNP 112_CD 128_CD 102_CD 83_CD 158_CD 125_CD 101_CD 106_CD 105_CD 94_CD 113_CD 111_CD 1,338_CD 7_CD Kathunagal_NNP 123_CD 93_CD 147_CD 128_CD 159_CD 159_CD 136_CD 118_CD 105_CD 82_CD 103_CD 133_CD 1,486_CD 8_CD Jandiala_NNP 152_CD 105_CD 101_CD 65_CD 205_CD 147_CD 116_CD 182_CD 93_CD 103_CD 122_CD 135_CD 1,476_CD 9_CD Beas_NNP 95_CD 99_CD 92_CD 70_CD 119_CD 143_CD 98_CD 81_CD 77_CD 79_CD 81_CD 49_CD 1,128_CD 10_CD Ajnala_NNP 127_CD 112_CD 125_CD 150_CD 205_CD 175_CD 112_CD 108_CD 86_CD 93_CD 128_CD 121_CD 1,542_CD 11_CD Ramdas_NNP 84_CD 93_CD 88_CD 87_CD 126_CD 139_CD 95_CD 66_CD 67_CD 69_CD 85_CD 97_CD 1,096_CD 12_CD Lopoki_NNP 110_CD 79_CD 91_CD 76_CD 133_CD 84_CD 87_CD 88_CD 70_CD 68_CD 87_CD 135_CD 1,108_CD 13_CD Tarn_NNP Taran_NNP 93_CD 73_CD 100_CD 87_CD 173_CD 146_CD 106_CD 88_CD 113_CD 114_CD 127_CD 138_CD 1,358_CD 14_CD Gharinda_NNP 75_CD 68_CD 82_CD 84_CD 108_CD 107_CD 74_CD 70_CD 65_CD 48_CD 85_CD 108_CD 974_CD 15_CD Sirhali_NNP 56_CD 59_CD 83_CD 122_CD 174_CD 124_CD 106_CD 94_CD 67_CD 63_CD 80_CD 99_CD 1,127_CD 16_CD Vairowal_NNP 64_CD 43_CD 57_CD 60_CD 103_CD 68_CD 79_CD 48_CD 40_CD 64_CD 72_CD 77_CD 775_CD Total_NN of_IN rural_JJ circles_NNS 1,091_CD 952_CD 1,068_CD 1,012_CD 1,663_CD 1,417_CD 1,110_CD 999_CD 888_CD 877_CD 1,083_CD 1,248_CD 13,408_CD Total_NN of_IN towns_NNS and_CC rural_JJ circle_NN 1,375_CD 1,157_CD 1,320_CD 1,263_CD 1,952_CD 1,637_CD 1,349_CD 1,198_CD 1,041_CD 1,032_CD 1,253_CD 1,405_CD 15,982_CD ?_. xvii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Gurdaspur_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Gurdaspur_NNP 1_CD 3_CD 6_CD 8_CD 7_CD 7_CD 4_CD 3_CD 5_CD 1_CD 2_CD 3_CD 50_CD 2_CD Dinanagar_NNP 4_CD 13_CD 7_CD 7_CD 14_CD 11_CD 3_CD 8_CD 5_CD 5_CD 11_CD 6_CD 94_CD 3_CD Pathankot_NNP 7_CD 6_CD 5_CD ..._: 3_CD 4_CD 4_CD 4_CD 5_CD 10_CD 16_CD 8_CD 72_CD 4_CD Dalhousie_NN ..._: ..._: ..._: 1_CD ..._: 3_CD ..._: ..._: ..._: ..._: ..._: ..._: 4_CD 5_CD Batala_NNP 27_CD 44_CD 45_CD 35_CD 27_CD 33_CD 28_CD 26_CD 28_CD 19_CD 42_CD 48_CD 402_CD 6_CD Dora_NNP Nanak_NNP 1_CD ..._: 3_CD 5_CD 2_CD 8_CD 4_CD 4_CD 4_CD 4_CD 6_CD 6_CD 47_CD Total_NN of_IN towns_NNS 40_CD 66_CD 66_CD 56_CD 53_CD 66_CD 43_CD 45_CD 47_CD 39_CD 77_CD 71_CD 669_CD 7_CD Gurdaspur_NNP 61_CD 38_CD 60_CD 49_CD 79_CD 50_CD 47_CD 43_CD 39_CD 23_CD 37_CD 40_CD 566_CD 8_CD Dinanagar_NNP 76_CD 68_CD 83_CD 45_CD 79_CD 67_CD 40_CD 42_CD 38_CD 40_CD 48_CD 62_CD 688_CD 9_CD Kalanaur_NNP 37_CD 28_CD 17_CD 21_CD 43_CD 49_CD 49_CD 29_CD 32_CD 27_CD 39_CD 49_CD 420_CD 10_CD Kahnuwan_NNP 44_CD 25_CD 36_CD 45_CD 54_CD 53_CD 49_CD 26_CD 31_CD 29_CD 35_CD 31_CD 458_CD 11_CD Rania_NNP 53_CD 64_CD 73_CD 62_CD 84_CD 83_CD 64_CD 63_CD 67_CD 64_CD 49_CD 62_CD 788_CD 12_CD Pathankot_NNP 77_CD 48_CD 45_CD 35_CD 83_CD 74_CD 56_CD 53_CD 88_CD 130_CD 111_CD 99_CD 899_CD 13_CD Narot_NNP 31_CD 25_CD 19_CD 17_CD 25_CD 22_CD 28_CD 15_CD 18_CD 34_CD 58_CD 25_CD 317_CD 14_CD Dunera_NNP 11_CD 10_CD 7_CD 13_CD 13_CD 8_CD 8_CD 15_CD 26_CD 27_CD 19_CD 19_CD 176_CD 15_CD Shahpur_NNP 29_CD 10_CD 20_CD 33_CD 47_CD 27_CD 24_CD 26_CD 26_CD 37_CD 58_CD 53_CD 390_CD 16_CD Chawal_NNP 59_CD 43_CD 21_CD 19_CD 37_CD 62_CD 61_CD 72_CD 43_CD 73_CD 75_CD 92_CD 657_CD 17_CD Kot_NNP Naina_NNP 55_CD 50_CD 39_CD 16_CD 49_CD 97_CD 71_CD 59_CD 55_CD 57_CD 75_CD 65_CD 688_CD 18_CD Shah_NNP Gharib_NNP 49_CD 32_CD 38_CD 20_CD 44_CD 43_CD 69_CD 42_CD 33_CD 34_CD 67_CD 72_CD 543_CD 19_CD Batala_NNP 103_CD 112_CD 113_CD 96_CD 131_CD 156_CD 140_CD 132_CD 101_CD 97_CD 107_CD 131_CD 1,419_CD 20_CD Srigobindpur_NNP 71_CD 47_CD 25_CD 16_CD 63_CD 86_CD 64_CD 38_CD 47_CD 40_CD 44_CD 39_CD 580_CD 21_CD Fatehgarh_NNP 57_CD 48_CD 66_CD 30_CD 66_CD 87_CD 51_CD 52_CD 48_CD 36_CD 44_CD 48_CD 633_CD 22_CD Dera_NNP Nanak_NNP 70_CD 62_CD 46_CD 42_CD 91_CD 62_CD 72_CD 43_CD 59_CD 64_CD 35_CD 62_CD 708_CD Total_NN of_IN rural_JJ circles_NNS 883_CD 705_CD 708_CD 559_CD 988_CD 1,026_CD 893_CD 750_CD 751_CD 812_CD 901_CD 949_CD 9,925_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+923_CD 771_CD 774_CD 615_CD 1,041_CD 1,092_CD 936_CD 795_CD 798_CD 851_CD 978_CD 1,020_CD 10,594_CD ?_. xviii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Death_NN in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Sialkot_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Sialkot_NNP 38_CD 23_CD 51_CD 39_CD 40_CD 46_CD 49_CD 27_CD 38_CD 30_CD 37_CD 31_CD 449_CD 2_CD Daska_NNP 7_CD 2_CD 2_CD 6_CD 1_CD 3_CD 4_CD 3_CD 5_CD 2_CD 5_CD 1_CD 41_CD 3_CD Jamke_NNP 3_CD ..._: ..._: ..._: 1_CD 4_CD 3_CD 4_CD ..._: 3_CD 6_CD 3_CD 27_CD 4_CD Pasrur_NNP 4_CD 5_CD 4_CD 4_CD 8_CD 10_CD 7_CD 2_CD 8_CD 5_CD 7_CD 8_CD 72_CD 5_CD Zaffarwal_NNP ..._: 1_CD ..._: ..._: 2_CD 5_CD 4_CD 1_CD 6_CD 1_CD 4_CD 3_CD 27_CD 6_CD Narowal_NNP 2_CD 4_CD 4_CD 4_CD 5_CD 6_CD 4_CD 1_CD 4_CD 5_CD 9_CD 4_CD 52_CD 7_CD Sambrial_JJ 7_CD 10_CD 5_CD 5_CD 3_CD 8_CD 5_CD 2_CD 4_CD 4_CD 2_CD 3_CD 58_CD 8_CD Sahowal_NNP 5_CD 1_CD 2_CD ..._: 2_CD 4_CD 1_CD ..._: 4_CD ..._: 3_CD 1_CD 23_CD 9_CD Begowala_NNP 10_CD 5_CD 5_CD 12_CD 5_CD 2_CD 2_CD 3_CD 3_CD 5_CD 2_CD 5_CD 59_CD 10_CD Bhopalwala_NNP 2_CD 3_CD 1_CD 1_CD 1_CD 2_CD 2_CD ..._: 1_CD 3_CD 7_CD ..._: 23_CD 11_CD Mitranwali_NNP 8_CD 4_CD 6_CD 5_CD 3_CD 7_CD 4_CD 5_CD 4_CD 2_CD 2_CD 4_CD 54_CD 12_CD Badomali_NNP 1_CD 4_CD 4_CD 1_CD 1_CD ..._: 2_CD ..._: 9_CD 3_CD 1_CD 4_CD 30_CD 13_CD Kalaswala_NNP 2_CD ..._: ..._: 2_CD 2_CD ..._: ..._: ..._: 1_CD 1_CD 1_CD 4_CD 13_CD 14_CD Daud_NNP 8_CD 2_CD 4_CD ..._: 3_CD 8_CD 2_CD 3_CD 6_CD 2_CD 1_CD 7_CD 46_CD 15_CD Chawinda_NNP 3_CD 3_CD 1_CD ..._: ..._: 2_CD 2_CD 4_CD 5_CD 1_CD 4_CD 4_CD 29_CD Total_NN of_IN towns_NNS 100_CD 67_CD 89_CD 79_CD 77_CD 107_CD 91_CD 55_CD 98_CD 67_CD 91_CD 82_CD 1,003_CD 16_CD Sialkot_NNP 64_CD 57_CD 102_CD 145_CD 192_CD 87_CD 86_CD 62_CD 69_CD 89_CD 74_CD 86_CD 1,113_CD 17_CD Chaprar_NNP 68_CD 55_CD 63_CD 58_CD 75_CD 57_CD 42_CD 42_CD 46_CD 55_CD 47_CD 49_CD 657_CD 18_CD Sambrial_JJ 82_CD 54_CD 78_CD 63_CD 109_CD 127_CD 89_CD 87_CD 82_CD 84_CD 73_CD 109_CD 1,037_CD 19_CD Daska_NNP 120_CD 71_CD 89_CD 56_CD 97_CD 100_CD 82_CD 68_CD 74_CD 76_CD 78_CD 94_CD 1,005_CD 20_CD Phuklian_JJ 29_CD 25_CD 42_CD 15_CD 16_CD 15_CD 12_CD 20_CD 17_CD 30_CD 35_CD 47_CD 303_CD 21_CD Kila_NNP Sobha_NNP Singh_NNP 19_CD 24_CD 26_CD 21_CD 34_CD 35_CD 25_CD 23_CD 24_CD 31_CD 37_CD 42_CD 341_CD 22_CD Pasrur_NNP 87_CD 34_CD 28_CD 30_CD 53_CD 73_CD 55_CD 47_CD 49_CD 59_CD 57_CD 84_CD 656_CD 23_CD Dharam_NNP Kot_NNP 66_CD 51_CD 44_CD 18_CD 68_CD 49_CD 59_CD 49_CD 37_CD 34_CD 43_CD 55_CD 578_CD 24_CD Satrah_NNP 118_CD 132_CD 99_CD 81_CD 93_CD 121_CD 105_CD 106_CD 81_CD 73_CD 98_CD 148_CD 1,255_CD 25_CD Zaffarwal_NNP 67_CD 69_CD 45_CD 50_CD 89_CD 68_CD 57_CD 42_CD 44_CD 38_CD 60_CD 86_CD 715_CD 26_CD Philloura_NNP 75_CD 58_CD 75_CD 42_CD 54_CD 58_CD 63_CD 71_CD 49_CD 60_CD 79_CD 76_CD 760_CD 27_CD Narowal_NNP 58_CD 51_CD 67_CD 44_CD 78_CD 69_CD 58_CD 55_CD 40_CD 60_CD 62_CD 95_CD 737_CD 28_CD Raya_NNP 72_CD 55_CD 61_CD 53_CD 89_CD 57_CD 62_CD 38_CD 44_CD 51_CD 50_CD 69_CD 701_CD 29_CD Miani_NNP 92_CD 99_CD 97_CD 112_CD 132_CD 82_CD 58_CD 65_CD 61_CD 60_CD 95_CD 101_CD 1,054_CD 30_CD Niddoke_VBD 43_CD 30_CD 29_CD 32_CD 76_CD 56_CD 54_CD 43_CD 36_CD 46_CD 55_CD 80_CD 580_CD Total_NN of_IN rural_JJ circles_NNS 1,060_CD 865_CD 945_CD 820_CD 1,255_CD 1,054_CD 907_CD 818_CD 753_CD 846_CD 943_CD 1,221_CD 11,487_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+1,160_CD 932_CD 1,034_CD 899_CD 1,332_CD 1,161_CD 998_CD 873_CD 851_CD 913_CD 1,034_CD 1,303_CD 12,490_CD ?_. xix_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Gujranwala_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Gujranwala_NNP 44_CD 23_CD 27_CD 30_CD 34_CD 35_CD 38_CD 26_CD 37_CD 23_CD 70_CD 67_CD 454_CD 2_CD Wazirabad_NNP 16_CD 27_CD 14_CD 20_CD 20_CD 25_CD 22_CD 22_CD 19_CD 9_CD 33_CD 20_CD 247_CD 3_CD Eminabad_NNP 14_CD 11_CD 2_CD 3_CD 3_CD 9_CD 5_CD 4_CD 9_CD 8_CD 11_CD 19_CD 98_CD 4_CD Kila_NNP Didar_NNP Singh_NNP ..._: 2_CD 3_CD ..._: 4_CD ..._: 1_CD 1_CD 3_CD 1_CD 2_CD 6_CD 23_CD 5_CD Akalgarh_NNP 4_CD 1_CD 2_CD 4_CD 4_CD 2_CD 1_CD 1_CD 2_CD 3_CD 2_CD 25_CD 6_CD Ramnagar_NNP 4_CD 4_CD 9_CD 6_CD 3_CD 3_CD 6_CD 2_CD 5_CD 4_CD 9_CD 9_CD 64_CD 7_CD Sodhra_NNP 5_CD 3_CD 6_CD 3_CD 8_CD 6_CD 12_CD 13_CD 8_CD 8_CD 13_CD 14_CD 99_CD 8_CD Hafizabad_NNP 2_CD 3_CD 2_CD 2_CD 1_CD 15_CD 9_CD 3_CD 1_CD 4_CD 3_CD ..._: 45_CD 9_CD Khangah_NNP 1_CD ..._: ..._: ..._: ..._: 2_CD 2_CD ..._: ..._: ..._: 1_CD 1_CD 7_CD 10_CD Pindi_NNP Bhattian_NNP 3_CD 1_CD 1_CD ..._: 2_CD 1_CD 3_CD 5_CD 4_CD 7_CD 5_CD 2_CD 34_CD 11_CD Sangla_NNP 4_CD 3_CD 1_CD 1_CD 2_CD 1_CD 1_CD ..._: 2_CD 3_CD 1_CD ..._: 19_CD 12_CD Sharakpur_NNP 4_CD 5_CD 2_CD 1_CD 3_CD 6_CD 4_CD 1_CD ..._: 1_CD 4_CD 4_CD 35_CD 13_CD Shahkote_NNP 1_CD 1_CD ..._: ..._: 1_CD ..._: 1_CD 1_CD ..._: ..._: 1_CD ..._: 6_CD Total_NN of_IN towns_NNS 102_CD 84_CD 69_CD 70_CD 85_CD 103_CD 106_CD 79_CD 89_CD 70_CD 156_CD 144_CD 1,157_CD 14_CD Gujranwala_NNP 150_CD 103_CD 89_CD 47_CD 130_CD 90_CD 82_CD 70_CD 68_CD 78_CD 143_CD 214_CD 1,264_CD 15_CD Kamoke_NNP 306_CD 225_CD 167_CD 40_CD 85_CD 90_CD 50_CD 71_CD 69_CD 44_CD 63_CD 112_CD 1,822_CD 16_CD Kila_NNP Didar_NNP Singh_NNP 71_CD 42_CD 35_CD 31_CD 56_CD 64_CD 40_CD 54_CD 27_CD 43_CD 50_CD 84_CD 597_CD 17_CD Wazirabad_NNP 121_CD 84_CD 113_CD 68_CD 149_CD 100_CD 93_CD 88_CD 78_CD 81_CD 110_CD 179_CD 1,264_CD 18_CD Akalgarh_NNP 94_CD 54_CD 64_CD 59_CD 86_CD 82_CD 56_CD 61_CD 42_CD 51_CD 47_CD 89_CD 785_CD 19_CD Hafzabad_NNP 109_CD 85_CD 60_CD 49_CD 129_CD 149_CD 137_CD 109_CD 101_CD 59_CD 94_CD 93_CD 1,174_CD 20_CD Sheikupura_NNP 83_CD 59_CD 46_CD 24_CD 89_CD 117_CD 68_CD 46_CD 31_CD 35_CD 65_CD 87_CD 750_CD 21_CD Khangah_NNP 55_CD 47_CD 59_CD 33_CD 48_CD 88_CD 103_CD 83_CD 43_CD 42_CD 64_CD 83_CD 748_CD 23_CD Vanike_NNP 64_CD 27_CD 37_CD 33_CD 47_CD 74_CD 36_CD 40_CD 25_CD 22_CD 39_CD 53_CD 497_CD 24_CD Sangla_NNP 51_CD 44_CD 33_CD 63_CD 99_CD 72_CD 75_CD 67_CD 49_CD 66_CD 51_CD 79_CD 749_CD 25_CD Mananwala_NNP 57_CD 43_CD 39_CD 32_CD 140_CD 132_CD 109_CD 67_CD 80_CD 69_CD 44_CD 86_CD 898_CD 26_CD Sharakpur_NNP 123_CD 50_CD 74_CD 10_CD 29_CD 48_CD 34_CD 63_CD 44_CD 34_CD 74_CD 105_CD 688_CD 27_CD Mangtanwala_NNP 55_CD 31_CD 48_CD 19_CD 51_CD 63_CD 54_CD 49_CD 26_CD 37_CD 28_CD 99_CD 560_CD 28_CD Muridke_NNP 134_CD 115_CD 73_CD 73_CD 101_CD 82_CD 64_CD 61_CD 60_CD 61_CD 86_CD 140_CD 1,050_CD 29_CD Nankana_NNP 36_CD 38_CD 31_CD 18_CD 31_CD 53_CD 74_CD 60_CD 34_CD 22_CD 28_CD 70_CD 495_CD 30_CD Naushera_NN ..._: ..._: ..._: 84_CD 137_CD 68_CD 74_CD 79_CD 60_CD 71_CD 103_CD 153_CD 829_CD Total_NN of_IN rural_JJ circles_NNS 1,592_CD 1,097_CD 1,032_CD 722_CD 1,478_CD 1,453_CD 1,241_CD 1,114_CD 890_CD 873_CD 1,147_CD 1,799_CD 14,438_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+1,694_CD 1,181_CD 1,101_CD 792_CD 1,563_CD 1,556_CD 1,347_CD 1,193_CD 979_CD 943_CD 1,303_CD 1,943_CD 15,595_CD XX_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Gujrat_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Gujrat_NNP 15_CD 15_CD 12_CD 23_CD 37_CD 36_CD 27_CD 14_CD 20_CD 25_CD 18_CD 21_CD 263_CD 2_CD Jalalpur_NNP 3_CD 7_CD 14_CD 11_CD 12_CD 15_CD 19_CD 6_CD 7_CD 11_CD 14_CD 15_CD 134_CD 3_CD Kunjah_NNP 7_CD 1_CD 2_CD 4_CD 7_CD 3_CD 4_CD 2_CD 3_CD 1_CD 2_CD 4_CD 40_CD 4_CD Dingah_NNP 3_CD ..._: ..._: ..._: 4_CD 3_CD 4_CD 5_CD 1_CD ..._: 1_CD 7_CD 28_CD Total_NN of_IN towns_NNS 28_CD 23_CD 23_CD 38_CD 60_CD 57_CD 54_CD 27_CD 31_CD 37_CD 35_CD 47_CD 465_CD 5_CD Gujrat_NNP 103_CD 67_CD 100_CD 61_CD 74_CD 40_CD 89_CD 87_CD 101_CD 108_CD 91_CD 120_CD 1,041_CD 6_CD Jalalpur_NNP 42_CD 45_CD 39_CD 34_CD 33_CD 46_CD 54_CD 47_CD 65_CD 60_CD 65_CD 69_CD 599_CD 7_CD Karianwala_NNP 69_CD 67_CD 72_CD 40_CD 56_CD 41_CD 58_CD 44_CD 67_CD 74_CD 85_CD 119_CD 792_CD 8_CD Pahrianwali_NNP 112_CD 58_CD 54_CD 40_CD 36_CD 49_CD 103_CD 71_CD 93_CD 71_CD 97_CD 80_CD 864_CD 9_CD Kathala_NNP Sheikhan_NNP 68_CD 32_CD 40_CD 2_CD 13_CD 20_CD 48_CD 58_CD 81_CD 59_CD 47_CD 76_CD 544_CD 10_CD Kadirabad_NNP 26_CD 18_CD 18_CD 13_CD 19_CD 23_CD 23_CD 35_CD 31_CD 27_CD 37_CD 49_CD 319_CD 11_CD Dingah_NNP 80_CD 56_CD 36_CD 11_CD 7_CD 50_CD 74_CD 70_CD 106_CD 71_CD 62_CD 115_CD 738_CD 12_CD Kharian_JJ 64_CD 55_CD 37_CD 19_CD 24_CD 38_CD 84_CD 69_CD 48_CD 65_CD 62_CD 79_CD 644_CD 13_CD Lala_NNP Musa_NNP 110_CD 85_CD 71_CD 46_CD 44_CD 64_CD 131_CD 77_CD 107_CD 138_CD 141_CD 153_CD 1,167_CD 14_CD Aurangabad_NNP 44_CD 47_CD 37_CD 33_CD 35_CD 33_CD 50_CD 49_CD 53_CD 48_CD 51_CD 75_CD 555_CD 15_CD Miana_NNP Gondal_NNP 29_CD 31_CD 16_CD 9_CD 17_CD 15_CD 52_CD 30_CD 21_CD 15_CD 19_CD 43_CD 297_CD Total_NN of_IN rural_JJ circles_NNS 747_CD 561_CD 520_CD 308_CD 358_CD 419_CD 766_CD 637_CD 773_CD 736_CD 757_CD 978_CD 7,560_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 775_CD 584_CD 548_CD 346_CD 418_CD 476_CD 820_CD 664_CD 804_CD 773_CD 792_CD 1,025_CD 8,025_CD xxi_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Shahpur_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Shahpur_NNP 2_CD 4_CD 4_CD 3_CD 3_CD 6_CD 7_CD 3_CD 3_CD 18_CD 53_CD 2_CD Sahiwal_NNP 6_CD 6_CD 10_CD 7_CD 4_CD 11_CD 7_CD 18_CD 7_CD 2_CD 7_CD 18_CD 103_CD 3_CD Bhera_NNP 20_CD 14_CD 12_CD 21_CD 14_CD 27_CD 17_CD 26_CD 18_CD 19_CD 37_CD 30_CD 255_CD 4_CD Miani_NNP 9_CD 7_CD 4_CD 8_CD 9_CD 4_CD 15_CD 7_CD 5_CD 18_CD 9_CD 5_CD 95_CD 5_CD Khushab_NNP 6_CD 10_CD 3_CD 2_CD 4_CD 5_CD 6_CD 13_CD 3_CD 3_CD 8_CD 18_CD 81_CD 6_CD Sargodha_NNP 7_CD 4_CD 2_CD 3_CD 2_CD 1_CD 11_CD 2_CD 1_CD 6_CD 2_CD 1_CD 42_CD Total_NN of_IN towns_NNS 50_CD 45_CD 35_CD 41_CD 33_CD 51_CD 59_CD 72_CD 41_CD 46_CD 66_CD 90_CD 629_CD 7_CD Shahpur_NNP 51_CD 38_CD 41_CD 25_CD 42_CD 69_CD 52_CD 80_CD 40_CD 44_CD 61_CD 82_CD 575_CD 8_CD Jhawarian_JJ 43_CD 28_CD 17_CD 9_CD 16_CD 14_CD 28_CD 17_CD 22_CD 18_CD 20_CD 42_CD 274_CD 9_CD Sahiwal_NNP 89_CD 76_CD 47_CD 56_CD 62_CD 48_CD 39_CD 49_CD 37_CD 47_CD 56_CD 120_CD 726_CD 10_CD Bhera_NNP 32_CD 28_CD 19_CD 22_CD 26_CD 28_CD 30_CD 31_CD 22_CD 19_CD 33_CD 45_CD 325_CD 11_CD Bhalwal_NNP 36_CD 21_CD 27_CD 17_CD 25_CD 63_CD 36_CD 40_CD 17_CD 25_CD 38_CD 50_CD 395_CD 12_CD Miani_NNP 20_CD 12_CD 25_CD 24_CD 15_CD 24_CD 29_CD 12_CD 13_CD 10_CD 10_CD 21_CD 215_CD 13_CD Kotemoman_NNP 26_CD 22_CD 31_CD 3_CD 20_CD 25_CD 19_CD 27_CD 13_CD 20_CD 29_CD 81_CD 266_CD 14_CD Midh_NNP Ranjha_NNP 40_CD 23_CD 17_CD 16_CD 25_CD 17_CD 23_CD 33_CD 24_CD 17_CD 32_CD 41_CD 808_CD 15_CD Khushab_NNP 37_CD 25_CD 13_CD 14_CD 16_CD 22_CD 22_CD 28_CD 18_CD 15_CD 15_CD 57_CD 282_CD 16_CD Mitha_NNP Tiwana_NNP 20_CD 27_CD 39_CD 16_CD 39_CD 22_CD 33_CD 27_CD 14_CD 26_CD 23_CD 52_CD 338_CD 17_CD Nurpur_NNP 39_CD 24_CD 49_CD 33_CD 30_CD 34_CD 37_CD 20_CD 27_CD 28_CD 45_CD 74_CD 440_CD 18_CD Nawshera_NNP 48_CD 28_CD 31_CD 23_CD 33_CD 32_CD 30_CD 26_CD 26_CD 39_CD 32_CD 54_CD 402_CD 19_CD Katha_NNP Saghrul_NNP 33_CD 32_CD 10_CD 4_CD 15_CD 18_CD 32_CD 29_CD 26_CD 21_CD 36_CD 75_CD 331_CD 20_CD Uttera_NN 27_CD 29_CD 40_CD 28_CD 25_CD 29_CD 32_CD 32_CD 30_CD 29_CD 27_CD 54_CD 382_CD 21_CD Sargodha_NNP 56_CD 37_CD 44_CD 29_CD 87_CD 61_CD 43_CD 29_CD 48_CD 31_CD 43_CD 79_CD 587_CD 22_CD Kirana_NNP 40_CD 34_CD 25_CD 23_CD 56_CD 71_CD 87_CD 57_CD 33_CD 32_CD 60_CD 86_CD 604_CD 23_CD Sillanwali_NNP 51_CD 28_CD 34_CD 33_CD 44_CD 27_CD 38_CD 34_CD 17_CD 29_CD 37_CD 64_CD 436_CD Total_NN of_IN rural_JJ circles_NNS 688_CD 512_CD 509_CD 375_CD 576_CD 604_CD 610_CD 521_CD 427_CD 450_CD 597_CD 1,027_CD 6,896_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+738_CD 557_CD 544_CD 416_CD 609_CD 655_CD 669_CD 593_CD 468_CD 496_CD 663_CD 1,117_CD 7,525_CD xxii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Death_NN in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Jhelum_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Jhelum_NNP 10_CD 3_CD 2_CD 8_CD 13_CD 7_CD 5_CD 9_CD 18_CD 10_CD 8_CD 10_CD 103_CD 2_CD Pind_NNP Dadan_NNP Khan_NNP 11_CD 12_CD 10_CD 6_CD 17_CD 28_CD 12_CD 9_CD 18_CD 3_CD 22_CD 15_CD 163_CD Total_NN of_IN towns_NNS 21_CD 15_CD 12_CD 14_CD 30_CD 35_CD 17_CD 18_CD 36_CD 13_CD 30_CD 25_CD 266_CD 3_CD Jhelum_NNP 67_CD 60_CD 47_CD 36_CD 49_CD 56_CD 43_CD 37_CD 32_CD 49_CD 62_CD 59_CD 597_CD 4_CD Dina_NNP 46_CD 49_CD 38_CD 25_CD 49_CD 46_CD 32_CD 36_CD 34_CD 33_CD 64_CD 92_CD 544_CD 5_CD Sohawa_NNP 29_CD 20_CD 20_CD 15_CD 23_CD 16_CD 18_CD 13_CD 15_CD 18_CD 30_CD 54_CD 271_CD 6_CD Domeli_NNP 61_CD 39_CD 37_CD 13_CD 20_CD 46_CD 39_CD 22_CD 32_CD 34_CD 47_CD 66_CD 456_CD 7_CD Dhuman_NNP 86_CD 57_CD 21_CD 17_CD 29_CD 44_CD 49_CD 35_CD 37_CD 36_CD 55_CD 67_CD 533_CD 8_CD Chakwal_NNP 93_CD 81_CD 44_CD 34_CD 39_CD 47_CD 72_CD 68_CD 64_CD 65_CD 78_CD 121_CD 806_CD 9_CD Nila_NNP 71_CD 64_CD 47_CD 33_CD 37_CD 38_CD 48_CD 39_CD 48_CD 45_CD 51_CD 77_CD 598_CD 10_CD Jalalpur_NNP 63_CD 50_CD 34_CD 34_CD 41_CD 61_CD 40_CD 51_CD 42_CD 50_CD 62_CD 71_CD 599_CD 11_CD Pind_NNP Dadan_NNP Khan_NNP 70_CD 67_CD 44_CD 46_CD 51_CD 43_CD 39_CD 36_CD 48_CD 42_CD 38_CD 60_CD 584_CD 12_CD Lilla_NNP 36_CD 27_CD 37_CD 24_CD 21_CD 15_CD 46_CD 34_CD 29_CD 35_CD 52_CD 70_CD 426_CD 13_CD Choha_NNP 41_CD 44_CD 32_CD 38_CD 37_CD 32_CD 26_CD 31_CD 29_CD 33_CD 54_CD 38_CD 435_CD 14_CD Kallar_NNP Kahar_NNP 78_CD 40_CD 53_CD 39_CD 39_CD 50_CD 38_CD 37_CD 33_CD 28_CD 46_CD 67_CD 548_CD Total_NN of_IN rural_JJ circles_NNS 741_CD 598_CD 454_CD 354_CD 435_CD 494_CD 490_CD 439_CD 443_CD 468_CD 639_CD 842_CD 6,397_CD Total_NN of_IN rural_JJ circles_NNS and_CC towns_NNS ._.
+762_CD 613_CD 466_CD 368_CD 465_CD 529_CD 507_CD 457_CD 479_CD 481_CD 669_CD 867_CD 6,663_CD ?_. xxiii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Rawalpindi_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Rawalpindi_NNP 33_CD 30_CD 40_CD 45_CD 80_CD 67_CD 54_CD 44_CD 32_CD 48_CD 68_CD 66_CD 612_CD 2_CD Murree_NNP 6_CD 3_CD 8_CD 10_CD 8_CD 5_CD 1_CD 41_CD Total_NN of_IN towns_NNS 38_CD 30_CD 40_CD 45_CD 86_CD 70_CD 62_CD 54_CD 40_CD 53_CD 69_CD 66_CD 653_CD 3_CD Rawalpindi_NNP 95_CD 70_CD 74_CD 79_CD 103_CD 66_CD 43_CD 41_CD 30_CD 62_CD 78_CD 93_CD 884_CD 4_CD Golra_NNP 50_CD 89_CD 31_CD 22_CD 19_CD 15_CD 13_CD 9_CD 8_CD 18_CD 24_CD 22_CD 270_CD 5_CD Rivat_NNP 45_CD 51_CD 37_CD 24_CD 32_CD 49_CD 36_CD 43_CD 37_CD 35_CD 67_CD 84_CD 540_CD 6_CD Banda_NNP 31_CD 36_CD 21_CD 16_CD 18_CD 16_CD 23_CD 19_CD 19_CD 21_CD 19_CD 40_CD 279_CD 7_CD Sang_NNP Jani_NNP 44_CD 41_CD 46_CD 19_CD 29_CD 38_CD 30_CD 29_CD 34_CD 36_CD 43_CD 85_CD 474_CD 8_CD Murree_NNP 58_CD 47_CD 80_CD 63_CD 48_CD 50_CD 60_CD 102_CD 123_CD 96_CD 91_CD 105_CD 923_CD 9_CD Kotli_NNP 28_CD 27_CD 34_CD 37_CD 41_CD 26_CD 30_CD 43_CD 35_CD 45_CD 50_CD 62_CD 458_CD 10_CD Kahuta_NNP 68_CD 45_CD 64_CD 65_CD 90_CD 85_CD 63_CD 52_CD 72_CD 78_CD 75_CD 123_CD 880_CD 11_CD Kallar_NNP 89_CD 59_CD 76_CD 56_CD 70_CD 54_CD 55_CD 49_CD 45_CD 67_CD 94_CD 146_CD 860_CD 12_CD Gujar_NNP Khan_NNP 80_CD 75_CD 61_CD 74_CD 70_CD 66_CD 87_CD 64_CD 59_CD 73_CD 102_CD 158_CD 969_CD 13_CD Mandra_NNP 69_CD 43_CD 50_CD 46_CD 35_CD 39_CD 33_CD 29_CD 15_CD 26_CD 43_CD 61_CD 489_CD 14_CD Jatli_NNP 86_CD 55_CD 30_CD 32_CD 34_CD 40_CD 43_CD 31_CD 19_CD 31_CD 59_CD 79_CD 539_CD 15_CD Sayyad_NNP 27_CD 12_CD 13_CD 16_CD 25_CD 33_CD 27_CD 27_CD 20_CD 19_CD 34_CD 51_CD 304_CD 16_CD Bhara_NNP Kahu_NNP 64_CD 63_CD 59_CD 40_CD 41_CD 43_CD 43_CD 35_CD 32_CD 57_CD 77_CD 88_CD 642_CD Total_NN of_IN rural_JJ circles_NNS 834_CD 663_CD 676_CD 589_CD 655_CD 620_CD 586_CD 573_CD 548_CD 664_CD 856_CD 1,197_CD 8,461_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+872_CD 698_CD 716_CD 634_CD 741_CD 690_CD 648_CD 627_CD 588_CD 717_CD 925_CD 1,263_CD 9,114_CD xxiv_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN like_JJ District_NNP of_IN Atlock_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Hazro_NNP 12_CD 3_CD 5_CD 9_CD 12_CD 12_CD 14_CD 17_CD 9_CD 8_CD 18_CD 22_CD 141_CD 2_CD Pindigheb_NNP 15_CD 15_CD 12_CD 12_CD 23_CD 12_CD 16_CD 13_CD 8_CD 14_CD 17_CD 26_CD 183_CD Total_NN of_IN towns_NNS 27_CD 18_CD 17_CD 21_CD 35_CD 24_CD 30_CD 30_CD 17_CD 22_CD 35_CD 48_CD 324_CD 3_CD Campbellpur_NNP 105_CD 55_CD 67_CD 58_CD 59_CD 41_CD 60_CD 58_CD 50_CD 51_CD 125_CD 196_CD 925_CD 4_CD Hazro_NNP 98_CD 67_CD 64_CD 69_CD 89_CD 89_CD 77_CD 64_CD 60_CD 57_CD 123_CD 139_CD 996_CD 5_CD Hasan_NNP Abdal_NNP 57_CD 62_CD 45_CD 39_CD 56_CD 42_CD 44_CD 42_CD 52_CD 48_CD 89_CD 175_CD 751_CD 6_CD Fatehjang_NNP 170_CD 114_CD 101_CD 73_CD 61_CD 62_CD 62_CD 41_CD 48_CD 48_CD 95_CD 175_CD 1,050_CD 7_CD Chauntra_NNP 128_CD 98_CD 46_CD 9_CD 54_CD 75_CD 91_CD 69_CD 70_CD 81_CD 70_CD 109_CD 900_CD 8_CD Pindigheb_NNP 80_CD 75_CD 67_CD 39_CD 35_CD 51_CD 65_CD 43_CD 39_CD 49_CD 63_CD 111_CD 717_CD 9_CD Pind_NNP Sultani_NNP 129_CD 92_CD 89_CD 80_CD 89_CD 76_CD 66_CD 80_CD 72_CD 65_CD 120_CD 259_CD 1,217_CD 10_CD Makhad_VBD 53_CD 27_CD 31_CD 26_CD 31_CD 26_CD 19_CD 17_CD 15_CD 30_CD 32_CD 46_CD 353_CD 11_CD Talagang_NNP 83_CD 81_CD 81_CD 80_CD 47_CD 49_CD 63_CD 51_CD 59_CD 78_CD 78_CD 126_CD 876_CD 12_CD Tamman_NNP 99_CD 57_CD 81_CD 57_CD 68_CD 82_CD 68_CD 65_CD 52_CD 63_CD 66_CD 119_CD 877_CD 13_CD Lawa_NNP 29_CD 25_CD 32_CD 34_CD 23_CD 27_CD 18_CD 32_CD 27_CD 29_CD 33_CD 49_CD 358_CD Totals_NNS of_IN rural_JJ circles_NNS 1,031_CD 753_CD 704_CD 564_CD 612_CD 620_CD 633_CD 562_CD 544_CD 599_CD 894_CD 1,504_CD 9,020_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+1,058_CD 771_CD 721_CD 585_CD 647_CD 644_CD 663_CD 592_CD 561_CD 621_CD 929_CD 1,552_CD 9,344_CD ?_. XXV_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Mianwali_NNP ,_, during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Bhakkar_NNP 8_CD 14_CD 11_CD 11_CD 11_CD 12_CD 8_CD 6_CD 6_CD 5_CD 11_CD 27_CD 130_CD 2_CD Isa_NNP Khel_NNP 6_CD 7_CD 7_CD 5_CD 6_CD 3_CD 2_CD 9_CD 9_CD 6_CD 5_CD 14_CD 79_CD 3_CD Kalabagh_NNP 10_CD 10_CD 5_CD 5_CD 15_CD 10_CD 13_CD 12_CD 11_CD 7_CD 13_CD 16_CD 127_CD 4_CD Mianwali_NNP 6_CD 11_CD 10_CD 6_CD 6_CD 13_CD 5_CD 12_CD 11_CD 11_CD 22_CD 113_CD Total_NN of_IN towns_NNS 30_CD 31_CD 34_CD 31_CD 38_CD 31_CD 36_CD 32_CD 38_CD 29_CD 40_CD 79_CD 449_CD 5_CD Bhakkar_NNP and_CC Darya_NNP Khan_NNP 169_CD 132_CD 134_CD 95_CD 110_CD 109_CD 90_CD 67_CD 78_CD 69_CD 109_CD 189_CD 1,351_CD 6_CD Mehbal_NNP 44_CD 53_CD 56_CD 31_CD 43_CD 35_CD 44_CD 25_CD 28_CD 32_CD 45_CD 52_CD 458_CD 7_CD Jandanwala_NNP 21_CD 26_CD 25_CD 28_CD 32_CD 16_CD 20_CD 19_CD 19_CD 31_CD 22_CD 32_CD 291_CD 8_CD Hanker_NNP and_CC Hyderabad_NNP 29_CD 22_CD 33_CD 29_CD 37_CD 39_CD 16_CD 27_CD 22_CD 29_CD 39_CD 43_CD 365_CD 9_CD Mianwali_NNP 88_CD 51_CD 91_CD 58_CD 66_CD 67_CD 70_CD 52_CD 42_CD 74_CD 53_CD 131_CD 843_CD 10_CD Piplan_NNP 26_CD 26_CD 17_CD 14_CD 26_CD 25_CD 27_CD 45_CD 23_CD 19_CD 32_CD 50_CD 330_CD 11_CD Chakrala_NNP and_CC Dhak_NNP 50_CD 60_CD 38_CD 60_CD 62_CD 68_CD 55_CD 54_CD 37_CD 57_CD 60_CD 131_CD 732_CD 12_CD Moch_NNP 80_CD 53_CD 67_CD 62_CD 60_CD 69_CD 58_CD 89_CD 71_CD 75_CD 84_CD 103_CD 871_CD 13_CD Isa_NNP Khel_NNP 41_CD 42_CD 34_CD 35_CD 26_CD 27_CD 16_CD 16_CD 25_CD 27_CD 34_CD 48_CD 371_CD 14_CD Kalabagh_NNP and_CC Bhangikhel_NNP 12_CD 21_CD 27_CD 21_CD 17_CD 22_CD 16_CD 18_CD 10_CD 17_CD 21_CD 46_CD 248_CD 15_CD Kamar_NNP Mashani_NNP 47_CD 31_CD 56_CD 28_CD 38_CD 37_CD 54_CD 45_CD 37_CD 39_CD 45_CD 64_CD 521_CD Total_NN of_IN rural_JJ circles_NNS 607_CD 517_CD 578_CD 461_CD 517_CD 514_CD 466_CD 457_CD 392_CD 469_CD 544_CD 889_CD 6,411_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 637_CD 548_CD 612_CD 492_CD 555_CD 545_CD 502_CD 489_CD 430_CD 498_CD 584_CD 968_CD 6,860_CD xxvi_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Montgomery_NNP ,_, during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Montgomery_NNP 19_CD 3_CD 8_CD 8_CD 14_CD 2_CD 9_CD 4_CD 11_CD 8_CD 6_CD 29_CD 121_CD 2_CD Kamalia_NNP 26_CD 18_CD 15_CD 4_CD 9_CD 6_CD 23_CD 16_CD 13_CD 9_CD 17_CD 28_CD 184_CD 3_CD Pakpattan_NNP 30_CD 16_CD 6_CD 1_CD 6_CD 3_CD 19_CD 21_CD 9_CD 12_CD 11_CD 16_CD 150_CD Total_NN of_IN towns_NNS 75_CD 37_CD 29_CD 13_CD 29_CD 11_CD 51_CD 41_CD 33_CD 29_CD 34_CD 73_CD 455_CD 4_CD Montgomery_NNP 65_CD 60_CD 43_CD 1_CD 4_CD 1_CD 1_CD 3_CD 3_CD 3_CD 13_CD 11_CD 208_CD 5_CD Harrapa_NNP 31_CD 15_CD 8_CD 12_CD 27_CD 21_CD 22_CD 13_CD 14_CD 15_CD 17_CD 21_CD 216_CD 6_CD Chichawatni_NNP 9_CD 11_CD 4_CD 4_CD 7_CD 3_CD 4_CD 3_CD 1_CD 8_CD 13_CD 8_CD 75_CD 7_CD Kamalia_NNP 44_CD 27_CD 33_CD 23_CD 29_CD 25_CD 24_CD 12_CD 17_CD 18_CD 15_CD 37_CD 304_CD 8_CD Gugera_NNP 39_CD 29_CD 15_CD 16_CD 23_CD 24_CD 21_CD 17_CD 15_CD 16_CD 34_CD 40_CD 289_CD 9_CD Chuchak_NNP 49_CD 37_CD 25_CD 31_CD 36_CD 30_CD 24_CD 23_CD 19_CD 27_CD 32_CD 61_CD 394_CD 10_CD Okara_NNP 24_CD 14_CD 25_CD 22_CD 11_CD 17_CD 17_CD 11_CD 16_CD 26_CD 32_CD 215_CD 11_CD Pakpattan_NNP 197_CD 99_CD 106_CD 61_CD 106_CD 96_CD 73_CD 75_CD 47_CD 51_CD 85_CD 151_CD 1,147_CD 12_CD Tibbi_NNP 120_CD 88_CD 62_CD 51_CD 59_CD 53_CD 38_CD 41_CD 31_CD 47_CD 59_CD 80_CD 729_CD 13_CD Kabir_NNP 29_CD 29_CD 30_CD 13_CD 16_CD 15_CD 17_CD 16_CD 14_CD 15_CD 7_CD 14_CD 215_CD 14_CD Hujra_NNP 99_CD 60_CD 54_CD 46_CD 76_CD 67_CD 45_CD 57_CD 41_CD 44_CD 67_CD 91_CD 747_CD 15_CD Dipalpur_NNP 169_CD 109_CD 92_CD 67_CD 95_CD 85_CD 78_CD 65_CD 71_CD 62_CD 97_CD 124_CD 1,114_CD 16_CD Haveli_NNP 108_CD 69_CD 60_CD 41_CD 64_CD 51_CD 55_CD 42_CD 35_CD 35_CD 56_CD 93_CD 709_CD 17_CD Attari_NNP 68_CD 63_CD 63_CD 51_CD 68_CD 73_CD 23_CD 93_CD 54_CD 24_CD 51_CD 63_CD 694_CD 18_CD Ranala_NNP Khurd_NNP 2_CD 7_CD 11_CD 9_CD 13_CD 11_CD 6_CD 6_CD 14_CD 79_CD 19_CD Narshah_NNP 18_CD 16_CD 34_CD 23_CD 14_CD 20_CD 13_CD 25_CD 33_CD 196_CD 20_CD Kasowal_NNP 1_CD 5_CD 6_CD 11_CD 3_CD 5_CD 4_CD 4_CD 17_CD 56_CD 21_CD Katorwala_NNP 7_CD 22_CD 9_CD 10_CD 3_CD 4_CD 7_CD 12_CD 36_CD 110_CD Total_NN of_IN rural_JJ circles_NNS 1,051_CD 710_CD 620_CD 445_CD 682_CD 615_CD 495_CD 510_CD 413_CD 411_CD 619_CD 926_CD 7,497_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 1,126_CD 747_CD 649_CD 458_CD 711_CD 626_CD 516_CD 551_CD 446_CD 440_CD 653_CD 999_CD 7,952_CD xxvii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Lyallpur_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Lyallpur_NNP 8_CD 7_CD 8_CD 8_CD 12_CD 6_CD 21_CD 9_CD 6_CD 3_CD 5_CD 6_CD 99_CD 2_CD Gojra_NNP 1_CD 1_CD 1_CD 1_CD 4_CD Total_NN of_IN towns_NNS 8_CD 7_CD 8_CD 8_CD 13_CD 7_CD 21_CD 10_CD 6_CD 3_CD 5_CD 7_CD 103_CD 3_CD Lyallpur_NNP Thana_NNP 64_CD 54_CD 70_CD 77_CD 100_CD 95_CD 95_CD 89_CD 64_CD 64_CD 79_CD 114_CD 965_CD 4_CD Rajuna_NNP 64_CD 49_CD 54_CD 67_CD 81_CD 63_CD 72_CD 62_CD 32_CD 39_CD 45_CD 81_CD 709_CD 5_CD Satiana_NNP 56_CD 43_CD 52_CD 69_CD 89_CD 95_CD 73_CD 56_CD 72_CD 62_CD 56_CD 100_CD 823_CD 6_CD Thakriwala_NNP 25_CD 19_CD 30_CD 26_CD 68_CD 44_CD 48_CD 52_CD 44_CD 48_CD 63_CD 72_CD 539_CD 7_CD Khurrianwala_NNP 55_CD 39_CD 34_CD 53_CD 113_CD 96_CD 115_CD 85_CD 65_CD 60_CD 62_CD 86_CD 863_CD 8_CD Dijkot_NNP 47_CD 33_CD 32_CD 50_CD 72_CD 67_CD 59_CD 50_CD 39_CD 54_CD 62_CD 72_CD 637_CD 9_CD Samundri_NNP 57_CD 48_CD 61_CD 59_CD 134_CD 83_CD 75_CD 76_CD 88_CD 65_CD 68_CD 91_CD 905_CD 10_CD Bhalak_NNP 68_CD 65_CD 52_CD 88_CD 102_CD 80_CD 64_CD 59_CD 40_CD 39_CD 52_CD 104_CD 813_CD 11_CD Jarranwala_NNP 63_CD 63_CD 60_CD 67_CD 124_CD 81_CD 56_CD 65_CD 58_CD 59_CD 65_CD 98_CD 859_CD 12_CD Chak_NNP Jhumra_NNP 59_CD 51_CD 46_CD 83_CD 104_CD 114_CD 85_CD 79_CD 61_CD 62_CD 76_CD 94_CD 914_CD 13_CD Toba_NNP Tek_NNP Singh_NNP 73_CD 48_CD 47_CD 71_CD 97_CD 78_CD 75_CD 69_CD 40_CD 55_CD 75_CD 79_CD 807_CD 14_CD Mureedwala_NNP 59_CD 37_CD 53_CD 65_CD 62_CD 59_CD 42_CD 66_CD 41_CD 34_CD 48_CD 77_CD 643_CD 15_CD Gojra_NNP 64_CD 43_CD 71_CD 61_CD 92_CD 76_CD 76_CD 82_CD 64_CD 59_CD 76_CD 101_CD 865_CD 16_CD Killianwala_NNP 27_CD 21_CD 29_CD 22_CD 23_CD 14_CD 17_CD 11_CD 20_CD 11_CD 16_CD 25_CD 236_CD 17_CD Lundianwala_NNP 39_CD 31_CD 33_CD 46_CD 45_CD 42_CD 46_CD 35_CD 30_CD 37_CD 38_CD 64_CD 486_CD 18_CD Chuttiana_NNP 47_CD 31_CD 20_CD 24_CD 50_CD 30_CD 28_CD 29_CD 23_CD 23_CD 35_CD 59_CD 399_CD 19_CD Buchaki_NNP 17_CD 8_CD 12_CD 12_CD 49_CD 20_CD Syadwala_NNP 27_CD 34_CD 39_CD 26_CD 25_CD 20_CD 19_CD 24_CD 18_CD 12_CD 32_CD 39_CD 315_CD 21_CD Tandlianwala_NNP 1_CD 1_CD 1_CD 3_CD 22_CD Baragarh_NNP 11_CD 10_CD 8_CD 5_CD 8_CD 11_CD 16_CD 21_CD 90_CD Total_NN of_IN rural_JJ circles_NNS 912_CD 718_CD 796_CD 966_CD 1,392_CD 1,147_CD 1,063_CD 994_CD 807_CD 784_CD 964_CD 1,377_CD 11,920_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 920_CD 725_CD 804_CD 974_CD 1,405_CD 1,154_CD 1,08_CD 1,004_CD 813_CD 787_CD 969_CD 1,384_CD 12,023_CD ?_. xxviii_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Jhang_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Jhang_NNP 8_CD 11_CD 11_CD 14_CD 16_CD 10_CD 11_CD 15_CD 7_CD 9_CD 19_CD 21_CD 152_CD 2_CD Maghiana_NNP 19_CD 15_CD 13_CD 3_CD 27_CD 13_CD 21_CD 30_CD 31_CD 13_CD 21_CD 26_CD 232_CD 3_CD Chiniot_NNP 4_CD 1_CD 5_CD 10_CD 18_CD 12_CD 22_CD 15_CD 11_CD 8_CD 13_CD 21_CD 140_CD Total_NN of_IN towns_NNS 31_CD 27_CD 29_CD 27_CD 61_CD 35_CD 54_CD 60_CD 49_CD 30_CD 53_CD 68_CD 524_CD 4_CD Jhang_NNP 65_CD 62_CD 54_CD 44_CD 58_CD 44_CD 48_CD 42_CD 44_CD 46_CD 44_CD 102_CD 652_CD 5_CD Mochiwali_NNP 41_CD 26_CD 36_CD 31_CD 30_CD 42_CD 30_CD 17_CD 24_CD 16_CD 31_CD 45_CD 369_CD 6_CD Masoun_NNP 47_CD 30_CD 37_CD 36_CD 38_CD 28_CD 33_CD 33_CD 31_CD 29_CD 53_CD 58_CD 453_CD 7_CD Kadirpur_NNP 70_CD 41_CD 51_CD 45_CD 68_CD 51_CD 49_CD 47_CD 59_CD 39_CD 74_CD 108_CD 702_CD 8_CD Bhowana_NNP 72_CD 49_CD 53_CD 59_CD 50_CD 47_CD 44_CD 74_CD 62_CD 55_CD 71_CD 90_CD 726_CD 9_CD Chiniot_NNP 49_CD 34_CD 49_CD 34_CD 37_CD 30_CD 34_CD 37_CD 26_CD 34_CD 45_CD 59_CD 468_CD 10_CD Lallian_JJ 43_CD 27_CD 28_CD 17_CD 21_CD 20_CD 30_CD 18_CD 15_CD 20_CD 37_CD 67_CD 348_CD 11_CD Barana_NNP 32_CD 30_CD 27_CD 32_CD 30_CD 31_CD 33_CD 26_CD 26_CD 25_CD 27_CD 51_CD 370_CD 12_CD Shorkot_NNP 133_CD 84_CD 69_CD 74_CD 90_CD 68_CD 62_CD 59_CD 48_CD 59_CD 59_CD 99_CD 904_CD 13_CD Atharan_NNP Hazari_NNP 80_CD 49_CD 43_CD 62_CD 51_CD 42_CD 25_CD 44_CD 23_CD 49_CD 59_CD 94_CD 621_CD 14_CD Garh_NNP Maharaja_NNP 62_CD 45_CD 46_CD 57_CD 43_CD 60_CD 42_CD 34_CD 36_CD 40_CD 41_CD 70_CD 576_CD Total_NN of_IN rural_JJ circles_NNS 694_CD 477_CD 493_CD 491_CD 516_CD 463_CD 430_CD 431_CD 394_CD 412_CD 541_CD 843_CD 6,185_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS 725_CD 504_CD 522_CD 518_CD 577_CD 498_CD 484_CD 491_CD 443_CD 442_CD 594_CD 911_CD 6,709_CD xxix_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP ,_, of_IN Multan_NNP daring_VBG the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Multan_NNP 87_CD 77_CD 95_CD 108_CD 89_CD 121_CD 125_CD 82_CD 124_CD 110_CD 133_CD 168_CD 1,319_CD 2_CD Shujalal_NNP 14_CD 3_CD 11_CD 10_CD 15_CD 13_CD 10_CD 13_CD 13_CD 14_CD 19_CD 13_CD 148_CD Total_NN of_IN towns_NNS 101_CD 80_CD 106_CD 118_CD 104_CD 134_CD 135_CD 95_CD 137_CD 124_CD 152_CD 181_CD 1,467_CD 3_CD Multan_NNP 189_CD 121_CD 108_CD 79_CD 126_CD 104_CD 106_CD 66_CD 97_CD 145_CD 140_CD 168_CD 1,449_CD 4_CD Shujabad_NNP 170_CD 106_CD 123_CD 67_CD 66_CD 63_CD 38_CD 54_CD 55_CD 83_CD 111_CD 143_CD 1,079_CD 5_CD Jalalpur_NNP 164_CD 141_CD 113_CD 76_CD 96_CD 85_CD 83_CD 70_CD 49_CD 92_CD 115_CD 166_CD 1,250_CD 6_CD Lodhran_NNP 199_CD 123_CD 111_CD 56_CD 89_CD 60_CD 65_CD 57_CD 54_CD 71_CD 125_CD 142_CD 1,152_CD 7_CD Kahror_NNP 162_CD 88_CD 95_CD 62_CD 70_CD 61_CD 79_CD 57_CD 70_CD 69_CD 89_CD 123_CD 1,025_CD 8_CD Mailsi_NNP 142_CD 85_CD 62_CD 44_CD 86_CD 55_CD 66_CD 45_CD 35_CD 56_CD 73_CD 107_CD 856_CD 9_CD Mithu_NNP 79_CD 40_CD 51_CD 34_CD 37_CD 32_CD 31_CD 19_CD 25_CD 28_CD 35_CD 48_CD 459_CD 10_CD Luddan_NNP 60_CD 55_CD 61_CD 36_CD 44_CD 48_CD 30_CD 20_CD 12_CD 30_CD 64_CD 64_CD 524_CD 11_CD Talamba_NNP 68_CD 81_CD 54_CD 30_CD 49_CD 45_CD 41_CD 35_CD 23_CD 39_CD 40_CD 84_CD 589_CD 12_CD Serai_NNP Sidhu_NNP 149_CD 82_CD 79_CD 63_CD 99_CD 54_CD 55_CD 38_CD 43_CD 40_CD 74_CD 120_CD 896_CD 13_CD Kabirwala_NNP 117_CD 102_CD 73_CD 75_CD 94_CD 67_CD 76_CD 61_CD 54_CD 48_CD 87_CD 117_CD 971_CD 14_CD Alpa_NNP 95_CD 77_CD 59_CD 55_CD 82_CD 64_CD 52_CD 54_CD 42_CD 56_CD 68_CD 94_CD 793_CD 15_CD Basti_NNP Malak_NNP 77_CD 56_CD 46_CD 34_CD 37_CD 15_CD 52_CD 31_CD 31_CD 36_CD 56_CD 72_CD 543_CD 16_CD Makhdum_NNP Rashid_NNP 86_CD 45_CD 51_CD 17_CD 43_CD 28_CD 46_CD 35_CD 27_CD 31_CD 29_CD 78_CD 516_CD 17_CD Pakhi_NNP M_NNP an_DT 23_CD 6_CD 3_CD 8_CD 14_CD 7_CD 13_CD 8_CD 3_CD 2_CD 23_CD 13_CD 123_CD 18_CD Sahuka_NNP 30_CD 19_CD 16_CD 15_CD 16_CD 15_CD 9_CD 14_CD 6_CD 10_CD 13_CD 12_CD 175_CD Total_NN of_IN rural_JJ circles_NNS 1,810_CD 1,227_CD 1,105_CD 751_CD 1,048_CD 803_CD 842_CD 664_CD 626_CD 836_CD 1,142_CD 1,551_CD 12,405_CD Total_NN of_IN towns_NNS and_CC rural_JJ :_: circles_NNS ._.
+1,911_CD 1,307_CD 1,211_CD 869_CD 1,152_CD 937_CD 977_CD 759_CD 763_CD 960_CD 1,294_CD 1,732_CD 18,872_CD XXX_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Death_NN in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Muzaffargarh_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Muzaffargarh_NNP 4_CD 4_CD 3_CD 11_CD 6_CD 4_CD 4_CD 3_CD 7_CD 5_CD 14_CD 5_CD 70_CD 2_CD Khangarh_NNP 12_CD 2_CD 10_CD 10_CD 12_CD 5_CD 5_CD 6_CD 7_CD 10_CD 3_CD 11_CD 93_CD 3_CD Alipur_NNP 8_CD 5_CD 7_CD 9_CD 8_CD 2_CD 6_CD 7_CD 6_CD 3_CD 3_CD 10_CD 74_CD 4_CD Leiah_NNP 23_CD 9_CD 19_CD 9_CD 6_CD 10_CD 8_CD 2_CD 11_CD 8_CD 7_CD 10_CD 122_CD 5_CD Karor_NNP 10_CD 6_CD 10_CD 10_CD 11_CD 8_CD 4_CD 8_CD 4_CD 5_CD 6_CD 12_CD 94_CD Total_NN of_IN towns_NNS 57_CD 26_CD 49_CD 49_CD 43_CD 29_CD 27_CD 26_CD 35_CD 31_CD 33_CD 48_CD 453_CD 6_CD Muzaffargarh_NNP 127_CD 78_CD 66_CD 44_CD 66_CD 51_CD 41_CD 45_CD 32_CD 49_CD 61_CD 91_CD 751_CD 7_CD Rungpur_NNP 57_CD 22_CD 20_CD 27_CD 44_CD 17_CD 17_CD 19_CD 22_CD 26_CD 28_CD 33_CD 332_CD 8_CD Kuraishi_NNP 81_CD 61_CD 47_CD 32_CD 39_CD 34_CD 31_CD 24_CD 23_CD 44_CD 59_CD 70_CD 545_CD 9_CD Kinghar_NNP 165_CD 98_CD 79_CD 72_CD 64_CD 45_CD 35_CD 48_CD 43_CD 74_CD 82_CD 89_CD 894_CD 10_CD Khangarh_NNP 104_CD 93_CD 62_CD 34_CD 43_CD 45_CD 53_CD 35_CD 35_CD 69_CD 72_CD 60_CD 705_CD 11_CD Rohillanwali_NNP 123_CD 68_CD 37_CD 52_CD 39_CD 67_CD 49_CD 47_CD 52_CD 58_CD 47_CD 83_CD 722_CD 12_CD Shahr_NNP Sultan_NNP 53_CD 55_CD 19_CD 27_CD 25_CD 31_CD 44_CD 33_CD 23_CD 26_CD 27_CD 45_CD 408_CD 13_CD Jatoi_NNP 69_CD 52_CD 31_CD 23_CD 59_CD 36_CD 68_CD 35_CD 52_CD 39_CD 64_CD 69_CD 597_CD 14_CD Alipur_NNP 60_CD 58_CD 49_CD 28_CD 46_CD 22_CD 45_CD 39_CD 45_CD 50_CD 51_CD 56_CD 549_CD 15_CD Sitpur_NNP 46_CD 29_CD 33_CD 30_CD 44_CD 21_CD 29_CD 32_CD 21_CD 43_CD 36_CD 71_CD 435_CD 16_CD Sanawan_NNP 214_CD 106_CD 83_CD 63_CD 58_CD 47_CD 50_CD 32_CD 40_CD 69_CD 127_CD 122_CD 1,011_CD 17_CD Deradin_NNP Panah_NNP 112_CD 70_CD 81_CD 48_CD 72_CD 51_CD 47_CD 44_CD 36_CD 66_CD 108_CD 130_CD 865_CD 18_CD Khanwali_NNP 36_CD 44_CD 31_CD 33_CD 19_CD 17_CD 22_CD 12_CD 18_CD 27_CD 22_CD 28_CD 309_CD 19_CD Mahmud_NNP Kot_NNP 101_CD 63_CD 46_CD 43_CD 36_CD 26_CD 33_CD 29_CD 23_CD 61_CD 64_CD 80_CD 605_CD 20_CD Leiah_NNP 137_CD 103_CD 74_CD 103_CD 90_CD 62_CD 64_CD 36_CD 36_CD 92_CD 102_CD 116_CD 1,015_CD 21_CD Kot_NNP Sultan_NNP 87_CD 48_CD 37_CD 30_CD 45_CD 34_CD 38_CD 20_CD 31_CD 38_CD 52_CD 48_CD 517_CD 22_CD Kahror_NNP 99_CD 69_CD 37_CD 50_CD 70_CD 37_CD 50_CD 25_CD 38_CD 43_CD 46_CD 74_CD 638_CD 23_CD Chobara_NNP 19_CD 23_CD 9_CD 22_CD 20_CD 15_CD 11_CD 17_CD 10_CD 17_CD 29_CD 43_CD 235_CD Total_NN of_IN rural_JJ circles_NNS 1,690_CD 1,140_CD 841_CD 770_CD 879_CD 658_CD 727_CD 572_CD 580_CD 891_CD 1,077_CD 1,308_CD 11,133_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+1,747_CD 1,166_CD 890_CD 819_CD 922_CD 687_CD 754_CD 598_CD 615_CD 922_CD 1,110_CD 1,356_CD 11,586_CD ?_. xxxi_JJ Register_NNP of_IN ``_`` Fever_NNP ''_'' Deaths_NNP in_IN the_DT Punjab_NNP in_IN the_DT District_NNP of_IN Dera_NNP Ghazi_NNP Khan_NNP during_IN the_DT year_NN 1915_CD ._.
+Serial_JJ No_NNP ._.
+Registration_NNP unit_NN ._.
+January_NNP ._.
+February_NNP ._.
+March_NNP ._.
+April_NNP ._.
+May_NNP ._.
+June_NNP ._.
+July_NNP ._.
+August_NNP ._.
+September_NNP ._.
+October_NNP ._.
+November_NNP ._.
+December_NNP ._.
+TOTAL_NN ._.
+1_CD Dera_NNP Ghazi_NNP Khan_NNP 20_CD 25_CD 19_CD 7_CD 14_CD 12_CD 10_CD 11_CD 7_CD 18_CD 10_CD 15_CD 168_CD 2_CD Jampur_NNP 9_CD 6_CD 3_CD 4_CD 11_CD 10_CD 7_CD 6_CD 9_CD 6_CD 15_CD 10_CD 96_CD 3_CD Dajal_NNP 10_CD 8_CD 4_CD 6_CD 13_CD 6_CD 5_CD 13_CD 5_CD 7_CD 15_CD 14_CD 106_CD 4_CD Rajanpur_NNP 5_CD 6_CD 7_CD 3_CD 5_CD 4_CD 3_CD 5_CD 6_CD 4_CD 6_CD 8_CD 62_CD 5_CD Mithankot_NNP 5_CD 4_CD 2_CD 5_CD 7_CD 3_CD 3_CD 4_CD 3_CD 8_CD 5_CD 49_CD Total_NN of_IN towns_NNS 49_CD 49_CD 35_CD 25_CD 50_CD 35_CD 28_CD 35_CD 31_CD 38_CD 54_CD 52_CD 481_CD 6_CD Dera_NNP Ghazi_NNP Khan_NNP 23_CD 16_CD 20_CD 9_CD 26_CD 13_CD 6_CD 17_CD 6_CD 20_CD 22_CD 16_CD 194_CD 7_CD Kot_NNP Chutta_NNP 102_CD 75_CD 80_CD 64_CD 69_CD 63_CD 48_CD 47_CD 36_CD 73_CD 86_CD 97_CD 840_CD 8_CD Cheti_NNP 54_CD 53_CD 37_CD 49_CD 38_CD 54_CD 49_CD 41_CD 31_CD 61_CD 59_CD 55_CD 581_CD 9_CD Kala_NNP 37_CD 51_CD 36_CD 22_CD 14_CD 24_CD 25_CD 13_CD 27_CD 28_CD 46_CD 45_CD 368_CD 10_CD Taunsa_NNP 104_CD 109_CD 107_CD 78_CD 71_CD 75_CD 53_CD 64_CD 46_CD 61_CD 90_CD 83_CD 941_CD 11_CD Retra_NNP 47_CD 44_CD 44_CD 45_CD 30_CD 32_CD 16_CD 12_CD 14_CD 19_CD 28_CD 32_CD 363_CD 12_CD Vahoa_NNP 67_CD 64_CD 86_CD 68_CD 74_CD 38_CD 43_CD 37_CD 37_CD 42_CD 46_CD 48_CD 650_CD 13_CD Jampur_NNP 78_CD 64_CD 85_CD 53_CD 72_CD 75_CD 39_CD 46_CD 36_CD 67_CD 48_CD 72_CD 735_CD 14_CD Tibbi_NNP Lund_NNP 16_CD 15_CD 17_CD 10_CD 9_CD 11_CD 7_CD 11_CD 10_CD 11_CD 16_CD 13_CD 146_CD 15_CD Dajal_NNP 47_CD 54_CD 28_CD 39_CD 54_CD 25_CD 15_CD 20_CD 21_CD 24_CD 18_CD 28_CD 373_CD 16_CD Harrund_NNP 21_CD 25_CD 28_CD 21_CD 18_CD 19_CD 19_CD 29_CD 7_CD 17_CD 28_CD 18_CD 250_CD 17_CD Fazilpur_NNP 48_CD 43_CD 33_CD 30_CD 36_CD 35_CD 19_CD 22_CD 20_CD 26_CD 45_CD 40_CD 397_CD 18_CD Rajanpur_NNP 49_CD 40_CD 25_CD 21_CD 28_CD 31_CD 35_CD 27_CD 25_CD 17_CD 37_CD 20_CD 355_CD 19_CD Rojhan_NNP 19_CD 26_CD 29_CD 25_CD 34_CD 25_CD 34_CD 23_CD 22_CD 24_CD 17_CD 20_CD 298_CD 20_CD Shahwali_NNP 5_CD 4_CD 1_CD 5_CD 6_CD 6_CD 4_CD 5_CD 5_CD 4_CD 5_CD 2_CD 52_CD 21_CD Draman_NNP 60_CD 34_CD 42_CD 40_CD 26_CD 23_CD 30_CD 25_CD 19_CD 26_CD 45_CD 33_CD 403_CD 22_CD Mithankot_NNP 23_CD 19_CD 38_CD 33_CD 48_CD 27_CD 23_CD 32_CD 17_CD 28_CD 30_CD 32_CD 350_CD 23_CD Batil_NNP 47_CD 27_CD 30_CD 15_CD 26_CD 21_CD 27_CD 12_CD 25_CD 25_CD 29_CD 32_CD 316_CD Total_NN of_IN rural_JJ circles_NNS 847_CD 763_CD 766_CD 627_CD 679_CD 597_CD 492_CD 483_CD 404_CD 573_CD 695_CD 686_CD 7,612_CD Total_NN of_IN towns_NNS and_CC rural_JJ circles_NNS ._.
+896_CD 812_CD 801_CD 652_CD 729_CD 32_CD 520_CD 518_CD 435_CD 611_CD 749_CD 738_CD 8,093_CD 6_CD IGCH-420-17.5.16-SGPP_JJ Lahore_NNP ,_,
