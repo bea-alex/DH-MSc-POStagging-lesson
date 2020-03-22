@@ -13088,33 +13088,37 @@ div#notebook {
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="Terminal-Setup">Terminal Setup<a class="anchor-link" href="#Terminal-Setup">&#182;</a></h3><p><strong>Linux:</strong> Look for Terminal in your applications and click on it to open it.<br>
 <strong>macOS:</strong> Bash is the default shell in all versions of macOS, you do not need to install anything. Open the Terminal application from <code>/Applications/Utilities</code> or using Spotlight search.<br>
-<strong>Windows:</strong> Open the Start Menu, type <code>command</code> or <code>cmd</code> in the search field, and then press Enter or click on the Command Prompt shortcut.</p>
+<strong>Windows:</strong> Open the Start menu, type <code>command</code> or <code>cmd</code> in the search field, and then press Enter or click on the Command Prompt shortcut.</p>
 <h3 id="Software-Installs">Software Installs<a class="anchor-link" href="#Software-Installs">&#182;</a></h3><p>For this course, we ask you to install Miniconda and as well as the a series of software packages with it (jupyter notebook, nltk, numpy, matplotlib and wordcloud).  Please take time to install these different things, ideally before the lesson if you can.</p>
 <p><strong>1. Install Miniconda</strong></p>
-<p>Got to <a href="https://docs.conda.io/en/latest/miniconda.html">https://docs.conda.io/en/latest/miniconda.html</a> and download the correct version.  We will be working with Python version 3.7, so you need to select the appropriate version of Miniconda for your operating system with Python 3.7.</p>
-<p>For all of the software packages to be installed next (using conda) you will need to proceed through the terminal installation by pressing "y" when prompted on Linux/Mac or install them via the Anaconda prompt on Windows.</p>
+<p>Got to <a href="https://docs.conda.io/en/latest/miniconda.html">https://docs.conda.io/en/latest/miniconda.html</a> and download the correct version.  We will be working with Python version 3.7, so you need to select the appropriate version of Miniconda for your operating system with Python 3.7. Most operating systems are 64 bit these days.  So unless you have a very old computer 64 bit likely going to be the download you need.</p>
+<p><strong>Windows:</strong> Click on Miniconda3 Windows 64-bit to download miniconda and once that's done you should see the exe (executable) at the bottom left of your browser window. Click on it and go through the installation process.  Once installed, go to the Start menu and start up the Anaconda Powershell Prompt. You can find it by typing "Anaconda".</p>
+<p><strong>macOs:</strong> Download the Miniconda3 MacOSX 64-bit pgk (package) file.  It will be saved in your Downloads directory.  Once downloaded, double-click on it and go through the installation.</p>
+<p><strong>Linux:</strong> Download the appropriate Miniconda package and install it.</p>
+<p>For all of the software packages to be installed next (using conda) you will need to proceed through the terminal for Mac and Linux, or if on Windows then enter the commands below in the Anaconda Powershell prompt. Some packages might take a while to install and you have to type "y" and press Enter when asked to proceed. A package is finished installing once it says "Executing transaction: done".</p>
+<p>To make it easier and avoid typos, just copy/paste the commands below across.</p>
 <p><strong>2. Install Jupyter Notebook</strong></p>
-<p>Windows: install jupyter notebook via the Anaconda prompt<br>
+<p>Windows: install jupyter notebook via the Anaconda Powershell prompt<br>
 macOS/Linux: go to a terminal window and run the following command:</p>
 <div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">install</span> <span class="o">-</span><span class="n">c</span> <span class="n">anaconda</span> <span class="n">jupyter</span>
 </pre></div>
 <p><strong>3. Install NLTK</strong></p>
-<p>Windows: install NLTK via the Anaconda prompt<br>
+<p>Windows: install NLTK via the Anaconda Powershell prompt<br>
 macOS/Linux: run the following command in your terminal:</p>
 <div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">install</span> <span class="o">-</span><span class="n">c</span> <span class="n">anaconda</span> <span class="n">nltk</span>
 </pre></div>
 <p><strong>4. Install numpy</strong></p>
-<p>Windows: install numpy via the Anaconda prompt<br>
+<p>Windows: install numpy via the Anaconda Powershell prompt<br>
 macOS/Linux: run the following command in your terminal:</p>
 <div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">install</span> <span class="n">numpy</span>
 </pre></div>
 <p><strong>5. Install matplotlib</strong></p>
-<p>Windows: install matplotlib via the Anaconda prompt<br>
+<p>Windows: install matplotlib via the Anaconda Powershell prompt<br>
 macOS/Linux: run the following command in your terminal</p>
 <div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">install</span> <span class="o">-</span><span class="n">c</span> <span class="n">conda</span><span class="o">-</span><span class="n">forge</span> <span class="n">matplotlib</span>
 </pre></div>
 <p><strong>6. Install wordcloud</strong></p>
-<p>Windows: install wordcloud via the Anaconda prompt<br>
+<p>Windows: install wordcloud via the Anaconda Powershell prompt<br>
 macOS/Linux: run the following command in your terminal:</p>
 <div class="highlight"><pre><span></span><span class="n">conda</span> <span class="n">install</span> <span class="o">-</span><span class="n">c</span> <span class="n">conda</span><span class="o">-</span><span class="n">forge</span> <span class="n">wordcloud</span>
 </pre></div>
@@ -13143,13 +13147,15 @@ macOS/Linux: run the following command in your terminal:</p>
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h2 id="2.-Introduction-to-Jupyter-Notebook">2. Introduction to Jupyter Notebook<a class="anchor-link" href="#2.-Introduction-to-Jupyter-Notebook">&#182;</a></h2><p>This lesson is run using <a href="https://jupyter.org">Jupyter Notebook</a>. It is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations and narrative text.</p>
-<h3 id="2.1-Starting-Jupyter-Notebook-server">2.1 Starting Jupyter Notebook server<a class="anchor-link" href="#2.1-Starting-Jupyter-Notebook-server">&#182;</a></h3><p>The start the lesson within a Jupyter Notebook you first need to start a Jupyter Notebook server.  To do that you need to open a terminal window and type:</p>
+<h3 id="2.1-Starting-Jupyter-Notebook-server">2.1 Starting Jupyter Notebook server<a class="anchor-link" href="#2.1-Starting-Jupyter-Notebook-server">&#182;</a></h3><p>The start the lesson within a Jupyter Notebook you first need to start a Jupyter Notebook server.  To do that you need to:</p>
+<p><strong>Windows:</strong> open the Anacoda Powershell prompt and type:
+<strong>macOS/Linux:</strong> open a terminal window and type:</p>
 
 <pre><code>jupyter notebook
 
 </code></pre>
-<p>This will open up a browser window containing the base directory of where you can store your notebook on your computer.</p>
-<p>You can learn how to open a terminal window on your computer in the Terminal Setup instructions for this lesson.</p>
+<p>This will open up a browser window containing the base directory of where you can store your new notebook on your computer.</p>
+<p>You can learn how to open a terminal window on your computer in the Terminal Setup instructions for this lesson (see Prerequisites).</p>
 <h3 id="2.2-Creating-a-new-notebook">2.2 Creating a new notebook<a class="anchor-link" href="#2.2-Creating-a-new-notebook">&#182;</a></h3><p>To create a new notebook you need to select a location for it on your computer via the browser window that opened up and click on "New" in the top right corner of the browser.  You also need to select Python 3 to do so.</p>
 <p><img src="./fig/start-notebook.png" alt="Starting a new notebook"></p>
 <p>Once the new notebook opens you can give it a name by changing the word "Untitled" in the first line of the new notebook that opens up.</p>
@@ -13570,8 +13576,9 @@ Eye colour: blue
 <p>This collection has been made available as part of NLS's DataFoundry platform which provides access to a number of their digitised collections.</p>
 <p>We are only interested in the text the Medical History of British India collection for this course so at the bottom of the website, download the "Just the text" data or download it directly <a href="https://nlsfoundry.s3.amazonaws.com/text/nls-text-indiaPapers.zip">here</a>.</p>
 <p>Note that this dataset requires approx. 120 MB of free file space on your computer once it has been unzipped.  Most computers automatically uncompress <code>.zip</code> files as the one you have downloaded.  If your computer does not do that then right-click on the file and click on uncompress or unzip.</p>
-<p>You should be left with a folder called <code>nls-text-indiaPapers</code> containing all the <code>.txt</code> files for this collection.  Please check that you have that on your computer and find out what its file path is.  In my case it is <code>/Users/balex/Downloads/nls-text-indiaPapers/</code>.</p>
-<h3 id="5.2-Loading-and-tokenising-a-single-document">5.2 Loading and tokenising a single document<a class="anchor-link" href="#5.2-Loading-and-tokenising-a-single-document">&#182;</a></h3><p>You can use the <code>open()</code> function to open one file in the Medical History of British India corpus. You need to specify the path to a file in the downloaded dataset and the mode of opening it ('r' for read). The path will be different to the one below depending on where you saved the data on your computer.</p>
+<p>You should be left with a folder called <code>nls-text-indiaPapers</code> containing all the <code>.txt</code> files for this collection.  Please check that you have that on your computer and find out what its file path is.  In my case, on my Macbook, it is <code>/Users/balex/Downloads/nls-text-indiaPapers/</code>.</p>
+<p>Note that if you're using Windows, the paths work slightly differently using backslashes.  Your Downloads directory is usually here: <code>C:\Users\[your name]\Downloads</code>.  So the full path will be something like <code>C:\Users\[your name]\Downloads/nls-text-indiaPapers/</code> and you need to replace <code>[your name]</code> with your own username on your computer.</p>
+<h3 id="5.2-Loading-and-tokenising-a-single-document">5.2 Loading and tokenising a single document<a class="anchor-link" href="#5.2-Loading-and-tokenising-a-single-document">&#182;</a></h3><p>You can use the <code>open()</code> function to open one file in the Medical History of British India corpus. You need to specify the path to a file in the downloaded dataset and the mode of opening it ('r' for read). The path will be different to the one below depending on where you saved the data on your computer.  If you are on Windows it's likely going to be something like <code>\Users\[your name]\Downloads/nls-text-indiaPapers/74457530.txt</code> with your own specific user name, e.g. if it was me (my user names is <code>balex</code>) it would be <code>\Users\balex\Downloads/nls-text-indiaPapers/74457530.txt</code>.</p>
 <p>The <code>read()</code> function is used to read the file. The file's content (the text) is then stored as a string variable called <code>mhbi74457530_raw</code>.</p>
 <p>You can then tokenise the text and convert it to lowercase. You can check it has worked by printing out a slice (e.g. the first 20 words) of the list <code>mhbi74457530_tokens_lc</code>.</p>
 
