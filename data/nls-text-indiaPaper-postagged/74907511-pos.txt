@@ -1,0 +1,2313 @@
+MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ,_, BY_NNP MOHIDEEN_NNP SHERIFF_NNP KHAN_NNP BAHADUR_NNP m._VBZ 63._CD d._NN 91._CD e._NN IP/25/MB.3_NNP MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+BY_NNP MOHIDEEN_NNP SHERIFF_NNP KHAN_NNP BAHADUR_NNP ,_, Graduate_NNP of_IN the_DT Madras_NNP Medical_NNP College_NNP ;_: Retired_NNP Honorary_NNP Surgeon_NNP ,_, Madras_NNP Medical_NNP Department_NNP ._.
+PRINTED_NNP AND_CC PUBLISHED_NNP BY_NNP ORDER_NNP OF_IN THE_NNP MADRAS_NNP GOVERNMENT_NNP ,_, AT_NNP THE_NNP RECOMMENDATION_NNP OF_IN THE_NNP MADRAS_NNP WORKING_NNP COMMITTEE_NNP ,_, CALCUTTA_NNP INTERNATIONAL_NNP EXHIBITION_NNP ,_, 1883-84_JJ ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74907536.tif_CD ]_JJ VOLUME_NNP I_PRP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74907536.tif_CD ]_JJ MADRAS_NNP :_: PRINTED_NN BY_IN THE_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRESS_NNP ._.
+1891_CD ._.
+PREFACE_NNP ._.
+BEING_NN appointed_VBN as_IN a_DT member_NN of_IN the_DT Madras_NNP Working_NNP Com-_NNP mittee_NN ,_, Calcutta_NNP International_NNP Exhibition_NNP ,_, 1883-84_JJ ,_, I_PRP was_VBD very_RB anxious_JJ to_TO make_VB myself_PRP as_RB useful_JJ as_IN possible_JJ ,_, and_CC there-_JJ fore_NN applied_VBN for_IN permission_NN to_TO send_VB in_IN a_DT collection_NN of_IN indi-_JJ genous_JJ drugs_NNS from_IN this_DT Presidency_NN to_TO the_DT Exhibition_NNP ._.
+The_DT acceptance_NN of_IN this_DT offer_NN was_VBD accompanied_VBN with_IN a_DT kind_NN grant_NN of_IN Rs_NNP ._.
+200_CD from_IN Calcutta_NNP ,_, as_IN a_DT pecuniary_JJ assistance_NN to_TO my_PRP$ undertaking_NN ._.
+The_DT drugs_NNS I_PRP forwarded_VBD were_VBD nearly_RB one_CD thou-_JJ sand_NN (_( 954_CD )_) ,_, and_CC this_DT work_NN was_VBD originally_RB intended_VBN to_TO be_VB their_PRP$ Descriptive_NNP Catalogue_NNP ._.
+At_IN the_DT kind_NN recommendation_NN of_IN the_DT above_JJ Committee_NNP ,_, the_DT Madras_NNP Government_NNP ,_, with_IN their_PRP$ usual_JJ benevolence_NN and_CC liberality_NN ,_, ordered_VBD the_DT publication_NN of_IN the_DT Catalogue_NNP at_IN their_PRP$ own_JJ cost_NN ,_, and_CC I_PRP was_VBD accordingly_RB directed_VBN to_TO get_VB the_DT work_NN printed_VBN at_IN the_DT Government_NNP Press_NNP ._.
+The_DT following_NN is_VBZ the_DT G.O_NNP ._.
+on_IN the_DT subject_NN :_: vi_NN PREFACE_NNP ._.
+No_DT ._.
+282_CD ,_, C.E_NNP ._.
+True_JJ copy_NN forwarded_VBD to_TO Dr._NNP Mohideen_NNP Sheriff_NNP for_IN information_NN ._.
+GOVT_NNP ._.
+CENTRAL_NNP MUSEUM_NNP ,_, 24th_CD March_NNP 1884_CD ._.
+(_( Signed_VBN )_) G._NNP BIDIE_NNP ,_, Brig.-Surgeon_NNP ,_, Vice-President_NNP and_CC Secretary_NNP ,_, Madras_NNP Committee_NNP ,_, Calcutta_NNP International_NNP Exhibition_NNP ,_, 1883_CD ._.
+When_WRB a_DT portion_NN of_IN this_DT book_NN was_VBD printed_VBN ,_, I_PRP was_VBD advised_VBN to_TO alter_VB the_DT designation_NN of_IN the_DT Catalogue_NNP into_IN that_DT of_IN Materia_NNP Medica_NNP of_IN Madras_NNP ,_, and_CC received_VBD the_DT following_JJ orders_NNS with_IN a_DT copy_NN of_IN a_DT despatch_NN from_IN the_DT Government_NNP of_IN India_NNP :_: PREFACE_NN ._.
+vii_NN No_DT ._.
+586_CD ._.
+(_( MEMORANDUM_NNP ._. )_)
+Forwarded_VBN to_TO Honorary_NNP Surgeon_NNP Mohideen_NNP Sheriff_NNP Khan_NNP Bahadur_NNP ,_, for_IN favour_NN of_IN compliance_NN ._.
+The_DT copies_NNS should_MD be_VB forwarded_VBN to_TO this_DT office_NN for_IN transmission_NN to_TO Government_NNP ._.
+(_( By_IN order_NN ._. )_)
+FORT_NNP ST._NNP GEORGE_NNP ,_, 2nd_CD Feb._NNP 1888_CD ._.
+(_( Signed_VBN )_) C._NNP M._NNP THOMPSON_NNP ,_, Surgeon_NNP ,_, Secy._NNP ,_, Surgeon-Genl_NNP ._.
+with_IN ,_, Govt_NNP ._.
+of_IN Madras_NNP ._.
+In_IN obedience_NN to_TO the_DT above_JJ orders_NNS 16_CD forms_NNS of_IN this_DT Materia_NNP Medica_NNP were_VBD forwarded_VBN to_TO Calcutta_NNP (_( in_IN triplicate_NN )_) through_IN the_DT office_NN of_IN the_DT head_NN of_IN my_PRP$ department_NN ,_, and_CC soon_RB after_IN this_DT the_DT book_NN came_VBD to_TO a_DT stand-still_JJ ,_, owing_VBG to_TO my_PRP$ retirement_NN from_IN the_DT service_NN ,_, as_IN I_PRP shall_MD explain_VB presently_RB ._.
+As_IN the_DT medicinal_JJ properties_NNS of_IN the_DT drugs_NNS mentioned_VBN in_IN this_DT book_NN are_VBP solely_RB from_IN my_PRP$ own_JJ experience_NN and_CC knowledge_NN ,_, and_CC not_RB gleaned_VBD or_CC borrowed_VBN from_IN any_DT other_JJ work_NN ,_, English_NNP or_CC Native_NNP ,_, the_DT greatest_JJS thing_NN I_PRP was_VBD in_IN need_NN of_IN in_IN writing_VBG it_PRP ,_, was_VBD the_DT trial_NN of_IN those_DT drugs_NNS in_IN various_JJ diseases_NNS ._.
+I_PRP was_VBD amply_RB supplied_VBN with_IN this_DT need_NN by_IN my_PRP$ being_VBG attached_VBN to_TO the_DT Tri-_NNP plicane_NN Dispensary_NNP ,_, where_WRB I_PRP had_VBD every_DT morning_NN to_TO prescribe_VB for_IN about_RB 100_CD out-patients_NNS ,_, and_CC was_VBD thus_RB enabled_VBN to_TO select_VB some_DT cases_NNS every_DT day_NN for_IN trial_NN ._.
+This_DT was_VBD the_DT chief_JJ resource_NN I_PRP depended_VBD upon_NN in_IN writing_VBG a_DT book_NN of_IN this_DT nature_NN ,_, and_CC its_PRP$ deprivation_NN in_IN consequence_NN of_IN my_PRP$ retirement_NN from_IN the_DT service_NN on_IN the_DT 7th_CD July_NNP 1889_CD is_VBZ very_RB deplorable_JJ and_CC a_DT death-blow_JJ to_TO my_PRP$ undertaking_NN ._.
+The_DT delay_NN of_IN six_CD or_CC seven_CD years_NNS in_IN writing_VBG this_DT book_NN might_MD appear_VB to_TO be_VB great_JJ or_CC unusual_JJ at_IN first_JJ sight_NN ,_, but_CC it_PRP is_VBZ not_RB really_RB so_RB when_WRB we_PRP consider_VBP that_IN it_PRP is_VBZ chiefly_JJ based_VBN upon_IN actual_JJ trials_NNS of_IN drugs_NNS ,_, as_IN I_PRP have_VBP just_RB explained_VBN ._.
+In_IN the_DT first_JJ place_NN ,_, the_DT physiological_JJ actions_NNS and_CC therapeutic_JJ uses_NNS of_IN medi-_JJ cines_NNS being_VBG the_DT most_RBS important_JJ and_CC essential_JJ points_NNS in_IN a_DT Materia_NNP Medica_NNP ,_, I_PRP did_VBD not_RB ,_, as_IN a_DT rule_NN ,_, express_VB my_PRP$ opinion_NN on_IN those_DT properties_NNS before_IN I_PRP had_VBD previously_RB employed_VBN the_DT drugs_NNS for_IN a_DT long_JJ time_NN or_CC on_IN a_DT sufficiently_RB large_JJ number_NN of_IN patients_NNS ;_: secondly_RB ,_, all_PDT the_DT diseases_NNS in_IN which_WDT it_PRP is_VBZ desirable_JJ to_TO try_VB drugs_NNS do_VB not_RB occur_VB always_RB ,_, nor_CC whenever_IN we_PRP want_VBP them_PRP ,_, but_CC we_PRP must_MD wait_VB with_IN patience_NN and_CC seize_VB the_DT opportunity_NN of_IN their_PRP$ occurrence_NN to_TO carry_VB out_RP the_DT trial_NN of_IN that_DT drug_NN ._.
+Beside_NNP ,_, the_DT nature_NN of_IN some_DT diseases_NNS is_VBZ such_JJ that_IN I_PRP was_VBD unable_JJ to_TO form_VB any_DT viii_JJ PREFACE_NNP ._.
+opinion_NN as_IN to_TO the_DT efficacy_NN or_CC otherwise_NN of_IN the_DT drugs_NNS tried_VBN in_IN them_PRP until_IN the_DT trial_NN of_IN each_DT was_VBD continued_VBN for_IN a_DT few_JJ years_NNS ,_, at_IN least_JJS ._.
+Epilepsy_NN and_CC Hysteria_NNP are_VBP examples_NNS of_IN such_JJ diseases_NNS ,_, whose_WP$ fits_NNS do_VBP not_RB always_RB occur_VBP frequently_RB ,_, but_CC generally_RB at_IN the_DT long_JJ intervals_NNS of_IN months_NNS and_CC years_NNS ._.
+Another_DT circumstance_NN which_WDT added_VBD to_TO this_DT delay_NN was_VBD my_PRP$ own_JJ health_NN ,_, which_WDT was_VBD somewhat_RB impaired_JJ after_IN I_PRP commenced_VBD to_TO write_VB this_DT work_NN ,_, and_CC I_PRP was_VBD laid_VBN up_RP twice_RB with_IN paralysis_NN during_IN its_PRP$ progress_NN ._.
+It_PRP is_VBZ true_JJ that_IN my_PRP$ retirement_NN from_IN the_DT service_NN leaves_VBZ more_JJR time_NN at_IN my_PRP$ disposal_NN than_IN before_RB ,_, but_CC it_PRP will_MD be_VB clear_JJ from_IN the_DT nature_NN of_IN this_DT work_NN that_IN I_PRP have_VBP been_VBN in_IN much_JJ greater_JJR need_NN of_IN patients_NNS for_IN trial_NN of_IN drugs_NNS than_IN mere_JJ time_NN for_IN writing_VBG it_PRP ._.
+Being_VBG thus_RB unable_JJ to_TO go_VB on_IN further_RB with_IN this_DT Materia_NNP Medica_NNP ,_, it_PRP is_VBZ certainly_RB very_RB painful_JJ to_TO me_PRP to_TO see_VB the_DT work_NN ,_, in_IN the_DT preparation_NN of_IN which_WDT I_PRP worked_VBD so_RB hard_JJ for_IN several_JJ years_NNS and_CC spared_VBD no_DT time_NN or_CC money_NN ,_, and_CC which_WDT was_VBD also_RB expected_VBN to_TO be_VB a_DT permanent_JJ monument_NN of_IN my_PRP$ professional_JJ labours_NN and_CC researches_NNS ,_, terminated_VBN so_RB abruptly_RB and_CC abortively_RB ._.
+There_EX is_VBZ ,_, however_RB ,_, no_DT other_JJ alternative_NN ,_, and_CC it_PRP is_VBZ quite_RB beyond_IN my_PRP$ power_NN to_TO attempt_VB to_TO complete_VB it_PRP ._.
+I_PRP brought_VBD these_DT unavoidable_JJ circumstances_NNS to_TO the_DT notice_NN of_IN Dr._NNP W._NNP F._NNP deFabeck_NN ,_, the_DT present_JJ Surgeon-General_JJ with_IN the_DT Government_NNP of_IN Madras_NNP ,_, with_IN a_DT request_NN to_TO be_VB permitted_VBN to_TO publish_VB the_DT pages_NNS already_RB printed_VBN ,_, which_WDT are_VBP about_IN one-_JJ third_NN of_IN the_DT book_NN ,_, as_IN its_PRP$ first_JJ volume_NN ._.
+At_IN his_PRP$ kind_NN recom-_JJ mendation_NN ,_, the_DT Government_NNP have_VBP graciously_RB pleased_VBN to_TO grant_VB my_PRP$ wishes_NNS and_CC issue_VB the_DT necessary_JJ orders_NNS to_TO the_DT Superin-_NNP tendent_NN of_IN the_DT Government_NNP Press_NNP for_IN the_DT publication_NN of_IN Volume_NN I_PRP of_IN the_DT Materia_NNP Medica_NNP of_IN Madras_NNP (_( vide_JJ G.O._NNP ,_, No_NNP ._.
+194_CD ,_, dated_VBD 10th_CD March_NNP 1891_CD )_) ._.
+With_IN a_DT view_NN to_TO make_VB this_DT book_NN correspond_NN as_RB much_RB as_IN possible_JJ with_IN the_DT PharmacopPREFACE_NNP ._.
+ix_NN or_CC for_IN anything_NN else_RB connected_VBN with_IN them_PRP ,_, in_IN any_DT other_JJ part_NN of_IN the_DT work_NN ._.
+Of_IN the_DT drugs_NNS included_VBD in_IN this_DT work_NN ,_, those_DT that_WDT are_VBP distin-_JJ guished_VBN by_IN an_DT asterisk_NN (_( *_NN )_) are_VBP official_JJ in_IN the_DT Pharmacopax_NNP PREFACE_NNP ._.
+In_IN conclusion_NN I_PRP beg_VBP to_TO state_NN that_IN I_PRP shall_MD ever_RB feel_VB grateful_JJ to_TO the_DT Government_NNP of_IN Madras_NNP for_IN their_PRP$ generosity_NN in_IN ordering_VBG the_DT publication_NN of_IN this_DT work_NN at_IN their_PRP$ own_JJ cost_NN ,_, and_CC am_VBP very_RB thankful_JJ to_TO the_DT Madras_NNP Working_NNP Committee_NNP ,_, Calcutta_NNP Inter-_NNP national_JJ Exhibition_NNP ,_, 1883-84_JJ ,_, for_IN their_PRP$ kind_NN recommendation_NN to_TO the_DT above_JJ effect_NN ._.
+I_PRP owe_VBP my_PRP$ best_JJS thanks_NNS to_TO Dr._NNP G._NNP Bidie_NNP ,_, M.B_NNP ._.
+and_CC C.I.E._NNP ,_, the_DT late_JJ Surgeon-General_JJ with_IN the_DT Government_NNP of_IN Madras_NNP ,_, for_IN his_PRP$ kindness_NN in_IN many_JJ respects_NNS ._.
+The_DT fact_NN of_IN his_PRP$ being_VBG the_DT Vice-President_JJ and_CC Secretary_NNP to_TO the_DT above_JJ Committee_NNP ,_, in_IN addition_NN to_TO his_PRP$ charge_NN of_IN the_DT Government_NNP Central_NNP Museum_NNP in_IN Madras_NNP ,_, was_VBD greatly_RB to_TO my_PRP$ own_JJ advantage_NN ,_, and_CC it_PRP was_VBD through_IN his_PRP$ kindness_NN I_PRP had_VBD an_DT access_NN not_RB only_RB to_TO all_PDT the_DT books_NNS in_IN the_DT Museum_NNP ,_, but_CC also_RB to_TO every_DT article_NN necessary_JJ for_IN packing_VBG and_CC despatching_VBG my_PRP$ collection_NN of_IN drugs_NNS to_TO Calcutta_NNP ._.
+I_PRP am_VBP also_RB much_RB indebted_VBN to_TO Dr._NNP W._NNP F._NNP deFabeck_NN ,_, the_DT present_JJ Surgeon-_NNP General_NNP with_IN the_DT Government_NNP of_IN Madras_NNP ,_, for_IN his_PRP$ kindness_NN in_IN recommending_VBG the_DT publication_NN of_IN this_DT volume_NN to_TO Government_NNP ._.
+I_PRP am_VBP very_RB thankful_JJ to_TO Mr._NNP W._NNP F._NNP Dique_NNP and_CC T._NNP Abboy_NNP Naidoo_NNP ,_, the_DT Curator_NNP and_CC the_DT Herbarium-keeper_NNP ,_, respectively_RB ,_, in_IN the_DT Government_NNP Central_NNP Museum_NNP ,_, for_IN their_PRP$ kind_NN assistance_NN in_IN packing_VBG and_CC despatching_VBG the_DT above_JJ collection_NN ._.
+I_PRP must_MD express_VB my_PRP$ thanks_NNS again_RB to_TO Abboy_NNP Naidoo_NNP for_IN his_PRP$ kind_NN and_CC great_JJ assistance_NN in_IN preparing_VBG almost_RB all_PDT the_DT indices_NNS in_IN this_DT book_NN ._.
+It_PRP now_RB remains_VBZ for_IN me_PRP to_TO say_VB that_IN I_PRP am_VBP very_RB thankful_JJ to_TO the_DT Superintendent_NNP and_CC other_JJ officers_NNS of_IN the_DT Government_NNP Press_NNP ,_, who_WP were_VBD always_RB kind_NN and_CC willing_JJ ,_, and_CC did_VBD all_DT in_IN their_PRP$ power_NN to_TO expedite_VB the_DT work_NN ,_, though_IN its_PRP$ progress_NN was_VBD often_RB disturbed_VBN ._.
+MOHIDEEN_NNP SHERIFF_NNP KHAN_NNP BAHADUR_NNP ._.
+MADRAS_NNP ,_, January_NNP 1891_CD ._.
+NOTE_NN ._.
+Owing_VBG to_TO the_DT death_NN of_IN Dr._NNP Mohideen_NNP Sheriff_NNP on_IN the_DT 21st_CD February_NNP 1891_CD ,_, the_DT Government_NNP of_IN Madras_NNP has_VBZ accepted_VBN with_IN pleasure_NN the_DT offer_NN of_IN Mr._NNP David_NNP Hooper_NNP ,_, Government_NNP Quinologist_NNP ,_, Ootacamund_NNP ,_, to_TO edit_VB and_CC complete_VB the_DT Materia_NNP Medica_NNP of_IN Madras_NNP (_( G.O._NNP ,_, No_NNP ._.
+371_CD ,_, dated_VBD 9th_CD May_NNP 1891_CD ,_, Public_NNP Department_NNP )_) ._.
+CONTENTS_NNS ._.
+PAGE_NNP PREFACE_NNP V_NNP VEGETABLE_NNP KINGDOM_NNP 1_CD INDEX_NNP OFMATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+VEGETABLE_NNP KINGDOM_NNP ._.
+RANUNCULACEÆ_NNP ._.
+*Aconitum_NN ferox_NN ,_, Wall_NNP ._.
+1_CD ,_, 2_CD ,_, 3_CD and_CC 4_CD ._.
+Habitat.2_NNP MATERIA_NNP ._.
+MEDICA_NNP root_NN ._.
+Giddiness_NNP ,_, headache_NN and_CC dryness_NN or_CC uneasiness_NN in_IN the_DT throat_NN are_VBP the_DT first_JJ symptoms_NNS of_IN the_DT bad_JJ or_CC poisonous_JJ effect_NN of_IN this_DT root_NN ,_, and_CC from_IN idiosyncrasy_JJ some_DT patients_NNS are_VBP apt_JJ to_TO feel_VB them_PRP in_IN pretty_RB small_JJ doses_NNS ._.
+Whenever_IN they_PRP are_VBP felt_VBN in_IN the_DT smallest_JJS degree_NN ,_, the_DT drug_NN should_MD be_VB stopped_VBN at_IN once_RB for_IN a_DT day_NN or_CC two_CD ,_, and_CC if_IN it_PRP is_VBZ necessary_JJ to_TO use_VB it_PRP again_RB after_IN that_DT period_NN ,_, it_PRP should_MD be_VB done_VBN only_RB in_IN half_NN of_IN its_PRP$ previous_JJ dose_NN ._.
+European_JJ Drugs_NNP ,_, for_IN which_WDT ,_, it_PRP may_MD be_VB substituted.3_NN OF_NNP MADRAS_NNP ._.
+a_DT therapeutic_JJ agent_NN ._.
+It_PRP is_VBZ ,_, however_RB ,_, much_JJ cheaper_JJR and_CC more_RBR common_JJ than_IN all_DT other_JJ varieties_NNS ._.
+A_DT few_JJ years_NNS ago_RB I_PRP took_VBD the_DT white_JJ variety_NN of_IN Bachnádg_NNP myself_PRP in_IN small_JJ quantities_NNS ,_, and_CC found_VBD that_IN its_PRP$ internal_JJ use_NN is_VBZ not_RB attended_VBN with_IN more_RBR danger_NN than_IN that_DT of_IN the_DT European_NNP aconite_NN root_NN (_( Aconitum_NNP Napellus_NNP )_) ._.
+Since_IN that_DT period_NN I_PRP have_VBP employed_VBN it_PRP very_RB extensively_RB in_IN my_PRP$ practice_NN ,_, and_CC do_VBP not_RB hesitate_VB in_IN saying_VBG that_IN it_PRP is_VBZ one_CD of_IN the_DT most_RBS useful_JJ medicines_NNS in_IN India_NNP ._.
+Its_PRP$ beneficial_JJ influence_NN over_IN diabetes_NNS is_VBZ very_RB remarkable_JJ ,_, the_DT immoderate_NN flow_NN of_IN urine_JJ beginning_VBG to_TO diminish_VB from_IN the_DT very_RB day_NN of_IN its_PRP$ use_NN with_IN a_DT proportionate_NN decrease_NN in_IN the_DT saccharine_JJ matter_NN ._.
+Its_PRP$ control_NN over_IN spermatorrh4_JJ MATERIA_NNP MEDICA_NNP and_CC cuts_NNS easily_RB ._.
+It_PRP is_VBZ brown_VBN internally_RB ,_, and_CC ,_, as_IN its_PRP$ name_NN implies_NNS ,_, is_VBZ slightly_RB but_CC distinctly_RB sweet_JJ instead_RB of_IN '_'' bitter_NN ._.
+The_DT sweetness_NN makes_VBZ no_DT difference_NN in_IN the_DT tingling_NN and_CC other_JJ sensations_NNS ,_, which_WDT are_VBP so_RB pecu-_JJ liar_NN to_TO all_DT aconite_JJ roots_NNS ._.
+With_IN regard_NN to_TO the_DT smaller_JJR kind_NN of_IN aconite_JJ roots_NNS ,_, they_PRP are_VBP those_DT whose_WP$ length_NN is_VBZ invariably_RB below_IN one_CD inch_NN and_CC a_DT half_NN ._.
+They_PRP may_MD be_VB sub-divided_JJ into_IN the_DT poisonous_JJ and_CC non-poisonous_JJ varieties_NNS ._.
+The_DT poi-_JJ sonous_JJ are_VBP distinguished_VBN by_IN the_DT acridity_NN and_CC tingling_VBG sensation_NN of_IN their_PRP$ taste_NN ,_, and_CC still_RB retain_VB the_DT name_NN of_IN BOF_NNP MADRAS_NNP ._.
+5_CD of_IN these_DT is_VBZ the_DT white_JJ variety_NN (_( No_UH ._.
+5_CD )_) ;_: the_DT second_JJ ,_, the_DT black_JJ variety_NN (_( No_UH ._.
+6_CD )_) ;_: and_CC the_DT third_JJ ,_, the_DT culindrical_JJ (_( No_UH ._.
+7_CD )_) ._.
+The_DT white_JJ variety_NN or_CC Atís_NNP is_VBZ a_DT tuberous_JJ root_NN ,_, conical_JJ ,_, or_CC ovoid_NN with_IN a_DT tapering_VBG point_NN towards_NNS the_DT lower_JJR ;_: from_IN 1_CD to_TO 2_CD inches_NNS in_IN length_NN ,_, about_IN the_DT same_JJ in_IN circum-_JJ ference_NN at_IN its_PRP$ base_NN and_CC upper_JJ end_NN ;_: from_IN 10_CD to_TO 50_CD grains_NNS in_IN weight_NN ;_: grey_CC or_CC of_IN a_DT pale_JJ ash-color_NN externally_RB with_IN more_RBR and_CC less_RBR white_JJ scars_NNS of_IN root-_JJ lets_NNS on_IN the_DT surface_NN ,_, and_CC white_JJ internally_RB ;_: and_CC inodorous_JJ with_IN a_DT pure_NN bitter_JJ taste_NN and_CC without_IN the_DT least_JJS acridity_NN and_CC sweetness_NN ._.
+The_DT roots_NNS in_IN the_DT black_JJ variety_NN are_VBP brown_VBN or_CC deep-brown_JJ externally_RB ,_, and_CC quite_RB white_JJ internally_RB ,_, and_CC the_DT only_JJ difference_NN between_IN this_DT and_CC the_DT other_JJ varieties_NNS is_VBZ its_PRP$ external_JJ color_NN ._.
+The_DT black_JJ or_CC Kálí-rajje-turkí_NNP is_VBZ a_DT very_RB rare_JJ variety_NN and_CC not_RB found_VBN in_IN any_DT of_IN the_DT bazaars_NNS of_IN Southern_JJ India_NNP at_IN present_NN ._.
+Though_IN I_PRP had_VBD obtained_VBN it_PRP twice_RB before_IN from_IN Bombay_NNP some_DT years_NNS ago_RB ,_, yet_RB failed_VBN to_TO get_VB it_PRP on_IN the_DT present_JJ occasion_NN ._.
+The_DT roots_NNS representing_VBG this_DT variety_NN in_IN my_PRP$ Collection_NN are_VBP from_IN Calcutta_NNP ,_, and_CC are_VBP not_RB a_DT good_JJ specimen_NN of_IN it_PRP ,_, being_VBG paler_JJR than_IN they_PRP generally_RB are_VBP ._.
+The_DT cylindrical_JJ variety_NN is_VBZ long_RB ,_, thin_JJ and_CC cylindrical_JJ with_IN little_JJ or_CC no_DT point_NN at_IN either_DT end_NN ,_, and_CC differs_NNS only_RB in_IN shape_NN from_IN the_DT white_JJ ._.
+The_DT cylindrical_NN is_VBZ not_RB a_DT separate_JJ variety_NN in_IN my_PRP$ opinion_NN ,_, but_CC is_VBZ sometimes_RB sold_VBN as_IN such_JJ in_IN Madras_NNP under_IN the_DT Dukhni_NNP name_NN of_IN Lambí-rajje-turkí_NNP ._.
+All_PDT the_DT varieties_NNS of_IN Atís_NNP agree_VBP with_IN each_DT other_JJ in_IN five_CD characters_NNS ,_, which_WDT are_VBP invariable_JJ ,_, namely_RB ,_, the_DT whiteness_NN of_IN the_DT substance_NN internally_RB ,_, the_DT pure_NN bitter_JJ taste_NN without_IN the_DT least_JJS acridity_NN or_CC sweetness_NN ,_, and_CC the_DT formation_NN of_IN a_DT fari-_JJ naceous_JJ nature_NN ._.
+The_DT combination_NN of_IN these_DT five_CD characters_NNS is_VBZ a_DT very_RB good_JJ and_CC sure_JJ criterion_NN for_IN distinguishing_VBG the_DT Atís_NNP and_CC its_PRP$ varieties_NNS from_IN all_DT kinds_NNS of_IN aconite_NN and_CC other_JJ roots_NNS which_WDT many_JJ bear_VBP a_DT resemblance_NN to_TO them_PRP ._.
+The_DT white_JJ or_CC common_JJ variety_NN is_VBZ a_DT very_RB useful_JJ antiperiodic_JJ and_CC anti-_JJ pyretic_NN ;_: but_CC to_TO ensure_VB its_PRP$ best_JJS effects_NNS it_PRP is_VBZ required_VBN to_TO be_VB administered_VBN in_IN its_PRP$ fulì_JJ medicinal_JJ doses_NNS ,_, which_WDT are_VBP ,_, according_VBG to_TO my_PRP$ own_JJ experience_NN ,_, from_IN one_CD to_TO two_CD drachms_NNS ._.
+It_PRP is_VBZ quite_RB safe_JJ up_RB to_TO two_CD drachms_NNS and_CC a_DT half_NN ._.
+In_IN smaller_JJR doses_NNS (_( twenty_NN to_TO forty_VB grains_NNS )_) it_PRP is_VBZ a_DT good_JJ tonic_NN ,_, but_CC its_PRP$ action_NN as_IN an_DT antiperiodic_NN is_VBZ very_RB feeble_JJ ._.
+Although_IN Vajje_NNP turkí_NN ,_, Atiradayam_NNP and_CC Atí-rasa_NNP are_VBP the_DT correct_JJ vernacular_JJ names_NNS of_IN this_DT drug_NN ,_, they_PRP are_VBP also_RB applied_VBN wrongly_RB in_IN the_DT bazaars_NNS of_IN Southern_NNP India_NNP to_TO another_DT cheaper_JJR root_NN ,_, and_CC the_DT latter_NN is_VBZ consequently_RB often_RB confounded_VBN with_IN the_DT former_JJ ._.
+The_DT confusion_NN is_VBZ avoided_VBN if_IN the_DT words_NNS viláyatí_NN ,_, shímai_NN and_CC símá_NN (_( each_DT of_IN which_WDT means_VBZ foreign_JJ )_) ,_, are_VBP added_VBN to_TO the_DT above_JJ synonyms_NN ._.
+as_IN is_VBZ the_DT case_NN under_IN the_DT head_NN of_IN ``_`` Synonyms_NNP ''_'' in_IN this_DT article_NN ._.
+The_DT thin_JJ cylindrical_JJ roots_NNS known_VBN in_IN the_DT bazaars_NNS as_IN Nattuati-radayam_NNP or_CC country_NN atis_NNS are_VBP derived_VBN from_IN Cryptocorine_NNP spiralis_NN and_CC a_DT species_NNS of_IN Lagenandra_NNP ,_, plants_NNS belonging_VBG to_TO the_DT natural_JJ order_NN Aroideæ_NNP ,_, 6_CD MATERIA_NNP MEDICA_NNP Price.OF_NNP MADRAS_NNP ._.
+7_CD on_IN the_DT Himalayas_NNP and_CC in_IN the_DT localities_NNS where_WRB Aconitum_NNP ferox_NN and_CC other_JJ species_NNS of_IN Aconitum_NNP are_VBP found_VBN ,_, it_PRP may_MD be_VB much_JJ cheaper_JJR and_CC more_RBR easily_RB procurable_JJ in_IN Northern_NNP Hindústan_NNP ;_: but_CC it_PRP is_VBZ extremely_RB dear_JJ and_CC scarce_NN in_IN Southern_NNP India_NNP ._.
+In_IN fact_NN ,_, the_DT real_JJ drug_NN is_VBZ seldom_RB or_CC never_RB found_VBN in_IN Madras_NNP ,_, and_CC what_WP is_VBZ occasionally_RB offered_VBN for_IN sale_NN here_RB as_IN Jadvár_NNP are_VBP some_DT false_JJ or_CC artificial_JJ roots_NNS ,_, kept_VBD in_IN oil_NN under_IN the_DT pretence_NN of_IN preserving_VBG them_PRP from_IN decay_NN and_CC insects_NNS ._.
+The_DT fraud_NN ,_, however_RB ,_, is_VBZ easily_RB exposed_VBN ,_, the_DT false_JJ roots_NNS being_VBG generally_RB more_RBR or_CC less_JJR smooth_JJ and_CC shining_NN ,_, and_CC quite_RB devoid_NN of_IN the_DT natural_JJ shrivelled_VBN and_CC shrunken_JJ appearance_NN of_IN the_DT true_JJ Jadvár_NNP ._.
+The_DT Native_NNP medical_JJ works_NNS speak_NN of_IN four_CD or_CC five_CD varieties_NNS of_IN this_DT drug_NN ;_: but_CC I_PRP have_VBP seen_VBN only_RB two_CD ,_, which_WDT are_VBP as_IN follows:8_JJ MATERTA_NNP MEDICA_NNP The_DT volatile_JJ oil_NN obtained_VBN from_IN this_DT fruit_NN forms_VBZ the_DT Oil_NN of_IN Anise_NNP of_IN commerce_NN ,_, which_WDT is_VBZ an_DT important_JJ drug_NN ;_: but_CC I_PRP have_VBP used_VBN the_DT fruit_NN itself_PRP in_IN powder_NN in_IN many_JJ ordinary_JJ cases_NNS of_IN dyspepsia_NN and_CC debility_NN with_IN pretty_RB good_JJ results_NNS ._.
+It_PRP is_VBZ generally_RB imported_VBN to_TO Madras_NNP from_IN Calcutta_NNP ._.
+Michelia_NNP Champaca_NNP ,_, Linn_NNP ._.
+12_CD and_CC 13_CD ._.
+Habitat.OF_NNP MADRAS_NNP ._.
+9_CD repeatedly_RB in_IN the_DT same_JJ way_NN as_IN other_JJ stimulants_NNS are_VBP under_IN similar_JJ circumstances_NNS ._.
+Although_IN M._NNP Champaca_NNP is_VBZ met_VBN with_IN in_IN many_JJ places_NNS of_IN Southern_NNP India_NNP ,_, it_PRP is_VBZ very_RB scarce_JJ in_IN some_DT localities_NNS ._.
+Madras_NNP is_VBZ an_DT example_NN of_IN the_DT latter_NN ,_, and_CC there_EX are_VBP not_RB more_RBR than_IN two_CD or_CC three_CD plants_NNS in_IN the_DT whole_NN of_IN this_DT city_NN ._.
+The_DT dry_JJ flowers_NNS ,_, however_RB ,_, are_VBP common_JJ and_CC abundant_JJ in_IN the_DT bazaar_NN ,_, as_IN already_RB mentioned_VBN ._.
+MENISPERMACEÆ_NNP ._.
+*Anamirta_JJ cocculus_NN ,_, W._NNP et_VBZ A_NNP ._.
+14_CD ._.
+Habitat.10_NNP MATERIA_NNP MEDICA_NNP Tel_NNP ._.
+Of_IN the_DT watery_NN extractOF_NN MADRAS_NNP ._.
+11_CD the_DT roots_NNS of_IN T._NNP cordifolia_NN ,_, and_CC greenish-white_JJ or_CC greenish-brown_JJ ,_, if_IN from_IN the_DT stems_NNS ._.
+It_PRP occurs_VBZ in_IN powder_NN or_CC loose_JJ and_CC flat_JJ cake-like_NN pieces_NNS ._.
+It_PRP is_VBZ prepared_VBN easily_RB by_IN cutting_VBG the_DT fresh_JJ stem_NN into_IN small_JJ pieces_NNS ,_, which_WDT are_VBP bruised_VBN in_IN a_DT stone_NN or_CC wooden_JJ mortar_NN and_CC soaked_VBN in_IN water_NN from_IN six_CD to_TO twelve_VB hours_NNS ._.
+The_DT mass_NN is_VBZ then_RB rubbed_VBN ,_, squeezed_VBN and_CC separated_VBN from_IN the_DT fluid_NN by_IN straining_VBG the_DT latter_NN through_IN cloth_NN ._.
+The_DT fluid_NN being_VBG evapo-_JJ rated_VBN to_TO dryness_VB in_IN the_DT sun_NN ,_, the_DT residue_NN is_VBZ the_DT satte-giló_NN ._.
+The_DT last_JJ process_NN is_VBZ generally_RB repeated_VBN several_JJ times_NNS with_IN a_DT view_NN to_TO make_VB the_DT drug_NN whiter_NN ;_: but_CC such_JJ repetitions_NNS ,_, in_IN my_PRP$ opinion_NN ,_, are_VBP not_RB only_RB un-_JJ necessary_JJ ,_, but_CC detrimental_JJ to_TO its_PRP$ effects_NNS ._.
+The_DT thicker_NN the_DT gul-bél_NN or_CC its_PRP$ root_NN is_VBZ ,_, the_DT better_JJR for_IN the_DT preparation_NN of_IN satte-giló_NN ;_: and_CC the_DT plant_NN is_VBZ known_VBN to_TO attain_VB sometimes_RB the_DT thickness_NN of_IN a_DT man_NN 's_POS arm_NN ._.
+A_DT transverse_JJ section_NN of_IN the_DT stem_NN and_CC root_NN shows_VBZ the_DT wood_NN to_TO consist_VB of_IN a_DT very_RB porous_JJ tissue_NN ,_, traversed_VBN by_IN conspicuous_JJ medullary_JJ rays_NNS ,_, with_IN or_CC without_IN con-_JJ centric_JJ zones_NNS ._.
+The_DT specimens_NNS of_IN the_DT satte-giló_NN in_IN my_PRP$ Collection_NNP (_( Nos_NNP ._.
+17_CD and_CC 18_CD )_) are_VBP genuine_JJ ,_, being_VBG prepared_VBN by_IN myself_PRP for_IN the_DT Calcutta_NNP International_NNP Exhibition_NNP ;_: the_DT former_JJ from_IN the_DT stems_NNS ,_, and_CC the_DT latter_NN from_IN the_DT roots_NNS ._.
+Flückiger_NNP has_VBZ found_VBN the_DT alkaloid_JJ berberine_NN and_CC a_DT glucoside_NN to_TO be_VB the_DT sources_NNS of_IN the_DT bitterness_NN ._.
+12_CD MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+13_CD about_IN a_DT few_JJ years_NNS ago_RB ,_, they_PRP were_VBD long_JJ and_CC branching_NN ,_, tortuous_JJ or_CC serpentine_JJ ,_, but_CC were_VBD cut_VBN afterwards_NNS into_IN small_JJ pieces_NNS ._.
+The_DT bark_NN is_VBZ brown_JJ or_CC greyish-brown_JJ ,_, wrinkled_VBD longitudinally_RB and_CC crossed_VBD trans-_NNS versely_RB by_IN annular_JJ elevations_NNS ;_: interior_JJ woody_NN ,_, porous_JJ ,_, and_CC yellowish-_JJ white_JJ ._.
+The_DT root_NN breaks_NNS with_IN a_DT coarse_JJ fibrous_JJ fracture_NN ,_, and_CC a_DT transverse_JJ section_NN of_IN it_PRP exhibits_VBZ more_RBR or_CC less_RBR concentric_JJ rings_NNS and_CC medullary_JJ rays_NNS ._.
+The_DT taste_NN is_VBZ bitter_JJ ._.
+The_DT plant_NN was_VBD first_RB noticed_VBN growing_VBG in_IN Madras_NNP by_IN T._NNP Abboy_NNP Naidoo_NNP ,_, Herbarium_NNP Keeper_NNP under_IN Dr._NNP G._NNP Bidie_NNP ,_, M.B._NNP &_CC C.I.E._NNP ,_, in_IN the_DT Government_NNP Central_NNP Museum_NNP ._.
+BERBERIDEÆ_NNP ._.
+*Berberis_NN aristata_NNS ,_, DC_NNP ._.
+(_( B._NNP tinctoria_NN ,_, Lesch_NNP )_) ._.
+22_CD and_CC 23_CD ._.
+Habitat.14_NNP MATERIA_NNP MEDICA_NNP speak_NN of_IN its_PRP$ therapeutic_JJ uses_NNS more_RBR fully_RB here_RB than_IN under_IN the_DT heading_NN ``_`` Therapeutic_JJ Uses_NNS ._.
+``_`` OF_IN MADRAS_NNP ._.
+15_CD Local_JJ Sources.16_NNP MATERIA_NNP MEDICA_NNP Synonyms.OF_NNP MADRAS_NNP ._.
+17_CD Synonyms.18_NNP MATERIA_NNP MEDICA_NNP Physiological_NNP Actions_NNP ,_, Therapeutic_NNP Uses_NNP ,_, Preparations_NNP ,_, Doses_NNP and_CC European_NNP Drugs_NNP for_IN which_WDT they_PRP may_MD be_VB substituted.OF_JJ MADRAS_NNP ._.
+19_CD carried_VBN on_IN on_IN a_DT very_RB large_JJ scale_NN in_IN many_JJ parts_NNS of_IN Central_NNP and_CC Northern_NNP India_NNP ._.
+Parts_NNS Used.20_NNP MATERIA_NNP MEDICA_NNP it_PRP either_CC checks_NNS or_CC relieves_VBZ the_DT fits_NNS of_IN asthma_NN ,_, hysteria_NN ,_, catalepsy_NN and_CC epilepsy_NN ._.
+No_DT other_JJ plan_NN of_IN treatment_NN is_VBZ so_RB useful_JJ as_IN this_DT method_NN in_IN alleviating_VBG the_DT excruciating_VBG pain_NN or_CC agony_NN of_IN such_JJ diseases_NNS as_IN the_DT impac-_JJ tion_NN of_IN calculi_NN in_IN the_DT ureter_NN or_CC biliary_JJ ducts_NNS ,_, or_CC cancer_NN of_IN the_DT stomach_NN ,_, breast_NN or_CC uterus_NN ._.
+During_IN the_DT last_JJ few_JJ years_NNS I_PRP have_VBP succeeded_VBN in_IN curing_VBG or_CC completely_RB relieving_VBG some_DT cases_NNS of_IN the_DT former_JJ affection_NN (_( im-_JJ paction_NN )_) by_IN the_DT injection_NN of_IN morphia_NN within_IN 10_CD to_TO 20_CD minutes_NNS ;_: whereas_NNS before_IN that_DT period_NN ,_, I_PRP was_VBD unable_JJ to_TO do_VB the_DT same_JJ for_IN a_DT day_NN or_CC two_CD ,_, or_CC ,_, at_IN least_JJS ,_, for_IN many_JJ hours_NNS ,_, by_IN other_JJ plans_NNS of_IN treatment_NN ._.
+This_DT injection_NN is_VBZ also_RB a_DT very_RB good_JJ and_CC speedy_JJ hypnotic_NN ,_, and_CC it_PRP therefore_RB produces_VBZ sleep_NN for_IN some_DT hours_NNS (_( occasionally_RB for_IN more_JJR than_IN a_DT day_NN )_) ,_, and_CC successfully_RB the_DT pain_NN in_IN a_DT host_NN of_IN painful_JJ and_CC irritative_JJ disorders_NNS ,_, including_VBG fractures_NNS and_CC other_JJ injuries_NNS ._.
+Some_DT patients_NNS ,_, particularly_RB the_DT Europeans_NNPS ,_, prefer_VBP the_DT injection_NN to_TO all_DT sleeping_VBG draughts_NNS by_IN the_DT mouth_NN ,_, The_DT dose_NN of_IN morphine_NN I_PRP have_VBP generally_RB used_VBN in_IN this_DT injection_NN is_VBZ ¼_NNP of_IN a_DT grain_NN ,_, and_CC only_RB on_IN a_DT few_JJ occasions_NNS have_VBP I_PRP increased_VBD it_PRP to_TO 1/3_CD ._.
+The_DT solution_NN of_IN morphia_NN which_WDT is_VBZ generally_RB adopted_VBN by_IN the_DT profession_NN for_IN subcutane-_JJ ous_JJ use_NN is_VBZ the_DT one_CD described_NN in_IN the_DT British_JJ PharmacopOF_NNP MADRAS_NNP ._.
+21_CD hollow_JJ needles_NNS ,_, &_CC c._NN )_) are_VBP sold_VBN in_IN many_JJ druggists_NNS '_POS shops_NNS and_CC are_VBP very_RB cheap_JJ at_IN present_JJ ._.
+The_DT manner_NN of_IN using_VBG the_DT hypodermic_JJ injection_NN is_VBZ pretty_JJ easy_JJ ,_, namely_RB ,_, fix_VB a_DT sharp_JJ hollow_NN needle_NN to_TO the_DT syringe_NN ,_, which_WDT should_MD be_VB filled_VBN up_RP pre-_JJ viously_RB with_IN the_DT solution_NN ;_: pinch_VBZ up_RP a_DT small_JJ fold_NN of_IN the_DT skin_NN ,_, under_IN which_WDT pass_VBP the_DT needle_NN into_IN the_DT cellular_JJ tissues_NNS (_( not_RB muscles_NNS )_) ;_: and_CC now_RB press_VB down_RP the_DT piston_NN slowly_RB ._.
+As_IN atropine_NN and_CC morphine_NN are_VBP very_RB dear_JJ medicines_NNS ,_, their_PRP$ employ-_JJ ment_NN subecutaneously_RB is_VBZ very_RB important_JJ in_IN an_DT economic_JJ point_NN of_IN view_NN ,_, in_IN addition_NN to_TO the_DT great_JJ and_CC invaluable_JJ use_NN we_PRP derive_VBP from_IN them_PRP in_IN our_PRP$ prac-_JJ tice_NN ,_, as_IN already_RB explained_VBN ._.
+Whether_IN these_DT drugs_NNS are_VBP injected_VBN over_IN or_CC near_IN the_DT painful_NN or_CC affected_JJ part_NN ,_, or_CC on_IN a_DT spot_NN far_RB away_RB from_IN it_PRP ,_, there_EX is_VBZ no_DT difference_NN between_IN their_PRP$ effects_NNS ,_, and_CC the_DT result_NN is_VBZ the_DT same_JJ in_IN both_DT cases_NNS ._.
+Therefore_RB ,_, in_IN selecting_VBG a_DT spot_NN for_IN hypodermic_JJ injection_NN ,_, we_PRP must_MD only_RB pay_VB attention_NN to_TO the_DT structure_NN ,_, &_CC c._NN ,_, of_IN the_DT spot_NN ,_, without_IN the_DT least_JJS regard_NN to_TO the_DT distance_NN between_IN that_DT spot_NN and_CC the_DT painful_JJ or_CC affected_JJ part_NN ._.
+The_DT parts_NNS which_WDT are_VBP very_RB safe_JJ ,_, convenient_NN and_CC generally_RB selected_VBN for_IN hypoder-_JJ mic_JJ injection_NN are_VBP the_DT outer_JJ side_NN of_IN the_DT arms_NNS ,_, thighs_NNS and_CC legs_NNS ;_: and_CC next_JJ to_TO these_DT are_VBP the_DT abdomen_NNS ,_, back_RB and_CC shoulders_NNS ._.
+The_DT parts_NNS which_WDT should_MD always_RB be_VB avoided_VBN are_VBP those_DT where_WRB some_DT large_JJ or_CC pretty_JJ large_JJ veins_NNS ,_, arteries_NNS and_CC nerves_NNS are_VBP known_VBN to_TO exist_VB ,_, such_JJ as_IN the_DT popliteal_NN space_NN ,_, the_DT bend_NN of_IN the_DT elbow_NN ,_, groin_NN ,_, arm-pit_JJ ,_, and_CC the_DT inner_JJ side_NN of_IN the_DT arms_NNS ,_, thighs_NNS and_CC legs_NNS ;_: the_DT temple_NN ,_, neck_NN ,_, chest_NN and_CC scalp_NN should_MD also_RB be_VB avoided_VBN as_IN they_PRP are_VBP occasionally_RB known_VBN to_TO be_VB unsafe_JJ and_CC dangerous_JJ places_NNS for_IN the_DT oper-_JJ ation_NN ._.
+The_DT following_NN are_VBP a_DT few_JJ more_JJR precautions:22_JJ MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+23_CD asthma_NN ,_, from_IN ten_VBN to_TO fifteen_VB minims_NNS ,_, three_CD or_CC four_CD times_NNS in_IN the_DT twenty-_JJ four_CD hours_NNS ._.
+Of_IN the_DT decoction_NN ,_, from_IN two_CD to_TO three_CD ounces_NNS ,_, three_CD times_NNS a_DT day_NN ._.
+European_JJ Drugs_NNP for_IN which_WDT they_PRP may_MD be_VB substituted.24_JJ MATERIA_NNP MEDICA_NNP FUMARIACEÆ_NNP ._.
+OF_IN MADRAS_NNP ._.
+25_CD Therapeutic_JJ Uses.26_NNP MATERIA_NNP MEDICA_NNP Local_NNP Sources.OF_NNP MADRAS_NNP ._.
+27_CD muslin_NN ,_, but_CC reddish_JJ white_JJ if_IN not_RB strained_VBN ,_, owing_VBG to_TO the_DT presence_NN of_IN the_DT red_JJ particles_NNS of_IN the_DT cuticle_NN of_IN the_DT seeds_NNS ._.
+The_DT cuticle_NN itself_PRP being_VBG soft_JJ and_CC mucilaginous_JJ ,_, there_EX is_VBZ no_DT need_NN for_IN its_PRP$ separation_NN by_IN straining_VBG the_DT mucilage_NN ._.
+The_DT decoction_NN of_IN the_DT seeds_NNS is_VBZ thus_RB prepared_JJ :_: 28_CD MATERIA_NNP MEDICA_NNP Eng_NNP ._.
+Múlí_NNP ,_, Hind._NNP ,_, Duk_NNP ._.
+and_CC Beng_NNP ._.
+Mullángi_NNP ,_, Tam_NNP ._.
+Mullangi_NNP ,_, Tel_NNP ._.
+Moulá_NNP ,_, Burm_NNP ._.
+Fujl_NNP ,_, Arab_NNP ._.
+Turb_NNP ,_, Pers_NNP ._.
+Local_JJ Sources.OF_NNP MADRAS_NNP ._.
+29_CD Physiological_JJ Actions.30_NNP MATERIA_NNP MEDICA_NNP barkOF_NN MADRAS_NNP ._.
+31_CD Parts_NNS Used.32_NNP MATERIA_NNP MEDICA_NNP distinguishing_VBG them_PRP from_IN each_DT other_JJ if_IN due_JJ attention_NN is_VBZ paid_VBN to_TO the_DT following_JJ botanical_JJ distinctions_NNS :_: OF_NN MADRAS_NNP ._.
+33_CD European_JJ Drugs_NNP for_IN which_WDT they_PRP may_MD be_VB substituted.34_JJ MATERIA_NNP MEDICA_NNP which_WDT may_MD ,_, for_IN the_DT sake_NN of_IN convenience_NN ,_, be_VB called_VBN the_DT compound_NN decoction_NN of_IN V._NNP odorata_NN ._.
+This_DT decoction_NN is_VBZ very_RB useful_JJ in_IN relieving_VBG the_DT febrile_JJ excitement_NN and_CC other_JJ symptoms_NNS of_IN pyrexia_NN in_IN obstinate_NN and_CC long-stand-_JJ ing_NN cases_NNS of_IN continued_JJ ,_, remittent_NN ,_, typhoid_NN and_CC typhus_NN fevers_NNS ._.
+I_PRP have_VBP cured_VBN by_IN this_DT decoction_NN two_CD very_RB obstinate_JJ and_CC long-standing_JJ cases_NNS of_IN typhoid_NN fever_NN ,_, after_IN the_DT failure_NN of_IN all_PDT the_DT European_NNP medicines_NNS generally_RB in_IN use_NN ._.
+In_IN one_CD of_IN them_PRP ,_, the_DT patient_NN ,_, a_DT Hindu_NNP male_NN about_IN 35_CD years_NNS old_JJ ,_, was_VBD suffering_VBG from_IN the_DT disease_NN for_IN more_JJR than_IN 25_CD days_NNS before_IN he_PRP came_VBD under_IN my_PRP$ treatment_NN ,_, and_CC then_RB was_VBD getting_VBG worse_RBR gradually_RB with_IN a_DT temperature_NN permanently_RB between_IN 104°_CD and_CC 105°_CD in_IN the_DT evening_NN for_IN about_IN a_DT fortnight_NN more_RBR ,_, when_WRB I_PRP began_VBD the_DT use_NN of_IN the_DT decoction_NN as_IN the_DT last_JJ resource_NN ._.
+On_IN the_DT second_JJ evening_NN after_IN its_PRP$ use_NN ,_, there_EX was_VBD a_DT distinct_JJ change_NN for_IN the_DT better_JJR ,_, the_DT skin_NN being_VBG moist_NN with_IN a_DT fall_NN of_IN temperature_NN by_IN one_CD decree_NN for_IN the_DT first_JJ time_NN ,_, and_CC in_IN about_RB 10_CD or_CC 12_CD days_NNS more_RBR the_DT patient_NN was_VBD perfectly_RB free_JJ from_IN fever_NN ._.
+During_IN the_DT employment_NN of_IN the_DT decoction_NN no_DT other_JJ medicine_NN was_VBD used_VBN ,_, except_IN a_DT few_JJ doses_NNS of_IN Dover_NNP 's_POS powder_NN ,_, which_WDT were_VBD necessary_JJ on_IN one_CD or_CC two_CD occasions_NNS to_TO check_VB diarrhOF_JJ MADRAS_NNP ._.
+35_CD The_DT bowels_NNS are_VBP generally_RB free_JJ under_IN the_DT use_NN of_IN this_DT decoction_NN ,_, but_CC if_IN they_PRP are_VBP not_RB so_RB ,_, or_CC become_VB costive_JJ in_IN the_DT course_NN of_IN treatment_NN ,_, the_DT quantity_NN of_IN the_DT liquorice_NN root_NN ,_, rose-buds_JJ and_CC raisins_NNS may_MD be_VB doubled_VBN or_CC increased_VBN to_TO such_PDT an_DT extent_NN as_IN to_TO produce_VB the_DT desired_JJ effect_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, if_IN there_EX is_VBZ any_DT looseness_NN or_CC diarrh36_NN MATERIA_NNP MEDICA_NNP Physiological_NNP Actions.OF_NNP MADRAS_NNP ._.
+37_CD this_DT oil_NN in_IN leprosy_CC the_DT patient_NN may_MD be_VB kept_VBN on_IN a_DT good_JJ and_CC nourishing_JJ diet_NN ,_, but_CC is_VBZ prohibited_VBN from_IN taking_VBG the_DT following_JJ articles_NNS :_: 38_CD MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+39_CD Local_JJ Sources.40_NNP MATERIA_NNP MEDICA_NNP Pappu-kúra-vittulu_NNP ,_, Pedda-pávila_NNP ,_, -kúra-vittulu_NNP ,_, Goddupávili-kúra-vit-_NNP tulu_NN ,_, Tel_NNP ._.
+Baró-loniyá-bíj_NNP ,_, Beng_NNP ._.
+Tukhme-khurfah_NNP ,_, Pers_NNP ._.
+Bazrul-_JJ baqlatul-humqá_NN ,_, Arab_NNP ._.
+Of_IN the_DT leaves_NNS or_CC the_DT whole_JJ plantOF_NN MADRAS_NNP ._.
+41_CD Ocimum_NNP basilicum_NN and_CC O._NNP album_NN ,_, each_DT grs_NN ._.
+xv_NN ;_: and_CC dry_JJ starch_NN of_IN Triticum_NNP satixum_VBD 3ss_CD ._.
+Rub_NNP all_PDT the_DT ingredients_NNS well_RB in_IN a_DT mortar_NN with_IN two_CD ounces_NNS of_IN water_NN and_CC strain_VB the_DT liquid_NN through_IN cloth_NN ._.
+Add_NNP to_TO this_DT draught_JJ four_CD or_CC five_CD fluid_JJ drachms_NN of_IN the_DT Syrup_NNP of_IN Pomegranate_NNP (_( Punica_NNP granatum_NN )_) and_CC give_VB to_TO the_DT patient_JJ four_CD or_CC five_CD times_NNS in_IN the_DT twenty-four_JJ hours_NNS ._.
+The_DT syrup_NN of_IN the_DT sour_JJ pomegranate_NN is_VBZ the_DT best_JJS ,_, but_CC in_IN the_DT absence_NN of_IN the_DT syrup_NN of_IN both_CC the_DT sour_NN and_CC sweet_JJ pomegranate_NN ,_, the_DT juice_NN of_IN either_DT of_IN them_PRP will_MD do_VB ._.
+If_IN the_DT seeds_NNS of_IN Cucurbita_NNP Pepo_NNP are_VBP not_RB readily_RB procurable_JJ ,_, they_PRP may_MD be_VB substituted_VBN by_IN those_DT of_IN Lagenaria_NNP xulgaris_NNP ,_, which_WDT ,_, like_IN all_DT other_JJ ingredients_NNS in_IN the_DT prescription_NN are_VBP very_RB abundant_JJ in_IN the_DT bazaar_NN ._.
+In_IN some_DT slight_JJ cases_NNS of_IN dysentery_NN and_CC mucous_JJ diarrh42_NN MATERIA_NNP MEDICA_NNP Synonyms.OF_NNP MADRAS_NNP ._.
+43_CD their_PRP$ names_NNS here_RB are_VBP the_DT small_JJ and_CC young_JJ excrescences_NNS picked_VBD out_RP from_IN the_DT galls_NNS of_IN T._NNP gallica_NN ._.
+The_DT sample_NN of_IN the_DT galls_NNS of_IN T._NNP articulata_NN in_IN my_PRP$ Collection_NN of_IN Drugs_NNP at_IN Calcutta_NNP (_( No_NNP ._.
+78_CD )_) is_VBZ genuine_JJ ,_, but_CC very_RB old_JJ ,_, it_PRP being_VBG bought_VBN in_IN Arabia_NNP about_IN 15_CD years_NNS ago_RB ._.
+No_DT ._.
+79_CD is_VBZ a_DT doubtful_JJ variety_NN of_IN the_DT same_JJ drug_NN from_IN Hyderabad_NNP ._.
+Price.44_NNP MATERIA_NNP MEDICA_NNP European_NNP Drugs_NNP for_IN which_WDT it_PRP may_MD be_VB substituted.OF_JJ MADRAS_NNP ._.
+45_CD This_DT is_VBZ one_CD of_IN the_DT reasons_NNS of_IN my_PRP$ treating_VBG the_DT Mysore_NNP gamboge_JJ separ-_JJ ately_RB under_IN the_DT head_NN of_IN G._NNP pictoria_NN as_IN a_DT variety_NN of_IN G._NNP Morella_NNP ._.
+*_NN Garcinia_NNP Indica_NNP ,_, Chois_NNP ._.
+(_( G._NNP purpurea_NN ,_, Roxb_NNP ._. )_)
+82_CD ._.
+Habitat.46_NNP MATERIA_NNP MEDICA_NNP the_DT former_JJ (_( phthisis_NN pulmonalis_NN )_) ,_, its_PRP$ action_NN is_VBZ something_NN like_IN that_DT of_IN cod_NN liver_NN oil_NN ,_, of_IN which_WDT it_PRP is_VBZ a_DT pretty_RB good_JJ and_CC very_RB cheap_JJ and_CC pleasant_JJ substitute_NN ;_: and_CC ,_, in_IN the_DT latter_NN (_( dysentery_NN )_) it_PRP is_VBZ of_IN great_JJ service_NN in_IN reliev-_JJ ing_NN tormina_NN and_CC tenesmus_NN when_WRB employed_VBN as_IN an_DT adjuvant_NN to_TO other_JJ medicines_NNS ._.
+The_DT fruit_NN is_VBZ used_VBN as_IN an_DT acid_JJ ingredient_NN in_IN curries_NNS ._.
+It_PRP is_VBZ freed_VBN from_IN seeds_NNS ,_, sliced_VBN and_CC dried_VBN in_IN the_DT sun_NN ._.
+As_IN a_DT medicine_NN ,_, antiscorbutic_JJ pro-_JJ perties_NNS are_VBP attributed_VBN to_TO it_PRP ._.
+OF_IN MADRAS_NNP ._.
+47_CD The_DT latter_NN is_VBZ roundish_JJ ,_, pale_JJ yellow_NN or_CC reddish_JJ yellow_NN ,_, and_CC bitterish_VB in_IN taste_NN ._.
+The_DT fixed_JJ oil_NN extracted_VBN from_IN the_DT seeds_NNS of_IN C._NNP inophyllum_NN is_VBZ pale_JJ and_CC greenish-yellow_JJ with_IN an_DT odour_NN of_IN Tonquin_NNP beans_NNS if_IN the_DT seeds_NNS are_VBP such_JJ as_IN those_DT generally_RB sold_VBN in_IN the_DT bazaar_NN ,_, a_DT greater_JJR portion_NN of_IN which_WDT are_VBP small_JJ and_CC young_JJ ;_: but_CC greenish_JJ brown_NN ,_, thicker_NN and_CC more_JJR viscid_NNS with_IN a_DT smell_NN like_IN that_DT of_IN an_DT old_JJ and_CC rancid_JJ ghee_NN ,_, if_IN they_PRP are_VBP large_JJ and_CC well_RB matured_VBN ._.
+The_DT oil_NN is_VBZ bitter_JJ in_IN both_DT cases_NNS ._.
+The_DT oil_NN of_IN C._NNP inophyllum_NN is_VBZ one_CD of_IN the_DT few_JJ drugs_NNS which_WDT had_VBD been_VBN omitted_VBN by_IN mistake_NN from_IN my_PRP$ Collection_NN of_IN Drugs_NNP ,_, when_WRB its_PRP$ first_JJ portion_NN was_VBD forwarded_VBN in_IN haste_NN to_TO the_DT Calcutta_NNP International_NNP Exhibition_NNP in_IN 1883_CD ._.
+It_PRP ,_, however_RB ,_, deserves_VBZ to_TO be_VB noticed_VBN here_RB in_IN a_DT special_JJ manner_NN from_IN its_PRP$ great_JJ usefulness_JJ when_WRB administered_VBN internally_RB ._.
+Although_IN there_EX is_VBZ nothing_NN in_IN the_DT sensible_JJ properties_NNS of_IN this_DT oil_NN to_TO indicate_VB a_DT poisonous_JJ character_NN ,_, yet_RB ,_, as_RB far_RB as_IN my_PRP$ knowledge_NN extends_VBZ ,_, it_PRP has_VBZ never_RB been_VBN administered_VBN internally_RB in_IN this_DT or_CC any_DT other_JJ country_NN ._.
+Having_VBG satisfied_VBN myself_PRP by_IN personal_JJ use_NN that_IN it_PRP is_VBZ neither_CC detrimental_NN to_TO life_NN nor_CC deleterious_JJ to_TO health_NN up_RB to_TO certain_JJ quantity_NN ,_, I_PRP employed_VBD it_PRP in_IN my_PRP$ practice_NN and_CC found_VBD it_PRP to_TO be_VB a_DT very_RB valuable_JJ drug_NN ._.
+It_PRP acts_VBZ as_IN a_DT specific_NN on_IN the_DT mucous_JJ membrane_NN of_IN the_DT genito-urinary_JJ organs_NNS ,_, and_CC its_PRP$ control_NN ,_, therefore_RB ,_, over_IN gonorrh48_JJ MATERIA_NNP MEDICA_NNP Preparation.OF_NNP MADRAS_NNP ,_, 49_CD DIPTEROCARPEÆ_NNP ._.
+*_JJ Dipterocarpus_NNP turbinatus_NN ,_, G50_NNP MATERIAL_NNP MEDICA_NNP gleet_NN ,_, and_CC in_IN all_DT forms_NNS of_IN psoriasis_NN ,_, including_VBG lepra-vulgaris_NN ._.
+In_IN gonorrhOF_JJ MADRAS_NNP ._.
+51_CD 52_CD MATE_NNP RIA_NNP MEDICA_NNP Parts_NNP Used.OF_NNP MADRAS_NNP ._.
+53_CD operations_NNS ,_, as_IN the_DT tying_NN of_IN an_DT artery_NN for_IN aneurism_NN ,_, &_CC c._VBP It_PRP should_MD always_RB be_VB kept_VBN ready_JJ in_IN hospitals_NNS in_IN the_DT form_NN of_IN wadding_VBG for_IN the_DT above_JJ purposes_NNS ._.
+The_DT cotton_NN is_VBZ also_RB a_DT very_RB useful_JJ ,_, cheap_JJ ,_, and_CC convenient_JJ article_NN for_IN preparing_VBG pads_NNS for_IN splints_NNS ,_, &_CC c._VBP The_DT cotton_NN seeds_NNS are_VBP round_VBN ,_, dark-brown_JJ and_CC about_IN the_DT size_NN of_IN black_JJ pepper_NN ._.
+If_IN examined_VBN soon_RB after_IN the_DT removal_NN of_IN the_DT cotton_NN ,_, they_PRP are_VBP clothed_VBN with_IN greyish_JJ down_RP ._.
+Their_PRP$ kernel_NN is_VBZ greenish_JJ ,_, albuminous_JJ and_CC slightly_RB sweet_JJ in_IN taste_NN ._.
+I_PRP have_VBP used_VBN the_DT following_JJ prescription_NN of_IN these_DT seeds_NNS in_IN several_JJ cases_NNS of_IN gonorrh54_NN MATE_NNP RIA_NNP MEDICA_NNP The_DT seeds_NNS of_IN the_DT red_JJ variety_NN of_IN H._NNP Sabdariffa_NNP are_VBP identical_JJ with_IN those_DT of_IN the_DT white_JJ or_CC greenish_JJ white_JJ variety_NN of_IN the_DT same_JJ plant_NN in_IN their_PRP$ physical_JJ and_CC medical_JJ properties_NNS ;_: but_CC I_PRP sent_VBD the_DT former_JJ only_RB (_( No_UH ._.
+102_CD )_) to_TO the_DT Calcutta_NNP International_NNP Exhibition_NNP ,_, because_IN my_PRP$ experience_NN was_VBD confined_VBN to_TO them_PRP when_WRB my_PRP$ Collection_NN of_IN Drugs_NNP was_VBD despatched_VBN in_IN 1883_CD ._.
+I_PRP have_VBP ,_, however_RB ,_, used_VBD the_DT seeds_NNS of_IN the_DT white_JJ variety_NN also_RB in_IN my_PRP$ practice_NN since_IN that_DT period_NN ,_, and_CC found_VBD them_PRP to_TO be_VB identical_JJ in_IN every_DT respect_NN as_IN just_RB mentioned_VBN ._.
+OF_IN MADRAS_NNP ._.
+55_CD Doses.56_NNP MATERIA_NNP MEDICA_NNP Physiological_NNP Actions.OF_NNP MADRAS_NNP ._.
+57_CD Local_JJ Sources.58_NNP MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+59_CD Local_JJ Sources.60_NNP MATERIA_NNP MEDICA_NNP ké-dandíyán_NN ,_, Hind_NNP ._.
+Gule-Khairó-ké-pattón-ké-dandíyan_JJ ,_, Duk_NNP ._.
+Of_IN the_DT seedsOF_NN MADRAS_NNP ._.
+61_CD the_DT tap-root_NN of_IN the_DT young_JJ plant62_NN MATERIA_NNP MEDICA_NNP Emetic-nut_NNP (_( Randia_NNP dumetorum_NN )_) ,_, in_IN powder_NN ,_, one_CD drachm_NN and_CC four_CD grains_NNS ._.
+Mix_NNP the_DT ingredients_NNS thoroughly_RB ,_, pass_VBP the_DT compound_NN powder_NN through_IN a_DT fine_JJ sieve_NN ,_, and_CC finally_RB rub_VB it_PRP lightly_RB in_IN a_DT mortar_NN ._.
+Of_IN the_DT seedsOF_NN MADRAS_NNP ._.
+63_CD the_DT Pharmacographia_NNP Indica_NNP has_VBZ the_DT following_VBG interesting_JJ note_NN :_: 64_CD MATERIA_NNP MEDICA_NNP in_IN their_PRP$ length_NN from_IN one_CD to_TO three_CD quarters_NNS of_IN an_DT inch_NN ,_, and_CC in_IN their_PRP$ thickness_NN from_IN one_CD to_TO two_CD lines_NNS ;_: and_CC are_VBP five-angled_JJ or_CC roundish_JJ ,_, and_CC conical_JJ or_CC tapering_NN ._.
+They_PRP are_VBP brown_JJ or_CC dark-brown_JJ when_WRB old_JJ ,_, and_CC grey_VB when_WRB new_JJ ;_: odorless_NN and_CC slightly_RB aromatic_JJ in_IN taste_NN ._.
+As_RB young_JJ as_IN they_PRP are_VBP they_PRP contain_VBP minute_JJ black_JJ seeds_NNS ,_, and_CC are_VBP distinctly_RB five-_JJ celled_NNS ._.
+The_DT stalks_NNS of_IN these_DT fruits_NNS are_VBP about_IN the_DT same_JJ length_NN as_IN the_DT latter_NN (_( one_CD to_TO three_CD quarters_NNS of_IN an_DT inch_NN )_) ,_, but_CC somewhat_RB less_JJR in_IN thick-_JJ ness_NN ,_, paler_NN in_IN color_NN ,_, rough_NN and_CC often_RB knotty_JJ or_CC bent_NN in_IN the_DT centre_NN ._.
+The_DT above_JJ fruits_NNS ,_, with_IN their_PRP$ stalks_NNS attached_VBN to_TO them_PRP ,_, particularly_RB when_WRB fresh_JJ ,_, bear_VB a_DT great_JJ resemblance_NN to_TO flower-buds_NN ;_: hence_VB the_DT word_NN moggu_NN or_CC bud_NN ._.
+The_DT meaning_NN of_IN the_DT word_NN maráti_NN is_VBZ not_RB correctly_RB known_VBN ._.
+The_DT dry_JJ young_JJ fruits_NNS of_IN Eriodendron_NNP anfractuosum_NN are_VBP sometimes_RB sold_VBN in_IN the_DT bazaar_NN under_IN the_DT same_JJ name_NN (_( maráti-moggu_JJ )_) and_CC used_VBN for_IN the_DT purpose_NN of_IN adulteration_NN and_CC substitution_NN of_IN those_DT of_IN B._NNP malabaricum_NN ._.
+Although_IN the_DT similarity_NN between_IN the_DT fruits_NNS of_IN both_DT plants_NNS is_VBZ very_RB great_JJ ,_, yet_RB the_DT difference_NN between_IN their_PRP$ stalks_NNS ,_, which_WDT are_VBP almost_RB always_RB attached_VBN to_TO them_PRP ,_, is_VBZ so_RB distinct_JJ that_IN they_PRP can_MD be_VB very_RB easily_RB distinguished_VBN from_IN each_DT other_JJ ._.
+The_DT fruit_NN stalk_NN of_IN the_DT former_JJ is_VBZ round_VBN ,_, about_IN the_DT thickness_NN of_IN a_DT pin_NN ,_, and_CC two_CD or_CC three_CD times_NNS longer_RBR than_IN the_DT fruit_NN ;_: and_CC therefore_RB contrasts_VBZ a_DT great_JJ deal_NN with_IN that_DT of_IN the_DT latter_NN ,_, which_WDT is_VBZ described_VBN ,_, in_IN the_DT preceding_NN paragraph_NN ._.
+The_DT fruits_NNS of_IN E._NNP anfractuosum_NNS are_VBP always_RB round_VBN without_IN any_DT ridge_NN near_IN the_DT hilum_NN ,_, and_CC somewhat_RB larger_JJR and_CC darker_NN in_IN color_NN than_IN those_DT of_IN B._NNP malabaricum_NN ._.
+The_DT cotton_NN of_IN B._NNP malabaricum_NNP is_VBZ of_IN a_DT reddish_JJ hue_NN when_WRB new_JJ ,_, hence_RB the_DT English_JJ designation_NN ``_`` the_DT red_JJ cotton_NN plant_NN ._. ''_''
+In_IN some_DT native_JJ and_CC other_JJ medical_JJ works_NNS two_CD useful_JJ and_CC common_JJ bazaar_NN drugs_NNS ,_, viz._NN ,_, the_DT Suféd_NNP or_CC white_JJ Múslí_NNPS and_CC the_DT Káli_NNP or_CC black_JJ Músli_NNP are_VBP erroneously_RB considered_VBN to_TO be_VB the_DT produce_NN of_IN B._NNP malabaricum_NN ._.
+Both_DT are_VBP supposed_VBN to_TO be_VB the_DT roots_NNS of_IN this_DT plant_NN ,_, the_DT only_JJ difference_NN being_VBG that_IN the_DT former_JJ is_VBZ produced_VBN before_IN ,_, and_CC the_DT latter_NN after_IN ,_, it_PRP begins_VBZ to_TO flower_VB ._.
+I_PRP have_VBP repeatedly_RB dried_VBN and_CC examined_VBN not_RB only_RB the_DT roots_NNS but_CC also_RB the_DT rootlets_NNS of_IN this_DT tree_NN ,_, both_DT before_IN and_CC after_IN it_PRP was_VBD in_IN flower_NN ,_, but_CC never_RB found_VBD them_PRP to_TO bear_VB the_DT smallest_JJS resemblance_NN to_TO any_DT of_IN the_DT varieties_NNS of_IN white_JJ or_CC black_JJ Músli_NNP ._.
+The_DT Suféd-músli_NNP of_IN Calcutta_NNP ,_, Bombay_NNP ,_, Hyderabad_NNP ,_, and_CC almost_RB all_DT other_JJ parts_NNS of_IN India_NNP ,_, is_VBZ the_DT root_NN of_IN Asparagus_NNP adscendens_NNS ,_, and_CC of_IN Madras_NNP and_CC a_DT few_JJ other_JJ places_NNS in_IN South_NNP India_NNP ,_, that_IN of_IN A_NNP ,_, sarmentosus_NN ._.
+Curculigo_NNP orchioides_VBZ is_VBZ the_DT source_NN of_IN the_DT Káli-músli_NNP of_IN the_DT Madras_NNP Presidency_NNP and_CC many_JJ other_JJ localities_NNS ,_, and_CC Aneilema_NNP tuberosa_VBP that_IN of_IN the_DT drug_NN known_VBN under_IN the_DT same_JJ name_NN in_IN some_DT other_JJ parts_NNS of_IN India_NNP ._.
+There_EX is_VBZ ,_, however_RB ,_, another_DT variety_NN of_IN Músli_NNP ,_, which_WDT ,_, as_RB far_RB as_IN my_PRP$ knowledge_NN extends_NNS ,_, is_VBZ not_RB sold_VBN in_IN any_DT bazaar_NN ,_, but_CC mentioned_VBD in_IN many_JJ Persian_NNP and_CC other_JJ medical_JJ works_NNS ._.
+This_DT is_VBZ the_DT tap-root_NN of_IN the_DT young_JJ plant_NN of_IN B._NNP malabaricum_NN ,_, and_CC correctly_RB spoken_VBN of_IN as_IN Múslá_NNP ,_, Múslá-simal_NNP ,_, or_CC Músli-sémbal_NNP in_IN Dr._NNP George_NNP Watt_NNP 's_POS Dictionary_NNP of_IN the_DT Economic_NNP Products_NNPS of_IN India_NNP ,_, Vol_NNP ._.
+I_PRP ,_, p._RB 491_CD ,_, in_IN contra-_JJ distinction_NN to_TO suféd_VB and_CC káli_VB múslies_NNS of_IN the_DT bazaar_NN ._.
+The_DT Sémal-múslí_NNP is_VBZ ,_, like_IN the_DT tap-root_NN of_IN many_JJ other_JJ young_JJ plants_NNS ,_, tapering_VBG ,_, and_CC varies_VBZ a_DT great_JJ deal_NN in_IN its_PRP$ size_NN according_VBG to_TO the_DT age_NN of_IN the_DT plant_NN from_IN which_WDT it_PRP is_VBZ taken_VBN ._.
+If_IN the_DT age_NN of_IN B._NNP malabaricum_FW is_VBZ two_CD years_NNS (_( which_WDT is_VBZ the_DT longest_JJS period_NN allowed_VBD for_IN selecting_VBG the_DT root_NN )_) ,_, the_DT tap-root_NN is_VBZ generally_RB about_IN the_DT size_NN of_IN a_DT long_JJ radish_NN ,_, and_CC if_IN only_RB below_IN six_CD months_NNS ,_, it_PRP is_VBZ from_IN 4_CD to_TO 7_CD inches_NNS long_RB and_CC about_IN the_DT thickness_NN of_IN a_DT finger_NN ._.
+Fifteen_JJ to_TO twenty-one_JJ months_NNS is_VBZ about_IN the_DT best_JJS period_NN for_IN OF_NNP MADRAS_NNP ._.
+65_CD selecting_VBG the_DT tap-root_JJ according_VBG to_TO my_PRP$ own_JJ experience_NN ._.
+When_WRB fresh_JJ ,_, it_PRP is_VBZ tuberous_JJ and_CC cuts_NNS easily_RB ;_: grey_NNS ,_, reddish-brown_JJ or_CC brown_JJ exter-_JJ nally_RB ,_, and_CC white_JJ internally_RB ;_: taste_NN mucilaginous_JJ ;_: smell_VB none_NN ._.
+When_WRB dry_NN ,_, the_DT root_NN is_VBZ much_RB shrivelled_VBN ,_, shrunken_JJ and_CC wrinkled_VBD longitudinally_RB ;_: the_DT epidermis_NN is_VBZ reddish-brown_JJ ,_, brown_JJ or_CC slightly_RB ash-colored_JJ ,_, and_CC generally_RB loose_JJ and_CC peels_NNS off_IN easily_RB ;_: beneath_IN the_DT epidermis_NN the_DT root_NN is_VBZ reddish_JJ brown_NN ,_, but_CC white_JJ or_CC pale-white_JJ internally_RB ;_: odorless_JJ and_CC taste-_JJ less_NN ._.
+The_DT dry_JJ root_NN is_VBZ not_RB easily_RB powdered_VBN ,_, but_CC the_DT dry_JJ slices_NNS of_IN the_DT fresh_JJ root_NN are_VBP reduced_VBN to_TO a_DT fine_JJ powder_NN without_IN difficulty_NN ._.
+There_EX is_VBZ no_DT drug_NN in_IN India_NNP which_WDT enjoys_VBZ a_DT greater_JJR reputation_NN as_IN an_DT aphrodisiac_NN and_CC tonic_NN in_IN native_JJ medical_JJ works_NNS than_IN the_DT tap-root_NN of_IN the_DT young_JJ plant_NN of_IN B._NNP malabaricum_NN ._.
+There_EX is_VBZ no_DT doubt_NN that_IN it_PRP is_VBZ one_CD of_IN the_DT useful_JJ drugs_NNS in_IN this_DT country_NN ,_, but_CC the_DT exaggeration_NN of_IN its_PRP$ good_JJ effects_NNS in_IN some_DT of_IN the_DT above_NN works_VBZ is_VBZ so_RB great_JJ that_IN it_PRP is_VBZ quite_RB ridiculous_JJ and_CC not_RB worth_JJ mentioning_VBG here_RB ._.
+I_PRP have_VBP recently_RB given_VBN a_DT trial_NN to_TO this_DT drug_NN in_IN my_PRP$ practice_NN ,_, and_CC found_VBD it_PRP to_TO be_VB a_DT good_JJ demulcent_NN tonic_NN and_CC slightly_RB aphrodisiac_JJ ,_, but_CC nothing_NN beyond_IN it_PRP ._.
+I_PRP may_MD also_RB state_NN that_WDT even_RB the_DT good_JJ influence_NN ,_, which_WDT it_PRP does_VBZ exert_VB occasionally_RB on_IN the_DT genital_JJ organs_NNS ,_, is_VBZ neither_DT certain_JJ nor_CC uniform_JJ ._.
+The_DT great_JJ practical_JJ objection_NN to_TO the_DT use_NN of_IN the_DT Sémal-músli_NNP is_VBZ that_IN it_PRP is_VBZ neither_CC sold_VBN in_IN the_DT bazaar_NN ,_, nor_CC procurable_JJ always_RB in_IN any_DT garden_NN or_CC field_NN ._.
+Besides_IN ,_, there_EX is_VBZ no_DT medical_JJ property_NN in_IN it_PRP ,_, which_WDT ,_, according_VBG to_TO my_PRP$ own_JJ experience_NN ,_, is_VBZ not_RB possessed_VBN with_IN in_IN equal_JJ degree_NN ,_, if_IN not_RB more_RBR ,_, by_IN the_DT dry_JJ young_JJ fruits_NNS and_CC bark_NN of_IN B._NNP malabaricum_NN ._.
+In_IN fact_NN ,_, the_DT Maráti-moggu_NNP is_VBZ not_RB only_RB the_DT cheapest_JJS and_CC most_RBS abundant_JJ ,_, but_CC also_RB the_DT best_JJS and_CC most_RBS useful_JJ of_IN all_PDT the_DT parts_NNS of_IN the_DT above_NN plant_NN which_WDT are_VBP used_VBN as_IN medicines_NNS ._.
+The_DT young_JJ fruits_NNS seem_VBP to_TO possess_VB some_DT soothing_NN or_CC special_JJ action_NN on_IN the_DT mucous_JJ membrane_NN of_IN the_DT genito-urinary_JJ tract_NN ,_, and_CC have_VBP therefore_VBN proved_JJ them-_JJ selves_NNS more_RBR useful_JJ than_IN Parcira_NNP Brava_NNP in_IN some_DT of_IN the_DT diseases_NNS in_IN which_WDT the_DT latter_NN is_VBZ indicated_VBN ._.
+The_DT bark_NN ,_, root-bark_NN and_CC roots_NNS of_IN B._NNP malabaricum_NNP contain_VBP a_DT resinous_JJ substance_NN ,_, but_CC the_DT bark_NN of_IN the_DT stem_NN is_VBZ much_JJ superior_NN in_IN this_DT respect_NN ,_, and_CC therefore_RB preferable_JJ for_IN the_DT preparation_NN of_IN extract_NN and_CC decoction_NN ._.
+The_DT bark_NN of_IN the_DT stem_NN or_CC trunk_NN varies_NNS much_RB in_IN appearance_NN accord-_JJ ing_NN to_TO the_DT age_NN and_CC size_NN of_IN the_DT plant_NN from_IN which_WDT it_PRP is_VBZ taken_VBN ._.
+That_DT from_IN the_DT trunk_NN of_IN a_DT well_NN grown_VBN up_RP tree_NN after_IN it_PRP begins_VBZ to_TO blossom_VB is_VBZ externally_RB brown_JJ ,_, rough_JJ ,_, scaly_JJ and_CC often_RB covered_VBN with_IN some_DT short_JJ and_CC blunt_JJ prickles_NNS ;_: and_CC internally_RB reddish-brown_JJ ._.
+It_PRP is_VBZ quite_RB odorless_JJ and_CC possesses_VBZ no_DT particular_JJ taste_NN ._.
+The_DT root_NN bark_NN is_VBZ covered_VBN with_IN a_DT thin_JJ and_CC ash-colored_JJ epidermis_NN ,_, and_CC is_VBZ deep_JJ or_CC reddish-grey_JJ internally_RB ._.
+It_PRP is_VBZ also_RB devoid_NN of_IN taste_NN and_CC smell_NN ._.
+The_DT extract_NN of_IN B._NNP malabaricum_NN prepared_VBN in_IN the_DT manner_NN described_VBD under_IN the_DT head_NN of_IN ``_`` Preparations_NNS ,_, ''_'' is_VBZ dark_JJ in_IN color_NN and_CC slightly_RB saltish_JJ in_IN taste_NN ,_, and_CC odorless_NN ._.
+The_DT resemblance_NN it_PRP bears_VBZ to_TO Mócharas_NNP is_VBZ so_RB great_JJ that_IN if_IN it_PRP is_VBZ made_VBN to_TO dry_VB in_IN any_DT of_IN the_DT forms_NNS of_IN the_DT latter_NN ,_, it_PRP will_MD certainly_RB pass_VB for_IN it_PRP ;_: but_CC it_PRP does_VBZ not_RB keep_VB dry_NN permanently_RB unless_IN preserved_VBN in_IN a_DT stoppered_JJ bottle_NN ._.
+It_PRP gets_VBZ soft_JJ and_CC moist_NN as_RB often_RB as_IN it_PRP is_VBZ dried_VBN either_RB by_IN exposure_NN to_TO the_DT sun_NN or_CC on_IN the_DT sand_NN or_CC water-bath_NN ._.
+Its_PRP$ deliquescence_NN and_CC saline_NN taste_NN depend_VBP upon_IN the_DT large_JJ quantity_NN of_IN salt_NN it_PRP contains_VBZ ._.
+1_CD 66_CD MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+67_CD Anai-puli_JJ ,_, Pappara-puli_NNP ,_, Púri-puli_NNP ,_, Símai-puli_NNP ,_, Tam_NNP ._.
+Síma-_JJ chinta-_JJ pandu_NN ,_, Tel_NNP ._.
+Góraka-ámlí_NNP ,_, Mah_NNP ._.
+Gorak-amlí_NNP ,_, Guz_NNP ._.
+Bíla-magi-si_NNP ,_, Bur_NNP ._.
+Hujéd_NNP ,_, Habhabú_NNP ,_, Arab_NNP ._.
+Of_IN the_DT bark68_NN MATERIA_NNP BIEDICA_NNP The_DT thick_NN and_CC very_RB hard_JJ pericarp_NN of_IN the_DT fruit_NN is_VBZ quite_RB inert_JJ and_CC does_VBZ not_RB possess_VB any_DT medicinal_JJ property_NN ,_, as_IN is_VBZ supposed_VBN by_IN some_DT native_JJ medical_JJ practitioners_NNS ._.
+OF_IN MADRAS_NNP ._.
+69_CD Synonyms.70_NNP MATERIA_NNP MEDICA_NNP ``_`` Examined_VBD under_IN the_DT microscope_NN by_IN polarized_JJ light_NN ,_, cacao_JJ butter_NN is_VBZ seen_VBN to_TO consist_VB of_IN minute_NN crystals_NNS ._.
+It_PRP is_VBZ dissolved_VBN by_IN 20_CD parts_NNS of_IN boiling_VBG absolute_JJ alcohol_NN ,_, but_CC on_IN cooling_VBG separates_NNS to_TO such_PDT an_DT extent_NN that_IN the_DT liquid_NN retains_VBZ not_RB more_JJR than_IN 1_CD per_IN cent_NN ._.
+in_IN solution_NN ._.
+The_DT fat_NN separated_VBD after_IN refrigeration_NN is_VBZ found_VBN to_TO have_VB lost_VBN most_JJS of_IN its_PRP$ chocolate_NN flavor_NN ._.
+``_`` Cocoa_NNP butter_NN in_IN small_JJ fragments_NNS is_VBZ slowly_RB dissolved_VBN by_IN double_JJ its_PRP$ weight_NN of_IN benzol_NN in_IN the_DT cold_NN (_( 10°_CD C._NNP )_) ,_, but_CC by_IN keeping_VBG partially_RB separates_NNS in_IN crystalline_NN warts_NNS ._. ''_''
+OF_IN MADRAS_NNP ._.
+71_CD Remarks.72_NNP MATERIA_NNP MEDICA_NNP Doses.OF_NNP MADRAS_NNP ._.
+73_CD pound_NN )_) and_CC only_RB procurable_JJ in_IN European_JJ druggists_NNS '_POS shops_NNS in_IN Madras_NNP ;_: while_IN ,_, on_IN the_DT other_JJ hand_NN ,_, the_DT linseeds_NNS are_VBP very_RB cheap_JJ (_( As_IN ._.
+2_CD per_IN pound_NN )_) and_CC found_VBN abundantly_RB in_IN every_DT bazaar_NN ._.
+The_DT dearness_NN ,_, together_RB with_IN the_DT necessity_NN of_IN adding_VBG olive_JJ oil_NN in_IN the_DT first_JJ method_NN ,_, makes_VBZ the_DT second_JJ very_RB preferable_JJ in_IN this_DT country_NN ._.
+Liniment_NN :_: Take_NN of_IN linseed_JJ oil_NN and_CC Liquor_NNP Calcis_NNP in_IN equal_JJ proportions_NNS ,_, put_VBD them_PRP together_RB in_IN a_DT bottle_NN and_CC shake_VB till_NN they_PRP are_VBP well_RB mixed_JJ and_CC become_JJ white_JJ ._.
+Dose.74_NNP MATERIA_NNP MEDICA_NNP Synonyms.OF_NNP MADRAS_NNP ._.
+75_CD Remarks.76_NNP MATERIA_NNP MEDICA_NNP ._.
+as_IN internal_JJ piles_NNS ._.
+I_PRP have_VBP used_VBN it_PRP in_IN several_JJ cases_NNS with_IN more_RBR or_CC less_JJR benefit_NN ,_, but_CC in_IN a_DT few_JJ the_DT result_NN was_VBD very_RB satisfactory_JJ ,_, the_DT bleeding_VBG dis-_JJ appearing_VBG rapidly_RB and_CC permanently_RB ._.
+There_EX is_VBZ no_DT doubt_NN that_IN the_DT fruit_NN will_MD also_RB produce_VB a_DT good_JJ effect_NN in_IN hæmatamesis_NN ,_, melæna_NN and_CC some_DT other_JJ forms_NNS of_IN hæmorrhage_NN ,_, but_CC as_IN it_PRP is_VBZ not_RB always_RB procurable_JJ ,_, I_PRP have_VBP not_RB yet_RB had_VBD an_DT opportunity_NN of_IN trying_VBG it_PRP in_IN those_DT diseases_NNS ._.
+The_DT fruit_NN is_VBZ also_RB useful_JJ in_IN relieving_VBG thirst_JJ and_CC febrile_JJ excitement_NN ._.
+Preparations.OF_NNP MADRAS_NNP ._.
+77_CD RUTACEÆ_NNP ._.
+*_JJ Ruta_NNP angustifolia_NN ,_, Pers_NNP ._.
+A_DT variety_NN of_IN R._NNP graveolens_NNS ,_, Linn_NNP ._.
+138_CD ._.
+Habitat.78_NNP MATERIA_NNP MEDICA_NNP about_IN its_PRP$ use_NN from_IN my_PRP$ own_JJ experience_NN and_CC knowledge_NN ._.
+I_PRP refer_VBP the_DT reader_NN to_TO the_DT explanation_NN of_IN its_PRP$ medical_JJ properties_NNS ,_, &_CC c._NN ,_, in_IN the_DT Phar-_NNP macopOF_NN MADRAS_NNP ._.
+79_CD diaphoretic_JJ ,_, decidedly_RB more_RBR efficacious_JJ than_IN Pulv_NNP ._.
+Jacobi_NNP Vera_NNP or_CC James_NNP '_POS powder_NN ,_, and_CC a_DT few_JJ other_JJ antipyretic_JJ medicines_NNS mentioned_VBN above_IN ._.
+It_PRP ,_, therefore_RB ,_, demands_VBZ an_DT especial_JJ notice_NN of_IN the_DT medical_JJ profession_NN ._.
+The_DT root_NN and_CC root-bark_NN are_VBP sold_VBN together_RB in_IN the_DT bazaars_NNS of_IN Madras_NNP ,_, but_CC the_DT former_JJ can_MD be_VB easily_RB removed_VBN ,_, it_PRP being_VBG generally_RB in_IN a_DT very_RB small_JJ proportion_NN ._.
+The_DT root-bark_JJ occurs_NNS in_IN hollow_JJ pieces_NNS ,_, varying_VBG in_IN length_NN from_IN 2_CD to_TO 5_CD inches_NNS ,_, and_CC in_IN thickness_NN from_IN ¾_NN to_TO 1½_CD lines_NNS ._.
+It_PRP is_VBZ more_RBR or_CC less_RBR flexuous_JJ ,_, often_RB partially_RB quilled_VBN ,_, and_CC covered_VBD with_IN a_DT yel-_JJ lowish_JJ corky_NN epidermis_NN ._.
+It_PRP possesses_VBZ no_DT particular_JJ odor_NN ,_, but_CC is_VBZ bitter_JJ in_IN taste_NN ._.
+In_IN the_DT fresh_JJ state_NN it_PRP is_VBZ aromatic_JJ and_CC pungent_NN and_CC has_VBZ an_DT odor_NN of_IN citron_NN ._.
+Of_IN all_PDT the_DT preparations_NNS of_IN this_DT drug_NN above_IN described_NN ,_, the_DT tincture_NN and_CC decoction_NN are_VBP the_DT most_RBS useful_JJ ,_, and_CC the_DT rest_NN (_( the_DT extract_NN and_CC powder_NN )_) are_VBP inferior_JJ and_CC unsatisfactory_JJ in_IN their_PRP$ action_NN ._.
+I_PRP make_VBP the_DT tincture_NN and_CC decoction_NN very_RB strong_JJ ,_, and_CC this_DT ,_, together_RB with_IN the_DT very_RB large_JJ doses_NNS in_IN which_WDT I_PRP use_VBP them_PRP in_IN my_PRP$ practice_NN ,_, is_VBZ apparently_RB the_DT chief_JJ cause_NN of_IN their_PRP$ great_JJ success_NN in_IN my_PRP$ hands_NNS ._.
+Six_NNP drachms_NN of_IN the_DT tincture_NN or_CC twelve_VB ounces_NNS of_IN the_DT decoction_NN of_IN T._NNP aculeataare_VBP equal_JJ to_TO one_CD bottle_NN of_IN Warburg_NNP 's_POS tincture_NN ;_: and_CC if_IN either_DT of_IN them_PRP is_VBZ used_VBN in_IN two_CD doses_NNS during_IN the_DT presence_NN of_IN simple_JJ continued_JJ fever_NN or_CC a_DT paroxysm_NN of_IN ague_NN ,_, it_PRP produces_VBZ the_DT same_JJ good_JJ effect_NN as_IN the_DT latter_JJ drug_NN (_( Warburg_NNP 's_POS tincture_NN )_) ,_, namely_RB ,_, a_DT copious_JJ perspiration_NN and_CC relief_NN of_IN the_DT febrile_JJ condition_NN ;_: and_CC ,_, again_RB ,_, if_IN the_DT tincture_NN or_CC decoction_NN is_VBZ repeated_VBN in_IN the_DT same_JJ dose_NN during_IN the_DT interval_NN of_IN ague_NN ,_, every_DT fourth_JJ or_CC fifth_JJ hour_NN ,_, for_IN two_CD or_CC three_CD days_NNS ,_, it_PRP prevents_VBZ the_DT return_NN of_IN paroxysm_NN as_RB successfully_RB as_IN very_RB large_JJ doses_NNS of_IN quinine_NN ._.
+To_TO render_VB the_DT cure_NN more_RBR perfect_JJ and_CC complete_JJ ,_, the_DT tincture_NN or_CC decoction_NN should_MD be_VB continued_VBN in_IN smaller_JJR doses_NNS for_IN four_CD or_CC five_CD days_NNS more_RBR ._.
+The_DT beneficial_JJ influence_NN of_IN the_DT tincture_NN or_CC decoction_NN of_IN T._NNP aculeata_NN in_IN remittent_NN fever_NN is_VBZ precisely_RB the_DT same_JJ ,_, and_CC the_DT only_JJ difference_NN is_VBZ that_IN it_PRP sometimes_VBZ relieves_VBZ the_DT exacer-_JJ bation_NN and_CC checks_VBZ its_PRP$ return_NN at_IN once_RB ;_: and_CC at_IN others_NNS ,_, it_PRP first_RB converts_VBZ the_DT remittent_NN into_IN intermittent_JJ fever_NN and_CC then_RB cures_VBZ the_DT latter_NN in_IN the_DT same_JJ way_NN as_IN explained_VBN above_IN ._.
+Out_IN of_IN the_DT many_JJ severe_JJ and_CC very_RB obsti-_JJ nate_NN cases_NNS of_IN malarious_JJ ,_, jungle_NN and_CC other_JJ fevers_NNS ,_, which_WDT yielded_VBD to_TO this_DT drug_NN ,_, there_EX were_VBD several_JJ in_IN which_WDT quinine_NN with_IN arsenic_NN was_VBD first_JJ tried_JJ and_CC failed_VBD ._.
+As_IN the_DT dose_NN of_IN the_DT tincture_NN of_IN T._NNP aculeata_NN is_VBZ much_RB smaller_JJR than_IN that_DT of_IN its_PRP$ decoction_NN ,_, and_CC as_IN it_PRP can_MD also_RB be_VB prepared_VBN and_CC kept_VBN always_RB ready_JJ for_IN use_NN ,_, it_PRP is_VBZ preferable_JJ to_TO the_DT latter_NN ;_: but_CC there_EX is_VBZ no_DT difference_NN whatever_WDT between_IN the_DT medical_JJ properties_NNS of_IN both_DT preparations_NNS ._.
+The_DT root-bark_NN of_IN T._NNP aculeata_NN is_VBZ not_RB only_RB much_RB cheaper_JJR than_IN quinine_NN and_CC Warburg_NNP 's_POS tincture_NN ,_, but_CC is_VBZ also_RB one_CD of_IN the_DT cheapest_JJS drugs_NNS in_IN Southern_NNP India_NNP ,_, its_PRP$ price_NN being_VBG only_JJ about_IN 2_CD annas_NNS per_IN pound_NN ._.
+In_IN addition_NN to_TO this_DT ,_, its_PRP$ advantages_NNS over_IN quinine_NN are_VBP that_IN it_PRP ,_, unlike_IN the_DT latter_NN ,_, can_MD be_VB freely_RB and_CC successfully_RB administered_VBN in_IN the_DT absence_NN as_RB well_RB as_IN in_IN the_DT presence_NN of_IN fever_NN ;_: and_CC that_IN however_RB long_RB and_CC frequently_RB it_PRP may_MD be_VB employed_VBN ,_, it_PRP never_RB produces_VBZ ringing_VBG in_IN the_DT ear_NN ,_, deafness_NN and_CC some_DT other_JJ disagreeable_JJ symptoms_NNS which_WDT are_VBP so_RB commonly_RB observed_VBN in_IN the_DT use_NN of_IN quinine_NN ._.
+The_DT analogy_NN between_IN the_DT medical_JJ properties_NNS of_IN the_DT root-bark_NN of_IN T._NNP aculeata_NN and_CC those_DT of_IN the_DT root_NN of_IN Berberis_NNP Asiatica_NNP and_CC some_DT other_JJ species_NNS of_IN Berberis_NNP is_VBZ very_RB great_JJ ._.
+The_DT former_JJ ,_, however_RB ,_, has_VBZ one_CD advan-_JJ tage_NN over_IN the_DT latter_NN ,_, which_WDT is_VBZ its_PRP$ procurability_NN in_IN every_DT large_JJ bazaar_NN of_IN 80_CD MATERIA_NNP MIEDICA_NNP Southern_NNP India_NNP ;_: whereas_NNS ,_, the_DT Indian_JJ Barberry-root_NNP requires_VBZ to_TO be_VB sent_VBN for_IN from_IN some_DT hills_NNS and_CC distant_JJ places_NNS ,_, as_IN the_DT Nílgiris_NNP ,_, Shevaroy_NNP Hills_NNP ,_, Calcutta_NNP ,_, Delhi_NNP ,_, &_CC c._NN OF_NNP MADRAS_NNP ._.
+81_CD Physiological_JJ Actions_NNS ,_, Therapeutic_JJ Uses_NNS ,_, Preparations_NNS and_CC Doses.82_NNP MATERIA_NNP MEDICA_NNP Local_NNP Sources.OF_NNP MADRAS_NNP ._.
+83_CD Physiological_JJ Actions.84_NNP MATERIA_NNP MEDICA_NNP Part_NNP Used.OF_NNP MADRAS_NNP ._.
+85_CD that_IN of_IN the_DT half-ripe_NN for_IN the_DT powder_NN ._.
+The_DT powder_NN ,_, again_RB ,_, is_VBZ more_RBR useful_JJ in_IN acute_NN diseases_NNS ,_, and_CC the_DT syrup_NN in_IN the_DT chronic_NN ._.
+In_IN acute_JJ dysentery_NN the_DT powder_NN is_VBZ required_VBN to_TO be_VB employed_VBN in_IN much_JJ larger_JJR doses_NNS than_IN in_IN any_DT other_JJ disease_NN ._.
+The_DT first_JJ good_JJ effect_NN of_IN the_DT powder_NN in_IN acute_JJ dysentery_NN is_VBZ generally_RB the_DT disappearance_NN of_IN blood_NN and_CC a_DT proportionate_JJ increase_NN of_IN the_DT fæculent_JJ matter_NN in_IN evacuations_NNS ._.
+In_IN fact_NN ,_, the_DT powder_NN seems_VBZ to_TO have_VB more_JJR power_NN in_IN altering_VBG the_DT nature_NN of_IN the_DT dysenteric_JJ motions_NNS than_IN in_IN reducing_VBG their_PRP$ number_NN ._.
+To_TO cheek_VB the_DT frequency_NN of_IN evacuations_NNS ,_, the_DT powder_NN generally_RB requires_VBZ the_DT combination_NN of_IN opiates_NNS or_CC some_DT other_JJ astringent_JJ medicines_NNS ._.
+The_DT powder_NN and_CC syrup_NN ,_, particu-_JJ larly_RB the_DT former_JJ ,_, are_VBP also_RB very_RB useful_JJ in_IN relieving_VBG the_DT febrile_JJ condition_NN in_IN some_DT forms_NNS of_IN continued_JJ fever_NN ,_, including_VBG the_DT hectic_JJ and_CC typhoid_NN ._.
+The_DT abnormal_JJ temperature_NN is_VBZ reduced_VBN under_IN its_PRP$ use_NN in_IN a_DT remarkable_JJ manner_NN and_CC deserves_VBZ particular_JJ attention_NN ._.
+Preparations.86_NNP MATERIA_NNP MEDICA_NNP ._.
+From_IN its_PRP$ greater_JJR abundance_NN and_CC cheapness_NN ,_, the_DT Wood-apple_NNP (_( Feronia_NNP Elephantum_NNP )_) is_VBZ occasionally_RB substituted_VBN for_IN the_DT Bael-fruit_NNP in_IN the_DT bazaar_NN when_WRB the_DT latter_NN is_VBZ sold_VBN in_IN large_JJ quantities_NNS ;_: but_CC there_EX will_MD be_VB no_DT difficulty_NN in_IN distinguishing_VBG them_PRP from_IN each_DT other_JJ if_IN the_DT following_JJ dis-_JJ tinctions_NNS be_VB attended_VBN to_TO :_: OF_NN MADRAS_NNP ._.
+87_CD Beng_NNP ._.
+Thóra-bélácha-phalá_NNP ,_, Mah_NNP ._.
+Mótu-bíli-nu-phal_NNP ,_, Guz_NNP ._.
+Mahá-_NNP bélli_NN ,_, Lokka-bélli_NNP ,_, Cing_NNP ._.
+Kígí-oushi-si_NNP ,_, Bur_NNP ._.
+Shule-kalán_JJ ,_, Balá-_JJ ghúne-klán_NN ,_, Pers_NNPS ._.
+Safarjale-hindíé-kabír_NNP ,_, Arab_NNP ._.
+Of_IN the_DT pulp_NN (_( Nos_NNP ._.
+154_CD and_CC 155_CD )_) ._.
+The_DT pulp_NN of_IN the_DT large_JJ or_CC cultivated_JJ variety_NN of_IN Bael-fruit_NNP or_CC Bengal_NNP quince_NN ,_, Eng_NNP ._.
+Bare-qisam-ké-bél-phal-ká-maghz_NNP ,_, Hind_NNP ._.
+and_CC Duk_NNP ._.
+Periya-vilva-pazham-sadai_NNP ,_, or_CC Peru-vilva-param-sadai_NNP ,_, Tam_NNP ._.
+Pedda-bilva-pandu-kanda_NNP ,_, Pedda-bilva-pandu-guja_NNP ,_, Tel_NNP ._.
+Maghze-_JJ shule-kalán_JJ ,_, Maghze-balághúne-kalán_NNP ,_, Pers_NNP ._.
+Maghze-safarjale-hindíé-_NNP kabír_NN ,_, Arab_NNP ._.
+Local_JJ Sources.88_NNP MATERIA_NNP MEDICA_NNP European_NNP Drugs_NNP for_IN which_WDT they_PRP may_MD be_VB substituted.-For_JJ belladonna_NN ,_, ether_RB ,_, morphia_NN ,_, salicylic_JJ acid_NN and_CC its_PRP$ salts_NNS ,_, lactuca_NN ,_, conium_NN ,_, squills_NNS ,_, lobelia_NNS and_CC yellow_JJ jassamine_NN (_( gelsemin_NN )_) ._.
+Remarks.OF_NNP MADRAS_NNP ._.
+89_CD two_CD pints_NNS ;_: boil_NN on_IN a_DT slow_JJ fire_NN till_IN the_DT liquid_NN is_VBZ reduced_VBN to_TO one_CD pint_NN ,_, and_CC strain_NN when_WRB cool_NN ._.
+Doses.90_NNP MATERIA_NNP MEDICA_NNP thick_NN ._.
+The_DT bark_NN is_VBZ of_IN a_DT grey_NN or_CC deep-grey_JJ color_NN internally_RB ,_, slightly_RB demulcent_JJ and_CC bitterish_JJ in_IN taste_NN ,_, and_CC is_VBZ covered_VBN externally_RB with_IN a_DT thin_JJ epidermis_NN ,_, which_WDT is_VBZ greenish-brown_JJ and_CC not_RB scaly_VB ,_, but_CC rough_IN from_IN numerous_JJ and_CC small_JJ granular_JJ elevations_NNS ._.
+The_DT bark_NN is_VBZ studded_VBN with_IN ``_`` garnet-looking_JJ grains_NNS ''_'' of_IN a_DT reddish-yellow_JJ color_NN and_CC ``_`` apparently_RB of_IN a_DT resinous_JJ nature_NN ._. ''_''
+The_DT grains_NNS can_MD be_VB easily_RB separated_VBN from_IN other_JJ parts_NNS of_IN the_DT bark_NN by_IN reducing_VBG the_DT latter_NN to_TO a_DT coarse_JJ powder_NN and_CC passing_NN it_PRP through_IN muslin_NN ._.
+Most_JJS of_IN the_DT grains_NNS remain_VBP on_IN the_DT cloth_NN and_CC are_VBP very_RB easily_RB separated_VBN by_IN winnowing_VBG or_CC by_IN the_DT fingers_NNS ._.
+The_DT weight_NN of_IN the_DT grains_NNS is_VBZ more_JJR than_IN all_DT other_JJ parts_NNS of_IN the_DT bark_NN if_IN it_PRP is_VBZ from_IN a_DT young_JJ plant_NN ,_, but_CC somewhat_RB less_JJR if_IN it_PRP is_VBZ the_DT produce_NN of_IN an_DT old_JJ tree_NN ._.
+With_IN the_DT exception_NN of_IN the_DT color_NN ,_, they_PRP bear_VBP the_DT greatest_JJS resemblance_NN to_TO the_DT rolong_NN of_IN wheat_NN in_IN their_PRP$ outline_NN and_CC appearance_NN ,_, but_CC are_VBP generally_RB twice_RB the_DT size_NN ,_, particularly_RB if_IN they_PRP are_VBP from_IN the_DT bark_NN of_IN a_DT young_JJ plant_NN ._.
+When_WRB the_DT bark_NN is_VBZ fresh_JJ ,_, the_DT grains_NNS are_VBP much_JJ paler_NN or_CC almost_RB white_JJ in_IN their_PRP$ color_NN ,_, and_CC also_RB much_JJ larger_JJR and_CC more_RBR or_CC less_JJR round_NN ._.
+The_DT bark_NN from_IN Quilon_NNP is_VBZ in_IN small_JJ and_CC irregular_JJ pieces_NNS ,_, varying_VBG in_IN length_NN and_CC breadth_NN from_IN 3_CD to_TO 5_CD and_CC 2_CD to_TO 3_CD inches_NNS ,_, respectively_RB ,_, and_CC in_IN thickness_NN from_IN 2_CD to_TO 5_CD lines_NNS ._.
+In_IN all_DT other_JJ characters_NNS it_PRP is_VBZ quite_RB identical_JJ with_IN the_DT bark_NN from_IN the_DT Annamullay_NNP forests_NNS ._.
+Judging_VBG from_IN the_DT thickness_NN of_IN the_DT bark_NN from_IN the_DT latter_JJ place_NN ,_, which_WDT is_VBZ fully_RB one_CD inch_NN thick_NN ,_, it_PRP must_MD have_VB been_VBN from_IN a_DT very_RB large_JJ and_CC old_JJ tree_NN ,_, and_CC that_IN from_IN the_DT former_JJ locality_NN (_( Quilon_NNP )_) ,_, which_WDT is_VBZ only_RB five_CD lines_NNS in_IN thickness_NN ,_, from_IN a_DT comparatively_RB very_JJ young_JJ and_CC small_JJ plant_NN ._.
+I_PRP have_VBP not_RB ,_, however_RB ,_, found_VBD any_DT distinct_JJ difference_NN between_IN the_DT medical_JJ properties_NNS of_IN the_DT barks_NNS ._.
+With_IN regard_NN to_TO the_DT therapeutic_JJ uses_NNS of_IN the_DT resin_NN of_IN A._NNP Malabarica_NNP ,_, its_PRP$ first_JJ variety_NN ,_, if_IN fresh_JJ ,_, has_VBZ a_DT very_RB remarkable_JJ control_NN over_IN dysentery_NN and_CC diarrhOF_NN MADRAS_NNP ._.
+91_CD did_VBD not_RB even_RB in_IN a_DT single_JJ instance_NN observe_VBP any_DT distinctly_RB good_JJ effect_NN ._.
+It_PRP is_VBZ ,_, however_RB ,_, a_DT good_JJ bitter_NN tonic_NN ,_, contains_VBZ no_DT tannin_NN ,_, and_CC is_VBZ therefore_RB a_DT very_RB good_JJ substitute_NN for_IN calumba_NN and_CC quassia_NN ._.
+Several_JJ other_JJ thick_JJ barks_NNS are_VBP erroneously_RB sold_VBN in_IN the_DT bazaar_NN under_IN the_DT same_JJ native_JJ names_NNS ,_, but_CC none_NN should_MD be_VB considered_VBN genuine_JJ unless_IN it_PRP is_VBZ found_VBN to_TO contain_VB the_DT resinous_JJ grains_NNS I_PRP have_VBP described_VBN ._.
+Moreover_RB ,_, the_DT true_JJ bark_NN of_IN A._NN malabarica_NN does_VBZ not_RB respond_VB to_TO the_DT iron-test_NN for_IN tannic_JJ acid_NN ._.
+92_CD MATERIA_NNP MEDICA_NNP already_RB mentioned_VBD ,_, I_PRP have_VBP repeatedly_RB examined_VBN their_PRP$ bark_NN and_CC root-_JJ bark_NN and_CC found_VBD them_PRP to_TO be_VB as_IN follows_VBZ :_: OF_NN MADRAS_NNP ._.
+93_CD jundán-pazham_NN ,_, Tam_NNP ._.
+Gára-pandu_NNP ,_, Tel_NNP ._.
+Nanchunta-param_NNP ,_, Malyal_NNP ._.
+Hingon-phal_NNP ,_, Beng_NNP ._.
+Ingudi-phalam_NNP ,_, Sans_NNPS ._.
+Hingana-cha-phal_NNP ,_, Mah_NNP ._.
+Hingernu-phalá_NNP ,_, Guz_NNP ._.
+Local_JJ Sources.94_NNP MATERIA_NNP MEDICA_NNP Dose.OF_NNP MADRAS_NNP ._.
+95_CD Synonyms.96_NNP MATERIA_NNP MEDICA_NNP Local_NNP Sources.OF_NNP MADRAS_NNP ._.
+97_CD Price.98_NNP MATERIA_NNP MEDICA_NNP When_WRB the_DT tears_NNS or_CC masses_NNS of_IN Olibanum_NNP are_VBP placed_VBN in_IN water_NN ,_, they_PRP become_VBP white_JJ like_IN chalk_NN or_CC lime_NN in_IN a_DT few_JJ minutes_NNS ,_, and_CC this_DT is_VBZ an_DT import-_JJ ant_JJ character_NN ,_, by_IN which_WDT alone_RB they_PRP can_MD be_VB readily_RB distinguished_VBN from_IN all_DT other_JJ gum-resins_NNS and_CC gums_NNS to_TO which_WDT they_PRP bear_VBP a_DT great_JJ resemblance_NN ._.
+The_DT only_JJ drug_NN which_WDT also_RB possesses_VBZ this_DT character_NN ,_, as_RB far_RB as_IN my_PRP$ own_JJ knowledge_NN and_CC experiments_NNS extend_VBP ,_, is_VBZ Ammoniacum_NNP ;_: but_CC the_DT difference_NN between_IN all_DT other_JJ physical_JJ properties_NNS of_IN the_DT latter_JJ and_CC those_DT of_IN Olibanum_NNP is_VBZ so_RB great_JJ that_IN they_PRP will_MD not_RB be_VB easily_RB confounded_VBN with_IN each_DT other_JJ ._.
+The_DT small_JJ variety_NN of_IN Olibanum_NNP or_CC Kundur_NNP consists_VBZ of_IN very_RB small_JJ grain-like_JJ tears_NNS of_IN various_JJ shapesOF_JJ MADRAS_NNP ._.
+99_CD Kundur_NNP is_VBZ one_CD of_IN the_DT few_JJ drugs_NNS which_WDT are_VBP recommended_VBN for_IN more_JJR than_IN 30_CD or_CC 35_CD complaints_NNS in_IN some_DT native_JJ medical_JJ works_NNS ,_, particularly_RB those_DT in_IN the_DT Persian_JJ language_NN ._.
+I_PRP have_VBP been_VBN employing_VBG it_PRP occasionally_RB for_IN some_DT time_NN and_CC still_RB continue_VB its_PRP$ use_NN in_IN my_PRP$ practice_NN ,_, but_CC find_VBP it_PRP dis-_JJ tinctly_RB useful_JJ only_RB in_IN 7_CD or_CC 8_CD diseases_NNS which_WDT I_PRP have_VBP mentioned_VBN under_IN the_DT heading_NN of_IN ``_`` Therapeutic_JJ Uses_NNS ''_'' in_IN the_DT present_JJ article_NN ._.
+MELIACEÆ_NNP ._.
+100_CD MATERIA_NNP MEDICA_NNP of_IN the_DT berries_NNS in_IN which_WDT the_DT seeds_NNS are_VBP contained_VBN is_VBZ oval_JJ ,_, hard_JJ ,_, rough_JJ and_CC five-celled_JJ with_IN one_CD seed_NN in_IN each_DT cell_NN ._.
+The_DT root-bark_NN is_VBZ so_RB thin_JJ and_CC light_JJ that_IN I_PRP had_VBD to_TO destroy_VB three_CD plants_NNS and_CC dig_VB out_RP the_DT whole_NN of_IN their_PRP$ roots_NNS to_TO get_VB eight_CD ounces_NNS of_IN it_PRP ._.
+A_DT decoc-_JJ tion_NN was_VBD prepared_JJ and_CC used_VBN in_IN five_CD children_NNS according_VBG to_TO the_DT directions_NNS in_IN the_DT Pharm_NNP ._.
+of_IN India_NNP ,_, p._VBD 55_CD ._.
+Out_IN of_IN these_DT children_NNS only_RB one_CD passed_VBD a_DT round_NN worm_NN ,_, and_CC the_DT rest_NN remained_VBD unaffected_JJ ._.
+A_DT few_JJ days_NNS after-_JJ wards_NNS ,_, however_RB ,_, the_DT same_JJ children_NNS passed_VBN out_RP from_IN nine_CD to_TO twenty-three_JJ Ascaris_NNP lumbricoides_NNS under_IN the_DT use_NN of_IN Santonin_NNP ._.
+Under_IN these_DT circum-_JJ stances_NNS ,_, if_IN the_DT root-bark_NN of_IN M._NNP Azedarach_NNP is_VBZ vermifuge_VBN at_IN all_DT ,_, it_PRP is_VBZ a_DT very_RB weak_JJ one_CD ._.
+Although_IN the_DT berries_NNS of_IN this_DT plant_NN are_VBP pretty_JJ abundant_JJ in_IN their_PRP$ proper_NN season_NN ,_, yet_RB each_DT of_IN them_PRP contains_VBZ only_RB five_CD small_JJ seeds_NNS ,_, as_IN mentioned_VBN above_IN ,_, and_CC it_PRP is_VBZ ,_, therefore_RB ,_, rather_RB difficult_JJ to_TO collect_VB the_DT latter_NN in_IN a_DT large_JJ quantity_NN for_IN use_NN ._.
+*_NN Melia_NNP Azadirachta_NNP ,_, Linn_NNP ._.
+(_( Azadirachta_NNP indica_NN ,_, Juss_NNP ._.
+Melia_NNP indica_NN ,_, Brandin_NNP ._. )_)
+175_CD ,_, 176_CD ,_, 177_CD ,_, 178_CD ,_, 179_CD and_CC 180_CD ._.
+Habitat.OF_NNP MADRAS_NNP ._.
+101_CD Tukhme-níb_JJ ,_, Pers_NNPS ._.
+Of_IN the_DT oil102_NN MATERIA_NNP MEDICA_NNP or_CC some_DT other_JJ liquid_NN before_IN they_PRP can_MD be_VB applied_VBN to_TO the_DT skin_NN or_CC ulcers_NNS ,_, and_CC their_PRP$ use_NN is_VBZ ,_, therefore_RB ,_, attended_VBD with_IN so_RB much_JJ inconvenience_NN that_IN they_PRP can_MD not_RB be_VB resorted_VBN to_TO at_IN all_DT ,_, except_IN in_IN those_DT places_NNS where_WRB the_DT oil_NN is_VBZ not_RB procurable_JJ ._.
+A_DT strong_JJ decoction_NN of_IN the_DT fresh_JJ leaves_NNS is_VBZ a_DT slight_JJ anti-_JJ septic_NN ,_, and_CC is_VBZ useful_JJ like_IN a_DT weak_JJ carbolic_JJ lotion_NN in_IN washing_VBG wounds_NNS and_CC ulcers_NNS ,_, and_CC syringing_VBG out_RP the_DT vagina_NN in_IN the_DT after-treatment_NN of_IN partu-_JJ rition_NN ,_, &_CC c._NN When_WRB the_DT pustules_NNS of_IN small_JJ or_CC cow-pox_JJ burst_NN and_CC begin_VB to_TO ulcerate_VB ,_, the_DT Hindu_NNP medical_JJ practitioners_NNS invariably_RB recommend_VBP the_DT application_NN of_IN the_DT paste_NN of_IN the_DT fresh_JJ margosa_NN leaves_VBZ two_CD or_CC three_CD times_NNS in_IN the_DT twenty-four_JJ hours_NNS ,_, and_CC speak_JJ highly_RB of_IN its_PRP$ healing_VBG power_NN ._.
+As_IN the_DT paste_NN is_VBZ a_DT slight_JJ stimulant_NN and_CC antiseptic_JJ ,_, I_PRP thought_VBD the_DT supposition_NN of_IN the_DT Vythians_NNPS is_VBZ not_RB without_IN foundation_NN ,_, and_CC therefore_RB watched_VBD some_DT of_IN the_DT cases_NNS under_IN its_PRP$ use_NN and_CC found_VBD the_DT result_NN to_TO be_VB good_JJ in_IN all_PDT the_DT slight_NN and_CC ordinary_JJ cases_NNS ._.
+In_IN some_DT severe_JJ forms_NNS of_IN ulceration_NN from_IN small-pox_NN ,_, however_RB ,_, it_PRP proved_VBD quite_RB useless_JJ ,_, as_IN naturally_RB expected_VBN ._.
+On_IN the_DT whole_NN ,_, the_DT use_NN of_IN the_DT paste_NN is_VBZ quite_RB justifiable_JJ in_IN many_JJ slight_JJ and_CC ordinary_JJ cases_NNS of_IN ulceration_NN from_IN the_DT pustules_NNS of_IN small_JJ or_CC cow-pox_JJ ._.
+The_DT aroma_NN of_IN the_DT fresh_JJ or_CC recently_RB dried_VBN leaves_VBZ is_VBZ sufficient_JJ to_TO prevent_VB the_DT attack_NN of_IN insects_NNS ,_, and_CC they_PRP are_VBP therefore_RB often_RB placed_VBN in_IN books_NNS and_CC clothes_NNS by_IN the_DT natives_NNS of_IN this_DT country_NN ;_: but_CC they_PRP are_VBP much_JJ inferior_JJ to_TO camphor_VB in_IN this_DT respect_NN ._.
+The_DT flowers_NNS are_VBP useful_JJ in_IN some_DT cases_NNS of_IN atonic_JJ dyspepsia_NN and_CC general_JJ debility_NN ._.
+The_DT gum_NN being_VBG bestowed_VBN with_IN a_DT slight_JJ tonic_JJ action_NN in_IN addition_NN to_TO its_PRP$ demulcent_JJ property_NN ,_, it_PRP is_VBZ a_DT better_JJR auxiliary_JJ to_TO other_JJ remedies_NNS than_IN Gum_NNP Arabic_NNP and_CC Feronia_NNP gum_NN in_IN catarrhal_NN and_CC other_JJ affections_NNS ,_, particularly_RB when_WRB the_DT latter_NN are_VBP accompanied_VBN by_IN great_JJ debility_NN ._.
+The_DT toddy_NN of_IN the_DT margosa_NN tree_NN appears_VBZ to_TO be_VB of_IN great_JJ service_NN in_IN some_DT chronic_JJ and_CC long-standing_JJ cases_NNS of_IN leprosy_NN and_CC other_JJ skin_JJ dis-_JJ eases_NNS ,_, consumption_NN ,_, atonic_JJ dyspepsia_NN and_CC general_JJ debility_NN ,_, and_CC although_IN I_PRP have_VBP not_RB prescribed_VBN it_PRP myself_PRP ,_, I_PRP am_VBP acquainted_VBN with_IN several_JJ persons_NNS who_WP praise_VBP the_DT drug_NN very_RB highly_RB from_IN personal_JJ use_NN and_CC observation_NN ._.
+It_PRP is_VBZ ,_, however_RB ,_, extremely_RB scarce_JJ ,_, and_CC this_DT is_VBZ a_DT great_JJ drawback_NN to_TO its_PRP$ use_NN and_CC adoption_NN into_IN general_JJ practice_NN ._.
+Preparations.OF_NNP MADRAS_NNP ._.
+103_CD and_CC rub_VB the_DT fresh_JJ leaves_NNS with_IN hot_JJ or_CC cold_JJ ._.
+water_NN in_IN a_DT stone_NN mortar_NN till_IN they_PRP are_VBP reduced_VBN to_TO a_DT soft_JJ and_CC pulpy_JJ mass_NN ._.
+Solution_NN :_: Bruise_NN and_CC rub_VB the_DT kernel_NN of_IN the_DT nuts_NNS with_IN cocoanut_JJ oil_NN ,_, water_NN or_CC some_DT other_JJ liquid_NN ,_, in_IN a_DT mortar_NN till_NN it_PRP becomes_VBZ well_RB mixed_JJ and_CC thin_JJ ._.
+The_DT oil_NN is_VBZ either_RB applied_VBN by_IN itself_PRP or_CC in_IN combination_NN with_IN other_JJ drugs_NNS ,_, as_IN chaulmugra_JJ oil_NN ,_, &_CC c._NN Of_IN the_DT flowers104_NN MATERIA_NNP MEDICA_NNP in_IN taste_NN ,_, with_IN a_DT peculiar_NN and_CC somewhat_RB disagreeable_JJ smell_NN ._.
+The_DT nuts_NNS are_VBP oval_JJ and_CC pale_JJ or_CC greyish-brown_JJ with_IN a_DT thin_JJ and_CC brittle_JJ shell_NN ,_, and_CC an_DT oily_RB and_CC very_RB bitter_JJ kernel_NN ._.
+The_DT dry_JJ flowers_NNS are_VBP very_RB small_JJ ,_, pale_JJ or_CC yellowish_JJ white_JJ ,_, and_CC possess_VB a_DT slight_JJ and_CC peculiar_JJ aroma_NN when_WRB recently_RB dried_VBD ._.
+The_DT gum_NN is_VBZ found_VBN in_IN small_JJ and_CC ._.
+roundish_JJ tears_NNS ,_, trans-_JJ lucent_NN ,_, generally_RB reddish_JJ in_IN color_NN but_CC sometimes_RB clear_JJ and_CC colorless_NN ,_, and_CC possesses_NNS ,_, when_WRB new_JJ ,_, a_DT slightly_RB bitterish_JJ taste_NN ._.
+The_DT ním_NN or_CC margosa_NN toddy_NN is_VBZ an_DT important_JJ therapeutic_JJ agent_NN and_CC requires_VBZ a_DT special_JJ notice_NN ._.
+This_DT toddy_NN or_CC sap_NN is_VBZ yielded_VBN either_RB spon-_JJ taneously_RB or_CC extracted_VBN artificially_RB ._.
+In_IN the_DT former_JJ case_NN ,_, a_DT clear_JJ and_CC colorless_JJ liquid_NN begins_VBZ to_TO flow_VB in_IN a_DT very_RB thin_JJ stream_NN or_CC continuous_JJ drops_NNS from_IN two_CD or_CC three_CD and_CC sometimes_RB more_JJR parts_NNS of_IN the_DT plant_NN ,_, and_CC con-_JJ tinues_NNS to_TO do_VB so_RB from_IN three_CD to_TO seven_CD weeks_NNS ._.
+The_DT trunk_NN and_CC large_JJ branches_NNS and_CC roots_NNS are_VBP the_DT parts_NNS from_IN which_WDT the_DT flow_NN takes_VBZ place_NN through_IN very_RB small_JJ and_CC recent_JJ cracks_NNS or_CC fissures_NNS ,_, and_CC the_DT quantity_NN of_IN the_DT liquid_NN discharged_VBN in_IN the_DT 24_CD hours_NNS from_IN the_DT whole_JJ tree_NN varies_NNS from_IN 2_CD to_TO 8_CD bottles_NNS according_VBG to_TO its_PRP$ size_NN ._.
+Of_IN the_DT several_JJ margosa_NN trees_NNS in_IN Madras_NNP and_CC its_PRP$ vicinity_NN known_VBN to_TO yield_VB occasionally_RB the_DT sap_NN under_IN discussion_NN ,_, there_EX was_VBD one_CD in_IN Mylapore_NNP which_WDT enjoyed_VBD ._.
+the_DT greatest_JJS repute_NN in_IN this_DT respect_NN ._.
+This_DT plant_NN was_VBD in_IN a_DT small_JJ street_NN at_IN the_DT southern_JJ end_NN of_IN the_DT above_JJ village_NN and_CC died_VBD about_IN 15_CD or_CC 16_CD years_NNS ago_RB ._.
+It_PRP ._.
+was_VBD a_DT pretty_JJ large_JJ tree_NN ,_, about_RB 50_CD or_CC 60_CD years_NNS old_JJ ,_, and_CC produced_VBD the_DT sap_NN every_DT 3rd_CD or_CC 4th_CD year_NN ._.
+After_IN the_DT last_JJ or_CC 4th_CD occasion_NN ,_, the_DT trunk_NN became_VBD rapidly_RB hollow_JJ and_CC the_DT plant_NN dried_VBD soon_RB after_IN this_DT ._.
+On_IN each_DT occasion_NN ,_, before_IN the_DT sap_NN began_VBD to_TO flow_VB ,_, there_EX was_VBD always_RB ,_, for_IN 3_CD or_CC 4_CD days_NNS ,_, a_DT distinct_JJ and_CC peculiar_JJ rushing_NN or_CC pumping_VBG noise_NN of_IN a_DT liquid_NN within_IN the_DT trunk_NN ,_, and_CC did_VBD not_RB entirely_RB cease_VB till_VB the_DT discharge_NN actually_RB commenced_VBD from_IN 3_CD or_CC 4_CD parts_NNS of_IN the_DT plant_NN ._.
+This_DT is_VBZ more_RBR like_IN au_NN animal_NN or_CC vital_NN phenomenon_NN than_IN anything_NN else_RB ._.
+The_DT above_NN phenomenon_NN being_VBG a_DT sure_JJ forerunner_NN of_IN the_DT flow_NN of_IN the_DT sap_NN ,_, as_IN just_RB explained_VBN ,_, the_DT owner_NN of_IN the_DT plant_NN (_( Faiz_NNP Aimed_NNP Khan_NNP )_) always_RB gave_VBD notice_NN of_IN its_PRP$ occurrence_NN to_TO all_DT his_PRP$ neighbours_NNS and_CC many_JJ other_JJ persons_NNS ,_, with_IN a_DT view_NN to_TO be_VB prepared_VBN to_TO avail_VB themselves_PRP of_IN this_DT extremely_RB rare_JJ medicine_NN if_IN they_PRP were_VBD in_IN need_NN of_IN it_PRP ._.
+The_DT fame_NN of_IN the_DT sap_NN as_IN a_DT curative_JJ agent_NN was_VBD certainly_RB so_RB great_JJ that_IN the_DT plant_NN was_VBD sur-_JJ rounded_VBN by_IN people_NNS morning_NN and_CC evening_NN ,_, who_WP bought_VBD and_CC drank_VBD the_DT drug_NN very_RB eagerly_RB ._.
+The_DT price_NN of_IN it_PRP was_VBD very_RB variable_JJ ,_, but_CC generally_RB between_IN 4_CD and_CC 10_CD annas_NNS per_IN bottle_NN ,_, and_CC at_IN one_CD time_NN it_PRP rose_VBD to_TO a_DT rupee_NN for_IN the_DT same_JJ quantity_NN ._.
+The_DT sap_NN was_VBD more_RBR or_CC less_RBR bitterish_JJ in_IN taste_NN with_IN a_DT slight_JJ and_CC peculiar_JJ aroma_NN of_IN the_DT ním_JJ tree_NN ,_, and_CC was_VBD never_RB known_VBN to_TO ferment_VB or_CC possess_VB any_DT intoxicating_JJ property_NN ._.
+The_DT word_NN toddy_NN is_VBZ ,_, therefore_RB ,_, not_RB correctly_RB applicable_JJ to_TO this_DT liquid_JJ drug_NN ._.
+I_PRP have_VBP already_RB mentioned_VBN the_DT diseases_NNS which_WDT were_VBD most_RBS benefited_VBN ._.
+by_IN its_PRP$ use_NN under_IN the_DT heading_NN of_IN ``_`` Therapeutic_JJ Uses_NNS ._. ''_''
+The_DT ním_NN trees_NNS which_WDT yield_VBP the_DT sap_NN artificially_RB seem_VBP to_TO be_VB more_JJR rare_JJ ,_, for_IN I_PRP have_VBP heard_VBN only_RB of_IN 3_CD or_CC 4_CD of_IN such_JJ plants_NNS ._.
+All_PDT these_DT are_VBP said_VBD to_TO have_VB been_VBN pretty_RB young_JJ and_CC large_JJ trees_NNS ,_, and_CC were_VBD found_VBN near_IN water_NN or_CC on_IN the_DT banks_NNS of_IN nullas_NNS or_CC water-courses_NNS which_WDT were_VBD constantly_RB wet_VBN ._.
+The_DT sap_NN was_VBD extracted_VBN from_IN them_PRP in_IN the_DT following_JJ manner_NN :_: OF_NN MADRAS_NNP ._.
+105_CD which_WDT began_VBD to_TO dribble_VB or_CC flow_VB in_IN a_DT very_RB small_JJ and_CC thin_JJ stream_NN ._.
+The_DT sap_NN thus_RB collected_VBN is_VBZ supposed_VBN to_TO be_VB identical_JJ with_IN that_DT produced_VBN by_IN the_DT tree_NN spontaneously_RB ,_, but_CC comparatively_RB very_RB small_JJ in_IN quantity_NN ,_, amounting_VBG generally_RB to_TO only_RB from_IN 2_CD to_TO 6_CD bottles_NNS in_IN the_DT 24_CD hours_NNS ._.
+I_PRP think_VBP if_IN many_JJ of_IN the_DT margosa_NN plants_NNS growing_VBG near_IN water_NN be_VB tried_VBN in_IN the_DT manner_NN I_PRP just_RB explained_VBD ,_, a_DT much_RB larger_JJR percentage_NN of_IN them_PRP will_MD be_VB found_VBN capable_JJ of_IN yielding_VBG the_DT liquid_NN than_IN is_VBZ generally_RB supposed_VBN at_IN present_NN ._.
+The_DT ním_NN or_CC margosa_NN trees_NNS are_VBP bestowed_VBN with_IN another_DT property_NN ,_, which_WDT is_VBZ much_RB more_RBR important_JJ than_IN any_DT of_IN those_DT I_PRP have_VBP already_RB men-_JJ tioned_VBN ._.
+I_PRP allude_VBP to_TO the_DT healthiness_NN they_PRP impart_VBP to_TO the_DT atmosphere_NN ._.
+Some_DT villages_NNS in_IN South_NNP India_NNP are_VBP known_VBN to_TO be_VB quite_RB free_JJ from_IN cholera_NN from_IN the_DT time_NN it_PRP came_VBD into_IN existence_NN ,_, and_CC this_DT immunity_NN is_VBZ attributable_JJ to_TO their_PRP$ being_VBG surrounded_VBN by_IN ,_, or_CC containing_VBG a_DT much_RB larger_JJR number_NN of_IN ,_, those_DT trees_NNS than_IN usual_JJ ._.
+Although_IN I_PRP am_VBP not_RB personally_RB acquainted_VBN with_IN any_DT of_IN such_JJ villages_NNS ,_, I_PRP am_VBP aware_JJ of_IN some_DT houses_NNS which_WDT enjoyed_VBD a_DT similar_JJ exemption_NN from_IN cholera_NN during_IN its_PRP$ epidemics_NNS ,_, while_IN all_DT other_JJ surrounding_VBG and_CC adjoining_VBG houses_NNS suffered_VBD repeatedly_RB from_IN its_PRP$ visits_NNS ._.
+My_PRP$ own_JJ house_NN is_VBZ the_DT best_JJS example_NN of_IN this_DT kind_NN ._.
+I_PRP live_VBP in_IN Royapettah_NNP ,_, opposite_RB to_TO the_DT Triplicane_NNP Dispensary_NNP ,_, and_CC my_PRP$ house_NN is_VBZ separated_VBN from_IN the_DT latter_NN only_RB by_IN a_DT road_NN ._.
+The_DT Hospital_NNP attached_VBD to_TO this_DT Dispensary_NNP ,_, which_WDT is_VBZ com-_JJ monly_RB known_VBN as_IN the_DT Royapettah_NNP Hospital_NNP ,_, being_VBG the_DT only_JJ Hospital_NNP in_IN Madras_NNP on_IN the_DT south_NN of_IN the_DT Mount_NNP Road_NNP ,_, in_IN which_WDT the_DT sick_NN are_VBP treated_VBN as_IN in-patients_NNS ,_, a_DT large_JJ number_NN of_IN cholera_NN cases_NNS are_VBP admitted_VBN into_IN it_PRP from_IN all_PDT the_DT neighbouring_NN and_CC adjacent_JJ villages_NNS during_IN every_DT epidemic_NN of_IN that_DT disease_NN ._.
+The_DT result_NN is_VBZ that_IN Royapettah_NNP seldom_NN or_CC never_RB escapes_NNS cholera_VBP whenever_WRB it_PRP prevails_VBZ epidemically_RB in_IN any_DT part_NN of_IN the_DT southern_JJ half_NN of_IN the_DT city_NN of_IN Madras_NNP ,_, and_CC often_RB suffers_NNS from_IN it_PRP more_RBR extensively_RB and_CC for_IN a_DT longer_JJR period_NN than_IN many_JJ other_JJ parts_NNS ._.
+In_IN a_DT locality_NN like_IN this_DT ,_, where_WRB the_DT epidemics_NNS of_IN cholera_NN are_VBP so_RB frequent_JJ and_CC prolonged_JJ ,_, as_IN just_RB explained_VBN ,_, my_PRP$ house_NN has_VBZ escaped_VBN the_DT visits_NNS of_IN that_DT disease_NN during_IN the_DT last_JJ 25_CD years_NNS ,_, while_IN all_DT others_NNS in_IN the_DT immediate_JJ vicinity_NN of_IN the_DT Roya-_NNP pettah_NN Hospital_NNP suffered_VBD from_IN it_PRP repeatedly_RB during_IN the_DT same_JJ period_NN ._.
+The_DT only_JJ reasonable_JJ and_CC chief_JJ difference_NN between_IN my_PRP$ own_JJ and_CC other_JJ houses_NNS is_VBZ ,_, that_IN the_DT former_JJ was_VBD always_RB surrounded_VBN by_IN some_DT ním_NN or_CC margosa_NN trees_NNS ,_, while_IN the_DT latter_NN were_VBD not_RB ._.
+The_DT margosa_NN tree_NN is_VBZ also_RB useful_JJ as_IN a_DT preventive_NN to_TO fever_VB ,_, as_IN will_MD be_VB seen_VBN from_IN the_DT following_VBG quotation:106_NN MATERIA_NNP MEDICA_NNP CELASTRINEÆ_NNP ._.
+OF_IN MADRAS_NNP ._.
+107_CD Doses.108_NNP MATERIA_NNP MEDICA_NNP dropsical_JJ symptoms_NNS ._.
+During_IN the_DT use_NN of_IN black_JJ oil_NN ,_, the_DT native_JJ practi-_JJ tioners_NNS invariably_RB enjoin_VBP a_DT very_RB low_JJ and_CC strict_JJ diet_NN ,_, giving_VBG nothing_NN to_TO the_DT patient_NN except_IN water_NN and_CC wheaten_JJ cakes_NNS for_IN a_DT long_JJ periodOF_NN MADRAS_NNP ._.
+109_CD Local_JJ Sources.110_NNP MATERIA_NNP MEDICA_NNP Monaqqá_NNP ,_, Hind._NNP ,_, Duk_NNP ._.
+and_CC Pers_NNP ._.
+Ularnda-diráksha-pazham_JJ or_CC Ularnda-drácha-param_JJ ,_, Tam_NNP ._.
+Endu-dráksha-pandu_JJ ,_, Dípa-draksha-_NNP pandu_NN ,_, Tel_NNP ._.
+Unanniya-muntrinap-param_NNP ,_, Malayl_NNP ._.
+Dípa-drakshí_NNP ,_, Can_NNP ._.
+Monakkha_NNP ,_, Beng_NNP ._.
+Vellich-cha-mudra-palam_NNP ,_, Cing_NNP ._.
+Zabíb-_JJ mavéz_NN ,_, Arab_NNP ._.
+Of_IN the_DT small_JJ variety_NN of_IN raisins_NNS without_IN stonesOF_JJ MADRAS_NNP ._.
+111_CD 112_CD MATERIA_NNP MEDICA_NNP Synonyms.OF_NNP MADRAS_NNP ._.
+113_CD more_JJR or_CC less_RBR extent_JJ ,_, and_CC generally_RB more_JJR speedily_RB than_IN ipecacuanha_NN and_CC Tylophora_NNP asthmatica_VBP ;_: and_CC it_PRP is_VBZ also_RB useful_JJ in_IN the_DT same_JJ way_NN in_IN some_DT cases_NNS of_IN colic_JJ ,_, particularly_RB when_WRB the_DT latter_NN is_VBZ depending_VBG on_IN indigestion_NN ._.
+A_DT thick_JJ watery_NN solution_NN of_IN the_DT drug_NN is_VBZ often_RB resorted_VBN to_TO by_IN the_DT natives_NNS of_IN this_DT country_NN for_IN the_DT relief_NN of_IN hemicrania_NN ,_, hysteria_NN ,_, and_CC epilepsy_NN ._.
+They_PRP drop_VBP a_DT few_JJ drops_NNS of_IN the_DT solution_NN in_IN each_DT nostril_NN during_IN the_DT fit_NN of_IN any_DT of_IN the_DT above_NN diseases_NNS ,_, and_CC it_PRP produces_VBZ a_DT temporary_JJ relief_NN by_IN irritating_VBG the_DT mucous_JJ membrane_NN and_CC increasing_VBG its_PRP$ secretion_NN ,_, which_WDT flows_VBZ out_RP by_IN the_DT nostrils_NNS or_CC the_DT mouth_NN ,_, or_CC by_IN both_DT ._.
+I_PRP gave_VBD a_DT trial_NN to_TO this_DT plan_NN of_IN treatment_NN in_IN my_PRP$ own_JJ practice_NN not_RB only_RB in_IN the_DT above_JJ maladies_NNS ,_, but_CC also_RB in_IN asthma_NN ,_, and_CC the_DT result_NN is_VBZ pretty_JJ favourable_JJ ._.
+There_EX was_VBD more_RBR or_CC less_JJR relief_NN in_IN almost_RB every_DT case_NN of_IN hemicrania_NN and_CC asthma_NN in_IN which_WDT the_DT solution_NN was_VBD tried_VBN ;_: but_CC the_DT cases_NNS of_IN hysteria_NN and_CC epilepsy_NN benefited_VBN by_IN it_PRP were_VBD very_RB few_JJ ._.
+Although_IN the_DT relief_NN afforded_VBN by_IN the_DT solution_NN is_VBZ always_RB temporary_JJ ,_, yet_CC it_PRP is_VBZ in_IN many_JJ cases_NNS instan-_JJ taneous_JJ ._.
+The_DT quantity_NN of_IN the_DT solution_NN must_MD not_RB be_VB more_JJR than_IN four_CD or_CC five_CD drops_NNS in_IN each_DT nostril_NN ,_, for_IN in_IN one_CD case_NN in_IN which_WDT it_PRP exceeded_VBD ten_NN or_CC twelve_NN drops_NNS ,_, the_DT irritation_NN of_IN the_DT membrane_NN was_VBD severe_JJ and_CC lasted_VBD for_IN one_CD or_CC two_CD days_NNS ._.
+Applied_VBN in_IN the_DT form_NN of_IN paste_NN or_CC poultice_NN over_IN the_DT parts_NNS stung_VBD or_CC bitten_VBN by_IN some_DT poisonous_JJ insects_NNS ,_, as_IN scorpion_NN ,_, centi-_JJ pede_NN ,_, &_CC c._NN ,_, the_DT pulp_NN of_IN soap-nut_NN relieved_VBD the_DT pain_NN in_IN two_CD or_CC three_CD cases_NNS to_TO my_PRP$ own_JJ knowledge_NN ._.
+When_WRB bruised_VBN and_CC agitated_VBN in_IN water_NN ,_, it_PRP forms_VBZ suds_NNS like_IN soap_NN ,_, and_CC in_IN this_DT condition_NN is_VBZ an_DT efficient_JJ detergent_NN and_CC very_RB useful_JJ for_IN washing_VBG and_CC cleaning_VBG the_DT body_NN ,_, linen_NN and_CC hair_NN ._.
+The_DT kernel_NN of_IN the_DT seeds_NNS is_VBZ sweetish_JJ ,_, nutrient_JJ ,_, and_CC yields_NNS an_DT oil_NN on_IN expression_NN ,_, which_WDT is_VBZ a_DT very_RB good_JJ substitute_NN for_IN almond_JJ oil_NN ._.
+Preparations.114_NNP MATERIA_NNP MEDICA_NNP with_IN a_DT soft_JJ ,_, viscid_NN ,_, and_CC translucent_JJ pulp_NN ,_, and_CC ,_, however_RB long_RB it_PRP may_MD be_VB exposed_VBN to_TO the_DT sun_NN ,_, it_PRP does_VBZ not_RB get_VB sufficiently_RB dry_JJ to_TO be_VB pulverised_VBN ._.
+The_DT inner_JJ membrane_NN or_CC shell_NN enclosing_VBG the_DT seed_NN is_VBZ thin_JJ ,_, tough_JJ ,_, trans-_JJ lucent_NN and_CC leathery_NN ._.
+The_DT taste_NN of_IN the_DT pulp_NN is_VBZ sweetish_JJ bitter_NN ,_, and_CC the_DT smell_NN bears_VBZ some_DT resemblance_NN to_TO that_DT of_IN a_DT very_RB ripe_JJ and_CC decom-_JJ posing_NN mango_NN ,_, or_CC the_DT compound_NN extract_NN of_IN colocynth_NN (_( butyric_JJ acid_NN )_) ._.
+The_DT active_JJ principle_NN of_IN the_DT soap-nut_NN is_VBZ saponin_VBN ,_, which_WDT occurs_VBZ to_TO the_DT extent_NN of_IN about_IN 10_CD per_IN cent_NN ._.
+in_IN the_DT pulp_NN ._.
+The_DT seed_NN of_IN the_DT fruit_NN is_VBZ roundish_JJ ,_, black_JJ ,_, smooth_JJ ,_, and_CC about_IN the_DT size_NN of_IN a_DT large_JJ pea_NN ;_: and_CC the_DT kernel_NN is_VBZ yellowish_JJ or_CC pale-white_JJ ,_, oily_RB and_CC sweetish_VB in_IN taste_NN ._.
+I_PRP have_VBP been_VBN using_VBG the_DT pericarp_NN of_IN soap-nut_NN in_IN my_PRP$ practice_NN for_IN the_DT last_JJ several_JJ months_NNS ,_, and_CC have_VB just_RB (_( August_NNP 1887_CD )_) discovered_VBD it_PRP to_TO be_VB one_CD of_IN the_DT best_JJS ,_, cheapest_JJS and_CC commonest_JJS emetics_NNS in_IN India_NNP ._.
+While_IN it_PRP is_VBZ as_RB safe_JJ as_IN ipecacuanha_NN and_CC several_JJ other_JJ vegetable_JJ emetics_NNS ,_, it_PRP is_VBZ decidedly_RB more_RBR speedy_JJ in_IN its_PRP$ action_NN than_IN all_PDT those_DT drugs_NNS ._.
+It_PRP is_VBZ ,_, however_RB ,_, required_VBN to_TO be_VB employed_VBN in_IN much_JJ larger_JJR dose_NN than_IN ipecacuanha_NN ;_: but_CC this_DT is_VBZ no_DT disadvantage_NN ,_, for_IN it_PRP is_VBZ always_RB administered_VBN in_IN the_DT form_NN of_IN draught_NN ,_, and_CC this_DT draught_NN is_VBZ less_RBR nauseous_JJ and_CC unpleasant_JJ than_IN that_DT of_IN ipecacuanha_NN and_CC many_JJ other_JJ emetics_NNS ._.
+As_IN an_DT emetic_JJ ,_, the_DT soap-nut_JJ well_NN deserves_NNS to_TO be_VB brought_VBN into_IN general_JJ use_NN by_IN the_DT medical_JJ profession_NN ._.
+Soap-nut_NN is_VBZ supposed_VBN to_TO be_VB a_DT good_JJ anthelmintic_NN in_IN some_DT native_JJ medical_JJ works_NNS in_IN four_CD or_CC five_CD grain_NN doses_NNS ,_, but_CC this_DT is_VBZ not_RB really_RB the_DT case_NN ._.
+I_PRP have_VBP used_VBN it_PRP in_IN very_RB large_JJ doses_NNS (_( 3j_CD to_TO 3ij_CD )_) in_IN many_JJ cases_NNS ._.
+and_CC its_PRP$ emetic_JJ action_NN was_VBD sometimes_RB accompanied_VBN by_IN one_CD or_CC two_CD loose_JJ motions_NNS ;_: but_CC I_PRP have_VBP neither_DT seen_VBN nor_CC heard_CD of_IN any_DT of_IN my_PRP$ patients_NNS passing_VBG a_DT single_JJ round_NN or_CC any_DT other_JJ abdominal_JJ worm_NN on_IN any_DT occasion_NN ._.
+The_DT root_NN of_IN the_DT soap-nut_JJ tree_NN is_VBZ woody_JJ ,_, very_RB hard_JJ and_CC quite_RB inert_JJ ._.
+The_DT root-bark_NN and_CC bark_NN ,_, however_RB ,_, contain_VBP the_DT vegetable_JJ principle_NN saponin_NN and_CC form_VB froth_DT like_IN soap_NN when_WRB bruised_VBN and_CC agitated_VBN in_IN water_NN ._.
+I_PRP have_VBP used_VBN each_DT of_IN these_DT drugs_NNS in_IN decoction_NN ,_, and_CC in_IN large_JJ and_CC repeated_JJ doses_NNS ,_, and_CC found_VBD them_PRP to_TO be_VB very_RB mild_JJ expectorant_NN and_CC demulcent_NN ._.
+As_IN medicines_NNS they_PRP are_VBP so_RB weak_JJ that_IN I_PRP did_VBD not_RB consider_VB them_PRP worthy_JJS of_IN being_VBG treated_VBN as_IN such_JJ ._.
+ANACARDIACEÆ_NNP ._.
+*_JJ Pistacia_NNP Lentiscus_NNP ,_, Linn_NNP ._.
+194_CD and_CC 195_CD ._.
+Habitat.OF_NNP MADRAS_NNP ._.
+115_CD Physiological_JJ Actions.116_NNP MATERIA_NNP MEDICA_NNP the_DT Indian_NNP frankincense_NN )_) and_CC also_RB to_TO small_JJ pieces_NNS or_CC fragments_NNS of_IN the_DT large_JJ variety_NN of_IN the_DT same_JJ drug_NN ,_, but_CC it_PRP can_MD be_VB easily_RB and_CC readily_RB dis-_NNS tinguished_VBN from_IN both_DT by_IN the_DT water-test_NN I_PRP have_VBP described_VBN in_IN my_PRP$ remarks_NNS under_IN the_DT articles_NNS Boswellia_NNP floribundu_NN ,_, B._NNP glabra_NN and_CC B._NNP serrata_NN ._.
+OF_IN MADRAS_NNP ._.
+117_CD mucronate_NN ._.
+The_DT largest_JJS galls_NNS have_VBP a_DT diameter_NN of_IN from_IN 118_CD MATERIA_NNP MEDICA_NNP With_IN reference_NN to_TO its_PRP$ distinction_NN from_IN the_DT small_JJ variety_NN of_IN Kundur_NNP (_( Olibanum_NNP or_CC Indian_JJ frankincense_NN )_) ,_, to_TO which_WDT it_PRP bears_VBZ a_DT great_JJ resem-_JJ blance_NN ,_, see_VBP the_DT ``_`` water-test_JJ ''_'' explained_VBN under_IN that_DT article_NN ._.
+OF_IN MADRAS_NNP ._.
+119_CD often_RB curved_VBD or_CC bent_NN and_CC sometimes_RB contorted_VBN ._.
+They_PRP bear_VBP a_DT resem-_JJ blance_NN to_TO small_JJ horns_NNS of_IN a_DT goat_NN ;_: hence_VB the_DT word_NN singi_NN ,_, shingi_NN or_CC sringi_VB affixed_VBN to_TO all_DT their_PRP$ native_JJ synonyms_NN ,_, which_WDT means_VBZ horny_NN ._.
+The_DT galls_NNS are_VBP generally_RB brown_JJ and_CC possess_VB a_DT strong_JJ astringent_NN and_CC slightly_RB bitter_JJ taste_NN ._.
+The_DT galls_NNS in_IN the_DT small_JJ variety_NN are_VBP about_IN one_CD half_NN smaller_JJR than_IN those_DT in_IN the_DT large_JJ one_CD ,_, and_CC are_VBP generally_RB much_JJ darker_NN in_IN color_NN and_CC more_JJR astringent_NN in_IN taste_NN ._.
+When_WRB the_DT Simple_NNP and_CC the_DT Compound_NNP powders_NNS I_PRP have_VBP described_VBN under_IN the_DT head_NN of_IN ``_`` Preparations_NNS ''_'' are_VBP prepared_VBN with_IN the_DT small_JJ variety_NN of_IN Kákrá-singi_NNP ,_, they_PRP have_VBP always_RB been_VBN found_VBN more_RBR efficacious_JJ and_CC useful_JJ in_IN diarrh120_NN MATERIA_NNP MEDICA_NNP removed_VBD from_IN the_DT seeds_NNS by_IN rubbing_VBG between_IN the_DT hands_NNS ._.
+The_DT seeds_NNS are_VBP about_IN one-half_JJ smaller_JJR in_IN size_NN ,_, almost_RB always_RB oblong_JJ ,_, very_RB hard_RB ,_, slightly_RB inclining_VBG to_TO be_VB kidney-shaped_JJ and_CC possess_JJ no_DT particular_JJ taste_NN or_CC smell_NN ._.
+The_DT seeds_NNS of_IN R._NNP coriaria_NN are_VBP much_RB recommended_VBN in_IN some_DT Persian_JJ and_CC other_JJ native_JJ medical_JJ works_NNS in_IN dysentery_NN and_CC diarrhOF_NN MADRAS_NNP ._.
+121_CD Therapeutic_JJ Uses.122_NNP MATERIA_NNP MEDICA_NNP from_IN 1½_CD to_TO 2_CD ,_, and_CC in_IN breadth_NN from_IN 1_CD to_TO 1½_CD inches_NNS ;_: when_WRB fresh_NN ,_, it_PRP is_VBZ about_IN one-third_JJ longer_NN and_CC broader_NN ,_, white_JJ and_CC soft_JJ ._.
+The_DT taste_NN of_IN the_DT kernel_NN is_VBZ slightly_RB astringent_JJ and_CC demulcent_NN ,_, and_CC it_PRP possesses_VBZ no_DT particular_JJ smell_NN ._.
+When_WRB the_DT kernel_NN of_IN young_JJ mangoes_NNS is_VBZ cut_VBN with_IN a_DT knife_NN ,_, a_DT blue_NN stain_NN is_VBZ left_VBN on_IN both_DT the_DT instrument_NN and_CC the_DT drug_NN ,_, indi-_JJ cating_VBG the_DT existence_NN of_IN a_DT large_JJ quantity_NN of_IN tannic_JJ acid_NN in_IN the_DT latter_NN ._.
+The_DT gum_NN of_IN mango_NN tree_NN occurs_VBZ in_IN small_JJ and_CC irregular_JJ masses_NNS ,_, some_DT of_IN which_WDT consist_NN of_IN very_RB small_JJ tears_NNS sticking_VBG to_TO each_DT other_JJ ._.
+The_DT gum_NN is_VBZ generally_RB reddish-yellow_JJ or_CC reddish-brown_JJ in_IN color_NN ,_, with_IN a_DT bland_NN mucilaginous_JJ taste_NN ._.
+During_IN the_DT great_JJ famine_NN of_IN 1877_CD and_CC 1878_CD in_IN Southern_NNP India_NNP ,_, I_PRP heard_VBP from_IN many_JJ famine-stricken_JJ persons_NNS sent_VBD from_IN villages_NNS to_TO the_DT ``_`` Relief-houses_JJ ''_'' at_IN Madras_NNP that_IN ,_, if_IN the_DT kernel_NN of_IN mango_NN is_VBZ fresh_JJ and_CC roasted_VBD or_CC boiled_VBD it_PRP is_VBZ not_RB unpleasant_JJ to_TO taste_VB ,_, and_CC is_VBZ more_RBR nutritious_JJ than_IN the_DT pulp_NN of_IN that_DT fruit_NN in_IN an_DT equal_JJ quantity_NN ._.
+This_DT statement_NN may_MD be_VB correct_JJ as_RB far_RB as_IN the_DT ordinary_JJ and_CC sour_JJ mangoes_NNS are_VBP concerned_VBN ,_, but_CC will_MD not_RB hold_VB true_JJ in_IN the_DT ease_NN of_IN grafted_VBN mangoes_NNS ._.
+As_IN a_DT rule_NN the_DT pulp_NN of_IN the_DT latter_NN is_VBZ much_RB more_RBR delicious_JJ ,_, nutritious_JJ ,_, smooth_JJ and_CC wholesome_JJ than_IN that_DT of_IN the_DT common_JJ or_CC ordinary_JJ mangoes_NNS ._.
+Of_IN the_DT many_JJ varieties_NNS of_IN grafted_VBN mangoes_NNS in_IN Southern_NNP India_NNP ,_, there_EX are_VBP five_CD which_WDT justly_RB enjoy_VBP the_DT highest_JJS repute_NN for_IN their_PRP$ good_JJ and_CC pleasant_JJ taste_NN ,_, wholesomeness_NN and_CC nutritious_JJ quality_NN ,_, and_CC are_VBP readily_RB recognised_VBN under_IN the_DT Hindustani_NNP or_CC Dukhni_NNP names_NNS of_IN Qádar-pasand_NNP ,_, Mulghóhá_NNP ,_, Pitar-pasand_NNP ,_, Dil-pasand_NNP and_CC Yáqúte-rummám_NNP ._.
+Of_IN all_PDT these_DT varieties_NNS ,_, again_RB ,_, the_DT first-named_JJ (_( Qádar-pasand_NNP )_) is_VBZ the_DT best_JJS ._.
+As_IN already_RB explained_VBN under_IN the_DT headings_NNS of_IN ``_`` Preparations_NNP ``_`` and_CC ``_`` Therapeutic_JJ uses_NNS ,_, ''_'' the_DT kernel_NN of_IN young_JJ mangoes_NNS is_VBZ a_DT good_JJ astringent_NN and_CC possesses_VBZ a_DT considerable_JJ influence_NN in_IN diarrhOF_NN MADRAS_NNP ._.
+123_CD Paranki-mává-enna_JJ ,_, Kappa-máva-enna_NNP ,_, Malyal_NNP ._.
+Géra-poppu-yanne_NNP ,_, Can_NNP ._.
+Hijli-bádám-tail_NNP ,_, Beng_NNP ._.
+Kájú-cha-téla_NNP ,_, Mah_NNP ._.
+Kájú-cha-tel_NNP ,_, Guz_NNP ._.
+Kaju-tel_NNP ,_, Cing_NNP ._.
+Síhosaye-sí_JJ or_CC Tihotiya-sí_JJ ,_, Bur_NNP ._.
+Of_IN the_DT gum124_NN MATERIA_NNP MEDICA_NNP but_CC somewhat_RB smaller_JJR in_IN size_NN than_IN the_DT latter_JJ ,_, and_CC is_VBZ covered_VBN with_IN a_DT thin_JJ ,_, membranous_JJ and_CC rust-colored_JJ testa_NN ,_, which_WDT can_MD be_VB readily_RB removed_VBN by_IN rubbing_VBG with_IN the_DT fingers_NNS ,_, particularly_RB when_WRB it_PRP is_VBZ dried_VBN in_IN the_DT sun_NN ._.
+The_DT kernel_NN is_VBZ white_JJ ,_, soft_JJ ,_, tasteful_JJ and_CC wholesome_JJ ,_, and_CC abounds_VBZ in_IN a_DT bland_NN fixed_VBN oil_NN ,_, which_WDT it_PRP yields_VBZ on_IN expression_NN ._.
+OF_IN MADRAS_NNP ._.
+125_CD Preparations.126_NNP MATERIA_NNP MEDICA_NNP them_PRP all_DT into_IN a_DT uniform_JJ mass_NN ._.
+When_WRB bruised_VBN separately_RB ,_, the_DT marking-_JJ nut_NN is_VBZ very_RB viscid_JJ and_CC sticks_NNS to_TO the_DT mortar_NN and_CC fingers_NNS ,_, but_CC when_WRB it_PRP is_VBZ well_RB rubbed_JJ and_CC mixed_JJ with_IN the_DT other_JJ ingredients_NNS ,_, it_PRP is_VBZ formed_VBN into_IN a_DT soft_JJ and_CC unctuous_JJ mass_NN ,_, which_WDT does_VBZ not_RB stick_VB to_TO anything_NN ._.
+So_RB ,_, this_DT Electuary_NNP is_VBZ a_DT very_RB convenient_JJ preparation_NN for_IN handling_VBG ,_, weighing_VBG and_CC administering_VBG internally_RB ,_, and_CC it_PRP also_RB keeps_VBZ well_RB for_IN a_DT long_JJ time_NN ._.
+The_DT precaution_NN of_IN smearing_VBG the_DT hands_NNS ,_, &_CC c._NN ,_, with_IN oil_NN should_MD also_RB be_VB observed_VBN in_IN preparing_VBG the_DT Electuary_NNP ,_, for_IN its_PRP$ omission_NN in_IN one_CD case_NN gave_VBD rise_NN to_TO one_CD of_IN the_DT bad_JJ effects_NNS described_VBN above_IN ._.
+Doses.-Of_NNP the_DT acrid_JJ oil_NN ,_, from_IN sixty_NN to_TO one_CD hundred_CD and_CC fifty_JJ minims_NNS ;_: and_CC of_IN the_DT Electuary_NNP ,_, from_IN sixty_NN to_TO one_CD hundred_CD and_CC fifty_JJ grains_NNS ._.
+European_JJ Drugs_NNP for_IN which_WDT they_PRP may_MD be_VB substituted.-Internally_RB ,_, for_IN Salicylate_NNP of_IN Soda_NNP ,_, Salicylic_NNP acid_NN ,_, Colchicum_NNP ,_, Ether_NNP ,_, Belladonna_NNP ,_, Iodide_NNP of_IN Potassium_NNP ,_, Perchloride_NNP of_IN mercury_NN ,_, Aconite_NNP root_NN ,_, Valerianate_NNP of_IN zinc_NN ,_, and_CC Strychnia_NNP ;_: and_CC externally_RB ,_, for_IN Cantharides_NNP ._.
+Remarks.-Like_JJ cashew-nut_NN ,_, the_DT marking-nut_NN is_VBZ a_DT fruit_NN and_CC not_RB a_DT seed_NN or_CC nut_NN as_IN its_PRP$ name_NN implies_NNS ;_: but_CC it_PRP is_VBZ commonly_RB known_VBN as_IN a_DT nut_NN in_IN contradistinction_NN to_TO the_DT fleshy_JJ torus_NN ,_, to_TO which_WDT it_PRP is_VBZ attached_VBN ,_, and_CC which_WDT is_VBZ considered_VBN by_IN the_DT natives_NNS of_IN this_DT country_NN as_IN a_DT fruit_NN of_IN S._NNP Anacardium_NNP ._.
+The_DT marking-nut_JJ bears_NNS a_DT resemblance_NN to_TO the_DT heart_NN ,_, particularly_RB when_WRB it_PRP is_VBZ fresh_JJ and_CC attached_VBN to_TO the_DT torus_NN ;_: hence_CC its_PRP$ Arabic_NNP synonym_NN IIabbal-qalp_NNP or_CC the_DT heart-nut_NN ._.
+As_IN sold_VBN in_IN the_DT bazaar_NN ,_, the_DT marking-nut_NN is_VBZ about_IN 1_CD inch_NN long_RB ,_, ¾_NNP inch_NN broad_JJ at_IN the_DT upper_JJ end_NN ,_, and_CC very_RB narrow_JJ at_IN the_DT lower_JJR ;_: compressed_VBD or_CC flat_JJ on_IN both_DT sides_NNS ,_, dark-down_JJ ,_, smooth_JJ and_CC shining_VBG ._.
+On_IN breaking_VBG the_DT nut_NN ,_, the_DT pericarp_NN will_MD be_VB found_VBN to_TO contain_VB an_DT oily_JJ juice_NN ,_, which_WDT is_VBZ very_RB black_JJ and_CC of_IN a_DT thicker_NN consistence_NN than_IN honey_NN ,_, viscid_NN ,_, and_CC leaves_VBZ a_DT permanent_JJ black_JJ mark_NN on_IN cotton-cloths_NNS ._.
+Owing_VBG to_TO its_PRP$ last_JJ named_VBN character_NN the_DT juice_NN is_VBZ in_IN use_NN for_IN marking_VBG cotton_NN cloths_NNS all_DT over_IN India_NNP ,_, and_CC the_DT fruit_NN producing_VBG it_PRP is_VBZ therefore_RB called_VBD the_DT marking-nut_NN in_IN English_NNP ._.
+The_DT taste_NN of_IN the_DT oily_JJ juice_NN is_VBZ very_RB acrid_JJ and_CC unpleasant_JJ ,_, with_IN a_DT slight_JJ but_CC peculiar_JJ smell_NN ._.
+In_IN addition_NN to_TO this_DT ,_, both_CC the_DT taste_NN and_CC smell_NN are_VBP smoky_VBN if_IN the_DT oil_NN is_VBZ prepared_VBN by_IN the_DT aid_NN of_IN heat_NN ,_, as_IN mentioned_VBN elsewhere_RB ._.
+It_PRP is_VBZ readily_RB and_CC perfectly_RB soluble_JJ in_IN ether_NN and_CC chloroform_NN ,_, soluble_JJ in_IN alcohol_NN ,_, and_CC partially_RB so_RB in_IN turpentine_NN ;_: miscible_JJ but_CC not_RB soluble_JJ in_IN fixed_JJ oils_NNS ._.
+It_PRP leaves_VBZ an_DT oily_RB stain_NN on_IN paper_NN ,_, and_CC a_DT wick_NN dipped_VBD into_IN it_PRP burns_VBZ with_IN a_DT good_JJ flame_NN like_IN one_CD dipped_VBD into_IN any_DT fixed_JJ oil_NN ._.
+The_DT number_NN of_IN the_DT preparations_NNS described_VBN in_IN some_DT Persian_JJ and_CC Arabic_NNP medical_JJ works_NNS ,_, in_IN which_WDT the_DT viscid_NN black_JJ oil_NN of_IN the_DT marking-nut_NN (_( Asle-bilOF_JJ MADRAS_NNP ._.
+127_CD any_DT other_JJ bad_JJ effect_NN ;_: but_CC ,_, with_IN regard_NN to_TO the_DT external_JJ use_NN of_IN the_DT drug_NN ,_, a_DT mere_JJ handling_NN of_IN it_PRP during_IN the_DT preparation_NN of_IN its_PRP$ oil_NN ,_, &_CC c._NN ,_, or_CC exposure_NN to_TO its_PRP$ smoke_NN is_VBZ often_RB attended_VBN with_IN injurious_JJ results_NNS as_IN already_RB ex-_JJ plained_VBN under_IN the_DT heading_NN of_IN ``_`` Preparations_NNP ''_'' Some_DT care_NN and_CC caution_NN ,_, however_RB ,_, such_JJ as_IN those_DT I_PRP have_VBP mentioned_VBN under_IN the_DT same_JJ heading_NN ,_, are_VBP sufficient_JJ to_TO prevent_VB the_DT injurious_JJ effects_NNS of_IN the_DT marking-nut_NN in_IN pre-_JJ paring_VBG its_PRP$ oil_NN and_CC electuary_NN ,_, and_CC this_DT is_VBZ a_DT very_RB important_JJ circumstance_NN in_IN favor_NN of_IN not_RB giving_VBG up_RP the_DT employment_NN of_IN so_RB useful_JJ ,_, active_JJ an_DT effectual_JJ an_DT internal_JJ remedy_NN as_IN the_DT drug_NN under_IN discussion_NN ._.
+Marking-nut_NNP is_VBZ one_CD of_IN the_DT few_JJ drugs_NNS which_WDT I_PRP have_VBP found_VBN more_RBR or_CC less_RBR useful_JJ in_IN all_PDT the_DT diseases_NNS for_IN which_WDT it_PRP is_VBZ recommended_VBN in_IN native_JJ and_CC other_JJ medical_JJ works_NNS ._.
+These_DT works_NNS ,_, however_RB ,_, speak_NN of_IN the_DT useful-_JJ ness_NN of_IN the_DT drug_NN in_IN rheumatism_NN in_IN a_DT very_RB casual_JJ manner_NN and_CC only_RB as_IN a_DT local_JJ application_NN ;_: but_CC according_VBG to_TO my_PRP$ own_JJ experience_NN it_PRP is_VBZ ,_, as_IN an_DT internal_JJ remedy_NN ,_, so_RB useful_JJ in_IN the_DT acute_JJ form_NN of_IN that_DT disease_NN that_IN it_PRP deserves_VBZ a_DT special_JJ attention_NN ._.
+Used_VBN in_IN full_JJ and_CC repeated_VBD medicinal_JJ doses_NNS ,_, the_DT relief_NN it_PRP affords_VBZ is_VBZ very_RB great_JJ and_CC satisfactory_JJ ,_, and_CC I_PRP do_VBP not_RB hesitate_VB in_IN calling_VBG it_PRP a_DT sovereign_JJ remedy_NN in_IN acute_JJ rheumatism_NN ._.
+It_PRP is_VBZ certainly_RB more_RBR sure_JJ and_CC speedy_NN in_IN its_PRP$ action_NN than_IN Salicylic_NNP acid_NN ,_, Salicyl-_NNP ate_NN of_IN Soda_NNP ,_, Colchicum_NNP ,_, &_CC c._NN ,_, and_CC therefore_RB the_DT best_JJS drug_NN for_IN the_DT above_JJ complaint_NN ._.
+The_DT more_RBR recent_JJ and_CC acute_VBZ the_DT disease_NN is_VBZ ,_, the_DT more_JJR speedy_NN and_CC successful_JJ this_DT medicine_NN proves_VBZ ._.
+Many_JJ of_IN the_DT patients_NNS suffering_VBG from_IN acute_JJ rheumatism_NN ,_, who_WP were_VBD brought_VBN to_TO me_PRP in_IN doolies_NNS or_CC other_JJ vehicles_NNS ,_, and_CC who_WP were_VBD quite_RB unable_JJ to_TO sit_VB or_CC move_VB without_IN assistance_NN ,_, were_VBD able_JJ from_IN the_DT use_NN of_IN the_DT Electuary_NNP or_CC the_DT Acrid-oil_NNP of_IN this_DT drug_NN to_TO return_VB to_TO me_PRP walking_VBG on_IN the_DT 6th_CD or_CC 7th_CD day_NN after_IN their_PRP$ first_JJ visit_NN ._.
+On_IN a_DT few_JJ occasions_NNS ,_, again_RB ,_, I_PRP was_VBD pleasantly_RB surprised_VBN to_TO see_VB them_PRP walking_VBG lamely_RB and_CC coming_VBG to_TO me_PRP on_IN the_DT very_RB next_JJ or_CC 3rd_CD morning_NN to_TO say_VB that_IN they_PRP were_VBD much_RB better_JJR ._.
+In_IN the_DT latter_JJ case_NN ,_, the_DT patients_NNS were_VBD all_DT youths_NNS or_CC very_RB young_JJ men_NNS ._.
+With_IN regard_NN to_TO the_DT preparations_NNS of_IN the_DT marking-nut_NN I_PRP have_VBP des-_JJ cribed_NN (_( Electuary_NNP and_CC Acrid_NNP oil_NN )_) ,_, there_EX is_VBZ no_DT difference_NN between_IN the_DT therapeutic_JJ uses_NNS of_IN them_PRP ,_, particularly_RB in_IN the_DT treatment_NN of_IN acute_JJ rheumatism_NN ;_: but_CC the_DT patients_NNS generally_RB prefer_VBP the_DT former_JJ on_IN account_NN of_IN its_PRP$ very_NN pleasant_JJ taste_NN ._.
+The_DT number_NN of_IN the_DT doses_NNS of_IN these_DT prepara-_JJ tions_NNS I_PRP have_VBP generally_RB used_VBN in_IN the_DT 24_CD hours_NNS is_VBZ 4_CD ,_, and_CC the_DT dose_NN of_IN both_DT is_VBZ the_DT same_JJ ,_, viz._NN ,_, from_IN one_CD and_CC a_DT half_JJ drachms_NN to_TO two_CD drachms_NNS and_CC a_DT half_NN ._.
+In_IN some_DT very_RB severe_JJ cases_NNS ,_, when_WRB the_DT patients_NNS were_VBD very_RB strong_JJ and_CC robust_JJ ,_, the_DT dose_NN was_VBD increased_VBN to_TO three_CD drachms_NN ,_, but_CC the_DT average_JJ dose_NN is_VBZ two_CD drachms_NN ,_, which_WDT is_VBZ the_DT one_NN I_PRP have_VBP most_RBS frequently_RB employed_VBN in_IN my_PRP$ practice_NN ._.
+As_RB soon_RB as_IN the_DT patients_NNS are_VBP much_JJ relieved_VBN and_CC able_JJ to_TO walk_VB about_IN to_TO some_DT extent_NN without_IN assistance_NN ,_, I_PRP generally_RB omit_VBP the_DT drug_NN and_CC complete_VB the_DT cure_NN with_IN milder_NN or_CC less_RBR active_JJ medicines_NNS ,_, such_JJ as_IN Salicylate_NNP of_IN Soda_NNP ,_, Colchicum_NNP ,_, alkalines_NNS ,_, and_CC with_IN stimulant_JJ embrocations_NNS ._.
+In_IN chronic_JJ and_CC muscular_JJ forms_NNS of_IN rheumatism_NN ,_, however_RB ,_, the_DT mark-_JJ ing-nut_NN is_VBZ not_RB half_JJ as_RB useful_JJ as_IN it_PRP is_VBZ in_IN its_PRP$ acute_JJ variety_NN ,_, and_CC I_PRP am_VBP therefore_RB unable_JJ to_TO speak_VB much_RB in_IN its_PRP$ favor_NN in_IN the_DT treatment_NN of_IN the_DT former_JJ diseases_NNS ._.
+Marking-nut_NN is_VBZ also_RB a_DT good_JJ therapeutic_JJ agent_NN in_IN asthma_NN ,_, but_CC the_DT relief_NN it_PRP affords_VBZ in_IN so_RB small_JJ doses_NNS as_IN those_DT mentioned_VBN in_IN some_DT books_NNS is_VBZ 128_CD MATERIA_NNP MEDICA_NNP very_RB slight_RB ._.
+To_TO secure_VB its_PRP$ best_JJS effects_NNS in_IN this_DT disease_NN ,_, it_PRP should_MD be_VB used_VBN repeatedly_RB and_CC in_IN doses_NNS similar_JJ to_TO those_DT I_PRP generally_RB employ_VBP in_IN acute_JJ rheumatism_NN ._.
+Gout_NN is_VBZ so_RB rare_JJ among_IN the_DT natives_NNS of_IN this_DT country_NN that_WDT I_PRP never_RB had_VBD an_DT opportunity_NN of_IN using_VBG this_DT drug_NN in_IN any_DT well-marked_JJ case_NN of_IN that_DT disease_NN during_IN the_DT last_JJ two_CD years_NNS ;_: but_CC from_IN its_PRP$ great_JJ influence_NN over_IN acute_JJ rheumatism_NN I_PRP am_VBP almost_RB sure_JJ that_IN it_PRP will_MD also_RB produce_VB good_JJ results_NNS in_IN the_DT acute_JJ form_NN of_IN the_DT former_JJ ._.
+There_EX is_VBZ a_DT notion_NN among_IN the_DT natives_NNS of_IN Southern_NNP India_NNP that_IN the_DT internal_JJ use_NN of_IN the_DT marking-nut_NN is_VBZ apt_JJ to_TO produce_VB sore-mouth_JJ or_CC ptyalism_NN ;_: but_CC I_PRP have_VBP never_RB met_VBN with_IN a_DT single_JJ instance_NN of_IN these_DT bad_JJ effects_NNS ,_, though_IN I_PRP have_VBP administered_VBN the_DT drug_NN in_IN many_JJ cases_NNS and_CC in_IN so_RB large_JJ and_CC repeated_JJ doses_NNS as_IN those_DT explained_VBN above_IN ._.
+During_IN the_DT employment_NN of_IN the_DT marking-nut_NN ,_, either_CC externally_RB or_CC internally_RB ,_, the_DT least_JJS appearance_NN of_IN a_DT rash_NN or_CC redness_NN of_IN the_DT skin_NN ,_, or_CC an_DT itchy_NN or_CC uneasy_JJ sensation_NN in_IN any_DT part_NN of_IN the_DT body_NN ,_, should_MD be_VB con-_JJ sidered_VBN as_IN a_DT sign_NN of_IN the_DT bad_JJ effects_NNS of_IN the_DT drug_NN ,_, and_CC it_PRP should_MD ,_, therefore_VB ,_, be_VB stopped_VBN immediately_RB ._.
+Spiritus_NNP Ammoniæ_NNP Aromaticus_NNP is_VBZ to_TO be_VB freely_RB administered_VBN ,_, with_IN some_DT demulcent_JJ drinks_NNS ,_, such_JJ as_IN Infusum_NNP Lini_NNP ,_, and_CC some_DT oil_NN ,_, Olive_NNP or_CC cocoanut_NN ,_, should_MD be_VB constantly_RB smeared_VBN over_IN the_DT affected_JJ part_NN or_CC parts_NNS ._.
+This_DT is_VBZ generally_RB sufficient_JJ to_TO check_VB the_DT above_NN symptoms_NNS ;_: but_CC if_IN they_PRP get_VBP worse_JJR and_CC become_VB more_JJR developed_JJ ,_, they_PRP must_MD be_VB treated_VBN with_IN some_DT other_JJ and_CC stronger_JJR remedies_NNS according_VBG to_TO their_PRP$ nature_NN ._.
+OF_IN MADRAS_NNP ._.
+129_CD covered_VBN with_IN a_DT thin_JJ and_CC rust-colored_JJ testa_NN ._.
+The_DT kernel_NN is_VBZ pale-white_JJ and_CC contains_VBZ more_JJR than_IN half_PDT its_PRP$ own_JJ weight_NN of_IN oil_NN ._.
+The_DT seeds_NNS are_VBP very_RB tasteful_JJ ,_, wholesome_JJ and_CC nutritive_JJ ,_, and_CC yield_NN on_IN expression_NN a_DT bland_NN fixed_VBN oil_NN ,_, the_DT physical_JJ and_CC medical_JJ properties_NNS of_IN which_WDT are_VBP similar_JJ to_TO those_DT of_IN the_DT Cashew-nut_NNP oil_NN ._.
+130_CD MATERIA_NNP MEDICA_NNP substance_NN which_WDT was_VBD brown_VBN or_CC dark-brown_JJ ._.
+The_DT latter_NN was_VBD just_RB behind_IN the_DT layer_NN of_IN the_DT gum_NN and_CC in_IN contact_NN with_IN the_DT tree_NN and_CC ground_NN ._.
+If_IN left_VBN in_IN water_NN the_DT gum_NN of_IN this_DT tree_NN slightly_RB swells_NNS and_CC is_VBZ formed_VBN into_IN a_DT kind_NN of_IN soft_JJ jelly_NN ,_, and_CC is_VBZ miscible_JJ but_CC not_RB completely_RB soluble_JJ in_IN water_NN ._.
+The_DT bark_NN of_IN the_DT younger_JJR plants_NNS is_VBZ ash-colored_JJ and_CC not_RB rough_JJ exter-_JJ nally_RB and_CC very_RB fibrous_JJ and_CC of_IN a_DT flesh_JJ color_NN internally_RB ;_: and_CC that_IN of_IN the_DT older_JJR trees_NNS is_VBZ very_RB rough_JJ ,_, scaly_NN ,_, generally_RB about_IN ¾_NNP of_IN an_DT inch_NN in_IN thick-_JJ ness_NN ,_, brown_VBN externally_RB ,_, and_CC reddish-brown_JJ internally_RB ._.
+The_DT taste_NN of_IN the_DT inner_JJ bark_NN is_VBZ slightly_RB astringent_JJ ,_, due_JJ to_TO tannic_JJ acid_NN ._.
+OF_IN MADRAS_NNP ._.
+131_CD aware_NN of_IN three_CD trees_NNS of_IN this_DT kind_NN ,_, one_CD of_IN which_WDT is_VBZ not_RB far_RB from_IN my_PRP$ resi-_JJ dence_NN ._.
+On_IN one_CD occasion_NN ,_, some_DT years_NNS ago_RB ,_, I_PRP found_VBD a_DT large_JJ mass_NN of_IN gum_NN and_CC resin_NN on_IN the_DT ground_NN near_IN the_DT stem_NN of_IN this_DT tree_NN ,_, which_WDT was_VBD more_JJR than_IN 6_CD pounds_NNS in_IN weight_NN ._.
+About_IN two-thirds_NNS of_IN this_DT mass_NN was_VBD gum_VBN ,_, and_CC the_DT remaining_VBG consisted_VBD partly_RB of_IN a_DT brown_NN and_CC partly_RB of_IN a_DT dark-brown_JJ substance_NN ,_, both_DT of_IN which_WDT were_VBD more_RBR resinous_JJ than_IN anything_NN else_RB ._.
+In_IN addition_NN to_TO the_DT above_JJ occasional_JJ flow_NN of_IN gum_NN ,_, a_DT small_JJ quantity_NN of_IN it_PRP is_VBZ often_RB found_VBN on_IN S._NNP mangifera_NN ,_, which_WDT generally_RB is_VBZ in_IN small_JJ and_CC trans-_JJ parent_NN tears_NNS ._.
+This_DT gum_NN is_VBZ quite_RB soluble_JJ in_IN water_NN and_CC resembles_VBZ the_DT Indian_JJ Gum-arabic_NNP in_IN many_JJ other_JJ characters_NNS ._.
+MORINGEÆ_NNP ._.
+132_CD MATERIA_NNP MEDICA_NNP practitioners_NNS in_IN Southern_NNP India_NNP ,_, but_CC they_PRP have_VBP completely_RB failed_VBN in_IN my_PRP$ hands_NNS ,_, though_IN I_PRP have_VBP tried_VBN them_PRP in_IN very_RB large_JJ doses_NNS ._.
+They_PRP are_VBP at_IN most_JJS a_DT slight_JJ stimulant_NN ,_, but_CC have_VBP not_RB been_VBN found_VBN useful_JJ even_RB as_IN such_JJ in_IN any_DT particular_JJ disease_NN ._.
+Applied_NNP externally_RB in_IN the_DT form_NN of_IN a_DT paste_NN ,_, the_DT fresh_JJ root-bark_NN and_CC the_DT bark_NN act_NN as_IN a_DT good_JJ vesicant_NN and_CC rubefacient_NN ._.
+The_DT former_JJ is_VBZ much_RB superior_JJ to_TO the_DT latter_NN in_IN this_DT respect_NN ._.
+Preparations.OF_NNP MADRAS_NNP ._.
+133_CD Samare-mughílán_JJ ,_, Arab_NNP ._.
+Vélam-káygal_JJ ,_, Karu-vélam-káygal_NNP ,_, Karu-_NNP vél-káygal_NN ,_, Tam_NNP ._.
+Nalla-tumma-káyalu_JJ ,_, Barbúramu-káyalu_NNP ,_, Tumma-_NNP chettu-káyalu_NN ,_, Tel_NNP ._.
+Karu-vélakam-káya_NNP ,_, Malyal_NNP ._.
+Kare-jáli-káyi_NNP ,_, Kare-_NNP gobbali-káyi_NN ,_, Can_NNP ._.
+Bábúl-sim_NNP ,_, Bábla-sim_NNP ._.
+Beng_NNP ._.
+Kalabábili-cha-phalli_NNP Bábli-chakái_NNP ,_, Mah_NNP ._.
+Kálo-bával-nu-singo_NNP ,_, Guz_NNP ._.
+Of_IN the_DT gum134_NN MATERIA_NNP MEDICA_NNP fresh_JJ legumes_NNS dried_VBN in_IN the_DT sun_NN before_IN their_PRP$ seeds_NNS are_VBP well_RB developed_VBN and_CC hard_JJ is_VBZ pretty_JJ useful_JJ in_IN diarrhOF_NN MADRAS_NNP ._.
+135_CD or_CC on_IN a_DT sand-bath_NN ._.
+Of_IN the_DT bark136_NN MATERIA_NNP MEDICA_NNP As_IN there_EX are_VBP several_JJ varieties_NNS of_IN Aqáqíyá_NNP ,_, they_PRP may_MD ,_, for_IN the_DT sake_NN of_IN convenience_NN in_IN describing_VBG them_PRP ,_, be_VB first_RB divided_VBN into_IN a_DT soft_JJ and_CC a_DT hard_JJ variety_NN ,_, and_CC then_RB each_DT of_IN the_DT latter_JJ into_IN two_CD or_CC more_JJR sub-varieties_NNS ._.
+The_DT drug_NN prepared_VBN from_IN the_DT pods_NNS of_IN Acacia_NNP Arabica_NNP is_VBZ a_DT very_RB good_JJ example_NN of_IN the_DT soft_JJ variety_NN of_IN Aqáqíyå_NNP ._.
+When_WRB new_JJ ,_, it_PRP is_VBZ pretty_JJ soft_JJ ,_, could_MD be_VB made_VBN into_IN pills_NNS and_CC bolusses_NNS very_RB easily_RB ._.
+Though_IN it_PRP gets_VBZ harder_JJR by_IN keeping_VBG ,_, yet_RB not_RB to_TO such_VB an_DT extent_NN as_IN to_TO be_VB reduced_VBN to_TO a_DT fine_JJ powder_NN ._.
+It_PRP is_VBZ dark_JJ brown_NN in_IN color_NN ,_, very_RB astringent_JJ in_IN taste_NN ,_, and_CC possesses_VBZ a_DT slight_JJ and_CC peculiar_JJ odour_NN ._.
+The_DT only_JJ another_DT soft_JJ variety_NN of_IN Aqáqíyá_NNP ,_, I_PRP have_VBP seen_VBN is_VBZ the_DT one_CD which_WDT was_VBD presented_VBN to_TO me_PRP some_DT time_NN ago_RB by_IN a_DT Hakeem_NNP at_IN Madras_NNP ._.
+It_PRP bore_VBD a_DT great_JJ resemblance_NN to_TO the_DT above_JJ variety_NN ,_, but_CC differed_VBD from_IN it_PRP distinctly_RB in_IN one_CD or_CC two_CD points_NNS ._.
+It_PRP was_VBD reddish_JJ instead_RB of_IN deep_JJ brown_NN in_IN color_NN ,_, and_CC more_RBR demulcent_JJ than_IN astringent_NN in_IN taste_NN ._.
+The_DT Hakeem_NNP said_VBD that_IN he_PRP had_VBD bought_VBN it_PRP from_IN a_DT wholesale_JJ druggist_NN at_IN Black_NNP Town_NNP ,_, and_CC the_DT latter_JJ seems_VBZ to_TO have_VB obtained_VBN it_PRP from_IN Bombay_NNP ._.
+It_PRP is_VBZ the_DT dearest_JJS variety_NN I_PRP have_VBP seen_VBN ,_, its_PRP$ price_NN being_VBG about_IN Rs_NNP ._.
+5_CD per_IN pound_NN ._.
+Two_CD kinds_NNS of_IN Aqáqíyá_NNP are_VBP generally_RB met_VBN with_IN in_IN the_DT bazaars_NNS of_IN Madras_NNP ,_, and_CC both_DT of_IN these_DT are_VBP hard_JJ varieties_NNS and_CC easily_RB reduced_VBN to_TO a_DT fine_JJ powder_NN ._.
+The_DT first_JJ or_CC the_DT best_JJS of_IN them_PRP is_VBZ reddish_JJ brown_IN with_IN a_DT demul-_JJ cent_NN and_CC slightly_RB astringent_JJ taste_NN ,_, and_CC the_DT second_JJ possesses_VBZ the_DT same_JJ taste_NN ,_, but_CC is_VBZ dusky_JJ brown_NN in_IN color_NN ._.
+Their_PRP$ price_NN is_VBZ about_IN Rs_NNP ._.
+2½_CD and_CC 1½_CD per_IN pound_NN ,_, respectively_RB ._.
+I_PRP myself_PRP obtained_VBD Aqáqiyá_NNP twice_RB from_IN Bombay_NNP ,_, and_CC the_DT drug_NN was_VBD hard_JJ and_CC pulverizable_JJ on_IN both_DT occasions_NNS ._.
+It_PRP was_VBD identical_JJ with_IN the_DT first_JJ variety_NN I_PRP have_VBP just_RB described_VBN ;_: except_IN this_DT that_WDT on_IN one_CD occasion_NN the_DT medicine_NN was_VBD full_JJ of_IN minute_JJ particles_NNS of_IN a_DT dry_JJ leaf_NN ,_, which_WDT were_VBD seen_VBN in_IN every_DT part_NN of_IN it_PRP ._.
+The_DT original_JJ cost_NN of_IN each_DT of_IN these_DT varieties_NNS was_VBD about_IN Rs_NNP ._.
+2_CD per_IN pound_NN ._.
+I_PRP have_VBP just_RB succeeded_VBN in_IN finding_VBG that_IN all_PDT the_DT hard_JJ varieties_NNS are_VBP either_DT impure_NN or_CC not_RB at_IN all_DT made_VBN from_IN the_DT pods_NNS of_IN any_DT species_NNS of_IN Acacia_NNP ._.
+For_IN example_NN the_DT first_JJ or_CC best_JJS hard_JJ variety_NN I_PRP have_VBP described_VBN above_IN corre-_JJ sponds_NNS in_IN many_JJ respects_NNS with_IN a_DT watery_NN extract_NN prepared_VBN from_IN the_DT fresh_JJ legumes_NNS of_IN Acacia_NNP Arabica_NNP with_IN an_DT equal_JJ proportion_NN of_IN Gum-arabic_NNP ;_: and_CC the_DT second_JJ hard_JJ variety_NN is_VBZ identical_JJ in_IN its_PRP$ physical_JJ and_CC medicinal_JJ properties_NNS with_IN a_DT watery_NN extract_NN of_IN the_DT fresh_JJ leaves_NNS (_( not_RB pods_NNS )_) of_IN the_DT same_JJ plant_NN ._.
+In_IN addition_NN to_TO its_PRP$ superiority_NN as_IN a_DT drug_NN as_IN already_RB explained_VBN ,_, the_DT advantage_NN of_IN the_DT Aqáqíya_NNP prepared_VBD from_IN the_DT pods_NNS is_VBZ ,_, Acacia_NNP Arabica_NNP ,_, over_IN all_DT other_JJ varieties_NNS ,_, is_VBZ its_PRP$ great_JJ cheapness_NN ,_, which_WDT is_VBZ speaking_VBG comparatively_RB ,_, dust_NN cheap_NN when_WRB prepared_VBN on_IN a_DT large_JJ scale_NN ._.
+The_DT bark_NN of_IN A._NNP Arabica_NNP is_VBZ very_RB fibrous_JJ ,_, hard_JJ ,_, rough_JJ ,_, deep_JJ brown_NN externally_RB ,_, rusty_NN or_CC reddish_VB brown_VBN internally_RB ,_, and_CC astringent_NN in_IN taste_NN ._.
+It_PRP contains_VBZ about_IN 20_CD per_IN cent_NN ._.
+of_IN tannin_NN ._.
+The_DT fresh_JJ legumes_NNS are_VBP long_RB ,_, slightly_RB tomentose_JJ ,_, ash-colored_JJ ,_, and_CC ._.
+possess_NN a_DT very_RB peculiar_JJ and_CC characteristic_JJ appearance_NN ,_, viz._NN ,_, moniliform_NN or_CC contracted_VBN on_IN both_DT sutures_NNS between_IN the_DT seeds_NNS ,_, so_RB as_IN to_TO resemble_VB a_DT string_NN of_IN compressed_JJ beads_NNS ._.
+The_DT dry_JJ pods_NNS have_VBP the_DT same_JJ appearance_NN ,_, but_CC are_VBP dry_JJ ,_, more_RBR or_CC less_RBR curved_VBN ,_, and_CC brown_RB ,_, dusky_JJ brown_NN or_CC ash-colored_JJ ._.
+*_JJ Acacia_NNP Catechu_NNP ,_, Willd_NNP ._.
+220_CD and_CC 221_CD ._.
+Habitat.Of_NNP MADRAS_NNP ._.
+137_CD Synonyms.138_NNP MATERIA_NNP MEDICA_NNP OF_NNP MADRAS_NNP ._.
+Nutmeg_NNP ,_, in_IN powder_NN ,_, of_IN each_DT ,_, one_CD ounce_NN ._.
+Mix_NNP them_PRP thoroughly_RB ,_, pass_VBP the_DT powder_NN through_IN a_DT fine_JJ sieve_NN ,_, and_CC finally_RB rub_VB it_PRP lightly_RB in_IN a_DT mortar_NN ._.
+Keep_VB it_PRP in_IN a_DT stoppered_JJ bottle_NN ._.
+Tincture_NN :_: Take_NN of_IN Black-catechu_NNP ,_, in_IN coarse_JJ powder_NN ,_, two_CD ounces_NNS and_CC a_DT half_NN ;_: Cinnamon-bark_NNP bruised_VBD ,_, one_CD ounce_NN ;_: Proof-spirit_NNP ,_, one_CD pint_NN ._.
+Macerate_NNP for_IN seven_CD days_NNS in_IN a_DT closed_JJ vessel_NN with_IN occasional_JJ agitation_NN ;_: press_NN ,_, strain_NN ,_, filter_NN and_CC add_VB sufficient_JJ proof_NN spirit_NN to_TO make_VB one_CD pint_NN ._.
+Infusion_NN :_: Take_NN of_IN Black-catechu_NNP ,_, in_IN coarse_JJ powder_NN ,_, one_CD hundred_CD and_CC sixty_JJ grains_NNS ;_: Cinnamon-bark_NNP ,_, bruised_VBD ,_, thirty_NN grains_NNS ;_: Boiling-water_NNP ,_, ten_JJ fluid_NN ounces_NNS ._.
+Infuse_NNP in_IN a_DT covered_JJ vessel_NN for_IN half_PDT an_DT hour_NN ,_, and_CC strain_NN ._.
+Doses.INDEXES_NNP ._.
+INDEX_NN OF_NNP BOTANICAL_NNP AND_NNP SCIENTIFIC_NNP NAMES_NNP ._.
+Abelmoschus_NNP esculentus_NN ,_, 55_CD ._.
+140_CD INDEX_NNP ._.
+Cucurbita_NNP Citrullus_NNP ,_, 40_CD ._.
+INDEX_NN ._.
+141_CD Pulvis_NNP cretæ_NN aromaticus_NN ,_, 121_CD ._.
+142_CD INDEX_NNP ._.
+Betel-nut_NNP ,_, 62_CD ._.
+Bilimbi-fruit_NNP ,_, 76_CD ._.
+Black-dammar_NNP ,_, 51_CD ,_, 95_CD ,_, 96_CD ._.
+Black-mustard_NNP ,_, 25_CD ._.
+Black-oil_NNP ,_, 106_CD ._.
+Black_NNP poppy_JJ seeds_NNS ,_, 19_CD ._.
+Black_NNP tea_NN ,_, 48_CD ._.
+Bombay_NNP mastich_NN ,_, 116_CD ._.
+Botany_NNP bay_NN kino_NN ,_, 116_CD ._.
+Broom_NNP ,_, 107_CD ._.
+INDEX_NN ._.
+143_CD Lime_NNP peel_NN ,_, 81_CD ._.
+Linseed_NNP ,_, 72_CD ._.
+144_CD INDEX_NNP ._.
+INDEX_NN OF_JJ GERMAN_NNP SYNONYMS_NNP ._.
+Bamwolle_NNP ,_, 52_CD ._.
+Bdellium_NNP ,_, 94_CD ._.
+Berberitze_NNP ,_, 13_CD ,_, 14_CD ._.
+Cacao_NNP butter_NN ,_, 69_CD ._.
+INDEX_NN ._.
+145_CD Dákh_NNP ,_, 109_CD ._.
+Dámar_NNP ,_, 50_CD ._.
+Dárhald_NNP ,_, 11_CD ,_, 13_CD ,_, 14_CD ,_, 15_CD ._.
+Dhúná_NNP ,_, 50_CD ._.
+Gandah-barózáh_NNP ,_, 97_CD ._.
+Gardahe-samáq_NNP ,_, 119_CD ._.
+Garjan-ká146_NNP INDEX_NNP ._.
+Nímb-kí-chhál_NNP ,_, 100_CD ._.
+Nimb-kí-jar_NNP ,_, 100_CD ._.
+Paivándi-ánb_NNP ,_, 120_CD ._.
+Páras-pípal-ká-phal_NNP ,_, 58_CD ._.
+Páras-pípál-kí-chhál_NNP ,_, 58_CD ._.
+Pitpápara_NNP ,_, 24_CD ._.
+Ragat-sémal-ké-bínj_NNP ,_, 60_CD ._.
+Ragat-sémal-kí-chhál_NNP ,_, 61_CD ._.
+Ragat-senbal-ké-bínj_NNP ,_, 60_CD ._.
+Ragat-sénbal-ké-pindé_NNP ,_, 60_CD ._.
+Ragat-sénbal-kí-ruí_NNP ,_, 61_CD ._.
+Ráí_NNP ,_, 25_CD ._.
+Rál_NNP ,_, 50_CD ._.
+Rám-turáí_NNP ,_, 55_CD ._.
+Rám-turí_NNP ,_, 55_CD ._.
+Rasvat_NNP ,_, 14_CD ,_, 15_CD ._.
+Ríthá_NNP ,_, 112_CD ._.
+Rithé-ké-bínj-ká-maghz_NNP ,_, 112_CD ._.
+Rúí_NNP ,_, 52_CD ._.
+Rúmí-mastakí_NNP ,_, 114_CD ,_, 116_CD ._.
+Rúmí-sadáb_NNP ,_, 77_CD ._.
+Sadabh-ká-pát_NNP ,_, 77_CD ._.
+San_NNP ,_, 9_CD ._.
+Sarsón_NNP ,_, 25_CD ._.
+Sarsón-ká-tél_NNP ,_, 10_CD ,_, 11_CD ._.
+Sch-pattí_NNP ,_, 75_CD ._.
+Sél-gónd_NNP ,_, 96_CD ._.
+Shíál-kántí-ká-tél_NNP ,_, 22_CD ._.
+Shiál-kántí-ké-bínj_NNP ,_, ,_, 22_CD ._.
+Shíál-kánté-kí-jar_NNP ,_, 22_CD ._.
+Singapúr-kí-chá_NNP ,_, 48_CD ._.
+Singyá-bis_NNP ,_, 3_CD ._.
+Sítal-chíní_NNP ,_, 47_CD ._.
+Suféd-bachnág_NNP ,_, 2_CD ,_, 3_CD ,_, 4_CD ._.
+Suféd-dámar_NNP ,_, 51_CD ._.
+Suféd-garjan-ká-tél_NNP ,_, 49_CD ._.
+Suféd-kanval-ké-bínj_NNP ,_, 18_CD ._.
+Suféd-kanval-ké-phúl_NNP ,_, 18_CD ._.
+Suféd-kanval-kí-jar_NNP ,_, 18_CD ._.
+Suféd-lakri-ká-tél_NNP ,_, 49_CD ._.
+Suféd-múslí_NNP ,_, 64_CD ._.
+Suféd-nílúfar-ké-bínj_NNP ,_, 18_CD ._.
+Suféd-nílúfar-ké-phul_NNP ,_, 18_CD ._.
+Suféd-nílúfar-kí-jar_NNP ,_, 18_CD ._.
+Suféd-paphúl_NNP ,_, 17_CD ._.
+Suféd-paphúl-ké-bínj_NNP ,_, 17_CD ._.
+Suféd-paphúl-kí-jar_NNP ,_, 17_CD ._.
+Suféd-rái_NNP ,_, 24_CD ._.
+Suféd-ráyán_NNP ,_, 24_CD ._.
+Suféd-sémal-ké-bínj_NNP ,_, 66_CD ._.
+Suféd-sémal-ké-pindé_NNP ,_, 66_CD ._.
+Suféd-sémal-kí-rúí_NNP ,_, 66_CD ._.
+Suféd-sénbal-ké-bínj_NNP ,_, 66_CD ._.
+Suféd-sénbal-ké-pindé_NNP ,_, 66_CD ._.
+Suféd-sénbal-kí-rúí_NNP ,_, 66_CD ._.
+Surpan-ká-tél_NNP ,_, 46_CD ._.
+Surpan-ké-bínj_NNP ,_, 46_CD ._.
+Tísí_NNP ,_, 72_CD ._.
+Tísí-ká-tél_NNP ,_, 72_CD ._.
+Tólá-ké-pirdé_NNP ,_, 66_CD ._.
+Tólá-kí-ruí_NNP ,_, 66_CD ._.
+Turanj-ká-ras_NNP ,_, 81_CD ._.
+Turanj-ké-chhilté_NNP ,_, 81_CD ._.
+Viláyati_NNP ,_, 5_CD ._.
+INDEX_NN OF_NNP DUKHNI_NNP SYNONYMS_NNP ._.
+Afím_NNP ,_, 18_CD ._.
+Alfan_NNP ,_, 120_CD ._.
+Alsí-ká-tel_NNP ,_, 72_CD ._.
+Alsí-ké-bínj_NNP ,_, 72_CD ._.
+Ám_NN ,_, 120_CD ._.
+Ám-ká-gónd_NN ,_, 120_CD ._.
+Ám-kí-gutlí-ká-maghz_NN ,_, 120_CD ._.
+Anbótí-kí-bhájí_NNP ,_, 75_CD ._.
+Angúr_NNP ,_, 109_CD ._.
+Ausárahe-révan_NNP ,_, 43_CD ._.
+Bach-nág_NNP ,_, 1_CD ,_, 3_CD ,_, 4_CD ._.
+Balsán_NNP ,_, 96_CD ._.
+Balsán-ká-tél_NNP ,_, 96_CD ._.
+Banafshah_NNP ,_, 33_CD ._.
+Bandoq-ké-jhar-kí-chhál_NNP ,_, 71_CD ._.
+Banóláh_NNP ,_, 52_CD ._.
+Bare-qisam-ká-bél-phal_NNP ,_, 84_CD ._.
+Bare-qisam-ké-bélphal_JJ ká-maghz_NN ,_, 87_CD ._.
+Bare-ráyán_NNP ,_, 25_CD ._.
+Barí-máyí_NNP ,_, 42_CD ._.
+Barmé-kí-patté_NNP ,_, 30_CD Bramé-kí-chhál_NNP ,_, 30_CD ._.
+Barmé-kí-jar-kí-chhál_NNP ,_, 30_CD ._.
+Bédánah_NNP ._.
+110_CD ._.
+Belambú_NNP ,_, 75_CD ._.
+Bér_NNP ,_, 108_CD ._.
+Bésharam-ké-jhar-ká-gónd_NNP ,_, 129_CD ._.
+Bésharam-ké-jhar-kí-chhál_NNP ,_, 129_CD ._.
+Bhagátí-kí-jar_NNP ,_, 33_CD ._.
+Bharam-dandí-ká-tél_NNP ,_, 22_CD ._.
+Bharam-dandí-ké-bínj_NNP ,_, 22_CD ._.
+Bharam-dandí-kí-jar_NNP ,_, 22_CD ._.
+Bhatátí-kí-jar_NNP ,_, 33_CD Bhéndí_NNP ,_, 55_CD ._.
+Bhiláván_NNP ,_, 124_CD ._.
+Bhiláván-ká-tél_NNP ,_, 124_CD ._.
+Bhuin-kavít-ké-patté_NNP ,_, 84_CD ._.
+Bibla_NNP ,_, 124_CD ._.
+Bilimbi_NNP ,_, 76_CD ._.
+Bó1_NNP ,_, 95_CD ._.
+Chá_NNP ,_, 48_CD ._.
+Chá-ká-pattá_NNP ,_, 48_CD ._.
+Champé-ké-phúl_NNP ,_, 8_CD ._.
+Champé-kí-chhál_NNP ._.
+8_CD ._.
+Chanoul_NNP -mógré-ká-tél_NNP ,_, 36_CD ._.
+Chanoul-mógré-ké-bínj_NNP ,_, 36_CD ._.
+Chár-kí-chárólí_NNP ,_, 128_CD ._.
+Cháróli-ká-tél_NNP ,_, 128_CD ._.
+Chhórí-ajván_NNP ,_, 31_CD ._.
+Chhoté-qisam-ká-bélphal_NNP ,_, 84_CD ._.
+INDEX_NN ._.
+147_CD ._.
+Chhóté-qisam-ká-belphal-kámaghz_NNP ,_, 84_CD ._.
+Chhóté-dángrí-ká-pattá_NNP ,_, 12_CD ._.
+Chhóté-máí_NNP ,_, 43_CD ._.
+Chírónjí-ká-tél_NNP ,_, 128_CD ._.
+Chounláyí-kí-bhájí_NNP ,_, 41_CD ._.
+Farangí-and_NNP ,_, 97_CD ._.
+Gandah-férózah_NNP ,_, 97_CD ._.
+Gardahe-samáq_NNP ,_, 119_CD ._.
+Gardahe-sumáq_NNP ,_, 119_CD ._.
+Ghan-phór-ká-pattá_NNP ,_, 112_CD ._.
+Ghókrú_NNP ,_, 74_CD ._.
+Ghókrú-ká-pattá_NNP ,_, 74_CD ._.
+Ghól-kí-bhájí_NNP ,_, 41_CD ._.
+Górak-amlí-ká-phal_NNP ,_, 66_CD ._.
+Górí-ním-kí-bínj_NNP ,_, 99_CD ._.
+Górí-ním-ké-jar-kí-chhál_NNP ,_, 99_CD ._.
+Gótáganbá_NNP ,_, 43_CD ._.
+Goulí-ním-ké-bínj_NNP ,_, 99_CD ._.
+Gouli-ním-kí-jar-kí-chhál_NNP ,_, 99_CD ._.
+Gudhél_NNP ,_, 54_CD ._.
+Gugal_NNP ._.
+94_CD ._.
+Gul-bél_NNP ,_, 9_CD ,_, 10_CD ._.
+Gul-bél-ká-sat_NNP ,_, 10_CD ._.
+Gul-bél-kí-jar_NNP ,_, 9_CD ._.
+Gule-kháíró-ké-bínj_NNP ,_, 59_CD ._.
+Gule-khaíro-ké-pattón-ké-dandíyán_NNP ,_, 58_CD ._.
+Gule-khaíró-kí-jar_JJ 59_CD ._.
+Gule-khaíró-kípér_NNP ,_, 60_CD ._.
+Gule-pistáh_NNP ,_, 116_CD ._.
+Halím_NNP ,_, 26_CD ._.
+Hatí-khatyán-ká-phal_NNP ,_, 66_CD ._.
+Hati-khalyan-kí-Chhál_NNP ,_, 67_CD ._.
+Higan_NNP ,_, 93_CD ._.
+Higan-ká-maghz_NNP ,_, 93_CD ._.
+Hulhul-ké-bínj_NNP ,_, 28_CD ._.
+Hulhul-kepatté_NNP ,_, 28_CD ._.
+Hulhul-kí-jar_NNP ,_, 28_CD ._.
+Isbadí_NNP ,_, 56_CD ._.
+Isbadi-kí-jar_NNP ,_, 56_CD ._.
+Isarbadí_NNP ,_, 56_CD ._.
+Isrí_NNP ,_, 57_CD ._.
+Jamti-ká-pattá_NNP ,_, 12_CD ._.
+Janglí-ám_NNP ,_, 130_CD ._.
+Janglí-ám-ká-gónd_NNP ,_, 130_CD ._.
+Janglí-bádám_NNP ,_, 37_CD ._.
+Janglí-bádám-ká-tél_NNP ,_, 37_CD ._.
+Janglí-hulhul-ké-bínj_NNP ,_, 31_CD ._.
+Janglí-hulhul-ké-patté_NNP ,_, 31_CD ._.
+Janglí-kálí-mirchí-kí-jar-kí-chhál_NNP ,_, 78_CD ._.
+Janglí-lóng-ká-pattá_NNP ,_, 71_CD ._.
+Janglí-methí_NNP ,_, 58_CD ._.
+Jásút_NNP ,_, 54_CD ._.
+Jásút-ké-phúl_NNP ,_, 54_CD ._.
+Jhár-kí-haldí_NNP ,_, 11_CD ._.
+Kájú-ká-gónd_NNP ,_, 123_CD ._.
+Kájú-ká-tél_NNP ,_, 123_CD ._.
+Kájú-kí-gutlí_NNP ,_, 124_CD ._.
+Kákad-singí_NNP ,_, 118_CD ._.
+Kákár-singí_NNP ,_, 118_CD ._.
+Kákmárí-ké-bínj_NNP ,_, 9_CD ._.
+Kálá_NNP bachnág_NN ,_, 2_CD ,_, 3_CD ._.
+Kálá-dámar_NNP ,_, 51_CD ,_, 95_CD ._.
+Kála-zírá_NNP ,_, 5_CD ._.
+Kálí-khashkhash_NNP ,_, 19_CD ._.
+Ká1í-ráí_NNP ,_, 25_CD ._.
+Kálí-ráyán_NNP ,_, 25_CD ._.
+Káh-vajje-turki_NNP ,_, 5_CD ._.
+Kangóí-ká-pattá_NNP ,_, 67_CD ._.
+Kangói-ké-bínj_NNP ,_, 67_CD ._.
+Kapás-ké-koplíyán_NNP ,_, 52_CD ._.
+Kapás-ké-pindé_NNP ,_, 52_CD ._.
+Karépák_NNP ,_, 80_CD ._.
+Karyá-pát_NNP ,_, 80_CD ._.
+Karyá-pát_NNP ,_, 80_CD ._.
+Kateré-ké-jhar-kí-rúí_NNP ,_, 38_CD ._.
+Kavít_NNP ,_, 82_CD ._.
+Kavít-ká-gónd_NNP ,_, 82_CD ._.
+Kavít-ké-patté_NNP ,_, 82_CD ._.
+Khamraq_NNP ,_, 75_CD ._.
+Khash-khash_NNP ,_, 19_CD ._.
+Khash-khash-ká-tél_NNP ,_, 19_CD ._.
+Khash-khash-ké-bondé_NNP ,_, 19_CD ._.
+Khatyán-ké-bínj_NNP ,_, 66_CD ._.
+Khatyán-ké-pindé_NNP ,_, 66_CD ._.
+Khatyán-kí-rúí_NNP ,_, 66_CD ._.
+Khulfé-kí-bínj_NNP ,_, 40_CD ._.
+Khulfé-kí-bhájí_NNP ,_, 40_CD ._.
+Kishmish_NNP ,_, 110_CD ._.
+Kóká-ká-tél_NNP ,_, 69_CD ._.
+Kóká-ké-bínj_NNP ,_, 68_CD ._.
+Kudhal_NNP ,_, 54_CD ._.
+Kundur_NNP ,_, 96_CD ,_, 97_CD ,_, 98_CD ,_, 99_CD ,_, 116_CD ,_, 118_CD ._.
+Ládan_NNP ,_, 87_CD ,_, 88_CD ._.
+Lakrí-ká-tél_NNP ,_, 48_CD ._.
+Lál-ambaré-ké-bínj_NNP ,_, 54_CD ._.
+Lál-bachnág_NNP ,_, 2_CD ,_, 3_CD ._.
+Lál-Chhóté-kanval-ké_JJ bínj_NN ,_, 16_CD ._.
+Lál-Chhóté-kanval-kí-phúl_NNP ._.
+15_CD ._.
+Lál-Chhóté-kanval-kí-jar_NNP ,_, 16_CD ._.
+Lál-Chhóté-nílúfar-ké-binj_NNP ,_, 16_CD ._.
+Lál-Chhóté-nílúfar-ké-phúl_NNP ,_, 15_CD ._.
+Lál-Chhóté-nílúfar-kí-jar_NNP ,_, 16_CD ._.
+Lál-kanval-ké-binj_NNP ,_, 17_CD ._.
+Lál-kanval-ké-phúl_NNP ,_, 17_CD ._.
+Lál-kanval-kí-jar_NNP ,_, 17_CD ._.
+Lál-nílúfar-ké-bínj_NNP ,_, 17_CD ._.
+Lál-nílúfar-ké-phúl_NNP ,_, 17_CD ._.
+Lál-nílúfar-ké-jar_NNP ,_, 17_CD ._.
+Lál-khatyan-ké-bínj_NNP ,_, 60_CD ._.
+Lál-khatyán-ká-pindé_NNP ,_, 61_CD ._.
+Lál-khatyán-kí-chhál_NNP ,_, 61_CD ._.
+Lál-khatyán-kí-rúí_NNP ,_, 61_CD ._.
+Lambí-vajje-turkí_NNP ,_, 5_CD ._.
+Límú-ká-jouher_NNP ,_, 81_CD ._.
+Límu-ká-turshabáh_NNP ,_, 81_CD ._.
+Maddí-chakká_NNP ,_, 92_CD ._.
+Málkangní-ká-jantr_NNP ,_, 106_CD ._.
+Málkangní-ká-tel_NNP ,_, 106_CD ._.
+Málkangni-ké-bínj_NNP ,_, 106_CD ._.
+Marórí-kí-phallí_NNP ,_, 70_CD ._.
+Maryam-kí-phal_NNP ,_, 130_CD ._.
+Maryam-ké-jhar-_NNP gónd_NN ,_, 130_CD ._.
+Mastakí_NNP ,_, 116_CD ._.
+Mócharus_NNP ,_, 60_CD ._.
+Monaqqá_NNP ,_, 110_CD ._.
+Múlí-ké-binj_NNP ,_, 27_CD ._.
+Mullí_NNP ,_, 27_CD ._.
+148_CD INDEX_NNP Mushk-bhéndí-ké-bínj_NNP ,_, 53_CD ._.
+Mushk-dánah_NNP ,_, 53_CD ._.
+Múyí-gónd_NNP ,_, 129_CD ._.
+Mysúrí-ghótá-ghanbá_NNP ,_, 44_CD ._.
+Nagésar-ké-phúl_NNP ,_, 47_CD ._.
+Nahní-máyí_NNP ,_, 43_CD ._.
+Nailér_NNP ,_, 111_CD ._.
+Nát-ká-dévdár_NNP ,_, 73_CD ._.
+Nát-ká-gónd_NNP ,_, 38_CD ._.
+Nát-ká-katérá_NNP ,_, 38_CD ._.
+Nárangí-ké-chhilté_NNP ,_, 80_CD ._.
+Náríngí-ké-phúl_NNP ,_, 80_CD ._.
+Nímbú-ká-ras_NNP ,_, 81_CD ._.
+Nimbú-ké-chhilté_NNP ,_, 81_CD ._.
+Ním-ká-gónd_NNP ,_, 101_CD ._.
+Ním-ká-níá_NNP ,_, 101_CD ._.
+Ním-ká-tél_NNP ,_, 101_CD ._.
+Ním-ké-gutlíyán_NNP ,_, 101_CD ._.
+Ním-ká-nimbóliyàn_NNP ,_, 100_CD ._.
+Ním-ké-patté_NNP ,_, 100_CD ._.
+Ním-ké-phúl_NNP ,_, 100_CD ._.
+Ním-ké-jar-kí-chhál_NNP ,_, 100_CD ._.
+Ním-kí-chhál_NNP ,_, 100_CD ._.
+Paivandí-ám_NNP ,_, 120_CD ._.
+Páras-pippal-ká-phal_NNP ,_, 58_CD ._.
+Páras-pippal-kí-chhál_NNP ,_, 58_CD ._.
+Pí1é-dhatúrai-ká.-tél_NNP ,_, 22_CD ._.
+Pí1é-dhaturaí-ké-bínj_NNP ,_, 19_CD ,_, 22_CD ._.
+Pílé-dhaturaí-kí-jar_NNP ,_, 22_CD ._.
+Pí1é-kapás-kí-rúé_NNP ,_, 38_CD ._.
+Piyál-chárólé_NNP ,_, 128_CD ._.
+Piyár-chárólí_NNP ,_, 128_CD ._.
+Rál_NNP ,_, 50_CD ._.
+Ratan-purus_NNP ,_, 35_CD ._.
+Ráyán_NNP ,_, 25_CD ._.
+Ríthá,112_NNP ._.
+Rithé-ké-bínj-ká-maghz_NNP ,_, 112_CD ._.
+Rúí_NNP ,_, 52_CD ._.
+Rúmí-mastakí_NNP ,_, 114_CD ,_, 116_CD ._.
+Sadáf_NNP ,_, 77_CD ._.
+Sadaf-ká-pattá_NNP ,_, 77_CD ._.
+Ságván-ká-tél_NNP ,_, 49_CD ._.
+Shál-ké-pandú-ké-bínj_NNP ,_, 39_CD ._.
+Shá1-ké-pandù-ké-jar-ké-chhál_NNP ,_, 69_CD ._.
+Shátrá_NNP ,_, 24_CD ._.
+Shimptí-ká-gónd_NNP ,_, 129_CD ._.
+Suféd-Chhóté-kanval-ké-bínj_NNP ,_, 17_CD ._.
+Suféd-Chhóté-kanval-ké-phúl_NNP ,_, 17_CD ._.
+Suféd-Chhóté-kanval-kí-jar_NNP ,_, 17_CD ._.
+Suféd-Chhóté-nílúfar-ké-bínj_NNP ,_, 17_CD ._.
+Suféd-Chhóté-nílúfar-ké-plú1_NNP ,_, 17_CD ._.
+Suféd-Chhóté-nílúfar-kí-jar_NNP ,_, 17_CD ._.
+Suféd-dámar_NNP ,_, 51_CD ._.
+Suféd-kanval-ké-bínj_NNP ,_, 18_CD ._.
+Suféd-kanval-ké-phúl_NNP ,_, 18_CD ._.
+Suféd-kanval-kí-jar_NNP ,_, 18_CD ._.
+Suféd-khatyán-ké-binj_NNP ,_, 66_CD ._.
+Suféd-khatyán-ké-pindé_NNP ,_, 66_CD ._.
+Suféd-khatyán-kí-rúí_NNP ,_, 66_CD ._.
+Suféd-nílúfar-ké-binj_NNP ,_, 18_CD ._.
+Suféd-nílúfar-ké-phúl_NNP ,_, 18_CD ._.
+Suféd-nílúfar-kí-jár_NNP ,_, 18_CD ._.
+Suféd-ráí_NNP ,_, 24_CD ._.
+Suféd-ráyán_NNP ,_, 24_CD ._.
+Surfan-ká-tél_NNP ,_, 46_CD ._.
+Surfan-ké-bínj_NNP ,_, 46_CD ._.
+Súrí-chakká_NNP ,_, 108_CD ._.
+Turanj-ká_JJ ras_NNS ,_, 81_CD ._.
+Turanj-ké-chhilté_NNP ,_, 81_CD ._.
+Vajje-turkí_NNP ,_, 5_CD ._.
+Víláyatí-isband_NNP ,_, 87_CD ._.
+Víláyati-mhéndí-ké-binj_NNP ,_, 87_CD ._.
+Víláyatí-vajje-turkí_NNP ,_, 4_CD ._.
+Yék-qisam-ká-bachlá_NN ,_, 109_CD ._.
+INDEX_NN OF_NNP TAMIL_NNP SYNONYMS_NNP ._.
+Abin_NNP ,_, 18_CD ._.
+Adanda-vér_NNP ,_, 33_CD ._.
+Alashi-virai-ennay_NNP ,_, 72_CD ._.
+Alishi-virai_NNP ,_, 72_CD ._.
+Álivirai_NN ,_, 26_CD ._.
+Ánai-puli_JJ ,_, 67_CD ._.
+Anai-puli-pattai_NNP ,_, 67_CD ._.
+Annashuppu_NNP ,_, 7_CD ._.
+Arruá-manu-púndu_NNP ,_, 57_CD ._.
+Arvadá_NNP ,_, 77_CD ._.
+Arvadá-ilai_NNP ,_, 77_CD ._.
+Ati-pari-cham_NNP ,_, 106_CD ._.
+Aunaikiri-pishin_NNP ,_, 129_CD ._.
+Bilimbi-kaya_NNP ,_, 76_CD ._.
+Brimadandu-enney_NNP ,_, 22_CD ._.
+Brimadandu-vér_NNP ,_, 22_CD ._.
+Brimadandu-virai_NNP ,_, 22_CD ._.
+Chappáttu-pú_NNP ,_, 54_CD ._.
+Diraksha-param_NNP ._.
+109_CD ._.
+Diraksha-pazham_NNP ,_, 109_CD ._.
+Elanda-param_NNP ,_, 108_CD ._.
+Elandap-pazham_NNP ,_, 108_CD ._.
+Elumich-cham-param-ras-am_NNP ,_, 81_CD ._.
+Elumich-cham-param-tól_NNP ,_, 81_CD ._.
+Elumich-cham-pazham-ras-am_NNP ,_, 81_CD ._.
+Elumich-cham-pazham-tól_NNP ,_, 81_CD ._.
+Gashagasha_NNP ,_, 19_CD ._.
+Gashagasha-enney_NNP ,_, 19_CD ._.
+Gashagasha-tó1_NNP ,_, 19_CD ._.
+Gukkal_NNP ,_, 94_CD ._.
+Gukkulu_NNP ,_, 94_CD ._.
+Ilavam-parutti_NNP ,_, 66_CD ._.
+Ilavam-pinji_NNP ,_, 66_CD ._.
+Ilavam-virai_NNP ._.
+66_CD ._.
+Isvari-ver_NNP ,_, 57_CD ._.
+INDEX_$ 149_CD Jáfra-virai_NNP ,_, 39_CD ._.
+Jáfra-virai-ver-pattai_NNP ,_, 39_CD ._.
+Kadugu_NNP ,_, 25_CD ._.
+Kákkata-shingi_NNP ,_, 118_CD ._.
+Kákkáy-kolli-virai_NNP ,_, 9_CD ._.
+Karká-taka-shiugi_NNP ,_, 118_CD ._.
+Karuppu-dámar_NNP ,_, 53_CD ,_, 95_CD ._.
+Karuppu-gashagasha_NNP ,_, 19_CD ._.
+Karuppu-kadugu_NNP ,_, 25_CD ._.
+Karun-shiragam_NNP ,_, 5_CD ._.
+Karu-vémbu_NNP ,_, 80_CD ._.
+Karu-véppilai_NNP ,_, 80_CD ._.
+Kastúri-vendaik-káy-virai_NNP ,_, 55_CD ._.
+Kátmánga-parpu-enney_NNP ,_, 128_CD ._.
+Kátmá-payam-enney_NNP ,_, 128_CD ._.
+Kátmá-payam-parpu_NNP ,_, 128_CD ._.
+Kátmá-pazham-parpu_NNP ,_, 128_CD ._.
+Káttu-kadugu_NNP ,_, 31_CD ._.
+Káttuk-kastúri-virai_NNP ,_, 55_CD ._.
+Kattuk-kodi-elai_NNP ,_, 12_CD ._.
+Káttu-manga_NNP ,_, 130_CD ._.
+Kich-chilip-param-pú_NNP ,_, 80_CD ._.
+Kich-chilip-param-tól_NNP ,_, 80_CD ._.
+Kich-chilip-pazham-pu_NNP ,_, 80_CD ._.
+Kich-chilip-pazham-tól_NNP ,_, 80_CD ._.
+Koch-chit-tamarta-káya_NNP ,_, 76_CD ._.
+Kodi-mundrip-pazham_NNP ,_, 109_CD ._.
+Kókó-enney_NNP ,_, 69_CD ._.
+Kókó-virai_NNP ,_, 69_CD ._.
+Kottai-mundiri_NNP ,_, 123_CD ._.
+Kuddurai-pudduku-káy-enney_NNP ,_, 70_CD ._.
+Kuddurai-pudduku-káy-virai_NNP ,_, 70_CD ._.
+Kundurakam-pishin_NNP ,_, 97_CD ._.
+Kungiliyam_NNP ,_, 50_CD ._.
+Kurangu-munjil-virai_NNP ,_, 39_CD ._.
+Kurangu-munjil-virai_NNP vér-pattai_NN ,_, 39_CD ._.
+Kurindai_NNP ,_, 73_CD ._.
+Kutti-vilám-ilai_NNP ,_, 84_CD ._.
+Ládan_NNP ,_, 88_CD ._.
+Maddi-pál_NNP ,_, 88_CD ._.
+Maddi-pál-pattai_NNP ,_, 88_CD ._.
+Maisháchi_NNP ,_, 93_CD ._.
+Maishákshi_NNP ,_, 93_CD ._.
+Malai-vémbu-vér-pattai_NNP ,_, 99_CD ._.
+Malai-vémbu-virai_NNP ,_, 99_CD ._.
+Malai-véppam-vér-pattai_NNP ,_, 99_CD ._.
+Malai-véppam-virai_NNP ,_, 99_CD ._.
+Malai-tángi_NNP ,_, 57_CD ._.
+Mángá-param_NNP ,_, 120_CD ._.
+Mángá-pazham_NNP ,_, 120_CD ._.
+Mángá-pishin_NNP ,_, 120_CD ._.
+Mara-enney_NNP ,_, 48_CD ._.
+Mara-manjal_NNP ,_, 11_CD ._.
+Maratti-moggu_NNP ,_, 61_CD ,_, 62_CD ,_, 63_CD ,_, 64_CD ,_, 65_CD ._.
+Mari-manga_NNP ,_, 130_CD ._.
+Mari-manga-pishin_NNP ,_, 130_CD ._.
+Marya-manga_NNP ,_, 130_CD ._.
+Matti-pal_NNP ,_, 88_CD ._.
+Mávalingam-ilai_JJ 29_CD ._.
+Mávalingam-pattai_NNP ,_, 29_CD ._.
+Mávalingam-vér-pattai_NNP ,_, 29_CD ._.
+Mayir-manikkam_NNP ,_, 58_CD ._.
+Milakarnai-vér-pattai_NNP ,_, 78_CD ._.
+Mul-ilava-pattai_NNP ,_, 61_CD ._.
+Mul-ilava-parutti_NNP ,_, 54_CD ._.
+Mul-ilava-virai_NNP ,_, 54_CD ._.
+Mullangi_NNP ,_, 28_CD ._.
+Mullangi-virai_NNP ,_, 28_CD ._.
+Mudak-kattán-ilai_NNP ,_, 112_CD ._.
+Mundiri-enney_NNP ,_, 123_CD ._.
+Mundiri-kottai_NNP ,_, 123_CD ._.
+Mundiri-pazham_NNP ,_, 123_CD ._.
+Mundiri-pishin_NNP ,_, 123_CD ._.
+Nágap-pú_NNP ,_, 47_CD ._.
+Nágasháp-pú_NNP ,_, 47_CD ._.
+Nágésar-pú_NNP ,_, 47_CD ._.
+Nalla-rojan_NNP ,_, 96_CD ._.
+Nanjundán-pazham_NNP ,_, 94_CD ._.
+Nanjundan-sade_NNP ,_, 94_CD ._.
+Narttam-param-rasam_NNP ,_, 81_CD ._.
+Narttam-param-tol_NNP ,_, 81_CD ._.
+Narttam-pazham-rasam_NNP ,_, 81_CD ._.
+Narttam-pazliam-tól_NNP ,_, 81_CD ._.
+Náy-velái-ilai_NNP ,_, 31_CD ._.
+Náy-velái-virai_NNP ,_, 31_CD ._.
+Nerunji_NNP ,_, 74_CD ._.
+Nerunji-ilai_NNP ,_, 74_CD ._.
+Nerunji-mullu_NNP ,_, 74_CD ._.
+Nila-vilám_JJ ilai_NN ,_, 84_CD ._.
+Níradi-muttu-enney_NNP ,_, 37_CD ._.
+Níradi-muttu_NNP ,_, 37_CD ._.
+Odiya-pattai_NNP ,_, 129_CD ._.
+Odiy-maram-pattai_NNP ,_, 129_CD ._.
+Orilaittámarai_NNP ,_, 35_CD ._.
+Paini-pishin_NNP ,_, 51_CD ._.
+Papparap-puli_NNP ,_, 67_CD ._.
+Papparap-puli-pattai_NNP ,_, 67_CD ._.
+Pappili-chakkai_NNP ,_, 108_CD ._.
+Parangi-Shambirani_NNP ,_, 96_CD ._.
+Parpu-kíre_NNP ,_, 40_CD ._.
+Parpu-kíre-virai_NNP ,_, 40_CD ._.
+Parutti_NNP ,_, 52_CD ._.
+Parutti-pinji_NNP ,_, 52_CD ._.
+Parutti-virai_NNP ,_, 52_CD ._.
+Pasarai-kírai_NNP ,_, 52_CD ._.
+Perandai_NNP ,_, 111_CD ._.
+Perattai-kírai_NNP ,_, 71_CD ._.
+Periya-vilva-param_NNP ,_, 87_CD ._.
+Periya-vilva-pazham_NNP ,_, 87_CD ._.
+Periya-vilva-pazham-sadai_NNP ,_, 87_CD ._.
+Peru-maram-vér-pattai_NNP ,_, 91_CD ._.
+Peru-maratup-pattai_NNP ,_, 91_CD ._.
+Peru-vilva-param-sadai_NNP ,_, 87_CD ._.
+Pínári-enney_NNP ,_, 70_CD ._.
+Pínári-káy-enney_NNP ,_, 70_CD ._.
+Pínár-káy-virai_NNP ,_, 70_CD ._.
+Pínári-virai_NNP ,_, 70_CD ._.
+Ponnán-kottai_NNP ,_, 110_CD ._.
+Póstaka-tól_NNP ,_, 19_CD ._.
+Pulich-chakkay_NNP ,_, 76_CD ._.
+Puli-perandai_NNP ,_, 109_CD ._.
+Puliyárai_NNP ,_, 75_CD ._.
+Puliyárai-kirai_NNP ,_, 75_CD ._.
+Punnai-kottai_NNP ,_, 46_CD ._.
+Punnai-enney_NNP ,_, 46_CD ._.
+Punnák-kirai_NNP ,_, 71_CD ._.
+Púrasha-param_NNP ,_, 58_CD ._.
+Púrasha-pattai_NNP ,_, 58_CD ._.
+Púrasha-pazham_NNP ,_, 58_CD ._.
+150_CD INDEX_NNP ._.
+Púri-puli_NNP ,_, 67_CD ._.
+Púri-puli-pattai_NNP ,_, 67_CD ._.
+Sadápa-ilai_NNP ,_, 77_CD ._.
+Sen-nábhi_NNP ,_, 3_CD ._.
+Shampangi-pu_NNP ,_, 8_CD ._.
+Shampangi-tól_NNP ,_, 8_CD ._.
+Shappattup-pu_NNP ,_, 54_CD ._.
+Shára-parpu_NNP ,_, 128_CD ._.
+Shén-kottai_NNP ,_, 124_CD ._.
+Shén-kottay-enney_NNP ,_, 124_CD ._.
+Shérán-kottai_NNP ,_, 124_CD ._.
+Shímai-ativadayam_NNP ,_, 4_CD ._.
+Shímai-azhavanai-virai_NNP ,_, 86_CD ._.
+Shímai-káshuruk-virai_NNP ,_, 53_CD ._.
+Shímai-vendaik-káy-verai_NNP ,_, 55_CD ._.
+Shíndil-kodi_NNP ,_, 9_CD ._.
+Shíndil-kodi-vér_NNP ,_, 9_CD ._.
+Shíndil-shakkarai_NNP ,_, 10_CD ._.
+Shiriya-vilva-pazham_NNP ,_, 84_CD ._.
+Shiru-vilva-param_NNP ,_, 84_CD ._.
+Shiru-vilva-param-sadai_NNP ,_, 84_CD ._.
+Shivappu-alli-pú_NNP ,_, 15_CD ._.
+Shivappu-alli-vér_NNP ,_, 16_CD ._.
+Shivappu-alli-virai_NNP ,_, 16_CD ._.
+Shivappu-kásal-virai_NNP ,_, 53_CD ._.
+Shivappu-káshuruk-virai_NNP ,_, 53_CD ._.
+Shivappu-nabhi_NNP ,_, 3_CD ._.
+Shivappu-pulachi-kirai-virai_NNP ,_, 53_CD ._.
+Shivappu-támara-pú_NNP ,_, 17_CD ._.
+Shivappu-támara-vér_NNP ,_, 17_CD ._.
+Shivappu-támara-virai_NNP ,_, 17_CD ._.
+Simai-puli_NNP ,_, 67_CD ._.
+Shimai-puli-pattai_NNP ,_, 67_CD ._.
+Siru-parpu-kírai_NNP ,_, 41_CD ._.
+Siru-pasarai_NNP kírai_NN ,_, 41_CD ._.
+Surul-pattai_NNP ,_, 108_CD ._.
+Tain-púchi-pattai_NNP ,_, 71_CD ._.
+Tamarat-tam-káy_NNP ,_, 75_CD ._.
+Tanaku-parutti_NNP ,_, 38_CD ._.
+Tanuku-pishin_NNP ,_, 38_CD ._.
+Té-ilai_NNP ,_, 48_CD ._.
+Tévadáram_NNP ,_, 73_CD ._.
+Tumbugai-pishin_NNP ,_, 51_CD ._.
+Turá_NNP ,_, 24_CD ._.
+Tutti-ilai_NNP ,_, 68_CD ._.
+Tutti-virai_NNP ,_, 68_CD ._.
+Ularnda-diraksha-pazham_NNP ,_, 110_CD ._.
+Ularnda-drácha-param_NNP ,_, 110_CD ._.
+Valim-bari-káy_NNP ,_, 70_CD ._.
+Váluluvai_NNP ,_, 106_CD ._.
+Váluluvai-enney_NNP ,_, 106_CD ._.
+Váluluvai-tailam_NNP ._.
+106_CD ._.
+Váluluvai-virai_NNP ,_, 106_CD ._.
+Vasha-návi_NNP ,_, 1_CD ._.
+Vatta-tirippi-ver_NNP ,_, 56_CD ._.
+Vattu-manga-param_NNP ,_, 120_CD ._.
+Vattu-manga-pazham_NNP ,_, 120_CD ._.
+Vélai-ilai_NNP ,_, 28_CD ._.
+Vélai-verai_NNP ,_, 28_CD ._.
+Vélai-vér_NNP ,_, 28_CD ._.
+Vélam-pishin_NNP ,_, 83_CD ._.
+Vellai-alli-pú_NNP ._.
+17_CD ._.
+Vellai-alli-vér_NNP ,_, 17_CD ._.
+Vellai-alli-virai_NNP ,_, 17_CD ._.
+Vellai-damar_NNP ,_, 51_CD ._.
+Vellai-kadugu_NNP ,_, 24_CD ._.
+Vellai-kunrikam_NNP ,_, 51_CD ._.
+Vellai-támara-pú_NNP ,_, 18_CD ._.
+Vellai-támara-vér_NNP ,_, 18_CD ._.
+Vellai-támara-virai_NNP ,_, 18_CD ._.
+Vembádam_NNP ,_, 108_CD ._.
+Vémbu-enney_NNP ,_, 101_CD ._.
+Vémbu-ilai_NNP ,_, 101_CD ._.
+Vémbu-kottai_NNP ,_, 100_CD ._.
+Vémbu-pattai_NNP ,_, 100_CD ._.
+Vémbu-pishin_NNP ,_, 101_CD ._.
+Vémbu-pú_NNP ,_, 101_CD ._.
+Vémbu-vér-pattai_NNP ,_, 100_CD ._.
+Vendakkáy_NNP ,_, 55_CD ._.
+Véppam_NNP enney_NN ,_, 101_CD ._.
+Véppam-ilai_NNP ,_, 101_CD ._.
+Véppam-kallu_NNP ,_, 100_CD ._.
+Véppam-kottai_NNP ,_, 101_CD ._.
+Véppam-param_NNP ,_, 100_CD ._.
+Véppam-pazham_NNP ,_, 100_CD ._.
+Véppam-pattai_NNP ,_, 101_CD ._.
+Véppam-pishin_NNP ,_, 100_CD ._.
+Véppam-pu_NNP ,_, 101_CD ._.
+Véppam-vér-pattai_NNP ,_, 100_CD ._.
+Vilám-ilai_NNP ,_, 82_CD ._.
+Vilám-param_NNP ,_, 82_CD ._.
+Vilám-pishin_NNP ,_, 82_CD ._.
+INDEX_NN OF_NNP TELUGU_NNP SYNONYMS_NNP ._.
+Abhini_NNP ,_, 18_CD ._.
+Ada-syamali-káya_NNP ,_, 70_CD ._.
+Adavi-górinta_NNP ,_, 73_CD ._.
+Adavi-mámidi_NNP ,_, 130_CD ._.
+Ádeli_NN ,_, 26_CD ._.
+Adiyálu_NNP ,_, 26_CD ._.
+Anasapuvvu_NNP ,_, 7_CD ._.
+Anbóti-kúra_NNP ,_, 75_CD ._.
+Andugu-pisunu_NNP ,_, 96_CD ._.
+Arudanda-véru_NNP ,_, 33_CD ._.
+Arudu-áku_NNP ,_, 77_CD ._.
+Arudu_NNP ,_, 47_CD ._.
+Atasi_NNP ,_, 72_CD ._.
+Atasi-núne_NNP ,_, 72_CD ._.
+Aválu_NNP ,_, 25_CD ._.
+Balintra-pólam_NNP ,_, 94_CD ._.
+Barre-bachchala_NNP ,_, 109_CD ._.
+Benda-kaya_NNP ,_, 55_CD ._.
+Bhallátaki_NNP ,_, 122_CD ._.
+Bhallátamu_NNP ,_, 122_CD ._.
+Bijapúra-pandu-rasam_NNP ,_, 82_CD ._.
+Bijapúra-pandu-tólu_NNP ,_, 81_CD ._.
+Bili-bili-kayalu_NNP ,_, 76_CD ._.
+Bilimbi-káyalu_NNP ,_, 76_CD ._.
+Bramhadandi-núne_NNP ,_, 22_CD ._.
+INDEX_NN ._.
+151_CD Bramhadandi-veru_NNP ,_, 22_CD ._.
+Bramhadandi-vittulu_NNP ,_, 22_CD ._.
+Budda-kákara-áku_NNP ,_, 112_CD ._.
+Búraga-patti_NNP ,_, 66_CD ._.
+Búraga-pindé_NNP ,_, 66_CD ._.
+Búraga-sanna-káya_NNP ,_, 66_CD ._.
+Búraga-vittulu_NNP ,_, 66_CD ._.
+Búra-sanna-káya_NNP ,_, 66_CD ._.
+Chára-pappu_NNP ,_, 126_CD ._.
+Chára-pappu-núne_NNP ,_, 128_CD ._.
+Cháru-mámidi-pappu_NNP ,_, 128_CD ._.
+Chinna-bilva-pandu_NNP ,_, 84_CD ._.
+Chinna-bilva-pandu-kanda_NNP ,_, 84_CD ._.
+Cinnna-marédu-pandu_NNP ,_, 84_CD ._.
+Chiru-palléru_NNP ,_, 74_CD ._.
+Chiti-muti-veru_NNP ,_, 56_CD ._.
+Dabba-pandu-rasam_NNP ,_, 81_CD ._.
+Dabba-pandu-tólu_NNP ,_, 81_CD ._.
+Dampara-pisunu_NNP ,_, 127_CD ._.
+Dásáni-puvva_NNP ,_, 54_CD ._.
+Dévadáru_NNP ,_, 73_CD ._.
+Dipa-draksha-pandu_NNP ,_, 110_CD ._.
+Draksha-pandu_NNP ,_, 109_CD ._.
+Dúpa-dámaru_NNP ,_, 51_CD ._.
+Dúsari-tíge-áku_NNP ,_, 12_CD ._.
+Ekkudu-tíge-ákú_NNP ._.
+112_CD ._.
+Endu-dráksha-pandu_NNP ,_, 110_CD ._.
+Erra-alli-tamara-puvvu_NNP ,_, 15_CD ._.
+Erra-alli-tamara-véru_NNP ,_, 16_CD ._.
+Erra-alli-tamara-vittulu_NNP ,_, 16_CD ._.
+Erra-gómgura-vittulu_NNP ,_, 53_CD ._.
+Erra-góng-áku-vittulu_NNP ,_, 53_CD ._.
+Erra-góng-kúra-vittulu_NNP ,_, 53_CD ._.
+Erra-góngúra-vittulu_NNP ,_, 53_CD ._.
+Erra-nabhi_NNP ,_, 3_CD ._.
+Erra-támara-puvvu_NNP ,_, 17_CD ._.
+Erra-tamára-véru_NNP ,_, 17_CD ._.
+Erra-támara-vittulu_NNP ,_, 17_CD ._.
+Gaja-pushpamu_NNP ,_, 47_CD ._.
+Ganga-rávi-pandu_NNP ,_, 58_CD ._.
+Ganga-rávi-patta_NNP ,_, 58_CD ._.
+Ganga-régu-pandu_NNP ,_, 108_CD ._.
+Ganga-rénu-pandu_NNP ,_, 58_CD ._.
+Ganga-rénu-patta_NNP ,_, 58_CD ._.
+Gára-pandu_NNP ,_, 93_CD ._.
+Gára-pandu-goju_NNP ,_, 92_CD ._.
+Gára-pandu-kanda_NNP ,_, 92_CD ._.
+Gasagasala-núne_NNP ._.
+19_CD ._.
+Gasagasala-tólu_NNP ,_, 19_CD ._.
+Gasagasalu_NNP ,_, 19_CD ._.
+Goddu-pávili-kúra_NNP ,_, 40_CD ._.
+Goddu-pávili-kúra-vittulu_NNP ,_, 40_CD ._.
+Góstini-pandu_NNP ,_, 108_CD ._.
+Guggilamu_NNP ,_, 40_CD ._.
+Gundumeda_NNP ,_, 106_CD ._.
+Gurrapu-bádam-chettu-núne_NNP ,_, 70_CD ._.
+Gurrapu-bádam-chettu-vittulu_NNP ,_, 70_CD ._.
+Ivura-mámidi_NNP ,_, 130_CD ._.
+Ivura-mámidi-pisunu,130_NNP ._.
+Jáfra-vittulu_NNP ,_, 39_CD ._.
+Jáfra-vittulu-veru-patta_NNP ,_, 39_CD ._.
+Járu-mámidi-pappu_NNP ,_, 126_CD ._.
+Java-pushpamu_NNP ,_, 54_CD ._.
+Jédi-mámidi-núne_NNP ,_, 123_CD ._.
+Jédi-mámidi-pisunu_NNP ,_, 123_CD ._.
+Jédi-mámidi-vittu_NNP ,_, 123_CD ._.
+Jédi-vittulu-núne_NNP ,_, 124_CD ._.
+Jédi-vittulu_NNP ,_, 124_CD ._.
+Kákara-shingi_NNP ,_, 118_CD ._.
+Kákmári-vittulu_NNP ,_, 9_CD ._.
+Kamala-phala-puvva_NNP ,_, 80_CD ._.
+Kamala-phala-tólu_NNP ,_, 80_CD ._.
+Kapidh-dhamu_NNP ,_, 82_CD ._.
+Kapidh-dhamu-áku_NNP ,_, 82._CD kapitthamu-pisunu_NN ,_, 82_CD ._.
+Kari-vépa_NNP ,_, 80_CD ._.
+Karpása-vittulu_NNP ,_, 52_CD ._.
+Karpúra-benda-vittulu_NNP ,_, 55_CD ._.
+Kastúri-benda-vittulu_NNP ,_, 55_CD ._.
+Kavinchi-káya_NNP ,_, 70_CD ._.
+Kich-chili-pandu-puvvu_NNP ,_, 80_CD ._.
+Kich-chili-pandu-tólu_NNP ,_, 80_CD ._.
+Kittali-pandu-puvvu_NNP ,_, 80_CD ._.
+Kittali-pandu-tólu_NNP ,_, 80_CD ._.
+Konda-gógu-banka_NNP ,_, 38_CD ._.
+Konda-gógu-pisunu_NNP ,_, 38_CD ._.
+Konda-gógu-pattu_NNP ,_, 38_CD ._.
+Konda-kasinda-véru-patta_NNP ,_, 78_CD ._.
+Konda-vépa-vére-patta_NNP ,_, 99_CD ._.
+Konda-vépa-vittu_NNP ,_, 99_CD ._.
+Kukka-váminta-áku_NNP ,_, 31_CD ._.
+Kukka-váminta-vittulu_NNP ,_, 31_CD ._.
+Kukudu-kayaln_NNP ,_, 112_CD ._.
+Kunkudu-kayalu_NNP ,_, 112_CD ._.
+Kurangu-manjil-vittulu-véru-patta_NNP ,_, 39_CD ._.
+Kurangu-manjil-vittulu_NNP ,_, 39_CD ._.
+Lungamu-pandu-ras-am_NNP ,_, 81_CD ._.
+Lungamu-pandu-tólu_NNP ,_, 81_CD ._.
+Madana-ginjalu_NNP ,_, 72_CD ._.
+Madana-ginjalu-núne_NNP ,_, 72_CD ._.
+Maddi-chakka_NNP ,_, 9_CD ._.
+Maddi-pálu_NNP ,_, 88_CD ._.
+Maddi-pálu-patta_NNP ,_, 88_CD ._.
+Mádhavítíge_NNP ,_, 73_CD ._.
+Mádhipala-pandu-ras-am_NNP ,_, 81_CD ._.
+Mádhipala-pandu-tólu_NNP ,_, 81_CD ._.
+Mahi-sákshi_NNP ,_, 93_CD ._.
+Mahi-sákshi_NNP ,_, 93_CD ._.
+Mál-kunguni-núne_NNP ,_, 106_CD ._.
+Má1-kunguni-tailam_NNP ,_, 106_CD ._.
+Mál-kunguni-vittulu_NNP ,_, 106_CD ._.
+Mámidi-banka_NNP ,_, 120_CD ._.
+Mámidi-pandu_NNP ,_, 120_CD ._.
+Mámidi-pisunu_NNP ,_, 120_CD ._.
+Mánu-puspu_NNP ,_, 11_CD ._.
+Maráti-mogga_NNP ,_, 61_CD ._.
+Mávalingam-áku_NNP ,_, 29_CD ._.
+Mávalingam-patta_NNP ,_, 30_CD ._.
+Mávalingam-véru-patta_NNP ,_, 30_CD ._.
+Mayilu-mánikyam_NNP ,_, 58_CD ._.
+Mirapa-kándra-véru-patta_NNP ,_, 78_CD ._.
+Mul-ilava-patti_NNP ,_, 61_CD ._.
+Mullangi_NNP ,_, 28_CD ._.
+Mullangi-vittulu_NNP ,_, 28_CD ._.
+Mundla-búraga-patta_NNP ,_, 61_CD ._.
+Mundla-búraga-patti_NNP ,_, 61_CD ._.
+Mundla-búraga-vittulu_NNP ,_, 60_CD ._.
+152_CD INDEX_NNP ._.
+Muni-ganga-rávi-pandu_NNP ,_, 58_CD ._.
+Muni-ganga-rávi-patta_NNP ,_, 58_CD ._.
+Munta-mámidi-banka_NNP ,_, 123_CD ._.
+Munta-mámidi-núne_NNP ,_, 123_CD ._.
+Munta-mámidi-vittu_NNP ,_, 123_CD ._.
+Mutuva-pulogum-véru_NNP ,_, 56_CD ._.
+Nága-késara-puvvu_NNP ,_, 47_CD ._.
+Nalla-áválu_NNP ,_, 26_CD ._.
+Nalla-dámar_NNP ,_, 51_CD ._.
+Nalla-gasagasálu_NNP ,_, 19_CD ._.
+Nalla-jilakara_NNP ,_, 5_CD ._.
+Nalla-rojan_NNP ,_, 51_CD ._.
+Nalléru_NNP ,_, 111_CD ._.
+Nára-dabba-pandu-ras-am_NNP ,_, 81_CD ._.
+Nára-dabba-pandu-tólu_NNP ,_, 80_CD ._.
+Nárinja-paudu-puvvu_NNP ,_, 80_CD ._.
+Nárija-pandu-tólu_NNP ,_, 80_CD ._.
+Néla-.velaga-áku_NNP ,_, 84_CD ._.
+Nimma-pandu-ras-am_JJ 81_CD ._.
+Nimma-pandu-tólu_NNP ,_, 81_CD ._.
+Níradi-vittulu-núne_NNP ,_, 37_CD ._.
+Níradi-vittulu_NNP ,_, 37_CD ._.
+Nulite-kaya_NNP ,_, 70_CD ._.
+Oddi-chettu-patta_NNP ,_, 129_CD ._.
+Oddi-patta_NNP ,_, 129_CD ._.
+Oddi-pisunu_NNP ,_, 129_CD ._.
+Pagadapu-katta_NNP ,_, 73_CD ._.
+Palléru-áku_NNP ,_, 74_CD ._.
+Palléru-mullu_NNP ,_, 74_CD ._.
+Palléru_NNP ,_, 74_CD ._.
+Pappu-kúra_NNP ,_, 40_CD ._.
+Pappu-kúra-vittu_NNP ,_, 40_CD ._.
+Parangi-sámbrani_NNP ,_, 97_CD ._.
+Parinta_NNP ,_, 71_CD ._.
+Patali_NNP tivva-áku_NN ,_, 112_CD ._.
+Patti_NNP ,_, 51_CD ._.
+Patti-pindé_NNP ,_, 51_CD ._.
+Patti-vittulu_NNP ,_, 51_CD ._.
+Pedda-bilva-pandu_NNP ,_, 87_CD ._.
+Pedda-bilva-pandu-guja_NNP ,_, 87_CD ._.
+Pedda-bilva-pandu-kanda_NNP ,_, 87_CD ._.
+Pedda-marídu-pandu_NNP ,_, 87_CD ._.
+Pedda-pávili-kúra_NNP ,_, 40_CD ._.
+Pedda-pávili-kúra-vittulu_NNP ,_, 40_CD ._.
+Péranta_NNP ,_, 71_CD ._.
+Péranta-kúra_NNP ,_, 71_CD ._.
+Pólam_NNP ,_, 94_CD ._.
+Ponna-núné_NNP ,_, 46_CD ._.
+Ponna-vittulu_NNP ,_, 46_CD ._.
+Pótu-vaINDEX_NNP ._.
+153_CD INDEX_NNP OF_NNP MALYALIM_NNP SYNONYMS_NNP ._.
+Ambalam_NNP ,_, 130_CD ._.
+Amparam_NNP ,_, 130_CD ._.
+Amruta-valli_NNP ,_, 9_CD ._.
+Anpazham_NNP ,_, 130_CD ._.
+Ariya-véppa-anti_NNP ,_, 101_CD ._.
+Ariya-véppa-ela_NNP ,_, 101_CD ._.
+Ariya-véppa-pú_NNP ,_, 101_CD ._.
+Ariya-véppa-káya_NNP ,_, 100_CD ._.
+Ariya-véppa-tóli_NNP ,_, 100_CD ._.
+Ariya-véppa-pasha_NNP ,_, 101_CD ._.
+Ariya-véppa-enna_NNP ,_, 101_CD ._.
+Ayam-paratti_NNP ,_, 54_CD ._.
+Brahmadanti-enna_NNP ,_, 22_CD ._.
+Brahmadanti-véra_NNP ,_, 22_CD ._.
+Brahmadanti-vitta_NNP ,_, 22_CD ._.
+Chempakap-pú_NNP ,_, 8_CD ._.
+Chempa-rattip-púva_NNP ,_, 54_CD ._.
+Cheru-chana-vittinte-enna_NNP ,_, 72_CD ._.
+Cheru-chana-vittinte-vitta_NNP ,_, 72_CD ._.
+Cheru-naranga-tóli_NNP ,_, 81_CD ._.
+Cheriya-kúvalap-param_NNP ,_, 84_CD ._.
+Chérunkuru_NNP ,_, 124_CD ._.
+Chivanna-pulachi-chira-vitta_NNP ,_, 53_CD ._.
+Elanta-param_NNP ,_, 109_CD ._.
+Elantap-pazham_NNP ,_, 109_CD ._.
+Ganapati-naranga-tóli_NNP ,_, 81_CD ._.
+Ganapati-naranna-tóli_NNP ,_, 81_CD ._.
+Jonakam-náranga-tóli_NNP ,_, 81_CD ._.
+Kákka-totali-véra-tóla_NNP ,_, 78_CD ._.
+Kappal-chéran-kuru_NNP ,_, 123_CD ._.
+Kappal-chéran-pasha_NNP ,_, 123_CD ._.
+Kappa-máva-enna_NNP ,_, 123_CD ._.
+Kappa-máva-pasha_NNP ,_, 123_CD ._.
+Kappa-máva-kuru_NNP ,_, 123_CD ._.
+Kara-kundurukkam_NNP ,_, 51_CD ._.
+Karichakká_NNP ,_, 76_CD ._.
+Karinta-kattin-káya_NNP ,_, 9_CD ._.
+Kariya-pála_NNP ,_, 80_CD ._.
+Karun-chirakam_NNP ,_, 5_CD ._.
+Karuppa-katuka_NNP ,_, 25_CD ._.
+Karu-véppa_NNP ,_, 79_CD ._.
+Kasha-kasha-karuppa_NNP ,_, 18_CD ._.
+Kasha-kashak-kuru_NNP ,_, 19_CD ._.
+Kash-kashat-tól_NNP ,_, 19_CD ._.
+Kat-máva-parpu_NNP ,_, 128_CD ._.
+Katuka_NNP ,_, 25_CD ._.
+Kungiliyam_NNP ,_, 50_CD ._.
+Kasturi-venta-vitta_NNP ,_, 55_CD ._.
+Kattu-kasturi_NNP ,_, 55_CD ._.
+Katta-ventiyam_NNP ,_, 58_CD ._.
+Madhura-náranga-pushpam_NNP ,_, 80_CD ._.
+Madhura-náranga-tóli_NNP ,_, 80_CD ._.
+Mara-manjal_NNP ,_, 11_CD ._.
+Matti-pál_NNP ,_, 88_CD ._.
+Matti-pál-patte_NNP ,_, 88_CD ._.
+Mávva-káya_NNP ,_, 120_CD ._.
+Mávva-pasha_NNP ,_, 120_CD ._.
+Mayir-manikkam_NNP ,_, 38_CD ._.
+Mullila-púla-vitta_NNP ,_, 60_CD ._.
+Mull-ilava-tóla_NNP ,_, 61_CD ._.
+Mull-ilava-vitta_NNP ,_, 60_CD ._.
+Manna-kungiliyam_NNP ,_, 97_CD ._.
+Munti-rinnap-pazham_NNP ,_, 109_CD ._.
+Muntri-param_NNP ,_, 109_CD ._.
+Nanchunta-param_NNP ,_, 94_CD ._.
+Neringil_NNP ,_, 74_CD ._.
+Neringil-ela_NNP ,_, 74_CD ._.
+Náy-véla-bíjam_NNP ,_, 30_CD ._.
+Náy-véla-ela_NNP ,_, 30_CD ._.
+Painipasha_NNP ,_, 51_CD ._.
+Pangai-maram-parutti_NNP ,_, 66_CD ._.
+Pangai-vitta_NNP ,_, 66_CD ._.
+Paranki-máva-enna_NNP ,_, 123_CD ._.
+Paranki-máva-kuru_NNP ,_, 123_CD ._.
+Paranki-mava-pasha_NNP ,_, 123_CD ._.
+Parutti_NNP ,_, 51_CD ._.
+Parutti-vitta_NNP ,_, 51_CD ._.
+Payana_NNP ,_, 51_CD ._.
+Peru-maram-véra-tóli_NNP ,_, 92_CD ._.
+Peru-marat-tóli_NNP ,_, 92_CD ._.
+Pettaka-putti-ela_NNP ,_, 68_CD ._.
+Pettaka-putti-vitta_NNP ,_, 68_CD ._.
+Piranta_NNP ,_, 111_CD ._.
+Ponnan-kotta_NNP ,_, 112_CD ._.
+Pula-maram-parutti_NNP ,_, 61_CD ,_, 66_CD ._.
+Pula-maram-vitta_NNP ,_, 60_CD ,_, 66_CD ._.
+Puliyárala_NNP ,_, 75_CD ._.
+Punna-enne_NNP ,_, 46_CD ._.
+Punna-vitta_NNP ,_, 46_CD ._.
+Púvarasha-káya_NNP ,_, 58_CD ._.
+Púvarasha-tóli_NNP ,_, 58_CD ._.
+Shúna-pangi-parutti_NNP ,_, 38_CD ._.
+Shúna-pangi-pasha_NNP ,_, 38_CD ._.
+Tamarattu-ká_NNP ,_, 75_CD ._.
+Ténprákka_NNP ,_, 122_CD ._.
+Totáli-véra-tóla_NNP ,_, 77_CD ._.
+Tumbugai-pasha_NNP ,_, 51_CD ._.
+Tutta-ela_NNP ,_, 68_CD ._.
+Tutta-vitta_NNP ,_, 68_CD ._.
+Udi-maram-tóla_NNP ,_, 129_CD ._.
+Udi-pasha_NNP ,_, 129_CD ._.
+Udi-tóla_NNP ,_, 129_CD ._.
+Unanniya-muntrinap-param_NNP ,_, 110_CD ._.
+Urvanjik-káya_NNP ,_, 112_CD ._.
+Valampari-káya_NNP ,_, 71_CD ._.
+Valanku-chámbráni_NNP ,_, 97_CD ._.
+Valiya-kuvalap-param_NNP ,_, 87_CD ._.
+Valiya-marattóle_NNP ,_, 92_CD ._.
+Valsanabhi_NNP ,_, 1_CD ._.
+Váluluva_NNP ,_, 106_CD ._.
+Váluluva-enna_NNP ,_, 106_CD ._.
+Valu-zhuva_NNP ,_, 106_CD ._.
+Véla-bijam_NNP ,_, 28_CD ._.
+Véla-ela_NNP ,_, 28_CD ._.
+Véla-véra_NNP ,_, 28_CD ._.
+Vella-katuka_NNP ,_, 24_CD ._.
+Vella-kundirukkam_NNP ,_, 96_CD ._.
+Vella-kunturukkam_NNP ,_, 51_CD ._.
+Velutta-chempakap-pú_NNP ,_, 47_CD ._.
+Ventakkáya_NNP ,_, 55_CD ._.
+U_NNP 154_CD INDEX_NNP ._.
+Véppa-ela_NNP ,_, 101_CD ._.
+Véppa-enna_NNP ,_, 101_CD ._.
+Véppa-kuru_NNP ,_, 101_CD ._.
+Véppa-múlam_NNP ,_, 100_CD ._.
+Véppa-pasha_NNP ,_, 100_CD ._.
+Véppa-pú_NNP ,_, 101_CD ._.
+Véppa-tóli_NNP ,_, 100_CD ._.
+Velám-ela_NNP ,_, 81_CD ._.
+Velám-param_NNP ,_, 81_CD ._.
+Vilambikká_NNP ,_, 76_CD ._.
+Vilimbi_NNP ,_, 76_CD ._.
+Viranta_NNP ,_, 111_CD ._.
+INDEX_NN OF_IN CANARESE_NNP SYNONYMS_NNP ._.
+Alashi_NNP ,_, 72_CD ._.
+Alshi-enne_NNP ,_, 72_CD ._.
+Amrúta-balli_NNP ,_, 9_CD ._.
+Amte_NNP ,_, 130_CD ._.
+Amte-hannu_NNP ,_, 130_CD ._.
+Antu-mavina-hannu_NNP ,_, 120_CD ._.
+Aphimu_NNP ,_, 19_CD ._.
+Bendi-kayi_NNP ,_, 55_CD ._.
+Bettada-bévina-béru-patte_NNP ,_, 99_CD ._.
+Bévana-yanne_NNP ,_, 101_CD ._.
+Bévina-béru-patte_NNP ,_, 100_CD ._.
+Bévina-huvvu_NNP ,_, 101_CD ._.
+Bévina-mara-góndu_NNP ,_, 101_CD ._.
+Bévina-góndu_NNP ,_, 101_CD ._.
+Bévina-gotti_NNP ,_, 101_CD ._.
+Bévina-mara-hannu_NNP ,_, 100_CD ._.
+Bévina-mara-yale_NNP ,_, 101_CD ._.
+Bévina-yale_NNP ,_, 101_CD ._.
+Bili-sasave_NNP ,_, 24_CD ._.
+Bóla_NNP ,_, 94_CD ._.
+Búgni-hannu_NNP ,_, 58_CD ._.
+Búgni-patte_NNP ,_, 58_CD ._.
+Búraga-bija_NNP ,_, 66_CD ._.
+Búraga-hatti_NNP ,_, 66_CD ._.
+Bura-mara-bíja_NNP ,_, 66_CD ._.
+Búra-mara-hatte_NNP ,_, 66_CD ._.
+Byálada-góndú_NNP ,_, 82_CD ._.
+Byálada-hannu_NNP ,_, 82_CD ._.
+Byálada-yale_NNP ,_, 82_CD ._.
+Chara-pappu_NNP ,_, 126_CD ._.
+Dásválada-huvvu_NNP ,_, 54_CD ._.
+Dhúpadi-enne_NNP ,_, 45_CD ._.
+Dipa-drakshi_NNP ,_, 110_CD ._.
+Dodda-bilva-hannu_NNP ,_, 87_CD ._.
+Drakshi-hannu_NNP ,_, 109_CD ._.
+Dúpa-antu_NNP ,_, 51_CD ._.
+Géra-miána_NNP ,_, 121_CD ._.
+Géra-poppu-yanne_NNP ,_, 123_CD ._.
+Géru_NNP ,_, 124_CD ._.
+Guggala_NNP ,_, 94_CD ._.
+Guggila_NNP ,_, 50_CD ._.
+Hatti-bíja_NNP ,_, 52_CD ._.
+Hatti_NNP ,_, 52_CD ._.
+Kádu-máviná_NNP ,_, 130_CD ._.
+Kádu-menthyá_NNP ,_, 58_CD ._.
+Káka-mári-bíja_NNP ,_, 9_CD ._.
+Kare-jiraga_NNP ,_, 5_CD ._.
+Kamarak_NNP ,_, 75_CD ._.
+Kappu-sásve_NNP ,_, 25_CD ._.
+Kari-bévina-yelé_NNP ,_, 80_CD ._.
+Khasakhasi_NNP ,_, 19_CD ._.
+Kúkate-kayi_NNP ,_, 112_CD ._.
+Mádalada-hannu-tólu_NNP ,_, 80_CD ._.
+Mangarúli_NNP ,_, 111_CD ._.
+Maráda-arishna_NNP ,_, 11_CD ._.
+Mávina-hannu_NNP ,_, 118_CD ._.
+Mavina-miána_NNP ,_, 118_CD ._.
+Mullu-búraga-bíja_NNP ,_, 60_CD ._.
+Mullu-búraga-hatti_NNP ,_, 61_CD ._.
+Nágadáli-sappu_NNP ,_, 77_CD ._.
+Nágadáli-yalé_NNP ,_, 77_CD ._.
+Negalu_NNP ,_, 74_CD ._.
+Negalu-yalé_NNP ,_, 74_CD ._.
+Nimbe-hannu-tólu_NNP ,_, 81_CD ._.
+Pullam-purachi-sappa_NNP ,_, 75_CD ._.
+Pupli-chakka_NNP ,_, 106_CD ._.
+Rudrakshi_NNP ,_, 71_CD ._.
+Sampange-huvvu_NNP ,_, 8_CD ._.
+Sanna-bilva-hannu_NNP ,_, 84_CD ._.
+Sásve_NNP ,_, 25_CD ._.
+Shrimudri-bija_NNP ,_, 68_CD ._.
+Shrimudri-yale_NNP ,_, 68_CD ._.
+Suragonne-bija_NNP ,_, 46_CD ._.
+Suragonne-enne_NNP ,_, 46_CD ._.
+Vasanabhi_NNP ,_, 1_CD ._.
+Yalachi-hannu_NN ,_, 109_CD ._.
+INDEX_NN OF_NNP BENGALI_NNP SYNONYMS_NNP ._.
+Ám_NN ,_, 120_CD ._.
+Ám-gun_NN ,_, 120_CD ._.
+Ámrá_NN ,_, 130_CD ._.
+Amrul_NNP ,_, 75_CD ._.
+Angúr_NNP ,_, 109_CD ._.
+Aphím_NNP ,_, 19_CD ._.
+Ban-hurhurya-bij_NNP ,_, 31_CD ._.
+Ban-hurhurya-páta_NNP ,_, 31_CD ._.
+Banosá_NNP ,_, 33_CD ._.
+Barangi-lobán_NNP ,_, 97_CD ._.
+Bara-shri-phal_NNP ,_, 87_CD ._.
+Baro-loniya_NNP ,_, 40_CD ._.
+INDEX_NN ._.
+155_CD Baro-loniya-bij_NNP ,_, 40_CD ._.
+Barsingá_NNP ,_, 80_CD ._.
+Bér_NNP ,_, 109_CD ._.
+Bhélá_NNP ,_, 124_CD ._.
+Bhélva_NNP ,_, 124_CD ._.
+Bilimbi_NNP ,_, 76_CD ._.
+Ból_NNP ,_, 94_CD ._.
+Bón-methi_NNP ,_, 58_CD ._.
+Bór_NNP ,_, 109_CD ._.
+Bos-anti_NNP ,_, 73_CD ._.
+Chámpá_NNP ,_, 8_CD ._.
+Chá-pátá_NNP ,_, 48_CD ._.
+Chóta-bél_NNP ,_, 84_CD ._.
+Dhénras_NNP ,_, 55_CD ._.
+Dhéras_NNP ,_, 55_CD ._.
+Dhóp-rai_NNP ,_, 24_CD ._.
+Dhúná_NNP ,_, 50_CD ._.
+Drakhyá_NNP ,_, 109_CD ._.
+Gokhru_NNP ,_, 74_CD ._.
+Gókhru-pátá_NNP ,_, 74_CD ._.
+Gugul_NNP ,_, 93_CD ._.
+Hárbhánga_NNP ,_, 111_CD ._.
+Hijli-bádám_NNP ,_, 123_CD ._.
+Hijli-bádám-gun_NNP ,_, 123_CD ._.
+Hijli-bádám-táil_NNP ,_, 123_CD ._.
+Hingon-phal_NNP ,_, 94_CD ._.
+Hira-ból_NNP ,_, 94_CD ._.
+Hónsá-nébu-chilká_NNP ,_, 81_CD ._.
+Hónsá-nébu-ras_NNP ,_, 82_CD ._.
+Horjórá_NNP ,_, 111_CD ._.
+Hurhuriya-bij_NNP ,_, 28_CD ._.
+Hurhuriya-múl_NNP ,_, 28_CD ._.
+Hurhuriya-páta_NNP ,_, 28_CD ._.
+Isbaud_NNP ,_, 87_CD ._.
+Jhumka-gachh-bij_NNP ,_, 68_CD ._.
+Jhumka-gachh-pátá_NNP ,_, 68_CD ._.
+Jival-lásá_NNP ,_, 130_CD ._.
+Jóbá-phúl_NNP ,_, 54_CD ._.
+Kálá-dámar_NNP ,_, 95_CD ._.
+Kálá-jíra_NNP ,_, 5_CD ._.
+Kál-raí_NNP ,_, 25_CD ._.
+Kamarangá_NNP ,_, 74_CD ._.
+Kamrak_NNP ,_, 74_CD ._.
+Kapás_NNP ,_, 49_CD ._.
+Kappas-bij_NNP ,_, 52_CD ._.
+Karpásh_NNP ,_, 52_CD ._.
+Karpásh-bichi_NNP ,_, 52_CD ._.
+Karpásh-bij_NNP ,_, 52_CD ._.
+Kátbél_NNP ,_, 52_CD ._.
+Kátbél-gun_NNP ,_, 52_CD ._.
+Kátbél-pata_NNP ,_, 52_CD ._.
+Khaskhas_NNP ,_, 19_CD ._.
+Komolá-nébu-chilka_NNP ,_, 80_CD ._.
+Komolá-nébu-phúl_NNP ,_, 80_CD ._.
+Kóth-bél,82_NNP ._.
+Kóth-bél-gun_NNP ,_, 82_CD ._.
+Kóth-pátá_NNP ,_, 82_CD ._.
+Kúl_NNP ,_, 109_CD ._.
+Kundro_NNP ,_, 97_CD ._.
+Lál-mista-bij_NNP ,_, 53_CD ._.
+Lata-phatkari-páta_NNP ,_, 112_CD ._.
+Madhúbi_NNP ,_, 73_CD ._.
+Mádhúbi-latá_NNP ,_, 73_CD ._.
+Mahá-bél_NNP ,_, 87_CD ._.
+Mahá-ním-bíchi_NNP ,_, 99_CD ._.
+Mahá-ním-jar-chbál_NNP ,_, 99_CD ._.
+Málkangni_NNP ,_, 104_CD ._.
+Málkanguni-tail_NNP ,_, 106_CD ._.
+Monakkha_NNP ,_, 110_CD ._.
+Mosína_NNP ,_, 72_CD ._.
+Múli_NNP 27_CD ._.
+Mushak-dáná_NNP ,_, 55_CD ._.
+Nágésar-ki-phúl_NNP ,_, 47_CD ._.
+Nárungi-chilká_NNP ,_, 80_CD ._.
+Nárungi-phúl_NNP ,_, 80_CD ._.
+Naya-phatki-páta_NNP ,_, 112_CD ._.
+Nébuchilka_NNP ,_, 81_CD ._.
+Néburas_NNP ,_, 81_CD ._.
+Ním-gotli_NNP ,_, 101_CD ._.
+Ním-lásá_NNP ,_, 101_CD ._.
+Ním_NNP páta_NN ,_, 101_CD ._.
+Ním-phál_NNP ,_, 100_CD ._.
+Ním-phúl_NNP ,_, 100_CD ._.
+Ním-sál_NNP ,_, 100_CD ._.
+Ním-shikar-sál_NNP ,_, 101_CD ._.
+Ním-tail_NNP ,_, 101_CD ._.
+Omlóti_NNP ,_, 75_CD ._.
+Or-phúl_NNP ,_, 54_CD ._.
+Paló_NNP ,_, 10_CD ._.
+Phúta_NNP ,_, 52_CD ._.
+Pila-baréla_NNP ,_, 58_CD ._.
+Pila-baréla-shikar_NNP ,_, 57_CD ._.
+Pitari-gachh-bij_NNP ,_, 68_CD ._.
+Pitari-gachh-pata_NNP ,_, 68_CD ._.
+Piyal_NNP ,_, 128_CD ._.
+Piyál-tail_NNP ,_, 128_CD ._.
+Porash-chhál_NNP ,_, 58_CD ._.
+Porash-phal_NNP ,_, 58_CD ._.
+Rál_NNP ,_, 50_CD ._.
+Rámtorai_NNP ,_, 55_CD ._.
+Ritha_NNP ,_, 112_CD ._.
+Rokto-sémal-bij_NNP ,_, 60_CD ._.
+Rokto-sémal-rúi_NNP ,_, 61_CD ._.
+Rokto-semal-sál_NNP ,_, 61_CD ._.
+Rui_NNP ,_, 52_CD ._.
+Salai_NNP ,_, 97_CD ._.
+Salai-gun_NNP ,_, 97_CD ._.
+Shiál-kánta-bij_NNP ,_, 22_CD ._.
+Shiál-kánta-jár_NNP ,_, 22_CD ._.
+Shiál-kánta-tél_NNP ,_, 22_CD ._.
+Sultáná-chámpá-bij_NNP ,_, 46_CD ._.
+Sultáná-chámpá-tail_NNP ,_, 46_CD ._.
+Tisi_NNP ,_, 72_CD ._.
+Tisi-tail_NNP ,_, 72_CD ._.
+Tólá-rúi_NNP ,_, 66_CD ._.
+Turanj-chilká_NNP ,_, 81_CD ._.
+Turanj-ras_NNP ,_, 81_CD ._.
+X_RB 156_CD INDEX_NNP ._.
+INDEX_NN OF_NNP PERSIAN_NNP SYNONYMS_NNP ._.
+Abe-turanj_NNP ,_, 81_CD ._.
+Abe-límu_NNP ,_, 81_CD ._.
+Afyún_NNP ,_, 18_CD ._.
+Anbak_NNP ,_, 120_CD ._.
+Angharáe-hindí_NNP ,_, 54_CD ._.
+Angur_NNP ,_, 109_CD ._.
+Balághune-klán_NNP ,_, 87_CD ._.
+Balághune-khurd_NNP ,_, 84_CD ._.
+Balsán_NNP ,_, 95_CD ._.
+Bamiyah_NNP ,_, 55_CD ._.
+Banafshah_NNP ,_, 33_CD ._.
+Barge-ázád-darakhte-hindí_NNP ,_, 101_CD ._.
+Barge-darakhte-shanah_NNP ,_, 68_CD ._.
+Barge-kháre-khasak_NNP ,_, 74_CD ._.
+Barge-nile_NNP ,_, 101_CD ._.
+Barre-ázád-darakhte-hindí_NNP ,_, 100_CD ._.
+Barre-nile_NNP ,_, 100_CD ._.
+Bédánah_NNP ,_, 110_CD ._.
+Bíkhe-banafshah_NNP ,_, 34_CD ._.
+Biládur_NNP ,_, 124_CD ._.
+Bíshnág_NNP ,_, 1_CD ._.
+Boé-jahúdan_NNP ,_, 94_CD ._.
+Cháye_NNP ,_, 48_CD ._.
+Dárhald_NNP ,_, 11_CD ,_, 13_CD ,_, 14_CD ,_, 15_CD ._.
+Fíl-zahrah_NNP ,_, 14_CD ._.
+Gardahe-samaq_NNP ,_, 117_CD ._.
+Gasht-bargasht_NNP ,_, 71_CD ._.
+Gaz-angabín_NNP ,_, 42_CD ._.
+Gazmázaj_NNP ,_, 42_CD ._.
+Gazmázaje-khurd_NNP ,_, 43_CD ._.
+Gazmázak_NNP ,_, 42_CD ._.
+Gazmázú_NNP ,_, 42_CD ._.
+Gul-bé1_NNP ,_, 9_CD ,_, 10_CD ._.
+Gule-ázád-darakhte-hindí_NNP ,_, 101_CD ._.
+Gule-fofal_NNP ,_, 62_CD ._.
+Gule-halílah_NNP ,_, 118_CD ._.
+Gule-naranj_NNP ,_, 80_CD ._.
+Gule-níle_NNP ,_, 101_CD ._.
+Gule-pistah_NNP ,_, 116_CD ._.
+Halváe-biládur_NNP ,_, 127_CD ._.
+Isband_NNP ,_, 87_CD ._.
+Ispand_NNP ,_, 87_CD ._.
+Javárish-e-biládur_NNP ,_, 127_CD ._.
+Kabít_NNP ,_, 82_CD ._.
+Khare-khasak_NNP ,_, 74_CD ._.
+Khash-khásh_NNP ,_, 19_CD ._.
+Khurfah_NNP ,_, 37_CD ._.
+Kishmish_NNP ,_, 110_CD ._.
+Kíyá_NNP ,_, 114_CD ._.
+Kundur_NNP ,_, 96_CD ,_, 97_CD ,_, 98_CD ,_, 99_CD ,_, 116_CD ,_, 118_CD ._.
+Laale-moaabbari_NNP ,_, 50_CD ._.
+Maghze-balaghúne-kalán_NNP ,_, 87_CD ._.
+Maghze-ba_JJ iaghúne-khurd_JJ ,_, 84_CD ._.
+Maghze-shule-kalán_NNP ,_, 87_CD ._.
+Maghze-shule-khurd_NNP ,_, 84_CD ._.
+Maghze-tukhme-anbah_NNP ,_, 120_CD ._.
+Máyíne-khurd_NNP ,_, 43_CD ._.
+Monaqqá_NNP ,_, 110_CD ._.
+Mushk-dánah_NNP ,_, 55_CD ,_, 56_CD ._.
+Naghzak_NNP ,_, 118_CD ._.
+Panbah_NNP ,_, 52_CD ._.
+Panbah_NNP danch_NN ,_, 52_CD ._.
+Póste-ázád-darakhte-hindí_NNP ,_, 100_CD ._.
+Póste-bíkhe-ázád-darakht_NNP ,_, 99_CD ._.
+Póste-bíkhe-níle_NNP ,_, 100_CD ._.
+Póste-kóknár_NNP ,_, 19_CD ._.
+Póste-límú_NNP ,_, 81_CD ._.
+Póste-náranj_NNP ,_, 80_CD ._.
+Póste-níle_NNP ,_, 100_CD Póste-turanj_NN ,_, 81_CD ._.
+Raziyánahe-khatáí_NNP ,_, 7_CD ._.
+Reshaí-khitmí_NNP ,_, 59_CD ._.
+Róghane-ázád-darakhte-hindí_NNP ,_, 100_CD ._.
+Róghane-balsán_NNP ,_, 93_CD ._.
+Róghane-brinj-mógrá_NNP ,_, 36_CD ._.
+Róghane-katán_NNP ,_, 72_CD ._.
+Róghane-níle_NNP ,_, 101_CD ._.
+Róghane-zaghir_NNP ,_, 101_CD ._.
+Samaghe-ázád-darakhté-hindí_NNP ,_, 101_CD ._.
+Samaghe-kabít_NNP ,_, 82_CD ._.
+Samaghe-níle_NNP ,_, 101_CD ._.
+Saqe-khitmí_NNP ,_, 60_CD ._.
+Satte-giló_NNP ,_, 10_CD ,_, 11_CD ._.
+Sháh-tarah_NNP ,_, 24_CD ._.
+Shamlite-dashtí_NNP ,_, 58_CD ._.
+Sheraé-límú_NNP ,_, 81_CD ._.
+Shiraé-turanj_NNP ,_, 81_CD ._.
+Shule-kalán_NNP ,_, 87_CD ._.
+Shule-khurd_NNP ,_, 84_CD ._.
+Sípandáne-supéd_NNP ,_, 24_CD ._.
+Síyáh-dánah_NNP ,_, 5_CD ._.
+Sudále_NNP ,_, 77_CD ._.
+Tukhme-ázád-darakht_NNP ,_, 99_CD ._.
+Tukhme-ázád-darakhte-hindí_NNP ,_, 101_CD ._.
+Tukhme-brinj-mógrá_NNP ,_, 36_CD ._.
+Tukhme-darakhte-shánah_NNP ,_, 68_CD ._.
+Tukhme-katán_NNP ,_, 72_CD ._.
+Tukhme-khitmí_NNP ,_, 60_CD ._.
+Tukhme-khurfah_NNP ,_, 40_CD ._.
+Tukhme-kóknár_NNP ,_, 19_CD ._.
+Tukhme-níle_NNP ,_, 101_CD ._.
+Tukhme-turle_NNP ,_, 28_CD ._.
+Tukhme-turrah-tézak_NNP ,_, 26_CD ._.
+Tukhme-zaghír_NNP ,_, 72_CD ._.
+Turanjabín_NNP ,_, 42_CD ._.
+Turb_NNP ,_, 28_CD ._.
+Vajje-turki_NNP ,_, 4_CD ,_, 5_CD ._.
+INDEX_NN ._.
+157_CD INDEX_NNP OF_NNP ARABIC_NNP SYNONYMS_NNP ._.
+Aanab_NNP ,_, 109_CD ._.
+Aazbah_NNP ,_, 43_CD ._.
+Aflátan_NNP ,_, 94_CD ._.
+Afyún_NNP ,_, 18_CD ._.
+Ainab_NNP ,_, 109_CD ._.
+Alake-rúmí_NNP ,_, 114_CD ._.
+Anbaj_NNP ,_, 120_CD ._.
+Anqharáe-hindí_NNP ,_, 54_CD ._.
+Auhul-khitmi_NNP ,_, 60_CD ._.
+Ausárahe-révand_NNP ,_, 43_CD ._.
+Bádiyáne-khatái_NNP ,_, 7_CD ._.
+Balsán_NNP ,_, 96_CD Bámiya_NNP ,_, 55_CD ._.
+Banafshaj_NNP ,_, 33_CD ._.
+Baqlatul-áarabbíyah_NNP ,_, 41_CD ._.
+Baqlatul-humqá_NNP ,_, 40_CD ._.
+Baqlatul-malik_NNP ,_, 24_CD ._.
+Bastaj_NNP ,_, 97_CD ._.
+Bastitáj_NNP ,_, 74_CD ._.
+Bazrul-baqlatul-humqá_NNP ,_, 40_CD ._.
+Bazrul-kattán_NNP ,_, 72_CD ._.
+Bazrul-khitmi_NNP ,_, 60_CD ._.
+Bazrul-mashtul-ghoul_NNP ,_, 68_CD ._.
+Bísh_NNP ,_, 1_CD ,_, 2_CD ,_, 4_CD ._.
+Bizrul-fajl_NNP ,_, 28_CD ._.
+Bizrul-khash-khásh_NNP ,_, 19_CD ._.
+Daqáq-kundar_NNP ,_, 99_CD ._.
+Dár-hald_NNP ,_, 11_CD ,_, 13_CD ,_, 14_CD ,_, 15_CD ._.
+Dhonul-balsán_NNP ,_, 96_CD ._.
+Dhonul-kattán_NNP ,_, 72_CD ._.
+Faijan_NNP ,_, 74_CD ._.
+Farfirán_NNP ,_, 43_CD ._.
+Féjan_NNP ,_, 77_CD ._.
+Fujl_NNP ,_, 28_CD ._.
+Gardahe-somáq_NNP ,_, 119_CD ._.
+Giló_NNP ,_, 9_CD ._.
+Habbul-asl_NNP ,_, 43_CD ._.
+Habbul-fahm_NNP ,_, 122_CD ._.
+Habbul-mishk_NNP ,_, 55_CD ._.
+Habbul-misk_NNP ,_, 55_CD ._.
+Habbul-mushk_NNP ,_, 55_CD ._.
+Habbul-qalle_NNP ,_, 126_CD ._.
+Habbul-qutn_NNP ,_, 52_CD ._.
+Habbut-tarfá_NNP ,_, 42_CD ._.
+Habhabú_NNP ,_, 67_CD ._.
+Hubburrashád_NNP ,_, 26_CD ._.
+Hujed_NNP ,_, 67_CD ._.
+Hurmal_NNP ,_, 87_CD ._.
+Hurmul_NNP ,_, 84_CD ,_, 88_CD ._.
+Huzuze-hindí_NNP ,_, 14_CD ._.
+Inqardiyá_NNP ,_, 124_CD ._.
+Jadvár_NNP ,_, 4_CD ,_, 6_CD ,_, 7_CD ._.
+Kabit_NNP ,_, 82_CD ._.
+Kamúno-asvad_NNP ,_, 5_CD ._.
+Kazánjabín_NNP ,_, 42_CD ._.
+Khardale-abyaz_NNP ,_, 24_CD ._.
+Khasak_NNP ,_, 74_CD ._.
+Kulbahe-barrí_NNP ,_, 58_CD ._.
+Kundur_NNP ,_, 95_CD ,_, 96_CD ,_, 97_CD ,_, 116_CD ,_, 118_CD ._.
+Kundur_NNP ,_, madharaj_NN ,_, 98_CD ._.
+Kundur-unsá_NNP ,_, 98_CD ._.
+Kundur-zakar_NNP ,_, 98_CD ._.
+Lubán_NNP ,_, 96_CD ._.
+Maghze-safarjale-hindíé-kabír_NNP ,_, 87_CD ._.
+Maghze-safarjale-hindíé-khurd_NNP ,_, 84_CD ._.
+Mastakí_NNP ,_, 114_CD ._.
+Mául-límá_NNP ,_, 81_CD ._.
+Mául-utráj_NNP ,_, 81_CD ._.
+Mávez_NNP ,_, 110_CD ._.
+Moql_NNP ,_, 94_CD ._.
+Moqle-arzaq_NNP ,_, 94_CD ._.
+Qaiqahar_NNP ,_, 50_CD ._.
+Qanqahar_NNP ,_, 50_CD ._.
+Qishár-kundur_NNP ,_, 98_CD ._.
+Qishrul-habhabu_NNP ,_, 67_CD ._.
+Qishrul-hujéd_NNP ,_, 67_CD ._.
+Qishrul-khash-khásh_NNP ,_, 19_CD ._.
+Qishrul-límú_NNP ,_, 81_CD ._.
+Qishrul-náránj_NNP ,_, 81_CD ._.
+Qishrul-utraj_NNP ,_, 81_CD ._.
+Qishrul-utruj_NNP ,_, 81_CD ._.
+Qutn_NNP ,_, 52_CD ._.
+Qutun_NNP ,_, 52_CD ._.
+Rubbe-révand_NNP ,_, 43_CD ._.
+Sáé_NNP ,_, 48_CD ._.
+Samaghe-kabit_NNP ,_, 82_CD ._.
+Samaratul-asl_NNP ,_, 43_CD ._.
+Samaratul-tarfá_NNP ,_, 42_CD ._.
+Safarjalé-hindíé-kabír_NNP ,_, 87_CD ._.
+Safarjalé-hindíé-saghír_NNP ,_, 84_CD ._.
+Sáqul-khitmi_NNP ,_, 60_CD ._.
+Satte-gelo_NNP ,_, 10_CD ,_, 11_CD ._.
+Sháh-traj_NNP ,_, 24_CD ._.
+Turanjabín_NNP ,_, 42_CD ._.
+Vardul-náranj_NNP ,_, 80_CD ._.
+Varqul-hastitáj_NNP ,_, 74_CD ._.
+Varqul-Khasak_NNP ,_, 74_CD ._.
+Varqul-mashtul-ghoul_NNP ,_, 68_CD ._.
+Zabíle_NNP ,_, 110_CD ._.
+Zarish_JJ ,_, 14_CD ._.
+158_CD INDEX_NNP ._.
+INDEX_NN OF_NNP SANSCRIT_NNP SYNONYMS_NNP ._.
+Ámra_NN ,_, 120_CD ._.
+Ámra-niryásam_NN ,_, 120_CD ._.
+Ámra-phalam_NN ,_, 120_CD ._.
+Ámara-taka_NN ,_, 130_CD ._.
+Aphim_NNP ,_, 19_CD ._.
+Arishta-phalam_NNP ,_, 112_CD ._.
+Arushkara_NNP ,_, 124_CD ._.
+Atasí_NNP ,_, 72_CD ._.
+Atasí-tailum_NNP ,_, 72_CD ._.
+Badari-phalam_NNP ,_, 109_CD ._.
+Bhallá-taka_NNP ,_, 124_CD ._.
+Bhallá-taki-bíjam_NNP ,_, 124_CD ._.
+Bhukapidtha-patram_NNP ,_, 84_CD ._.
+Champaka-pushpam_NNP ,_, 8_CD ._.
+Dárviká_NNP ,_, 55_CD ._.
+Dráksha_NNP phalam_NN ,_, 109_CD ._.
+Ganda-rasaha_NNP ,_, 94_CD ._.
+Gókhurhá_NNP ,_, 74_CD ._.
+Gókhurhá-patram_NNP ,_, 74_CD ._.
+Guggilam_NNP ,_, 50_CD ._.
+Ingudi-phalam_NNP ,_, 94_CD ._.
+Japá-pushpam_NNP ,_, 54_CD ._.
+Jingini-niryásam_NNP ,_, 129_CD ._.
+Jyótishmati-patram_NNP ,_, 112_CD ._.
+Kala-sarsha-phala_NNP ,_, 25_CD ._.
+Kapidtha-niryásam_NNP ,_, 81_CD ._.
+Kapidtha-patram_NNP ,_, 81_CD ._.
+Kapidtha-phalam_NNP ,_, 81_CD ._.
+Karkata-sringi_NNP ,_, 118_CD ._.
+Karpás_NNP ,_, 51_CD ._.
+Karpása_NNP ,_, 52_CD ._.
+Karpása-bíjam_NNP ,_, 52_CD ._.
+Koushi-kaha_NNP ,_, 50_CD ,_, 94_CD ._.
+Lata-kasturikam_NNP ,_, 55_CD ._.
+Nága-kesaram-pushpam_NNP ,_, 47_CD ._.
+Núnba-múlam-valkalam_NNP ,_, 100_CD ._.
+Núnba-niryásam_NNP ,_, 101_CD ._.
+Núnba-patram_NNP ,_, 101_CD ._.
+Núnba-phalam_NNP ,_, 100_CD ._.
+Núnba-pushpam_NNP ,_, 101_CD ._.
+Núnba-tailam_NNP ,_, 101_CD ._.
+Núnba-valkalam_NNP ,_, 100_CD ._.
+Parvata-nímba-bíjam_NNP ,_, 99_CD ._.
+Parvata-nímba-múl-valkalam_NNP ,_, 99_CD ._.
+Phenila_NNP ,_, 112_CD ._.
+Piyála_NNP ,_, 128_CD ._.
+Póstubejam_NNP ,_, 19_CD ._.
+Punnága-bíjam_NNP ,_, 46_CD ._.
+Punnága-tailam_NNP ,_, 46_CD ._.
+Rasa-gandhaha_NNP ,_, 95_CD ._.
+Raktavalli_NNP ,_, 108_CD ._.
+Sadápaha_NNP ,_, 77_CD ._.
+Salai-niryásam_NNP ,_, 96_CD ._.
+Sarshaphaha_NNP ,_, 25_CD ._.
+Shvéta-sarshaphaha_NNP ,_, 24_CD ._.
+Sóma-valli_NNP ,_, 9_CD ._.
+Surabhi-nímba-patram_NNP ,_, 80_CD ._.
+Trikan-takavalli_NNP ,_, 74_CD ._.
+Vajra-valli_NNP ,_, 111_CD ._.
+Vanasarangáta-patram_NNP ,_, 74_CD ._.
+Vanasrangánta_NNP ,_, 74_CD ._.
+INDEX_NN OF_NNP GUZRATTI_NNP SYNONYMS_NNP ._.
+Ambá_NNP ,_, 120_CD ._.
+Ambá-nu-gùndar_NNP ,_, 120_CD ._.
+Aphim_NNP ,_, 19_CD ._.
+Aritha_NNP ,_, 112_CD ._.
+Bálank-nu-chilkà_NNP ,_, 81_CD ._.
+Bálank-nu-ras_NNP ,_, 82_CD ._.
+Banphsá_NNP ,_, 33_CD ._.
+Bhilamu_NNP ,_, 124_CD ._.
+Bhindu_NNP ,_, 55_CD ._.
+Bijóra-nu-chilka_NNP ,_, 81_CD ._.
+Bijora-nu-ras_NNP ,_, 82_CD ._.
+Bilambu_NNP ,_, 76_CD ._.
+Ból_NNP ,_, 95_CD ._.
+Bór_NNP ,_, 109_CD ._.
+Chá_NNP ,_, 48_CD ._.
+Chirunji_NNP ,_, 128_CD ._.
+Chódhári_NNP ,_, 111_CD ._.
+Drakh_NNP ,_, 109_CD ._.
+Gokhru_NNP ,_, 74_CD ._.
+Gòkhru-nu-pándru_NNP ,_, 74_CD ._.
+Gorak-amlí-nu-chálo_NNP ,_, 67_CD ._.
+Gorak-amlí_NNP ,_, 67_CD ._.
+Gulvé1_NNP ,_, 9_CD ._.
+Gugul_NNP ,_, 93_CD ._.
+Hingernu-phala_NNP ,_, 93_CD ._.
+Jásút-nu-phúl_NNP ,_, 54_CD ._.
+Káju-nu-gótli_NNP ,_, 123_CD ._.
+Káju-nu_NNP gún_NN ,_, 123_CD ._.
+Káju-nu-tél_NNP ,_, 123_CD ._.
+Kála-rai_NNP ,_, 25_CD ._.
+Kalo-dámar_NNP ,_, 51_CD ,_, 95_CD ._.
+Kangoi-nu-bíj_NNP ,_, 65_CD ._.
+Kangói-nu-pána_NNP ,_, 68_CD ._.
+Kán-ph_NNP ti-nu-pándru_NN ,_, 112_CD ._.
+Kapás-nu-bij_NNP ,_, 51_CD ._.
+Karepák-nu-pandro_NNP ,_, 80_CD ._.
+INDEX_NN ._.
+159_CD Kavít-82_NNP ._.
+Kavít-gón_NNP ,_, 82_CD ._.
+Kavít-pándru_NNP ,_, 82_CD ._.
+Khaskhas_NNP ,_, 19_CD ._.
+Khaskhas-nu-póst_NNP ,_, 19_CD ._.
+Kóthu_NNP ,_, 82_CD ._.
+Kóthu-pándru_NNP ,_, 82_CD ._.
+Lál-anbári-nu-bíj_NNP ,_, 53_CD ._.
+Limba-nu-chál_NNP ,_, 100_CD ._.
+Limba-nu-gotli_NNP ,_, 101_CD ._.
+Limba-nu-gúndar_NNP ,_, 101_CD ._.
+Limba-nu-jad-chál_NNP ,_, 100_CD ._.
+Limba-nu-pandru_NNP ,_, 101_CD ._.
+Limba-nu-phula_NNP ,_, 100_CD ._.
+Limba-nu-phal_NNP ,_, 101_CD ._.
+Limba-nu-tíl_NNP ,_, 101_CD ._.
+Mótu-bíli-nu-phal_NNP ,_, 87_CD ._.
+Nánu-bilinu-phal_NNP ,_, 84_CD ._.
+Náringi-nu-chilká_NNP ,_, 80_CD ._.
+Náringi-nu-phula_NNP ,_, 80_CD ._.
+Nímbu-nu-chilka_NNP ,_, 81_CD ._.
+Nímbu-nu-ras_NNP ,_, 81_CD ._.
+Párasa-piplo-nu-chál_NNP ,_, 58_CD ._.
+Párasu-piplo-nu-phal_NNP ,_, 58_CD ._.
+Ru_NNP ,_, 52_CD ._.
+Rú-nú-bij_NNP ,_, 52_CD ._.
+Sadáp_NNP ,_, 77_CD ._.
+Sitáp_NNP ,_, 77_CD ._.
+Tamarak_NNP ,_, 75_CD ._.
+Ujlo-ráyi_NNP ,_, 24_CD ._.
+Vachnág_NNP ,_, 1_CD ._.
+INDEX_NN OF_NNP MAHRATTI_NNP SYNONYMS_NNP ._.
+Ambá_NNP ,_, 120_CD ._.
+Ambá-cha-gónda_NNP ,_, 120_CD ._.
+Aphim_NNP ,_, 19_CD ._.
+Bálata-bóla_NNP ,_, 94_CD ._.
+Bhíndá_NNP ,_, 55_CD ._.
+Bilia_NNP ,_, 124_CD ._.
+Bóra_NNP ,_, 109_CD ._.
+Chámpécha-phúla_NNP ,_, 8_CD ._.
+Charátte_NNP ,_, 74_CD ._.
+Charátte-cha-páno_NNP ,_, 74_CD ._.
+Chirunji_NNP ,_, 128_CD ._.
+Dásinda-cha-phúla_NNP ,_, 54_CD ._.
+Draksha_NNP ,_, 109_CD ._.
+Ghókaru_NNP ,_, 74_CD ._.
+Ghókaru-cha-pána_NNP ,_, 74_CD ._.
+Góraka-ainli_NNP ,_, 66_CD ._.
+Góraka-ainli-cha-patta_NNP ,_, 66_CD ._.
+Guggula_NNP ,_, 93_CD ._.
+Guggilu_NNP ,_, 50_CD ._.
+Gula-véli_NNP ,_, 9_CD ._.
+Hingana-cha-phal_NNP ,_, 93_CD ._.
+Jhádi-haladi_NNP ,_, 11_CD ._.
+Kaju-cha-antholi_NNP ,_, 123_CD ._.
+Kaju-cha-bi_NNP ,_, 123_CD ._.
+Kaju-cha-gónda_NNP ,_, 123_CD ._.
+Kaju-cha-téla_NNP ,_, 123_CD ._.
+Kákada-shingi_NNP ,_, 118_CD ._.
+Kala-mohare_NNP ,_, 25_CD ._.
+Kalo-dámar_NNP ,_, 51_CD ._.
+Kán-phúti-cha-páná_NNP ,_, 112_CD ._.
+Kápúsa-chá-bi_NNP ,_, 51_CD ._.
+Kápús_NNP ,_, 51_CD ._.
+Karépáka-cha-pána_NNP ,_, 80_CD ._.
+Kavíta_NNP ,_, 82_CD ._.
+Kavíta-gónda_NNP ,_, 82_CD ._.
+Kavíta-pána_NNP ,_, 82_CD ._.
+Khasakhasa_NNP ,_, 19_CD ._.
+Lahana-bélácha-phalá_NNP ,_, 84_CD ._.
+Lál-anbári-cha-bíj_NNP ,_, 53_CD ._.
+Limba-cha-anthóli_NNP ,_, 101_CD ._.
+Limba-cha-gónda_NNP ,_, 101_CD ._.
+Limba-cha-múli-patta_NNP ,_, 100_CD ._.
+Limba-cha-pána_NNP ,_, 101_CD ._.
+Limba-cha-patta_NNP ,_, 100_CD ._.
+Limba-cha-phúla_NNP ,_, 101_CD ._.
+Limba-cha-téla_NNP ,_, 101_CD ._.
+Limbu-cha-chilto_NNP ,_, 81_CD ._.
+Limbu-cha-ras_NNP ,_, 81_CD ._.
+Mál-kángóni_NNP ,_, 106_CD ._.
+Mál-kángóni-cha-téla_NNP ,_, 106_CD ._.
+Moharí_NNP ,_, 25_CD ._.
+Naringa-cha-chilto_NNP ,_, 80_CD ._.
+Naringa-cha-phúla_NNP ,_, 80_CD ._.
+Nim-cha-pandu_NNP ,_, 100_CD ._.
+Pandhora-moharí_NNP ,_, 24_CD ._.
+Párasá-cha-patta_NNP ,_, 58_CD ._.
+Pórasa-cha-phal_NNP ,_, 58_CD ._.
+Rála_NNP ,_, 50_CD ._.
+Rithá_NNP ,_, 112_CD ._.
+Shimpti-gónda_NNP ,_, 129_CD ._.
+Thóra-bélácha-phala_NNP ,_, 87_CD ._.
+Turanj-cha-chilto_NNP ,_, 81_CD ._.
+Turanj-cha-ras_NNP ,_, 81_CD ._.
+Véppa-káya_NNP ,_, 100_CD ._.
+Vilam-pasha_NNP ,_, 82_CD ._.
+160_CD INDEX_NNP ._.
+INDEX_NN OF_IN BURMESE_NNP SYNONYMS_NNP ._.
+Amé-munniyén_NNP ,_, 25_CD ._.
+Angén_NNP oushi-si_NN ,_, 84_CD ._.
+Balu-vaki_NNP ,_, 55_CD ._.
+Bhain_NNP ,_, 19_CD ._.
+Bhain-zi_NNP ,_, 19_CD ._.
+Bíla-magi-sí_NNP ,_, 67_CD ._.
+Bíla-magi-sikhav_NNP ,_, 67_CD ._.
+Bon-khoye_NNP ,_, 68_CD ._.
+Gon_NNP ,_, 52_CD ._.
+Gún_NNP ,_, 52_CD ._.
+Kála-zoun-sí_NNP ,_, 76_CD ._.
+Kála-zounya-sí_NNP ,_, 76_CD ._.
+Khi-sí_NNP ,_, 124_CD ._.
+Khounyan_NNP ,_, 54_CD ._.
+Kígí-oushi-sí_NNP ,_, 87_CD ._.
+Lambolean_NNP ,_, 128_CD ._.
+Laphí-khiáv_NNP ,_, 48_CD ._.
+Lepán-binis-gún_NNP ,_, 61_CD ._.
+Lepán-bin-sí_NNP ,_, 60_CD ._.
+Lepán-bin-wá_NNP ,_, 61_CD ._.
+Lepán-bin-zí_NNP ,_, 60_CD ._.
+Lonenpho_NNP ,_, 128_CD ._.
+Maávme-sue-khati_NNP ,_, 112_CD ._.
+Miavmen-suekhi-sí_NNP ,_, 112_CD ._.
+Moulá_NNP ,_, 27_CD ._.
+Mouláze_NNP ,_, 27_CD ._.
+Munniyén-zi_NNP ,_, 25_CD ._.
+Pido-sin_NNP ,_, 80_CD ._.
+Pindo-sin_NNP ,_, 80_CD ._.
+Sabí-sí_NNP ,_, 109_CD ._.
+Sabya-sí_NNP ,_, 109_CD ._.
+Shazán-lese_JJ ,_, 111_CD ._.
+Sihosaye-sí_NNP ,_, 123_CD ._.
+Sihosaye-zi_NNP ,_, 123_CD ._.
+Sinza-manne_NNP ,_, 9_CD ._.
+Siya-sí_NNP ,_, 120_CD ._.
+Siya-ti_NNP ,_, 120_CD ._.
+Sule_NNP anén_NN ,_, 74_CD ._.
+Sule-anén-yINDEX_NNP ._.
+161_CD Kohumba-mal_JJ ,_, 101_CD ._.
+Kohumba-melliyam_NNP ,_, 101_CD ._.
+Kohumba-múl-potta_NNP ,_, 100_CD ._.
+Kohumba-potta_NNP ,_, 100_CD ._.
+Kohumba-tél_NNP ,_, 100_CD ._.
+Koti-kám-babila_NNP ,_, 58_CD ._.
+Kudu-mirish-múl-potta_NNP ,_, 78_CD ._.
+Kumba-la-putta_NNP ,_, 92_CD ._.
+Kundrikam_NNP ,_, 97_CD ._.
+Lokka-bélli_NNP ,_, 87_CD ._.
+Mahá-bélli_NNP ,_, 87_CD ._.
+Mahá-nimbá-atta_NNP ,_, 99_CD ._.
+Mahá-nimbá-múl-potta_NNP ,_, 99_CD ._.
+Mair-mánikam_NNP ,_, 58_CD ._.
+Más-anká_NNP ,_, 109_CD ._.
+Mudraká_NNP ,_, 109_CD ._.
+Mudra-palam_NNP ,_, 109_CD ._.
+Neranchi_NNP ,_, 74_CD ._.
+Neranchi-kola_NNP ,_, 74_CD ._.
+Neranji_NNP ,_, 74_CD ._.
+Nimba-gadi_NNP ,_, 100_CD ._.
+Nimba-kola_NNP ,_, 101_CD ._.
+Nimba-kotta_NNP ,_, 101_CD ._.
+Nimba-mal_JJ ,_, 101_CD ._.
+Nimba-melliyam_NNP ,_, 101_CD ._.
+Nimba-múl-potta_NNP ,_, 100_CD ._.
+Nimba-tél_NNP ,_, 101_CD ._.
+Nimba-gaha-potta_NNP ,_, 100_CD ._.
+Punji-bélli_NNP ,_, 84_CD ._.
+Rasa-kinda_NNP ,_, 9_CD ._.
+Rata-dummula_NNP ,_, 93_CD ._.
+Rata-kekuna_NNP ,_, 37_CD ._.
+Sáppu_NNP ,_, 8_CD ._.
+Shén-kotte_NNP ,_, 124_CD ._.
+Sirivadi-babila-múl_NNP ,_, 57_CD ._.
+Suddu-abbí_NNP ,_, 24_CD ._.
+Tè-kóla_NNP ,_, 48_CD ._.
+Tólá-bíj_NNP ,_, 66_CD ._.
+Vachanabhi_NNP ,_, 1_CD ._.
+Vellich-cha-mudra-palam_NNP ,_, 110_CD ._.
+Venivel_NNP ,_, 11_CD ._.

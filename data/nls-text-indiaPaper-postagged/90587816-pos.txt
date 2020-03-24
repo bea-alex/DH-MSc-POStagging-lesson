@@ -1,0 +1,1169 @@
+NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1922-23_JJ BY_NNP LT.-COL_NNP W._NNP M._NNP ANDERSON_NNP ,_, C.I.B._NNP ,_, M.D._NNP ,_, D.T.M_NNP ._.
+&_CC H._NNP ,_, I._NNP M._NNP S._NNP Director_NNP of_IN Public_NNP Health_NNP ,_, North-_NNP West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NN PriceNOTES_NNP ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-_NNP WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1922-23_CD ._.
+AGENT_NNP FOR_NNP THE_NNP SALE_NNP OP_NNP GOVERNMENT_NNP PUBLICATIONS_NNP ._.
+IN_NNP EUROPE_NNP ._.
+MESSRS._NNP CONSTABLE_NNP &_CC Co._NNP ,_, 10_CD ,_, Orange_NNP Street_NNP ,_, Leicester_NNP Square_NNP ,_, London_NNP ,_, W._NNP C._NNP MESSRS._NNP GRINDLAY_NNP 4_CD Co._NNP ,_, 54_CD ,_, Parliament_NNP Street_NNP ,_, London_NNP ,_, S._NNP W._NNP MESSRS._NNP HENRY_NNP S._NNP KING_NNP &_CC Co._NNP ,_, 65_CD ,_, Cornhill_NNP ,_, London_NNP ,_, E._NNP C._NNP MESSRS._NNP KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRUBNER_NNP &_CC Co._NNP ,_, LTD._NNP ,_, 68-74_JJ ,_, Carter_NNP Lane_NNP ,_, London_NNP ,_, E._NNP C._NNP ,_, and_CC 89_CD ,_, New_NNP Oxford_NNP Street_NNP ,_, London_NNP ,_, W._NNP C._NNP MR._NNP BERNARD_NNP QUARITCH_NNP ,_, 11_CD ,_, Grafton_NNP Street_NNP ,_, New_NNP Bond_NNP Street_NNP ,_, London_NNP ,_, W._NNP MESSRS._NNP P._NNP S._NNP KING_NNP &_CC SON_NNP ,_, 2_CD &_CC 4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ,_, London_NNP ,_, S._NNP W._NNP MESSRS._NNP W._NNP THACKER_NNP &_CC Co._NNP ,_, 2_CD ,_, Creed_NNP Lane_NNP ,_, London_NNP ,_, E._NNP C._NNP MR._NNP T._NNP FISHER_NNP UNWIN_NNP of_IN 1_CD ,_, Adelphi_NNP Terrace_NNP ,_, London_NNP ,_, W._NNP C_NNP ,_, with_IN depots_NNS at_IN New_NNP York_NNP Toronto_NNP ,_, Melbourne_NNP ,_, Wellington_NNP ,_, Cape_NNP Town_NNP ,_, Calcutta_NNP ,_, Tokio_NNP and_CC Leipzig_NNP ._.
+FRIENLANDER_NNP and_CC SOHN_NNP ,_, Berlin_NNP ._.
+MR._NNP ERNEST_NNP LEROUX_NNP ,_, 28_CD ,_, Rue_NNP Bonaparte_NNP ,_, Paris_NNP ._.
+MR._NNP MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP ,_, Hollandl_NNP MR._NNP B._NNP H._NNP BLACKWELL_NNP ,_, 50_CD &_CC 51_CD ,_, Broad_NNP Street_NNP ,_, Oxford_NNP ._.
+MESSRS._NNP DEIGHTON_NNP ,_, BELL_NNP &_CC Co._NNP ,_, LTD._NNP ,_, Cambridge_NNP ._.
+MESSRS_NNP LUZAC_NNP &_CC Co._NNP ,_, 46_CD ,_, Great_NNP Russell_NNP Street_NNP ,_, London_NNP ,_, W._NNP C._NNP MESSRS._NNP OLIVER_NNP &_CC BODY_NNP ,_, Tweeddale_NNP Court_NNP ,_, Edinburgh_NNP ._.
+OTTO_NNP HARRASSOWITZ_NNP ,_, Leipzig_NNP ._.
+MESSRS._NNP E._NNP PONSONRY_NNP ,_, LTD._NNP ,_, 116_CD ,_, Grafton_NNP Street_NNP ,_, Dublin_NNP ._.
+MESSRS._NNP WELDON_NNP AND_NNP WESLEY_NNP ,_, LTD._NNP ,_, 2_CD ,_, 3_CD &_CC 4_CD ,_, Arthur_NNP Street_NNP ,_, New_NNP Oxford_NNP Street_NNP ,_, London_NNP ,_, W._NNP C._NNP 2_CD ._.
+MESSRS._NNP EAST_NNP AND_NNP WEST_NNP LTD._NNP ,_, 3_CD ,_, Victoria_NNP Street_NNP ,_, London_NNP ,_, S._NNP W._NNP 1_CD ._.
+IN_NNP INDIA_NNP ._.
+MESSRS.THACKER_NNP ,_, SPINK_NNP &_CC Co._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+MESSRS._NNP NEWMAN_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP R._NNP CAMBRAY_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP S._NNP K._NNP LAHIRI_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+CALCUTTA_NNP SCHOOL_NNP BOOK_NNP AND_NNP USEFUL_NNP LITERATURE_NNP SOCIETY_NNP of_IN 1_CD ,_, Wellington_NNP Square_NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP B._NNP BANERJER_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP BUTTERWORTH_NNP &_CC Co._NNP ,_, LTD._NNP ,_, Calcutta_NNP ._.
+THE_DT WELDON_NNP LIBRARY_NNP of_IN 18-5_JJ ,_, Chowrin-_NNP ghee_NN Road_NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP M._NNP C._NNP SIRCAR_NNP &_CC SONS_NNP of_IN 75_CD ,_, Harrison_NNP Road_NNP ,_, Calcutta_NNP ._.
+THE_DT STANDARD_NNP LITERATURE_NNP COMPANY_NNP ,_, LTD._NNP ,_, Calcutta_NNP ._.
+THE_DT ASSOCIATION_NNP PRESS_NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP HIGGINBOTHAM_NNP &_CC Co._NNP ,_, Madras_NNP ,_, MESSRS._NNP V._NNP KALYANARAMA_NNP IYER_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP VAS_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP G._NNP A._NNP NATESAN_NNP &_CC Co._NNP ,_, Madras.._NNP MESSRS._NNP THOMPSON_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP S._NNP MURTHY_NNP &_CC Co_NNP ,_, Madras_NNP ._.
+MESSRS._NNP TEMPLE_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP COMBRIDGE_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP P._NNP R_NNP RAMA_NNP IYAR_NNP &_CC Co._NNP ,_, Madras_NNP M._NNP R._NNP Ry_NNP ._.
+E._NNP M._NNP GOPALA_NNP KRISHNA_NNP KONE_NNP Madura_NNP ,_, Madras_NNP ._.
+MESSRS._NNP THACKER_NNP &_CC Co._NNP ,_, LTD._NNP ,_, Bombay_NNP MESSRS._NNP A._NNP J._NNP COMBRIDGE_NNP &_CC Co._NNP ,_, Bombay_NNP MESSRS._NNP D._NNP B._NNP TARAPOREVALA_NNP SONS_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+MRS._NNP RADHABAI_NNP ATMARAM_NNP SAGOON_NNP ,_, Bombay_NNP ._.
+MESSRS._NNP GOPAL_NNP NARAYEN_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+MESSRS._NNP RAMCHANDRA_NNP GOVIND_NNP &_CC SONS_NNP ,_, Booksellers_NNP and_CC Publishers_NNP ,_, Kalbadevi_NNP ,_, Bombay_NNP ._.
+MR._NNP RAMNATH_NNP SUNDER_NNP of_IN Bombay_NNP ._.
+SUPERINTENDENT_NNP ,_, AMERICAN_NNP BAPTIST_NNP MISSION_NNP PRESS_NNP ,_, Rangoon_NNP ._.
+MR._NNP MANGALDAS_NNP HARKISHANDAS-of-Surat_NNP RAI_NNP SAHAIB_NNP M._NNP GULAB_NNP SINGH_NNP &_CC SON_NNP ,_, Mufid-i-Am_NNP Press_NNP ,_, Lahore_NNP ._.
+MESSRS._NNP RAMA_NNP KRISHNA_NNP &_CC SONS_NNP ,_, Lahore_NNP MR._NNP N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP Nazair_NNP Kannu_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+BABU_NNP S._NNP C._NNP TALUKDAR_NNP ._.
+Proprietor_NNP Students_NNP &_CC Co._NNP ,_, Cooch_NNP Behar_NNP ._.
+MESSRS._NNP A._NNP H._NNP WHEELER_NNP &_CC Co._NNP ,_, Allaha-_NNP bad_JJ ._.
+Calcutta_NNP and_CC Bombay_NNP ._.
+THE_DT NEW_NNP PROPRIETOR_NNP ,_, KITAB_NNP KHANA_NNP ,_, Poona_NNP ._.
+THE_DT NEWAL_NNP KISHORE_NNP PRESS_NNP ,_, Lucknow_NNP ._.
+SEETA_NNP RAM_NNP ._.
+Managing_VBG Proprietor_NNP ,_, Indian_JJ Army_NNP Book_NNP Depot_NNP ,_, Juhi_NNP ,_, Cawnpore_NNP ._.
+THE_DT MANAGER_NNP ,_, Hitavada_NNP ,_, Nagpur_NNP ._.
+THE_DT STANDARD_NNP BOOKSTALL_NNP ,_, Karachi_NNP ._.
+THE_DT MANAGER_NNP ,_, IMPERIAL_NNP BOOK_NNP DEPOT_NNP ,_, Delhi_NNP ._.
+THE_DT OXFORD_NNP BOOK_NNP AND_NNP STATIONERY_NNP Co._NNP ,_, Delhi_NNP ._.
+IN_NNP CEYLON_NNP ._.
+MESSRS._NNP A._NNP M._NNP &_CC J._NNP FERGUSON_NNP ._.
+NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1922-23_JJ BY_NNP LT.-COL._NNP W._NNP M._NNP ANDERSON_NNP ,_, C.I.E._NNP ,_, M.D._NNP ,_, D.T.M_NNP ._.
+&_CC H._NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North-_NNP West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NN PriceNotes_VBZ on_IN Vaccination_NNP in_IN the_DT North-West_NNP Frontier_NNP Province_NNP for_IN the_DT year_NN 1922-23._JJ REVIEW_NNP BY_NNP THE_NNP CHIEF_NNP COMMISSIONER_NNP ._.
+IN_NNP his_PRP$ review_NN on_IN the_DT Vaccination_NNP Report_NNP for_IN 1920-21_JJ and_CC again_RB in_IN that_DT for_IN 1921-22_JJ ,_, the_DT Chief_NNP Commissioner_NNP noted_VBD with_IN regret_JJ the_DT substantial_JJ decrease_NN in_IN the_DT number_NN of_IN vaccinations_NNS as_IN compared_VBN with_IN the_DT year_NN 1919-20_RB ._.
+The_DT record_NN for_IN the_DT year_NN now_RB under_IN review_NN presents_VBZ a_DT most_RBS welcome_JJ contrast_NN ._.
+In_IN spite_NN of_IN both_CC the_DT posts_NNS of_IN Divisional_NNP Inspector_NNP having_VBG been_VBN brought_VBN under_IN reduction_NN ,_, and_CC in_IN spite_NN of_IN a_DT reduction_NN of_IN one_CD in_IN the_DT number_NN of_IN Vaccinators_NNS ,_, the_DT number_NN of_IN operations_NNS rose_VBD from_IN 100,219_CD in_IN 1921-22_CD to_TO 144,155_CD ,_, the_DT latter_JJ figure_NN being_VBG more_JJR than_IN 9,000_CD in_IN excess_NN of_IN the_DT number_NN for_IN 1919-20_JJ ._.
+In_IN the_DT Hazara_NNP District_NNP alone_RB was_VBD there_EX a_DT decrease_NN as_IN compared_VBN with_IN the_DT ._.
+average_NN for_IN the_DT preceding_VBG five_CD years_NNS ._.
+The_DT increase_NN in_IN the_DT number_NN of_IN revaccinations_NNS is_VBZ parti-_JJ cularly_RB gratifying_NN ._.
+Further_RB ,_, the_DT Chief_NNP Commissioner_NNP notes_NNS with_IN satisfaction_NN that_IN ,_, thanks_NNS to_TO the_DT large_JJ average_NN of_IN successful_JJ vaccinations_NNS per_IN head_NN of_IN the_DT staff_NN ,_, the_DT average_JJ cost_NN of_IN each_DT case_NN was_VBD commendably_RB low_JJ (_( Re_NNP ._.
+0-2-7_NN )_) ,_, in_IN spite_NN of_IN the_DT increased_VBN pay_NN which_WDT has_VBZ been_VBN in_IN force_NN since_IN March_NNP 1921_CD ._.
+The_DT cost_NN of_IN each_DT successful_JJ operation_NN in_IN the_DT North-West_NNP Frontier_NNP Province_NNP now_RB compares_VBZ favourably_RB with_IN that_DT in_IN the_DT Punjab_NNP and_CC in_IN the_DT United_NNP Provinces_NNPS ._.
+Small-pox_NNP did_VBD not_RB occur_VB in_IN epidemic_JJ form_NN and_CC the_DT number_NN of_IN scattered_JJ cases_NNS was_VBD unusually_RB low_JJ ,_, the_DT total_JJ number_NN of_IN deaths_NNS recorded_VBN being_VBG only_RB 118_CD ._.
+The_DT Chief_NNP Commissioner_NNP desires_VBZ to_TO tender_VB his_PRP$ cordial_JJ acknowledgments_NNS to_TO Lieutenant-Colonel_NNP W._NNP M._NNP Anderson_NNP ,_, C.I.E._NNP ,_, I._NNP M_NNP S._NNP ,_, for_IN the_DT marked_JJ success_NN which_WDT has_VBZ attended_VBN the_DT efforts_NNS made_VBN by_IN him_PRP to_TO increase_VB the_DT efficiency_NN of_IN this_DT important_JJ branch_NN of_IN the_DT medical_JJ administration_NN of_IN the_DT Province_NNP ._.
+C._NNP LATIMER_NNP ,_, Secretary_NNP to_TO the_DT Chief_NNP Commissioner_NNP ,_, CAMP_NNP SIMLA_NNP :_: North-_JJ West_NNP Frontier_NNP Province_NNP ._.
+The_DT 3rd_CD August_NNP 1923_CD ._.
+N.-W._JJ F._NNP P._NNP Govt_NNP ._.
+Press_NN ,_, PeshawarCONTENTS_NNP ._.
+PARA_NNP PAGE_NNP ._.
+1_CD ._.
+Administration_NN ..._: ..._: ..._: 1_CD 2_CD ._.
+Statement_JJ No_NNP ._.
+I_PRP ._.
+(_( ii_NN )_) ANNUAL_NNP FORMS_NNP ._.
+Statement_JJ No_NNP ._.
+I.NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1922-23_CD ._.
+Administration_NN ._.
+1_CD ._.
+The_DT charge_NN of_IN the_DT Vaccination_NNP Department_NNP was_VBD held_VBN by_IN me_PRP throughout_IN the_DT year_NN ,_, The_DT post_NN of_IN Assistant_NNP Director_NNP of_IN Public_NNP Health_NNP was_VBD held_VBN by_IN Lieutenant-Colonel_NNP J_NNP ._.
+Husband_NNP ,_, I._NNP M._NNP S._NNP ,_, from_IN 11th_CD January_NNP to_TO 11th_CD September_NNP and_CC by_IN Lieutenant-Colonel_NNP H._NNP G._NNP Stiles-Webb_NNP ,_, I._NNP M._NNP S._NNP ,_, for_IN the_DT rest_NN of_IN the_DT year_NN ._.
+Statement_JJ No_NNP ._.
+I_PRP ._.
+(_( 2_CD )_) was_VBD an_DT increase_NN in_IN the_DT number_NN of_IN vaccinations_NNS in_IN all_DT districts_NNS and_CC agencies_NNS ,_, except_IN in_IN Hazara_NNP ,_, and_CC a_DT total_JJ increase_NN of_IN 24,341_CD ._.
+District_NNP ._.
+Mean_JJ average_JJ 1917-18_JJ to_TO 1931-22_CD ._.
+1922-23_CD ._.
+Hazara_NNP ..._: 38,792_CD 34,315_CD Peshawar_NNP ..._: 22,890_CD 25,835_CD Mardan_NNP ..._: 15,507_CD 18,027_CD Kohat_NNP ..._: 10,132_CD 12,115_CD Bannu_NNP ..._: 8,391_CD 9,396_CD Dera_NNP Ismail_NNP Khan_NNP 14,570_CD 20,276_CD Agencies_NNS ..._: 9,332_CD 23,191_CD Total_JJ 119,814_CD 144,155_CD A_NNP special_JJ effort_NN was_VBD made_VBN this_DT year_NN to_TO increase_VB the_DT efficiency_NN of_IN the_DT vaccination_NN staff_NN ._.
+In_IN May_NNP ,_, instructions_NNS for_IN vaccinators_NNS in_IN their_PRP$ own_JJ vernacular_NN were_VBD prepared_JJ and_CC supplied_VBN to_TO Civil_NNP Surgeons_NNP for_IN distribution_NN to_TO them_PRP ._.
+At_IN the_DT beginning_NN of_IN the_DT vaccination_NN season_NN ,_, all_DT vaccinators_NNS were_VBD summoned_VBN to_TO head-quarters_NNS and_CC the_DT Civil_NNP Surgeons_NNP saw_VBD that_IN each_DT man_NN was_VBD supplied_VBN with_IN all_PDT the_DT articles_NNS of_IN equipment_NN on_IN the_DT sanctioned_JJ list_NN ,_, and_CC that_IN he_PRP understood_VBD the_DT instructions_NNS referred_VBD to_TO above_VB ._.
+He_PRP was_VBD then_RB provided_VBN with_IN a_DT tour_NN programme_NN ,_, directing_VBG him_PRP where_WRB he_PRP was_VBD to_TO work_VB during_IN the_DT next_JJ six_CD months_NNS ._.
+The_DT result_NN has_VBZ been_VBN a_DT great_JJ increase_NN in_IN the_DT output_NN of_IN work_NN ._.
+Average_JJ number_NN vacci-_JJ nated_VBN by_IN each_DT vaccinator_NN ._.
+4_CD ._.
+The_DT average_JJ number_NN vaccinated_VBN by_IN each_DT vaccinator_NN was_VBD 3,837.57_CD ._.
+Dera_NNP Ismail_NNP Khan_NNP heads_VBZ the_DT list_NN with_IN an_DT average_NN of_IN 5,053.5_CD per_IN vaccinator_NN ,_, Hazara_NNP being_VBG next_JJ with_IN 4,902.14_CD ._.
+Vaccinations_NNS according_VBG to_TO ages_NNS ._.
+5_CD ._.
+There_EX were_VBD 108,460_CD successful_JJ primary_JJ vaccinations_NNS performed_VBD ,_, 63,852_CD of_IN which_WDT were_VBD on_IN infants_NNS under_IN one_CD year_NN and_CC 34,454_CD on_IN children_NNS between_IN one_CD and_CC six_CD years_NNS of_IN age_NN ._.
+The_DT successful_JJ vaccinations_NNS were_VBD at_IN the_DT rate_NN of_IN 40.31_CD per_IN mille_NN of_IN the_DT population_NN ,_, the_DT average_NN for_IN the_DT preceding_VBG five_CD years_NNS being_VBG 36.98_CD ._.
+Re-vaccinations_NNS ._.
+6_CD ._.
+Thirty_NNP thousand_VBP one_CD hundred_CD and_CC eighty-eight_JJ re-vaccinations_NNS were_VBD performed_VBN during_IN the_DT year_NN compared_VBN with_IN an_DT average_NN of_IN (_( 3_CD )_) 17,980_CD in_IN the_DT preceding_VBG quinquennium_NN ._.
+This_DT is_VBZ a_DT great_JJ improvement_NN ._.
+It_PRP is_VBZ generally_RB agreed_VBN that_IN a_DT single_JJ vaccina-_JJ tion_NN does_VBZ not_RB produce_VB immunity_NN to_TO small-pox_NN for_IN life_NN ._.
+At_IN least_JJS two_CD re-vaccinations_NNS are_VBP necessary_JJ ,_, especially_RB if_IN risk_NN of_IN infection_NN occurs_NNS ._.
+Appendix_NNP to_TO Statement_NNP No_NNP ._.
+I_PRP ._.
+(_( 4_CD )_) cost_NN of_IN staff_NN of_IN Rs_NNP ._.
+2,640_CD ,_, but_CC much_RB more_JJR lymph_NN was_VBD purchased_VBN than_IN in_IN 1921_CD ,_, and_CC this_DT ,_, with_IN other_JJ minor_JJ expenses_NNS ,_, reduced_VBD the_DT savings_NNS to_TO Rs_NNP ._.
+1,968_CD ._.
+The_DT expendi-_JJ ture_NN incurred_VBN on_IN the_DT purchase_NN of_IN lymph_NN was_VBD Rs_NNP ._.
+3,210_CD ._.
+The_DT total_JJ expenditure_NN incurred_VBN was_VBD met_VBN from_IN the_DT funds_NNS noted_VBD below_IN :_: (_( 5_CD )_) Mardan_NN this_DT year_NN 632_CD vaccination_NN operations_NNS were_VBD performed_VBN by_IN the_DT staff_NN of_IN outlying_VBG dispensaries_NNS and_CC in_IN Kohat_NNP 269_CD oases_NNS were_VBD similarly_RB vaccinated_VBN ._.
+The_DT sub-assistant_JJ surgeons_NNS attached_VBN to_TO the_DT South_NNP Waziristan_NNP Scouts_NNP also_RB vaccinated_VBD 1,194_CD of_IN the_DT men_NNS recently_RB recruited_VBD for_IN that_DT corps_NN ._.
+Two_CD sub-assistant_JJ surgeons_NNS in_IN Chitral_NNP acted_VBD as_IN superintendents_NNS of_IN vaccination_NN in_IN that_DT agency_NN ._.
+Statement_JJ No_NNP ._.
+V._NNP (_( 6_CD )_) the_DT year_NN ,_, but_CC the_DT figures_NNS are_VBP only_RB approximately_RB correct_JJ because_IN registration_NN is_VBZ defective_JJ and_CC many_JJ people_NNS from_IN trans-_JJ frontier_NN tracts_NNS ,_, when_WRB passing_VBG through_IN the_DT settled_JJ districts_NNS ,_, allow_VBP their_PRP$ children_NNS to_TO be_VB vaccinated_VBN ._.
+Apppndix_NNP B.Diagram_NNP showing_VBG the_DT death-rates_NNS from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN ,_, during_IN the_DT year_NN 1922-23_CD ,_, the_DT average_JJ rate_NN of_IN mortality_NN from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1921-22_JJ ,_, and_CC the_DT proportion_NN of_IN successful_JJ vaccinations_NNS during_IN the_DT year_NN 1922-23_CD ,_, and_CC the_DT preceding_VBG six_CD years_NNS in_IN each_DT district_NN of_IN the_DT North-West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ STATEMENTS_NNP ._.
+(_( ii_NN )_) A_DT ._.
+(_( iii_NN )_) DEPARTMENT_NNP ._.
+No_DT ._.
+I_PRP ._.
+Frontier_NNP Province_NNP during_IN the_DT year_NN 1922-23_CD ._.
+7_CD 8_CD 9_CD Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT Vaccinator_NNP ._.
+PRIMARY_NNP VACCINATION_NNP ._.
+Re-vaccination_NN ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Under_IN 1_CD year_NN ._.
+One_CD and_CC under_IN 6_CD years_NNS ._.
+Total_NN of_IN all_DT ages_NNS ._.
+9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 4,902.14_CD 24,962_CD 15,486_CD 7,936_CD 24,280_CD 469_CD 9,353_CD 8,454_CD 595_CD 3,391.0_CD 23,100_CD 14,436_CD 5,686_CD 21,424_CD 1,227_CD 645_CD 430_CD 115_CD 4,348.75_CD 16,651_CD 9,361_CD 6,277_CD 16,509_CD 113_CD 744_CD 690_CD 36_CD 2,961.5_CD 10,208_CD 5,948_CD 2,573_CD 9,766_CD 321_CD 1,638_CD 1,216_CD 185_CD 3,132.0_CD 7,628_CD 5,187_CD 1,396_CD 7,173_CD 347_CD 1,768_CD 713_CD 561_CD 5,053.5_CD 13,055_CD 7,284_CD 3,939_CD 12,492_CD 345_CD 7,221_CD 5,798_CD 462_CD 4,031.13_CD 95,604_CD 57,702_CD 27,807_CD 91,644_CD 2,822_CD 21,369_CD 17,301_CD 1,954_CD 3,666.16_CD 16,074_CD 5,444_CD 6,162_CD 14,974_CD 492_CD 5,923_CD 5,012_CD 269_CD 1,545_CD 1,262_CD 435_CD 346_CD 1,076_CD 78_CD 1,828_CD 1,271_CD 241_CD 3,837.57_CD 112,940_CD (_( a_DT )_) 63,581_CD 34,315_CD 107,694_CD (_( b_NN )_) 3,392_CD 29,120_CD (_( c_NN )_) 23,584_CD 2,464_CD primarily_RB vaccinated_VBN equals_NNS 32_CD which_WDT represents_VBZ secondary_JJ operations_NNS ._.
+persons_NNS of_IN 6_CD years_NNS and_CC over_IN 6_CD years_NNS of_IN age_NN ._.
+re-vaccinated_JJ equals_NNS 38_CD which_WDT represents_VBZ secondary_JJ operations_NNS ._.
+(_( iv_NN )_) A_NNP (_( v_NN )_) DEPARTMENT_NNP ._.
+No_DT ._.
+I_PRP (_( vi_NN )_) SUMMARY_NNP ._.
+(_( vii_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP Statement_VBP showing_VBG the_DT details_NNS of_IN the_DT Vaccination_NNP operations_NNS performed_VBD in_IN Political_JJ Agencies_NNS during_IN the_DT year_NN 1922-23_CD ._.
+TABLE_NN A_DT ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD Serial_JJ No_NNP ._.
+DISTRICT_NNP ._.
+Name_NN of_IN locality_NN ._.
+Average_JJ number_NN of_IN Vaccina-_NNP tors_NNS employed_VBD throughout_IN the_DT year_NN ._.
+Total_JJ number_NN of_IN persons_NNS vaccinated_VBN ._.
+PRIMARY_NNP ._.
+Re-vaccinations_NNS ._.
+Percentage_NN of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_VBN ._.
+Percentage_NN of_IN unknown_JJ cases_NNS to_TO total_JJ cases_NNS ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Under_IN one_CD year_NN ._.
+One_CD and_CC under_IN 6_CD years_NNS ._.
+Total_NN of_IN all_DT ages_NNS ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1_CD Dera_NNP Ismail_NNP Khan_NNP ..._: Sherani_NNP Country_NNP ..._: 1_CD 5,774_CD 2,744_CD 727_CD 1,378_CD 2,660_CD 68_CD 3,030_CD 2,648_CD 192_CD 99.44_CD 93.62_CD 2.48_CD 6.33_CD 2_CD Kurram_NNP Agency_NNP ..._: Kurram_NNP Agency_NNP ..._: 1_CD 7,125_CD 4,862_CD 1,634_CD 1,404_CD 4,346_CD 353_CD 2,263_CD 1,830_CD 67_CD 96.38_CD 83.33_CD 7.26_CD 3.0_CD 3_CD Tochi_NNP (_( viii_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP (_( ix_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP (_( x_PRP )_) A_DT ._.
+(_( xi_NN )_) A_NNP (_( xii_NNP )_) B_NNP (_( xiii_NNP )_) COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN persons_NNS primarily_RB vaccinated_VBN and_CC the_DT number_NN of_IN those_DT persons_NNS who_WP were_VBD successfully_RB vaccinated_VBN in_IN the_DT North-West_NNP Frontier_NNP Province_NNP in_IN each_DT of_IN the_DT undermentioned_JJ official_JJ years_NNS ._.
+ESTABLISHMENT_NNP ._.
+PERSONS_NNP PRIMARILY_NNP VACCINATED_NNP ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Year_NN ending_VBG 31st_CD March_NNP ._.
+From_IN 1900_CD to_TO 1912_CD ._.
+1913_CD ._.
+1914_CD ._.
+1915_CD ._.
+1916_CD ._.
+1917_CD ._.
+Government_NN ..._:
+The_DT informa-_JJ tion_NN for_IN the_DT year_NN previous_JJ to_TO 1900_CD is_VBZ not_RB available_JJ ._.
+118,703_CD 107,106_CD 10,125_CD 9,718_CD 11,353_CD 10,831_CD 7,341_CD 6,548_CD 10,140_CD 9,450_CD 6,601_CD 5,953_CD Municipal_NNP ,_, Local_NNP and_CC District_NNP Funds_NNS ..._: 965,502_CD 914,890_CD 113,385_CD 110,276_CD 131,922_CD 129,207_CD 130,866_CD 128,616_CD 112,546_CD 110,489_CD 126,421_CD 122,423_CD Dispensaries_NNS ..._: 8,434_CD 6,194_CD 299_CD 291_CD 108_CD 94_CD 8_CD 7_CD ..._: ..._: ..._: ..._: TOTAL_VBP ..._: 1,092,639_CD 1,028,190_CD 123,809_CD 120,285_CD 143,383_CD 140,132_CD 138,215_CD 135,171_CD 122,686_CD 119,939_CD 133,022_CD 128,376_CD (_( xiv_NN )_) COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP (_( xv_NNP )_) STATEMENT_NNP No_NNP ._.
+V._NNP Showing_NNP results_NNS of_IN inspection_NN of_IN Vaccination_NNP by_IN Inspecting_VBG Officers_NNS in_IN the_DT North-West_NNP Frontier_NNP Province_NNP during_IN the_DT year_NN 1922-23_CD ._.
+Serial_JJ No_NNP ._.
+DISTRICT_NNP ._.
+Total_JJ number_NN of_IN persons_NNS vaccinated_VBN ._.
+TOTAL_JJ NUMBER_NNP INSPECTED_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+By_IN Civil_NNP Surgeons_NNP ._.
+By_IN Superintendents_NNS ._.
+By_IN Divisional_NNP Inspectors_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 1_CD Hazara_NN ..._: ..._: ..._: 24,962_CD 9,353_CD ..._: ..._: 20,483_CD 7,813_CD ..._: ..._: 2_CD Peshawar_NNP ..._: ..._: ..._: 24,362_CD 2,473_CD 810_CD 362_CD 18,352_CD 1,846_CD ..._: ..._: 3_CD Mardan_NNP Sub-Division_NN ..._: ..._: 17,144_CD 883_CD ..._: ..._: 13,284_CD 489_CD ..._: ..._: 4_CD Kohat_NNP ..._: ..._: ..._: 10,214_CD 1,901_CD 612_CD 112_CD 8,411_CD 1,645_CD ..._: ..._: 5_CD Bannu_NNP ..._: ..._: ..._: 7,628_CD 1,768_CD 100_CD ..._: 5,820_CD 1,179_CD ..._: ..._: 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: ..._: ..._: 13,055_CD 7,221_CD ..._: ..._: 10,670_CD 5,353_CD ..._: ..._:
+Political_JJ Agencies_NNS ._.
+7_CD Sherani_NNP Country_NNP ..._: ..._: ..._: 2,744_CD 3,030_CD ..._: ..._: ..._: ..._: ..._: ..._: 8_CD Kurram_NNP ..._: ..._: ..._: 4,862_CD 2,263_CD 107_CD 151_CD ..._: ..._: ..._: ..._: 9_CD Tochi_NNP ..._: ..._: ..._: ..._: 2,136_CD 630_CD ..._: ..._: ..._: ..._: ..._: ..._: 10_CD Wana_NNP ..._: ..._: ..._: ..._: 528_CD 666_CD ..._: ..._: ..._: ..._: ..._: ..._: 11_CD Chitral_NNP ..._: ..._: ..._: ..._: 6,247_CD ..._: 200_CD ..._: 5,501_CD ..._: ..._: ..._: 12_CD Malakand_NNP ..._: ..._: ..._: 85_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_VBP ..._: 113,967_CD 30,188_CD 1,829_CD 625_CD 82,521_CD 18,325_CD ..._: ..._: (_( xvi_NN )_) STATEMENT_NNP No_NNP ._.
+V._NNP (_( xvii_NNP )_) APPENDIX_VBP A_DT ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN vaccinations_NNS performed_VBN in_IN Municipal_NNP towns_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ._.
+Serial_JJ No_NNP ._.
+TOWNS_NNP ._.
+Number_NNP of_IN births_NNS during_IN the_DT year_NN 1922-23_CD ._.
+Number_NNP of_IN deaths_NNS among_IN children_NNS under_IN one_CD year_NN during_IN the_DT year_NN 1922-23_CD ._.
+Number_NNP of_IN successful_JJ vacci-_JJ nations_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ending_VBG March_NNP 1923_CD ._.
+Date_NNP of_IN extension_NN of_IN the_DT Vaccination_NNP Act_NNP to_TO towns_VB ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD Hazara_NNP District_NNP ._.
+1_CD Abbotabad_NNP ..._: ..._: 116_CD 28_CD 93_CD 21st_CD May_NNP 1906_CD ._.
+2_CD Nawanshahr_NNP (_( Notified_NNP Area_NNP )_) 202_CD 52_CD 75_CD 3_CD Buffa_NNS ..._: ..._: 195_CD 47_CD 90_CD 4_CD Haripur_NNP ..._: ..._: 218_CD 52_CD 131_CD Peshawar_NNP District_NNP ._.
+5_CD Peshawar_NNP ..._: ..._: 2,341_CD 520_CD 3,080_CD Act_NNP not_RB in_IN force_NN ._.
+6_CD Nowshera_NNP Kalan_NNP (_( Notified_NNP Area_NNP )_) ..._: ..._: 356_CD 45_CD 276_CD 7_CD Becketganj-Khwajaganj_NNP (_( Notified_NNP Area_NNP )_) ..._: 221_CD 64_CD 25_CD Kohat_NNP District_NNP ._.
+8_CD Kohat_NNP ..._: ..._: 628_CD 83_CD 685_CD 1st_CD October_NNP 1904_CD Bannu_NNP District_NNP ._.
+9_CD Bannu_NNP ..._: ..._: 534_CD 99_CD 791_CD November_NNP 1904_CD ._.
+10_CD Lakki_NNP (_( Notified_NNP Area_NNP )_) ..._: 167_CD 38_CD 147_CD Act_NNP not_RB in_IN force_NN ._.
+Dera_NNP Ismail_NNP Khan_NNP District_NNP ._.
+11_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 1,130_CD 195_CD 1,052_CD December_NNP 1897_CD ._.
+12_CD Kulachi_NNP ..._: ..._: 221_CD 46_CD 162_CD 20th_CD January_NNP 1906_CD ._.
+13_CD Tank_NNP (_( Notified_NNP Area_NNP )_) ..._: 103_CD 24_CD 56_CD TOTAL_NN ..._: 6,432_CD 1,293_CD 6,663_CD (_( xviii_NN )_) APPEN_NNP Statement_NNP showing_VBG the_DT annual_JJ number_NN of_IN successful_JJ per_IN 1,000_CD of_IN population_NN for_IN Serial_JJ No_NNP ._.
+DISTRICT_NNP ._.
+1918-19_JJ ._.
+1919-20_JJ ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 1_CD Hazara_NN ..._: ..._: 42,842_CD 0.07_CD 43,318_CD 0.60_CD 2_CD Peshawar_NNPS ..._: ..._: 19,358_CD 0.02_CD 22,206_CD 1.08_CD 3_CD Mardan_NNP Sub-Division_NN ..._: 13,442_CD 0.001_CD 14,625_CD 0.87_CD 4_CD Kohat_NNP ..._: ..._: 9,319_CD 0.01_CD 9,507_CD 0.54_CD 5_CD Bannu_NNS ..._: ..._: 6,346_CD ..._: 9,464_CD 0.40_CD 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 8,137_CD ..._: 19,815_CD 0.12_CD Total_NN ..._: 99,444_CD 0.08_CD 118,935_CD 0.81_CD Total_NN in_IN Political_JJ Agen-_NNP cies_NNS '_POS Staff_NNP ..._: 12,142_CD ..._: 8,671_CD ..._: Total_NN in_IN Cantonment_NNP Staff_NNP 3,008_CD ..._: 3,839_CD ..._: Total_NN in_IN Dispensary_NNP Staff_NNP 105_CD ..._: ..._: ..._: GRAND_NNP TOTAL_NNP ..._: 114,699_CD 0.08_CD 131,445_CD 0.81_CD (_( xix_NN )_) DIX_NNP B._NNP vaccinations_NNS and_CC the_DT annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ the_DT five_CD years_NNS ending_VBG 1922-23_JJ ._.
+1920-21_JJ ._.
+1921-22_JJ ._.
+1922-23_CD ._.
+Serial_JJ No_NNP ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 34,421_CD 0.24_CD 16,663_CD .07_NN 32,734_CD ..._: 1_CD 16,629_CD 0.16_CD 18,717_CD .03_JJ 21,854_CD 0.15_CD 2_CD 15,047_CD 0.15_CD 18,306_CD .10_JJ 17,199_CD 0.01_CD 3_CD 8,890_CD 0.36_CD 9,587_CD .27_JJ 10,982_CD 0.06_CD 4_CD 8,887_CD 1.73_CD 8,573_CD .50_JJ 7,886_CD 0.01_CD 5_CD 14,874_CD 4.00_CD 11,737_CD .31_JJ 18,290_CD 0.08_CD 6_CD 98,748_CD 0.86_CD 83,583_CD .16_JJ 108,945_CD 0.05_CD 7,236_CD ..._: 6,371_CD ..._: 19,986_CD ..._: 3,060_CD ..._: 1,711_CD ..._: 2,347_CD ..._: 80_CD ..._: 657_CD ..._: 1,372_CD ..._: 109,124_CD 0.86_CD 92,322_CD 0.16_CD 132,650_CD 0.05_CD N.-W._JJ F._NNP P._NNP Govt_NNP ._.
+Press_NN ,_, PeshawarNOTES_NNP ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1923-24_JJ BY_NNP LIEUT_NNP ._.
+COLONEL_NNP C._NNP I._NNP BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North-West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Price-Re_NNP ._.
+0-11-0_JJ PESHAWAR_NNP N.-W._NNP F._NNP P._NNP GOVERNMENT_NNP PRINTING_NNP AND_NNP STATIONERY_NNP OFFICE_NNP 1924_CD NOTES_NNP ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-_NNP WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1923-24_CD ._.
+AGENTS_NNS FOR_IN THE_DT SALE_NNP OF_NNP GOVERNMENT_NNP PUBLICATIONS_NNP ._.
+IN_NNP EUROPE_NNP ._.
+MESSRS._NNP CONSTABLE_NNP &_CC Co._NNP ,_, 10_CD ,_, Orange_NNP M_NNP Street_NNP ,_, Leicester_NNP Square_NNP ,_, London_NNP ,_, W._NNP C._NNP MESSRS._NNP GRINDLAY_NNP &_CC Co._NNP ,_, 54_CD ,_, Parliament_NNP Street_NNP ,_, London_NNP ,_, S._NNP W._NNP MESSRS._NNP HENRY_NNP S._NNP KING_NNP &_CC Co._NNP ,_, 65_CD ,_, Cornhill_NNP ,_, London_NNP ,_, E._NNP C._NNP MESSRS._NNP KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRUBNER_NNP &_CC Co._NNP ,_, LTD._NNP ,_, 68-74_JJ ,_, Carter_NNP Lane_NNP ,_, London_NNP ,_, E._NNP C._NNP ,_, and_CC 39_CD ,_, New_NNP Oxford_NNP Street_NNP ,_, London_NNP ,_, W._NNP C._NNP MR._NNP BERNARD_NNP QUARITCH_NNP ,_, 11_CD ,_, Grafton_NNP Street_NNP ,_, New_NNP Bond_NNP Street_NNP ,_, London_NNP ,_, W._NNP MESSRS._NNP P._NNP S._NNP KING_NNP &_CC SON_NNP ,_, 2_CD &_CC 4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ,_, London_NNP ,_, S._NNP W._NNP MESSRS._NNP W._NNP THACKER_NNP &_CC Co._NNP ,_, 2_CD ,_, Creed_NNP Lane_NNP ,_, London_NNP ,_, E._NNP C._NNP MR._NNP T._NNP FISHER_NNP UNWIN_NNP of_IN 1_CD ,_, Adelphi_NNP Terrace_NNP ,_, London_NNP ,_, W._NNP C._NNP ,_, with_IN depots_NNS at_IN New_NNP York_NNP ,_, Toronto_NNP ,_, Melbourne_NNP ,_, Wellington_NNP ,_, Cape_NNP Town_NNP ,_, Calcutta_NNP ,_, Tokio_NNP and_CC Leipzig_NNP ._.
+FRIEDLANDER_NNP AND_NNP SOHN_NNP ,_, Berlin_NNP ._.
+MR._NNP ERNEST_NNP LEROUX_NNP ,_, 28_CD ,_, Rue_NNP Bonaparte_NNP ,_, Paris_NNP ._.
+MR._NNP MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP ,_, Holland_NNP ._.
+MR._NNP B._NNP H._NNP BLACKWELL_NNP ,_, 50_CD &_CC 51_CD ,_, Broad_NNP Street_NNP ,_, Oxford_NNP ._.
+MESSRS_NNP DEIGHTON_NNP ._.
+BELL_NNP &_CC Co._NNP ,_, LTD._NNP ,_, Cambridge_NNP ._.
+MESSRS._NNP LUZAC_NNP &_CC Co._NNP ,_, 46_CD ,_, Great_NNP Russell_NNP Street_NNP ,_, London_NNP ,_, W._NNP C._NNP MESSRS._NNP OLIVER_NNP &_CC BOYD_NNP ,_, Tweeddale_NNP Court_NNP ,_, Edinburgh_NNP ._.
+OTTO_NNP HARRASSOWITZ_NNP ,_, Leipzig_NNP ._.
+MESSRS._NNP E._NNP PONSONBY_NNP ,_, LTD._NNP ,_, 116_CD ,_, Grafton_NNP Street_NNP ,_, Dublin_NNP ._.
+MESSRS._NNP WELDON_NNP AND_NNP WESLEY_NNP ,_, LTD._NNP ,_, 2_CD ,_, 3_CD &_CC 4_CD ,_, Arthur_NNP Street_NNP ,_, New_NNP Oxford_NNP Street_NNP ,_, London_NNP ,_, W._NNP C._NNP 2_CD ._.
+MESSRS._NNP EAST_NNP AND_NNP WEST_NNP ,_, LTD._NNP ,_, 3_CD ,_, Victoria_NNP Street_NNP ,_, London_NNP ,_, S._NNP W._NNP I_PRP ._.
+IN_NNP INDIA_NNP ._.
+MESSRS._NNP THACKER_NNP ,_, SPINK_NNP &_CC Co._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+MESSRS._NNP NEWMAN_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP R._NNP CAMBRAY_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP S._NNP K._NNP LAHIRI_NNP &_CC ,_, Co._NNP ,_, Calcutta_NNP ._.
+CALCUTTA_NNP SCHOOL_NNP BOOK_NNP AND_NNP USEFUL_NNP LITERATURE_NNP SOCIETY_NNP of_IN 1_CD ,_, WellingtonSquare_NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP B._NNP BANERJEE_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP BUTTERWORTH_NNP &_CC Co._NNP ,_, LTD._NNP ,_, Calcutta_NNP ._.
+THE_DT WELDON_NNP LIBRARY_NNP of_IN 18-5_JJ ,_, Chowrin-_NNP ghee_NN Road_NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP M._NNP C._NNP SIRCAR_NNP &_CC SONS_NNP of_IN 75_CD ,_, Harrison_NNP Road_NNP ,_, Calcutta_NNP ._.
+THE_DT STANDARD_NNP LITERATURE_NNP COMPANY_NNP ,_, LTD._NNP ,_, Calcutta_NNP ._.
+THE_DT ASSOCIATION_NNP PRESS_NNP ,_, Calcutta_NNP ._.
+MESSRS._NNP HIGGINBOTHAM_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP V._NNP KALYANARAMA_NNP IYER_NNP &_CC Co._NNP Madras_NNP ._.
+MESSRS._NNP VAS_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP G._NNP A._NNP NATESAN_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP THOMPSON_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP S._NNP MURTHY_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP TEMPLE_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP COMBRIDGE_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+MESSRS._NNP P._NNP R._NNP RAMA_NNP IYAR_NNP &_CC Co._NNP ,_, Madras_NNP ,_, M._NNP R._NNP Ry_NNP ._.
+E._NNP M._NNP GOPALA_NNP KRISHNA_NNP KONE_NNP ._.
+Madura_NNP ,_, Madras_NNP ._.
+MESSRS._NNP THACKER_NNP &_CC Co._NNP ,_, LTD._NNP ,_, Bombay_NNP ._.
+MESSRS._NNP A._NNP J._NNP COMBRIDGE_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+MESSRS._NNP D._NNP B._NNP TARAPOREVALA_NNP SONS_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+MRS._NNP RADHABAI_NNP ATMARAM_NNP SAGOON_NNP ,_, Bombay_NNP ._.
+MESSRS._NNP GOPAL_NNP NARAYEN_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+MESSRS._NNP RAMCHANDRA_NNP GOVIND_NNP &_CC SONS_NNP ,_, Booksellers_NNP and_CC Publishers_NNP ,_, Kalbadevi_NNP ,_, Bombay_NNP ._.
+MR._NNP RAMNATH_NNP SUNDER_NNP of_IN Bombay_NNP ._.
+SUPERINTENDENT_NNP ,_, AMERICAN_NNP BAPTIST_NNP MISSION_NNP PRESS_NNP ,_, Rangoon_NNP ._.
+MR._NNP MANGALDAS_NNP HARKISHANDAS_NNP of_IN Surat_NNP RAI_NNP SAHIB_NNP M._NNP GULAB_NNP SINGH_NNP &_CC SONS_NNP ,_, Mufid-i-Am_NNP Press_NNP ,_, Lahore_NNP ._.
+MESSRS._NNP RAMA_NNP KRISHNA_NNP &_CC SONS_NNP ,_, Lahore_NNP ._.
+MR._NNP N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP ,_, Nazair_NNP Kanun_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+BABU_NNP S._NNP C._NNP TALUKDAR_NNP ,_, Proprietor_NNP ,_, Students_NNP &_CC Co._NNP ,_, Cooch_NNP Behar_NNP ._.
+MESSRS._NNP A._NNP H._NNP WHEELER_NNP &_CC Co._NNP ,_, Allaha-_NNP bad_JJ ,_, Calcutta_NNP and_CC Bombay_NNP ._.
+THE_DT NEW_NNP PROPRIETOR_NNP ,_, KITA_NNP KHANA_NNP ,_, Poona_NNP ._.
+THE_DT NEWAL_NNP KISHORE_NNP PRESS_NNP ,_, Lucknow_NNP ._.
+SEETA_NNP RAM_NNP ,_, Managing_NNP Proprietor_NNP ,_, Indian_JJ Army_NNP Book_NNP Depot_NNP ,_, Juhi_NNP ,_, Cawnpore_NNP ._.
+THE_DT MANAGER_NNP ,_, Hitavada_NNP ,_, Nagpur_NNP ._.
+THE_DT STANDARD_NNP BOOKSTALL_NNP ,_, Karachi_NNP ._.
+THE_DT MANAGER_NNP ,_, IMPERIAL_NNP BOOK_NNP DEPOT_NNP ,_, Delhi_NNP ._.
+THE_DT OXFORS_NNP BOOK_NNP AND_NNP STATIONEY_NNP Co._NNP ,_, Delhi_NNP ._.
+IN_NNP CEYLON_NNP ._.
+MESSRS._NNP A._NNP M._NNP &_CC J._NNP FERGUSON_NNP ._.
+NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1923-24_JJ BY_NNP LIEUT.-COLONEL_NNP C._NNP I._NNP BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North-West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Price_NNP Notes_NNS on_IN Vaccination_NN in_IN the_DT North-West_NNP Frontier_NNP Province_NNP for_IN the_DT year_NN 1923-24._JJ REVIEW_NNP BY_NNP THE_NNP CHIEF_NNP COMMISSIONER_NNP ._.
+THE_DT Chief_NNP Commissioner_NNP notes_NNS with_IN regret_NN that_IN the_DT total_JJ number_NN of_IN vaccinations_NNS performed_VBN has_VBZ fallen_VBN from_IN 144,155_CD in_IN the_DT year_NN 1922-23_CD to_TO 128,200_CD in_IN the_DT year_NN now_RB under_IN review_NN ._.
+The_DT marked_JJ decrease_NN in_IN the_DT number_NN of_IN re-vaccinations_NNS is_VBZ particularly_RB disappointing_JJ ._.
+Poor_NNP work_NN done_VBN by_IN the_DT vaccinator_NN appointed_VBD to_TO the_DT Sherani_NNP Country_NNP ,_, fresh_JJ appointments_NNS of_IN inexperienced_JJ vaccinators_NNS and_CC the_DT abolition_NN of_IN the_DT posts_NNS of_IN three_CD vaccinators_NNS working_VBG under_IN the_DT Municipal_NNP Committee_NNP of_IN Peshawar_NNP are_VBP the_DT main_JJ reasons_NNS assigned_VBN by_IN the_DT Chief_NNP Medical_NNP Officer_NNP for_IN this_DT falling_VBG off_RP ._.
+Early_RB in_IN the_DT year_NN ,_, the_DT Peshawar_NNP Municipality_NNP ,_, for_IN reasons_NNS of_IN economy_NN ,_, reduced_VBD their_PRP$ staff_NN of_IN vaccinators_NNS from_IN five_CD to_TO two_CD ._.
+The_DT Chief_NNP Medical_NNP Officer_NNP has_VBZ rightly_RB pointed_VBN out_RP that_IN a_DT staff_NN of_IN two_CD vaccinators_NNS is_VBZ quite_RB inadequate_JJ to_TO cope_VB with_IN the_DT requirements_NNS of_IN so_RB large_JJ a_DT city_NN as_IN Peshawar_NNP and_CC the_DT figures_NNS for_IN the_DT year_NN bear_NN eloquent_NN testimony_NN to_TO the_DT truth_NN of_IN his_PRP$ statement_NN ._.
+The_DT Chief_NNP Commissioner_NNP commends_VBZ to_TO the_DT notice_NN of_IN the_DT Municipal_NNP Committee_NNP the_DT remarks_NNS of_IN the_DT Chief_NNP Medical_NNP Officer_NNP on_IN the_DT subject_NN and_CC trusts_NNS that_IN they_PRP may_MD see_VB their_PRP$ way_NN to_TO remedy_VB the_DT existing_VBG state_NN of_IN affairs_NNS at_IN an_DT early_JJ date_NN ._.
+Vaccination_NN is_VBZ a_DT subject_NN which_WDT vitally_RB affects_VBZ the_DT health_NN of_IN the_DT people_NNS and_CC the_DT Chief_NNP Commissioner_NNP hopes_VBZ that_IN Colonel_NNP Brierley_NNP 's_POS report_NN will_MD be_VB read_VBN with_IN interest_NN by_IN all_DT Municipal_NNP Committees_NNP and_CC District_NNP Boards_NNP throughout_IN the_DT Province_NNP ._.
+The_DT total_JJ expenditure_NN incurred_VBN on_IN vaccination_NN shows_VBZ a_DT reduction_NN of_IN Rs_NNP ._.
+704_CD on_IN the_DT figures_NNS for_IN the_DT previous_JJ year_NN The_DT average_JJ cost_NN of_IN each_DT successful_JJ operation_NN rose_VBD from_IN two_CD annas_NNS and_CC seven_CD pies_NNS to_TO two_CD annas_NNS and_CC nine_CD pies_NNS ._.
+The_DT inspection_NN work_NN done_VBN by_IN Superintendents_NNS of_IN Vaccination_NN remained_VBD up_RB to_TO standard_VB ._.
+Vaccination_NN is_VBZ becoming_VBG more_RBR popular_JJ among_IN the_DT rural_JJ population_NN and_CC there_EX is_VBZ little_JJ resistance_NN to_TO primary_JJ vaccination_NN ._.
+Amongst_IN the_DT trans-frontier_JJ tribes_NN its_PRP$ popularity_NN is_VBZ most_RBS marked_JJ ._.
+The_DT Chief_NNP Commissioner_NNP notes_NNS with_IN pleasure_NN the_DT good_JJ example_NN set_VBN by_IN Lala_NNP Kishen_NNP Chand_NNP of_IN Peshawar_NNP City_NNP in_IN facilitating_VBG vaccination_NN work_NN in_IN his_PRP$ own_JJ and_CC other_JJ quarters_NNS of_IN the_DT City_NNP ._.
+(_( 2_CD )_) The_DT Province_NNP was_VBD practically_RB free_JJ from_IN small-pox_JJ during_IN the_DT year_NN ,_, except_IN in_IN the_DT Peshawar_NNP District_NNP ,_, where_WRB 82_CD deaths_NNS were_VBD recorded_VBN ._.
+In_IN Peshawar_NNP City_NNP alone_RB ,_, 53_CD cases_NNS and_CC 42_CD deaths_NNS occurred_VBD ;_: but_CC in_IN only_RB one_CD case_NN did_VBD the_DT disease_NN occur_VBZ amongst_IN the_DT vaccinated_JJ population_NN ._.
+M._NNP E._NNP RAE_NNP ,_, MAJOR_NNP ,_, NATHIAGALI_NNP :_: Secretary_NNP to_TO the_DT Chief_NNP Commissioner_NNP ,_, North-West_NNP Frontier_NNP Province_NNP ._.
+The_DT 19th_CD June_NNP 1924_CD ._.
+N.-W._JJ F._NNP P._NNP Govt_NNP ._.
+Ptg_NNP ._.
+&_CC Sty_NNP ._.
+Office_NNP ,_, PeshawarCONTENTS_NNP ._.
+PARA_NNP ._.
+PAGE_NN ._.
+1_CD ._.
+Administration_NN ..._: ..._: ..._: 1_CD 2_CD ._.
+Statement_JJ No_NNP ._.
+I_PRP ._.
+(_( ii_NN )_) ANNUAL_NNP FORMS_NNP ._.
+Statement_JJ No_NNP ._.
+I.NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1923-24_CD ._.
+Administration_NN ._.
+1_CD ._.
+The_DT charge_NN of_IN the_DT Vaccination_NNP Department_NNP was_VBD held_VBN by_IN different_JJ officers_NNS during_IN the_DT year_NN as_IN follows_VBZ :_: (_( 2_CD )_) vaccinator_NN appointed_VBN to_TO the_DT Sherani_NNP Country_NNP ,_, who_WP has_VBZ since_IN been_VBN dismissed_VBN and_CC (_( 2_CD )_) to_TO the_DT entertainment_NN of_IN new_JJ vacci-_JJ nators_NNS who_WP take_VBP some_DT time_NN to_TO learn_VB their_PRP$ work_NN properly_RB and_CC get_VB into_IN touch_NN with_IN the_DT people_NNS ._.
+Average_JJ number_NN vacci-_JJ nated_VBN by_IN each_DT vaccinator_NN ._.
+4_CD ._.
+The_DT average_JJ number_NN of_IN operations_NNS performed_VBN by_IN each_DT vaccinator_NN in_IN the_DT Province_NNP was_VBD 3,755.76_CD ._.
+The_DT Mardan_NNP Sub-Division_NNP heads_VBZ the_DT list_NN with_IN an_DT average_NN of_IN 6365.33_CD ._.
+The_DT Kohat_NNP District_NNP shows_VBZ the_DT smallest_JJS amount_NN of_IN average_JJ work_NN done_VBN by_IN each_DT vaccinator_NN ,_, viz_NN ._.
+3,093_CD ._.
+Vaccinations_NNS according_VBG to_TO ages_NNS ._.
+5_CD ._.
+There_EX were_VBD 108,744_CD successful_JJ primary_JJ vaccinations_NNS performed_VBD ,_, 62,083_CD of_IN which_WDT were_VBD on_IN infants_NNS under_IN 1_CD year_NN and_CC 34,339_CD on_IN children_NNS between_IN 1_CD and_CC 6_CD years_NNS of_IN age_NN ._.
+The_DT successful_JJ vaccinations_NNS were_VBD at_IN the_DT rate_NN of_IN 36.51_CD per_IN mille_NN of_IN the_DT population_NN ._.
+Re-vaccinations_NNS ._.
+6_CD ._.
+The_DT value_NN of_IN vaccination_NN is_VBZ not_RB fully_RB appreciated_VBN by_IN the_DT majority_NN of_IN the_DT population_NN unless_IN small-pox_NN is_VBZ prevalent_JJ ._.
+Only_RB 19,363_CD revaccinations_NNS were_VBD performed_VBN during_IN the_DT year_NN which_WDT is_VBZ 10,825_CD less_JJR than_IN in_IN the_DT preceding_JJ year_NN ._.
+Appendix_NNP to_TO Statement_NNP No_NNP ._.
+I_PRP (_( 3_CD )_) Statement_NN No_UH ._.
+II_NNP ._.
+(_( 4_CD )_) The_DT most_RBS striking_JJ figures_NNS in_IN this_DT statement_NN is_VBZ the_DT small_JJ number_NN of_IN births_NNS in_IN Peshawar_NNP City_NNP when_WRB compared_VBN with_IN the_DT total_JJ number_NN of_IN vaccinations_NNS performed_VBN ._.
+The_DT reason_NN for_IN the_DT large_JJ number_NN of_IN vaccinations_NNS is_VBZ that_IN many_JJ vaccinations_NNS included_VBD in_IN this_DT statement_NN are_VBP done_VBN on_IN children_NNS in_IN the_DT City_NNP who_WP belong_VBP to_TO transfrontier_VB tribes_NNS and_CC traders_NNS always_RB on_IN the_DT move_NN ._.
+Early_RB last_JJ year_NN the_DT Peshawar_NNP Municipality_NNP cut_VBD down_RP their_PRP$ vaccination_NN staff_NN from_IN five_CD to_TO two_CD for_IN economic_JJ reasons_NNS ._.
+I_PRP do_VBP not_RB think_VB they_PRP realized_VBD that_IN they_PRP were_VBD ,_, so_RB to_TO speak_VB ,_, cutting_VBG their_PRP$ own_JJ throats_NNS ._.
+Two_CD vaccinators_NNS for_IN a_DT city_NN of_IN the_DT size_NN of_IN Peshawar_NNP is_VBZ quite_RB inadequate_JJ to_TO cope_VB with_IN the_DT work_NN and_CC the_DT result_NN must_MD be_VB in_IN time_NN an_DT increase_NN of_IN small-pox_JJ ._.
+It_PRP may_MD not_RB be_VB fully_RB understood_JJ that_IN small-pox_NN is_VBZ not_RB only_RB a_DT most_RBS dangerous_JJ disease_NN to_TO life_NN but_CC also_RB the_DT most_RBS disfiguring_JJ disease_NN next_JJ to_TO syphilis_VB known_VBN ,_, as_IN a_DT cause_NN of_IN complete_JJ blindness_NN in_IN children_NNS it_PRP is_VBZ first_JJ and_CC foremost_NN ._.
+Most_JJS of_IN the_DT blind_JJ children_NNS and_CC indeed_RB many_JJ of_IN the_DT blind_NN adults_NNS in_IN Peshawar_NNP City_NNP I_PRP know_VBP from_IN my_PRP$ own_JJ long_JJ experience_NN in_IN that_DT City_NNP have_VBP lost_VBN their_PRP$ eyes_NNS as_IN the_DT result_NN of_IN small-pox_NN ._.
+One_CD of_IN my_PRP$ first_JJ endeavours_NN as_IN Chief_NNP Medical_NNP Officer_NNP of_IN this_DT Province_NNP will_MD be_VB to_TO try_VB to_TO induce_VB Municipal_NNP Commissioners_NNP and_CC District_NNP Boards_NNP to_TO take_VB a_DT greater_JJR interest_NN in_IN this_DT most_RBS important_JJ work_NN of_IN vaccination_NN ._.
+Not_RB only_RB should_MD the_DT vacci-_JJ nation_NN staff_NN be_VB brought_VBN up_RP to_TO its_PRP$ former_JJ full_JJ strength_NN but_CC also_RB I_PRP consider_VBP that_DT many_JJ of_IN the_DT Sub_NNP Assistant_NNP Surgeons_NNP in_IN outlying_VBG dispensaries_NNS should_MD during_IN the_DT winter_NN months_NNS be_VB given_VBN opportunity_NN to_TO vaccinate_VB the_DT surrounding_VBG population_NN ._.
+Though_IN this_DT may_MD increase_VB the_DT cost_NN slightly_RB of_IN each_DT success-_JJ ful_JJ case_NN ,_, yet_CC it_PRP will_MD without_IN doubt_NN increase_VB the_DT man-power_NN of_IN this_DT Province_NNP to_TO a_DT very_RB great_JJ extent_NN ._.
+Every_DT blind_IN person_NN requires_VBZ an_DT attendant_JJ to_TO lead_VB them_PRP about_IN and_CC cook_VB their_PRP$ food_NN ._.
+Appendix_NNP B_NNP ._.
+(_( 5_CD )_) security_NN ._.
+It_PRP is_VBZ a_DT well-known_JJ fact_NN that_IN small-pox_JJ epidemics_NNS visit_VBP us_PRP not_RB yearly_RB but_CC after_IN a_DT term_NN of_IN years_NNS like_IN influenza_NN ;_: when_WRB the_DT epidemic_JJ comes_VBZ it_PRP is_VBZ only_RB those_DT who_WP have_VBP been_VBN properly_RB vaccinated_VBN and_CC re-vaccinated_JJ that_IN escape_NN ._.
+Particulars_NNS of_IN lymph_NN used_VBN ._.
+15_CD ._.
+Glycerinated_VBN chloroform_NN lymph_NN procured_VBN from_IN the_DT Punjab_NNP Vaccine_NNP Institute_NNP was_VBD used_VBN throughout_IN the_DT year_NN ._.
+Reports_NNS from_IN all_DT Civil_NNP Surgeons_NNP state_NN that_IN the_DT lymph_NN was_VBD of_IN good_JJ quality_NN ._.
+Attitude_NN of_IN the_DT people_NNS towards_IN vaccination_NN ._.
+16_CD ._.
+Vaccination_NN is_VBZ gradually_RB becoming_VBG more_JJR popular_JJ among_IN the_DT rural_JJ population_NN and_CC there_EX is_VBZ a_DT little_JJ resistance_NN to_TO primary_VB vaccina-_JJ tion_NN ._.
+Our_PRP$ task_NN is_VBZ therefore_RB made_VBN all_PDT the_DT easier_JJR provided_VBN we_PRP have_VBP a_DT sufficient_JJ staff_NN for_IN the_DT purpose_NN ._.
+The_DT very_RB reverse_NN of_IN this_DT is_VBZ seen_VBN in_IN the_DT case_NN of_IN plague_NN inoculation_NN ._.
+Though_IN I_PRP know_VBP that_IN there_EX is_VBZ much_JJ opposition_NN to_TO compulsory_VB vaccination_NN not_RB only_RB in_IN this_DT country_NN but_CC also_RB in_IN many_JJ European_JJ countries_NNS including_VBG England_NNP yet_RB I_PRP strongly_RB agree_VBP with_IN Colonel_NNP McPherson_NNP ,_, Civil_NNP Surgeon_NNP ,_, Peshawar_NNP ,_, that_IN the_DT Vaccination_NNP Act_NNP should_MD be_VB extended_VBN not_RB only_RB to_TO Peshawar_NNP City_NNP but_CC to_TO all_DT districts_NNS of_IN the_DT Province_NNP ._.
+We_PRP have_VBP only_RB to_TO note_VB the_DT wonderful_JJ attendance_NN of_IN mothers_NNS with_IN their_PRP$ children_NNS amongst_IN the_DT uneducated_JJ trans-_JJ frontier_NN tribes_NNS for_IN vaccination_NN to_TO realize_VB what_WP benefit_NN they_PRP at_IN any_DT rate_NN consider_NN is_VBZ produced_VBN by_IN vaccination_NN ._.
+General_NNP remarks_NNS ._.
+17_CD ._.
+In_IN conclusion_NN let_VB me_PRP thank_VB all_DT those_DT gentlemen_NNS who_WP have_VBP been_VBN instrumental_JJ in_IN further-_JJ ing_VBG the_DT cause_NN of_IN vaccination_NN by_IN their_PRP$ personal_JJ example_NN and_CC endeavours_NNS in_IN their_PRP$ towns_NNS and_CC villages_NNS ._.
+I_PRP have_VBP also_RB the_DT pleasure_NN of_IN specially_RB recommending_VBG for_IN favourable_JJ notice_NN of_IN the_DT Local_JJ Government_NNP Lala_NNP Kishan_NNP Chand_NNP ,_, son_NN of_IN L._NNP Shankar_NNP Dass_NNP ,_, Dhawan_NNP ,_, Municipal_NNP Com-_NNP missioner_NN of_IN Peshawar_NNP City_NNP ,_, who_WP by_IN his_PRP$ zeal_NN and_CC exhorta-_JJ tions_NNS ,_, has_VBZ very_RB much_RB facilitated_VBN the_DT vaccination_NN work_NN in_IN his_PRP$ own_JJ and_CC other_JJ quarters_NNS of_IN Peshawar_NNP City_NNP ._.
+C._NNP I._NNP BRIERLEY_NNP ,_, LIEUT_NNP -COLONEL_NNP ,_, I._NNP M._NNP S._NNP ,_, PESHAWAR_NNP :_: Director_NN of_IN Public_NNP Health_NNP ,_, North-West_NNP Frontier_NNP Province_NNP ,_, The_DT 7th_CD June_NNP 1924_CD ._.
+N.-W.F_NNP ._.
+P._NNP Govt_NNP ._.
+Ptg_NNP ._.
+&_CC Sty_NNP ._.
+Office_NNP ,_, Peshawar-286_NNP C._NNP M.O_NNP ._.
+(_( 24-25_JJ )_) Diagram_NNP showing_VBG the_DT death-rates_NNS from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN during_IN the_DT year_NN 1923-24_RB ,_, the_DT average_JJ rate_NN of_IN mortality_NN from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1922-23_JJ ,_, and_CC the_DT proportion_NN of_IN successful_JJ vaccinations_NNS during_IN the_DT year_NN 1923-24_JJ and_CC the_DT prceeding_NN six_CD years_NNS in_IN each_DT district_NN of_IN the_DT North-_NNP West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ STATEMENTS_NNP (_( ii_NN )_) A_NNP (_( iii_NN )_) DEPARTMENT_NNP ._.
+No_DT ._.
+I_PRP ._.
+Frontier_NNP Province_NNP during_IN the_DT year_NN 1923-24_RB ._.
+7_CD 8_CD 9_CD Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN ._.
+PRIMARY_NNP VACCINATION_NNP ._.
+Re-vaccination_NN ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Under_IN 1_CD year_NN ._.
+One_CD and_CC under_IN 6_CD years_NNS ._.
+Total_NN of_IN all_DT ages_NNS ._.
+9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 5,534.14_CD 30,999_CD 19,451_CD 9,173_CD 29,887_CD 736_CD 7,740_CD 6,514_CD 796_CD 8,626.20_CD 18,337_CD 10,186_CD 5,717_CD 17,037_CD 1,067_CD 195_CD 144_CD 19_CD 6,365.33_CD 17,067_CD 10,173_CD 6,134_CD 16,933_CD 109_CD 2,029_CD 1,889_CD 68_CD 3,093.0_CD 10,738_CD 6,736_CD 2,639_CD 10,447_CD 234_CD 1,634_CD 1,078_CD 283_CD 3,113.33_CD 8,370_CD 5,541_CD 1,730_CD 7,850_CD 439_CD 970_CD 436_CD 213_CD 3,468.5_CD 10,693_CD 3,706_CD 4,977_CD 10,050_CD 288_CD 3,191_CD 2,550_CD 268_CD 4590.46_CD 96,204_CD 55,793_CD 30,370_CD 92,204_CD 2,873_CD 15,759_CD 12,611_CD 1,647_CD 2,202.83_CD 11,885_CD 6,101_CD 3,731_CD 10,789_CD 78_CD 1,332_CD 998_CD 20_CD 1,463.5_CD 655_CD 189_CD 238_CD 615_CD 25_CD 2,272_CD 1,697_CD 236_CD 3,765.76_CD (_( a_DT )_) 108,744_CD 62,083_CD 34,339_CD 103,608_CD (_( b_NN )_) 2,976_CD 19,363_CD 15,306_CD 1,903_CD primarily_RB vaccinated_VBN equals_NNS 411_CD which_WDT represents_VBZ secondary_JJ operations_NNS ._.
+of_IN 6_CD years_NNS and_CC over_IN 6_CD years_NNS of_IN age_NN ._.
+(_( iv_NN )_) A_DT ._.
+(_( v_NN )_) DEPARTMENT_NNP ._.
+No_DT ._.
+I_PRP (_( vi_NN )_) SUMMARY_NNP ._.
+(_( vii_NN )_) APPENDIX_NNP TO_NNP STATMENT_NNP No_NNP ._.
+I_PRP ._.
+TABLE_NN A_DT ._.
+Statement_JJ showing_VBG the_DT details_NNS of_IN the_DT Vaccination_NNP operations_NNS performed_VBD in_IN Political_JJ Agencies_NNS during_IN the_DT year_NN 1923-24_RB ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD Serial_JJ No_NNP ._.
+DISTRICTS_NNP ._.
+Names_NNS of_IN localities_NNS ._.
+Avenge_NNP number_NN of_IN vaccinators_NNS employed_VBN throughout_IN the_DT year_NN ._.
+Total_JJ number_NN of_IN persons_NNS vacci-_JJ nated_JJ ._.
+PRIMARY_NNP ._.
+Re-vaccinations_NNS ._.
+Percentage_NN of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_VBN ._.
+Percentage_NN of_IN unknown_JJ cases_NNS to_TO total_JJ cases_NNS ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Under_IN one_CD year_NN One_CD and_CC under_IN 6_CD years_NNS ._.
+Total_NN of_IN all_DT ages_NNS ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1_CD Dera_NNP Ismail_NNP Khan_NNP ..._: Sherani_NNP Country_NNP ..._: 1_CD 878_CD 642_CD 362_CD 105_CD 502_CD 34_CD 236_CD 196_CD 15_CD 82.56_CD 88.69_CD 5.29_CD 6.35_CD 2_CD Kurram_NNP Agency_NNP ..._: Kurram_NNP Agency_NNP ..._: 1_CD 2,577_CD 1,683_CD 531_CD 432_CD 1,251_CD ..._: 894_CD 624_CD ..._: 74.33_CD 69.80_CD ..._: ..._: 3_CD Tochi_NNP (_( viii_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP ._.
+(_( ix_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP ._.
+(_( x_NN )_) A_DT ._.
+(_( xi_NN )_) A_NNP (_( xii_NNP )_) B_NNP ._.
+(_( xiii_NN )_) COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN persons_NNS primarily_RB vaccinated_VBN and_CC the_DT number_NN of_IN those_DT persons_NNS who_WP were_VBD successfully_RB vaccinated_VBN in_IN the_DT North-West_NNP Frontier_NNP Province_NNP in_IN each_DT of_IN the_DT undermentioned_JJ official_JJ years_NNS ._.
+ESTABLISHMENT_NNP ._.
+PERSONS_NNP PRIMARILY_NNP VACCINATED_NNP ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Year_NN ending_VBG 31st_CD March_NNP ._.
+From_IN 1900_CD to_TO 1912_CD ._.
+1913_CD 1914_CD 1915_CD 1916_CD 1917_CD Government_NN ..._:
+The_DT informa-_JJ tion_NN for_IN the_DT year_NN previous_JJ to_TO 1900_CD is_VBZ not_RB available_JJ ._.
+118,703_CD 107,106_CD 10,125_CD 9,718_CD 11,353_CD 10,831_CD 7,341_CD 6,548_CD 10,140_CD 9,450_CD 6,601_CD 5,953_CD Municipal_NNP ,_, Local_NNP and_CC District_NNP Funds_NNS ..._: 985,502_CD 914,890_CD 113,385_CD 110,276_CD 131,922_CD 129,207_CD 130,866_CD 128,616_CD 112,546_CD 110,489_CD 126,421_CD 122,423_CD Dispensaries_NNS ..._: 8,434_CD 6,194_CD 299_CD 291_CD 108_CD 94_CD 8_CD 7_CD ..._: ..._: ..._: ..._: TOTAL_VBP ..._: 1,092,639_CD 1,028,190_CD 123,809_CD 120,285_CD 143,383_CD 140,132_CD 138,215_CD 135,171_CD 122,686_CD 119,939_CD 133,022_CD 128,376_CD (_( xiv_NN )_) COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP (_( xv_NNP )_) STATEMENT_NNP No_NNP ._.
+V._NNP Showing_NNP results_NNS of_IN inspection_NN of_IN vaccination_NN by_IN Inspecting_VBG Officers_NNS in_IN the_DT North-_NNP West_NNP Frontier_NNP Province_NNP during_IN the_DT year_NN 1923-24_RB ._.
+Serial_JJ No_NNP ._.
+DISTRICTS_NNP ._.
+Total_JJ number_NN of_IN persons_NNS vaccinated_VBN ._.
+TOTAL_JJ NUMBER_NNP INSPECTED_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+By_IN Civil_NNP Surgeons_NNP ._.
+By_IN Superintendents_NNS ._.
+By_IN Divisional_NNP Inspectors_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 1_CD Hazara_NN ..._: ..._: 30,999_CD 7,740_CD 284_CD 11_CD 29,281_CD 5,988_CD ..._: ..._: 2_CD Peshawar_NNP ..._: ..._: 18,992_CD 2,467_CD ..._: ..._: 15,042_CD 1,800_CD ..._: ..._: 3_CD Mardan_NNP Sub-Division_NNP 17,067_CD 2,029_CD 54_CD ..._: 13,768_CD 1,458_CD ..._: ..._: 4_CD Kohat_NNP ..._: ..._: ..._: 10,738_CD 1,634_CD 895_CD ..._: 8,752_CD 1,305_CD ..._: ..._: 5_CD Baunu_NNP ..._: ..._: ..._: 8,370_CD 970_CD 200_CD ..._: 5,842_CD 720_CD ..._: ..._: 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: ..._: 10,693_CD 8,191_CD ..._: ..._: 7,527_CD 2,312_CD ..._: ..._:
+Political_JJ Agencies_NNS ._.
+7_CD Sherani_NNP Country_NNP ..._: ..._: ..._: 642_CD 236_CD ..._: ..._: 18_CD 33_CD ..._: ..._: 8_CD Kurram_NNP Agency_NNP ..._: ..._: ..._: 1,683_CD 894_CD 133_CD 99_CD ..._: ..._: ..._: ..._: 9_CD Tochi_NNP ._.
+(_( xvi_NN )_) STATEMENT_NNP No_NNP ._.
+V_NNP (_( xvii_NNP )_) APPENDIX_VBP A_DT ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN vaccinations_NNS performed_VBN in_IN Municipal_NNP towns_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ._.
+Serial_JJ No_NNP ._.
+TOWNS_NNP ._.
+Number_NNP of_IN births_NNS during_IN the_DT year_NN 1923-24_RB ._.
+Number_NNP of_IN deaths_NNS among_IN children_NNS under_IN one_CD year_NN during_IN the_DT year_NN 1923-24_RB ._.
+Number_NNP of_IN successful_JJ vacci-_JJ nations_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ending_VBG March_NNP 1924_CD ._.
+Date_NNP of_IN extension_NN of_IN the_DT Vaccination_NNP Act_NNP to_TO towns_VB ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD Hazara_NNP District_NNP ._.
+1_CD Abbottabad_NNP ..._: ..._: 143_CD 18_CD 108_CD 21st_CD May_NNP 1906_CD ._.
+2_CD Nawanshahr_NNP (_( Notified_NNP Area_NNP )_) 215_CD 66_CD 130_CD 3_CD Buffa_NNS ..._: ..._: 255_CD 34_CD 148_CD 4_CD Haripur_NNP ..._: ..._: 230_CD 71_CD 145_CD Peshawar_NNP District_NNP ._.
+5_CD Peshawar_NNP ..._: ..._: 2,518_CD 500_CD 2,379_CD Act_NNP not_RB in_IN force_NN ._.
+6_CD Nowshera_NNP Kalan_NNP (_( Notified_NNP Area_NNP )_) ..._: ..._: 366_CD 79_CD 300_CD 7_CD Becketgang-Khwajaganj_NNP (_( Notified_NNP Area_NNP )_) ..._: 127_CD 30_CD 194_CD Kohat_NNP District_NNP ._.
+8_CD Kohat_NNP ..._: ..._: 689_CD 118_CD 596_CD 1st_CD October_NNP 1904_CD ._.
+Bannu_NNP District_NNP ._.
+9_CD Bannu_NNP ..._: ..._: 605_CD 72_CD 601_CD November_NNP 1904_CD ._.
+10_CD Lakki_NNP (_( Notified_NNP Area_NNP )_) ..._: 175_CD 30_CD 94_CD Act_NNP not_RB in_IN force_NN ._.
+Dera_NNP Ismail_NNP Khan_NNP District_NNP ._.
+11_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 1,194_CD 255_CD 645_CD December_NNP 1897_CD ._.
+12_CD Kulachi_NNP ..._: ..._: 228_CD 39_CD 72_CD 20th_CD January_NNP 1906_CD ._.
+13_CD Tank_NNP (_( Notified_NNP Area_NNP )_) ..._: 120_CD 39_CD 15_CD (_( xviii_NN )_) APPEN_NNP Statement_NNP showing_VBG the_DT annual_JJ number_NN of_IN successful_JJ per_IN 1,000_CD of_IN population_NN for_IN Serial_JJ No_NNP ._.
+DISTRICTS_NNP ._.
+1919-20_JJ ._.
+1920-21_JJ ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 1_CD Hazara_NN ..._: ..._: 43,318_CD 0.60_CD 84,421_CD 0.24_CD 2_CD Peshawar_NNPS ..._: ..._: 22,206_CD 1.08_CD 16,629_CD 0.16_CD 3_CD Mardan_NNP Sub-Division_NN ..._: 14,625_CD 0.87_CD 15,047_CD 0.15_CD 4_CD Kohat_NNP ..._: ..._: 9,507_CD 0.54_CD 8,890_CD 0.36_CD 5_CD Bannu_NNS ..._: ..._: 9,464_CD 0.40_CD 8,887_CD l.73_NN 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 19,815_CD 0.12_CD 14,874_CD 4.00_CD Total_NN ..._: 118,935_CD 0.81_CD 98,748_CD 0.86_CD Total_NN in_IN Political_JJ Agencies_NNPS Staff_NNP ..._: 8,671_CD ..._: 7,236_CD ..._: Total_NN in_IN Cantonment_NNP Staff_NNP 3,839_CD ..._: 3,060_CD ..._: Total_NN in_IN Dispensary_JJ Staff_NN ..._: ..._: 80_CD ..._: GRAND_NNP TOTAL_NNP ..._: 131,445_CD 0.81_CD 109,124_CD 0.86_CD (_( xix_NN )_) DIX_NNP B._NNP vaccinations_NNS and_CC the_DT annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ the_DT five_CD years_NNS ending_VBG 1923-24_JJ ._.
+1921-22_JJ ._.
+1922-23_CD ._.
+1923-24_JJ ._.
+Serial_JJ No_NNP ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 16,663_CD 0.07_CD 32,734_CD ..._: 36,401_CD ..._: 1_CD 18,717_CD 0.03_CD 21,854_CD 0.15_CD 17,181_CD 0.03_CD 2_CD 18,306_CD 0.10_CD 17,199_CD 0.01_CD 18,822_CD ..._: 3_CD 9,587_CD 0.27_CD 10,982_CD 0.06_CD 11,525_CD ..._: 4_CD 8,573_CD 0.50_CD 7,886_CD 0.01_CD 8,286_CD ..._: 5_CD 11,737_CD 0.31_CD 18,290_CD 0.08_CD 12,600_CD ..._: 6_CD 83,588_CD 0.16_CD 108,945_CD 0.05_CD 104,815_CD 0.03_CD 6,871_CD ..._: 19,986_CD ..._: 11,787_CD ..._: 1,711_CD ..._: 2,347_CD ..._: 2,312_CD ..._: 657_CD ..._: 1,372_CD ..._: 54_CD ..._: 92,322_CD 0.16_CD 132,650_CD 0.05_CD 118,968_CD 0.03_CD Govt_NNP ._.
+Pty_NNP ._.
+&_CC Sty_NNP ._.
+Office_NNP ,_, Peshawar-286_NNP C._NNP M._NNP O_NNP ._.
+(_( 24-25_JJ )_) NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1924-25_JJ BY_NNP LIEUT.-COLONEL_NNP C.I_NNP ._.
+BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP Director_NNP of_IN Public_NNP Health_NNP ,_, North-West_NNP Frontier_NNP Province_NNP ._.
+Price-Re_NNP ._.
+0-11-0_NN or_CC 14_CD shillings_NNS PESHAWAR_NNP N.-W._NNP F._NNP P._NNP GOVERNMENT_NNP PRINTING_NNP AND_NNP STATIONERY_NNP OFFICE_NNP 1925_CD NOTES_NNP ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1924-25_CD ._.
+Government_NN of_IN India_NNP Publications_NNP are_VBP obtainable_JJ from_IN the_DT Government_NNP of_IN India_NNP Central_NNP Publication_NNP Branch_NNP ,_, 8_CD ,_, Hastings_NNP Street_NNP ,_, Calcutta_NNP ,_, and_CC from_IN the_DT following_JJ Agents_NNS :_: NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP FOR_IN THE_NNP YEAR_NNP 1924-25_JJ BY_NNP LIEUT.-COLONEL_NNP C.I_NNP ._.
+BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North-West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP PESHAWAR_NNP N_NNP -W._NNP F._NNP P._NNP GOVERNMENT_NNP PRINTING_NNP AND_NNP STATIONERY_NNP OFFICE_NNP 1925_CD Notes_NNP on_IN Vaccination_NNP in_IN the_DT North-West_NNP Frontier_NNP Province_NNP for_IN the_DT year_NN 1924-25._JJ REVIEW_NNP BY_NNP THE_NNP CHIEF_NNP COMMISSIONER_NNP ._.
+THE_DT Chief_NNP Commissioner_NNP notes_NNS with_IN great_JJ satisfaction_NN the_DT very_RB encouraging_JJ increase_NN in_IN the_DT number_NN of_IN vaccinations_NNS performed_VBN during_IN the_DT year_NN ,_, amounting_VBG to_TO no_DT less_JJR than_IN 148,474_CD operations_NNS compared_VBN with_IN 128,200_CD in_IN 1923-24_JJ ._.
+It_PRP is_VBZ true_JJ that_IN in_IN 1923-24_CD the_DT number_NN was_VBD disappointingly_RB low_JJ but_CC the_DT figures_NNS for_IN the_DT year_NN under_IN review_NN present_VBP a_DT welcome_JJ increase_NN of_IN no_DT less_JJR than_IN 4,319_CD on_IN those_DT for_IN 1922-23_JJ and_CC are_VBP the_DT highest_JJS recorded_VBN for_IN the_DT past_JJ five_CD years_NNS ._.
+This_DT is_VBZ particularly_RB praiseworthy_JJ owing_VBG to_TO the_DT fact_NN that_IN the_DT vaccination_NN staff_NN remained_VBD the_DT same_JJ for_IN the_DT major_JJ portion_NN of_IN the_DT year_NN ._.
+Towards_IN the_DT close_NN of_IN the_DT year_NN the_DT District_NNP Board_NNP ,_, Peshawar_NNP ,_, were_VBD able_JJ to_TO re-appoint_JJ two_CD of_IN the_DT vaccinators_NNS who_WP had_VBD been_VBN reduced_VBN in_IN 1922-23_CD ,_, but_CC even_RB this_DT left_VBD the_DT staff_NN reduced_VBN by_IN one_CD vaccinator_NN as_IN compared_VBN with_IN the_DT personnel_NNS in_IN 1922-23_CD ._.
+In_IN view_NN of_IN the_DT large_JJ increase_NN in_IN vaccination_NN work_NN the_DT increase_NN of_IN Rs_NNP ._.
+1,162_CD in_IN the_DT total_JJ expenditure_NN under_IN this_DT head_NN was_VBD to_TO be_VB expected_VBN ,_, but_CC the_DT average_JJ cost_NN of_IN each_DT successful_JJ operation_NN fell_VBD from_IN two_CD annas_NNS and_CC nine_CD pies_NNS to_TO the_DT commendably_RB low_JJ figure_NN of_IN two_CD annas_NNS and_CC six_CD pies_NNS ._.
+There_EX was_VBD no_DT epidemic_JJ of_IN small-pox_NN during_IN the_DT year_NN and_CC the_DT Province_NNP was_VBD practically_RB free_JJ from_IN this_DT disease_NN except_IN in_IN the_DT Peshawar_NNP District_NNP where_WRB 234_CD deaths_NNS occurred_VBD out_IN of_IN a_DT total_NN of_IN 309_CD for_IN the_DT whole_JJ Province_NN ._.
+The_DT Chief_NNP Commissioner_NNP wishes_VBZ to_TO express_VB his_PRP$ thanks_NNS to_TO Lieutenant-Colonel_NNP C._NNP I._NNP Brierley_NNP and_CC to_TO all_DT Civil_NNP Surgeons_NNP for_IN the_DT excellent_JJ results_NNS which_WDT have_VBP been_VBN achieved_VBN in_IN this_DT important_JJ branch_NN of_IN medical_JJ administration_NN ._.
+M._NNP E._NNP RAE_NNP ,_, MAJOR_NNP ,_, Secretary_NNP to_TO the_DT Chief_NNP Commissioner_NNP ,_, North-_NNP West_NNP Frontier_NNP Province_NNP ._.
+NATHIA_NNP GALI_NNP :_: The_DT 20th_CD June_NNP 1925_CD ._.
+N.-W._JJ F.P_NNP ._.
+Govt_NNP ._.
+Ptg_NNP ._.
+&_CC Sty_NNP Office_NNP ,_, PeshawarCONTENTS_NNP ._.
+PARA_NNP ._.
+PAGE_NN ._.
+1_CD ._.
+Administration_NN ..._: ..._: ..._: ..._: ..._: 1_CD 2_CD ._.
+Statement_JJ No_NNP ._.
+I_PRP ._.
+(_( ii_NN )_) ANNUAL_NNP FORMS_NNP ._.
+Statement_JJ No_NNP ._.
+I.NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1924-25_CD ._.
+Administration_NN ._.
+1_CD ._.
+The_DT charge_NN of_IN the_DT Vaccination_NNP Department_NNP was_VBD held_VBN by_IN me_PRP throughout_IN the_DT year_NN ._.
+Statement_JJ No_NNP ._.
+I_PRP ._.
+(_( 2_CD )_) the_DT list_NN with_IN an_DT average_NN of_IN 6,015.86_CD ._.
+The_DT Bannu_NNP District_NNP shows_VBZ the_DT smallest_JJS amount_NN of_IN average_JJ work_NN done_VBN by_IN each_DT vaccinator_NN ,_, viz_NN ._.
+3,144.33_CD as_IN compared_VBN with_IN 3,113.33_CD in_IN the_DT previous_JJ year_NN ._.
+Vaccinations_NNS according_VBG to_TO ages_NNS ._.
+5_CD ._.
+There_EX were_VBD 111,830_CD successful_JJ primary_JJ vaccinations_NNS performed_VBD ,_, 70,703_CD of_IN which_WDT were_VBD on_IN infants_NNS under_IN one_CD year_NN and_CC 34,160_CD on_IN children_NNS between_IN one_CD and_CC six_CD years_NNS of_IN age_NN ._.
+The_DT successful_JJ vaccinations_NNS were_VBD at_IN the_DT rate_NN of_IN 41.07_CD per_IN mille_NN of_IN the_DT population_NN ._.
+Re-vaccinations_NNS ._.
+6_CD ._.
+30,567_CD re-vaccinations_NNS were_VBD performed_VBN during_IN the_DT year_NN ,_, compared_VBN with_IN an_DT average_NN of_IN 20,178_CD in_IN the_DT preceding_VBG quinquennium_NN ._.
+This_DT is_VBZ a_DT very_RB great_JJ and_CC necessary_JJ improvement_NN and_CC it_PRP shows_VBZ that_IN the_DT population_NN of_IN this_DT Province_NNP are_VBP learning_VBG the_DT value_NN of_IN re-vaccination_NN in_IN producing_VBG life-long_JJ immunity_NN from_IN small-pox_NN ._.
+Appendix_NNP to_TO Statement_NNP No_NNP ._.
+I_PRP ._.
+(_( 3_CD )_) The_DT total_JJ expenditure_NN was_VBD met_VBN from_IN the_DT funds_NNS noted_VBD below_IN :_: (_( 4_CD )_) Appendix_VBP A_DT ._.
+(_( 5_CD )_) people_NNS in_IN their_PRP$ houses_NNS and_CC fraternize_VB with_IN them_PRP and_CC explain_VB to_TO them_PRP the_DT benefits_NNS of_IN vaccination_NN and_CC the_DT deadly_JJ danger_NN of_IN neglecting_VBG this_DT precaution_NN ._.
+Needless_NN to_TO say_VB it_PRP was_VBD impossible_JJ for_IN Sub-Assistant_JJ Surgeons_NNS in_IN charge_NN of_IN dispensaries_NNS to_TO spend_VB whole_JJ days_NNS and_CC nights_NNS in_IN the_DT surrounding_NN villages_NNS ._.
+General_NNP remarks_NNS ._.
+17_CD ._.
+The_DT vaccination_NN work_NN for_IN the_DT year_NN has_VBZ been_VBN on_IN the_DT whole_JJ very_RB satisfactory_JJ and_CC I_PRP must_MD congratulate_VB all_DT Civil_NNP Surgeons_NNP on_IN the_DT results_NNS obtained_VBD ,_, and_CC at_IN the_DT same_JJ time_NN exhort_VB them_PRP to_TO increasing_VBG their_PRP$ endeavours_NNS still_RB further_RB to_TO popularize_VB vaccination_NN amongst_IN the_DT inhabitants_NNS of_IN their_PRP$ districts_NNS in_IN the_DT coming_JJ year_NN ._.
+My_PRP$ statistical_JJ clerk_NN ._.
+Devi_NNP Chand_NNP ,_, deserves_VBZ credit_NN for_IN the_DT keenness_NN he_PRP has_VBZ shown_VBN in_IN carrying_VBG out_RP his_PRP$ duties_NNS in_IN this_DT department_NN during_IN the_DT past_JJ year_NN ._.
+C._NNP I._NNP BRIERLEY_NNP ,_, LIEUT.-COLONEL_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North-_NNP West_NNP Frontier_NNP Province_NNP ._.
+NATHIA_NNP GALI_NNP :_: The_DT 10th_CD June_NNP 1925_CD ._.
+Govt_NNP ._.
+Ptg_NNP ._.
+&_CC Sty_NNP ,_, Office_NNP ,_, PeshawarDiagram_NNP showing_VBG the_DT death_NN -rates_VBZ from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN during_IN the_DT year_NN 1924-25_RB ,_, the_DT average_JJ rate_NN of_IN mortality_NN from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1923-24_JJ ,_, and_CC the_DT proportion_NN of_IN successful_JJ vaccinations_NNS during_IN the_DT year_NN 1924-25_JJ and_CC the_DT preceding_VBG six_CD years_NNS in_IN each_DT district_NN of_IN the_DT North-West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ STATEMENTS_NNP (_( ii_NN )_) A_DT ._.
+(_( iii_NN )_) DEPARTMENT_NNP ._.
+No_DT ._.
+I_PRP ._.
+Frontier_NNP Province_NNP during_IN the_DT year_NN 1924-25_RB ._.
+7_CD 8_CD 9_CD Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN ._.
+PRIMARY_NNP VACCINATION_NNP ._.
+Re-vaccination_NN ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Under_IN 1_CD year_NN ._.
+One_CD and_CC under_IN 6_CD years_NNS ._.
+Total_NN of_IN all_DT ages_NNS ._.
+9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 6,015.86_CD 35,445_CD 23,432_CD 10,409_CD 34,421_CD 638_CD 6,666_CD 5,708_CD 605_CD 4,606.60_CD 22,891_CD 13,221_CD 6,281_CD 20,761_CD 1,760_CD 754_CD 475_CD 121_CD 5,743.00_CD 11,953_CD 8,224_CD 3,301_CD 11,817_CD 63_CD 5,276_CD 5,165_CD 56_CD 3,404.00_CD 10,520_CD 6,682_CD 2,435_CD 10,215_CD 234_CD 3,096_CD 2,543_CD 262_CD 3,144.33_CD 8,457_CD 6,514_CD 1,390_CD 8,099_CD 304_CD 983_CD 481_CD 165_CD 4,611.25_CD 10,608_CD 5,125_CD 4,016_CD 10,278_CD 216_CD 7,847_CD 6,875_CD 443_CD 4,764.11_CD 99,874_CD 63,198_CD 27,832_CD 95,591_CD 3,215_CD 24,625_CD 21,247_CD 1,652_CD 2,823.83_CD 14,174_CD 5,323_CD 5,255_CD 12,604_CD 476_CD 2,763_CD 1,994_CD 331_CD 1,501.00_CD 477_CD 152_CD 201_CD 471_CD 6_CD 2,525_CD 1,854_CD 290_CD 4,229.88_CD 114,525_CD (_( a_DT )_) 68,673_CD 33,288_CD 103,666_CD (_( b_NN )_) 3,697_CD 29,913_CD 25,095_CD 2,278_CD primarily_RB vaccinated_VBN equals_NNS 622_CD which_WDT represents_VBZ secondary_JJ operations_NNS of_IN 6_CD years_NNS and_CC over_IN 6_CD years_NNS of_IN age_NN ._.
+(_( iv_NN )_) A_DT ._.
+(_( v_NN )_) DEPARTMENT_NNP ._.
+No_DT ._.
+I_PRP (_( vi_NN )_) SUMMARY_NNP ._.
+Total_JJ number_NN of_IN persons_NNS vaccinated_VBN ._.
+Total_JJ number_NN of_IN operations_NNS performed_VBN ._.
+Percentage_NN of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_VBN ._.
+Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN ._.
+Number_NNP of_IN children_NNS successfully_RB vaccinated_VBN ._.
+Ratio_NNP of_IN successful_JJ vaccinations_NNS per_IN 1,000_CD of_IN population_NN ._.
+Total_JJ cost_NN of_IN Department_NNP ._.
+Average_JJ cost_NN of_IN each_DT successful_JJ cases_NNS ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+Primary_NNP ._.
+Re-vaccination_JJ Primary_NNP ._.
+Re-vaccination_NN ._.
+Vaccinators_NNS employed_VBD ._.
+Persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN ._.
+Under_IN one_CD year_NN ._.
+One_CD and_CC under_IN 6_CD years_NNS ._.
+Rs_NNP ._.
+a._NN p._NN Rs_NNP ._.
+a._NN p._NN By_IN District_NNP ,_, Cantonment_NNP and_CC Political_NNP Agencies_NNP Staff_NNP (_( Statement_NNP No_NNP ._.
+1_CD )_) ..._: 113,903_CD 29,913_CD 114,525_CD 29,913_CD 98.05_CD 90.79_CD 34_CD 4,229.88_CD 68,673_CD 33,288_CD 41.07_CD 21,916_CD 8_CD 3_CD 0_CD 2_CD 6_CD By_IN Dispensary_JJ Staff_NNP (_( Statement_NNP No_NNP ._.
+III_NNP )_) ..._: ..._: ..._: 3,382_CD 654_CD 3,382_CD 654_CD ..._: ..._: ..._: ..._: 2,030_CD 872_CD ..._: ..._: ..._: By_IN other_JJ Agencies_NNPS ,_, if_IN any_DT ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_VBP ..._: 117,285_CD 30,567_CD 117,907_CD 30,567_CD 98.05_CD 90.79_CD 34_CD 4,229.88_CD 70,703_CD 34,160_CD 41.07_CD 21,916_CD 8_CD 3_CD 0_CD 2_CD 6_CD (_( vii_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP ._.
+TABLE_NN A_DT ._.
+Statement_JJ showing_VBG the_DT details_NNS of_IN the_DT Vaccination_NNP operations_NNS performed_VBD in_IN Political_JJ Agencies_NNS during_IN the_DT year_NN 1924-25_RB ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD Serial_JJ No_NNP ._.
+DISTRICTS_NNP ._.
+Names_NNS of_IN localities_NNS ._.
+Average_JJ number_NN of_IN vaccinators_NNS employed_VBN throughout_IN the_DT year_NN ._.
+Total_JJ number_NN of_IN persons_NNS vaccinated_VBN PRIMARY_NNP ._.
+Re-vaccinations_NNS ._.
+Percentage_NN of_IN successful_JJ rates_NNS in_IN which_WDT results_NNS were_VBD known_VBN ._.
+Percentage_NN of_IN unknown_JJ cases_NNS to_TO total_JJ cases_NNS ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Under_IN one_CD year_NN ._.
+One_CD and_CC under_IN 6_CD years_NNS ._.
+Total_NN of_IN all_DT ages_NNS ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1_CD Dera_NNP Ismail_NNP Khan_NNP ..._: Sherani_NNP Country_NNP ..._: 1_CD 3,315_CD 1,790_CD 1,043_CD 310_CD 1,595_CD 93_CD 1,535_CD 1,027_CD 251_CD 93.99_CD 81.39_CD 5.19_CD 16.45_CD 2_CD Kurram_NNP Agency_NNP ..._: Kurram_NNP Agency_NNP ..._: 1_CD 3,268_CD 2,233_CD 519_CD 734_CD 1,800_CD 132_CD 1,035_CD 764_CD 80_CD 85.67_CD 30.00_CD 5.91_CD 7.74_CD 3_CD Tochi_NNP (_( viii_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP (_( ix_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP (_( x_PRP )_) A_DT ._.
+(_( xi_NN )_) A_DT ._.
+(_( xii_NN )_) B_NNP ._.
+(_( xiii_NN )_) COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN persons_NNS primarily_RB vaccinated_VBN and_CC the_DT number_NN of_IN those_DT persons_NNS who_WP were_VBD successfully_RB vaccinated_VBN in_IN the_DT North-West_NNP Frontier_NNP Province_NNP in_IN each_DT of_IN the_DT undermentioned_JJ official_JJ years_NNS ._.
+ESTABLISHMENT_NNP ._.
+PERSONS_NNP PRIMARILY_NNP VACCINATED_NNP ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Year_NN ending_VBG 31st_CD March_NNP ._.
+From_IN 1900_CD to_TO 1912_CD 1913_CD 1914_CD 1915_CD 1916_CD 1917_CD Government_NN ..._:
+The_DT informa-_JJ tion_NN for_IN the_DT year_NN previous_JJ to_TO 1900_CD is_VBZ not_RB available_JJ ._.
+118,703_CD 107,106_CD 10,125_CD 9,718_CD 11,353_CD 10,831_CD 7,341_CD 6,548_CD 10,140_CD 9,450_CD 6,601_CD 5,953_CD Municipal_NNP ,_, Local_NNP and_CC District_NNP Funds_NNS ..._: 965,502_CD 914,890_CD 113,385_CD 110,276_CD 131,922_CD 129,207_CD 130,866_CD 128,616_CD 112,546_CD 110,489_CD 126,421_CD 122,423_CD Dispensaries_NNS ..._: 8,434_CD 6,194_CD 299_CD 291_CD 108_CD 94_CD 8_CD 7_CD ..._: ..._: ..._: ..._: TOTAL_VBP ..._: 1,092,639_CD 1,028,190_CD 123,809_CD 120,285_CD 143,383_CD 140,132_CD 138,215_CD 135,171_CD 122,686_CD 119,939_CD 133,022_CD 128,376_CD (_( xiv_NN )_) COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP (_( xv_NNP )_) STATEMENT_NNP No_NNP ._.
+V._NNP Showing_NNP results_NNS of_IN inspection_NN of_IN vaccination_NN by_IN Inspecting_VBG Officers_NNS in_IN the_DT North-West_NNP Frontier_NNP Province_NNP during_IN the_DT year_NN 1924-25_JJ Serial_NNP No_NNP ._.
+DISTRICTS_NNP ._.
+Total_JJ number_NN of_IN persons_NNS vaccinated_VBN ._.
+TOTAL_JJ NUMBER_NNP INSPECTED_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+By_IN Civil_NNP Surgeons_NNP ._.
+By_IN Superintendents_NNS ._.
+By_IN Divisional_NNP Inspectors_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 1_CD Hazara_NN ..._: ..._: ..._: 35,445_CD 6,666_CD 412_CD 23_CD 34,798_CD 4,044_CD ..._: ..._: 2_CD Peshawar_NNP ..._: ..._: ..._: 24,670_CD 3,310_CD ..._: ..._: 17,435_CD 2,435_CD ..._: ..._: 3_CD Mardan_NNP Sub-Division_NN ..._: ..._: 13,054_CD 5,353_CD 150_CD ..._: 9,981_CD 3,734_CD ..._: ..._: 4_CD Kohat_NNP ..._: ..._: ..._: 10,849_CD 3,097_CD 800_CD ..._: 9,612_CD 2,720_CD ..._: ..._: 5_CD Bannu_NNP ..._: ..._: ..._: 8,457_CD 986_CD 260_CD ..._: 6,182_CD 816_CD ..._: ..._: 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: ..._: 11,125_CD 8,231_CD ..._: ..._: 7,492_CD 5,393_CD ..._: ..._:
+Agencies_NNS ._.
+7_CD Sherani_NNP Country_NNP ..._: ..._: ..._: 1,790_CD 1,525_CD ..._: ..._: ..._: ..._: ..._: ..._: 8_CD Kurram_NNP ..._: ..._: ..._: 2,366_CD 1,196_CD 272_CD 220_CD ..._: ..._: ..._: ..._: 9_CD Tochi_NNP (_( xvi_NNP )_) STATEMENT_NNP No_NNP ._.
+V_NNP (_( xvii_NNP )_) APPENDIX_VBP A_DT Statement_NNP showing_VBG the_DT number_NN of_IN vaccinations_NNS performed_VBN in_IN Municipal_NNP towns_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ._.
+Serial_JJ No_NNP ._.
+Towns_NNS ._.
+Number_NNP of_IN births_NNS during_IN the_DT year_NN 1924-25_RB ._.
+Number_NNP of_IN deaths_NNS among_IN children_NNS under_IN one_CD year_NN during_IN the_DT year_NN 1924-25_RB ._.
+Number_NNP of_IN successful_JJ vacci-_JJ nations_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ending_VBG March_NNP 1925_CD ._.
+Date_NNP of_IN extension_NN of_IN the_DT vaccination_NN Act_NNP to_TO towns_VB ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD Hazara_NNP District_NNP ._.
+1_CD Abbottabad_NNP ..._: ..._: 126_CD 11_CD 98_CD 1st_CD May_NNP 1906_CD ._.
+2_CD Nawanshahr_NNP (_( NotifiedArea_NNP )_) 256_CD 52_CD 106_CD 3_CD Buffa_NNS ..._: ..._: 256_CD 33_CD 115_CD 4_CD Haripur_NNP ..._: ..._: 233_CD 51_CD 135_CD Peshawar_NNP District_NNP 5_CD Peshawar_NNP ..._: ..._: 2,303_CD 455_CD 5,863_CD Act_NNP not_RB in_IN force_NN ._.
+6_CD Nowshera_NNP Kalan_NNP (_( Notified_NNP Area_NNP )_) ..._: ..._: 242_CD 50_CD 268_CD 7_CD Becketganj-Khawjaganj_NNP (_( Notified_NNP Area_NNP )_) ..._: 207_CD 32_CD 160_CD Kohat_NNP District_NNP ._.
+8_CD Kohat_NNP ..._: ..._: 510_CD 100_CD 327_CD 1st_CD October_NNP 1904_CD ._.
+Bannu_NNP District_NNP ._.
+9_CD Bannu_NNP ..._: ..._: 600_CD 113_CD 730_CD November_NNP 1904_CD ._.
+10_CD Lakki_NNP (_( Notified_NNP Area_NNP )_) ..._: 266_CD 57_CD 95_CD Act_NNP not_RB in_IN force_NN ._.
+Dera_NNP Ismail_NNP Khan_NNP District_NNP ._.
+11_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 1,261_CD 371_CD 944_CD December_NNP 1897_CD ._.
+12_CD Kulachi_NNP ..._: ..._: 109_CD 23_CD 20_CD 20th_CD January_NNP 1906_CD ._.
+13_CD Tank_NNP (_( Notified_NNP Area_NNP )_) ..._: 267_CD 79_CD 200_CD (_( xviii_NN )_) APPEN_NNP Statement_NNP showing_VBG the_DT annual_JJ number_NN of_IN successful_JJ per_IN 1,000_CD of_IN population_NN ,_, for_IN Serial_JJ No_NNP ._.
+DISTRICTS_NNP ._.
+1920-21_JJ ._.
+1921-22_JJ ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 1_CD Hazara_NN ..._: ..._: 34,421_CD 0.24_CD 16,663_CD 0.07_CD 2_CD Peshawar_NNPS ..._: ..._: 16,629_CD 0.16_CD 18,717_CD 0.03_CD 3_CD Mardan_NNP Sub-Division_NN ..._: 15,047_CD 0.15_CD 18,306_CD 0.10_CD 4_CD Kohat_NNP ..._: ..._: 8,890_CD 0.36_CD 9,587_CD 0.27_CD 5_CD Bannu_NNP ..._: 8,887_CD 1.73_CD 8,573_CD 0.50_CD 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 14,874_CD 4.00_CD 11,737_CD 0.31_CD Total_NN ..._: 98,748_CD 0.86_CD 83,583_CD 0.16_CD Total_NN in_IN Political_JJ Agencies_NNPS Staff_NNP ..._: 7,236_CD ..._: 6,371_CD ..._: Total_NN in_IN Cantonment_NNP Staff_NNP 3,060_CD ..._: 1,711_CD ..._: Total_NN in_IN Dispensary_NNP Staff_NNP 80_CD ..._: 657_CD ..._: GRAND_NNP TOTAL_NNP ..._: 109,124_CD 0.86_CD 92,322_CD 0.16_CD (_( xix_NN )_) DIX_NNP B._NNP vaccinations_NNS and_CC the_DT annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ the_DT five_CD years_NNS ending_VBG 1924-25_JJ ._.
+1922-23_CD ._.
+1923-24_JJ ._.
+1924-25_JJ ._.
+Serial_JJ No_NNP ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 32,734_CD ..._: 36,401_CD ..._: 40,129_CD ..._: 1_CD 21,854_CD 0.15_CD 17,181_CD 0.03_CD 21,236_CD 0.44_CD 2_CD 17,199_CD 0.01_CD 18,822_CD ..._: 16,982_CD 0.13_CD 3_CD 10,982_CD 0.06_CD 11,525_CD ..._: 12,758_CD 0.13_CD 4_CD 7,886_CD 0.01_CD 8,286_CD ..._: 8,580_CD 0.004_CD 5_CD 18,290_CD 0.08_CD 12,600_CD ..._: 17,153_CD 0.01_CD 6_CD 108,945_CD 0.05_CD 104,815_CD 0.03_CD 116,838_CD 0.14_CD 19,986_CD ..._: 11,787_CD ..._: 14,598_CD ..._: 2,347_CD ..._: 2,312_CD ..._: 2,325_CD ..._: 1,372_CD ..._: 54_CD ..._: 3,694_CD ..._: 182,650_CD 0.05_CD 118,968_CD 0.03_CD 137,455_CD 0.14_CD Govt_NNP ._.
+flg_NN ._.
+&_CC Sty_NNP ._.
+Office_NNP ,_, Peshawar-257_NNP C._NNP M._NNP O.NOTES_NNP ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1925-26_JJ BY_NNP LIEUTENANT-COLONEL_NNP C._NNP I._NNP BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North-_NNP West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Price_NNP NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1925-26_CD ._.
+Government_NN of_IN India_NNP Publications_NNP are_VBP obtainable_JJ from_IN the_DT Government_NNP of_IN India_NNP Central_NNP Publication_NNP Branch_NNP ,_, 8_CD ,_, Hastings_NNP Street_NNP ,_, Calcutta_NNP ,_, and_CC from_IN the_DT following_JJ Agents_NNS :_: NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1925-26_JJ BY_NNP LIEUTENANT-COLONEL_NNP C._NNP I._NNP BRIERLEY_NNP ,_, I.M.S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North-West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Price_NNP Notes_NNS on_IN Vaccination_NN in_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP for_IN 1925-26._JJ REVIEW_NNP BY_NNP THE_NNP CHIEF_NNP COMMISSIONER_NNP ._.
+1_CD ._.
+In_IN his_PRP$ Review_NN on_IN the_DT Notes_NNS on_IN Vaccination_NN for_IN the_DT year_NN 1924-25_CD the_DT Chief_NNP Commissioner_NNP had_VBD occasion_NN to_TO express_VB satisfaction_NN at_IN the_DT very_RB encouraging_JJ way_NN in_IN which_WDT the_DT number_NN of_IN vaccination_NN operations_NNS had_VBD increased_VBN ._.
+This_DT year_NN the_DT number_NN has_VBZ again_RB increased_VBN ,_, this_DT time_NN by_IN the_DT remarkable_JJ figure_NN of_IN 79,430_CD ._.
+There_EX is_VBZ no_DT doubt_NN that_IN this_DT is_VBZ largely_RB due_JJ to_TO the_DT fact_NN that_IN the_DT Province_NNP was_VBD visited_VBN by_IN a_DT serious_JJ epidemic_NN of_IN small-pox_JJ which_WDT did_VBD not_RB subside_VB until_IN late_JJ in_IN the_DT year_NN and_CC that_IN ,_, in_IN consequence_NN ,_, the_DT people_NNS presented_VBD themselves_PRP and_CC their_PRP$ children_NNS more_RBR readily_RB for_IN vaccination_NN ._.
+At_IN the_DT same_JJ time_NN ,_, it_PRP indicates_VBZ that_IN their_PRP$ confidence_NN in_IN the_DT efficacy_NN of_IN vaccination_NN and_CC in_IN the_DT efficiency_NN of_IN the_DT vaccination_NN staff_NN has_VBZ increased_VBN considerably_RB ;_: and_CC the_DT Chief_NNP Commissioner_NNP is_VBZ most_JJS gratified_VBN at_IN the_DT results_NNS achieved_VBD ._.
+2_CD ._.
+A_DT notable_JJ instance_NN of_IN this_DT improvement_NN in_IN the_DT attitude_NN of_IN the_DT people_NNS is_VBZ reported_VBN from_IN the_DT Malakand_NNP Agency_NNP where_WRB ,_, on_IN the_DT application_NN of_IN the_DT subjects_NNS of_IN the_DT Wali_NNP of_IN Swat_NNP two_CD extra_JJ vaccinators_NNS were_VBD entertained_VBN for_IN three_CD months_NNS for_IN work_NN in_IN Upper_NNP Swat_NNP and_CC vaccinated_VBD nearly_RB 7,000_CD children_NNS ._.
+The_DT faith_NN of_IN these_DT wild_JJ hill-men_NNS in_IN vaccination_NN as_IN a_DT prevention_NN against_IN small-pox_JJ and_CC its_PRP$ attendant_JJ disfiguration_NN is_VBZ indeed_RB striking_JJ ._.
+A_DT further_JJ instance_NN is_VBZ the_DT desire_NN of_IN the_DT Mahsuds_NNP for_IN vaccination_NN ,_, which_WDT came_VBD to_TO the_DT notice_NN of_IN the_DT Chief_NNP Commissioner_NNP himself_PRP during_IN his_PRP$ tour_NN in_IN Waziristan_NNP ._.
+3_CD ._.
+Four_CD more_JJR vaccinators_NNS were_VBD entertained_VBN this_DT year_NN and_CC the_DT average_JJ number_NN of_IN operations_NNS performed_VBN by_IN each_DT vaccinator_NN totalled_VBD close_RB on_IN 6,000_CD ._.
+In_IN Dera_NNP Ismail_NNP Khan_NNP District_NNP the_DT work_NN of_IN the_DT vaccinators_NNS was_VBD particularly_RB good_JJ and_CC the_DT average_NN exceeded_VBD 8,000_CD ._.
+(_( 2_CD )_) 4_CD ._.
+The_DT number_NN of_IN vaccinations_NNS performed_VBN in_IN trans-_JJ frontier_NN tracts_NNS ,_, as_RB well_RB as_IN the_DT total_JJ number_NN of_IN re-vaccinations_NNS performed_VBN have_VBP both_DT more_RBR than_IN doubled_VBD ,_, while_IN in_IN Peshawar_NNP and_CC Nowshera_NNP Cantonments_NNP nearly_RB 14,000_CD persons_NNS were_VBD vaccinated_VBN as_IN compared_VBN with_IN 3,000_CD last_JJ year_NN ._.
+The_DT ratio_NN of_IN successful_JJ vaccinations_NNS was_VBD 61.32_CD per_IN mille_NN of_IN the_DT population_NN against_IN 41.07_CD last_JJ year_NN ._.
+5_CD ._.
+In_IN spite_NN of_IN this_DT expansion_NN the_DT total_JJ amount_NN spent_VBN on_IN this_DT important_JJ branch_NN of_IN the_DT medical_JJ administration_NN was_VBD only_RB Rs_NNP ._.
+22,839CONTENTS_CD PARA_NNP ._.
+PAGE_NN ._.
+1_CD ._.
+Administration_NN ..._: ..._: ..._: 1_CD 2_CD ._.
+Statement_JJ No_NNP ._.
+I_PRP ._.
+(_( ii_NN )_) ANNUAL_NNP FORMS_NNP ._.
+Statement_JJ No_NNP ._.
+I.NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH-WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1925-26_CD ._.
+Administration_NN ._.
+I_PRP was_VBD in_IN charge_NN of_IN the_DT Vaccination_NNP Department_NNP throughout_IN the_DT year_NN ._.
+Statement_JJ No_NNP ._.
+I_PRP ._.
+(_( 2_CD )_) Average_JJ number_NN vacci-_JJ nated_VBN by_IN each_DT vaccinator_NN ._.
+4_CD ._.
+The_DT average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN was_VBD 5,834.89_CD ._.
+(_( The_DT small_JJ amount_NN of_IN vaccination_NN work_NN done_VBN by_IN Superintendents_NNS of_IN Vaccination_NNP is_VBZ ignored_VBN in_IN calculating_VBG this_DT figure_NN ._. )_)
+The_DT vaccinators_NNS in_IN the_DT Dera_NNP Ismail_NNP Khan_NNP head_VBD the_DT list_NN with_IN an_DT average_NN of_IN 8,337.0_CD per_IN head_NN ._.
+Hazara_NNP District_NNP is_VBZ second_JJ with_IN an_DT average_NN of_IN 6,964.14_CD ._.
+The_DT Bannu_NNP District_NNP shows_VBZ the_DT smallest_JJS amount_NN of_IN average_JJ work_NN done_VBN by_IN each_DT vaccinator_NN ,_, viz_NN ._.
+4,477.0_CD ._.
+Vaccinations_NNS according_VBG to_TO ages_NNS ._.
+5_CD ._.
+Of_IN the_DT 147,521_CD successful_JJ primary_JJ vaccinations_NNS 85,110_CD were_VBD on_IN infants_NNS under_IN one_CD year_NN of_IN age_NN and_CC 49,100_CD on_IN children_NNS of_IN one_CD ,_, but_CC under_IN six_CD years_NNS ._.
+The_DT successful_JJ vacci-_JJ nations_NNS were_VBD at_IN the_DT rate_NN of_IN 61.32_CD per_IN 1,000_CD of_IN population_NN ,_, 35.94_CD being_VBG the_DT average_NN of_IN the_DT preceding_VBG five_CD years_NNS ._.
+Re-vaccinations_NNS ._.
+6_CD ._.
+During_IN the_DT year_NN the_DT number_NN of_IN re-vaccinations_NNS performed_VBN was_VBD 73,618_CD against_IN 30,567_CD in_IN the_DT year_NN 1924-25_RB ._.
+It_PRP is_VBZ most_RBS satis-_JJ factory_NN and_CC it_PRP indicates_VBZ that_IN the_DT population_NN of_IN this_DT Province_NNP are_VBP learning_VBG the_DT value_NN of_IN re-vaccination_NN in_IN producing_VBG life-_JJ long_JJ immunity_NN from_IN small-pox_NN ._.
+Appendix_NNP to_TO Statement_NNP No_NNP ._.
+I_PRP ._.
+(_( 3_CD )_) where_WRB 6,878_CD children_NNS were_VBD vaccinated_VBN ._.
+It_PRP appears_VBZ that_IN the_DT people_NNS of_IN Upper_NNP Swat_NNP are_VBP realizing_VBG the_DT benefits_NNS of_IN vaccina-_JJ tion_NN and_CC are_VBP losing_VBG confidence_NN in_IN their_PRP$ previous_JJ practice_NN of_IN scale_JJ inoculation_NN ._.
+Appendix_NNP to_TO Statement_NNP No_NNP ._.
+I_PRP ._.
+(_( 4_CD )_) 80.32_CD for_IN primary_JJ and_CC 75.50_CD for_IN re-vaccination_NN ._.
+Superintend-_JJ ents_NNS of_IN Vaccination_NNP record_NN a_DT success_NN of_IN 98.48_CD for_IN primary_JJ and_CC 81.98_CD for_IN re-vaccination_NN ._.
+The_DT inspection_NN work_NN done_VBN by_IN Superintendents_NNS of_IN Vaccination_NNP as_IN compared_VBN with_IN the_DT previous_JJ year_NN is_VBZ as_IN follows_VBZ :_: (_( 5_CD )_) Particulars_NNS of_IN lymph_NN used_VBN ._.
+15_CD ._.
+Throughout_IN the_DT year_NN the_DT lymph_NN used_VBN has_VBZ been_VBN glycerinated_VBN chloroform_NN lymph_NN procured_VBN from_IN the_DT Punjab_NNP Vaccine_NNP Institute.The_NNP lymph_NN received_VBD was_VBD of_IN good_JJ quality_NN and_CC gave_VBD satisfactoryresults_NNS ._.
+Attitude_NN of_IN the_DT people_NNS towards_IN vaccination_NN ._.
+16_CD ._.
+The_DT attitude_NN of_IN the_DT people_NNS towards_NNS vaccination_NN is_VBZ on_IN the_DT whole_JJ favourable_NN ._.
+During_IN the_DT year_NN there_RB has_VBZ been_VBN a_DT considerable_JJ increase_NN of_IN vaccination_NN over_IN the_DT past_JJ year_NN ._.
+General_NNP remarks_NNS ._.
+17_CD ._.
+It_PRP is_VBZ very_RB interesting_JJ to_TO see_VB that_DT on_IN the_DT appearance_NN of_IN even_RB a_DT slight_JJ epidemic_NN of_IN small-pox_NN in_IN a_DT province_NN how_WRB quickly_RB the_DT people_NNS flock_VBP to_TO the_DT vaccination_NN stations_NNS ._.
+Whatever_WDT the_DT opinion_NN may_MD be_VB in_IN England_NNP regarding_VBG vaccination_NN I_PRP can_MD safely_RB say_VB that_IN in_IN this_DT Province_NN of_IN India_NNP and_CC particularly_RB among_IN the_DT uneducated_JJ wild_JJ Frontier_NNP Tribes_NNP vaccination_NN is_VBZ looked_VBN upon_IN as_IN an_DT almost_RB certain_JJ prevention_NN against_IN the_DT disease_NN in_IN a_DT severe_JJ form_NN and_CC also_RB against_IN disfiguration_NN ._.
+In_IN this_DT latter_JJ connection_NN ,_, namely_RB disfiguration_NN by_IN small-pox_JJ ,_, I_PRP have_VBP been_VBN immensely_RB struck_VBN recently_RB by_IN the_DT fact_NN that_IN it_PRP is_VBZ seldom_RB one_CD sees_VBZ young_JJ adolescents_NNS with_IN pock-_JJ marked_JJ faces_VBZ ,_, whereas_IN 15_CD years_NNS ago_RB 80_CD per_IN cent_NN ._.
+were_VBD so_RB inflicted_JJ ._.
+This_DT was_VBD particularly_RB brought_VBN to_TO my_PRP$ notice_NN when_WRB as_IN Civil_NNP Surgeon_NNP I_PRP was_VBD medical_JJ examiner_NN for_IN various_JJ insurance_NN companies_NNS ._.
+My_PRP$ statistical_JJ clerk_NN ,_, L._NNP Devi_NNP Chand_NNP ,_, deserves_VBZ credit_NN for_IN the_DT careful_JJ way_NN he_PRP has_VBZ carried_VBN out_RP his_PRP$ duties_NNS in_IN this_DT depart-_JJ ment_NN during_IN the_DT past_JJ year_NN ._.
+C.I_NNP ._.
+BRIERLEY_NNP ,_, LT.-COL._NNP ,_, I._NNP M._NNP S._NNP ,_, NATHIAGALI_NNP :_: Chief_NNP Medical_NNP Officer_NNP ,_, North-_NNP West_NNP Frontier_NNP Province_NNP ._.
+The_DT June_NNP 1926_CD ._.
+GP_NNP &_CC SO-NWFPDiagram_NNP showing_VBG the_DT death-rates_NNS from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN during_IN the_DT year_NN 1925-26_RB ,_, the_DT average_JJ rate_NN of_IN mortality_NN from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1924-25_JJ ,_, and_CC the_DT proportion_NN of_IN successful_JJ vaccinations_NNS during_IN the_DT year_NN 1925-26_JJ and_CC the_DT preceding_VBG six_CD yearsin_JJ each_DT district_NN of_IN the_DT North-West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP (_( ii_NN )_) A_DT ._.
+(_( iii_NN )_) DEPARTMENT_NNP ._.
+No_DT ._.
+I_PRP ._.
+Frontier_NNP Province_NNP during_IN the_DT year_NN 1925-26_RB ._.
+7_CD 8_CD 9_CD Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN ._.
+PRIMARY_NNP VACCINATION_NNP ._.
+Re-vaccination_NN ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Under_IN 1_CD year_NN ._.
+One_CD and_CC under_IN 6_CD year_NN ._.
+Total_NN of_IN all_DT ages_NNS ._.
+9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 6,964.14_CD 34,143_CD 22,227_CD 9,944_CD 33,132_CD 593_CD 14,812_CD 13,150_CD 955_CD 4,796.17_CD 24,945_CD 15,095_CD 6,697_CD 23,426_CD 1,080_CD 3,961_CD 3,126_CD 336_CD 5,620.75_CD 18,778_CD 12,095_CD 5,955_CD 18,482_CD 257_CD 3,705_CD 3,448_CD 179_CD 4,477.0_CD 11,806_CD 7,783_CD 2,407_CD 11,253_CD 392_CD 6,102_CD 5,037_CD 580_CD 5,093.0_CD 14,205_CD 8,821_CD 3,643_CD 13,256_CD 793_CD 6,167_CD 2,701_CD 1,388_CD 8,337.0_CD 15,410_CD 7,894_CD 5,374_CD 14,970_CD 318_CD 17,943_CD 13,918_CD 1,098_CD 5,918.52_CD 119,287_CD 73,915_CD 34,020_CD 114,519_CD 3,433_CD 52,690_CD 41,380_CD 4,536_CD 6,036.17_CD 29,777_CD 9,874_CD 12,981_CD 28,085_CD 959_CD 6,440_CD 4,889_CD 513_CD 6,936.0_CD 3,111_CD 424_CD 1,258_CD 2,913_CD 23_CD 10,761_CD 7,922_CD 620_CD 5,992.59_CD 152,175_CD 81,213_CD 48,259_CD 145,517_CD 4,415_CD 69,891_CD 54,191_CD 5,669_CD primarily_RB vaccinated_VBN equals_NNS 340_CD which_WDT represents_VBZ secondary_JJ operations_NNS ._.
+6_CD years_NNS and_CC over_IN 6_CD years_NNS of_IN age_NN ._.
+(_( iv_NN )_) A_DT ._.
+(_( v_NN )_) DEPARTMENT_NNP ._.
+No_DT ._.
+I_PRP (_( vi_NN )_) SUMMARY_NNP ._.
+Total_JJ number_NN of_IN persons_NNS vaccinated_VBN ._.
+Total_JJ number_NN of_IN operations_NNS performed_VBN ._.
+Percentage_NN of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_VBN ._.
+Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN ._.
+Number_NNP of_IN children_NNS successfully_RB vaccinated_VBN ._.
+Ratio_NNP of_IN successful_JJ vaccinations_NNS per_IN 1,000_CD of_IN population_NN ._.
+Total_JJ cost_NN of_IN Department_NNP ._.
+Average_JJ cost_NN of_IN each_DT successful_JJ case_NN ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+Vaccinators_NNS employed_VBD ._.
+Persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN ._.
+Under_IN one_CD year_NN ._.
+One_CD and_CC under_IN 6_CD years_NNS ._.
+Rs_NNP ._.
+a._NN p._NN Rs_NNP ._.
+a._NN p._NN By_IN District_NNP ,_, Cantonment_NNP and_CC Political_NNP Agencies_NNP '_POS Staff_NNP (_( Statement_NNP No_NNP ._.
+I_PRP )_) ..._: 151,835_CD 69,891_CD 152,175_CD 69,891_CD 98.48_CD 84.38_CD 37_CD 5,992.59_CD 84,213_CD 48,259_CD 61.32_CD 22,838_CD 9_CD 1_CD 0_CD 1_CD 9_CD By_IN Dispensary_JJ Staff_NNP (_( Statement_NNP No_NNP ._.
+II_NNP )_) ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: By_IN other_JJ Agencies_NNPS ,_, if_IN any_DT ..._: 2,111_CD 3,727_CD 2,111_CD 3,727_CD 98.04_CD 79.26_CD ..._: ..._: 897_CD 841_CD ..._: ..._: ..._: TOTAL_VBP ..._: 153,946_CD 73,618_CD 154,286_CD 73,618_CD 98.48_CD 84.38_CD 37_CD 5,992.59_CD 85,110_CD 49,100_CD 61.32_CD 22,838_CD 9_CD 1_CD 0_CD 1_CD 9_CD (_( vii_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP ._.
+TABLE_NN A_DT ._.
+Statement_JJ showing_VBG the_DT details_NNS of_IN the_DT Vaccination_NNP operations_NNS performed_VBD in_IN Political_JJ Agencies_NNS during_IN the_DT year_NN 1925-26_RB ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD Serial_JJ No_NNP ._.
+DISTRICTS_NNP ._.
+Names_NNS of_IN localities_NNS ._.
+Average_JJ number_NN of_IN vaccinators_NNS employed_VBN throughout_IN the_DT year_NN ._.
+Total_JJ number_NN of_IN persons_NNS vacci-_JJ nated_JJ ._.
+PRIMARY_NNP ._.
+Re-vaccinations_NNS ._.
+Percentage_NN of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_VBN ._.
+Percentage_NN of_IN unknown_JJ cases_NNS to_TO total_JJ cases_NNS ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Under_IN one_CD year_NN ._.
+One_CD and_CC under_IN 6_CD years_NNS ._.
+Total_NN of_IN all_DT ages_NNS ._.
+Total_NN ._.
+Successful_NNP ._.
+Unknown_NNP ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+Primary_NNP ._.
+Re-vaccination_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1_CD Dera_NNP Ismail_NNP Khan_NNP ..._: Sherani_NNP country_NN ..._: 1_CD 7,359_CD 2,924_CD 1,992_CD 523_CD 2,898_CD 26_CD 4,435_CD 3,605_CD 416_CD 100_CD 89.69_CD 0.80_CD 9.40_CD 2_CD Kurram_NNP Agency_NNP ..._: Kurram_NNP Agency_NNP ..._: 1_CD 4,363_CD 3,744_CD 205_CD 1,708_CD 2,827_CD 612_CD 619_CD 472_CD 84_CD 90.26_CD 88.22_CD 11.00_CD 13.56_CD 3_CD Tochi_NNP (_( viii_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP (_( ix_NN )_) APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP (_( x_PRP )_) A_DT ._.
+(_( xi_NN )_) A_DT ._.
+(_( xii_NN )_) B_NNP ._.
+(_( xiii_NN )_) COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN persons_NNS primarily_RB vaccinated_VBN and_CC the_DT number_NN of_IN those_DT persons_NNS who_WP were_VBD successfully_RB vaccinated_VBN in_IN the_DT North-West_NNP Frontier_NNP Province_NNP in_IN each_DT of_IN the_DT undermentioned_JJ official_JJ years_NNS ._.
+ESTABLISHMENT_NNP PERSONS_NNP PRIMARILY_NNP VACCINATED_NNP ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ number_NN ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Year_NN ending_VBG 31st_CD March_NNP ._.
+From_IN 1900_CD to_TO 1912_CD ._.
+1913_CD 1914_CD 1915_CD 1916_CD 1917_CD Government_NN ..._:
+The_DT informa-_JJ tion_NN for_IN the_DT year_NN previous_JJ to_TO 1900_CD is_VBZ not_RB available_JJ ._.
+118,703_CD 107,106_CD 10,125_CD 9,718_CD 11,353_CD 10,831_CD 7,341_CD 6,548_CD 10,140_CD 9,450_CD 6,601_CD 5,953_CD Municipal_NNP ,_, Local_NNP and_CC District_NNP Funds_NNS ..._: 965,502_CD 914,890_CD 113,385_CD 110,276_CD 131,922_CD 129,207_CD 130,866_CD 128,616_CD 112,546_CD 110,489_CD 126,421_CD 122,423_CD Dispensaries_NNS ..._: 8,434_CD 6,194_CD 299_CD 291_CD 108_CD 94_CD 8_CD 7_CD ..._: ..._: ..._: ..._: TOTAL_VBP ..._: 1,092,639_CD 1'028,190_CD 123,809_CD 120,285_CD 143,383_CD 140,132_CD 138,215_CD 135,171_CD 122,686_CD 119,939_CD 133,022_CD 128,373_CD (_( xiv_NN )_) COMPARTIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP (_( xv_NNP )_) STATEMENT_NNP No_NNP ._.
+V._NNP Showing_NNP results_NNS of_IN inspection_NN of_IN vaccination_NN by_IN Inspecting_VBG Officers_NNS in_IN the_DT North-West_NNP Frontier_NNP Province_NNP during_IN the_DT year_NN 1925-26_RB ._.
+Serial_JJ No_NNP ._.
+DISTRICTS_NNP ._.
+Total_JJ number_NN of_IN persons_NNS vaccinated_VBN ._.
+TOTAL_JJ NUMBER_NNP INSPECTED_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+By_IN Civil_NNP Surgeons_NNP ._.
+By_IN Superintendent_NNP ._.
+By_IN Divisional_NNP Inspectors_NNP ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+Primary_NNP ._.
+Re-vaccinations_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 1_CD Hazara_NN ..._: ..._: ..._: 34,143_CD 14,812_CD 2,406_CD 1,070_CD 31,890_CD 11,426_CD ..._: ..._: 2_CD Peshawar_NNP ..._: ..._: ..._: 28,252_CD 14,948_CD 7_CD 7_CD 18,527_CD 7,064_CD ..._: ..._: 3_CD Mardan_NNP Sub-Division_NN ..._: ..._: 18,885_CD 3,705_CD 129_CD ..._: 14,989_CD 2,276_CD ..._: ..._: 4_CD Kohat_NNP ..._: ..._: ..._: 11,806_CD 6,102_CD 906_CD 500_CD 10,122_CD 5,300_CD ..._: ..._: 5_CD Bannu_NNP ..._: ..._: ..._: 14,264_CD 6,491_CD 924_CD 1,336_CD 9,791_CD 4,760_CD ..._: ..._: 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: ..._: 16,778_CD 20,278_CD 638_CD 137_CD 12,998_CD 14,698_CD ..._: ..._:
+Political_JJ Agencies_NNS ._.
+7_CD Sherani_NNP Country_NNP ..._: ..._: ..._: 2,924_CD 4,435_CD ..._: ..._: ..._: ..._: ..._: ..._: 8_CD Kurram_NNP Agency_NNP ..._: ..._: ..._: 4,125_CD 1,461_CD 386_CD 862_CD ..._: ..._: ..._: ..._: 9_CD Tochi_NNP (_( xvi_NNP )_) STATEMENT_NNP No_NNP ._.
+V_NNP (_( xvii_NNP )_) APPENDIX_VBP A_DT ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN vaccinations_NNS performed_VBN in_IN Municipal_NNP towns_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ._.
+Serial_JJ No_NNP ._.
+TOWNS_NNP ._.
+Number_NNP of_IN births_NNS during_IN the_DT year_NN 1925-26_RB ._.
+Number_NNP of_IN deaths_NNS among_IN children_NNS under_IN one_CD year_NN during_IN the_DT year_NN 1925-26_JJ Number_NNP of_IN successful_JJ vaccinations_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ending_VBG March_NNP 1926_CD ._.
+Date_NNP of_IN extension_NN of_IN the_DT Vaccination_NNP Act_NNP to_TO towns_VB ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD Hazara_NNP District_NNP ._.
+1_CD Abbottabad_NNP ..._: 121_CD 14_CD 185_CD 1st_CD May_NNP 1906_CD ._.
+2_CD Nawanshahr_NNP (_( Notifi-_NNP ed_NNP Area_NNP )_) ..._: 227_CD 34_CD 254_CD 3_CD Buffa_NNS ..._: ..._: 291_CD 38_CD 151_CD 4_CD Haripur_NNP ..._: 240_CD 39_CD 110_CD Peshawar_NNP District_NNP ._.
+5_CD Peshawar_NNP ..._: ..._: 2,322_CD 515_CD 2,790_CD Act_NNP not_RB in_IN force_NN ._.
+6_CD Nowshera_NNP Kalan_NNP (_( Notified_NNP Area_NNP )_) ..._: 326_CD 45_CD 372_CD 7_CD Becketgang-_JJ Khawajaganj_NNP (_( Notified_NNP Area_NNP )_) ..._: 185_CD 41_CD 343_CD Kohat_NNP District_NNP ._.
+8_CD Kohat_NNP ..._: 591_CD 83_CD 649_CD 1st_CD October_NNP 1904_CD ._.
+Bannu_NNP District_NNP ._.
+9_CD Bannu_NNP ..._: 601_CD 127_CD 1,106_CD November_NNP 1904_CD ._.
+10_CD Lakki_NNP (_( Notified_NNP Area_NNP )_) ..._: 186_CD 37_CD 288_CD Act_NNP not_RB in_IN force_NN ._.
+Dera_NNP Ismail_NNP Khan_NNP District_NNP ._.
+11_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 1,196_CD 335_CD 1,403_CD December_NNP 1897_CD ._.
+12_CD Kulachi_NNP ..._: 111_CD 27_CD 390_CD 20th_CD January_NNP 1906_CD ._.
+13_CD Tank_NNP (_( Notified_NNP Area_NNP )_) ..._: 247_CD 56_CD 214_CD (_( xviii_NN )_) APPEN_NNP Statement_NNP showing_VBG the_DT annual_JJ number_NN of_IN successful_JJ per_IN 1,000_CD of_IN population_NN for_IN Serial_JJ No_NNP ._.
+DISTRICTS_NNP ._.
+1921-22_JJ ._.
+1922-23_CD ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 1_CD Hazara_NN ..._: ..._: 16,663_CD 0.07_CD 32,734_CD ..._: 2_CD Peshawar_NNP ..._: ..._: 18,717_CD 0.03_CD 21,854_CD 0.15_CD 3_CD Mardan_NNP Sub-Division_NN ..._: 18,306_CD 0.10_CD 17,199_CD 0.01_CD 4_CD Kohat_NNP ..._: ..._: 9,587_CD 0.27_CD 10,982_CD 0.06_CD 5_CD Bannu_NNS ..._: ..._: 8,573_CD 0.50_CD 7,886_CD 0.01_CD 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 11,737_CD 0.31_CD 18,290_CD 0.08_CD Total_NN ..._: 83,583_CD 0.16_CD 108,945_CD 0.05_CD Total_NN in_IN Political_JJ Agencies_NNPS Staff_NNP ..._: 6,371_CD ..._: 19,986_CD ..._: Total_NN in_IN Cantonment_NNP Staff_NNP 1,711_CD ..._: 2,347_CD ..._: Total_NN in_IN Dispensary_NNP Staff_NNP 657_CD ..._: 1,372_CD ..._: GRAND_NNP TOTAL_NNP ..._: 92,322_CD 0.16_CD 182,650_CD 0.05_CD (_( xix_NN )_) DIX_NNP B._NNP vaccinations_NNS and_CC the_DT annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ the_DT five_CD years_NNS ending_VBG 1925-26_JJ ._.
+1923-24_JJ ._.
+1924-25_JJ ._.
+1925-26_JJ ._.
+Serial_JJ No_NNP ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+Number_NNP of_IN successful_JJ cases_NNS ._.
+Annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN ._.
+7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 36,401_CD ..._: 40,129_CD ..._: 46,282_CD 0.02_CD 1_CD 17,181_CD 0.03_CD 21,236_CD 0.44_CD 26,552_CD 0.53_CD 2_CD 18,822_CD ..._: 16,982_CD 0.13_CD 21,930_CD 0.02_CD 3_CD 11,525_CD ..._: 12,758_CD 0.13_CD 16,290_CD 0.39_CD 4_CD 8,286_CD ..._: 8,580_CD 0.004_CD 15,957_CD 0.61_CD 5_CD 12,600_CD ..._: 17,153_CD 0.01_CD 28,888_CD 1.12_CD 6_CD 104,815_CD 0.03_CD 116,838_CD 0.14_CD 155,899_CD 0.38_CD 11,787_CD ..._: 14,598_CD ..._: 32,974_CD ..._: 2,312_CD ..._: 2,325_CD ..._: 10,835_CD ..._: 54_CD ..._: 3,694_CD ..._: 4,641_CD ..._: 118,968_CD 0.03_CD 137,455_CD 0.14_CD 204,349_CD 0.38_CD NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH_NNP WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1926-27_JJ BY_NNP LIEUTENANT-COLONEL_NNP C._NNP I._NNP BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North_NNP West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: GOVERNMENT_NNP OF_IN INDIA_NNP CENTRAL_NNP PUBLICATION_NNP BRANCH_NNP 1927_CD PriceNOTES_NNP ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH_NNP WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1926-27_JJ BY_NNP LIEUTENANT-COLONEL_NNP C._NNP I._NNP BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North_NNP West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: GOVERNMENT_NNP OF_IN INDIA_NNP CENTRAL_NNP PUBLICATION_NNP BRANCH_NNP 1927_CD Government_NNP of_IN India_NNP Publications_NNP are_VBP obtainable_JJ from_IN the_DT Government_NNP of_IN India_NNP Central_NNP Publication_NNP Branch_NNP ,_, 3_CD ,_, Government_NNP Place_NNP ,_, West_NNP ,_, Calcutta_NNP ,_, and_CC from_IN the_DT following_JJ Agents_NNS :_: Notes_NNS on_IN Vaccination_NN in_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP for_IN 1926-27._JJ REVIEW_NNP BY_NNP THE_NNP CHIEF_NNP COMMISSIONER_NNP ._.
+IN_IN the_DT year_NN 1926-27_CD the_DT number_NN of_IN vaccinations_NNS performed_VBN was_VBD 185,957_CD as_IN compared_VBN with_IN 227,904_CD in_IN the_DT previous_JJ year_NN ._.
+Though_NNP at_IN first_JJ sight_NN ,_, disappointing_JJ ,_, this_DT decrease_NN in_IN the_DT number_NN of_IN operations_NNS is_VBZ partly_RB accounted_VBN for_IN by_IN the_DT fact_NN that_IN the_DT epidemic_NN of_IN small-pox_NN in_IN the_DT year_NN under_IN review_NN was_VBD not_RB so_RB severe_JJ as_IN in_IN the_DT preceding_JJ year_NN ._.
+The_DT Chief_NNP Commissioner_NNP is_VBZ glad_JJ to_TO note_VB that_IN the_DT attitude_NN of_IN the_DT people_NNS towards_NNS vaccination_NN is_VBZ ,_, on_IN the_DT whole_NN ,_, favourable_JJ ._.
+The_DT number_NN of_IN vaccinations_NNS performed_VBN in_IN the_DT agencies_NNS ,_, too_RB ,_, has_VBZ fallen_VBN from_IN 36,217_CD in_IN 1925_CD to_TO 33,644_CD in_IN 1926_CD ._.
+The_DT decrease_NN is_VBZ most_RBS noticeable_JJ in_IN the_DT Tochi_NNP and_CC Malakand_NNP agencies_NNS where_WRB ,_, in_IN 1926_CD ,_, there_EX was_VBD no_DT such_JJ epidemic_NNS of_IN small-pox_JJ as_IN in_IN the_DT preceding_JJ year_NN ._.
+The_DT average_JJ number_NN of_IN persons_NNS inoculated_VBN by_IN each_DT vaccinator_NN was_VBD 4,952.32_CD as_IN compared_VBN with_IN 5,834.89_CD in_IN 1925-26_JJ ._.
+Hazara_NNP District_NNP heads_VBZ the_DT list_NN with_IN the_DT creditable_JJ average_NN of_IN 6,987.14_CD per_IN head_NN ._.
+Dera_NNP Ismail_NNP Khan_NNP ,_, however_RB ,_, which_WDT headed_VBD the_DT list_NN last_JJ year_NN with_IN an_DT average_NN of_IN 8,337.0_CD per_IN head_NN now_RB shows_VBZ the_DT poorest_JJS return_NN ,_, namely_RB 3,317.80_CD ._.
+No_DT satisfactory_JJ explanation_NN has_VBZ been_VBN offered_VBN for_IN this_DT notable_JJ decrease_NN ._.
+The_DT total_JJ expenditure_NN has_VBZ risen_VBN slightly_RB from_IN Rs_NNP ._.
+22,839_CD to_TO Rs_NNP ._.
+23,992_CD ._.
+The_DT average_JJ cost_NN per_IN successful_JJ operation_NN has_VBZ also_RB risen_VBN from_IN one_CD anna_NN nine_CD pies_NNS to_TO two_CD annas_NNS three_CD pies_NNS ._.
+Though_IN this_DT figure_NN compares_VBZ favourably_RB with_IN that_DT for_IN 1924_CD ,_, when_WRB the_DT average_NN cost_NN was_VBD two_CD annas_NNS six_CD pies_NNS ,_, and_CC 1923_CD ,_, when_WRB the_DT average_NN cost_NN was_VBD two_CD annas_JJ nine_CD pies_NNS ,_, the_DT Chief_NNP Commissioner_NNP hopes_VBZ that_IN it_PRP may_MD be_VB possible_JJ to_TO keep_VB down_RP the_DT average_JJ cost_NN at_IN the_DT commendably_RB low_JJ figure_NN achieved_VBN in_IN 1925_CD ._.
+2_CD The_DT suggestion_NN ,_, made_VBN by_IN the_DT Chief_NNP Medical_NNP Officer_NNP that_IN the_DT Vaccination_NNP Act_NNP may_MD be_VB extended_VBN to_TO the_DT City_NNP of_IN Peshawar_NNP and_CC the_DT Notified_NNP Areas_NNP of_IN the_DT Peshawar_NNP District_NNP is_VBZ under_IN consideration_NN ._.
+NATHIAGALI_NN :_: 22nd_CD June_NNP 1927_CD ._.
+H._NNP A._NNP P._NNP METCALFE_NNP ,_, Secretary_NNP to_TO the_DT Chief_NNP Commissioner_NNP ,_, North_NNP West_NNP Frontier_NNP Province_NNP ._.
+GP_NNP &_CC SO-NWFPCONTENTS_NNP PARA_NNP ._.
+PAGE_NN ._.
+1_CD ._.
+Administration_NN ..._: ..._: ..._: ..._: 1_CD 2_CD ._.
+Statement_JJ No_NNP ._.
+I.11_NNP ANNUAL_NNP FORMS_NNP ._.
+Statement_JJ No_NNP ._.
+I.NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH_NNP WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1926-27_CD ._.
+1_CD ._.
+Administration2_NNP of_IN small-pox_JJ abates_NNS ,_, people_NNS will_MD not_RB come_VB forward_RB for_IN re-vaccination_NN ._.
+4_CD ._.
+Average_JJ number_NN vaccinated_VBN by_IN each_DT vaccinator3_NN lymph_NN was_VBD Rs_NNP ._.
+4,132_CD ._.
+The_DT total_JJ expenditure_NN was_VBD met_VBN from_IN the_DT funds_NNS noted_VBD below_IN :4_$ 13_CD ._.
+Vaccination_NN in_IN municipal_JJ towns5_NN 15_CD ._.
+Particulars_NNS of_IN lymph_JJ usedDiagram_JJ showing_VBG the_DT death-rates_NNS from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN during_IN the_DT year_NN 1926-27_RB ,_, the_DT average_JJ rate_NN of_IN mortality_NN from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1925-26_JJ ,_, and_CC the_DT proportion_NN of_IN successful_JJ vaccinations_NNS during_IN the_DT year_NN 1926-27_JJ and_CC the_DT preceding_VBG six_CD years_NNS in_IN each_DT district_NN of_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP ii_NN Aiii_NNP DEPARTMENT_NNP No_NNP ._.
+I_PRP Frontier_NNP Province_NNP during_IN the_DT year_NN 1926-27_JJ 7_CD 8_CD 9_CD Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN Primary_JJ vaccination_NN Re-vaccination_NNP Total_NNP Successful_NNP Unknown_NNP Total_NNP Successful_NNP Unknown_NNP Under_IN 1_CD year_NN One_CD and_CC under_IN 6_CD years_NNS Total_NNP of_IN all_DT ages_NNS 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 6,987.14_CD 31,729_CD 20,120_CD 9,537_CD 31,006_CD 392_CD 17,181_CD 15,587_CD 714_CD 4,267.00_CD 24,744_CD 14,119_CD 7,387_CD 22,868_CD 1,644_CD 1,873_CD 1,487_CD 164_CD 4,700.25_CD 16,009_CD 9,525_CD 5,613_CD 15,870_CD 91_CD 2,792_CD 2,620_CD 71_CD 4,733.50_CD 14,086_CD 9,118_CD 3,119_CD 13,665_CD 282_CD 4,848_CD 3,978_CD 431_CD 5,580.33_CD 13,098_CD 9,419_CD 2,885_CD 12,629_CD 439_CD 3,643_CD 1,757_CD 603_CD 3,317.80_CD 9,111_CD 4,861_CD 2,355_CD 8,536_CD 441_CD 7,478_CD 4,941_CD 747_CD 5,040.59_CD 108,777_CD 67,162_CD 30,896_CD 104,574_CD 3,289_CD 37,815_CD 30,370_CD 2,730_CD 5,607.33_CD 23,414_CD 7,743_CD 8,027_CD 21,096_CD 1,258_CD 10,230_CD 7,387_CD 1,692_CD 1,707.55_CD 561_CD 243_CD 224_CD 552_CD 2_CD 2,854_CD 2,486_CD 135_CD 4,952.32_CD 132,752_CD 75,148_CD 39,147_CD 126,222_CD 4,549_CD 50,899_CD 40,243_CD 4,557_CD primarily_RB vaccinated_VBN equals_NNS 415_CD which_WDT represents_VBZ secondary_JJ operations_NNS ._.
+and_CC over_IN 6_CD years_NNS of_IN age_NN ._.
+iv_JJ Av_NNP DEPARTMENT_NNP No_NNP ._.
+Ivi_NNP SUMMARY_NNP Total_NNP number_NN of_IN persons_NNS vaccinated_VBN Total_JJ number_NN of_IN operations_NNS performed_VBN Percentage_NN of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_VBN Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN Number_NNP of_IN children_NNS successfully_RB vaccinated_VBD Ratio_NNP of_IN successful_JJ vaccinations_NNS per_IN 1,000_CD of_IN population_NN Total_NNP cost_NN of_IN department_NN Average_NNP cost_NN of_IN each_DT successful_JJ case_NN Primary_NNP Re-vaccination_NNP Primary_NNP Re-vaccination_NNP Primary_NNP Re-vaccination_NNP Vaccinator_NNP employed_VBD Persons_NNP vaccinated_VBN by_IN each_DT vaccinator_NN Under_IN one_CD year_NN One_CD and_CC under_IN 6_CD years_NNS Rs_NNP ._.
+a._NN p._NN Rs_NNP ._.
+By_IN district_NN ,_, Cantonment_NNP and_CC political_JJ agencies_NNS '_POS staff_NN (_( Statement_JJ No_NNP ._.
+I_PRP )_) ..._: 132,337_CD 50,899_CD 132,752_CD 50,899_CD 98.45_CD 86.83_CD 37_CD 4,952.32_CD 75,148_CD 39,147_CD 51.20_CD 0_CD 2_CD 3_CD ..._: By_IN dispensary_JJ staff_NN (_( statement_NN No.II_NNP )_) ..._: ..._: ..._: 1,867_CD 439_CD 1,867_CD 439_CD 95.04_CD 91.08_CD ..._: ..._: 841_CD 740_CD ..._: ..._: ..._: By_IN other_JJ agencies_NNS ,_, if_IN any_DT ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Total_VBP ..._: 134,204_CD 51,338_CD 134,619_CD 51,338_CD 98.45_CD 86.83_CD 37_CD 4,952.32_CD 75,989_CD 39,887_CD 51.20_CD 0_CD 2_CD 3_CD ..._: vii_NN APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP TABLE_VBP A_DT Statement_NNP showing_VBG the_DT details_NNS of_IN the_DT vaccination_NN operations_NNS performed_VBD in_IN Political_JJ Agencies_NNS during_IN the_DT year_NN 1926-27_JJ 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD Serial_JJ No_NNP ._.
+Districts_NNS or_CC Political_JJ Agencies_NNPS Names_NNP of_IN localities_NNS Average_NNP number_NN of_IN vaccinators_NNS employed_VBN throughout_IN the_DT year_NN Total_JJ number_NN of_IN persons_NNS vacci-_JJ nated_JJ Primary_NNP Re-_NNP vaccinations_NNS Percentage_NNP of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_JJ Percentage_NNP of_IN unknown_JJ cases_NNS to_TO total_JJ cases_NNS Total_JJ Successful_NNP Unknown_NNP Under_IN one_CD year_NN One_CD and_CC under_IN 6_CD years_NNS Total_NNP of_IN all_DT ages_NNS Total_NNP Successful_NNP Unknown_NNP Primary_NNP Re-vaccination_NNP Primary_NNP Re-vaccination_NNP 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1_CD Dera_NNP Ismail_NNP Khan_NNP ..._: Sherani_NNP Country_NNP ..._: 1_CD 9,987_CD 4,760_CD 2,303_CD 1,230_CD 4,405_CD 161_CD 5,227_CD 3,920_CD 701_CD 95.78_CD 86.60_CD 3.38_CD 13.41_CD 2_CD Kurram_NNP Agency_NNP ..._: Kurram_NNP Agency_NNP ..._: 1_CD 4,899_CD 4,354_CD 394_CD 2,058_CD 3,370_CD 513_CD 545_CD 415_CD 54_CD 87.74_CD 84.52_CD 11.78_CD 9.90_CD 3_CD Tochi_NNP viii_NN APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+Iix_NNP APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+Ix_NNP Axi_NNP Axii_NNP Bxiii_NNP COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP Statement_NNP showing_VBG the_DT number_NN of_IN persons_NNS primarily_RB vaccinated_VBN and_CC the_DT number_NN of_IN those_DT persons_NNS who_WP were_VBD successfully_RB vaccinated_VBN in_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP in_IN each_DT of_IN the_DT undermentioned_JJ official_JJ years_NNS Establishment_JJ Persons_NNP primarily_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Year_NNP ending_VBG 31_CD March_NNP From_IN 1900_CD to_TO 1912_CD 1913_CD 1914_CD 1915_CD 1916_CD 1917_CD Government_NN ..._:
+The_DT informa-_JJ tion_NN for_IN the_DT year_NN previous_JJ to_TO 1900_CD is_VBZ not_RB available_JJ ._.
+118,703_CD 107,106_CD 10,125_CD 9,718_CD 11,353_CD 10,831_CD 7,341_CD 6,548_CD 10,140_CD 9,450_CD 6,601_CD 5,953_CD Municipal_NNP ,_, Local_NNP and_CC District_NNP Funds_NNS ..._: 965,502_CD 914,890_CD 113,385_CD 110,276_CD 131,922_CD 129,207_CD 130,866_CD 128,616_CD 112,546_CD 110,489_CD 126,421_CD 122,423_CD Dispensaries_NNS ..._: 8,434_CD 6,194_CD 299_CD 291_CD 108_CD 94_CD 8_CD 7_CD ..._: ..._: ..._: ..._: Total_JJ 1,092,639_CD 1,028,190_CD 123,809_CD 120,285_CD 143,383_CD 140,132_CD 138,215_CD 135,171_CD 122,686_CD 119,939_CD 133,022_CD 128,376_CD xiv_JJ COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IVxv_NNP COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IVxvi_NNP STATEMENT_NNP No_NNP ._.
+V_NNP Showing_NNP results_NNS of_IN inspection_NN of_IN vaccination_NN by_IN inspecting_VBG officers_NNS in_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP during_IN the_DT year_NN 1926-27_JJ Serial_NNP No_NNP ._.
+Districts_NNS Total_JJ number_NN of_IN persons_NNS vaccinated_VBN Total_JJ number_NN inspected_VBN Primary_NNP Re-vaccinations_NNS By_IN Civil_NNP Surgeons_NNP By_IN Superintendents_NNS By_IN Divisional_NNP Inspectors_NNP Primary_NNP Re-vaccinations_NNP Primary_NNP Re-vaccinations_NNP Primary_NNP Re-vaccinations_NNP 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 1_CD Hazara_NN ..._: ..._: ..._: 31,729_CD 17,181_CD 69_CD 374_CD 27,164_CD 13,191_CD ..._: ..._: 2_CD Peshawar_NNP ..._: ..._: ..._: 26,831_CD 4,767_CD ..._: ..._: 14,290_CD 4,096_CD ..._: ..._: 3_CD Mardan_NNP Sub-Division_NN ..._: ..._: 16,009_CD 2,792_CD 170_CD ..._: 11,017_CD 1,717_CD ..._: ..._: 4_CD Kohat_NNP ..._: ..._: ..._: 14,120_CD 5,082_CD 1,507_CD 1,100_CD 12,297_CD 4,167_CD ..._: ..._: 5_CD Bannu_NNP ..._: ..._: ..._: 13,098_CD 3,643_CD 3,017_CD 218_CD 9,514_CD 2,476_CD ..._: ..._: 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: ..._: ..._: 9,111_CD 7,478_CD 225_CD ..._: 8,245_CD 6,370_CD ..._: ..._:
+Political_JJ Agencies_NNS ._.
+7_CD Sherani_NNP Country_NNP ..._: ..._: ..._: 4,760_CD 5,227_CD ..._: ..._: ..._: ..._: ..._: ..._: 8_CD Kurram_NNP Agency_NNP ..._: ..._: ..._: 4,661_CD 710_CD 420_CD 366_CD ..._: ..._: ..._: ..._: 9_CD Tochi_NNP xvii_NNP STATEMENT_NNP No_NNP ._.
+Vxviii_NNP APPENDIX_NNP A_NNP Statement_NNP showing_VBG the_DT number_NN of_IN vaccinations_NNS performed_VBN in_IN Municipal_NNP towns_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN Serial_JJ No_NNP ._.
+Towns_NNP Number_NNP of_IN births_NNS during_IN the_DT year_NN 1926-27_JJ Number_NNP of_IN deaths_NNS among_IN children_NNS under_IN one_CD year_NN during_IN the_DT year_NN 1926-27_JJ Number_NNP of_IN successful_JJ vaccina-_JJ tions_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ending_VBG March_NNP 1927_CD Date_NNP of_IN extension_NN of_IN the_DT vaccination_NN Act_NNP to_TO towns_VB 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD Hazara_NNP District_NNP ._.
+1_CD Abbottabad_NNP ..._: ..._: 121_CD 14_CD 147_CD 1_CD May_NNP 1906_CD ._.
+2_CD Nawanshahr_NNP (_( Notified_NNP Area_NNP ..._: ..._: 235_CD 63_CD 157_CD 3_CD Buffa_NNS ..._: ..._: 274_CD 46_CD 283_CD 4_CD Haripur_NNP ..._: ..._: 240_CD 61_CD 189_CD Peshawar_NNP District_NNP ._.
+5_CD Peshawar_NNP ..._: ..._: 2,399_CD 529_CD 3,231_CD Act_NNP not_RB in_IN force_NN ._.
+6_CD Nowshera_NNP Kalan_NNP (_( Notified_NNP Area_NNP )_) ..._: ..._: 280_CD 54_CD 69_CD 7_CD Becketgang-Khwajaganj_NNP (_( Notified_NNP Area_NNP )_) ..._: 155_CD 51_CD 388_CD Kohat_NNP District_NNP 8_CD Kohat_NNP ..._: ..._: 571_CD 109_CD 867_CD 1_CD October_NNP 1904_CD ._.
+Bannu_NNP District_NNP ._.
+9_CD Bannu_NNP ..._: ..._: 591_CD 67_CD 869_CD November_NNP 1904_CD ._.
+10_CD Lakki_NNP (_( Notified_NNP Area_NNP )_) ..._: 244_CD 45_CD 174_CD Act_NNP not_RB in_IN force_NN ._.
+Dera_NNP Ismail_NNP Khan_NNP District_NNP 11_CD Dora_NNP Ismail_NNP Khan_NNP ..._: 1,429_CD 250_CD 880_CD December_NNP 1897_CD ._.
+12_CD Kulachi_NNP ..._: ..._: 278_CD 43_CD 99_CD 20_CD January_NNP 1906_CD ._.
+13_CD Tank_NNP (_( Notified_NNP Area_NNP )_) ..._: 152_CD 27_CD 91_CD xix_NN APPENDIX_NNP B_NNP Statement_NNP showing_VBG the_DT annual_JJ number_NN of_IN successful_JJ vaccina-_JJ tions_NNS and_CC the_DT annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1926-27_JJ Serial_JJ No_NNP ._.
+Districts_NNS 1922-23_JJ 1923-24_JJ 1924-25_JJ Number_NNP of_IN successful_JJ cases_NNS Annual_NNP ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN Number_NNP of_IN successful_JJ cases_NNS Annual_NNP ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN Number_NNP of_IN successful_JJ cases_NNS Annual_NNP ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 1_CD Hazara_NNP ..._: 32,734_CD ..._: 36,401_CD ..._: 40,129_CD ..._: 2_CD Peshawar_NNP ..._: 21,854_CD 0.15_CD 17,181_CD 0.03_CD 21,236_CD 0.44_CD 3_CD Mardan_NNP Sub-_NNP Division_NNP ..._: 17,199_CD 0.01_CD 18,822_CD ..._: 16,982_CD 0.13_CD 4_CD Kohat_NNP ..._: 10,982_CD 0.06_CD 11,525_CD ..._: 12,758_CD 0.13_CD 5_CD Bannu_NNP ..._: 7,886_CD 0.01_CD 8,286_CD ..._: 8,580_CD 0.004_CD 6_CD D._NNP I._NNP Khan_NNP 18,290_CD 0.08_CD 12,600_CD ..._: 17,153_CD 0.01_CD Total_NN ..._: 108,945_CD 0.05_CD 104,815_CD 0.03_CD 116,838_CD 0.14_CD Total_NN in_IN politica1_NN agencies_NNS staff_NN ..._: 19,986_CD ..._: 11,787_CD ..._: 14,598_CD ..._: Total_NN in_IN cantonment_JJ staff_NN ..._: 2,347_CD ..._: 2,312_CD ..._: 2,325_CD ..._: Total_NN in_IN dispensary_JJ staff_NN ..._: 1,372_CD ..._: 54_CD ..._: 3,694_CD ..._: Grand_NNP total_VBP ..._: 132,650_CD 0.05_CD 118,968_CD 0.03_CD 137,455_CD 0.14_CD xx_NN APPENDIX_NNP BPeshawar_NNP PRINTED_NNP BY_NNP THE_NNP MANAGER_NNP ,_, GOVERNMENT_NNP PRINTING_NNP AND_NNP STATIONERY_NNP ,_, N_NNP W._NNP F._NNP P._NNP 1927_CD NOTES_NNP ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH_NNP WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1927-28_JJ BY_NNP LIEUTENANT-COLONEL_NNP C._NNP I._NNP BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North_NNP West_NNP Frontier_NNP Province_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Price_NNP NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH_NNP WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1927-28_JJ BY_NNP LIEUTENANT-COLONEL_NNP C._NNP I._NNP BRIERLEY_NNP ,_, I._NNP M._NNP S._NNP ,_, Director_NNP of_IN Public_NNP Health_NNP ,_, North_NNP West_NNP Frontier_NNP Province_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: GOVERNMENT_NNP OF_IN INDIA_NNP CENTRAL_NNP PUBLICATION_NNP BRANCH_NNP 1928_CD Government_NNP of_IN India_NNP Publications_NNP are_VBP obtainable_JJ from_IN theGovernment_NN of_IN India_NNP Central_NNP Publication_NNP Branch_NNP 3_CD ,_, Government_NNP Place_NNP ,_, West_NNP ,_, Calcutta_NNP ,_, and_CC from_IN the_DT following_JJ Agents_NNS :_: Notes_NNS on_IN Vaccination_NN in_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP for_IN the_DT year_NN 1927-28._JJ REVIEW_NNP BY_NNP THE_NNP CHIEF_NNP COMMISSIONER_NNP ._.
+The_DT total_JJ number_NN of_IN vaccinations_NNS performed_VBN in_IN 1927-28_CD was_VBD 200,632_CD against_IN 185,957_CD in_IN the_DT preceding_JJ year_NN ._.
+This_DT increase_NN is_VBZ distinctly_RB satisfactory_JJ ,_, as_IN it_PRP was_VBD not_RB necessitated_VBN by_IN any_DT corresponding_JJ increase_NN in_IN small-pox_JJ ._.
+Indeed_RB ,_, small-pox_JJ played_VBD considerably_RB less_RBR havoc_JJ in_IN the_DT year_NN under_IN report_NN than_IN in_IN 1926-27_JJ ,_, the_DT number_NN of_IN deaths_NNS from_IN this_DT disease_NN during_IN the_DT year_NN 1926-27_JJ and_CC 1927-28_JJ being_VBG 466_CD and_CC 161_CD respectively_RB ._.
+The_DT decrease_NN in_IN mortality_NN in_IN Dera_NNP Ismail_NNP Khan_NNP District_NNP was_VBD particularly_RB remarkable_JJ ,_, there_EX having_VBG been_VBN only_RB one_CD death_NN from_IN small-pox_NN against_IN 285_CD in_IN the_DT previous_JJ year_NN ._.
+Yet_RB Dera_NNP Ismail_NNP Khan_NNP records_VBZ a_DT satisfactory_JJ increase_NN in_IN the_DT number_NN of_IN vaccinations_NNS performed_VBN ._.
+The_DT number_NN of_IN persons_NNS vaccinated_VBN in_IN political_JJ agencies_NNS ,_, however_RB ,_, fell_VBD from_IN 33,644_CD to_TO 24,238_CD ._.
+Though_IN ,_, at_IN first_JJ sight_NN ,_, disappointing_JJ ,_, this_DT decrease_NN is_VBZ largely_RB explained_VBN by_IN the_DT fact_NN that_IN small-pox_NN was_VBD not_RB prevalent_JJ in_IN the_DT agencies_NNS in_IN an_DT epidemic_JJ form_NN ._.
+Nor_CC did_VBD all_PDT the_DT agencies_NNS contribute_VBP to_TO this_DT decrease_NN ._.
+Both_DT the_DT Waziristan_NNP agencies_NNS and_CC Kurram_NNP record_NN an_DT increase_NN in_IN the_DT number_NN of_IN persons_NNS vaccinated_VBN ._.
+It_PRP is_VBZ only_RB in_IN the_DT Malakand_NNP Agency_NNP ,_, particularly_RB Chitral_NNP ,_, and_CC in_IN the_DT Sherani_NNP Country_NNP that_IN there_EX was_VBD a_DT decrease_NN ._.
+The_DT average_JJ number_NN of_IN operations_NNS performed_VBN by_IN each_DT vaccinator_NN rose_VBD from_IN 4,952.32_CD to_TO 5,135.20_CD ._.
+As_IN in_IN the_DT last_JJ year_NN ,_, Hazara_NNP District_NNP heads_VBZ the_DT list_NN with_IN an_DT average_NN of_IN 7,394.14_CD ._.
+It_PRP is_VBZ satisfactory_JJ to_TO note_VB that_IN Dera_NNP Ismail_NNP Khan_NNP ,_, which_WDT ,_, in_IN 1926-27_JJ ,_, was_VBD at_IN the_DT bottom_NN of_IN the_DT list_NN with_IN an_DT average_NN of_IN only_RB 3,317.80_CD ,_, now_RB stands_VBZ second_JJ with_IN an_DT average_NN of_IN 6,250.00_CD ._.
+Peshawar_NNP District_NNP shows_VBZ the_DT smallest_JJS average_NN of_IN work_NN done_VBN by_IN each_DT vaccinator_NN ,_, namely_RB 4,577.17_CD ._.
+Another_DT satisfactory_JJ feature_NN is_VBZ that_IN the_DT ratio_NN of_IN successful_JJ vaccination_NN per_IN 1,000_CD of_IN population_NN increased_VBN from_IN 46.06_CD ,_, the_DT average_NN for_IN the_DT preceding_VBG five_CD years_NNS ,_, to_TO 55.08_CD in_IN the_DT year_NN under_IN report_NN ._.
+2_CD The_DT total_JJ expenditure_NN during_IN the_DT year_NN was_VBD Rs_NNP ._.
+25,118_CD against_IN Rs_NNP ._.
+23,992_CD in_IN the_DT preceding_JJ year_NN ._.
+The_DT average_JJ cost_NN per_IN successful_JJ case_NN of_IN vaccination_NN ,_, however_RB ,_, remained_VBD the_DT same_JJ as_IN in_IN 1926-27_CD ,_, namely_RB Re_NNP ._.
+0-2-3_NN ._.
+The_DT Chief_NNP Commissioner_NNP is_VBZ glad_JJ to_TO note_VB that_IN the_DT attitude_NN of_IN the_DT people_NNS towards_IN vaccination_NN was_VBD ,_, on_IN the_DT whole_NN ,_, favourable_JJ ._.
+C._NNP H._NNP GIDNEY_NNP ,_, Secretary_NNP to_TO the_DT Chief_NNP Commissioner_NNP ,_, North_NNP West_NNP Frontier_NNP Province_NNP ._.
+NATHIAGALI_NN :_: 13_CD July_NNP 1928_CD ._.
+GP_NNP &_CC SO-NWFPCONTENTS_NNP PARA_NNP ._.
+PAGE_NN ._.
+1_CD ._.
+Administration_NN ..._: ..._: ..._: 1_CD 2_CD ._.
+Establishment_NN ..._: ..._: ..._: ib_NN ._.
+3_CD ._.
+Total_JJ vaccinations_NNS performed_VBD ..._: ..._: ib_NN ._.
+4_CD ._.
+Average_JJ number_NN vaccinated_VBN by_IN each_DT vaccinator_NN ..._: ib_NN ._.
+5_CD ._.
+Vaccination_NN according_VBG to_TO age_NN ..._: ..._: 2_CD 6_CD ._.
+Re-vaccinations_NNS ..._: ..._: ..._: ib_NN ._.
+7_CD ._.
+Vaccination_NN in_IN political_JJ agencies_NNS ..._: ..._: ..._: ib_NN ._.
+8_CD ._.
+Vaccination_NN in_IN cantonments_NNS ..._: ..._: ..._: ib_NN ._.
+9_CD ._.
+Cost_NN of_IN the_DT Department_NNP ..._: ..._: ..._: 3_CD 10_CD ._.
+Cost_NN per_IN successful_JJ case_NN ..._: ..._: ..._: ib_NN ._.
+11_CD ._.
+Dispensary_JJ vaccination_NN ..._: ..._: ..._: ib_NN ._.
+12_CD ._.
+Inspections_NNS made_VBN by_IN officers_NNS of_IN the_DT Department_NNP ..._: ib_NN ._.
+13_CD ._.
+Vaccination_NN in_IN municipal_JJ towns_NNS ..._: ..._: ..._: 4_CD 14_CD ._.
+Case_NNP success_NN and_CC annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_NN ..._: ib_NN ._.
+15_CD ._.
+Particulars_NNS of_IN lymph_NN used_VBN ..._: ..._: 5_CD 16_CD ._.
+Attitude_NN of_IN the_DT people_NNS towards_NNS vaccination_NN ..._: ib_NN ._.
+17_CD ._.
+General_NNP remarks_NNS ..._: ..._: ..._: ib_NN ._.
+ii_JJ ANNUAL_NNP FORMS_NNP Statement_NNP No_NNP ._.
+I.NOTES_NNS ON_NNP VACCINATION_NNP IN_NNP THE_NNP NORTH_NNP WEST_NNP FRONTIER_NNP PROVINCE_NNP DURING_NNP THE_NNP YEAR_NNP 1927-28_CD ._.
+1_CD ._.
+Administration_NN 2_CD 5_CD ._.
+Vaccination_NN according_VBG to_TO age_NN 3_CD viz_NN ._.
+1,111_CD primary_JJ and_CC 4,916_CD secondary_JJ as_IN against_IN 3,415_CD vaccinations_NNS in_IN the_DT preceding_JJ year_NN ._.
+9_CD ._.
+Cost_NN of_IN the_DT Department_NNP 4_CD The_DT percentage_NN of_IN inspections_NNS by_IN the_DT civil_JJ surgeons_NNS of_IN the_DT total_JJ number_NN vaccinated_VBN was_VBD 8.03_CD primary_JJ and_CC 8.75_CD re-vaccination_NN and_CC those_DT by_IN superintendents_NNS of_IN vaccination_NN were_VBD 61.04_CD primary_JJ and_CC 66.74_CD re-vaccination_NN ._.
+13_CD ._.
+Vaccination_NN in_IN municipal_JJ towns_NNS 5_CD 15_CD ._.
+Particulars_NNS of_IN lymph_NN used_VBN Diagram_NNP showing_VBG the_DT death-rates_NNS from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN during_IN the_DT year_NN 1927-28_RB ,_, the_DT average_JJ rate_NN of_IN mortality_NN from_IN small-pox_JJ per_IN 10,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1926-27_JJ ,_, and_CC the_DT proportion_NN of_IN successful_JJ vaccinations_NNS during_IN the_DT year_NN 1927-28_JJ and_CC the_DT preceding_VBG six_CD years_NNS in_IN each_DT district_NN of_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP ii_NN Aiii_NNP DEPARTMENT_NNP No_NNP ._.
+I_PRP Frontier_NNP Province_NNP during_IN the_DT year_NN 1927-28_JJ 7_CD 8_CD 9_CD Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN Primary_JJ vaccination_NN Re-vaccination_NNP Total_NNP Successful_NNP Unknown_NNP Total_NNP Successful_NNP Unknown_NNP Under_IN 1_CD year_NN One_CD and_CC under_IN 6_CD years_NNS Total_NNP of_IN all_DT ages_NNS 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 7,394.14_CD 27,176_CD 17,490_CD 7,623_CD 26,563_CD 311_CD 24,583_CD 23,136_CD 655_CD 4,577.17_CD 25,349_CD 13,953_CD 9,099_CD 24,628_CD 702_CD 2,117_CD 1,808_CD 184_CD 4,831.00_CD 16,708_CD 11,088_CD 4,665_CD 16,572_CD 116_CD 2,616_CD 2,449_CD 86_CD 6,222.40_CD 12,037_CD 8,817_CD 1,849_CD 11,621_CD 269_CD 19,075_CD 15,612_CD 1,550_CD 5,116.33_CD 12,371_CD 9,217_CD 2,479_CD 11,964_CD 373_CD 2,978_CD 1,490_CD 584_CD 6,250.00_CD 14,153_CD 9,869_CD 3,136_CD 13,719_CD 310_CD 10,847_CD 5,989_CD 850_CD 5,862.31_CD 107,794_CD 70,434_CD 28,851_CD 105,067_CD 2,081_CD 62,216_CD 50,484_CD 3,909_CD 3,029.75_CD 18,961_CD 4,822_CD 7,008_CD 15,418_CD 2,846_CD 5,277_CD 3,771_CD 760_CD 3,013.50_CD 1,111_CD 404_CD 420_CD 989_CD 20_CD 4,916_CD 4,087_CD 308_CD 5,135.20_CD 127,866_CD 75,660_CD 36,279_CD (_( b_NN )_) 121,474_CD 4,947_CD 72,409_CD 58,342_CD 4,977_CD primarily_RB vaccinated_VBN equals_NNS 3_CD which_WDT represents_VBZ secondary_JJ operations_NNS ._.
+and_CC over_IN 6_CD years_NNS of_IN age_NN ._.
+iv_JJ Av_NNP DEPARTMENT_NNP No_NNP ._.
+Ivi_NNP SUMMARY_NNP Total_NNP number_NN of_IN persons_NNS vaccinated_VBN Total_JJ number_NN of_IN operations_NNS performed_VBN Percentage_NN of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_VBN Average_JJ number_NN of_IN persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN Number_NNP of_IN children_NNS successfully_RB vaccinated_VBD Ratio_NNP of_IN successful_JJ vaccinations_NNS per_IN 1,000_CD of_IN population_NN Total_NNP cost_NN of_IN department_NN Average_NNP cost_NN of_IN each_DT successful_JJ case_NN Primary_NNP Re-vaccination_NNP Primary_NNP Re-vaccination_NNP Primary_NNP Re-vaccination_NNP Vaccinators_NNP employed_VBD ._.
+Persons_NNS vaccinated_VBN by_IN each_DT vaccinator_NN Under_IN one_CD year_NN One_CD and_CC under_IN 6_CD years_NNS Rs_NNP ._.
+a._NN p._NN Rs_NNP ._.
+a._NN p._NN By_IN district_NN ,_, cantonment_NN and_CC political_JJ agencies_NNS '_POS staff_NN (_( statement_NN No_RB ._.
+I_PRP )_) ..._: ..._: 127,863_CD 72,409_CD 127,866_CD 72,409_CD 98.82_CD 86.52_CD 39_CD 5,135.20_CD 75,660_CD 36,279_CD 52.73_CD 25,117_CD 11_CD 6_CD 0_CD 2_CD 3_CD By_IN dispensary_JJ staff_NN (_( statement_NN No_RB ._.
+II_NNP )_) ..._: ..._: 316_CD 41_CD 316_CD 41_CD 100.00_CD 75.75_CD ..._: ..._: 207_CD 85_CD ..._: ..._: ..._: By_IN other_JJ agencies_NNS ,_, if_IN any_DT ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Total_VBP ..._: 128,179_CD 72,450_CD 128,182_CD 72,450_CD 98.82_CD 86.5l_CD 39_CD 5,135.20_CD 75,867_CD 36,364_CD 52.73_CD 25,117_CD 11_CD 6_CD 0_CD 2_CD 3_CD vii_NN APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+I_PRP TABLE_VBP A_DT Statement_NNP showing_VBG the_DT details_NNS of_IN the_DT vaccination_NN operations_NNS performed_VBD in_IN political_JJ agencies_NNS during_IN the_DT year_NN 1927-28_JJ 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD Serial_JJ No_NNP ._.
+Districts_NNS Name_NNP of_IN localities_NNS Average_NNP number_NN of_IN vaccinators_NNS employed_VBN throughout_IN the_DT year_NN Total_JJ number_NN of_IN persons_NNS vaccinated_VBN Primary_JJ Re-vaccinations_NNS Percentage_NN of_IN successful_JJ cases_NNS in_IN which_WDT results_NNS were_VBD known_JJ Percentage_NNP of_IN unknown_JJ cases_NNS to_TO total_JJ cases_NNS Total_JJ Successful_NNP Unknown_NNP Under_IN one_CD year_NN One_CD and_CC under_IN 6_CD years_NNS Total_NNP of_IN all_DT ages_NNS Total_NNP Successful_NNP Unknown_NNP Primary_NNP Re-vaccination_NNP Primary_NNP Re-vaccination_NNP 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1_CD Dera_NNP Ismail_NNP Khan_NNP ..._: Sherani_NNP Country_NNP ..._: 1_CD 6,410_CD 3,135_CD 14,90_CD 910_CD 2,962_CD 136_CD 3,275_CD 2,258_CD 506_CD 98.77_CD 81.54_CD 4.34_CD 15.45_CD 2_CD Kurram_NNP Agency_NNP ..._: Kurram_NNP Agency_NNP ..._: 1_CD 5,138_CD 4,582_CD 156_CD 2,766_CD 3,550_CD 742_CD 556_CD 399_CD 89_CD 92.45_CD 85.44_CD 16.20_CD 16.01_CD 3_CD Tochi_NNP viii_NN APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+Iix_NNP APPENDIX_NNP TO_NNP STATEMENT_NNP No_NNP ._.
+Ix_NNP A.xi_NNP A.xii_NNP B.xiii_NNP COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IV_NNP Statement_NNP showing_VBG the_DT number_NN of_IN persons_NNS primarily_RB vaccinated_VBN and_CC the_DT number_NN of_IN those_DT persons_NNS who_WP were_VBD successfully_RB vaccinated_VBN in_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP in_IN each_DT of_IN the_DT under_IN mentioned_VBN official_JJ years_NNS Establishment_JJ Persons_NNP primarily_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Total_JJ number_NN Number_NNP successfully_RB vaccinated_VBD Year_NNP ending_VBG 31_CD March_NNP From_IN 1900_CD to_TO 1912_CD 1913_CD 1914_CD 1915_CD 1916_CD 1917_CD Government_NN ..._:
+The_DT informa-_JJ tion_NN for_IN the_DT year_NN previous_JJ to_TO 1900_CD is_VBZ not_RB available_JJ ._.
+118,703_CD 107,106_CD 10,125_CD 9,718_CD 11,353_CD 10,831_CD 7,341_CD 6,548_CD 10,140_CD 9,450_CD 6,601_CD 5,953_CD Municipal_NNP ,_, local_JJ and_CC district_NN funds_NNS ..._: 965,502_CD 914,890_CD 113,385_CD 110,276_CD 131,922_CD 129,207_CD 130,866_CD 128,616_CD 112,546_CD 110,489_CD 126,421_CD 122,423_CD Dispensaries_NNS ..._: 8,434_CD 6,194_CD 299_CD 291_CD 108_CD 94_CD 8_CD 7_CD ..._: ..._: ..._: ..._: Total_VBP ..._: 1,092,639_CD 1,028,190_CD 123,809_CD 120,285_CD 143,383_CD 140,132_CD 138,215_CD 135,171_CD 122,686_CD 119,939_CD 133,022_CD 128,376_CD xiv_JJ COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IVxv_NNP COMPARATIVE_NNP STATEMENT_NNP No_NNP ._.
+IVxvi_NNP STATEMENT_NNP No_NNP ._.
+V_NNP Showing_NNP results_NNS of_IN inspection_NN of_IN vaccination_NN by_IN inspecting_VBG officers_NNS in_IN the_DT North_NNP West_NNP Frontier_NNP Province_NNP during_IN the_DT year_NN 1927-28_JJ Serial_NNP No_NNP ._.
+Districts_NNS Total_JJ number_NN of_IN persons_NNS vaccinated_VBN Total_JJ number_NN inspected_VBN Primary_NNP Re-vaccinations_NNS By_IN civil_JJ surgeons_NNS By_IN superintendents_NNS By_IN divisional_JJ inspectors_NNS Primary_JJ Re-vaccinations_NNS Primary_JJ Re-vaccinations_NNS Primary_JJ Re-vaccinations_NNS 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 1_CD Hazara_NN ..._: ..._: 27,176_CD 24,583_CD 400_CD 150_CD 17,395_CD 14,140_CD ..._: ..._: 2_CD Peshawar_NNP ..._: ..._: 26,691_CD 7,042_CD ..._: ..._: 14,204_CD 5,373_CD ..._: ..._: 3_CD Mardan_NNP Sub-Division_NN ..._: ..._: 16,708_CD 2,616_CD 525_CD 232_CD 13,127_CD 1,629_CD ..._: ..._: 4_CD Kohat_NNP ..._: ..._: 12,037_CD 19,075_CD 1,375_CD 4,378_CD 10,540_CD 16,219_CD ..._: ..._: 5_CD Bannu_NNP ..._: ..._: 12,371_CD 2,978_CD 3,480_CD 445_CD 9,467_CD 2,222_CD ..._: ..._: 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: ..._: 14,153_CD 10,847_CD 744_CD 83_CD 12,150_CD 8,775_CD ..._: ..._:
+Political_JJ Agencies_NNS 7_CD Sherani_NNP Country_NNP ..._: ..._: 3,135_CD 3,275_CD ..._: ..._: ..._: ..._: ..._: ..._: 8_CD Kurram_NNP Agency_NNP ..._: ..._: 4,664_CD 588_CD 948_CD 264_CD ..._: ..._: ..._: ..._: 9_CD Tochi_NNP xvii_NNP STATEMENT_NNP No_NNP ._.
+Vxviii_NNP APPENDIX_NNP A_NNP Statement_NNP showing_VBG the_DT number_NN of_IN vaccinations_NNS performed_VBN in_IN municipal_JJ towns_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN Serial_JJ No_NNP ._.
+Towns_NNP Number_NNP of_IN births_NNS during_IN the_DT year_NN 1927-28_JJ Number_NNP of_IN deaths_NNS among_IN children_NNS under_IN one_CD year_NN during_IN the_DT year_NN 1927-28_JJ Number_NNP of_IN successful_JJ vacci-_JJ nations_NNS on_IN children_NNS under_IN one_CD year_NN of_IN age_NN ending_VBG March_NNP 1928_CD Date_NNP of_IN extension_NN ._.
+of_IN the_DT Vaccination_NNP Act_NNP to_TO towns_VB 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD Hazara_NNP District_NNP ._.
+1_CD Abbottabad_NNP ..._: 139_CD 6_CD 99_CD 21_CD May_NNP 1906._CD ccs_NN 2_CD Nawanshahr_NNP (_( Notified_NNP ._.
+Area_NNP )_) ..._: 257_CD 51_CD 107_CD 3_CD Buffa_NNP ..._: 216_CD 23_CD 69_CD 4_CD Haripur_NNP ..._: 240_CD 46_CD 280_CD Peshawar_NNP District_NNP ._.
+5_CD Peshawar_NNP ..._: 2,402_CD 431_CD 4,551_CD Act_NNP not_RB in_IN force_NN ._.
+6_CD Nowshera_NNP Kalan_NNP (_( Notified_NNP Area_NNP )_) ..._: 261_CD 26_CD 315_CD 7_CD Becketganj-Khwajaganj_NNP (_( Notified_NNP Area_NNP )_) ..._: 179_CD 38_CD 832_CD Kohat_NNP District_NNP ._.
+8_CD Kohat_NNP ..._: 639_CD 128_CD 740_CD 1_CD October_NNP 1904_CD ._.
+Bannu_NNP District_NNP ._.
+9_CD Bannu_NNP ..._: 18_CD 86_CD 554_CD November_NNP 1904_CD ._.
+10_CD Lakki_NNP (_( Notified_NNP Area_NNP )_) ..._: 271_CD 45_CD 348_CD Act_NNP not_RB in_IN force_NN ._.
+Dera_NNP Ismail_NNP Khan_NNP District_NNP ._.
+11_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 1,383_CD 256_CD 738_CD December_NNP 1897_CD ._.
+12_CD Kulachi_NNP ..._: 296_CD 65_CD 124_CD 20_CD January_NNP 1906_CD 13_CD Tank_NNP (_( Notified_NNP Area_NNP )_) ..._: 178_CD 34_CD 258_CD xix_NN APPENDIX_NNP B_NNP ._.
+Statement_JJ showing_VBG the_DT annual_JJ number_NN of_IN successful_JJ vaccina-_JJ tions_NNS and_CC the_DT annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1927-28_JJ Serial_JJ No_NNP ._.
+District_NNP 1923-24_JJ 1924-25_JJ Number_NNP of_IN successful_JJ cases_NNS Annual_NNP ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN Number_NNP of_IN successful_JJ cases_NNS Annual_NNP ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 1_CD Hazara_NNP ..._: 36,401_CD ..._: 40,129_CD ..._: 2_CD Peshawar_NNP ..._: 17,181_CD 0.03_CD 21,236_CD 0.44_CD 3_CD Mardan_NNP Sub-Division_NN ..._: 18,822_CD ..._: 16,982_CD 0.13_CD 4_CD Kohat_NNP ..._: 11,525_CD ..._: 12,758_CD 0.13_CD 5_CD Bannu_NNP ..._: 8,286_CD ..._: 8,580_CD 0.004_CD 6_CD Dera_NNP Ismail_NNP Khan_NNP ..._: 12,600_CD ..._: 17,153_CD 0.01_CD Total_NN ..._: 104,815_CD 0.03_CD 116,838_CD 0.14_CD Total_NN in_IN political_JJ agencies_NNS staff_NN ..._: 11,787_CD ..._: 14,598_CD ..._: Total_NN in_IN cantonment_JJ staff_NN 2,312_CD ..._: 2,325_CD ..._: Total_NN in_IN dispensary_JJ staff_NN 54_CD ..._: 3,694_CD ..._: Grand_NNP Total_NNP ..._: 118,968_CD 0.03_CD 137,455_CD 0.14_CD xx_NN APPENDIX_NNP B_NNP Statement_NNP showing_VBG the_DT annual_JJ number_NN of_IN successful_JJ vaccina-_JJ tions_NNS and_CC the_DT annual_JJ ratio_NN of_IN deaths_NNS from_IN small-pox_JJ per_IN 1,000_CD of_IN population_NN for_IN the_DT five_CD years_NNS ending_VBG 1926-27Peshawar_JJ PRINTED_NNP BY_NNP THE_NNP MANAGER_NNP ,_, GOVERNMENT_NNP PRINTING_NNP AND_NNP STATIONERY_NNP ,_, N._NNP W._NNP F._NNP P._NNP 1928_CD

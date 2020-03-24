@@ -1,0 +1,261 @@
+RULES_NNS AND_CC REGULATIONS_NNP OF_IN THE_NNP BOMBAY_NNP VETERINARY_NNP COLLEGE_NNP ._.
+(_( Sanctioned_VBN under_IN Government_NNP Resolution_NNP ,_, Educational_NNP Department_NNP ,_, No_NNP ._.
+762_CD ,_, dated_VBD 10th_CD May_NNP 1901_CD ._. )_)
+RULES_NNS AND_CC REGULATIONS_NNP OF_IN THE_NNP BOMBAY_NNP VETERINARY_NNP COLLEGE_NNP ._.
+(_( Sanctioned_VBN under_IN Government_NNP Resolution_NNP ,_, Educational_NNP Department_NNP ,_, No_NNP ._.
+762_CD ,_, dated_VBD 10th_CD May_NNP 1901_CD ._. )_)
+BOMBAY_NNP VETERINARY_NNP COLLEGE_NNP ._.
+TEACHING_NN AND_CC CLINICAL_JJ STAFF_NNP ._.
+JAMES_NNP BRODIE-MILLS_NNP ,_, M.R.C.V.S._NNP ,_, V.S.H_NNP ._.
+&_CC A._NNP Socy_NNP ._.
+Scot._NNP ,_, Vety_NNP ._.
+Major_JJ ,_, A.V.D._NNP ,_, J.P._NNP ,_, Fellow_NNP ,_, Bombay_NNP University_NNP ,_, Principal_NNP and_CC Professor_NNP of_IN Veterinary_NNP Science_NNP ._.
+F._NNP S._NNP H._NNP BALDREY_NNP ,_, M.R.C.V.S._NNP ,_, Veterinary_NNP Lieutenant_NNP ,_, A.V.D._NNP ,_, Assistant_NNP Principal_NNP ._.
+N._NNP D._NNP DHAKMARWALA_NNP ,_, G.B.V.C._NNP ,_, Asst_NNP ._.
+Prof._NNP of_IN Anatomy_NNP and_CC Physiology_NNP ._.
+V._NNP E._NNP VAKHARIA_NNP ,_, G.B.V.C._NNP ,_, Asst_NNP ._.
+Prof._NNP of_IN Chemistry_NNP ,_, Materia_NNP Medica_NNP ,_, Botany_NNP and_CC Pharmacy_NNP ._.
+A._NN I._NNP SHAIKH_NNP ,_, G.B.V.C._NNP ,_, Instructor_NNP ,_, Vernacular_NNP Class_NNP ._.
+M._NNP C._NNP JOSHI_NNP ,_, G.B.V.C._NNP ,_, Instructor_NNP ,_, Vernacular_NNP Class_NNP ._.
+R._NNP TOWN_NNP ._.
+Pensioned_VBN Sergeant_NNP Farrier_NNP ,_, Instructor_NNP in_IN Shoeing_NNP ._.
+H._NNP A._NN FOY_NNP ,_, G.B.V.C._NNP ,_, Assistant_NNP Veterinary_NNP Officer_NNP No_NNP ._.
+I._NNP P._NNP MIRANDA_NNP ,_, G.B.V.C._NNP ,_, Assistant_NNP Veterinary_NNP Officer_NNP No_NNP ._.
+II_NNP ._.
+J._NNP F._NNP L._NNP D'MONTE_NNP ._.
+Assistant_NNP Veterinary_NNP Officer_NNP No_NNP ._.
+III_NNP ._.
+V._NNP B._NNP PHATAK_NNP ,_, Head_NNP Clerk_NNP ._.
+S._NNP G._NNP RANADE_NNP ,_, Second_NNP Clerk_NNP ._.
+B_NNP 63THE_CD BOMBAY_NNP VETERINARY_NNP COLLEGE_NNP ._.
+INTRODUCTORY_NNP ._.
+1_CD ._.
+The_DT Government_NNP Veterinary_NNP College_NNP ,_, Bombay_NNP ,_, has_VBZ been_VBN established_VBN on_IN an_DT estate_NN at_IN Parel_NNP (_( near_JJ Government_NNP House_NNP ,_, five_CD miles_NNS from_IN the_DT Fort_NNP )_) presented_VBN by_IN Sir_NNP Dinshaw_NNP Manockjee_NNP Petit_NNP ,_, Bart._NNP ,_, and_CC is_VBZ worked_VBN in_IN conjunction_NN with_IN the_DT Bál_NNP Sákarbái_NNP Dinshaw_NNP Petit_NNP Hospital_NNP for_IN Animals_NNP of_IN the_DT Bombay_NNP Society_NNP for_IN the_DT Prevention_NNP of_IN Cruelty_NNP to_TO Animals_VB on_IN the_DT same_JJ estate_NN ,_, the_DT Veterinary_NNP Officers_NNPS of_IN the_DT College_NNP being_VBG ex-officio_JJ in_IN charge_NN of_IN the_DT Hospital_NNP ._.
+2_CD ._.
+Thus_RB full_JJ clinical_JJ and_CC other_JJ facilities_NNS are_VBP afforded_VBN to_TO meet_VB the_DT Veterinary_NNP educational_JJ requirements_NNS especially_RB of_IN the_DT Bombay_NNP Presi-_NNP dency_NN ,_, but_CC students_NNS are_VBP admitted_VBN from_IN any_DT part_NN of_IN India_NNP or_CC elsewhere_RB ._.
+The_DT special_JJ objects_NNS of_IN the_DT College_NNP are_VBP to_TO train_VB competent_JJ practitioners_NNS for_IN Veterinary_NNP service_NN under_IN Government_NNP ,_, for_IN private_JJ practice_NN ,_, for_IN ser-_JJ vice_NN in_IN Native_NNP States_NNPS ,_, and_CC for_IN special_JJ ,_, posts_NNS under_IN Municipalities_NNS ,_, Dis-_NNP trict_NNP Local_NNP Boards_NNP ,_, &_CC c._NN 3_CD ._.
+The_DT entire_JJ estate_NN at_IN Parel_NNP now_RB includes_VBZ the_DT large_JJ bungalow_NN occupied_VBN by_IN the_DT Veterinary_NNP College_NNP ,_, the_DT Sir_NNP Dinshaw_NNP Manockji_NNP Petit_NNP Patho_NNP Bacteriological_NNP Laboratory_NNP ,_, the_DT Chemical_NNP Laboratory_NNP ,_, Pharmacy_NNP ,_, two_CD Horse_NN Wards_NNS ,_, five_CD Cattle_NNP Wards_NNPS ,_, one_CD Dog_NNP Ward_NNP ,_, one_CD Isolation_NNP Word_NNP ,_, one_CD Tetanus_NNP Ward_NNP ,_, Post-mortem_NNP and_CC Dissection_NNP Rooms_NNP ,_, Forge_NNP and_CC Shoeing_NNP Shed_NNP ,_, Practical_NNP Examination_NNP Shed_NNP ,_, resident_JJ students_NNS '_POS quarters_NNS ,_, besides_IN the_DT general_JJ offices_NNS ,_, store-rooms_NNS ,_, servants_NNS '_POS quarters_NNS ,_, gate-keepers_NNS '_POS chowkis_NN ,_, &_CC c._NN 4_CD ._.
+In_IN exchange_NN for_IN certain_JJ privileges_NNS granted_VBN to_TO the_DT College_NNP ,_, the_DT Society_NNP is_VBZ entitled_VBN to_TO the_DT Veterinary_NNP services_NNS gratis_NN of_IN the_DT teaching_JJ staff_NN for_IN sick_JJ animals_NNS in_IN the_DT Hospital_NNP ,_, which_WDT in_IN its_PRP$ turn_NN affords_NNS clinical_JJ facilities_NNS to_TO students_NNS of_IN the_DT College_NNP ._.
+Thus_RB the_DT Institutions_NNP derive_JJ mutual_JJ advantage_NN ._.
+5_CD ._.
+The_DT Bombay_NNP Municipality_NNP co-operates_NNS with_IN Government_NNP in_IN defraying_VBG the_DT cost_NN of_IN working_VBG the_DT College_NNP ._.
+6_CD ._.
+The_DT Principal_NNP is_VBZ the_DT immediate_JJ administrative_JJ head_NN of_IN the_DT Institution_NNP ,_, subject_JJ to_TO the_DT control_NN of_IN the_DT Director_NNP of_IN Public_NNP Instruc-_NNP tion_NN in_IN the_DT Educational_NNP Department_NNP of_IN Government_NNP ._.
+7_CD ._.
+The_DT diploma_NN of_IN qualification_NN as_IN ``_`` Graduate_NNP of_IN the_DT Bombay_NNP Veterinary_NNP College_NNP ''_'' is_VBZ awarded_VBN after_IN a_DT full_JJ course_NN of_IN study_NN at_IN the_DT College_NNP and_CC passing_VBG the_DT examination_NN of_IN graduation_NN ._.
+Special_JJ certifi-_JJ cates_NNS of_IN proficiency_NN will_MD be_VB awarded_VBN to_TO such_JJ graduates_NNS as_IN ,_, during_IN their_PRP$ period_NN of_IN studentship_NN or_CC after_IN ,_, have_VBP attended_VBN supplementary_JJ courses_NNS on_IN special_JJ subjects_NNS and_CC passed_VBD the_DT corresponding_JJ examinations_NNS ._.
+Amateurs_NNP B_NNP 632_CD may_MD be_VB admitted_VBN as_IN Occasional_JJ Students_NNS to_TO such_JJ courses_NNS as_IN they_PRP may_MD elect_VB on_IN payment_NN of_IN a_DT fixed_JJ fee_NN ,_, but_CC shall_MD in_IN no_DT case_NN be_VB entitled_VBN to_TO cer-_JJ tificates_NNS nor_CC to_TO compete_VB for_IN prizes_NNS ._.
+8_CD ._.
+The_DT course_NN of_IN study_NN for_IN the_DT diploma_NN extends_VBZ over_IN three_CD collegiate_JJ years_NNS ._.
+Each_DT year_NN comprises_VBZ nine_CD teaching_VBG months_NNS and_CC is_VBZ divided_VBN as_IN follows:3_JJ 11_CD ._.
+Fifteen_NNP scholarships_NNS of_IN the_DT value_NN of_IN Rs_NNP ._.
+10_CD each_DT ,_, tenable_JJ for_IN three_CD years_NNS ,_, are_VBP attached_VBN to_TO the_DT College_NNP ._.
+The_DT holders_NNS of_IN these_DT scholar-_JJ ships_NNS are_VBP entitled_VBN to_TO receive_VB free_JJ instruction_NN at_IN the_DT College_NNP ._.
+The_DT scholars_NNS will_MD be_VB selected_VBN from_IN the_DT different_JJ districts_NNS of_IN the_DT Pre-_NNP sidency_NN by_IN rotation_NN ,_, allowing_VBG each_DT district_NN to_TO have_VB generally_RB one_CD student_NN at_IN the_DT College_NNP at_IN a_DT time_NN under_IN this_DT rule_NN ._.
+Collectors_NNS will_MD be_VB asked_VBN to_TO recommend_VB men_NNS from_IN any_DT of_IN the_DT schools_NNS in_IN their_PRP$ districts_NNS for_IN the_DT ap-_JJ proval_NN of_IN the_DT Principal_NNP ._.
+The_DT final_JJ selection_NN of_IN these_DT men_NNS will_MD rest_VB with_IN the_DT latter_NN in_IN consultation_NN with_IN the_DT Superintendent_NNP ,_, Civil_NNP Veteri-_NNP nary_JJ Department_NNP ,_, and_CC the_DT Deputy_NNP Director_NNP of_IN Agriculture_NNP ,_, Bombay_NNP Presidency_NNP ._.
+If_IN possible_JJ ,_, the_DT candidates_NNS recommended_VBD should_MD appear_VB in_IN person_NN before_IN the_DT Principal_NNP for_IN this_DT selection_NN ._.
+While_IN selecting_VBG men_NNS for_IN Government_NNP scholarships_NNS preference_NN will_MD be_VB given_VBN to_TO University_NNP Matriculates_NNP and_CC School_NNP Final_NNP men_NNS ,_, who_WP are_VBP sons_NNS of_IN land-holders_NNS ,_, or_CC those_DT that_WDT are_VBP actually_RB engaged_VBN in_IN agricultural_JJ pursuits_NNS and_CC are_VBP accustomed_VBN to_TO handle_VB cattle_NNS ._.
+Their_PRP$ age_NN should_MD not_RB be_VB below_IN 18_CD or_CC over_RB 25_CD ._.
+They_PRP must_MD also_RB come_VB up_RB to_TO the_DT recognised_JJ standard_NN of_IN chest_NN and_CC height_NN measurements_NNS and_CC be_VB in_IN every_DT way_NN physically_RB fit_JJ for_IN veterinary_JJ work_NN ._.
+Any_DT slackness_NN in_IN attendance_NN at_IN practical_JJ instruction_NN classes_NNS will_MD render_VB the_DT scholars_NNS liable_JJ to_TO forfeiture_NN of_IN their_PRP$ scholarships_NNS and_CC free_JJ student-_JJ ships_NNS ._.
+12_CD ._.
+Native_JJ State_NNP Students_NNS should_MD be_VB selected_VBN on_IN the_DT same_JJ lines_NNS as_IN free_JJ students_NNS ._.
+Provision_NN should_MD be_VB made_VBN for_IN their_PRP$ proper_JJ sup-_JJ port_NN while_IN in_IN Bombay_NNP and_CC for_IN their_PRP$ being_VBG able_JJ to_TO purchase_VB the_DT text_NN books_NNS (_( which_WDT cost_NN ,_, approximately_RB ,_, Rs_NNP ._.
+60_CD per_IN annum_NN )_) ._.
+Native_JJ States_NNS ,_, Municipalites_NNP ,_, &_CC c._NN ,_, sending_VBG students_NNS to_TO the_DT College_NNP will_MD be_VB held_VBN responsible_JJ for_IN the_DT payment_NN of_IN the_DT fees_NNS of_IN those_DT students_NNS ._.
+13_CD ._.
+All_DT applications_NNS for_IN admission_NN as_IN a_DT student_NN shall_MD be_VB made_VBN in_IN writing_VBG to_TO the_DT Principal_NNP ,_, who_WP will_MD acknowledge_VB their_PRP$ receipt_NN and_CC record_VB them_PRP ._.
+He_PRP will_MD decide_VB on_IN the_DT advisability_NN of_IN admission_NN in_IN all_DT doubtful_JJ cases_NNS ._.
+14_CD ._.
+Applicants_NNS should_MD ,_, preferably_RB in_IN person_NN ,_, communicate_NN with_IN the_DT Principal_NNP ,_, at_IN the_DT Veterinary_NNP College_NNP ,_, Parel_NNP ,_, on_IN any_DT day_NN ,_, except_IN Sundays_NNP ,_, between_IN the_DT hours_NNS of_IN 11_CD A.M._NNP and_CC 4_CD P.M._NNP 15_CD ._.
+Paying_VBG students_NNS may_MD be_VB admitted_VBN to_TO the_DT courses_NNS at_IN any_DT time_NN on_IN production_NN of_IN the_DT necessary_JJ certificates_NNS and_CC payment_NN of_IN the_DT College_NNP fees_NNS in_IN advance_NN for_IN the_DT whole_JJ current_JJ half-year_JJ :_: thus_RB pecu-_JJ niarily_RB as_RB well_RB as_IN in_IN reference_NN to_TO their_PRP$ studies_NNS it_PRP will_MD be_VB to_TO the_DT advan-_JJ tage_NN of_IN such_JJ students_NNS to_TO enter_VB at_IN the_DT commencement_NN of_IN a_DT Session_NNP ._.
+16_CD ._.
+Each_DT student_NN ,_, when_WRB enrolled_VBN on_IN the_DT College_NNP books_NNS ,_, shall_MD receive_VB a_DT copy_NN of_IN the_DT rules_NNS and_CC regulations_NNS ,_, and_CC his_PRP$ entering_VBG the_DT College_NNP shall_MD imply_VB acceptance_NN of_IN such_JJ rules_NNS and_CC regulations_NNS as_IN are_VBP in_IN force_NN when_WRB he_PRP enters_VBZ and_CC also_RB such_JJ alterations_NNS as_IN may_MD be_VB made_VBN in_IN them_PRP from_IN time_NN to_TO time_NN under_IN due_JJ authority_NN ._.
+17_CD ._.
+Graduates_NNS of_IN medicine_NN and_CC under-graduates_NNS who_WP have_VBP passed_VBN the_DT First_NNP L.M_NNP ._.
+&_CC S._NNP Examination_NNP at_IN an_DT Indian_JJ University_NNP or_CC the_DT 4_CD qualifying_VBG examination_NN as_IN a_DT Hospital_NNP Assistant_NNP ,_, or_CC holders_NNS of_IN a_DT diploma_NN or_CC certificate_NN of_IN graduation_NN at_IN a_DT recognised_JJ Agricultural_NNP Col-_NNP lege_NN or_CC School_NNP ,_, are_VBP excused_VBN the_DT first_JJ year_NN 's_POS study_NN ,_, but_CC examined_VBD in_IN the_DT subjects_NNS of_IN both_DT first_JJ and_CC second_JJ year_NN at_IN the_DT end_NN of_IN their_PRP$ first_JJ year_NN of_IN attendance_NN at_IN the_DT College_NNP ._.
+18_CD ._.
+Men_NN ,_, having_VBG undergone_RP a_DT two_CD years_NNS '_POS course_NN at_IN a_DT Veterinary_JJ School_NNP and_CC having_VBG obtained_VBN a_DT certificate_NN qualifying_VBG themselves_PRP as_IN Veterinary_JJ Assistants_NNS ,_, are_VBP allowed_VBN to_TO appear_VB for_IN the_DT Third_NNP Professional_NNP (_( Diploma_NNP )_) Examination_NN after_IN one_CD year_NN 's_POS training_NN at_IN the_DT College_NNP ._.
+But_CC to_TO make_VB themselves_PRP eligible_JJ for_IN this_DT concession_NN ,_, those_DT who_WP attend-_VBP ed_VBP a_DT two_CD years_NNS '_POS course_NN in_IN the_DT Vernacular_NNP will_MD have_VB to_TO prove_VB that_IN they_PRP have_VBP passed_VBN the_DT University_NNP Matriculation_NNP or_CC School_NNP Final_NNP Examination_NNP ,_, or_CC to_TO pass_VB the_DT Entrance_NNP Test_NNP prescribed_VBN by_IN the_DT College_NNP rules_NNS ,_, and_CC to_TO produce_VB evidence_NN of_IN their_PRP$ having_VBG been_VBN in_IN practice_NN for_IN five_CD years_NNS ._.
+19_CD ._.
+This_DT College_NNP recognises_VBZ the_DT terms_NNS kept_VBD ,_, and_CC examinations_NNS passed_VBN ,_, by_IN students_NNS in_IN the_DT Bengal_NNP Veterinary_NNP College_NNP and_CC other_JJ Insti-_JJ tutions_NNS where_WRB the_DT educational_JJ standard_NN for_IN admission_NN and_CC curriculum_NN of_IN studies_NNS are_VBP the_DT same_JJ as_IN at_IN the_DT College_NNP and_CC where_WRB the_DT instruction_NN given_VBN is_VBZ through_IN the_DT medium_NN of_IN English_NNP ._.
+But_CC no_DT student_NN of_IN this_DT class_NN will_MD be_VB admitted_VBN here_RB unless_IN he_PRP obtains_VBZ written_VBN permission_NN from_IN the_DT Head_NNP of_IN the_DT Institution_NNP he_PRP intends_VBZ to_TO leave_VB ._.
+Curriculum_NNP ._.
+20_CD ._.
+The_DT following_NN is_VBZ the_DT curriculum_NN of_IN studies_NNS :5_VBP brought_VBN up_RP to_TO date_NN in_IN the_DT Agricultural_NNP Ledgers_NNP ,_, Veterinary_NNP Series_NNP ._.
+Therapeutics_NNS ,_, including_VBG Toxicology6_NNP Table_NNP of_IN Times_NNP and_CC Nature_NNP of_IN Lectures_NNP ,_, &_CC c._VB Hour_NNP ._.
+Monday_NNP ._.
+Tuesday_NNP ._.
+Wednesday_NNP ._.
+Thursday_NNP ._.
+Friday_NNP ._.
+Saturday_NNP ._.
+CLASS_NNP A.7_NNP EXAMINATIONS_NNP ._.
+23_CD ._.
+The_DT professional_JJ examinations_NNS for_IN the_DT Diploma_NNP of_IN Graduate_NNP of_IN the_DT Bombay_NNP Veterinary_NNP College_NNP are_VBP three_CD in_IN number_NN ._.
+They_PRP are_VBP termed_VBN respectively_RB the_DT First_NNP ,_, Second_NNP and_CC Third._NNP ,_, and_CC are_VBP conducted_VBN at_IN the_DT end_NN of_IN the_DT corresponding_JJ years_NNS of_IN study_NN ._.
+These_DT three_CD examin-_NN ations_NNS shall_MD be_VB passed_VBN in_IN the_DT order_NN above_IN mentioned_VBN ,_, i.e_NN ,_, no_DT candidate_NN may_MD present_VB himself_PRP for_IN the_DT Second_NNP without_IN having_VBG passed_VBN the_DT First_NNP ,_, nor_CC for_IN the_DT Third_NNP without_IN having_VBG passed_VBN the_DT Second_NNP ,_, except_IN under_IN such_JJ special_JJ circumstances_NNS as_IN may_MD be_VB sanctioned_VBN by_IN Government_NNP ._.
+24_CD ._.
+The_DT following_NN are_VBP the_DT subjects_NNS for_IN the_DT Examinations_NNS with_IN the_DT maximum_JJ number_NN of_IN marks_NNS that_WDT will_MD be_VB awarded_VBN for_IN each_DT of_IN them_PRP :_: -8_NN 25_CD ._.
+In_IN the_DT First_NNP and_CC Second_NNP Professional_NNP Examinations_NNP 33_CD per_IN cent_NN ._.
+in_IN each_DT subject_NN and_CC 50_CD per_IN cent_NN ._.
+of_IN the_DT total_JJ number_NN of_IN marks_NNS shall_MD suffice_VB for_IN a_DT ``_`` pass_NN ._. '_''
+26_CD ._.
+In_IN the_DT Third_NNP Professional_NNP Examination_NNP 33_CD per_IN cent_NN ._.
+in_IN each_DT subject_NN ,_, with_IN the_DT exception_NN of_IN the_DT Equine_NNP and_CC Bovine_NNP Medicine_NNP and_CC Surgery_NNP and_CC Operative_NNP Surgery_NNP and_CC a_DT general_JJ total_NN of_IN 50_CD per_IN cent_NN ._.
+shall_MD be_VB necessary_JJ for_IN a_DT ``_`` pass_NN ._. ''_''
+In_IN Equine_NNP and_CC Bovine_NNP Medicine_NNP and_CC Surgery_NNP and_CC Operative_NNP Surgery_NNP it_PRP will_MD be_VB necessary_JJ to_TO obtain_VB 50_CD per_IN cent_NN ._.
+of_IN marks_NNS in_IN each_DT subject_NN for_IN a_DT ``_`` pass_NN ._. ''_''
+27_CD ._.
+For_IN admission_NN to_TO any_DT examination_NN by_IN the_DT Board_NNP ,_, a_DT can-_JJ didate_NN must_MD have_VB studied_VBN for_IN the_DT prescribed_JJ time_NN at_IN the_DT College_NNP ,_, and_CC have_VBP attended_VBN at_IN least_JJS two-thirds_NNS of_IN the_DT year_NN 's_POS lectures_NNS and_CC practical_JJ work_NN in_IN each_DT of_IN the_DT various_JJ classes_NNS ._.
+The_DT Principal_NNP may_MD ,_, however_RB ,_, make_VBP special_JJ allowance_NN in_IN the_DT case_NN of_IN illness_NN ._.
+28_CD ._.
+Any_DT student_NN who_WP fails_VBZ at_IN an_DT examination_NN must_MD ,_, before_IN being_VBG allowed_VBN to_TO re-appear_VB for_IN that_DT examination_NN ,_, again_RB put_VBN in_IN a_DT full_JJ year_NN 's_POS course_NN of_IN study_NN ._.
+But_CC the_DT Principal_NNP shall_MD have_VB the_DT power_NN to_TO permit_VB any_DT student_NN of_IN the_DT Class_NNP ``_`` C_NNP ``_`` to_TO re-appear_VB at_IN the_DT Third_NNP Professional_NNP Examination_NNP on_IN the_DT student_NN satisfying_VBG the_DT Principal_NNP that_IN he_PRP has_VBZ work-_JJ ed_NN with_IN a_DT qualified_JJ Veterinary_NNP Practitioner_NNP in_IN a_DT dispensary_JJ ,_, or_CC has_VBZ otherwise_RB been_VBN in_IN a_DT position_NN to_TO keep_VB up_RP and_CC improve_VB his_PRP$ practical_JJ knowledge_NN for_IN six_CD months_NNS in_IN the_DT year_NN previous_JJ to_TO his_PRP$ re-appearing_NN ._.
+29_CD ._.
+No_DT student_NN shall_MD be_VB allowed_VBN to_TO appear_VB for_IN any_DT of_IN these_DT examin-_JJ ations_NNS without_IN presenting_VBG a_DT certificate_NN from_IN the_DT Principal_NNP of_IN the_DT College_NNP for_IN permission_NN to_TO present_VB himself_PRP ,_, and_CC for_IN the_DT Diploma_NNP Exa-_NNP mination_NN without_IN having_VBG attained_VBN the_DT age_NN of_IN 20_CD years_NNS ._.
+30_CD ._.
+The_DT Principal_NNP shall_MD enter_VB in_IN his_PRP$ Students_NNS '_POS Record_NNP reasons_NNS for_IN refusal_NN to_TO admit_VB any_DT student_NN to_TO examination_NN ._.
+31_CD ._.
+Students_NNS must_MD apply_VB for_IN permission_NN to_TO present_VB themselves_PRP for_IN Examination_NNP not_RB later_RB than_IN one_CD month_NN before_IN the_DT end_NN of_IN the_DT Session_NNP ._.
+32_CD ._.
+No_DT student_NN who_WP has_VBZ failed_VBN three_CD times_NNS in_IN the_DT First_NNP Professional_NNP Examination_NNP will_MD be_VB allowed_VBN to_TO appear_VB again_RB for_IN that_DT Examination_NNP ._.
+33_CD ._.
+The_DT Professional_NNP Examinations_NNP are_VBP conducted_VBN by_IN a_DT Board_NNP of_IN Examiners_NNP appointed_VBN by_IN Government_NNP ._.
+It_PRP is_VBZ constituted_VBN as_IN follows_VBZ :9_NN Examiners_NNS will_MD devote_VB to_TO each_DT candidate_VB the_DT following_JJ time_NN in_IN each_DT subject:10_NN 42_CD ._.
+All_DT facilities_NNS for_IN testing_VBG candidates_NNS ,_, either_CC practically_RB or_CC otherwise_RB ,_, at_IN the_DT Veterinary_NNP College_NNP and_CC Hospital_NNP shall_MD be_VB placed_VBN at_IN the_DT disposal_NN of_IN the_DT Board_NNP of_IN Examiners_NNP while_IN it_PRP is_VBZ sitting_VBG ._.
+Discipline_NN and_CC General_NNP Management_NNP ._.
+43_CD ._.
+The_DT Officers_NNPS of_IN the_DT College_NNP in_IN accepting_VBG their_PRP$ posts_NNS will_MD be_VB considered_VBN to_TO accept_VB the_DT then_RB existing_VBG rules_NNS and_CC regulations_NNS and_CC also_RB such_JJ modifications_NNS as_IN may_MD be_VB made_VBN in_IN them_PRP from_IN time_NN to_TO time_NN under_IN due_JJ authority_NN ._.
+Each_DT Officer_NNP will_MD be_VB held_VBN responsible_JJ for_IN exact_JJ performance_NN of_IN the_DT duties_NNS of_IN his_PRP$ branch_NN of_IN the_DT College_NNP and_CC Hospital_NNP work_NN and_CC for_IN the_DT results_NNS of_IN his_PRP$ teaching_NN ._.
+The_DT Assistant_NNP Principal_NNP will_MD be_VB in_IN executive_JJ charge_NN of_IN the_DT Hospital_NNP and_CC will_MD be_VB responsible_JJ for_IN the_DT treatment_NN of_IN cases_NNS and_CC the_DT clinical_JJ instruction_NN of_IN students_NNS during_IN Hospital_NNP practice_NN ._.
+He_PRP will_MD also_RB be_VB in_IN charge_NN of_IN all_DT surgical_JJ instru-_JJ ments_NNS and_CC appliances_NNS ._.
+The_DT Lecturer_NNP on_IN Anatomy_NNP and_CC Physiology_NNP will_MD be_VB in_IN immediate_JJ charge_NN of_IN the_DT Dissecting_NNP Room_NNP and_CC anatomical_JJ portion_NN of_IN the_DT Museum_NNP ._.
+The_DT Lecturer_NNP on_IN Chemistry_NNP and_CC Botany_NNP will_MD be_VB in_IN immediate_JJ charge_NN of_IN the_DT Chemical_NNP Laboratory_NNP ,_, Botanical_NNP Garden_NNP ,_, and_CC chemical_NN and_CC botanical_JJ parts_NNS of_IN the_DT Museum_NNP ._.
+The_DT Instructor_NNP in_IN Practical_NNP Shoeing_NNP will_MD be_VB in_IN immediate_JJ charge_NN of_IN the_DT Forge_NNP building_NN and_CC will_MD be_VB held_VBN responsible_JJ for_IN the_DT condition_NN of_IN the_DT feet_NNS of_IN all_DT animals_NNS in_IN Hospital_NNP ._.
+The_DT College_NNP records_NNS will_MD be_VB kept_VBN by_IN the_DT Head_NNP Clerk_NNP under_IN the_DT immediate_JJ supervision_NN of_IN the_DT Principal_NNP ,_, or_CC the_DT Assistant_NNP Principal_NNP ,_, in_IN his_PRP$ absence_NN ._.
+44_CD ._.
+The_DT Servants_NNS of_IN the_DT College_NNP ,_, as_IN sanctioned_VBN by_IN Government_NNP ,_, shall_MD be_VB mustered_VBN monthly_RB in_IN the_DT presence_NN of_IN the_DT Principal_NNP and_CC then_RB receive_VB their_PRP$ pay_NN ._.
+They_PRP shall_MD hold_VB their_PRP$ posts_NNS during_IN good_JJ behaviour_NN and_CC satisfactory_JJ performance_NN of_IN their_PRP$ duties_NNS ._.
+Their_PRP$ work_NN shall_MD be_VB explained_VBN thoroughly_RB to_TO them_PRP when_WRB they_PRP join_VBP ,_, and_CC they_PRP shall_MD be_VB constantly_RB in_IN attendance_JJ daily_JJ from_IN 8_CD A.M._NNP to_TO 6_CD P.M.._NNS
+They_PRP shall_MD be_VB under_IN the_DT immediate_JJ orders_NNS of_IN the_DT Head_NNP Clerk_NNP to_TO the_DT College_NNP ,_, who_WP shall_MD report_VB any_DT absence_NN without_IN leave_VBP or_CC imperfect_JJ performance_NN of_IN duty_NN by_IN them_PRP to_TO the_DT Principal_NNP or_CC the_DT Assistant_JJ Principal_NNP ._.
+The_DT Hospital_NNP Servants_NNS are_VBP immediately_RB under_IN the_DT manager_NN of_IN the_DT Hospital_NNP ,_, as_IN ap-_JJ pointed_VBN by_IN the_DT S._NNP P._NNP C._NNP A._NN ,_, but_CC are_VBP always_RB to_TO perform_VB any_DT duties_NNS re-_VBP quired_VBN in_IN the_DT treatment_NN of_IN cases_NNS as_IN directed_VBN by_IN the_DT Principal_NNP or_CC the_DT Assistant_JJ Principal_NNP ._.
+45_CD ._.
+All_DT servants_NNS and_CC officials_NNS of_IN the_DT College_NNP and_CC Hospital_NNP are_VBP under_IN the_DT control_NN of_IN the_DT Principal_NNP for_IN discipline_NN and_CC due_JJ performance_NN of_IN their_PRP$ duties_NNS ._.
+46_CD ._.
+The_DT various_JJ Officers_NNS will_MD monthly_VB report_NN attendance_NN of_IN students_NNS at_IN their_PRP$ classes_NNS and_CC individual_JJ progress_NN as_IN shown_VBN at_IN weekly_JJ oral_NN ,_, and_CC monthly_RB written_VBN ,_, examinations_NNS ._.
+They_PRP will_MD report_VB monthly_RB to_TO the_DT Principal_NNP the_DT matter_NN taught_VBN by_IN them_PRP in_IN the_DT form_NN of_IN a_DT syllabus_NN ._.
+47_CD ._.
+The_DT strictest_JJS discipline_NN shall_MD be_VB maintained_VBN within_IN the_DT College_NNP and_CC Hospital_NNP ._.
+Infringement_NN of_IN rules_NNS and_CC regulations_NNS by_IN students_NNS shall_MD be_VB punishable_JJ by_IN fines_NNS ,_, rustication_NN ,_, expulsion_NN ,_, or_CC such_JJ other_JJ punishment_NN as_IN may_MD be_VB considered_VBN advisable_JJ after_IN due_JJ enquiry_NN ._.
+48_CD ._.
+All_DT cases_NNS of_IN serious_JJ breach_NN of_IN discipline_NN shall_MD be_VB brought_VBN to_TO the_DT notice_NN of_IN the_DT Principal_NNP ._.
+In_IN the_DT case_NN of_IN individuals_NNS disturbing_VBG 11_CD lectures_NNS or_CC demonstrations_NNS the_DT Instructor_NNP may_MD at_IN once_RB suspend_VBP the_DT student_NN or_CC students_NNS causing_VBG disturbance_NN and_CC refer_VB the_DT matter_NN to_TO the_DT Principal_NNP ,_, who_WP shall_MD punish_VB by_IN fine_JJ or_CC suspension_NN ,_, or_CC in_IN flagrant_JJ cases_NNS be_VB empowered_VBN to_TO strike_VB the_DT student_NN 's_POS name_NN off_IN the_DT College_NNP Rolls_NNP ._.
+49_CD ._.
+Students_NNS are_VBP advised_VBN to_TO take_VB careful_JJ notes_NNS on_IN all_DT lectures_NNS and_CC instruction_NN in_IN the_DT class_NN rooms_NNS ._.
+They_PRP will_MD be_VB required_VBN to_TO keep_VB records_NNS of_IN cases_NNS treated_VBN in_IN the_DT Infirmary_NNP and_CC of_IN other_JJ practical_JJ work_NN ._.
+50_CD ._.
+The_DT College_NNP hours_NNS are_VBP from_IN 11_CD a.m._NN to_TO 4_CD p.m._NN ,_, but_CC students_NNS responsible_JJ for_IN Hospital_NNP work_NN must_MD attend_VB at_IN any_DT hour_NN as_IN required_VBN ,_, and_CC no_DT student_NN will_MD on_IN any_DT pretence_NN whatsoever_RB be_VB exempted_VBN from_IN practical_JJ Infirmary_NNP work_NN and_CC Dissection_NNP ._.
+51_CD ._.
+Examinations_NNS (_( oral_JJ ,_, written_VBN and_CC practical_JJ )_) shall_MD be_VB constantly_RB carried_VBN out_RP in_IN the_DT various_JJ classes_NNS throughout_IN each_DT Session_NN ,_, they_PRP being_VBG a_DT most_RBS valuable_JJ means_NNS of_IN instruction_NN ._.
+A_DT record_NN of_IN marks_NNS awarded_VBD shall_MD be_VB kept_VBN for_IN information_NN of_IN parents_NNS ,_, Native_NNP States_NNPS ,_, &_CC c._NN In_IN the_DT case_NN of_IN Government_NNP scholars_NNS these_DT examinations_NNS will_MD afford_VB a_DT useful_JJ test_NN as_IN to_TO whether_IN the_DT opportunities_NNS supplied_VBN to_TO them_PRP by_IN Government_NNP are_VBP being_VBG taken_VBN advantage_NN of_IN ._.
+The_DT Principal_NNP shall_MD bring_VB to_TO the_DT notice_NN of_IN parents_NNS ,_, Native_NNP States_NNPS ,_, &_CC c._NN ,_, the_DT cases_NNS of_IN any_DT students_NNS who_WP ,_, through_IN constant_JJ laziness_NN ,_, wilful_JJ neglect_NN ,_, or_CC natural_JJ inaptitude_NN ,_, are_VBP not_RB likely_JJ to_TO benefit_VB by_IN further_JJ studies_NNS ._.
+52_CD ._.
+The_DT College_NNP Authorities_NNP will_MD furnish_VB a_DT monthly_JJ report_NN during_IN the_DT Sessions_NNP to_TO each_DT State_NNP sending_NN students_NNS ,_, as_IN to_TO regularity_NN of_IN attendance_NN ,_, progress_NN and_CC conduct_NN while_IN on_IN the_DT College_NNP premises_NNS ._.
+53_CD ._.
+Leave_NNP of_IN absence_NN on_IN account_NN of_IN sickness_NN or_CC urgent_JJ private_JJ affairs_NNS will_MD be_VB granted_VBN (_( by_IN the_DT Principal_NNP only_RB )_) to_TO individual_JJ students_NNS after_IN careful_JJ enquiry_NN into_IN the_DT necessity_NN ._.
+In_IN all_DT cases_NNS of_IN sick_JJ leave_VBP a_DT medical_JJ certificate_NN may_MD be_VB demanded_VBN ._.
+54_CD ._.
+All_DT students_NNS are_VBP required_VBN to_TO remain_VB until_IN the_DT last_JJ day_NN of_IN each_DT Session_NNP and_CC return_NN by_IN the_DT first_JJ day_NN of_IN the_DT new_JJ Session_NNP ._.
+55_CD ._.
+The_DT holidays_NNS sanctioned_VBD for_IN the_DT Grant_NNP Medical_NNP College_NNP only_RB will_MD be_VB admitted_VBN as_IN such_JJ at_IN this_DT College_NNP ._.
+They_PRP are_VBP as_IN follows_VBZ :12_$ 56_CD ._.
+Lecturers_NNS '_POS Assistants.13_NNP at_IN them_PRP shall_MD be_VB recorded_VBN ,_, and_CC a_DT report_NN of_IN work_NN done_VBN made_VBN monthly_JJ to_TO the_DT Principal_NNP for_IN information_NN and_CC record_NN ._.
+63_CD ._.
+The_DT Shoeing_NNP Forge_NNP shall_MD be_VB used_VBN principally_RB for_IN teaching_VBG purposes_NNS and_CC for_IN special_JJ shoeing_NN of_IN a_DT surgical_JJ nature_NN ._.
+It_PRP ,_, with_IN the_DT accessory_NN rooms_NNS ,_, shall_MD be_VB under_IN the_DT immediate_JJ control_NN of_IN the_DT Instructor_NNP in_IN Practical_NNP Shoeing_NNP ,_, who_WP shall_MD be_VB responsible_JJ for_IN order_NN and_CC discipline_NN in_IN this_DT part_NN of_IN the_DT establishment_NN and_CC that_IN all_DT work_NN and_CC instruction_NN in_IN Shoeing_NNP is_VBZ efficiently_RB carried_VBN out_RP ._.
+64_CD ._.
+Models_NNS ,_, mounted_VBD specimens_NNS and_CC expensive_JJ instruments_NNS not_RB frequently_RB used_VBN ,_, shall_MD be_VB kept_VBN in_IN the_DT Museum_NNP ._.
+They_PRP shall_MD there_RB be_VB on_IN view_NN for_IN purposes_NNS of_IN study_NN ,_, but_CC in_IN no_DT case_NN removed_VBD except_IN by_IN the_DT teachers_NNS when_WRB required_VBN for_IN use_NN in_IN the_DT Lecture_NNP Room_NNP or_CC Hospital_NNP ._.
+The_DT Museum_NNP is_VBZ under_IN charge_NN of_IN the_DT Curator_NNP who_WP shall_MD be_VB respon-_JJ sible_JJ for_IN order_NN and_CC discipline_NN in_IN the_DT Museum_NNP ._.
+65_CD ._.
+The_DT Bái_NNP Sákarbái_NNP Dinsha_NNP Petit_NNP Hospital_NNP for_IN Animals_NNP is_VBZ at_IN the_DT disposal_NN of_IN the_DT College_NNP Officers_NNP for_IN practical_JJ instruction_NN of_IN stu-_JJ dents_NNS ,_, and_CC the_DT Trustees_NNP of_IN the_DT Bombay_NNP Pinjrapole_NNP have_VBP kindly_RB permitted_VBN classes_NNS of_IN senior_JJ students_NNS to_TO benefit_VB by_IN inspections_NNS of_IN the_DT inmates_NNS of_IN their_PRP$ valuable_JJ Institution_NN ._.
+66_CD ._.
+Clinical_JJ Clerks_NNP shall_MD be_VB selected_VBN from_IN among_IN the_DT senior_JJ and_CC more_RBR experienced_JJ students_NNS ,_, and_CC each_DT in_IN turn_NN placed_VBN in_IN charge_NN of_IN one_CD of_IN the_DT wards_NNS of_IN the_DT Hospital_NNP to_TO superintend_VB medical_JJ treatment_NN ,_, nursing_NN of_IN the_DT patients_NNS and_CC proper_JJ record_NN of_IN their_PRP$ cases_NNS ._.
+Satis-_JJ factory_NN performance_NN of_IN the_DT duties_NNS of_IN Clinical_NNP Clerk_NNP shall_MD be_VB recog-_JJ nized_VBN by_IN award_NN of_IN a_DT Certificate_NNP on_IN graduation_NN ._.
+67_CD ._.
+Every_DT student_NN who_WP is_VBZ not_RB a_DT Clinical_JJ Clerk_NNP shall_MD in_IN his_PRP$ turn_NN perform_VB the_DT duties_NNS of_IN Dresser_NNP ._.
+He_PRP will_MD be_VB responsible_JJ that_IN all_DT instructions_NNS as_IN to_TO nursing_NN and_CC medical_JJ treatment_NN of_IN the_DT animals_NNS under_IN his_PRP$ charge_NN are_VBP carried_VBN out_RP by_IN himself_PRP or_CC under_IN his_PRP$ immediate_JJ care_NN ._.
+68_CD ._.
+Hospital_NN Records_NNS shall_MD be_VB kept_VBN by_IN the_DT Clinical_NNP Clerks_NNP under_IN the_DT immediate_JJ supervision_NN of_IN the_DT Assistant_NNP Principal_NNP ._.
+69_CD ._.
+The_DT Pharmacy_NNP and_CC Drug_NNP Store_NNP shall_MD be_VB in_IN immediate_JJ charge_NN of_IN the_DT Assistant_NNP Principal_NNP ._.
+Neither_DT students_NNS nor_CC attendants_NNS shall_MD have_VB free_JJ entry_NN into_IN this_DT part_NN of_IN the_DT Hospital_NNP ,_, and_CC the_DT Assistant_NN Principal_NNP shall_MD be_VB responsible_JJ for_IN proper_JJ preparation_NN of_IN medicines_NNS ,_, and_CC that_IN neither_DT waste_NN nor_CC mistakes_NNS in_IN dispensing_VBG be_VB made_VBN ._.
+Phar-_JJ maccutical_JJ preparations_NNS shall_MD be_VB compounded_VBN ,_, under_IN the_DT immediate_JJ supervision_NN of_IN the_DT Lecturer_NNP on_IN Chemistry_NNP ,_, by_IN the_DT Practical_NNP Phar-_NNP macy_NN class_NN on_IN requisition_NN of_IN the_DT Assistant_NNP Principal_NNP ._.
+70_CD ._.
+Post-mortem_JJ examinations_NNS shall_MD be_VB made_VBN in_IN the_DT case_NN of_IN all_DT animals_NNS dying_VBG in_IN the_DT Hospital_NNP ,_, except_IN when_WRB the_DT owner_NN has_VBZ express-_JJ ed_IN a_DT wish_JJ to_TO the_DT contrary_NN ._.
+The_DT results_NNS shall_MD be_VB recorded_VBN in_IN a_DT book_NN specially_RB kept_VBD for_IN the_DT purpose_NN ._.
+The_DT Post-mortem_NNP examination_NN room_NN shall_MD be_VB under_IN immediate_JJ charge_NN of_IN the_DT Assistant_NNP Principal_NNP ._.
+71_CD ._.
+The_DT Isolation_NNP Ward_NNP of_IN the_DT Infirmary_NNP shall_MD ,_, when_WRB occupied_VBN ,_, be_VB placed_VBN in_IN charge_NN of_IN a_DT special_JJ Clinical_NNP Clerk_NNP fully_RB instructed_VBD as_IN to_TO 14_CD the_DT measures_NNS necessary_JJ for_IN protection_NN of_IN the_DT attendants_NNS and_CC preven-_JJ tion_NN of_IN contagion_NN ._.
+72_CD ._.
+All_DT College_NNP and_CC Hospital_NNP publications_NNS shall_MD be_VB approved_VBN by_IN the_DT Principal_NNP before_IN issue_NN ;_: in_IN all_DT cases_NNS where_WRB he_PRP considers_VBZ them_PRP opposed_VBN to_TO the_DT interests_NNS entrusted_VBD to_TO him_PRP he_PRP may_MD stop_VB them_PRP from_IN being_VBG published_VBN ._.
+73_CD ._.
+The_DT Class_NN Rooms_NNP and_CC Library_NNP of_IN the_DT College_NNP shall_MD be_VB avail-_JJ able_JJ for_IN students_NNS '_POS meetings_NNS at_IN the_DT discretion_NN of_IN the_DT Principal_NNP ._.
+No_DT students_NNS '_POS society_NN bearing_VBG the_DT name_NN of_IN the_DT College_NNP shall_MD be_VB formed_VBN without_IN his_PRP$ consent_NN ._.
+74_CD ._.
+Government_NN does_VBZ not_RB in_IN any_DT case_NN guarantee_NN employment_NN of_IN Graduates_NNP ._.
+75_CD ._.
+There_EX are_VBP quarters_NNS for_IN only_RB 6_CD students_NNS on_IN the_DT College_NNP pre-_NN mises_NNS ,_, but_CC it_PRP is_VBZ hoped_VBN that_IN the_DT demand_NN for_IN lodgings_NNS in_IN the_DT immediate_JJ neighbourhood_NN will_MD ,_, in_IN a_DT short_JJ time_NN ,_, create_VB a_DT supply_NN for_IN the_DT benefit_NN of_IN the_DT students_NNS ._.
+Library_NNP and_CC Reading_NNP Room_NNP ._.
+76_CD ._.
+Government_NN has_VBZ established_VBN at_IN the_DT College_NNP a_DT Library_NNP for_IN reference_NN and_CC for_IN educational_JJ purposes_NNS ._.
+Endeavours_NNS will_MD be_VB made_VBN to_TO supply_VB it_PRP as_RB fully_RB as_IN possible_JJ with_IN veterinary_JJ works_NNS and_CC others_NNS bearing_VBG on_IN the_DT management_NN of_IN lower_JJR animals_NNS in_IN health_NN and_CC disease._NN ,_, by_IN purchase_NN of_IN new_JJ works_NNS as_IN published_VBN and_CC by_IN adding_VBG copies_NNS of_IN other_JJ books_NNS as_IN occasion_NN offers_NNS ._.
+77_CD ._.
+The_DT Library_NNP will_MD also_RB be_VB supplied_VBN with_IN professional_JJ periodi-_JJ cals_NNS ._.
+78_CD ._.
+The_DT books_NNS will_MD be_VB under_IN the_DT care_NN of_IN the_DT Librarian_NNP who_WP will_MD issue_VB them_PRP at_IN the_DT time_NN announced_VBD on_IN the_DT College_NNP Notice_NNP Board_NNP and_CC will_MD be_VB responsible_JJ for_IN order_NN and_CC discipline_NN in_IN the_DT Library_NNP ._.
+79_CD ._.
+A_DT deposit_NN of_IN Rs_NNP ._.
+2_CD will_MD require_VB to_TO be_VB lodged_VBN with_IN the_DT Prin-_NNP cipal_NN by_IN students_NNS desirous_JJ of_IN availing_VBG themselves_PRP of_IN the_DT use_NN of_IN books_NNS from_IN the_DT library_NN ._.
+The_DT deposit_NN will_MD be_VB returned_VBN to_TO them_PRP on_IN their_PRP$ leaving_VBG the_DT College_NNP ._.
+80_CD ._.
+All_DT issues_NNS and_CC returns_NNS will_MD be_VB entered_VBN in_IN a_DT book_NN kept_NN for_IN the_DT purpose_NN ,_, and_CC the_DT Librarian_NNP will_MD bring_VB to_TO the_DT notice_NN of_IN the_DT Principal_NNP weekly_JJ all_DT retention_NN of_IN books_NNS over_IN the_DT proper_JJ time_NN ,_, which_WDT will_MD render_VB the_DT student_NN retaining_VBG them_PRP liable_JJ to_TO a_DT fine_NN of_IN 2_CD annas_NNS per_IN week_NN or_CC part_NN of_IN a_DT week_NN ._.
+The_DT Librarian_JJ shall_MD once_RB a_DT quarter_NN examine_NN all_PDT the_DT books_NNS to_TO ensure_VB that_IN none_NN have_VBP been_VBN lost_VBN and_CC to_TO ascertain_VB which_WDT need_VBP repair_NN ._.
+81_CD ._.
+Any_DT defacement_NN of_IN books_NNS ,_, removal_NN of_IN illustrations_NNS ,_, &_CC c._NN ,_, shall_MD be_VB answered_VBN for_IN by_IN the_DT student_NN having_VBG the_DT work_NN in_IN his_PRP$ possession_NN on_IN loan_NN ,_, and_CC he_PRP shall_MD be_VB liable_JJ for_IN fine_JJ up_IN to_TO the_DT full_JJ original_JJ price_NN of_IN the_DT book_NN ._.
+In_IN receiving_VBG a_DT book_NN ,_, therefore_RB ,_, a_DT student_NN must_MD be_VB careful_JJ to_TO have_VB noted_VBN by_IN the_DT Librarian_JJ any_DT defects_NNS in_IN it_PRP at_IN time_NN of_IN issue_NN ._.
+15_CD 82_CD ._.
+Books_NNP which_WDT require_VBP re-binding_JJ shall_MD be_VB withdrawn_VBN tempora-_JJ rily_RB from_IN the_DT list_NN of_IN those_DT available_JJ for_IN issue_NN and_CC as_RB often_RB as_IN neces-_JJ sary_NN a_DT packet_NN sent_VBD off_RP for_IN repair_NN ._.
+83_CD ._.
+Books_NNP of_IN reference_NN ,_, recorded_VBN in_IN the_DT Catalogue_NNP as_IN such_JJ ,_, must_MD not_RB be_VB removed_VBN from_IN the_DT Library_NNP ._.
+84_CD ._.
+Each_DT new_JJ book_NN on_IN receipt_NN shall_MD be_VB entered_VBN in_IN the_DT Catalogue_NNP and_CC stamped_VBD with_IN the_DT College_NNP mark_NN ,_, and_CC have_VBP a_DT label_NN with_IN number_NN ,_, date_NN of_IN receipt_NN and_CC period_NN for_IN which_WDT it_PRP may_MD be_VB retained_VBN inserted_VBN in_IN it_PRP ._.
+On_IN the_DT back_JJ shall_MD be_VB pasted_VBN a_DT small_JJ label_NN showing_VBG its_PRP$ number_NN and_CC class_NN ._.
+New_NNP books_NNS shall_MD remain_VB in_IN the_DT Library_NNP for_IN one_CD month_NN from_IN date_NN of_IN arrival_NN and_CC then_RB be_VB available_JJ for_IN issue_NN ._.
+Students_NNS may_MD propose_VB new_JJ works_NNS for_IN purchase_NN by_IN entering_VBG the_DT names_NNS ,_, publishers_NNS ,_, and_CC prices_NNS of_IN the_DT works_NNS in_IN a_DT book_NN available_JJ for_IN the_DT purpose_NN ._.
+85_CD ._.
+No_DT periodical_JJ shall_MD be_VB removed_VBN by_IN a_DT student_NN from_IN the_DT Library_NNP until_IN it_PRP has_VBZ been_VBN bound_VBN ._.
+The_DT loose_JJ numbers_NNS will_MD always_RB be_VB available_JJ for_IN reference_NN on_IN the_DT shelves_NNS in_IN a_DT specified_JJ situation_NN ._.
+The_DT periodicals_NNS shall_MD be_VB bound_VBN as_RB soon_RB as_IN possible_JJ after_IN completion_NN of_IN the_DT volumes_NNS ._.
+The_DT periodicals_NNS shall_MD be_VB mustered_VBN every_DT evening_NN before_IN the_DT Library_NNP is_VBZ closed_VBN ._.
+86_CD ._.
+Strict_JJ silence_NN shall_MD be_VB preserved_VBN in_IN the_DT Library_NNP ._.
+Any_DT infringement_NN of_IN this_DT rule_NN will_MD render_VB a_DT student_NN liable_JJ to_TO temporary_JJ deprivation_NN of_IN the_DT privilege_NN of_IN use_NN of_IN the_DT Library_NNP and_CC Reading_NNP Room_NNP for_IN such_JJ a_DT length_NN of_IN time_NN as_IN the_DT Principal_NNP may_MD consider_VB pro-_NN portioned_VBN to_TO the_DT gravity_NN of_IN the_DT offence_NN ._.
+Reading_VBG aloud_NN will_MD not_RB be_VB permitted_VBN ._.
+87_CD ._.
+Any_DT complaints_NNS students_NNS have_VBP to_TO make_VB as_IN regards_NNS the_DT Library_NNP and_CC the_DT Reading_NNP Room_NNP may_MD be_VB entered_VBN in_IN the_DT Complaint_NNP Book_NNP and_CC so_RB brought_VBD to_TO the_DT notice_NN of_IN the_DT Principal_NNP ._.
+88_CD ._.
+Smoking_NN ,_, eating_VBG and_CC spitting_VBG about_IN the_DT Library_NNP are_VBP strictly_RB prohibited_VBN ._.
+89_CD ._.
+Any_DT accidental_JJ spilling_NN of_IN ink_NN on_IN or_CC other_JJ injury_NN to_TO periodi-_JJ cals_NNS or_CC books_NNS of_IN reference_NN in_IN the_DT Reading_NNP Room_NNP should_MD be_VB at_IN once_RB reported_VBN to_TO the_DT Librarian_NNP who_WP will_MD record_VB the_DT details_NNS of_IN the_DT circum-_JJ stance_NN for_IN information_NN of_IN the_DT Principal_NNP ._.
+90_CD ._.
+All_DT writing_NN in_IN books_NNS ,_, underlining_VBG and_CC tracing_VBG over_IN diagrams_NNS and_CC illustrations_NNS ,_, is_VBZ strictly_RB prohibited_VBN ._.
+It_PRP will_MD be_VB considered_VBN defacement_JJ and_CC render_VB the_DT student_NN who_WP thus_RB injures_VBZ a_DT work_NN liable_JJ to_TO fine_VB ._.
+91_CD ._.
+But_CC one_CD volume_NN at_IN a_DT time_NN shall_MD remain_VB in_IN possession_NN of_IN a_DT student_NN ._.
+No_DT transfer_NN of_IN volumes_NNS from_IN one_CD student_NN to_TO another_DT will_MD be_VB permitted_VBN ,_, nor_CC may_MD books_NNS be_VB issued_VBN or_CC lent_JJ to_TO persons_NNS who_WP do_VBP not_RB belong_VB to_TO the_DT College_NNP without_IN express_JJ permission_NN from_IN the_DT Principal_NNP in_IN each_DT case_NN ._.
+92_CD ._.
+Visitors_NNS may_MD use_VB the_DT Library_NNP and_CC Reading_NNP Room_NNP for_IN limited_JJ periods_NNS on_IN written_VBN permission_NN from_IN the_DT Principal_NNP ._.
+BOMBAY_NN :_: PRINTED_NN AT_IN THE_DT GOVERNMENT_NNP CENTRAL_NNP PRESS_NNP ._.

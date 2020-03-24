@@ -1,0 +1,1027 @@
+I.-Report_JJ by_IN Surgeon-Major_JJ Lyons_NNS ,_, I._NNP M._NNP S._NNP ,_, President_NNP of_IN the_DT Plague_NNP Research_NNP Committee_NNP ._.
+The_DT Plague_NNP Research_NNP Committee_NNP was_VBD originally_RB formed_VBN ,_, under_IN Govern-_NNP ment_NN Resolution_NNP ,_, General_NNP Department_NNP ,_, No_NNP ._.
+4533_CD ,_, dated_VBD 13th_CD October_NNP 1896_CD ,_, to_TO inquire_VB into_IN the_DT nature_NN and_CC history_NN of_IN the_DT disease_NN ,_, stated_VBN to_TO be_VB bubonic_JJ plague_NN ,_, of_IN which_WDT a_DT number_NN of_IN cases_NNS had_VBD occurred_VBN in_IN Bombay_NNP City_NNP ._.
+Surg.-Major_JJ R._NNP Manser_NNP ,_, President_NNP ._.
+Surg.-Capt_NNP ._.
+L._NNP F._NNP Childe_NNP ._.
+Dr._NNP Nusservanji_NNP Fakirji_NNP Surveyer_NNP ._.
+Dr._NNP W._NNP M._NNP Haffkine_NNP ._.
+Mr._NNP E._NNP H._NNP Hankin_NNP ._.
+The_DT Committee_NNP was_VBD composed_VBN as_IN per_IN margin_NN ,_, and_CC the_DT members_NNS decided_VBD to_TO distribute_VB the_DT work_NN among_IN them_PRP as_IN follows_VBZ :_: -_: SURG.-MAJOR_JJ MANSER_NN :_: -The_JJ clinical_JJ aspect_NN of_IN the_DT disease_NN ;_: its_PRP$ treatment_NN by_IN drugs_NNS ;_: the_DT source_NN of_IN the_DT Bombay_NNP outbreak_NN ;_: the_DT history_NN of_IN its_PRP$ introduction_NN and_CC spread_NN ;_: and_CC the_DT evidence_NN relating_VBG to_TO its_PRP$ incubation_NN period_NN ._.
+SURG.-CAPT_NNP ._.
+CHILDE_NN :_: -The_JJ macroscopic_NN and_CC microscopic_NN pathology_NN of_IN the_DT disease_NN ._.
+MR._NNP HANKIN_NNP :_: -Its_JJ origin_NN in_IN the_DT outside_JJ world_NN ;_: search_NN for_IN the_DT microbe_NN in_IN food_NN ,_, clothing_NN ,_, bedding_NN ,_, drains_NNS and_CC sea-water_NN ;_: and_CC whether_IN the_DT microbes_JJ surviv-_JJ ed_NN longer_RBR in_IN rotten_JJ than_IN in_IN sound_JJ grain_NN ._.
+DR._NNP SURVEYOR_NNP :_: -The_JJ nature_NN of_IN the_DT disease_NN in_IN rats_NNS and_CC fowls_NN ;_: bacteriological_JJ proof_NN that_IN rats_NNS are_VBP suffering_VBG from_IN the_DT disease_NN ;_: the_DT effects_NNS of_IN antiseptics_NNS on_IN the_DT microbe_NN ,_, and_CC the_DT relative_JJ value_NN of_IN different_JJ antiseptics_NNS practically_RB ._.
+DR._NNP HAFFKINE_NNP :_: -The_NN study_NN of_IN the_DT microbe_NN and_CC its_PRP$ relation_NN to_TO the_DT patient_NN and_CC to_TO the_DT animal_JJ body_NN ;_: the_DT question_NN of_IN its_PRP$ communicability_NN by_IN infection_NN or_CC contagion_NN between_IN man_NN and_CC man_NN ,_, and_CC between_IN man_NN and_CC animals_NNS ,_, inocula-_JJ tions_NNS ,_, etc_FW ._.
+;_: diagnostic_JJ methods_NNS ;_: the_DT period_NN during_IN which_WDT the_DT patient_NN continues_VBZ infectious_JJ ;_: immunity_NN ;_: and_CC antitoxine_VB and_CC other_JJ treatment_NN ._.
+Surg.-Major_JJ Manser_NNP contracted_VBD plague_NN from_IN which_WDT he_PRP died_VBD on_IN 6th_CD January_NNP 1897_CD ,_, and_CC his_PRP$ place_NN on_IN the_DT Committee_NNP was_VBD taken_VBN by_IN me_PRP on_IN the_DT 25th_CD January_NNP 1897_CD ._.
+Dr._NNP Surveyor_NNP has_VBZ been_VBN unable_JJ ,_, owing_VBG to_TO illness_VB ,_, to_TO pursue_VB his_PRP$ line_NN of_IN investigation_NN or_CC to_TO write_VB a_DT report_NN ._.
+The_DT reports_NNS of_IN the_DT other_JJ members_NNS ,_, with_IN the_DT exception_NN of_IN that_DT of_IN Dr._NNP Haffkine_NNP ,_, are_VBP submitted_VBN herewith_NN in_IN full_JJ detail_NN ._.
+Owing_VBG to_TO the_DT pressure_NN of_IN laboratory_NN work_NN ,_, in_IN which_WDT he_PRP is_VBZ still_RB engaged_VBN ,_, Dr._NNP Haffkine_NNP has_VBZ not_RB yet_RB been_VBN able_JJ to_TO arrange_VB the_DT material_NN he_PRP has_VBZ collected_VBN in_IN the_DT form_NN of_IN a_DT report_NN ._.
+Such_JJ suggestions_NNS as_IN have_VBP been_VBN submitted_VBN by_IN the_DT Committee_NNP will_MD be_VB found_VBN in_IN the_DT General_NNP Appendix_NNP ._.
+The_DT members_NNS of_IN the_DT Committee_NNP have_VBP in_IN addition_NN examined_VBN and_CC reported_VBN on_IN a_DT very_RB large_JJ number_NN of_IN specimens_NNS from_IN suspected_VBN plague_NN cases_NNS sent_VBD from_IN every_DT part_NN of_IN India_NNP ;_: experimented_VBN with_IN numerous_JJ antiseptics_NNS sent_VBD for_IN report_NN ;_: and_CC answered_VBD an_DT immense_JJ number_NN of_IN inquiries_NNS addressed_VBN to_TO them_PRP ;_: involving_VBG tedious_JJ laboratory_NN work_NN and_CC a_DT considerable_JJ amount_NN of_IN correspondence_NN ._.
+The_DT difficulties_NNS of_IN laboratory_JJ research_NN were_VBD very_RB great_JJ ,_, owing_VBG to_TO want_VB of_IN apparatus_NN and_CC of_IN trained_JJ and_CC intelligent_JJ assistants_NNS to_TO carry_VB out_RP the_DT ordinary_JJ routine_JJ work_NN ._.
+The_DT portions_NNS of_IN the_DT programme_NN which_WDT devolved_VBD on_IN Surgeon-Captain_NNP Childe_NNP and_CC myself_PRP had_VBD to_TO be_VB carried_VBN out_RP at_IN such_JJ times_NNS as_IN we_PRP could_MD spare_VB from_IN our_PRP$ other_JJ duties_NNS ,_, which_WDT ,_, owing_VBG to_TO the_DT presence_NN of_IN the_DT epidemic_JJ ,_, were_VBD unusually_RB heavy_JJ ._.
+In_IN the_DT present_JJ outbreak_NN of_IN plague_NN the_DT infection_NN was_VBD no_DT doubt_NN imported_VBN from_IN some_DT locality_NN in_IN which_WDT the_DT disease_NN existed_VBD ,_, but_CC the_DT most_RBS searching_JJ inquiry_NN ,_, instituted_VBN at_IN the_DT time_NN it_PRP was_VBD first_RB noticed_VBN ,_, failed_VBD to_TO discover_VB evidence_NN of_IN plague_NN cases_NNS (_( or_CC indeed_RB of_IN any_DT severe_JJ form_NN of_IN sickness_NN except_IN twelve_JJ cases_NNS of_IN cholera_NN )_) on_IN board_NN vessels_NNS which_WDT entered_VBD Bombay_NNP Harbour_NNP after_IN 1st_CD June_NNP 1896_CD ._.
+B_NNP 1751-1_JJ 2_CD Inquiry_NNP was_VBD also_RB instituted_VBN among_IN ship-owners_NNS regarding_VBG any_DT noticeable_JJ mortality_NN among_IN rats_NNS on_IN ships_NNS trading_VBG with_IN China_NNP and_CC ports_NNS where_WRB plague_NN was_VBD known_VBN to_TO have_VB existed_VBN ,_, but_CC in_IN this_DT case_NN also_RB with_IN negative_JJ results_NNS ._.
+As_IN the_DT outbreak_NN commenced_VBD near_IN the_DT Docks_NNP ,_, it_PRP appears_VBZ most_RBS probable_JJ that_IN the_DT infection_NN was_VBD introduced_VBN by_IN sea_NN and_CC carried_VBN in_IN their_PRP$ clothes_NNS or_CC goods_NNS by_IN traders*_NN who_WP were_VBD themselves_PRP insusceptible_JJ ._.
+It_PRP is_VBZ also_RB possible_JJ that_IN it_PRP may_MD have_VB been_VBN introduced_VBN in_IN this_DT way_NN by_IN traders_NNS from_IN Northern_NNP India_NNP ,_, as_IN plague_NN is_VBZ believed_VBN to_TO be_VB endemic_JJ on_IN the_DT southern_JJ slopes_NNS of_IN the_DT Himalayas_NNP ._.
+The_DT disease_NN probably_RB commenced_VBD to_TO spread_VB in_IN Bombay_NNP about_IN the_DT beginning_NN of_IN August_NNP 1896_CD ,_, as_IN the_DT mortality_NN of_IN the_DT city_NN began_VBD to_TO increase_VB in_IN the_DT second_JJ week_NN of_IN that_DT month_NN (_( vide_IN Table_NNP VII_NNP )_) ._.
+This_DT increase_NN in_IN mortality_NN was_VBD attributed_VBN at_IN the_DT time_NN to_TO remittent_VB fever_NN and_CC lung_NN affections_NNS ,_, but_CC as_IN rats_NNS were_VBD dying_VBG in_IN great_JJ numbers_NNS in_IN Mandvi_NNP Ward_NNP ,_, -whore_VBD the_DT death-rate_NN among_IN the_DT population_NN was_VBD unusually_RB high_JJ and_CC where_WRB the_DT prevalence_NN of_IN the_DT epidemic_NN was_VBD first_RB discovered_VBN ,_, there_EX can_MD be_VB little_JJ doubt_NN that_IN the_DT excessive_JJ mortality_NN was_VBD due_JJ to_TO plague_VB ._.
+The_DT epidemic_JJ spread_NN slowly_RB ,_, and_CC the_DT total_JJ mortality_NN continued_VBD to_TO increase_VB until_IN by_IN the_DT second_JJ week_NN in_IN February_NNP the_DT whole_JJ city_NN had_VBD become_VBN infected_JJ ._.
+After_IN that_DT timo_VBZ the_DT mortality_NN began_VBD to_TO decrease_VB ,_, and_CC by_IN the_DT end_NN of_IN May_NNP it_PRP had_VBD fallen_VBN to_TO the_DT normal_JJ and_CC deaths_NNS from_IN plague_NN ceased_VBN to_TO occur_VB ._.
+The_DT official_JJ returns_NNS of_IN deaths_NNS from_IN plague_NN aro_NN for_IN various_JJ reasons_NNS not_RB very_RB accurate_JJ ._.
+A_DT fairly_RB correct_JJ estimate_NN of_IN the_DT mortality_NN can_MD be_VB obtained_VBN ,_, however_RB ,_, by_IN taking_VBG as_IN plague_NN mortality_NN the_DT difference_NN between_IN the_DT weekly_JJ mortality_NN and_CC the_DT mean_NN of_IN the_DT corresponding_JJ weeks_NNS during_IN the_DT preceding_VBG five_CD years_NNS (_( vide_IN Table_NNP VII_NNP )_) ,_, as_IN there_EX was_VBD no_DT other_JJ unusual_JJ cause_NN of_IN sickness_JJ present_NN ._.
+It_PRP must_MD be_VB remembered_VBN that_IN the_DT average_JJ weekly_JJ mortality_NN during_IN the_DT preceding_VBG five_CD years_NNS is_VBZ taken_VBN on_IN a_DT population_NN of_IN 800,000_CD ,_, and_CC that_IN ,_, owing_VBG to_TO the_DT exodus_NN which_WDT occurred_VBD after_IN the_DT outbreak_NN of_IN the_DT epidemic_JJ ,_, the_DT population_NN was_VBD reduced_VBN by_IN from_IN a_DT fourth_JJ to_TO a_DT third_JJ of_IN that_DT number_NN ._.
+The_DT true_JJ incidence_NN of_IN the_DT disease_NN was_VBD consequently_RB considerably_RB heavier_RBR during_IN the_DT later_JJ weeks_NNS than_IN shown_VBN in_IN the_DT table_NN ,_, and_CC this_DT error_NN is_VBZ a_DT gradually_RB increasing_VBG one_CD growing_VBG with_IN the_DT decrease_NN of_IN the_DT population_NN ._.
+It_PRP has_VBZ been_VBN stated_VBN that_IN in_IN other_JJ places_NNS outbreaks_NNS were_VBD often_RB preceded_VBN by_IN the_DT appearance_NN of_IN cases_NNS of_IN painless_NN buboes_NNS unaccompanied_VBN by_IN vomiting_VBG ,_, fever_NN ,_, headache_NN or_CC other_JJ symptoms_NNS of_IN plague_NN ,_, but_CC this_DT was_VBD not_RB observed_VBN in_IN Bombay_NNP ._.
+It_PRP may_MD here_RB be_VB noted_VBN that_IN the_DT great_JJ difficulty_NN which_WDT arises_VBZ in_IN tracing_VBG the_DT mode_NN of_IN infection_NN and_CC the_DT course_NN of_IN plague_NN as_IN compared_VBN with_IN the_DT other_JJ more_JJR common_JJ infectious_JJ diseases_NNS is_VBZ due_JJ to_TO two_CD facts-viz._NN ,_, that_IN animals_NNS such_JJ as_IN rats_NNS readily_RB contract_NN and_CC afterwards_NNS spread_VBP the_DT disease_NN ,_, and_CC that_IN the_DT microbe_NN is_VBZ capable_JJ of_IN thriving_VBG and_CC multiplying_VBG outside_IN the_DT animal_JJ body_NN ,_, as_IN is_VBZ seen_VBN ,_, for_IN example_NN ,_, when_WRB it_PRP is_VBZ cultivated_VBN in_IN broth_DT or_CC on_IN ghee_NN ._.
+It_PRP is_VBZ evident_JJ that_IN infection_NN may_MD be_VB carried_VBN by_IN rats_NNS to_TO persons_NNS who_WP have_VBP never_RB been_VBN brought_VBN into_IN contact_NN with_IN plague_NN patients_NNS ,_, nor_CC with_IN persons_NNS visiting_VBG plague_NN patients_NNS ,_, and_CC whose_WP$ food_NN and_CC clothing_NN could_MD not_RB have_VB been_VBN contaminated_VBN in_IN any_DT other_JJ way_NN ._.
+On_IN the_DT other_JJ hand_NN the_DT germs_NNS may_MD bo_VB convoyed_VBN by_IN persons_NNS who_WP are_VBP themselves_PRP insusceptible_JJ to_TO plague_VB ,_, and_CC ,_, having_VBG grown_VBN and_CC multiplied_VBN on_IN suitable_JJ media_NNS and_CC under_IN favourable_JJ condi-_JJ tions_NNS ,_, may_MD infect_VB large_JJ numbers_NNS of_IN people_NNS who_WP have_VBP never_RB come_VBN into_IN contact_NN with_IN plague_NN patients_NNS ,_, their_PRP$ attendants_NNS or_CC plague-stricken_JJ rats_NNS ._.
+The_DT development_NN of_IN plague_NN in_IN an_DT epidemic_JJ form_NN was_VBD believed_VBN by_IN many_JJ per-_JJ sons_NNS to_TO be_VB duo_VBN to_TO rotten_VB grain_NN which_WDT had_VBD been_VBN buried_VBN underground_JJ ,_, and_CC it_PRP was_VBD thought_VBN by_IN some_DT ,_, infected_VBN with_IN plague_NN germs_NNS ._.
+Had_NNP rotten_NN or_CC diseased_VBN grain_NN been_VBN sold_VBN as_IN food_NN (_( and_CC there_EX was_VBD no_DT evidence_NN that_IN this_DT took_VBD place_NN )_) ,_, it_PRP would_MD in_IN all_DT probability_NN have_VBP given_VBN rise_NN to_TO digestive_JJ disorders_NNS ,_, and_CC in_IN so_RB far_RB have_VBP predis-_NNS posed_VBN to_TO plague_VB ;_: but_CC if_IN the_DT grain_NN had_VBD been_VBN infected_VBN with_IN plague_NN bacilli_NN ,_, the_DT disease_NN would_MD have_VB appeared_VBN in_IN several_JJ localties_NNS simultaneously_RB ,_, wherever_IN the_DT infected_JJ grain_NN had_VBD been_VBN eaten_VBN ._.
+It_PRP is_VBZ impossible_JJ to_TO believe_VB ,_, too_RB ,_, that_IN large_JJ stores_NNS of_IN infected_VBN grain_NN could_MD have_VB been_VBN sold_VBN without_IN giving_VBG rise_NN to_TO an_DT outbreak_NN of_IN disease_NN *_NNP Dr._NNP Jan_NNP Mahomed_NNP 's_POS first_JJ casos_NN occurred_VBD towards_IN the_DT end_NN o_JJ September_NNP among_IN Mooltanis_NNP who_WP trade_VBP with_IN China_NNP ,_, and_CC who_WP lived_VBD near_IN the_DT docks_NNS ._.
+3_CD among_IN grain-sellers_NNS throughout_IN Bombay_NNP ._.
+It_PRP is_VBZ well_RB known_VBN that_IN this_DT spreading_NN of_IN the_DT disease_NN far_RB and_CC wide_JJ among_IN grain-dealers_NNS did_VBD not_RB occur_VB ,_, and_CC the_DT 64_CD grain_NN and_CC flour_NN sellers_NNS ,_, millers_NNS and_CC grain-parchers_NNS who_WP died_VBD from_IN plague_NN between_IN the_DT mouths_NNS of_IN September_NNP 1896_CD and_CC January_NNP 1897_CD ,_, died_VBD principally_RB in_IN infected_JJ localities_NNS in_IN the_DT neighbourhood_NN of_IN the_DT Docks_NNP where_WRB the_DT disease_NN first_RB appeared_VBD ,_, but_CC did_VBD not_RB themselves_PRP form_VBP centres_NNS from_IN which_WDT the_DT disease_NN spread_NN in_IN unaffected_JJ districts_NNS ._.
+The_DT epidemic_NN was_VBD observed_VBN to_TO increase_VB notably_RB during_IN the_DT cold_JJ season_NN and_CC to_TO decline_VB during_IN the_DT hob_NN weather_NN (_( vide_IN Table_NNP VIL_NNP )_) ._.
+This_DT increase_NN during_IN the_DT cold_JJ months_NNS was_VBD probably_RB due_JJ ,_, to_TO a_DT groat_NN extent_NN ,_, to_TO the_DT sick_JJ and_CC healthy_JJ occu-_JJ pying_VBG the_DT same_JJ rooms_NNS during_IN the_DT day_NN and_CC sleeping_VBG together_RB at_IN night_NN ,_, and_CC also_RB to_TO the_DT depressing_JJ effects_NNS of_IN cold_NN ._.
+During_IN the_DT warm_JJ months_NNS the_DT poor_JJ live_JJ under_IN much_JJ inoro_NN sanitary_JJ conditions_NNS than_IN in_IN the_DT cold_JJ season_NN ._.
+The_DT influence_NN of_IN animals_NNS in_IN spreading_VBG the_DT disease_NN was_VBD ,_, with_IN the_DT exception_NN of_IN rats_NNS ,_, probably_RB inappreciable_JJ ._.
+A_DT searching_VBG inquiry_NN at_IN Damaun_NNP ,_, where_WRB there_EX were_VBD great_JJ numbers_NNS of_IN pigs_NNS at_IN large_JJ in_IN the_DT streets_NNS ,_, elicited_VBD no_DT evidence_NN of_IN a_DT single_JJ death_NN ,_, or_CC even_RB of_IN an_DT appearance_NN of_IN sickness_NN among_IN pigs_NNS ,_, although_IN an_DT exceptionally_RB severe_JJ epidemic_NN of_IN plague_NN had_VBD visited_VBN the_DT town_NN ._.
+Sheep_NNP ,_, goats_NNS ,_, horses_NNS and_CC cows_NNS were_VBD unaffected_JJ ._.
+There_EX was_VBD evidence_NN (_( post-mortem_NN )_) of_IN a_DT dog_NN having_VBG been_VBN affected_JJ ,_, but_CC none_NN that_WDT cats_VBZ contracted_VBD the_DT disease_NN ._.
+Birds_NNS were_VBD not_RB at_IN all_DT affected_JJ ._.
+In_IN the_DT epidemic_NN at_IN present_JJ going_VBG on_IN at_IN Hardwar_NNP ,_, monkeys_NNS are_VBP infected_VBN and_CC dying_VBG in_IN considerable_JJ numbers_NNS ._.
+The_DT grey_NN monkey_NN is_VBZ very_RB susceptible_JJ to_TO plague_VB and_CC rarely_RB recovers_NNS ,_, the_DT brown_JJ monkey_NN is_VBZ much_RB less_RBR severely_RB affected_JJ ._.
+The_DT influence_NN of_IN ants_NNS and_CC bugs_NNS in_IN spreading_VBG the_DT disease_NN is_VBZ considered_VBN by_IN Mr._NNP Hankin_NNP (_( vide_IN his_PRP$ report_NN )_) to_TO be_VB unimportant_JJ ,_, An_DT alluvial_JJ soil_NN ,_, situated_VBN at_IN a_DT low_JJ level_NN ,_, copiously_RB watered_VBN ,_, associated_VBN with_IN a_DT high_JJ degree_NN of_IN atmospheric_JJ moisture_NN and_CC a_DT temperature_NN of_IN 80_CD F._NNP (_( conditions_NNS which_WDT are_VBP fulfilled_VBN by_IN seaports_NNS like_IN Bombay_NNP )_) ,_, are_VBP generally_RB looked_VBN upon_IN as_IN those_DT most_RBS favourable_JJ for_IN the_DT development_NN of_IN plague_NN to_TO epidemic_VB proportions_NNS ._.
+But_CC as_RB far_RB as_IN can_MD bo_VB judged_VBN ,_, the_DT Bombay_NNP outbreak_NN ,_, where_WRB these_DT conditions_NNS obtained_VBD ,_, was_VBD certainly_RB no_RB more_RBR severe_JJ than_IN that_DT which_WDT has_VBZ since_IN occurred_VBN at_IN Kirkee_NNP ._.
+In_IN the_DT latter_JJ place_NN the_DT soil_NN is_VBZ of_IN laterite_NN and_CC well_RB drained_VBN ,_, and_CC the_DT cantonment_NN has_VBZ a_DT high_JJ situation_NN ,_, a_DT small_JJ rainfall_NN and_CC a_DT dry_JJ atmosphere_NN ._.
+All_DT observers_VBZ up_RP to_TO the_DT present_JJ time_NN have_VBP connected_VBN the_DT occurrence_NN and_CC diffusion_NN of_IN the_DT disease_NN with_IN want_NN and_CC filth_NN ,_, and_CC there_RB seems_VBZ to_TO be_VB no_DT doubt_NN that_IN these_DT factors_NNS do_VBP favour_VB it_PRP ,_, in_IN so_RB far_RB as_IN they_PRP lower_VBP the_DT general_JJ health_NN and_CC diminish_JJ natural_JJ immunity_NN ._.
+But_CC it_PRP will_MD bo_VB seen_VBN that_IN filth_NN per_IN se_NN has_VBZ but_CC little_JJ influence_NN ,_, from_IN the_DT fact_NN that_IN there_EX occurred_VBN in_IN the_DT House_NNP of_IN Correction_NNP ,_, Byculla_NNP ,_, where_WRB cleanliness_NN is_VBZ brought_VBN as_IN nearly_RB to_TO perfection_NN as_IN is_VBZ attainable_JJ ,_, an_DT outbreak_NN which_WDT exceeded_VBD in_IN severity_NN that_IN in_IN any_DT of_IN the_DT filthy_JJ chawls_NN and_CC tenements_NNS around_IN ._.
+There_EX were_VBD 345_CD prisoners_NNS confined_VBN in_IN this_DT jail_NN when_WRB plague_NN broke_VBD out_RP there_RB on_IN the_DT 23rd_CD January_NNP 1897_CD ,_, the_DT outbreak_NN lasted_VBD for_IN 15_CD days_NNS ,_, and_CC in_IN that_DT time_NN 88_CD prisoners_NNS were_VBD attacked_VBN ,_, 17_CD of_IN whom_WP died_VBD ._.
+It_PRP is_VBZ a_DT significant_JJ fact_NN ,_, too_RB ,_, in_IN this_DT connection_NN that_IN out_IN of_IN 1.570_CD patients_NNS treated_VBN at_IN the_DT Arthur_NNP Road_NNP ,_, and_CC Parel_NNP Hospitals_NNP there_EX were_VBD only_RB 10_CD sweepers_NNS ,_, and_CC that_IN the_DT halacores_NNS who_WP remove_VBP the_DT night-soil_NN from_IN the_DT houses_NNS ,_, and_CC who_WP form_VBP probably_RB the_DT dirtiest_JJS portion_NN of_IN the_DT population_NN ,_, were_VBD notably_RB free_JJ from_IN plague_NN ._.
+It_PRP is_VBZ true_JJ they_PRP are_VBP a_DT strong_JJ well-_NN nourished_JJ class_NN ,_, of_IN whom_WP only_RB the_DT fittest_JJS have_VBP survived_VBN ,_, and_CC they_PRP are_VBP highly_RB paid_VBN and_CC live_JJ well_NN ._.
+The_DT predisposing_NN causes_NNS were_VBD mainly_RB those_DT leading_VBG to_TO a_DT lower_JJR state_NN of_IN vitality_NN ,_, and_CC which_WDT consequently_RB lessened_VBD the_DT natural_JJ resistance_NN of_IN the_DT individual_NN to_TO infection_NN ._.
+In_IN this_DT way_NN ,_, as_IN above_NN mentioned_VBD ,_, the_DT long-continued_JJ and_CC excep-_JJ tionally_RB hot_JJ season_NN of_IN 1896_CD ,_, the_DT unusually_RB heavy_JJ rainfall_NN which_WDT followed_VBD and_CC which_WDT confined_VBD the_DT poor_JJ constantly_RB in_IN their_PRP$ overcrowded_JJ and_CC insanitary_JJ dwellings_NNS ,_, and_CC the_DT great_JJ heat_NN which_WDT succeeded_VBD the_DT rains_NNS ,_, were_VBD powerful_JJ factors_NNS in_IN lowering_VBG vitality_NN ._.
+Then_RB came_VBD scarcity_NN due_JJ to_TO dearness_VB of_IN food_NN ._.
+During_IN the_DT cold_JJ season_NN the_DT unhealthy_JJ condition_NN of_IN chawls_NN (_( native_JJ flats_NNS )_) and_CC houses_NNS in_IN the_DT city_NN was_VBD rendered_VBN worse_JJR by_IN overcrowding_VBG ,_, the_DT inmates_NNS being_VBG unable_JJ to_TO sleep_VB and_CC work_VB in_IN the_DT opon_NN ,_, as_IN large_JJ numbers_NNS of_IN them_PRP are_VBP accustomed_VBN to_TO do_VB during_IN the_DT warmer_JJ months_NNS ._.
+Indeed_RB ,_, the_DT effect_NN of_IN cold_JJ alone_NN on_IN the_DT feeble_JJ and_CC on_IN those_DT who_WP are_VBP insufficiently_RB clothed_VBN ,_, as_IN already_RB mentioned_VBN ,_, is_VBZ a_DT powerful_JJ factor_NN in_IN lessening_VBG resistance_NN to_TO infection_NN ._.
+4_CD The_DT largest_JJS number_NN of_IN admissions_NNS into_IN hospital_NN occurred_VBD between_IN the_DT ages_NNS of_IN 20_CD and_CC 30_CD years_NNS ._.
+At_IN the_DT Arthur_NNP Road_NNP Hospital_NNP ,_, Bombay_NNP ,_, out_IN of_IN 1,275_CD admissions_NNS ,_, 445_CD or_CC 349_CD %_NN occurred_VBD between_IN the_DT ages_NNS of_IN 20_CD and_CC 30_CD years_NNS ;_: 291_CD or_CC 228_CD %_NN between_IN 10_CD and_CC 20_CD years_NNS ;_: and_CC 255_CD or_CC 20_CD %_NN between_IN 30_CD and_CC 40_CD years_NNS ._.
+In_IN the_DT Poona_NNP Plague_NNP Hospital_NNP out_IN of_IN 1,130_CD admissions_NNS ,_, 263_CD or_CC 2327_CD %_NN occurred_VBD between_IN the_DT ages_NNS of_IN 20_CD and_CC 30_CD ;_: 137_CD or_CC 2097_CD %_NN between_IN the_DT ages_NNS of_IN 10_CD and_CC 20_CD years_NNS ,_, and_CC 197_CD or_CC 1743_CD %_NN between_IN the_DT ages_NNS of_IN 30_CD and_CC 40_CD ._.
+A_DT constant_JJ source_NN of_IN error_NN in_IN these_DT statistics_NNS is_VBZ that_IN the_DT ages_NNS of_IN those_DT admitted_VBN are_VBP seldom_RB or_CC never_RB exactly_RB known_VBN ,_, consequently_RB those_DT given_VBN are_VBP only_RB approximate_JJ ._.
+Another_DT source_NN of_IN error_NN is_VBZ that_IN in_IN young_JJ children_NNS death_NN from_IN plague_NN frequently_RB occurs_VBZ before_IN the_DT nature_NN of_IN the_DT disease_NN is_VBZ recognised_VBN ,_, so_IN they_PRP are_VBP not_RB admitted_VBN into_IN the_DT plague_NN hospitals_NNS ._.
+In_IN the_DT case_NN of_IN children_NNS ,_, however_RB ,_, the_DT very_RB small_JJ number_NN of_IN admissions_NNS (_( vide_IN Tables_NNP I._NNP and_CC II_NNP )_) is_VBZ no_DT doubt_NN partly_RB due_JJ to_TO the_DT smaller_JJR number_NN exposed_VBN to_TO infection_NN ,_, as_IN the_DT exodus_NN which_WDT took_VBD place_NN on_IN the_DT outbreak_NN of_IN the_DT epidemic_NN was_VBD very_RB largely_RB confined_VBN to_TO women_NNS and_CC children_NNS ._.
+The_DT withdrawal_NN of_IN the_DT women_NNS gave_VBD rise_NN to_TO a_DT marked_JJ decrease_NN (_( vide_IN Table_NNP VII_NNP ._. )_)
+in_IN the_DT birth-rate_NN of_IN the_DT city_NN ,_, which_WDT during_IN the_DT ten_JJ months_NNS under_IN review_NN fell_VBD below_IN the_DT mean_NN of_IN the_DT preceding_VBG five_CD years_NNS for_IN the_DT same_JJ period_NN by_IN 3,685_CD ._.
+That_DT young_JJ adults_NNS should_MD give_VB the_DT highest_JJS number_NN of_IN admissions_NNS is_VBZ not_RB surprising_JJ ,_, as_IN they_PRP form_VBP the_DT largest_JJS proportion_NN of_IN the_DT population_NN ,_, and_CC they_PRP travel_VBP about_IN more_JJR ,_, and_CC so_RB are_VBP brought_VBN more_RBR frequently_RB into_IN contact_NN with_IN the_DT disease_NN ._.
+The_DT greatest_JJS number_NN of_IN admissions_NNS into_IN hospital_NN occurred_VBD among_IN domestic_JJ (_( cooks_NNS ,_, hamals_NNS ,_, massalchis_NN ,_, )_) and_CC personal_JJ servants_NNS ,_, (_( vide_IN Table_NNP V._NNP )_) who_WP formed_VBD 2088_CD %_NN ;_: mill-hands_NNS came_VBD next_JJ forming_NN 1153_CD %_NN ;_: coolies_VBZ 88_CD %_NN ._.
+The_DT comparatively_RB large_JJ number_NN of_IN dhobies_NNS (_( native_JJ washermen_NNS )_) ,_, dirzis_FW (_( tailors_NNS )_) ,_, gowlies_NNS (_( milkmen_NNS )_) and_CC hajams_$ (_( barbers_NNS )_) deserves_VBZ notice_RB ,_, as_IN from_IN their_PRP$ occupation_NN they_PRP are_VBP likely_JJ to_TO spread_VB the_DT disease_NN ._.
+The_DT large_JJ percentage_NN of_IN admissions_NNS among_IN domestic_JJ servants_NNS is_VBZ doubtless_JJ duo_NN to_TO the_DT disease_NN being_VBG detected_VBN early_RB ,_, and_CC to_TO their_PRP$ masters_NNS seeing_VBG that_IN they_PRP were_VBD taken_VBN to_TO hospital_NN ._.
+*_NN It_PRP is_VBZ impossible_JJ to_TO estimate_VB the_DT influence_NN of_IN race_NN and_CC caste_NN on_IN susceptibility_NN to_TO plague_VB ,_, owing_VBG to_TO Europeans_NNPS living_VBG under_IN very_RB different_JJ sanitary_JJ conditions_NNS from_IN natives_NNS ,_, and_CC to_TO the_DT effect_NN of_IN social_JJ position_NN in_IN altering_VBG the_DT conditions_NNS obtaining_VBG among_IN natives_JJ themselves_PRP ;_: besides_NNS ,_, correct_JJ statistics_NNS can_MD not_RB be_VB obtained_VBN as_IN to_TO the_DT native_JJ population_NN present_NN during_IN the_DT epidemic_JJ and_CC the_DT numbers_NNS attacked_VBN by_IN plague_NN ._.
+That_DT more_JJR males_NNS than_IN females_NNS were_VBD attacked_VBN (_( vide_IN Table_NNP IV_NNP ._. )_)
+is_VBZ probably_RB entirely_RB owing_VBG to_TO the_DT former_JJ having_VBG been_VBN present_JJ in_IN larger_JJR number_NN ._.
+The_DT exciting_JJ cause_NN of_IN plague_NN is_VBZ the_DT plague_JJ bacillus_NN of_IN Kitasato_NNP ,_, which_WDT is_VBZ believed_VBN to_TO gain_VB admission_NN to_TO the_DT body_NN ,_, usually_RB through_IN an_DT abrasion_NN of_IN the_DT skin_NN ,_, or_CC more_RBR rarely_RB of_IN a_DT mucous_JJ surface_NN ._.
+In_IN a_DT number_NN of_IN instances_NNS in_IN the_DT present_JJ epidemic_JJ points_NNS of_IN inoculation_NN were_VBD found_VBN on_IN the_DT extremities_NNS of_IN plague_NN patients_NNS ,_, from_IN which_WDT plague_NN cultures_NNS were_VBD obtained_VBN ,_, and_CC in_IN these_DT cases_NNS buboes_NNS were_VBD found_VBN above_IN the_DT point_NN of_IN inoculation_NN ._.
+In_IN the_DT majority_NN of_IN instances_NNS however_RB no_DT local_JJ indication_NN could_MD be_VB found_VBN marking_VBG the_DT point_NN at_IN which_WDT the_DT microbe_NN was_VBD implanted_VBN ._.
+Less_RBR frequently_RB infection_NN is_VBZ believed_VBN to_TO have_VB occurred_VBN in_IN the_DT respiratory_NN organs_NNS or_CC in_IN the_DT digestive_JJ tract_NN ._.
+When_WRB the_DT disease_NN appears_VBZ in_IN the_DT form_NN of_IN primary_JJ plague_NN pneumonia_NN ,_, it_PRP may_MD be_VB caused_VBN by_IN the_DT inhalation_NN of_IN bacilli_NN disseminated_VBN in_IN the_DT air_NN by_IN patients_NNS as_IN they_PRP cough_VBP ,_, or_CC it_PRP may_MD be_VB carried_VBN by_IN the_DT blood_NN vessels_NNS ,_, or_CC lymphatic_JJ vessels_NNS to_TO the_DT lungs_NNS ,_, where_WRB it_PRP developes_VBZ ._.
+When_WRB a_DT monkey_NN is_VBZ inoculated_VBN by_IN pricking_VBG its_PRP$ hand_NN with_IN a_DT needle_JJ dipped_NN in_IN plague_JJ culture_NN ,_, the_DT slight_NN wound_NN made_VBD disappears_NNS in_IN a_DT couple_NN of_IN days_NNS ,_, and_CC leaves_VBZ no_DT indication_NN of_IN the_DT point_NN at_IN which_WDT inoculation_NN was_VBD performed_VBN ._.
+After_IN 4_CD or_CC 5_CD days_NNS a_DT bubo_NN appears_VBZ in_IN the_DT axilla_NN or_CC at_IN the_DT bend_NN of_IN the_DT elbow_NN ,_, and_CC the_DT symptoms_NNS of_IN plague_NN develop_NN ._.
+The_DT lymph_NN from_IN the_DT bubo_NN in_IN these_DT cases_NNS contains_VBZ plague_JJ bacilli_NN in_IN great_JJ numbers_NNS ,_, from_IN which_WDT cultures_NNS can_MD be_VB made_VBN ._.
+In_IN the_DT case_NN of_IN man_NN also_RB ,_, as_IN already_RB mentioned_VBN ,_, the_DT point_NN at_IN which_WDT inoculation_NN occurred_VBD was_VBD but_CC rarely_RB discovered_VBD ._.
+Plague_NNP bacilli_NN could_MD however_RB be_VB obtained_VBN in_IN immense_JJ numbers_NNS ,_, and_CC cultures_NNS made_VBN ,_, from_IN lymph_NN taken_VBN from_IN buboes_NNS ._.
+In_IN septicæmic_JJ cases_NNS they_PRP could_MD For_IN the_DT purpose_NN of_IN comparison_NN ,_, it_PRP was_VBD intended_VBN to_TO have_VB also_RB given_VBN a_DT statement_NN showing_VBG the_DT number_NN of_IN deaths_NNS from_IN plague_NN in_IN Bombay_NNP City_NNP according_VBG to_TO occupation_NN (_( Table_NNP VI_NNP )_) ,_, but_CC information_NN could_MD only_RB be_VB obtained_VBN up_IN to_TO 31st_CD December_NNP 1896_CD ._.
+5_CD be_VB obtained_VBN from_IN the_DT blood_NN as_RB well_RB as_IN from_IN lymph_NN from_IN enlarged_JJ glands_NNS ;_: and_CC in_IN pneumonic_JJ cases_NNS they_PRP were_VBD obtainable_JJ from_IN the_DT sputa_NN and_CC from_IN enlarged_VBN glands_NNS when_WRB present_NN ._.
+Bacilli_NNP were_VBD probably_RB also_RB present_JJ as_IN a_DT rule_NN in_IN the_DT sputa_NN ,_, vomit_NN ,_, urine_JJ and_CC fces_NNS of_IN plague_NN patients_NNS ,_, but_CC they_PRP were_VBD hardly_RB ever_RB found_VBN in_IN the_DT blood_NN taken_VBN from_IN the_DT finger_NN in_IN cases_NNS where_WRB a_DT bubo_NN was_VBD present_JJ from_IN the_DT first_JJ ._.
+The_DT slow_JJ spread_NN of_IN plague_NN and_CC the_DT immunity_NN observed_VBD among_IN hospital_JJ ser-_JJ vants_NNS ,_, nurses_NNS and_CC medical_JJ men_NNS who_WP were_VBD in_IN constant_JJ contact_NN with_IN the_DT disease_NN ,_, handling_VBG the_DT sick_NN ,_, and_CC making_VBG post-mortem_JJ examinations_NNS ,_, indicates_VBZ that_IN the_DT germs_NNS produced_VBN in_IN the_DT bodies_NNS of_IN the_DT sick_JJ are_VBP but_CC little_JJ infectious_JJ to_TO healthy_JJ persons_NNS under_IN ordinary_JJ circumstances_NNS ._.
+The_DT conditions_NNS under_IN which_WDT they_PRP become_VBP virulent_NN will_MD only_RB be_VB known_VBN when_WRB the_DT life_NN history_NN of_IN the_DT microbe_NN outside_IN the_DT body_NN has_VBZ been_VBN traced_VBN ._.
+Infection_NN occurred_VBD most_RBS frequently_RB among_IN those_DT living_VBG in_IN the_DT same_JJ rooms_NNS with_IN ,_, and_CC in_IN constant_JJ attendance_NN on_IN ,_, the_DT sick_NN ,_, and_CC there_EX can_MD be_VB little_JJ doubt_NN but_CC that_IN among_IN the_DT poor_JJ and_CC ignorant_JJ it_PRP was_VBD often_RB due_JJ to_TO the_DT common_JJ custom_NN which_WDT exists_VBZ of_IN friends_NNS receiving_VBG the_DT sputa_NN of_IN the_DT sick_NN in_IN their_PRP$ hands_NNS ,_, *_NN and_CC using_VBG their_PRP$ hands_NNS and_CC clothing_NN to_TO wipe_VB away_RP discharges_NNS from_IN the_DT patient_NN 's_POS mouth_NN ._.
+It_PRP is_VBZ easy_JJ to_TO understand_VB also_RB that_DT want_NN of_IN personal_JJ cleanliness_NN among_IN the_DT friends_NNS of_IN those_DT affected_JJ ,_, and_CC the_DT neglect_NN of_IN precautions_NNS as_IN to_TO the_DT disinfection_NN of_IN clothing_NN soiled_VBN by_IN the_DT discharges_NNS and_CC excreta_NN of_IN the_DT sick_JJ were_VBD fruitful_JJ sources_NNS of_IN infection_NN ._.
+Plague_NN in_IN its_PRP$ epidemic_JJ form_NN ,_, as_IN seen_VBN in_IN Bombay_NNP ,_, is_VBZ a_DT malignant_JJ infectious_JJ disease_NN characterized_VBN ,_, in_IN the_DT majority_NN of_IN cases_NNS ,_, by_IN enlarged_VBN and_CC painful_JJ lymphatic_JJ glands_NNS ,_, high_JJ fever_NN and_CC great_JJ prostration_NN ;_: and_CC is_VBZ due_JJ to_TO the_DT presence_NN in_IN the_DT system_NN of_IN the_DT plague_NN bacillus_NN ._.
+In_IN the_DT Bombay_NNP epidemic_VBZ the_DT period_NN of_IN incubation_NN varied_VBN in_IN duration_NN from_IN 36_CD hours_NNS ,_, the_DT shortest_JJS ,_, to_TO ten_VB days_NNS ,_, the_DT longest_JJS recorded_VBN ,_, while_IN in_IN the_DT majority_NN of_IN cases_NNS the_DT period_NN of_IN incubation_NN appeared_VBD to_TO be_VB from_IN four_CD to_TO six_CD days_NNS ._.
+No_DT definite_JJ history_NN of_IN premonitory_NN symptoms_NNS could_MD be_VB obtained_VBN ,_, the_DT invasion_NN being_VBG ,_, as_IN a_DT rule_NN ,_, sudden_JJ and_CC marked_VBN by_IN severe_JJ rigors_NNS or_CC by_IN chills_NNS ._.
+In_IN infants_NNS and_CC young_JJ children_NNS convulsions_NNS frequently_RB ushered_VBN in_IN the_DT attack_NN ._.
+In_IN a_DT small_JJ pro-_JJ portion_NN of_IN cases_NNS ,_, however_RB ,_, no_DT marked_JJ onset_NN was_VBD noticed_VBN ,_, the_DT patients_NNS stating_VBG that_IN the_DT disease_NN began_VBD with_IN fever_NN ,_, heat_NN of_IN the_DT skin_NN and_CC pains_NNS in_IN the_DT limbs_NNS ._.
+These_DT cases_NNS usually_RB ran_VBP a_DT mild_JJ course_NN ending_VBG in_IN recovery_NN ._.
+The_DT symptoms_NNS in_IN a_DT typically_RB severe_JJ case_NN generally_RB commenced_VBN with_IN a_DT well_NN marked_VBN rigor_NN ,_, which_WDT was_VBD followed_VBN by_IN fever_NN ,_, accompanied_VBN by_IN vomiting_VBG ,_, headache_NN and_CC intolerance_NN of_IN light_NN ,_, pain_NN in_IN the_DT epigastrium_NN and_CC frequently_RB also_RB in_IN the_DT back_NN and_CC limbs_NN ._.
+Thirst_NNP was_VBD unusually_RB much_JJ complained_VBN of_IN ._.
+The_DT temperature_NN rapidly_RB rose_VBD to_TO 104_CD F._NNP or_CC more_JJR ,_, reaching_VBG its_PRP$ maximum_NN ,_, often_RB 105_CD F._NNP or_CC 106_CD F._NNP on_IN the_DT evening_NN of_IN the_DT second_JJ or_CC ,_, more_RBR rarely_RB ,_, on_IN the_DT first_JJ day_NN ;_: occasionally_RB a_DT remission_NN of_IN 1_CD F_NNP ,_, or_CC sometimes_RB more_JJR ,_, occurred_VBD during_IN the_DT day_NN ,_, but_CC with_IN no_DT regularity_NN as_IN to_TO time_NN ._.
+A_DT well_NN marked_VBN fall_NN in_IN temperature_NN of_IN 2_CD F._NNP to_TO 3_CD F._NNP or_CC more_JJR was_VBD frequently_RB noticed_VBN on_IN the_DT second_JJ or_CC third_JJ day_NN ,_, after_IN which_WDT the_DT temperature_NN rose_VBD again_RB ,_, but_CC seldom_RB to_TO its_PRP$ former_JJ height_NN (_( vide_JJ Charts_NNP III_NNP ,_, IV_NNP ,_, VII_NNP ,_, X_NNP ,_, XV_NNP ,_, XVII_NNP ,_, XVIII_NNP ,_, XIX_NNP ,_, XX_NNP ,_, XXII_NNP )_) ;_: a_DT further_JJ fall_NN to_TO normal_JJ ,_, or_CC subnormal_JJ ,_, occurred_VBD be-_NN tween_NN the_DT fifth_NN and_CC seventh_JJ days_NNS (_( vide_JJ Charts_NNP I_PRP ,_, II_NNP ,_, III_NNP ,_, VIII_NNP ,_, XXII_NNP )_) ._.
+In_IN un-_JJ complicated_JJ cases_NNS a_DT fall_NN to_TO normal_JJ sometimes_RB occurred_VBD on_IN the_DT second_JJ or_CC third_JJ day_NN (_( vide_JJ Charts_NNP XX_NNP ,_, XXVI_NNP )_) ,_, and_CC was_VBD often_RB attributed_VBN to_TO a_DT particular_JJ line_NN of_IN treatment_NN *_NN It_PRP seems_VBZ not_RB improbable_JJ that_IN plague_NN cultures_NNS grow_VBP in_IN the_DT ghee_NN always_RB present_JJ under_IN the_DT nails_NNS of_IN natives_NNS who_WP eat_VBP curry_VBP with_IN their_PRP$ hands_NNS ,_, and_CC that_IN they_PRP often_RB infect_VBP themselves_PRP from_IN the_DT cultures_NNS when_WRB scratching_VBG skin_JJ eruptions_NNS ._.
+&_CC c._VB The_DT case_NN of_IN Chinwal_NNP Khan_NNP reported_VBN by_IN Surgeon-Major_NNP MacCartie_NNP ,_, Health_NNP Officer_NNP of_IN the_DT Port_NNP of_IN Bombay_NNP ,_, on_IN the_DT 11th_CD January_NNP 1897_CD ._.
+Chinwal_NNP Khan_NNP was_VBD a_DT fireman_NN on_IN the_DT S._NNP S._NNP Hydaspes_NNP which_WDT arrived_VBD from_IN Shanghai_NNP (_( an_DT unin-_JJ fected_JJ port_NN )_) on_IN Thursday_NNP ,_, 7th_CD January_NNP ,_, and_CC entered_VBD dock_NN the_DT same_JJ evening_NN ._.
+He_PRP did_VBD not_RB complain_VB of_IN illness_NN during_IN the_DT voyage_NN to_TO Bombay_NNP ,_, and_CC was_VBD on_IN regular_JJ duty_NN up_RB to_TO the_DT evening_NN of_IN the_DT 7th_NNS ._.
+Probably_RB on_IN that_DT evening_NN and_CC certainly_RB on_IN Friday_NNP morning_NN the_DT 8th_CD he_PRP visited_VBD the_DT city_NN ._.
+On_IN Saturday_NNP morning_NN the_DT 9th_CD he_PRP complained_VBD of_IN fever_NN and_CC pain_NN in_IN the_DT groin_NN ,_, and_CC on_IN examination_NN was_VBD found_VBN to_TO be_VB suffering_VBG from_IN plague_NN ._.
+The_DT incubation_NN period_NN in_IN this_DT case_NN was_VBD at_IN most_JJS 11/2_CD days_NNS and_CC may_MD have_VB been_VBN only_RB one_CD day_NN ._.
+Nurse_NNP Joyce_NNP went_VBD to_TO attend_VB on_IN Surgeon-Major_NNP Manser_NNP on_IN the_DT 4th_CD January_NNP at_IN his_PRP$ house_NN ._.
+She_PRP was_VBD in_IN good_JJ health_NN and_CC had_VBD not_RB been_VBN near_IN plague_NN cases_NNS up_RB to_TO that_DT day_NN ._.
+She_PRP nursed_VBD him_PRP from_IN 4th_CD to_TO the_DT morning_NN of_IN the_DT 6th_CD ._.
+She_PRP was_VBD attacked_VBN by_IN plague_NN on_IN the_DT evening_NN of_IN the_DT 7th_CD ,_, and_CC died_VBD on_IN the_DT 9th_CD January_NNP 1897_CD ._.
+This_DT period_NN can_MD not_RB be_VB accepted_VBN as_IN finally_RB settled_VBN ,_, as_IN the_DT person_NN attacked_VBD ,_, a_DT native_NN of_IN Bombay_NNP ,_, may_MD have_VB carried_VBN the_DT infection_NN with_IN him_PRP and_CC infected_VBD himself_PRP in_IN Poona_NNP ,_, where_WRB he_PRP was_VBD attacked_VBN ten_JJ days_NNS after_IN arriving_VBG from_IN Bombay_NNP and_CC before_IN plague_NN had_VBD broken_VBN out_RP in_IN Poona_NNP ._.
+B_NNP 1751-2_JJ 6_CD when_WRB it_PRP was_VBD really_RB the_DT usual_JJ course_NN of_IN the_DT temperature_NN unaffected_VBN by_IN the_DT treatment_NN ._.
+The_DT occurrence_NN of_IN complications_NNS ,_, e._FW g._NNS ,_, the_DT appearance_NN of_IN fresh_JJ buboes_NNS ,_, secondary_JJ pneumonia_NN ,_, &_CC c._NN ,_, gave_VBD rise_NN to_TO great_JJ irregularity_NN in_IN the_DT course_NN of_IN the_DT temperature_NN (_( vide_JJ Charts_NNP II_NNP ,_, XIV_NNP ,_, XX_NNP ,_, XXIII_NNP ,_, XXVIII_NNP )_) ._.
+Nausea_NN and_CC vomiting_NN were_VBD met_VBN with_IN at_IN the_DT onset_NN in_IN almost_RB every_DT case_NN ,_, and_CC frequently_RB continued_VBN for_IN the_DT first_JJ day_NN or_CC two_CD ._.
+Splitting_VBG frontal_NN or_CC general_JJ headache_NN was_VBD present_JJ from_IN the_DT first_JJ and_CC continued_VBN while_IN the_DT temperature_NN remained_VBD high_JJ ,_, subsiding_VBG with_IN the_DT fall_NN which_WDT occurred_VBD on_IN the_DT second_JJ or_CC third_JJ day_NN ._.
+Occasionally_RB epistaxis_RB occurred_VBD about_IN this_DT time_NN ._.
+The_DT countenance_NN was_VBD pale_JJ ;_: the_DT eyes_NNS red_JJ and_CC injected_VBN with_IN bands_NNS of_IN deeper_JJR colour_NN at_IN the_DT outer_NN and_CC inner_JJ canthi_NNS owing_VBG to_TO the_DT eyelids_NNS remaining_VBG constantly_RB unclosed_VBN ._.
+Sleeplessness_NNP was_VBD a_DT distress-_JJ ing_NN symptom_NN ,_, and_CC there_EX was_VBD often_RB delirium_JJ at_IN night_NN ._.
+The_DT pulse_JJ frequent_NN ,_, 100_CD or_CC more_JJR ,_, and_CC full_JJ at_IN the_DT beginning_NN ,_, soon_RB became_VBD soft_JJ ,_, compressible_JJ ,_, and_CC dicrotic_JJ ,_, and_CC eventually_RB running_JJ ,_, so_IN that_IN it_PRP was_VBD difficult_JJ or_CC impossible_JJ to_TO count_VB ._.
+The_DT tongue_NN was_VBD as_IN a_DT rule_NN very_RB characteristic_JJ ._.
+At_IN first_JJ it_PRP was_VBD tooth-indented_JJ ,_, somewhat_RB swollen_JJ ,_, and_CC evenly_RB covered_VBD with_IN a_DT thin_JJ white_JJ fur_NN ,_, except_IN at_IN the_DT tip_NN and_CC edges_NNS ,_, where_WRB it_PRP was_VBD clean_JJ ._.
+Later_RB ,_, it_PRP became_VBD dry_JJ ,_, thickly_RB covered_VBN with_IN a_DT yellowish_JJ white_JJ or_CC brownish-white_JJ fur_NN ,_, the_DT tip_NN and_CC edges_VBZ remaining_VBG red_JJ and_CC irritable_JJ ._.
+The_DT bowels_NNS were_VBD almost_RB always_RB constipated_VBN at_IN first_JJ ,_, but_CC sometimes_RB diarrha_NN was_VBD present_JJ ._.
+Buboes_NNS were_VBD met_VBN with_IN in_IN over_IN three-fourths_NNS of_IN the_DT cases_NNS ,_, and_CC in_IN about_RB half_PDT the_DT number_NN of_IN cases_NNS in_IN which_WDT buboes_NNS were_VBD found_VBN ,_, the_DT glands_NNS of_IN the_DT vertical_JJ set_NN in_IN the_DT groin_NN were_VBD involved_VBN ._.
+They_PRP were_VBD as_IN a_DT rule_NN noticed_VBN at_IN the_DT onset_NN of_IN the_DT disease_NN ,_, giving_VBG rise_NN to_TO lancinating_VBG pain_NN ,_, but_CC in_IN a_DT number_NN of_IN cases_NNS were_VBD not_RB found_VBN until_IN the_DT second_JJ or_CC third_JJ day_NN ._.
+Generally_RB one_CD gland_NN was_VBD markedly_RB affected_VBN ,_, and_CC two_CD or_CC more_JJR adjacent_JJ ones_NNS less_RBR so_RB ._.
+The_DT affected_JJ glands_NNS varied_VBN in_IN size_NN from_IN that_DT of_IN a_DT filbert_NN to_TO a_DT walnut_NN ,_, and_CC they_PRP were_VBD very_RB tender_NN from_IN the_DT first_JJ ,_, although_IN often_RB but_CC little_JJ swollen_NN ._.
+When_WRB in_IN the_DT groin_NN the_DT patient_NN kept_VBD the_DT thigh_JJ well_RB flexed_VBN on_IN the_DT abdomen_NNS in_IN order_NN to_TO relieve_VB tension_NN ._.
+In_IN about_RB two-thirds_NNS of_IN the_DT remaining_VBG cases_NNS the_DT axillary_JJ glands_NNS were_VBD found_VBN to_TO be_VB affected_VBN ,_, the_DT patient_NN usually_RB lying_VBG on_IN his_PRP$ back_NN with_IN the_DT arm_NN held_VBD away_RB from_IN the_DT side_NN and_CC kept_VBD per-_NN fectly_RB still_RB ._.
+In_IN the_DT remaining_VBG third_JJ the_DT glands_NNS below_IN the_DT angle_NN of_IN the_DT jaw_NN or_CC of_IN the_DT superficial_JJ cervical_JJ set_NN were_VBD enlarged_VBN ._.
+As_IN a_DT rule_NN a_DT bubo_NN appeared_VBD only_RB in_IN one_CD region_NN ,_, but_CC sometimes_RB they_PRP were_VBD found_VBN in_IN more_JJR than_IN one_CD region_NN ,_, or_CC on_IN both_DT sides_NNS of_IN the_DT body_NN ._.
+As_IN the_DT disease_NN progressed_VBD the_DT glands_NNS of_IN the_DT same_JJ chain_NN ,_, situated_VBN above_IN those_DT first_JJ affected_JJ ,_, often_RB became_VBD enlarged_JJ ;_: so_CC that_IN in_IN cases_NNS of_IN a_DT femoral_JJ bubo_NN the_DT glands_NNS lying_VBG along_IN the_DT course_NN of_IN the_DT external_JJ iliac_NN and_CC common_JJ iliac_JJ vessel_NN were_VBD also_RB found_VBN to_TO be_VB enlarged_VBN and_CC tender_VB on_IN pressure_NN ._.
+A_DT rise_NN in_IN temperature_NN occurred_VBD with_IN each_DT fresh_JJ gland_NN or_CC group_NN of_IN glands_NNS involved_VBN ._.
+In_IN cases_NNS which_WDT proved_VBD fatal_JJ early_JJ the_DT buboes_NNS continued_VBD hard_JJ and_CC very_RB tender_NN to_TO the_DT last_JJ ;_: while_IN in_IN more_RBR prolonged_JJ cases_NNS effusion_NN ,_, frequently_RB large_JJ in_IN amount_NN ,_, occurred_VBN around_IN them_PRP giving_VBG rise_NN to_TO a_DT doughy_NN or_CC brawny_NN swelling_NN ,_, and_CC often_RB causing_VBG dema_NN of_IN the_DT limb_NN below_IN from_IN pressure_NN on_IN the_DT vessels_NNS and_CC nerves_NNS ._.
+With_IN the_DT appearance_NN of_IN effusion_NN the_DT buboes_NNS usually_RB became_VBD less_RBR painful_JJ ._.
+In_IN a_DT few_JJ cases_NNS where_WRB the_DT patient_NN lived_VBD long_RB enough_RB ,_, the_DT swelling_VBG subsided_VBN by_IN resolution_NN ,_, but_CC in_IN the_DT majority_NN of_IN instances_NNS suppuration_NN occurred_VBD after_IN the_DT seventh_JJ or_CC eighth_JJ day_NN ,_, the_DT skin_NN over_IN the_DT infiltrated_JJ area_NN becoming_VBG inflamed_VBN ._.
+On_IN opening_VBG the_DT bubo_NN thin_JJ yellowish_NN or_CC sanious_JJ pus_NN was_VBD evacuated_VBN ;_: the_DT skin_NN frequently_RB sloughed_VBN eventually_RB ,_, however_RB ,_, leaving_VBG an_DT indolent_NN unhealthy_JJ ulcer_NN ,_, with_IN ragged_JJ overhanging_VBG edges_NNS and_CC a_DT greyish_JJ sloughing_NN base_NN ,_, on_IN which_WDT one_CD or_CC more_JJR necrosed_JJ lymphatic_JJ glands_NNS might_MD be_VB seen_VBN ._.
+Such_JJ ulcers_NNS usually_RB took_VBD weeks_NNS to_TO heal_VB and_CC gave_VBD rise_NN to_TO large_JJ thickened_JJ cicatrices_NNS ._.
+In_IN cases_NNS where_WRB suppuration_NN did_VBD not_RB take_VB place_NN the_DT glands_NNS remained_VBD hard_JJ and_CC indurated_VBN long_RB after_IN con-_JJ valescence_NN was_VBD established_VBN ._.
+The_DT nervous_JJ system_NN was_VBD markedly_RB affected_VBN in_IN almost_RB every_DT case_NN from_IN the_DT beginning_NN of_IN the_DT fever_NN ._.
+The_DT patient_NN complained_VBD of_IN extreme_JJ feebleness_NN and_CC prostration_NN ;_: in_IN many_JJ cases_NNS he_PRP could_MD only_RB walk_VB with_IN the_DT greatest_JJS difficulty_NN ,_, and_CC was_VBD sometimes_RB unable_JJ even_RB to_TO leave_VB his_PRP$ bed_NN ._.
+There_EX was_VBD some_DT loss_NN of_IN sensibility_NN 7_CD to_TO touch_VB ,_, and_CC often_RB the_DT general_JJ cutaneous_JJ sensibility_NN to_TO pain_VB also_RB seemed_VBN impaired_JJ ,_, but_CC in_IN a_DT few_JJ cases_NNS there_RB was_VBD marked_VBN hyperthesia_NN ._.
+Intelligence_NN was_VBD generally_RB unaffected_VBN at_IN first_JJ ,_, but_CC sometimes_RB the_DT patient_NN appeared_VBD to_TO be_VB dazed_VBN and_CC stupid_JJ and_CC totally_RB indifferent_JJ to_TO his_PRP$ surroundings_NNS ._.
+Memory_NN was_VBD defective_JJ ,_, or_CC he_PRP was_VBD unequal_JJ to_TO making_VBG an_DT effort_NN of_IN memory_NN when_WRB asked_VBD ,_, for_IN example_NN ,_, to_TO give_VB the_DT date_NN of_IN attack_NN ,_, or_CC to_TO state_NN what_WP his_PRP$ symptoms_NNS had_VBD been_VBN ._.
+In_IN a_DT number_NN of_IN cases_NNS ,_, owing_VBG to_TO inco-ordination_NN of_IN the_DT lingual_JJ muscles_NNS ,_, there_EX was_VBD thickness_NN of_IN speech_NN like_IN that_DT caused_VBN by_IN alcoholic_JJ poisoning_NN ,_, and_CC this_DT symptom_NN was_VBD so_RB characteristic_JJ that_IN the_DT attendants_NNS in_IN hospital_NN came_VBD to_TO look_VB upon_JJ it_PRP as_IN a_DT certain_JJ sign_NN of_IN plague_NN in_IN cases_NNS where_WRB enlarged_VBN glands_NNS had_VBD not_RB already_RB appeared_VBN ._.
+Later_RB in_IN the_DT disease_NN dumbness_NN not_RB infrequently_RB occurred_VBN from_IN paralysis_NN of_IN the_DT laryngeal_NN muscles_NNS ._.
+In_IN addition_NN to_TO loss_NN of_IN muscular_JJ power_NN in_IN the_DT upper_JJ and_CC lower_JJR limbs_NNS there_EX was_VBD tremor_NN and_CC twitching_NN of_IN the_DT muscles_NNS of_IN the_DT hands_NNS ,_, and_CC in_IN many_JJ cases_NNS marked_VBD loss_NN of_IN co-ordination_NN also_RB ,_, causing_VBG clumsiness_NN of_IN movement_NN in_IN the_DT hands_NNS ,_, and_CC giving_VBG rise_NN to_TO a_DT staggering_JJ gait_NN on_IN attempting_VBG to_TO walk_VB ._.
+As_IN a_DT rule_NN there_RB was_VBD loss_NN of_IN expression_NN ,_, owing_VBG to_TO relaxation_NN of_IN the_DT facial_JJ muscles_NNS ,_, giving_VBG the_DT patient_NN an_DT apathetic_JJ or_CC a_DT stupid_JJ look_NN ,_, and_CC masking_VBG the_DT approach_NN of_IN death_NN ._.
+Occasionally_RB at_IN the_DT beginning_NN of_IN the_DT illness_NN the_DT expression_NN was_VBD anxious_JJ ._.
+In_IN a_DT number_NN of_IN cases_NNS cerebral_JJ symptoms_NNS were_VBD present_JJ from_IN the_DT commencement_NN of_IN the_DT disease_NN and_CC continued_JJ day_NN and_CC night_NN throughout_IN the_DT attack_NN ,_, taking_VBG sometimes_RB the_DT form_NN of_IN delirium_NN and_CC at_IN others_NNS that_IN of_IN coma_NN ._.
+The_DT delirium_NN was_VBD of_IN the_DT busy_JJ type_NN ,_, like_IN that_DT of_IN delirium_NN tremens_NNS ,_, and_CC was_VBD often_RB accompanied_VBN by_IN illusions_NNS terrifying_VBG in_IN character_NN ,_, from_IN which_WDT the_DT patient_NN tried_VBD to_TO escape_VB ;_: among_IN children_NNS convulsions_NNS frequently_RB took_VBD the_DT place_NN of_IN delirium_NN ._.
+In_IN cases_NNS marked_VBN by_IN stupor_VBG the_DT mental_JJ faculties_NNS appeared_VBD to_TO be_VB paralysed_VBN ,_, the_DT patient_NN lying_VBG in_IN a_DT comatose_JJ condition_NN ,_, from_IN which_WDT he_PRP could_MD only_RB be_VB roused_VBN with_IN difficulty_NN ,_, if_IN at_IN all_DT ._.
+Such_JJ cases_NNS generally_RB died_VBD within_IN the_DT first_JJ two_CD days_NNS ,_, but_CC sometimes_RB even_RB within_IN 24_CD hours_NNS ._.
+The_DT respiratory_NN symptoms_NNS were_VBD hurried_VBN breathing_NN and_CC a_DT sense_NN of_IN oppres-_JJ sion_NN and_CC tightness_NN across_IN the_DT chest_NN ._.
+In_IN most_JJS cases_NNS congestion_NN of_IN the_DT bases_NNS of_IN the_DT lungs_NNS occurred_VBD early_JJ ,_, and_CC was_VBD rapidly_RB followed_VBN in_IN many_JJ instances_NNS ,_, parti-_JJ cularly_NN during_IN the_DT cold_JJ months_NNS ,_, by_IN bronchitis_NN ,_, by_IN ``_`` dema_NN of_IN the_DT lungs_NNS ,_, or_CC by_IN secondary_JJ pneumonia_NN ._.
+In_IN these_DT cases_NNS of_IN secondary_JJ pneumonia_NN the_DT expectoration_NN was_VBD bronchitic_JJ in_IN character_NN ,_, and_CC after_IN a_DT short_JJ time_NN became_VBD profuse_RB and_CC watery_NN ,_, often_RB showing_VBG a_DT considerable_JJ colouring_NN of_IN blood_NN ._.
+These_DT blood-stained_JJ serous_JJ sputa_NN ,_, owing_VBG to_TO the_DT patient_NN 's_POS clothing_NN becoming_VBG reddened_VBN by_IN them_PRP ,_, sometimes_RB gave_VBD rise_NN to_TO the_DT impression_NN that_IN hmoptysis_NN had_VBD occurred_VBN ._.
+Primary_NNP plague_NN pneumonia_NN was_VBD also_RB met_VBN with_IN ,_, but_CC this_DT form_NN of_IN plague_NN (_( which_WDT was_VBD first_JJ re-_JJ cognized_VBN and_CC described_VBN by_IN Surgeon-Captain_NNP Childe_NNP )_) during_IN the_DT present_JJ epidemic_NN is_VBZ so_RB important_JJ as_IN to_TO require_VB a_DT detailed_JJ description_NN ._.
+In_IN connection_NN with_IN the_DT digestive_JJ system_NN ,_, the_DT occurrence_NN of_IN vomiting_VBG at_IN the_DT onset_NN of_IN the_DT disease_NN ,_, in_IN some_DT instances_NNS accompanied_VBN by_IN diarrha_NN ,_, has_VBZ been_VBN referred_VBN to_TO above_VB ._.
+In_IN some_DT cases_NNS nausea_VBP ,_, vomiting_VBG and_CC diarrha_NN appeared_VBD at_IN the_DT onset_NN and_CC persisted_VBN throughout_IN the_DT whole_JJ course_NN of_IN the_DT attack_NN ._.
+The_DT vomited_JJ matter_NN was_VBD at_IN first_JJ bilious_JJ in_IN character_NN ;_: afterwards_NNS it_PRP contained_VBD only_RB water_NN and_CC such_JJ liquid_JJ nourishment_NN as_IN had_VBD been_VBN taken_VBN ._.
+Diarrha_NN when_WRB it_PRP occurred_VBD was_VBD also_RB bilious_JJ in_IN character_NN ,_, the_DT motions_NNS numbering_VBG five_CD or_CC six_CD in_IN twenty-four_JJ hours_NNS ,_, the_DT stools_NNS being_VBG always_RB very_RB offensive_JJ and_CC sometimes_RB tinged_VBN with_IN blood_NN ._.
+In_IN a_DT certain_JJ proportion_NN of_IN cases_NNS there_EX was_VBD pain_NN and_CC tenderness_NN in_IN the_DT epigastric_JJ region_NN ,_, pain_NN in_IN the_DT back_NN ,_, and_CC abdominal_JJ distension_NN ,_, accompanied_VBN by_IN enlargement_NN of_IN the_DT liver_NN and_CC spleen_NN ._.
+Surgeon-Captain_JJ Hojel_NNP has_VBZ recorded_VBN a_DT number_NN of_IN cases_NNS of_IN this_DT sort_NN in_IN which_WDT low_JJ nervous_JJ symptoms_NNS occurred_VBD like_IN those_DT met_VBN with_IN in_IN enteric_JJ fever_NN ,_, and_CC in_IN some_DT of_IN these_DT cases_NNS petechi_VBP were_VBD seen_VBN on_IN the_DT abdomen_NNS and_CC lower_JJR part_NN of_IN the_DT thorax_NN somewhat_RB resembling_VBG the_DT rash_NN of_IN enteric_NN ._.
+After_IN death_NN the_DT lesions_NNS found_VBN were_VBD those_DT of_IN plague_NN ;_: Peyer_NNP 's_POS patches_NNS were_VBD found_VBN to_TO be_VB slightly_RB raised_VBN ,_, dematous_JJ and_CC congested_VBN ,_, the_DT solitary_JJ follicles_NNS were_VBD as_RB large_JJ as_IN hempseed_NN ,_, but_CC enlargement_NN of_IN the_DT mesenteric_JJ glands_NNS was_VBD absent_JJ ._.
+In_IN the_DT circulatory_NN system_NN there_EX was_VBD throbbing_VBG of_IN the_DT carotids_NNS ,_, and_CC the_DT apex_JJ beat_NN of_IN the_DT heart_NN could_MD generally_RB be_VB seen_VBN at_IN the_DT beginning_NN of_IN the_DT attack_NN ._.
+The_DT impulse_NN at_IN the_DT apex_NN was_VBD found_VBN to_TO be_VB more_JJR diffuse_NN than_IN normal_JJ ,_, and_CC some-_JJ times_NNS a_DT thrill_NN could_MD be_VB felt_VBN in_IN the_DT prcordial_JJ region_NN ._.
+The_DT sounds_NNS soon_RB became_VBD 8_CD feeble_JJ ,_, the_DT first_JJ sound_NN being_VBG very_RB much_RB shortened_VBN ,_, and_CC the_DT second_JJ sound_NN so_RB weak_JJ that_IN it_PRP frequently_RB could_MD not_RB be_VB heard_VBN at_IN the_DT apex_NN ._.
+In_IN one_CD case_NN only_RB ,_, out_IN of_IN a_DT very_RB large_JJ number_NN examined_VBD ,_, was_VBD a_DT murmur_JJ present_NN ,_, although_IN in_IN many_JJ cases_NNS the_DT heart_NN appeared_VBD to_TO be_VB dilated_VBN ._.
+On_IN examining_VBG the_DT blood_NN drawn_NN from_IN the_DT finger_NN it_PRP was_VBD found_VBN to_TO coagulate_VB slowly_RB ,_, and_CC the_DT red_JJ corpuscles_NNS did_VBD not_RB tend_VB to_TO run_VB into_IN rouleaux_JJ quickly_RB ._.
+In_IN cases_NNS where_WRB the_DT disease_NN had_VBD lasted_VBN for_IN a_DT few_JJ days_NNS the_DT number_NN of_IN white_JJ corpuscles_NNS present_NN was_VBD greatly_RB in_IN excess_NN of_IN the_DT normal_JJ ._.
+In_IN most_JJS cases_NNS after_IN the_DT first_JJ day_NN ,_, and_CC in_IN all_DT cases_NNS after_IN two_CD or_CC three_CD days_NNS a_DT marked_JJ fall_NN in_IN blood_NN pressure_NN occurred_VBD ;_: this_DT fall_NN in_IN blood_NN pressure_NN and_CC the_DT great_JJ frequency_NN of_IN the_DT heart_NN 's_POS action_NN were_VBD the_DT most_RBS marked_JJ circulatory_NN changes_NNS observed_VBD ._.
+In_IN the_DT urinary_JJ system_NN pain_NN was_VBD sometimes_RB present_JJ in_IN the_DT region_NN of_IN the_DT kidneys_NNS ._.
+The_DT urine_NN secreted_VBN was_VBD diminished_VBN in_IN quantity_NN ,_, of_IN high_JJ specific_JJ gravity_NN ,_, and_CC intensely_RB acid_VB in_IN reaction_NN ._.
+In_IN colour_NN it_PRP was_VBD generally_RB brownish_JJ yellow_NN ,_, but_CC sometimes_VBZ it_PRP was_VBD smoky_JJ or_CC red_JJ from_IN the_DT presence_NN of_IN blood_NN ._.
+Albumen_NNP was_VBD present_JJ in_IN about_IN three-fourths_NNS of_IN the_DT cases_NNS ,_, urea_JJ and_CC uric_JJ acid_NN were_VBD deficient_JJ ,_, and_CC chlorides_NNS markedly_RB deficient_VBP ;_: casts_NNS were_VBD generally_RB present_JJ ._.
+The_DT attached_VBN table_NN (_( Table_NNP IX_NNP )_) gives_VBZ a_DT quantitative_JJ urine_NN analysis_NN made_VBN by_IN Surg.-Capt_NNP ._.
+Hojel_NNP ._.
+It_PRP shows_VBZ the_DT results_NNS obtained_VBD in_IN fifty_JJ plague_NN cases_NNS treated_VBN at_IN St._NNP George_NNP 's_POS Hospital_NNP ._.
+With_IN the_DT exception_NN of_IN No_NNP ._.
+19_CD ,_, all_PDT the_DT analyses_NNS were_VBD made_VBN between_IN the_DT third_JJ and_CC sixth_JJ day_NN ;_: all_DT were_VBD examined_VBN as_IN soon_RB after_IN admission_NN as_IN possible_JJ ,_, and_CC the_DT majority_NN for_IN several_JJ days_NNS in_IN succession_NN ._.
+Micturition_NN was_VBD frequent_JJ in_IN many_JJ cases_NNS ,_, but_CC no_DT symptoms_NNS of_IN scalding_VBG were_VBD as_IN a_DT rule_NN complained_VBD of_IN ._.
+In_IN cases_NNS which_WDT termi-_VBP nated_VBN fatally_RB the_DT urine_NN was_VBD often_RB retained_VBN towards_IN the_DT end_NN ,_, Where_NNP pregnancy_NN was_VBD present_JJ ,_, the_DT patient_NN ,_, as_IN a_DT rule_NN ,_, aborted_VBN on_IN the_DT first_JJ or_CC second_JJ day_NN after_IN the_DT onset_NN of_IN the_DT disease_NN ,_, but_CC this_DT was_VBD not_RB invariably_RB the_DT case_NN ._.
+Out_IN of_IN three_CD pregnant_JJ cases_NNS treated_VBN at_IN St._NNP George_NNP 's_POS Hospital_NNP only_RB two_CD aborted_VBD ,_, and_CC both_DT recovered_VBN ;_: the_DT third_JJ (_( vide_IN Chart_NNP XXII_NNP )_) ,_, two_CD months_NNS pregnant_JJ ,_, went_VBD on_IN to_TO full_JJ term_NN ._.
+When_WRB premature_NN labour_NN occurred_VBD ,_, both_DT mother_NN and_CC child_NN usually_RB died_VBD ._.
+In_IN one_CD case_NN ,_, however_RB ,_, a_DT native_JJ woman_NN was_VBD attacked_VBN by_IN plague_JJ five_CD days_NNS before_IN full_JJ term_NN ;_: she_PRP was_VBD confined_VBN the_DT same_JJ day_NN and_CC died_VBD ,_, but_CC the_DT child_NN was_VBD born_VBN alive_JJ ;_: it_PRP exhibited_VBD no_DT symptoms_NNS of_IN plague_NN ,_, and_CC is_VBZ still_RB living_VBG ._.
+The_DT skin_NN was_VBD hot_JJ and_CC burning_VBG to_TO the_DT touch_NN from_IN the_DT first_JJ ,_, and_CC continued_VBD dry_JJ and_CC harsh_JJ until_IN the_DT temperature_NN began_VBD to_TO decline_VB on_IN the_DT third_JJ or_CC fourth_JJ day_NN ,_, after_IN which_WDT it_PRP became_VBD moist_NN ._.
+On_IN the_DT temperature_NN falling_VBG to_TO normal_JJ or_CC sub-_JJ normal_JJ ,_, sweating_VBG almost_RB invariably_RB occurred_VBD and_CC continued_VBD for_IN a_DT few_JJ days_NNS ,_, being_VBG usually_RB worse_JJR at_IN night_NN ._.
+Occasionally_RB before_IN death_NN petechi_NN were_VBD observed_VBN over_RP buboes_NNS or_CC on_IN the_DT abdomen_NNS ;_: but_CC no_DT characteristic_JJ skin_NN eruptions_NNS were_VBD seen_VBN ._.
+In_IN some_DT instances_NNS small_JJ patches_NNS of_IN skin_NN (_( unconnected_JJ with_IN lymphatic_JJ glands_NNS )_) two_CD or_CC three_CD inches_NNS or_CC more_JJR in_IN diameter_NN became_VBD inflamed_JJ ,_, and_CC eventually_RB sloughed_VBD ,_, leaving_VBG indolent_JJ ulcers_NNS with_IN steep_JJ overhanging_VBG edges_NNS ._.
+These_DT patches_NNS were_VBD noticed_VBN in_IN some_DT cases_NNS at_IN the_DT sides_NNS of_IN the_DT abdomen_NNS ,_, and_CC over_IN the_DT loins_NNS ,_, where_WRB they_PRP were_VBD in_IN no_DT way_NN due_JJ to_TO pressure_VB or_CC irritation_NN ;_: but_CC more_RBR frequently_RB they_PRP occurred_VBD on_IN the_DT extremities_NNS ,_, being_VBG situated_VBN on_IN the_DT dorsum_NN of_IN the_DT foot_NN or_CC hand_NN ,_, on_IN the_DT leg_NN ,_, the_DT thigh_NN or_CC forearm_NN ._.
+Sometimes_RB extensive_JJ sloughing_NN occurred_VBD ,_, laying_VBG bare_NN the_DT muscles_NNS over_IN considerable_JJ areas_NNS and_CC giving_VBG rise_NN to_TO severe_JJ hmorrhage_NN ._.
+Rarely_RB boils_NNS were_VBD seen_VBN which_WDT became_VBD black_JJ ,_, owing_VBG apparently_RB to_TO capillary_JJ hmorrhage_NN ;_: but_CC no_DT true_JJ carbuncles_NNS were_VBD observed_VBN ._.
+Amongst_NNP natives_VBZ the_DT progress_NN of_IN the_DT disease_NN was_VBD towards_VBN death_NN in_IN about_RB 70_CD %_NN of_IN the_DT cases_NNS admitted_VBD into_IN the_DT Arthur_NNP Road_NNP and_CC Parel_NNP Hospitals_NNP ;_: among_IN Europeans_NNPS and_CC Eurasians_NNPS treated_VBN in_IN St._NNP George_NNP 's_POS Hospital_NNP the_DT mortality_NN was_VBD less_RBR ,_, viz._NN ,_, 3235_CD %_NN and_CC 4262_CD %_NN respectively_RB ._.
+As_IN death_NN approached_VBN ,_, respiration_NN became_VBD more_JJR and_CC more_JJR shallow_JJ and_CC feeble_JJ ,_, the_DT eyes_NNS became_VBD sunken_JJ ,_, and_CC the_DT patient_NN passed_VBD from_IN a_DT state_NN of_IN muttering_VBG delirium_NN into_IN coma_NN ,_, and_CC died_VBD ,_, as_IN a_DT rule_NN ,_, quite_RB quietly_RB from_IN heart_NN failure_NN ._.
+Sometimes_RB the_DT temperature_NN ran_VBD up_RB to_TO 107_CD F._NNP or_CC more_JJR before_IN death_NN ,_, and_CC continued_VBD to_TO rise_VB after_IN death_NN ;_: but_CC more_RBR frequently_RB death_NN appeared_VBD to_TO occur_VB from_IN collapse_NN ,_, the_DT temperature_NN falling_VBG and_CC the_DT pulse_NN increasing_VBG in_IN frequency_NN to_TO such_PDT an_DT extent_NN that_IN it_PRP could_MD not_RB be_VB counted_VBN ._.
+In_IN cases_NNS that_WDT recovered_VBD the_DT temperature_NN 9_CD generally_RB fell_VBD by_IN lysis_NN on_IN the_DT fifth_NN ,_, sixth_JJ and_CC seventh_JJ days_NNS ._.
+But_CC not_RB infre-_JJ quently_RB a_DT fall_NN by_IN crisis_NN occurred_VBD on_IN one_CD of_IN these_DT days_NNS (_( vide_JJ Charts_NNP II_NNP ._.
+VIII_NNP ._.
+XXII_NNP ._. )_)
+and_CC the_DT patient_NN remained_VBD in_IN a_DT more_RBR or_CC less_RBR collapsed_JJ condition_NN with_IN subnormal_JJ temperature_NN ,_, profuse_NN perspiration_NN and_CC an_DT exceedingly_RB feeble_JJ pulse_NN for_IN days_NNS ._.
+In_IN this_DT condition_NN the_DT slightest_JJS effort_NN sometimes_RB gave_VBD rise_NN to_TO fatal_JJ syncope_NN ._.
+In_IN the_DT Parel_NNP Hospital_NNP 22_CD convalescents_NNS ,_, out_IN of_IN 304_CD cases_NNS treated_VBN there_RB by_IN Surgeon-Captain_NNP Thompson_NNP ,_, dropped_VBD dead_JJ through_IN attempting_VBG to_TO get_VB out_IN of_IN bed_NN or_CC to_TO sit_VB up_RP ._.
+When_WRB the_DT patient_NN was_VBD recovering_VBG ,_, it_PRP was_VBD occasionally_RB found_VBN that_IN he_PRP was_VBD suffering_VBG from_IN dumbness_NN or_CC from_IN partial_JJ laryngeal_JJ paralysis_NN ;_: or_CC that_IN hemiplegia_NN ,_, paraplegia_NN involving_VBG the_DT legs_NN or_CC the_DT legs_NNS and_CC arms_NNS ,_, monoplegia_NN of_IN a_DT limb_NN or_CC a_DT portion_NN of_IN a_DT limb_NN was_VBD present_JJ ._.
+In_IN some_DT cases_NNS facial_JJ paralysis_NN was_VBD observed_VBN ,_, or_CC paralysis_NN of_IN one_CD or_CC more_JJR ocular_JJ muscles_NNS ._.
+More_RBR rarely_RB the_DT inco-ordination_NN of_IN the_DT tongue_NN ,_, hands_NNS ,_, arms_NNS or_CC legs_NNS ,_, noticed_VBN at_IN the_DT beginning_NN of_IN the_DT attack_NN ,_, remained_VBD present_JJ during_IN convalescence_NN ,_, and_CC the_DT speech_NN continued_VBD slow_JJ ,_, thick_JJ ,_, and_CC indistinct_NN (_( vide_IN the_DT case_NN of_IN Kallian_NNP Vishram_NNP given_VBN below_IN )_) ._.
+Occasionally_RB an_DT attack_NN of_IN plague_NN ran_VBD a_DT very_RB mild_JJ course_NN ,_, the_DT patient_NN (_( frequently_RB a_DT boy_NN of_IN 10_CD or_CC 12_CD years_NNS )_) not_RB being_VBG confined_VBN to_TO bed_VBN by_IN it_PRP ._.
+In_IN these_DT cases_NNS enlargement_NN and_CC tenderness_NN of_IN a_DT lymphatic_JJ gland_NN was_VBD noticed_VBN ,_, followed_VBN by_IN fever_NN (_( vide_JJ Chart_NNP XXVI_NNP )_) ,_, headache_NN ,_, a_DT characteristic_JJ tongue_NN and_CC sometimes_RB nausea_NN and_CC vomiting_NN ;_: the_DT temperature_NN rarely_RB exceeded_VBD 103_CD F._NNP or_CC 104_CD F._NNP ,_, and_CC generally_RB fell_VBD to_TO normal_JJ or_CC subnormal_JJ on_IN second_JJ or_CC third_JJ day_NN ._.
+Prostration_NN and_CC cerebral_JJ symptoms_NNS were_VBD not_RB well_RB marked_VBN ,_, and_CC the_DT bubo_NN subsided_VBD as_IN a_DT rule_NN without_IN suppurating_VBG ._.
+The_DT duration_NN of_IN the_DT attack_NN seldom_NN exceeded_VBD three_CD or_CC four_CD days_NNS ,_, and_CC convalescence_NN was_VBD established_VBN in_IN a_DT week_NN or_CC ten_JJ days_NNS ._.
+There_EX remain_VBP to_TO be_VB described_VBN two_CD forms_NNS of_IN the_DT disease_NN in_IN which_WDT the_DT general_JJ features_NNS of_IN plague_NN in_IN its_PRP$ most_RBS acute_JJ form_NN were_VBD present_JJ ,_, but_CC in_IN which_WDT there_EX was_VBD no_DT particular_JJ enlargement_NN of_IN lymphatic_JJ glands_NNS (_( buboes_NNS )_) during_IN life_NN ,_, and_CC in_IN which_WDT ,_, after_IN death_NN ,_, only_RB very_RB slight_JJ general_JJ enlargement_NN and_CC congestion_NN of_IN the_DT glands_NNS were_VBD found_VBN ._.
+In_IN one_CD of_IN these_DT forms_NNS of_IN plague_NN the_DT microbe_NN grows_VBZ in_IN the_DT blood_NN ,_, hence_NN it_PRP has_VBZ been_VBN called_VBN septicmic_JJ plague_NN ;_: in_IN the_DT other_JJ it_PRP grows_VBZ in_IN the_DT lungs_NNS giving_VBG rise_NN to_TO primary_JJ plague_NN pneumonia_NN ._.
+In_IN septicmic_JJ plague_NN the_DT invasion_NN was_VBD usually_RB marked_VBN by_IN a_DT prolonged_JJ and_CC severe_JJ rigor_NN ,_, or_CC repeated_VBD rigors_NNS ;_: and_CC vomiting_NN ,_, headache_NN and_CC high_JJ fever_NN were_VBD constantly_RB present_JJ ._.
+The_DT most_RBS distinctive_JJ features_NNS of_IN this_DT form_NN of_IN the_DT disease_NN were_VBD the_DT great_JJ nervous_JJ prostration_NN and_CC muscular_JJ weakness_NN present_NN from_IN the_DT beginning_NN ,_, and_CC the_DT rapidity_NN with_IN which_WDT cerebral_JJ symptoms_NNS supervened_VBD ._.
+Delirium_NNP often_RB set_VBD in_IN during_IN the_DT first_JJ day_NN ,_, and_CC was_VBD quickly_RB followed_VBN by_IN picking_VBG at_IN the_DT bed_NN clothes_NNS ,_, stupor_NN and_CC coma_NN ,_, in_IN which_WDT the_DT patient_NN died_VBD generally_RB on_IN the_DT second_JJ or_CC third_JJ day_NN ,_, but_CC sometimes_RB within_IN 24_CD hours_NNS of_IN the_DT onset_NN ._.
+In_IN some_DT cases_NNS death_NN did_VBD not_RB occur_VB for_IN several_JJ days_NNS ._.
+The_DT pulse_JJ early_JJ became_VBD soft_JJ and_CC very_RB frequent_JJ ,_, 120_CD to_TO 140_CD or_CC more_JJR ,_, the_DT temperature_NN (_( vide_JJ Chart_NNP XXV_NNP ._. )_)
+rapidly_RB rose_VBD to_TO 104_CD ._.
+F._NNP 105_CD F._NNP 106_CD F._NNP ran_VBD an_DT irregular_JJ course_NN and_CC often_RB reached_VBD 107_CD F._NNP or_CC more_JJR before_IN death_NN ;_: respiration_NN was_VBD hurried_VBN and_CC panting_VBG ;_: gastro-intestinal_JJ catarrh_NN and_CC tympanitis_NN were_VBD frequently_RB present_JJ ;_: the_DT urine_NN was_VBD often_RB retained_VBN ._.
+Epistaxis_NNP and_CC sub-conjunctival_JJ hmorrhage_NN sometimes_RB occurred_VBD ;_: blood_NN was_VBD occasionally_RB seen_VBN in_IN the_DT stools_NNS and_CC urine_NN ;_: and_CC ,_, if_IN the_DT patient_NN lived_VBD long_RB enough_RB ,_, secondary_JJ pneumonia_NN sometimes_RB sot_JJ in_IN ._.
+These_DT cases_NNS were_VBD very_RB fatal_JJ ._.
+In_IN a_DT considerable_JJ number_NN of_IN cases_NNS primary_JJ plague_NN pneumonia_NN was_VBD observed_VBN ,_, the_DT development_NN of_IN the_DT disease_NN being_VBG due_JJ to_TO the_DT growth_NN of_IN plague_NN bacilli_NN in_IN the_DT lung_NN tissue_NN ._.
+Lobular_JJ pneumonia_NN was_VBD the_DT form_NN usually_RB met_VBN with_IN in_IN these_DT cases_NNS ._.
+Its_PRP$ onset_NN was_VBD marked_VBN by_IN rigors_NNS ,_, or_CC ,_, in_IN some_DT instances_NNS ,_, by_IN chills_NNS ,_, followed_VBN by_IN a_DT sense_NN of_IN constriction_NN across_IN the_DT chest_NN ,_, difficult_JJ and_CC hurried_VBD breath-_NN ing_NN ,_, cough_NN and_CC expectoration_NN ._.
+As_IN the_DT disease_NN progressed_VBD ,_, respiration_NN became_VBD very_RB frequent_JJ (_( 40_CD to_TO 60_CD in_IN the_DT minute_NN )_) and_CC difficult_JJ ,_, and_CC duskiness_NN of_IN the_DT face_NN appeared_VBD ._.
+Pain_NN was_VBD present_JJ ,_, but_CC never_RB appeared_VBD to_TO be_VB severe_JJ or_CC stitch-like_JJ in_IN character_NN ,_, and_CC was_VBD rarely_RB much_JJ complained_VBN of_IN ._.
+The_DT expectoration_NN ,_, bronchitic_JJ at_IN the_DT beginning_NN ,_, very_RB soon_RB became_VBD watery_JJ and_CC profuse_NN ;_: it_PRP often_RB contained_VBD little_JJ B_NNP 1751-3_CD ?_. 10_CD whitish_JJ specks_NNS floating_VBG in_IN it_PRP ,_, and_CC on_IN examination_NN was_VBD found_VBN to_TO contain_VB plague_JJ bacilli_NN in_IN great_JJ numbers_NNS ._.
+Frequently_RB this_DT serous_JJ expectoration_NN was_VBD tinged_VBN of_IN a_DT pink_NN or_CC reddish_VB colour_NN from_IN the_DT presence_NN of_IN blood_NN ;_: but_CC rusty_JJ sputa_NN ,_, as_IN in_IN ordinary_JJ croupous_JJ pneumonia_NN ,_, were_VBD rarely_RB seen_VBN ._.
+There_EX was_VBD great_JJ prostration_NN from_IN the_DT first_JJ ;_: the_DT pulse_JJ soon_RB became_VBD feeble_JJ and_CC very_RB frequent_JJ ,_, so_IN that_IN the_DT alteration_NN in_IN the_DT pulse-respiration_NN ratio_NN ordinarily_RB met_VBN with_IN in_IN pneumonia_NN was_VBD not_RB observed_VBN ;_: the_DT temperature_NN was_VBD high_JJ and_CC ran_VBD an_DT irregular_JJ course_NN (_( vide_JJ Charts_NNP XI_NNP ,_, XII_NNP ,_, XVII_NNP ,_, XIX_NNP ,_, XXIX_NNP ,_, XXX_NNP ,_, XXXI_NNP ,_, )_) ;_: the_DT tougue_NN was_VBD coated_VBN white_JJ ,_, except_IN at_IN the_DT tip_NN and_CC edges_NNS ,_, and_CC the_DT bowels_NNS were_VBD confined_VBN ._.
+The_DT physical_JJ signs_NNS present_JJ were_VBD those_DT of_IN broncho-pneumonia_NN ,_, patches_NNS of_IN consolidation_NN being_VBG found_VBN in_IN one_CD or_CC both_DT lungs_NNS ,_, the_DT right_NN generally_RB being_VBG the_DT one_CD most_JJS affected_JJ ._.
+Very_RB soon_RB marked_VBD dema_NN occurred_VBD ,_, the_DT lungs_NNS becoming_VBG loaded_VBN with_IN fluid_NN ._.
+Buboes_NNS were_VBD not_RB met_VBN with_IN in_IN these_DT cases_NNS ,_, but_CC slight_JJ enlargement_NN of_IN the_DT lymphatic_JJ glands_NNS was_VBD sometimes_RB found_VBN before_IN death_NN ._.
+Death_NNP generally_RB ensued_VBD in_IN three_CD or_CC four_CD days_NNS ,_, and_CC was_VBD preceded_VBN by_IN incessant_JJ cough_NN and_CC by_IN blueness_NN of_IN the_DT skin_NN due_JJ to_TO deficient_JJ ration_NN of_IN blood_NN ,_, caused_VBD mainly_RB by_IN the_DT amount_NN of_IN fluid_NN in_IN the_DT air_NN vesicles_NNS ._.
+The_DT complications_NNS met_VBD with_IN in_IN plague_NN were_VBD -_: in_IN the_DT nervous_JJ system_NN delusions_NNS ,_, in_IN one_CD case_NN ending_VBG in_IN insanity_NN ;_: motor_NN paralysis_NN ,_, local_JJ or_CC general_JJ :_: impaired_JJ sense_NN of_IN touch_NN ;_: sometimes_RB diminished_VBD sensibility_NN to_TO pain_VB ,_, sometimes_RB hypersthesia_NN ;_: deafness_NN ;_: ulceration_NN of_IN the_DT cornea_NN ,_, conjunctivitis_NN ,_, and_CC sub-_JJ conjunctival_NN hmorrhage_NN ._.
+In_IN the_DT circulatory_NN system_NN ,_, softening_VBG of_IN the_DT muscular_JJ tissue_NN of_IN the_DT heart_NN with_IN enfeebled_JJ cardiac_JJ action_NN and_CC dilation_NN of_IN the_DT heart_NN ._.
+In_IN the_DT respiratory_NN system_NN ,_, bronchitis_NN ;_: hypostatic_JJ congestion_NN and_CC dema_NN of_IN the_DT lungs_NNS ,_, secondary_JJ pneumonia_NN ;_: pleurisy_CC ;_: and_CC rarely_RB pulmonary_JJ hmorrhage_NN ._.
+In_IN the_DT digestive_JJ system_NN ,_, gastro-enteric_JJ catarrh_NN ;_: diarrha_CC ;_: and_CC in_IN a_DT few_JJ cases_NNS hmorrhage_VBP from_IN the_DT bowels_NNS ._.
+In_IN the_DT urinary_JJ system_NN ,_, albuminuria_RB ;_: renal_JJ con-_JJ gestion_NN ,_, and_CC renal_JJ hmorrhage_NN ,_, in_IN one_CD case_NN causing_VBG death_NN ._.
+In_IN the_DT reproductive_JJ system_NN ,_, menorrhagia_NN at_IN the_DT menstrual_JJ period_NN ;_: and_CC abortion_NN in_IN many_JJ cases_NNS of_IN pregnancy_NN ._.
+In_IN the_DT cutaneous_JJ system_NN ,_, sloughing_VBG of_IN the_DT skin_NN ,_, and_CC boils_NNS ._.
+The_DT sequel_NN most_RBS frequently_RB met_VBN with_IN were_VBD deafness_NN in_IN one_CD or_CC both_DT ears_NNS ;_: impairment_NN of_IN vision_NN due_JJ to_TO degeneration_NN of_IN the_DT choroid_NN and_CC retina_NN ;_: dumbness_NN due_JJ to_TO the_DT loss_NN of_IN memory_NN of_IN words_NNS ,_, or_CC to_TO laryngeal_VB paralysis_NN ;_: paralysis_NN of_IN the_DT muscles_NNS of_IN the_DT eyes_NNS or_CC face_NN ;_: paresis_NN or_CC paralysis_NN of_IN the_DT muscles_NNS of_IN the_DT extremities_NNS either_CC hemiplegic_NN or_CC paraplegic_NN ;_: inco-ordination_NN of_IN the_DT muscles_NNS of_IN the_DT face_NN ,_, tongue_NN and_CC extremities_NNS (_( vide_IN case_NN given_VBN below_IN )_) ;_: impairment_NN of_IN cutaneous_JJ sensibility_NN to_TO pain_VB ._.
+The_DT duration_NN of_IN the_DT disease_NN in_IN 902_CD fatal_JJ cases_NNS admitted_VBN into_IN hospital_NN was_VBD 19_CD hours_NNS in_IN one_CD case_NN ,_, one_CD day_NN in_IN 5_CD ,_, two_CD in_IN 43_CD ,_, three_CD in_IN 99_CD ,_, four_CD in_IN 143_CD ,_, five_CD in_IN 129_CD ,_, six_CD in_IN 85_CD ,_, seven_CD in_IN 76_CD ,_, eight_CD in_IN 56_CD ,_, nine_CD in_IN 42_CD ,_, and_CC ten_VB in_IN 24_CD cases_NNS ._.
+It_PRP must_MD be_VB remembered_VBN that_IN probably_RB very_RB few_JJ of_IN the_DT cases_NNS dying_VBG during_IN the_DT first_JJ 24_CD hours_NNS were_VBD brought_VBN to_TO hospital_NN ,_, and_CC that_IN many_JJ of_IN the_DT cases_NNS dying_VBG on_IN the_DT second_JJ and_CC third_JJ day_NN were_VBD also_RB not_RB detected_VBN and_CC sent_VBN to_TO hospital_NN ._.
+The_DT average_JJ dura-_JJ tion_NN of_IN the_DT disease_NN from_IN attack_NN to_TO death_NN in_IN 17_CD fatal_JJ cases_NNS among_IN native_JJ prisoners_NNS in_IN the_DT House_NNP of_IN Correction_NNP ,_, Byculla_NNP ,_, was_VBD 51/2_CD days_NNS ._.
+Second_JJ attacks_NNS from_IN plague_NN occurred_VBN in_IN two_CD cases_NNS which_WDT have_VBP been_VBN re-_JJ corded_VBN ._.
+In_IN the_DT first_JJ case_NN the_DT patient_NN who_WP had_VBD suffered_VBN from_IN plague_NN at_IN Hong_NNP kong_NN in_IN June_NNP 1894_CD was_VBD attacked_VBN in_IN Bombay_NNP on_IN the_DT 6th_CD December_NNP 1896_CD ,_, had_VBD rigors_NNS ,_, vomiting_VBG ,_, high_JJ fever_NN (_( 105_CD F._NNP )_) ,_, severe_JJ headache_NN ,_, and_CC a_DT bubo_NN in_IN the_DT right_JJ groin_NN ._.
+The_DT fever_NN and_CC other_JJ symptoms_NNS subsided_VBD within_IN a_DT week_NN and_CC she_PRP recovered_VBD ._.
+The_DT second_JJ case_NN was_VBD that_IN of_IN a_DT cooly_NN admitted_VBN into_IN the_DT Arthur_NNP Road_NNP Hospital_NNP in_IN November_NNP 1896_CD for_IN plague_NN ._.
+He_PRP was_VBD discharged_VBN cured_VBN in_IN December_NNP and_CC continued_VBD to_TO work_VB until_IN February_NNP 1897_CD ,_, when_WRB he_PRP was_VBD readmitted_VBN for_IN plague_NN and_CC died_VBD ._.
+The_DT diagnosis_NN of_IN plague_NN in_IN its_PRP$ most_RBS typical_JJ form_NN is_VBZ easy_JJ ._.
+The_DT sudden_JJ onset_NN ,_, rapid_JJ rise_NN in_IN temperature_NN ,_, vomiting_VBG ,_, headache_NN ,_, sleeplessness_NN ,_, the_DT stupid_JJ expression_NN ,_, injection_NN of_IN the_DT eyes_NNS ,_, thick_JJ speech_NN and_CC great_JJ prostration_NN point_NN to_TO plague_VB ;_: and_CC later_RB ,_, the_DT condition_NN of_IN the_DT tongue_NN ,_, the_DT frequent_NN and_CC very_RB feeble_JJ pulse_NN ,_, the_DT enlarged_JJ and_CC painful_JJ lymphatic_JJ glands_NNS ,_, the_DT course_NN of_IN the_DT temperature_NN (_( showing_VBG a_DT marked_JJ fall_NN on_IN the_DT second_JJ or_CC third_JJ day_NN followed_VBN by_IN a_DT further_JJ fall_NN to_TO ?_. 11_CD normal_JJ or_CC subnormal_JJ between_IN the_DT fifth_NN and_CC seventh_JJ days_NNS )_) and_CC the_DT rapidly_RB fatal_JJ course_NN of_IN the_DT disease_NN in_IN the_DT majority_NN of_IN cases_NNS ,_, render_VBP the_DT diagnosis_NN unmistakeable_JJ ._.
+When_WRB however_RB the_DT disease_NN takes_VBZ the_DT form_NN of_IN primary_JJ plague_NN pneumonia_NN ,_, it_PRP becomes_VBZ exceedingly_RB difficult_JJ to_TO diagnose_VB ,_, whilst_NN at_IN the_DT same_JJ time_NN ,_, owing_VBG to_TO the_DT danger_NN of_IN infection_NN from_IN the_DT sputa_NN which_WDT contain_VBP plague_JJ bacilli_NN in_IN great_JJ num-_JJ bers_NNS ,_, it_PRP is_VBZ most_RBS important_JJ to_TO recognise_VB it_PRP early_RB ._.
+In_IN primary_JJ plague_NN pneumonia_IN the_DT absence_NN of_IN acute_NN or_CC subacute_NN bronchitis_NN before_IN the_DT attack_NN ;_: the_DT rapidity_NN with_IN which_WDT high_JJ fever_NN ,_, severe_JJ headache_NN and_CC marked_JJ prostration_NN occur_NN after_IN the_DT onset_NN ;_: the_DT character_NN of_IN the_DT expectoration_NN ,_, less_JJR viscid_NN from_IN the_DT first_JJ and_CC early_JJ becoming_VBG profuse_NN and_CC watery_NN ,_, and_CC generally_RB tinged_VBN with_IN blood_NN or_CC reddish_VB from_IN admixture_NN of_IN blood_NN ;_: the_DT rapidity_NN with_IN which_WDT signs_NNS of_IN dema_NN of_IN the_DT lungs_NNS appear_VBP ;_: the_DT quality_NN of_IN the_DT pulse_NN ,_, which_WDT is_VBZ never_RB full_JJ and_CC bounding_NN ,_, and_CC soon_RB becomes_NNS very_RB soft_JJ and_CC frequent_JJ ,_, serve_VB to_TO distinguish_VB it_PRP from_IN ordinary_JJ broncho-pneumonia_NN or_CC lobar_NN pneumonia_NN in_IN the_DT majority_NN of_IN cases_NNS ;_: and_CC the_DT presence_NN in_IN all_DT cases_NNS of_IN im-_JJ mense_JJ numbers_NNS of_IN plague_NN bacilli_NN in_IN the_DT sputa_NN ,_, from_IN which_WDT cultures_NNS can_MD be_VB obtained_VBN ,_, renders_VBZ the_DT diagnosis_NN certain_JJ ._.
+Severe_JJ cases_NNS of_IN malarial_JJ fever_NN may_MD be_VB distinguished_VBN from_IN plague_NN by_IN the_DT nature_NN of_IN the_DT onset_NN ,_, the_DT cold_JJ stage_NN being_VBG more_JJR prolonged_JJ ,_, the_DT features_NNS pale_VBP and_CC shrunken_VBP ,_, and_CC the_DT nails_JJ blue_NN ._.
+In_IN the_DT hot_JJ stage_NN the_DT face_NN becomes_VBZ flushed_VBN and_CC the_DT pulse_JJ full_JJ and_CC bounding_NN ,_, but_CC is_VBZ not_RB so_RB frequent_JJ as_IN in_IN plague_NN ,_, In_IN malarial_JJ cases_NNS ,_, too_RB ,_, the_DT temperature_NN generally_RB shews_VBZ marked_JJ periodicity_NN ;_: there_EX is_VBZ no_DT prostration_NN ,_, patients_NNS possessing_VBG as_IN a_DT rule_NN their_PRP$ muscular_JJ strength_NN and_CC mental_JJ energy_NN ;_: and_CC buboes_NNS are_VBP very_RB rarely_RB met_VBN with_IN ._.
+Relapsing_VBG fever_RB ,_, like_IN plague_NN ,_, occurs_VBZ in_IN times_NNS of_IN scarcity_NN ._.
+In_IN both_DT the_DT onset_NN is_VBZ sudden_JJ ,_, and_CC rapidly_RB followed_VBN by_IN high_JJ fever_NN ,_, accompanied_VBN by_IN severe_JJ headache_NN ,_, frequent_JJ pulse_NN ,_, and_CC a_DT hot_JJ and_CC burning_JJ skin_NN ;_: the_DT tongue_NN is_VBZ furred_VBN white_JJ ,_, the_DT temperature_NN reaches_VBZ its_PRP$ maximum_NN on_IN the_DT first_JJ or_CC second_JJ day_NN ,_, and_CC a_DT remission_NN ac-_JJ companied_VBN by_IN sweating_VBG often_RB occurs_VBZ on_IN the_DT second_JJ or_CC third_JJ day_NN ,_, the_DT temperature_NN falling_VBG to_TO normal_JJ between_IN the_DT fifth_NN and_CC seventh_JJ days_NNS (_( vide_JJ Chart_NNP XXI_NNP ._. )_) ._.
+But_CC in_IN relapsing_VBG fever_NN there_EX is_VBZ giddiness_NN ;_: prostration_NN is_VBZ slight_JJ ;_: jaundice_NN not_RB in-_JJ frequently_RB occurs_VBZ on_IN the_DT third_JJ or_CC fourth_JJ day_NN ;_: the_DT face_NN is_VBZ flushed_VBN ,_, and_CC the_DT expres-_JJ sion_NN is_VBZ not_RB stupid_JJ nor_CC confused_JJ ;_: buboes_NNS are_VBP not_RB met_VBN with_IN ;_: and_CC spirilla_NN are_VBP found_VBN in_IN the_DT blood_NN during_IN the_DT height_NN of_IN the_DT fever_NN ._.
+Plague_NN in_IN its_PRP$ onset_NN and_CC early_JJ symptoms_NNS somewhat_RB resembles_VBZ Typhus_NNP fever_NN ._.
+But_CC the_DT duskiness_NN and_CC flushing_NN of_IN the_DT face_NN present_NN at_IN the_DT beginning_NN of_IN typhus_JJ fever_NN ,_, and_CC the_DT occurrence_NN of_IN an_DT eruption_NN on_IN the_DT body_NN and_CC limbs_NNS between_IN the_DT fifth_NN and_CC seventh_JJ days_NNS ,_, as_RB well_RB as_IN the_DT different_JJ course_NN of_IN the_DT temperature_NN (_( vide_JJ Chart_NNP IX_NNP ._. )_)
+and_CC the_DT absence_NN of_IN buboes_NNS would_MD serve_VB to_TO distinguish_VB between_IN them_PRP ._.
+Owing_VBG to_TO the_DT feebleness_NN ,_, thick_JJ utterance_NN and_CC staggering_JJ gait_NN ,_, frequently_RB seen_VBN in_IN plague_NN cases_NNS ,_, the_DT disease_NN is_VBZ sometimes_RB mistaken_VBN for_IN alcoholic_JJ poisoning_NN ._.
+The_DT following_NN is_VBZ a_DT typical_JJ case_NN ._.
+Govind_NNP Jeeva_NNP was_VBD taken_VBN by_IN his_PRP$ friends_NNS for_IN treatment_NN to_TO a_DT qualified_JJ medical_JJ practitioner_NN ._.
+They_PRP stated_VBD that_IN he_PRP had_VBD had_VBN a_DT fall_NN ,_, and_CC the_DT following_JJ note_NN of_IN his_PRP$ case_NN was_VBD made_VBN :_: ``_`` Pupils_VBZ slightly_RB dilated_VBN ,_, breath_NN smells_NNS very_RB faintly_RB of_IN alcohol_NN ,_, has_VBZ a_DT slight_NN contused_VBN wound_NN over_IN but_CC not_RB exposing_VBG malar_JJ bone_NN ,_, ''_'' and_CC an_DT emetic_NN was_VBD prescribed_VBN ._.
+Fortunately_RB this_DT was_VBD not_RB given_VBN ._.
+Next_JJ day_NN a_DT note_NN was_VBD made_VBN as_IN follows_VBZ :_: ``_`` Bowels_IN not_RB opened_VBN for_IN two_CD days_NNS ,_, is_VBZ not_RB quite_RB recovered_VBN from_IN the_DT effects_NNS of_IN drink_NN ,_, ''_'' and_CC on_IN the_DT following_JJ day_NN :_: ``_`` Speech_NNP indistinct_NN ,_, temperature_NN 102_CD F._NNP ,_, bowels_VBZ not_RB opened_VBN ._. ''_''
+On_IN the_DT fourth_JJ day_NN he_PRP died_VBD ._.
+In_IN this_DT case_NN enquiry_NN showed_VBD that_IN the_DT patient_NN had_VBD been_VBN two_CD days_NNS ill_VBP with_IN fever_NN ,_, and_CC was_VBD given_VBN a_DT little_JJ alcohol_NN after_IN having_VBG fallen_VBN down_RP in_IN a_DT faint_NN ._.
+He_PRP was_VBD seen_VBN by_IN another_DT medical_JJ man_NN shortly_RB after_IN the_DT emetic_NN was_VBD prescribed_VBN ,_, and_CC found_VBD to_TO have_VB a_DT very_RB frequent_JJ and_CC feeble_JJ pulse_NN ,_, fever_NN ,_, and_CC a_DT typically_RB coated_VBN tongue_NN ._.
+The_DT diagnosis_NN of_IN plague_NN was_VBD made_VBN and_CC afterwards_NNS verified_VBN by_IN post_NN mortem_NN examination_NN ._.
+Had_VBD the_DT case_NN been_VBN one_CD of_IN alcoholic_JJ poisoning_NN ,_, there_EX would_MD have_VB been_VBN a_DT full_JJ and_CC bounding_VBG pulse_RB ,_, a_DT normal_JJ or_CC subnormal_JJ temperature_NN ,_, and_CC considerable_JJ mental_JJ excitement_NN ;_: or_CC in_IN a_DT later_JJ stage_NN drowsiness_NN ,_, or_CC coma_NN with_IN stertorous_JJ breathing_NN ,_, a_DT slow_JJ and_CC compressible_JJ pulse_NN ,_, and_CC a_DT subnormal_JJ temperature_NN ._.
+In_IN plague_NN cases_NNS where_WRB abdominal_JJ symptoms_NNS are_VBP marked_VBN and_CC a_DT typhoid_JJ con-_JJ dition_NN has_VBZ supervened_VBN ,_, the_DT diagnostic_JJ features_NNS given_VBN by_IN Surgeon-Captain_NNP Hojel_NNP ?_. 12_CD are_VBP :_: -The_JJ onset_NN is_VBZ sudden_JJ ,_, usually_RB ushered_VBN in_IN by_IN a_DT well_NN marked_VBN rigor_NN ;_: the_DT tempera-_JJ ture_NN shows_VBZ a_DT high_JJ initial_JJ rise_NN in_IN most_JJS cases_NNS ,_, followed_VBN by_IN a_DT marked_JJ remission_NN to_TO normal_JJ (_( or_CC a_DT little_JJ above_IN or_CC below_IN it_PRP )_) on_IN the_DT second_JJ ,_, third_JJ or_CC fourth_JJ day_NN (_( vide_IN Chart_NNP XXIV_NNP )_) ;_: the_DT pulse_NN large_JJ and_CC full_JJ at_IN first_JJ ,_, becomes_VBZ peculiarly_RB soft_JJ and_CC is_VBZ characterized_VBN by_IN a_DT great_JJ want_NN of_IN sharpness_NN in_IN stroke_NN ;_: it_PRP is_VBZ very_RB com-_JJ pressible_NN at_IN an_DT early_JJ stage_NN and_CC dicrotic_JJ ,_, but_CC the_DT dicrotism_NN is_VBZ not_RB very_RB easily_RB recognized_VBN by_IN the_DT finger_NN ;_: the_DT aspect_NN is_VBZ dull_JJ ,_, heavy_JJ and_CC apathetic_JJ ,_, and_CC the_DT patient_NN has_VBZ a_DT peculiar_JJ stricken_JJ look_NN ;_: the_DT eyes_NNS are_VBP dull_JJ and_CC muddy_JJ looking_VBG ,_, the_DT conjunctiv_NN are_VBP suffused_VBN ,_, but_CC the_DT pupils_NNS in_IN most_JJS cases_NNS are_VBP normal_JJ ;_: there_EX is_VBZ generally_RB flushing_VBG of_IN the_DT face_NN ;_: diarrha_CC when_WRB present_JJ is_VBZ simple_JJ ,_, but_CC very_RB offensive_JJ ;_: delirium_NN and_CC other_JJ cerebral_JJ disturbance_NN occur_VBD early_JJ ,_, and_CC there_EX is_VBZ great_JJ prostration_NN from_IN the_DT first_JJ ;_: abdominal_JJ distension_NN occurs_VBZ early_RB ,_, on_IN the_DT third_JJ ,_, fourth_JJ or_CC fifth_JJ day_NN ;_: the_DT eruption_NN is_VBZ not_RB readily_RB effaced_VBN and_CC is_VBZ of_IN a_DT ``_`` deep_JJ red_JJ colour_NN (_( petechial_JJ )_) ''_'' ;_: there_EX is_VBZ severe_JJ pain_NN lumbar_NN in_IN many_JJ cases_NNS ._.
+During_IN the_DT present_JJ epidemic_JJ no_DT cases_NNS of_IN glandular_JJ fever_NN among_IN children_NNS or_CC young_JJ adults_NNS were_VBD met_VBN with_IN ;_: nor_CC did_VBD an_DT outbreak_NN characterized_VBN by_IN the_DT appearance_NN of_IN buboes_NNS ,_, and_CC accompanied_VBN by_IN a_DT little_JJ or_CC no_DT constitutional_JJ disturb-_NN ance_NN ,_, precede_NN or_CC accompany_VB the_DT outbreak_NN of_IN plague_NN in_IN Bombay_NNP ._.
+Until_IN bac-_JJ teriological_JJ diagnosis_NN has_VBZ settled_VBN that_IN the_DT microbe_NN in_IN these_DT cases_NNS is_VBZ the_DT plague_NN bacillus_NN ,_, it_PRP is_VBZ premature_JJ to_TO speak_VB of_IN them_PRP as_IN cases_NNS of_IN benign_JJ plague_NN ._.
+In_IN Calcutta_NNP a_DT number_NN of_IN cases_NNS of_IN this_DT sort_NN occurred_VBD over_IN twelve_JJ months_NNS ago_RB ,_, but_CC up_RB to_TO the_DT present_JJ no_DT outbreak_NN of_IN plague_NN has_VBZ followed_VBN ._.
+The_DT bacteriological_JJ diagnosis_NN of_IN plague_NN has_VBZ been_VBN purposely_RB omitted_VBN ,_, as_IN it_PRP will_MD be_VB given_VBN in_IN full_JJ detail_NN in_IN M._NNP Haffkine_NNP 's_POS report_NN ._.
+Besides_IN ,_, it_PRP can_MD not_RB be_VB carried_VBN out_RP in_IN practice_NN by_IN medical_JJ men_NNS who_WP have_VBP no_DT special_JJ bacteriological_JJ training_NN nor_CC access_NN to_TO a_DT laboratory_NN ,_, and_CC as_IN they_PRP are_VBP the_DT first_JJ persons_NNS who_WP come_VBP in_IN contact_NN with_IN the_DT disease_NN ,_, it_PRP is_VBZ of_IN especial_JJ importance_NN that_IN they_PRP should_MD be_VB able_JJ to_TO recognise_VB plague_NN cases_NNS by_IN their_PRP$ ordinary_JJ clinical_JJ features_NNS ._.
+The_DT prognosis_NN of_IN plague_NN is_VBZ always_RB exceedingly_RB grave_JJ ,_, as_IN it_PRP is_VBZ the_DT most_RBS fatal_JJ of_IN all_DT known_VBN epidemic_JJ diseases_NNS ._.
+Dr._NNP Viegas_NNP ,_, who_WP practises_VBZ on_IN the_DT Port_NNP Trust_NNP Estate_NNP and_CC was_VBD the_DT first_JJ to_TO notice_VB the_DT presence_NN of_IN plague_NN in_IN Bombay_NNP about_IN the_DT third_JJ week_NN in_IN September_NNP 1896_CD ,_, states_VBZ that_IN the_DT mortality_NN during_IN the_DT first_JJ four_CD weeks_NNS after_IN the_DT outbreak_NN was_VBD discovered_VBN lay_NN between_IN 95_CD and_CC 99_CD %_NN ,_, and_CC between_IN the_DT end_NN of_IN October_NNP and_CC the_DT end_NN of_IN November_NNP between_IN 85_CD and_CC 90_CD %_NN ._.
+The_DT mortality_NN in_IN 1,579_CD cases_NNS treated_VBN in_IN the_DT Arthur_NNP Road_NNP and_CC Parel_NNP Hospitals_NNP was_VBD 69.54_CD %_NN ._.
+In_IN the_DT Poona_NNP Plague_NNP Hospital_NNP ,_, out_IN of_IN 1,130_CD patients_NNS admitted_VBN ,_, 757_CD died_VBD ,_, giving_VBG a_DT mortality_NN of_IN 67_CD %_NN ._.
+In_IN the_DT House_NNP of_IN Correction_NNP ,_, Byculla_NNP ,_, however_RB ,_, where_WRB the_DT entire_JJ number_NN of_IN those_DT attacked_VBN were_VBD admitted_VBN into_IN hospital_NN at_IN once_RB ,_, only_RB 17_CD persons_NNS died_VBD out_IN of_IN 33_CD attacked_NNS ,_, or_CC 51.52_CD %_NN ._.
+These_DT prisoners_NNS were_VBD all_DT adults_NNS between_IN 20_CD and_CC 50_CD years_NNS of_IN age_NN ,_, in_IN good_JJ bodily_NN health_NN ,_, and_CC carefully_RB attended_VBD to_TO from_IN the_DT time_NN they_PRP fell_VBD ill_RB ._.
+In_IN Damaun_NNP ,_, out_IN of_IN 110_CD persons_NNS living_VBG in_IN the_DT same_JJ families_NNS ,_, 54_CD were_VBD attacked_VBN by_IN plague_NN ,_, of_IN whom_WP 37_CD or_CC 68.52_CD %_NN died_VBD ._.
+Under_IN ordinary_JJ conditions_NNS therefore_VBP the_DT mortality_NN among_IN those_DT attacked_VBN during_IN the_DT present_JJ outbreak_NN was_VBD probably_RB between_IN 65_CD and_CC 70_CD %_NN ._.
+Looking_VBG at_IN the_DT mortality_NN ,_, according_VBG to_TO race_NN and_CC caste_NN ,_, among_IN the_DT patients_NNS admitted_VBD into_IN Arthur_NNP Road_NNP and_CC Parel_NNP Hospitals_NNP (_( Table_NNP II_NNP )_) ,_, the_DT highest_JJS mortality_NN ,_, 71.25_CD %_NN ,_, occurred_VBD amongst_JJ Hindoos_NNP ;_: then_RB follow_VB Jews_NNPS with_IN 66.67_CD %_NN ,_, Native_JJ Christians_NNPS with_IN 65.45_CD %_NN ,_, Brahmins_NNP with_IN 65.21_CD %_NN ,_, Parsees_NNP with_IN 64.29_CD %_NN ,_, and_CC Mahomedans_NNPS with_IN 64.24_CD %_NN :_: the_DT number_NN of_IN Jews_NNP (_( 9_CD )_) ,_, Brahmins_NNP (_( 23_CD )_) and_CC Parsees_NNP (_( 14_CD )_) ,_, however_RB ,_, were_VBD too_RB small_JJ to_TO give_VB reliable_JJ results_NNS ._.
+Among_IN Europeans_NNPS and_CC Eurasians_NNPS a_DT much_RB lower_JJR death-rate_NN ,_, 38.95_CD %_NN ,_, occurred_VBD ,_, owing_VBG most_JJS probably_RB to_TO their_PRP$ possessing_NN more_RBR stamina_JJ ,_, and_CC being_VBG treated_VBN earlier_JJR and_CC more_RBR carefully_RB nursed_VBN during_IN the_DT attack_NN ._.
+Out_IN of_IN 34_CD Europeans_NNPS admitted_VBN into_IN St._NNP George_NNP 's_POS Hospital_NNP 23_CD recovered_VBD and_CC 11_CD died_VBD ,_, the_DT percentage_NN of_IN deaths_NNS to_TO attacks_NNS being_VBG 32.35_CD %_NN ,_, while-_JJ out_IN of_IN 61_CD Eurasians_NNS under_IN treatment_NN 58_CD recovered_VBD and_CC 37_CD died_VBD ,_, or_CC 42.62_CD %_NN of_IN deaths_NNS to_TO attacks_NNS ._.
+Table_NN I_PRP ._.
+?_. 13_CD shows_VBZ the_DT recoveries_NNS and_CC deaths_NNS among_IN Europeans_NNPS and_CC Eurasians_NNPS at_IN the_DT different_JJ periods_NNS of_IN life_NN ,_, but_CC the_DT numbers_NNS are_VBP too_RB small_JJ to_TO attach_VB much_JJ value_NN to_TO their_PRP$ analysis_NN ._.
+It_PRP will_MD be_VB noticed_VBN however_RB (_( Table_JJ III_NNP ._. )_)
+that_DT while_NN among_IN natives_VBZ the_DT lowest_JJS percentage_NN of_IN deaths_NNS to_TO attacks_NNS occurred_VBD between_IN the_DT ages_NNS of_IN 1_CD and_CC 20_CD years_NNS ,_, in_IN Europeans_NNPS and_CC Eurasians_NNPS it_PRP lay_VBD between_IN the_DT ages_NNS of_IN 20_CD and_CC 40_CD years_NNS ;_: also_RB that_IN between_IN 20_CD and_CC 40_CD years_NNS the_DT percentage_NN of_IN deaths_NNS to_TO attacks_NNS was_VBD twice_RB as_RB high_JJ among_IN natives_NNS (_( 69.75_CD %_NN )_) as_IN among_IN Europeans_NNPS and_CC Eurasians_NNPS (_( 34.21_CD %_NN )_) ._.
+It_PRP is_VBZ impossible_JJ to_TO give_VB any_DT definite_JJ prognosis_NN with_IN regard_NN to_TO individual_JJ plague_NN cases_NNS ,_, as_IN sometimes_RB those_DT that_IN appear_VBP to_TO be_VB quite_RB hopeless_JJ recover_NN ,_, while_IN others_NNS apparently_RB much_RB less_RBR severe_JJ die_NN ._.
+The_DT conditions_NNS regarded_VBD as_IN most_JJS unfavourable_JJ are_VBP the_DT occurrence_NN of_IN the_DT disease_NN in_IN its_PRP$ septicmic_JJ form_NN ,_, or_CC as_IN primary_JJ plague-pneumonia_NN ._.
+Among_IN cases_NNS in_IN which_WDT buboes_NNS are_VBP found_VBN ,_, those_DT where_WRB the_DT buboes_NNS are_VBP situated_VBN in_IN the_DT cervical_JJ region_NN appear_VB to_TO be_VB more_RBR unfavourable_JJ than_IN those_DT with_IN buboes_NNS in_IN the_DT axilla_NN or_CC groin_NN ;_: and_CC cases_NNS with_IN multiple_JJ buboes_NNS are_VBP more_RBR unfavourable_JJ than_IN those_DT with_IN single_JJ buboes_NNS ._.
+The_DT symptoms_NNS which_WDT are_VBP generally_RB looked_VBN upon_IN as_IN unfavourable_JJ are_VBP the_DT persistence_NN of_IN severe_JJ and_CC continuous_JJ vomiting_NN ,_, and_CC the_DT early_JJ appearance_NN of_IN diarrha_NN ,_, the_DT early_JJ onset_NN and_CC continuance_NN of_IN violent_JJ delirium_NN ,_, or_CC the_DT setting_NN in_IN of_IN coma_NN ._.
+The_DT appearance_NN of_IN petechi_NN is_VBZ generally_RB believed_VBN to_TO precede_VB death_NN ,_, and_CC hmorrhages_NNS from_IN the_DT kidneys_NNS and_CC bowels_NNS are_VBP considered_VBN very_RB unfavourable_JJ ._.
+Attacks_NNS occurring_VBG late_RB in_IN the_DT epidemic_JJ ,_, although_IN often_RB no_DT less_RBR severe_RB in_IN their_PRP$ onset_NN (_( Chart_NNP XXVI_NNP ._.
+)_) ,_, run_VB a_DT milder_NN course_NN than_IN those_DT occurring_VBG at_IN the_DT beginning_NN of_IN the_DT outbreak_NN ._.
+Treatment.-No_NNP specific_JJ remedy_NN has_VBZ up_RP to_TO the_DT present_JJ been_VBN discovered_VBN for_IN the_DT treatment_NN of_IN plague_NN cases_NNS ._.
+During_IN the_DT present_JJ epidemic_JJ two_CD lines_NNS of_IN treatment_NN have_VBP been_VBN tried_VBN ,_, the_DT one_CD ,_, hygienic_NN and_CC symptomatic_JJ ,_, with_IN the_DT object_NN of_IN tiding_VBG the_DT patient_NN over_IN a_DT certain_JJ period_NN when_WRB ,_, as_IN in_IN the_DT case_NN of_IN the_DT other_JJ specific_JJ fevers_NNS ,_, experience_NN has_VBZ shown_VBN that_IN there_EX is_VBZ a_DT natural_JJ tendency_NN to_TO recovery_NN ;_: the_DT other_JJ ,_, the_DT antitoxic_NN treatment_NN ,_, with_IN the_DT object_NN of_IN neutralizing_VBG by_IN means_NNS of_IN antitoxic_NN serum_VBP the_DT virus_NN produced_VBN by_IN the_DT microbe_NN ,_, and_CC of_IN preventing_VBG the_DT growth_NN of_IN the_DT bacillus_NN itself_PRP ._.
+The_DT hygienic_NN and_CC symptomatic_JJ treatment_NN consists_VBZ in_IN economising_VBG ,_, as_RB far_RB as_IN possible_JJ ,_, the_DT nervous_JJ and_CC muscular_JJ energy_NN of_IN the_DT patient_NN by_IN placing_VBG him_PRP under_IN the_DT most_RBS favourable_JJ conditions_NNS and_CC treating_VBG symptoms_NNS ._.
+With_IN this_DT object_NN a_DT plague_NN patient_NN is_VBZ put_VBN to_TO bed_NN at_IN the_DT onset_NN of_IN the_DT disease_NN ,_, kept_VBD in_IN the_DT recumbent_NN posture_NN (_( on_IN account_NN of_IN the_DT tendency_NN which_WDT there_EX is_VBZ to_TO fatal_JJ syncope_NN )_) until_IN con-_JJ valescence_NN is_VBZ established_VBN ,_, and_CC supplied_VBD with_IN suitable_JJ nourishment_NN at_IN short_JJ intervals_NNS ._.
+The_DT symptoms_NNS which_WDT require_VBP special_JJ attention_NN are_VBP those_DT connected_VBN with_IN the_DT nervous_JJ system_NN and_CC with_IN the_DT circulation_NN ._.
+In_IN the_DT nervous_JJ system_NN they_PRP are_VBP mainly_RB due_JJ to_TO congestion_NN of_IN the_DT nervous_JJ centres_NNS at_IN the_DT commencement_NN of_IN the_DT attack_NN ,_, followed_VBN by_IN dema_NN towards_NNS its_PRP$ close_NN ,_, the_DT former_JJ giving_VBG rise_NN to_TO fever_VB ,_, headache_NN ,_, vomiting_VBG ,_, insomnia_NN and_CC delirium_NN ,_, the_DT latter_NN to_TO stupor_VB and_CC coma_VB ._.
+These_DT symptoms_NNS are_VBP treated_VBN on_IN general_JJ lines_NNS ,_, i.e_NN ._.
+the_DT avoidance_NN of_IN light_NN ,_, the_DT application_NN of_IN ice_NN or_CC cold_JJ water_NN to_TO the_DT head_NN and_CC surface_NN of_IN the_DT body_NN if_IN the_DT temperature_NN continues_VBZ high_JJ ,_, and_CC the_DT use_NN of_IN hypnotics_NNS and_CC sedatives_NNS for_IN sleeplessness_NN and_CC delirium_NN ._.
+In_IN connection_NN with_IN the_DT circulation_NN the_DT symptoms_NNS to_TO be_VB combatted_VBN are_VBP vaso-_JJ motor_NN paralysis_NN and_CC heart_NN failure_NN ,_, the_DT latter_NN probably_RB due_RB partly_RB to_TO the_DT direct_JJ action_NN of_IN the_DT toxic_JJ poison_NN on_IN the_DT cardiac_JJ ganglia_NN and_CC partly_RB to_TO softening_VBG and_CC degeneration_NN of_IN the_DT muscular_JJ wall_NN of_IN the_DT heart_NN ._.
+For_IN these_DT symptoms_NNS the_DT use_NN of_IN alcohol_NN in_IN some_DT form_NN is_VBZ generally_RB required_VBN after_IN the_DT first_JJ day_NN ;_: in_IN most_JJS cases_NNS also_RB the_DT administration_NN of_IN drugs_NNS which_WDT act_VBP as_IN cardiac_JJ tonics_NNS and_CC vascular_JJ stimulants_NNS such_JJ as_IN ammonia_NN ,_, digitalis_NN ,_, stryehnine_NN ,_, quinine_NN ,_, is_VBZ found_VBN necessary_JJ ._.
+All_DT drugs_NNS which_WDT depress_VBP the_DT heart_NN and_CC circulation_NN should_MD ,_, as_RB far_RB as_IN possible_JJ ,_, be_VB avoided_VBN ._.
+The_DT treatment_NN of_IN pneumonia_NN ,_, primary_JJ or_CC secondary_JJ ,_, calls_VBZ for_IN the_DT free_JJ administration_NN of_IN stimulants_NNS and_CC of_IN stimulating_JJ expectorants_NNS for_IN the_DT relief_NN of_IN cough_NN and_CC dyspna_NN ,_, due_JJ to_TO the_DT accumulation_NN of_IN fluid_NN in_IN the_DT bronchial_JJ tubes_NN ,_, B_NNP 1751-4_CD 14_CD Gastro-intestinal_JJ symptoms_NNS ,_, buboes_NNS and_CC such_JJ other_JJ complications_NNS as_IN arise_NN are_VBP managed_VBN on_IN general_JJ principles_NNS ._.
+In_IN treatment_NN by_IN antitoxine_VBG the_DT correct_JJ principle_NN of_IN removing_VBG the_DT cause_NN of_IN the_DT disease_NN is_VBZ aimed_VBN at_IN ,_, but_CC up_RB to_TO the_DT present_JJ time_NN ,_, so_RB far_RB as_IN information_NN is_VBZ obtainable_JJ of_IN M._NNP Yersin_NNP 's_POS results_NNS ,_, and_CC those_DT of_IN other_JJ doctors_NNS ,_, French_JJ and_CC Russian_JJ ,_, who_WP have_VBP tried_VBN it_PRP ,_, it_PRP has_VBZ failed_VBN to_TO influence_VB favourably_RB the_DT mortality_NN among_IN those_DT attacked_VBN ._.
+Surg.-Captain_NNP Thomson_NNP ,_, the_DT Medical_NNP Officer_NNP in_IN charge_NN of_IN Parel_NNP Plague_NNP Hospital_NNP ,_, has_VBZ kindly_RB supplied_VBN me_PRP with_IN a_DT tabular_JJ statement_NN (_( vide_IN Table_NNP VIII_NNP ._. )_)
+showing_VBG the_DT details_NNS of_IN 27_CD cases_NNS under_IN his_PRP$ care_NN treated_VBN by_IN M._NNP Yersin_NNP 's_POS antitoxic_JJ serum_NN ._.
+From_IN these_DT 27_CD cases_NNS he_PRP excludes_VBZ 4_CD (_( 2_CD of_IN which_WDT died_VBD and_CC 2_CD recovered_VBN )_) ,_, viz._FW ,_, one_CD suffering_NN from_IN meningitis_NN and_CC an_DT osseous_JJ tumour_NN pressing_VBG on_IN the_DT medulla_NN (_( case_NN 4_CD )_) ,_, one_CD treated_VBN prophylactically_RB (_( case_NN 11_CD )_) ,_, and_CC two_CD which_WDT were_VBD not_RB plague_JJ cases_NNS (_( cases_NNS 24_CD and_CC 27_CD )_) ._.
+Of_IN the_DT remaining_VBG 23_CD plague_NN cases_NNS ,_, 14_CD or_CC 60.83_CD per_IN cent_NN ._.
+died_VBN ._.
+The_DT detail_NN of_IN the_DT cases_NNS treated_VBN by_IN M._NNP Haffkine_NNP with_IN the_DT antitoxic_NN serum_NN prepared_VBN by_IN him_PRP in_IN Bombay_NNP will_MD be_VB found_VBN in_IN his_PRP$ report_NN ._.
+The_DT prophylatic_JJ measures_NNS which_WDT demand_VBP attention_NN on_IN the_DT occurrence_NN of_IN a_DT case_NN of_IN plague_NN in_IN a_DT family_NN are_VBP the_DT removal_NN ,_, when_WRB practicable_JJ ,_, of_IN the_DT unaffected_JJ members_NNS from_IN the_DT house_NN ,_, to_TO allow_VB of_IN its_PRP$ being_VBG thoroughly_RB cleaned_VBN ,_, and_CC of_IN the_DT patient_NN to_TO a_DT hospital_NN ,_, where_WRB he_PRP can_MD receive_VB proper_JJ care_NN and_CC attention_NN ,_, unless_IN suitable_JJ provision_NN can_MD be_VB made_VBN for_IN his_PRP$ treatment_NN at_IN home_NN ._.
+All_PDT those_DT who_WP have_VBP been_VBN living_VBG with_IN him_PRP should_MD undergo_VB inoculation_NN against_IN plague_NN ,_, as_IN this_DT is_VBZ found_VBN to_TO diminish_VB the_DT risk_NN of_IN infection_NN by_IN 70_CD to_TO 80_CD per_IN cent._NN ,_, and_CC to_TO increase_VB the_DT prospect_NN of_IN recovery_NN in_IN those_DT attacked_VBN after_IN inoculation_NN by_IN 60_CD to_TO 70_CD per_IN cent_NN ._.
+(_( vide_JJ report_NN on_IN inoculation_NN )_) ._.
+The_DT patient_NN 's_POS sputa_NN and_CC excreta_NN and_CC all_DT discharges_NNS from_IN buboes_NNS and_CC sores_NNS should_MD be_VB received_VBN in_IN vessels_NNS containing_VBG suitable_JJ disin-_JJ fectants_NNS ,_, and_CC on_IN the_DT termination_NN of_IN the_DT illness_NN everything_NN which_WDT was_VBD used_VBN by_IN him_PRP ,_, or_CC had_VBD been_VBN rendered_VBN liable_JJ to_TO contamination_NN ,_, should_MD be_VB thoroughly_RB cleansed_VBN and_CC disinfected_VBN ,_, or_CC ,_, if_IN practicable_JJ ,_, burnt_JJ (_( vide_IN Mr._NNP Hankin_NNP 's_POS report_NN )_) ._.
+Nurses_NNS and_CC attendants_NNS who_WP are_VBP in_IN close_JJ and_CC constant_JJ attendance_NN on_IN plague_NN patients_NNS should_MD undergo_VB inoculation_NN ._.
+All_DT wounds_NNS and_CC abrasions_NNS on_IN the_DT hands_NNS ,_, etc._FW ,_, should_MD be_VB protected_VBN from_IN the_DT risk_NN of_IN infection_NN ,_, and_CC the_DT hands_NNS should_MD be_VB thoroughly_RB washed_VBN and_CC disinfected_VBN after_IN dressing_VBG sores_NNS or_CC otherwise_RB becoming_VBG soiled_VBN ._.
+Their_PRP$ natural_JJ immunity_NN should_MD be_VB increased_VBN as_RB much_JJ as_IN possible_JJ by_IN regular_JJ meals_NNS ,_, sufficient_JJ exercise_NN and_CC rest_NN to_TO ensure_VB their_PRP$ keeping_VBG in_IN good_JJ health_NN ._.
+?_. 15_CD CASES_NNP ILLUSTRATING_NNP THE_NNP COURSE_NNP OF_NNP PLAGUE_NNP IN_NNP THE_NNP INOCULATED_NNP ._.
+Kondabai_NNP ,_, a_DT female_NN ,_, aged_VBD 11_CD years_NNS ,_, came_VBD from_IN a_DT compound_NN in_IN which_WDT four_CD other_JJ servants_NNS were_VBD attacked_VBN by_IN plague_NN ,_, three_CD of_IN whom_WP had_VBD died_VBN ._.
+Kondabai_NNP and_CC the_DT other_JJ servant_NN who_WP recovered_VBD were_VBD inoculated_VBN with_IN M._NNP Haffkine_NNP 's_POS prophylactic_JJ lymph_NN nine_CD days_NNS before_IN she_PRP was_VBD attacked_VBN ._.
+When_WRB first_RB seen_VBN on_IN the_DT 21st_CD February_NNP 1897_CD ,_, at_IN the_DT Arthur_NNP Road_NNP Hospital_NNP ,_, she_PRP was_VBD delirious_JJ ,_, her_PRP$ expression_NN was_VBD frightened_VBN ,_, the_DT eyes_NNS were_VBD not_RB red_JJ nor_CC injected_JJ ._.
+The_DT pulse_NN was_VBD frequent_JJ ,_, 126_CD per_IN minute_NN and_CC rather_RB wiry_NN ,_, respiration_NN 35_CD per_IN minute_NN ,_, temperature_NN 103_CD F._NNP Her_NNP tongue_NN was_VBD moist_JJ and_CC somewhat_RB swollen_JJ and_CC thickly_JJ coated_VBD white_JJ except_IN at_IN the_DT tip_NN and_CC edges_NNS ;_: the_DT bowels_NNS were_VBD confined_VBN ._.
+Her_PRP$ father_NN stated_VBD that_IN she_PRP had_VBD had_VBN slight_VBN fever_RB after_IN inoculation_NN ,_, and_CC that_DT previous_JJ to_TO the_DT onset_NN of_IN plague_NN symptoms_NNS she_PRP had_VBD been_VBN in_IN good_JJ health_NN ._.
+She_PRP was_VBD attacked_VBN on_IN the_DT previous_JJ night_NN by_IN shivering_VBG ,_, vomiting_VBG and_CC headache_NN ,_, and_CC at_IN the_DT same_JJ time_NN a_DT very_RB painful_JJ bubo_NN appeared_VBD in_IN the_DT cervical_JJ region_NN at_IN the_DT angle_NN of_IN the_DT lower_JJR jaw_NN on_IN the_DT right_JJ side_NN ._.
+There_EX was_VBD a_DT good_JJ deal_NN of_IN infiltration_NN into_IN the_DT cellular_JJ tissue_NN around_IN the_DT gland_NN ,_, giving_VBG rise_NN to_TO a_DT painful_JJ swelling_VBG which_WDT pre-_NN vented_VBD her_PRP$ opening_VBG her_PRP$ mouth_NN freely_RB ._.
+She_PRP had_VBD slight_JJ cough_NN with_IN tough_JJ and_CC scanty_JJ expectoration_NN ._.
+On_IN examining_VBG the_DT lungs_NNS the_DT bases_NNS were_VBD slightly_RB congested_VBN ,_, particularly_RB the_DT right_NN ._.
+The_DT heart_NN sounds_VBZ were_VBD normal_JJ ._.
+The_DT liver_NN and_CC spleen_NN did_VBD not_RB appear_VB to_TO be_VB enlarged_VBN ,_, but_CC it_PRP was_VBD very_RB difficult_JJ to_TO examine_VB her_PRP ,_, as_IN she_PRP was_VBD delirious_JJ and_CC could_MD hardly_RB be_VB kept_VBN in_IN bed_NN ._.
+Vomiting_VBG had_VBD ceased_VBN ._.
+The_DT urine_NN was_VBD passed_VBN involuntarily_RB ,_, and_CC was_VBD not_RB examined_VBN ._.
+There_EX was_VBD no_DT skin_JJ eruption_NN ._.
+On_IN the_DT evening_NN of_IN the_DT 21st_CD her_PRP$ temperature_NN had_VBD run_VBN up_RB to_TO 106_CD F._NNP (_( vide_IN Chart_NNP VIII_NNP )_) ,_, *_JJ pulse_NN was_VBD frequent_JJ and_CC fair_JJ in_IN volume_NN ,_, there_EX was_VBD a_DT doughy_JJ swelling_VBG filling_VBG up_RP the_DT interval_NN between_IN the_DT lower_JJR jaw_NN and_CC the_DT neck_NN and_CC extend-_JJ ing_NN for_IN a_DT short_JJ distance_NN downwards_NNS ;_: the_DT corresponding_JJ cervical_JJ gland_NN on_IN the_DT left_JJ side_NN was_VBD also_RB inflamed_VBN and_CC tender_NN ._.
+She_PRP was_VBD very_RB delirious_JJ ,_, the_DT cough_NN continued_VBD ,_, but_CC no_DT examination_NN of_IN her_PRP$ lungs_NNS was_VBD possible_JJ ._.
+On_IN the_DT morning_NN of_IN the_DT 22nd_CD she_PRP was_VBD still_RB delirious_JJ ,_, but_CC became_VBD conscious_JJ towards_IN the_DT evening_NN ,_, her_PRP temperature_NN falling_VBG to_TO 102.4_CD F._NNP Next_NNP morning_NN a_DT painful_JJ gland_NN appeared_VBD in_IN the_DT right_JJ axilla_NN ._.
+All_PDT these_DT glands_NNS eventually_RB suppurated_VBD ;_: otherwise_RB the_DT course_NN of_IN the_DT disease_NN presented_VBD no_DT features_NNS of_IN special_JJ interest_NN ._.
+Noronha_NNP ,_, a_DT clerk_NN in_IN the_DT office_NN of_IN the_DT B_NNP ._.
+B._NNP and_CC C._NNP I_PRP ._.
+Railway_NNP ,_, left_VBD his_PRP$ house_NN in_IN Girgaum_NNP and_CC went_VBD to_TO live_VB in_IN the_DT Fort_NNP on_IN the_DT 1st_CD April_NNP 1897_CD ._.
+He_PRP had_VBD been_VBN inoculated_VBN with_IN M._NNP Haffkine_NNP 's_POS prophylactic_JJ against_IN plague_NN on_IN the_DT 1st_CD ,_, and_CC on_IN the_DT 3rd_CD March_NNP ,_, having_VBG been_VBN given_VBN 3_CD c._JJ c._NN on_IN the_DT 1st_CD and_CC 31/2_CD c._NNS c._NN on_IN the_DT 2nd_CD occasion_NN ._.
+He_PRP was_VBD attacked_VBN by_IN plague_NN on_IN the_DT 9th_CD April_NNP ._.
+The_DT disease_NN set_VBN in_IN with_IN a_DT chill_NN ,_, followed_VBN by_IN fever_NN ,_, severe_JJ headache_NN and_CC acute_NN pain_NN in_IN the_DT left_NN groin_NN ._.
+He_PRP stated_VBD that_IN on_IN the_DT 1st_CD April_NNP a_DT mouse_NN was_VBD found_VBN dead_JJ under_IN his_PRP$ cot_NN ,_, and_CC on_IN the_DT 2nd_CD April_NNP a_DT dead_JJ rat_NN was_VBD discovered_VBN in_IN the_DT house_NN ._.
+On_IN the_DT 12th_CD April_NNP the_DT fever_NN and_CC headache_NN diminished_VBN considerably_RB ._.
+On_IN the_DT 13th_JJ February_NNP he_PRP was_VBD seen_VBN by_IN Dr._NNP Bhalchandra_NNP Krishna_NNP ,_, who_WP found_VBD he_PRP had_VBD a_DT temperature_NN of_IN 100_CD F._NNP and_CC a_DT left_JJ femoral_JJ bubo_NN ,_, and_CC diagnosed_VBD the_DT disease_NN plague_NN ._.
+On_IN the_DT 14th_CD he_PRP had_VBD no_DT fever_NN and_CC afterwards_NNS attended_VBD Dr._NNP Bhalchundra_NNP 's_POS dispensary_NN for_IN medicine_NN ,_, and_CC made_VBD an_DT uninterrupted_JJ recovery_NN ._.
+A_DT CASE_NNP OF_NNP MARKED_NNP GENERAL_NNP INCO-ORDINATION_NNP AND_NNP PARESIS_NNP AFTER_NNP PLAGUE_NNP ._.
+Kallian_JJ Vishram_NNP ,_, aged_VBD 19_CD ,_, a_DT Hindu_NNP ,_, by_IN occupation_NN a_DT clerk_NN ,_, was_VBD admitted_VBN into_IN the_DT Jamsetji_NNP Jijibhoy_NNP Hospital_NNP on_IN the_DT 27th_CD September_NNP 1897_CD for_IN inability_NN to_TO walk_VB ._.
+Towards_IN the_DT middle_NN of_IN April_NNP 1897_CD he_PRP was_VBD attacked_VBN with_IN plague_NN at_IN Musjid_NNP Bunder_NNP (_( Mandvi_NNP )_) and_CC removed_VBN to_TO the_DT Jain_NNP Hospital_NNP ._.
+His_PRP$ wife_NN had_VBD died_VBN from_IN plague_NN ._.
+On_IN the_DT day_NN after_IN admission_NN he_PRP became_VBD unconscious_JJ ,_, and_CC on_IN recovering_VBG *_JJ Chart_NNP XVI_NN shows_VBZ the_DT course_NN of_IN the_DT temperature_NN ,_, pulse_NN and_CC respiration_NN in_IN an_DT attack_NN of_IN plague_NN occurring_VBG three_CD days_NNS after_IN inoculation_NN with_IN M._NNP Haffkine_NNP 's_POS prophylactic_JJ ._.
+?_. 16_CD consciousness_NN was_VBD unable_JJ to_TO feed_VB himself_PRP ,_, and_CC his_PRP$ legs_NNS were_VBD feeble_JJ and_CC unmanage-_JJ able_JJ as_IN at_IN present_NN ._.
+He_PRP was_VBD discharged_VBN from_IN the_DT Jain_NNP Hospital_NNP towards_VBD the_DT end_NN of_IN May_NNP ;_: the_DT bubo_NN ,_, which_WDT was_VBD in_IN the_DT right_JJ groin_NN ,_, having_VBG cicatrized_VBN ._.
+He_PRP never_RB had_VBD syphilis_VBN ,_, but_CC had_VBD a_DT mild_JJ attack_NN of_IN small-pox_JJ fcur_NN years_NNS ago_RB ._.
+He_PRP was_VBD brought_VBN on_IN a_DT stretcher_NN to_TO the_DT ward_NN :_: nutrition_NN is_VBZ good_JJ ;_: the_DT facial_JJ expression_NN is_VBZ vacant_JJ and_CC stolid_JJ ,_, all_PDT the_DT muscles_NNS are_VBP quite_RB toneless_JJ ;_: he_PRP lies_VBZ on_IN his_PRP$ back_NN and_CC finds_VBZ great_JJ difficulty_NN in_IN turning_VBG from_IN side_NN to_TO side_VB or_CC sitting_VBG up_RP ;_: he_PRP is_VBZ unable_JJ to_TO perform_VB any_DT movements_NNS with_IN steadiness_NN and_CC precision_NN ._.
+When_WRB sitting_VBG up_RP ,_, movements_NNS of_IN the_DT arms_NNS and_CC legs_NNS are_VBP made_VBN with_IN sudden_JJ jerkiness_NN and_CC with_IN wider_JJR range_NN than_IN normal_JJ ._.
+The_DT pulse_NN is_VBZ regular_JJ ,_, 52_CD per_IN minute_NN ,_, of_IN fair_JJ volume_NN and_CC tension_NN ;_: respiration_NN 20_CD per_IN minute_NN ,_, jerky_NN and_CC irregular_NN in_IN rhythm_NN ._.
+The_DT muscles_NNS are_VBP fairly_RB nourished_VBN ,_, but_CC relaxed_VBD ._.
+Electrical_JJ reactions_NNS are_VBP normal_JJ ;_: the_DT feet_NNS are_VBP rather_RB flat_JJ ;_: and_CC the_DT hands_NNS are_VBP held_VBN as_IN seen_VBN in_IN drop-wrist_NN ._.
+Superficial_JJ reflexes_NNS are_VBP present_JJ ;_: the_DT planter_NN reflex_NN elicits_VBZ a_DT sudden_JJ and_CC forcible_JJ movement_NN ._.
+There_EX is_VBZ marked_JJ inco-ordination_NN of_IN the_DT muscles_NNS in_IN general_JJ ._.
+The_DT head_NN falls_VBZ forwards_NNS and_CC is_VBZ moved_VBN from_IN side_NN to_TO side_VB ,_, instead_RB of_IN being_VBG turned_VBN to_TO look_VB at_IN objects_NNS ._.
+On_IN attempting_VBG to_TO get_VB out_IN of_IN bed_NN the_DT legs_NNS are_VBP extended_VBN with_IN sud-_JJ denness_NN ,_, and_CC then_RB thrown_VB outwards_NNS with_IN a_DT forcible_JJ jerk_NN ;_: he_PRP sits_VBZ holding_VBG on_IN to_TO the_DT edge_NN of_IN the_DT bed_NN to_TO maintain_VB his_PRP$ balance_NN ;_: stands_VBZ with_IN the_DT feet_NNS widely_RB apart_RB and_CC leans_VBZ forwards_NNS so_RB as_IN to_TO see_VB their_PRP$ position_NN ._.
+The_DT muscles_NNS are_VBP tremulous_JJ ,_, and_CC move-_JJ ments_NNS markedly_RB exaggerated_VBD ,_, the_DT legs_NNS crossing_VBG one_CD another_DT ,_, when_WRB a_DT step_NN is_VBZ taken_VBN ,_, and_CC thrown_JJ forward_NN with_IN a_DT sudden_JJ jerk_NN ,_, the_DT toes_NNS being_VBG brought_VBN to_TO the_DT ground_NN forcibly_RB ,_, and_CC the_DT body_NN swaying_VBG like_IN that_DT of_IN a_DT drunken_JJ man_NN ._.
+The_DT movements_NNS of_IN the_DT hand_NN are_VBP exaggerated_VBN and_CC unsteady_JJ ,_, the_DT right_NN being_VBG worse_JJR than_IN the_DT left_NN ._.
+When_WRB the_DT hands_NNS are_VBP at_IN rest_NN ,_, the_DT fingers_NNS tremble_JJ irregularly_RB ._.
+Simple_JJ movements_NNS of_IN the_DT hand_NN are_VBP accomplished_VBN by_IN spasmodic_JJ jerks_NNS ,_, and_CC fine_JJ movements_NNS are_VBP most_RBS clumsily_RB attempted_VBN and_CC imperfectly_RB finished_VBN ,_, as_IN is_VBZ seen_VBN on_IN carrying_VBG a_DT spoon_NN to_TO the_DT mouth_NN or_CC tying_VBG a_DT string_NN ._.
+He_PRP is_VBZ unable_JJ to_TO maintain_VB his_PRP$ balance_NN in_IN any_DT position_NN ._.
+The_DT acts_NNS of_IN swallowing_NN ,_, defcation_NN and_CC urination_NN are_VBP properly_RB performed_VBN but_CC delayed_VBN ._.
+There_EX are_VBP no_DT lightning_NN pains_NNS ,_, nor_CC formication_NN of_IN the_DT extremities_NNS ._.
+He_PRP does_VBZ not_RB complain_VB of_IN giddiness_NN ,_, or_CC of_IN gastric_JJ or_CC rectal_JJ crisis_NN ._.
+He_PRP has_VBZ not_RB suffered_VBN from_IN vomiting_VBG or_CC girdle_JJ sensation_NN ._.
+Sensibility_NN to_TO touch_VB is_VBZ delayed_VBN but_CC not_RB actually_RB diminished_VBN ,_, and_CC the_DT patient_NN is_VBZ unable_JJ to_TO recognise_VB how_WRB often_RB he_PRP has_VBZ been_VBN touch-_JJ ed_NN or_CC by_IN how_WRB may_MD fingers_NNS ._.
+His_PRP$ sense_NN of_IN feeling_VBG amounts_NNS to_TO something_NN being_VBG brought_VBN in_IN contact_NN with_IN his_PRP$ body_NN ,_, but_CC he_PRP is_VBZ unable_JJ to_TO recognise_VB what_WP it_PRP actually_RB is_VBZ ._.
+Sensibility_NN to_TO pain_VB is_VBZ somewhat_RB diminished_JJ ,_, a_DT forcible_JJ pinch_NN giving_VBG him_PRP pain_VBP after_IN a_DT little_JJ time_NN ._.
+Sensation_NN to_TO heat_VB or_CC cold_VB is_VBZ not_RB affected_VBN ._.
+A_DT hot_JJ tube_NN passed_VBD along_IN the_DT course_NN of_IN the_DT spine_NN gives_VBZ a_DT burning_NN sensation_NN at_IN the_DT 1st_CD ,_, 2nd_CD ,_, 3rd_CD and_CC 4th_CD dorsal_NN vertebr_NN ._.
+No_DT spinal_JJ nor_CC cranial_JJ percussion_NN tenderness_NN is_VBZ present_JJ ._.
+Cerebral_NNP ,_, mental_JJ ,_, vaso-motor_JJ and_CC nutritive_JJ functions_NNS are_VBP not_RB in_IN any_DT way_NN altered_VBN ._.
+There_EX have_VBP been_VBN no_DT trophic_JJ changes_NNS ._.
+Articulation_NNP is_VBZ slow_JJ and_CC deliberate_NN ;_: individual_JJ syllables_NNS are_VBP pronounced_VBN separately_RB and_CC forcibly_RB ,_, laying_VBG great_JJ stress_NN on_IN the_DT final_JJ part_NN of_IN the_DT word_NN ._.
+The_DT answer_NN to_TO any_DT question_NN put_VBN to_TO him_PRP takes_VBZ time_NN ,_, and_CC the_DT act_NN is_VBZ deliberate_JJ ._.
+He_PRP is_VBZ intelligent_JJ and_CC understands_VBZ all_DT that_DT is_VBZ said_VBD to_TO him_PRP ._.
+Taste_NN is_VBZ normal_JJ ;_: hearing_NN is_VBZ somewhat_RB diminished_VBN in_IN the_DT right_JJ ear_NN ,_, but_CC he_PRP does_VBZ appreciate_VB after_IN a_DT time_NN the_DT character_NN of_IN the_DT sound_NN :_: smell_NN normal_JJ ._.
+There_EX is_VBZ no_DT nystagmus_NN ._.
+The_DT left_JJS eyeball_NN does_VBZ not_RB move_VB outwards_NNS to_TO the_DT same_JJ degree_NN as_IN the_DT right_NN ;_: besides_IN this_DT deviation_NN in_IN the_DT axis_NN ,_, there_EX is_VBZ nothing_NN peculiar_NN ._.
+Pupils_NNS are_VBP moderately_RB dilated_VBN and_CC the_DT Argyll_NNP Robertson_NNP phenomenon_NN is_VBZ not_RB present_JJ ;_: pupils_NNS react_VBP to_TO light_NN and_CC accommodation_NN ._.
+In_IN both_DT eyes_NNS there_EX is_VBZ a_DT well_RB defined_JJ area_NN of_IN old_JJ choroiditis_NN between_IN the_DT optic_JJ disc_NN and_CC yellow_JJ spot_NN ._.
+This_DT is_VBZ quite_RB symmetrical_JJ in_IN both_DT eyes_NNS ._.
+All_DT other_JJ systems_NNS were_VBD examined_VBN and_CC found_VBN normal_JJ ._.
+The_DT patient_NN has_VBZ been_VBN under_IN observation_NN for_IN some_DT time_NN and_CC has_VBZ as_RB yet_RB shown_VBN no_DT improvement_NN ._.
+The_DT symptoms_NNS present_JJ exactly_RB resemble_VBP those_DT seen_VBN in_IN many_JJ severe_JJ cases_NNS of_IN plague_NN after_IN the_DT second_JJ day_NN ._.
+?_. 17_CD TABLE_NN I_PRP ._.
+A_DT table_NN showing_VBG the_DT admissions_NNS among_IN Europeans_NNPS and_CC Eurasians_NNPS into_IN St._NNP George_NNP 's_POS Hospital_NNP ,_, Bombay_NNP ,_, at_IN different_JJ periods_NNS of_IN life_NN ,_, and_CC giving_VBG the_DT results_NNS ._.
+1_CD year_NN and_CC under_IN ._.
+Years_NNS 2_CD to_TO 5_CD Years_NNS 6_CD to_TO 10_CD ._.
+Years_NNS 11_CD to_TO 20_CD ._.
+Years_NNS 21_CD to_TO 30_CD Years_NNS 31_CD to_TO 40_CD ._.
+Years_NNS 41_CD to_TO 50_CD ._.
+Years_NNS 51_CD to_TO 70_CD ._.
+Total_NN ._.
+Percent-_JJ age_NN of_IN deaths_NNS to_TO attacks_NNS ._.
+Europeans_NNS R_VBD 1_CD 0_CD 6_CD 4_CD 6_CD 6_CD 0_CD 0_CD 23_CD 32.35_CD D_NNP 0_CD 1_CD 3_CD 0_CD 3_CD 2_CD 1_CD 1_CD 11_CD Eurasians_NNPS R_NNP 0_CD 0_CD 4_CD 13_CD 10_CD 3_CD 3_CD 2_CD 35_CD 42.6_CD 2_CD D_NNP 0_CD 0_CD 2_CD 12_CD 6_CD 2_CD 2_CD 2_CD 26_CD Total_JJ R_NNP 1_CD 0_CD 10_CD 17_CD 16_CD 9_CD 3_CD 2_CD 58_CD D_NNP 0_CD 1_CD 5_CD 12_CD 9_CD 4_CD 3_CD 3_CD 37_CD Percentage_NN of_IN deaths_NNS to_TO admissions_NNS 0_CD 100_CD 33.3_CD 41.38_CD 36_CD 30.76_CD 50_CD 60_CD 38.95_CD R_NNP =_NN Recovered_NNP ._.
+D_NNP =_NNP Died_NNP ._.
+TABLE_NNP II_NNP ._.
+A_DT table_NN showing_VBG the_DT admissions_NNS among_IN Native_JJ Christians_NNPS ,_, Jews_NNPS ,_, Parsees_NNP ,_, Moha-_NNP medans_NNS ,_, Brahmins_NNP and_CC other_JJ Hindus_NNP into_IN the_DT Arthur_NNP Road_NNP and_CC Parel_NNP Hospitals_NNP ,_, and_CC giving_VBG the_DT results_NNS :_: for_IN the_DT Arthur_NNP Road_NNP Hospital_NNP the_DT admis-_JJ sions_NNS at_IN the_DT different_JJ aqes_NN are_VBP shown_VBN ._.
+1_CD year_NN and_CC under_IN ._.
+Years_NNS 2_CD to_TO 5_CD ._.
+Years_NNS 6_CD to_TO 10_CD ._.
+Years_NNS 11_CD to_TO 20_CD ._.
+Years_NNS 21_CD to_TO 30_CD ._.
+Years_NNS 31_CD to_TO 40_CD ._.
+Years_NNS 41_CD to_TO 60_CD ._.
+Years_NNS 51_CD to_TO 70_CD ._.
+Total_NN ._.
+Treated_VBN in_IN Parel_NNP Hospital_NNP ._.
+Total_JJ Percent-_NNP age_NN of_IN deaths_NNS to_TO attacks_NNS ._.
+Native_JJ Christians_NNPS R_NNP 0_CD 1_CD 4_CD 19_CD 14_CD 7_CD 9_CD 0_CD 54_CD 22_CD 76_CD 65.45_CD D_NNP 0_CD 2_CD 3_CD 23_CD 30_CD 16_CD 24_CD 1_CD 99_CD 45_CD 144_CD Jews_NNPS R_NNP 0_CD 0_CD 1_CD 0_CD 0_CD 0_CD 1_CD 0_CD 2_CD 1_CD 3_CD 66.67_CD D_NNP 0_CD 0_CD 1_CD 2_CD 0_CD 0_CD 0_CD 0_CD 3_CD 3_CD 6_CD Parsees_NNS R_VBD 0_CD 0_CD 0_CD 2_CD 0_CD 1_CD 0_CD 0_CD 3_CD 2_CD 5_CD 64.29_CD D_NNP 0_CD 0_CD 0_CD 1_CD 1_CD 1_CD 2_CD 0_CD 5_CD 4_CD 9_CD Mahomedans_NNPS ._.
+R_NNP 0_CD 0_CD 0_CD 16_CD 19_CD 9_CD 7_CD 0_CD 51_CD 8_CD 59_CD 64.24_CD D_NNP 0_CD 0_CD 4_CD 21_CD 24_CD 25_CD 24_CD 0_CD 98_CD 8_CD 106_CD Brahmins_NNS R_NNP 0_CD 0_CD 0_CD 2_CD 2_CD 1_CD 0_CD 0_CD 5_CD 3_CD 8_CD 65.21_CD D_NNP 0_CD 0_CD 0_CD 0_CD 3_CD 3_CD 0_CD 0_CD 6_CD 9_CD 15_CD Other_JJ Hindus_NNP R_NNP 5_CD 2_CD 19_CD 66_CD 106_CD 42_CD 17_CD 1_CD 258_CD 72_CD 330_CD 71.25_CD D_NNP 0_CD 6_CD 32_CD 139_CD 246_CD 150_CD 112_CD 6_CD 691_CD 127_CD 818_CD Total_NN ..._: R_NNP 5_CD 3_CD 24_CD 105_CD 141_CD 60_CD 34_CD 1_CD 373_CD 108_CD 481_CD 69.54_CD D_NNP 0_CD 8_CD 40_CD 186_CD 304_CD 195_CD 162_CD 7_CD 902_CD 196_CD 1,098_CD Percentage_NN of_IN deaths_NNS to_TO admissions_NNS 0_CD 72.73_CD 62.5_CD 63.92_CD 68.31_CD 76.47_CD 82.65_CD 87.5_CD 70.74_CD 64.47_CD 69.54_CD B_NNP 1751-5_CD ?_. 18_CD TABLE_NNP III_NNP ._.
+A_DT table_NN showing_VBG the_DT comparative_JJ case_NN mortality_NN per_IN cent_NN ._.
+among_IN (_( a_DT )_) Europeans_NNPS and_CC Eurasians_NNPS and_CC (_( b_NN )_) Natives_VBZ ,_, in_IN youth_NN ,_, adult_JJ life_NN and_CC old_JJ age_NN ._.
+Years_NNS 1_CD to_TO 21_CD Years_NNS 21_CD to_TO 40_CD ._.
+Years_NNS 41_CD to_TO 70_CD ._.
+Europeans_NNS and_CC Eurasians_NNPS 28/18_CD or_CC 39.137_CD per_IN cent_NN ._.
+25/13_CD or_CC 34.21_CD 5/6_CD or_CC 54.55_CD Natives_NNS 177/293_CD or_CC 62.34_CD 255/588_CD or_CC 69.75_CD 49/216_CD or_CC 81.51_CD TABLE_NNP IV_NNP ._.
+A_DT statement_NN showing_VBG the_DT number_NN of_IN deaths_NNS from_IN Plague_NNP in_IN Bombay_NNP according_VBG to_TO age_NN and_CC sex_NN from_IN August_NNP to_TO December_NNP 1896_CD *_NNP Months_NNP ._.
+1_CD Year_NN and_CC under_IN ._.
+Years_NNS 2_CD to_TO 10_CD ._.
+Years_NNS 11_CD to_TO 20_CD ._.
+Years_NNS 21_CD to_TO 30_CD ._.
+Years_NNS 31_CD to_TO 40_CD ._.
+Years_NNS 41_CD to_TO 50_CD ._.
+Years_NNS 51_CD to_TO 60_CD ._.
+Years_NNS 61_CD and_CC over_RB ._.
+Total_NN ._.
+August_NNP Males_NNP Females_NNP September_NNP Males_NNP 4_CD 15_CD 18_CD 14_CD 5_CD 4_CD 3_CD 63_CD Females_NNS 1_CD 3_CD 6_CD 2_CD 3_CD 1_CD 16_CD October_NNP Males_NNP 1_CD 11_CD 58_CD 81_CD 36_CD 23_CD 10_CD 4_CD 224_CD Females_NNS 15_CD 23_CD 23_CD 10_CD 12_CD 5_CD 1_CD 89_CD November_NNP Males_NNP 1_CD 15_CD 51_CD 64_CD 32_CD 18_CD 7_CD 5_CD 193_CD Females_NNS 23_CD 25_CD 22_CD 8_CD 8_CD 2_CD 2_CD 80_CD December_NNP Males_NNP 1_CD 56_CD 208_CD 291_CD 183_CD 91_CD 42_CD 18_CD 890_CD Females_NNS 2_CD 49_CD 109_CD 95_CD 50_CD 45_CD 14_CD 17_CD 381_CD Total_JJ Males_NNP 3_CD 86_CD 332_CD 454_CD 265_CD 137_CD 63_CD 30_CD 1,370_CD Females_NNS 2_CD 78_CD 160_CD 146_CD 70_CD 68_CD 22_CD 20_CD 566_CD Percentage_NN 26_CD 8.47_CD 25.41_CD 30.99_CD 17.30_CD 10.59_CD 4.39_CD 2.58_CD *_NN Details_NNP up_RB to_TO 31st_CD May_NNP have_VB not_RB yet_RB been_VBN received_VBN from_IN the_DT Health_NNP Department_NNP ._.
+Table_JJ V._NNP Admissions_NNP into_IN the_DT Arthur_NNP Road_NNP Hospital_NNP according_VBG to_TO Occupation_NNP ._.
+Occupation_NN ._.
+Arthur_NNP Road_NNP ._.
+Total_NN ._.
+Domestic_JJ Servants*_NNP 266_CD 266_CD Mill-hands_NNS 147_CD 147_CD Coolies_NNS 110_CD 110_CD Syces_NNS 49_CD 49_CD Beggars_NNS 41_CD 41_CD Sepoys_NNP (_( including_VBG Native_NNP Soldiers_NNPS and_CC Police_NNP )_) 21_CD 21_CD Dhobies_NNS ,_, Labourers_NNP (_( each_DT )_) ._.
+19_CD 38_CD Dirzies_NNS 18_CD 18_CD Gowlies_NNS ,_, Metalworkers_NNS ,_, Peons_NNP (_( each_DT )_) 15_CD 45_CD Cart-drivers_NNS 13_CD 13_CD Malies_NNS 12_CD 12_CD School_NNP children_NNS ,_, Carpenters_NNP (_( each_DT )_) 11_CD 22_CD Barbers_NNS 10_CD 10_CD *_NN Including_NNP personal_JJ servants_NNS ,_, cooks_NNS ,_, hamals_NNS and_CC masalchies_NNS ,_, ?_. 19_CD Occupation_NN ._.
+Arthur_NNP Road_NNP ._.
+Total_NN ._.
+Shopkeepers_NNS 9_CD 9_CD Clerks_NNS and_CC Butchers_NNP (_( each_DT )_) 8_CD 16_CD Printers_NNS 7_CD 7_CD Masons_NNS 6_CD 6_CD Shoemakers_NNS ,_, Painters_NNS ,_, Sweepers_NNP (_( each_DT )_) 5_CD 15_CD Ward-boys_JJ and_CC Lascars_NNP (_( each_DT )_) 4_CD 8_CD Priests_NNS ,_, Sailors_NNS ,_, Firemen_NNP ,_, Wool-cleaners_NNP ,_, Bakers_NNP ,_, Carpenters_NNP ,_, Compounders_NNP ,_, Fishermen_NNP (_( each_DT )_) 3_CD 24_CD Unclassified_VBD 398_CD 1,275_CD TABLE_NNP VI_NNP ._.
+A_DT statement_NN showing_VBG the_DT number_NN of_IN deaths_NNS from_IN Plague_NNP in_IN Bombay_NNP City_NNP according_VBG to_TO Occupation_NNP from_IN September_NNP to_TO December_NNP 1896_CD *_NNP No_NNP ._.
+Occupation_NN ._.
+Number_NNP of_IN Deaths_NNP in_IN Total_NNP ._.
+Sept._NNP Oct._NNP Nov._NNP Dec._NNP 1_CD Municipal_NNP and_CC Local_NNP Bodies_NNP (_( including_VBG Police_NNP )_) 2_CD 19_CD 21_CD 2_CD Devotees_NNS ,_, Bhikshuks_NNP ,_, Fakirs_NNP ,_, &_CC c._VBD 2_CD 4_CD 11_CD 17_CD 3_CD Indoor_NNP servants_NNS 2_CD 3_CD 5_CD 26_CD 36_CD 4_CD Dhobies_NNS (_( Washermen_NNP )_) ..._: 2_CD 17_CD 19_CD 5_CD Servants_NNS not_RB otherwise_RB described_VBN 5_CD 8_CD 6_CD 27_CD 46_CD 6_CD General_JJ Merchants_NNPS 6_CD 1_CD 4_CD 11_CD 7_CD Bankers_NNS 1_CD 2_CD 9_CD 12_CD 8_CD Commercial_JJ Agents_NNS ,_, Brokers_NNP ,_, &_CC c._VBD 6_CD 9_CD 2_CD 7_CD 24_CD 9_CD Commercial_JJ Clerks_NNP ,_, &_CC c._VBD 1_CD 11_CD 8_CD 36_CD 56_CD 10_CD Drivers_NNS of_IN public_JJ vehicles_NNS 1_CD 5_CD 6_CD 11_CD Cart-owners_NNS and_CC drivers_NNS ..._: 3_CD 4_CD 15_CD 22_CD 12_CD Seamen_NNS (_( not_RB Government_NNP )_) 5_CD 5_CD 13_CD Messengers_NNS ,_, Porters_NNP ,_, &_CC c._NN (_( not_RB Government_NNP )_) ..._: 3_CD 1_CD 6_CD 10_CD 14_CD Jockey_NNP Grooms_NNP 4_CD 4_CD 10_CD 18_CD 15_CD Fishermen_NNP ,_, &_CC c_VBD 2_CD 5_CD 7_CD 16_CD Printers_NNS by_IN steam_NN ,_, compositors_NNS 8_CD 8_CD 17_CD Figure_NN casters_NNS (_( Otarva_NNP )_) 5_CD 5_CD 18_CD Engine_NN makers_NNS (_( Fitters_NNP ,_, &_CC c._NN )_) 2_CD 9_CD 11_CD 19_CD Carpenters_NNS ,_, Joiners_NNS ,_, Sawyers_NNP 3_CD 4_CD 18_CD 25_CD 20_CD Masons_NNS and_CC Bricklayers_NNS 1_CD 1_CD 12_CD 14_CD 21_CD Cotton_NNP Dyers_NNP 5_CD 5_CD 22_CD Spinners_NNS ,_, Weavers_NNS and_CC Factory_NNP workers_NNS 1_CD 16_CD 17_CD 23_CD Cotton_NNP goods_NNS sellers_NNS ,_, drapers_NNS 1_CD 1_CD 3_CD 5_CD 24_CD Tailors_NNS 1_CD 6_CD 4_CD 11_CD 22_CD 25_CD Shoe_NNP and_CC Boot_NNP Makers_NNP 1_CD 5_CD 14_CD 20_CD 26_CD Workers_NNS and_CC sellers_NNS of_IN Jute_NNP 5_CD 1_CD 6_CD 27_CD Cow-keepers_NNS and_CC Milk-sellers_NNS ..._: 2_CD 1_CD 4_CD 7_CD 28_CD Grain_NNP ,_, Pulse_NNP and_CC Flour_NNP Dealers_NNPS 9_CD 15_CD 9_CD 18_CD 51_CD 29_CD Sweetmeat_NN makers_NNS and_CC sellers_NNS of_IN pastry_NN ,_, cooks_NNS ._.
+1_CD 1_CD 10_CD 12_CD 30_CD Fruit_NN and_CC vegetable_JJ dealers_NNS 1_CD 2_CD 10_CD 13_CD 31_CD Grocers_NNS ,_, Spice-dealers_NNS ..._: 1_CD 4_CD 5_CD 32_CD Stone-cutte_JJ 1_CD 4_CD 5_CD 33_CD Gold_NN and_CC Silver_NNP Smiths_NNP 1_CD 1_CD 9_CD 11_CD 34_CD Black-smiths_JJ 1_CD 5_CD 6_CD 35_CD General_JJ labourers_NNS and_CC coolies_NNS 18_CD 66_CD 50_CD 185_CD 319_CD 36_CD Factory_NN labourers_NNS (_( unspecified_JJ )_) 7_CD 14_CD 92_CD 113_CD 37_CD Shopmen_NNP ,_, &_CC c_NN (_( unspecified_JJ )_) 9_CD 3_CD 19_CD 31_CD 38_CD Mendicants_NNS 2_CD 20_CD 22_CD 39_CD Males_NNS following_VBG no_DT occupation_NN 2_CD 6_CD 4_CD 32_CD 44_CD 40_CD Females_NNS do_VBP ._.
+do_NN ._.
+12_CD 50_CD 34_CD 171_CD 267_CD 41_CD Children_NNP ,_, males_VBZ 16_CD 41_CD 49_CD 188_CD 294_CD 42_CD Children_NNP ,_, females_VBZ 9_CD 28_CD 29_CD 131_CD 190_CD Total_JJ 77_CD 299_CD 257_CD 1,205_CD 1,838_CD *_VBD The_DT details_NNS up_RB to_TO 31st_CD May_NNP 1897_CD have_VBP not_RB yet_RB been_VBN received_VBN from_IN the_DT Health_NNP Department_NNP ,_, Occupations_NNP have_VBP been_VBN excluded_VBN in_IN which_WDT less_JJR than_IN 5_CD deaths_NNS occurred_VBD during_IN the_DT 4_CD months_NNS ._.
+?_. 20_CD TABLE_NNP VII_NNP ._.
+Staement_JJ showing_VBG the_DT probable_JJ mortality_NN from_IN Plague_NNP in_IN Bombay_NNP City_NNP from_IN the_DT commencement_NN of_IN the_DT outbreak_NN to_TO the_DT end_NN of_IN May_NNP 1897_CD ,_, and_CC also_RB showing_VBG the_DT fall_NN in_IN the_DT birth-rate_NN ._.
+For_IN Week_NNP ending_VBG TOTAL_NNP DEATHS_NNP INCLUDING_NNP STILL-BORN_NNP ._.
+Probable_JJ Plague_NNP mortality_NN in_IN 1896-97_JJ ._.
+TOTAL_JJ BIRTHS_NNP EXCLUDING_NNP STILL-BORN_NNP ._.
+1896_CD and_CC 1897_CD ._.
+Mean_NNP of_IN corresponding_VBG weeks_NNS in_IN preceding_VBG 5_CD years_NNS ._.
+1896_CD and_CC 1897_CD ._.
+Mean_NNP of_IN corresponding_VBG weeks_NNS in_IN preceding_VBG 5_CD years_NNS ._.
+August_NNP 4th_CD 564_CD 564_CD 287_CD 313_CD 11th_CD 598_CD 534_CD 64_CD 311_CD 307_CD 18th_CD 650_CD 538_CD 12_CD 263_CD 297_CD 25th_CD 669_CD 581_CD 88_CD 298_CD 301_CD Sept._NNP 1st_CD 667_CD 540_CD 127_CD 345_CD 291_CD 8th_CD 593_CD 531_CD 62_CD 346_CD 312_CD 15th_CD 618_CD 492_CD 126_CD 321_CD 273_CD 22nd_CD 647_CD 506_CD 141_CD 304_CD 271_CD 29th_CD 720_CD 527_CD 193_CD 339_CD 338_CD Oct._NNP 6th_CD 791_CD 491_CD 300_CD 279_CD 329_CD 13th_CD 634_CD 498_CD 136_CD 320_CD 336_CD 20th_JJ 606_CD 477_CD 129_CD 284_CD 278_CD 27th_CD 698_CD 470_CD 228_CD 283_CD 291_CD Nov._NNP 3rd_CD 668_CD 443_CD 225_CD 295_CD 303_CD 10th_CD 623_CD 449_CD 174_CD 247_CD 346_CD 17th_CD 704_CD 462_CD 242_CD 238_CD 286_CD 24th_CD 760_CD 446_CD 314_CD 296_CD 301_CD Dec._NNP 1st_CD 772_CD 457_CD 315_CD 356_CD 331_CD 8th_CD 1,051_CD 460_CD 591_CD 370_CD 355_CD 15th_CD 1,310_CD 470_CD 840_CD 321_CD 333_CD 22nd_CD 1,416_CD 470_CD 946_CD 299_CD 305_CD 29th_CD 1,853_CD 469_CD 1,384_CD 282_CD 317_CD Jan._NNP 5th_CD 1,711_CD 494_CD 1,217_CD 232_CD 320_CD 12th_CD 1,638_CD 484_CD 1,154_CD 206_CD 341_CD 19th_CD 1,758_CD 501_CD 1,257_CD 138_CD 257_CD 26th_CD 1,721_CD 518_CD 1,203_CD 132_CD 323_CD Feb._NNP 2nd_CD 1,645_CD 526_CD 1,119_CD 85_CD 313_CD 9th_CD 1,911_CD 540_CD 1,371_CD 98_CD 294_CD 16th_CD 1,728_CD 569_CD 1,159_CD 71_CD 284_CD 25th_CD 1,650_CD 542_CD 1,108_CD 49_CD 271_CD March_NNP 2nd_CD 1,484_CD 546_CD 938_CD 57_CD 292_CD 9th_CD 1,326_CD 544_CD 782_CD 109_CD 284_CD 16th_CD 1,258_CD 534_CD 724_CD 97_CD 253_CD 23rd_CD 1,139_CD 539_CD 600_CD 37_CD 270_CD 30th_CD 1,141_CD 544_CD 597_CD 89_CD 240_CD April_NNP 6th_CD 1,007_CD 559_CD 448_CD 92_CD 281_CD 13th_CD 970_CD 572_CD 398_CD 60_CD 248_CD 20th_JJ 836_CD 614_CD 222_CD 81_CD 261_CD 27th_CD 671_CD 625_CD 46_CD 117_CD 263_CD May_NNP 4th_CD 638_CD 606_CD 32_CD 133_CD 295_CD 11th_CD 558_CD 599_CD 156_CD 291_CD 18th_CD 547_CD 602_CD 173_CD 269_CD 25th_CD 541_CD 581_CD 159_CD 276_CD ?_. 21_CD TABLE_NNP VIII_NNP ._.
+The_DT details_NNS of_IN 27_CD Patients_NNS treated_VBN at_IN Parel_NNP Plague_NNP Hospital_NNP with_IN M._NNP Yersin_NNP 's_POS Anti-toxin_JJ Serum_NNP ._.
+No_DT ._.
+Initials_NNS ._.
+Sex_NN ._.
+Age_NNP ._.
+Caste_NN ._.
+Occupation_NN ,_, Duration_NNP of_IN Disease_NNP ._.
+Serum_NNP in_IN C._NNP C._NNP Total_NNP C._NNP C._NNP Re-sult_NNP ._.
+Remarks_NNS ._.
+Days_NNS ._.
+1_CD C._NNP D._NNP N._NNP M_NNP 51_CD N._NNP C._NNP Medical_NNP Practitioner_NNP ._.
+4-5_JJ 30_CD +_JJ 20_CD 50_CD D_NNP Double_NNP pneumonia_NN ._.
+2_CD D._NNP P._NNP F_NNP 40_CD H._NNP Cooly_NNP 2_CD 30_CD +_NN 20_CD 50_CD D_NNP 3_CD D._NNP N._NNP F_NNP 1_CD 1/2_CD N._NNP C._NNP 2_CD 10+10_CD +_NN 10_CD 30_CD R_NNP *4_NNP R._NNP T._NNP N._NNP F_NNP 18_CD N._NNP C._NNP 3_CD 20+20_CD 40_CD D_NNP Meningitis_NNP and_CC tumour_NN (_( osseous_JJ )_) pressing_VBG ou_JJ medulla_NN in_IN P._NNP M._NNP 5_CD S._NNP B._NNP M_NNP 24_CD H._NNP Clerk_NNP 3-4_JJ 20+10_CD +_JJ 10+_CD 20_CD 60_CD D_NNP 6_CD S._NNP B._NNP K._NNP M_NNP 18_CD H._NNP Mill-hand_NNP 3-5_JJ 20+10_CD 30_CD D_NNP 7_CD P.D_NNP ._.
+F_NNP 60_CD H._NNP 2_CD 30+30_CD +_NN 40_CD 100_CD D_NNP 8_CD E._NNP M._NNP M_NNP 25_CD H._NNP Mill-hand_NNP 2_CD 30_CD 30_CD D_NNP 9_CD J._NNP D._NNP D._NNP S._NNP M_NNP 13_CD N._NNP C._NNP School-boy_NNP 36_CD hours_NNS ._.
+40_CD +_JJ 40_CD 80_CD D_NNP Developed_NNP pneumonia_NN double_NN ._.
+10_CD P._NNP R._NNP M_NNP 7_CD H._NNP Do_NNP ._.
+2_CD 30_CD +_NN 30_CD 60_CD R_NNP *11_NNP R._NNP F._NNP F_NNP 25_CD N._NNP C._NNP 20_CD 20_CD 12_CD M._NNP D._NNP M_NNP 30_CD H._NNP Haml_NNP 2_CD 40_CD 40_CD D_NNP 13_CD R.M_NNP ._.
+M_NNP 9_CD N._NNP C._NNP School-boy_NNP 1_CD 40+40+40_CD +_NN 40+30_CD 190_CD R_NNP 14_CD S._NNP J._NNP M_NNP 9_CD H._NNP Sweeper_NNP 2_CD 40+40_CD +_NN 30_CD 110_CD R_NNP 15_CD B._NNP J._NNP M_NNP 25_CD H._NNP Do_NNP ._.
+2_CD 30+40+40_CD 110_CD R_NNP 16_CD B._NNP G._NNP S._NNP M_NNP 28_CD H._NNP Clerk_NNP 36_CD hours_NNS ._.
+40_CD +_JJ 50_CD 90_CD D_NNP 17_CD T._NNP M._NNP M_NNP 18_CD H._NNP Mill-hand_NNP 2_CD 50+50_CD +_NN 50+_CD 50+30_CD 230_CD R_NNP 18_CD M._NNP S._NNP M_NNP 30_CD H._NNP Mli_NNP 26_CD hours_NNS ._.
+40_CD 40_CD D_NNP 19_CD K._NNP H._NNP M_NNP 22_CD H._NNP Massl_NNP 4-5_JJ 40_CD 40_CD R_NNP 20_CD L.R_NNP ._.
+F_NNP 12_CD N._NNP C._NNP 3-9_JJ hours_NNS ._.
+40_CD 40_CD D_NNP 21_CD A._NNP K._NNP T._NNP M_NNP 60_CD N.C_NNP ._.
+Merchant_NN 9_CD hours_NNS ._.
+40_CD +_JJ 50+50_CD 140_CD R_NNP 22_CD M._NNP E._NNP M_NNP 45_CD Parsee_NNP ._.
+Cook_NNP 3_CD 60_CD 60_CD R_NNP 23_CD D.E_NNP ._.
+F_NNP 11_CD Parsee_NNP ._.
+27_CD hours_NNS ._.
+50_CD 50_CD D_NNP *24_NNP H._NNP B._NNP F_NNP 32_CD Hindu_NNP Jain_NNP ._.
+7_CD 50_CD 50_CD R_NN I_PRP heard_VBD came_VBD from_IN Charni_NNP Road_NNP Hosp-ital_NNP ._.
+25_CD C._NNP M._NNP F_NNP 32_CD N._NNP C._NNP 24_CD 50+50_CD 100_CD D_NNP 26_CD K._NNP B._NNP S._NNP F_NNP 4_CD H._NNP 42_CD 40_CD 40_CD D_NNP *27_NNP G._NNP R._NNP M_NNP 52_CD H._NNP Clerk_NNP 3-5_JJ 20_CD 20_CD D_NNP Hepatitis_NNP and_CC R._NNP Ferri_NNP injected_VBD at_IN his_PRP$ own_JJ urgent_JJ request_NN ._.
+._.
+*_IN These_DT were_VBD not_RB cases_NNS of_IN plague_NN ._.
+Case_NNP No_NNP ._.
+4_CD died_VBD of_IN meningitis_NN and_CC should_MD be_VB excluded_VBN and_CC mortality_NN =_VBP 60.S_CD per_IN cent_NN ._.
+2_CD cases_NNS developed_VBD sub-acuto_JJ synovitis_NN ._.
+2_CD cases_NNS developed_VBD erythematous_JJ rashes_NNS on_IN the_DT skin_NN ._.
+In_IN one_CD of_IN these_DT the_DT rash_NN persisted_VBD 2_CD 1/2_CD weeks_NNS ._.
+B_NNP 1751-6_JJ 22_CD TABLE_NNP Showing_VBG the_DT results_NNS of_IN the_DT quantitative_JJ urine_NN analyses_NNS obtained_VBN by_IN Surgeon-Captain_NNP 1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD No_NN ._.
+Race_NN ._.
+Age_NNP ._.
+Sex_NN ._.
+Day_NNP ._.
+Quantity_NN ._.
+Colour_NNP ._.
+Re-action_NN ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Urea_NNP ._.
+Chlorides_NNS ._.
+Sulphates_NNS ._.
+Phosp_NNP hate_NN ._.
+Solids_NNS ,_, Grm_NNP ._.
+per_IN diem_NN ._.
+1_CD F._NNP 34_CD F_NNP 4_CD 700.C.C_CD ._.
+Muddy_NNP Yellow_NNP Faintly_NNP acid_VBZ 1,015_CD 2_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 25.46_CD 2_CD Eurasian_JJ 36_CD M_NNP 3_CD 760.C.C_CD ._.
+Reddish_JJ Brown_NNP Sharply_NNP acid_VBD 1,025_CD 1.85_CD %_NN Do_NNP ._.
+P_NNP D_NNP 44.27_CD 3_CD D._NNP E._NNP 18_CD M_NNP 3_CD 800.C.C_CD ._.
+Light_NNP Yellow_NNP Do_NNP ._.
+1,018_CD 1.75_CD %_NN Absent_NNP ._.
+P_NNP D_NNP 35.55_CD 4_CD Eurasian_JJ 22_CD M_NNP 5_CD 630.C.C_CD ._.
+Brown_NNP Red_NNP Do_NNP ._.
+1,020_CD 1.75_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 29.35_CD 5_CD Do_NNPS ._.
+21_CD M_NNP 4_CD 760.C.C_CD ._.
+Pale_NNP Yellow_NNP Do_NNP ._.
+1,024_CD 1.85_CD %_NN Absent_NNP ._.
+Trace_NN ._.
+Faint_NN ._.
+42.49_CD 6_CD E._NNP 32_CD M_NNP 3_CD 900.C.C_CD ._.
+Red_NNP Yellow_NNP Do_NNP ._.
+1,015_CD 2.5_CD %_NN Present_NNP ._.
+P_NNP D_NNP 31.45_CD 7_CD R._NNP J_NNP ._.
+36_CD M_NNP 4_CD 800.C.C_CD ._.
+Do_NNP ._.
+Intensely_RB acid_JJ 1,026_CD 1.85_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 48.46_CD 8_CD D._NNP E._NNP 9_CD M_NNP 4_CD 900.C.C_CD ._.
+Yellow_JJ Red_NNP Alke_NNP 1,022_CD 1.85_CD %_NN Do_NNP ._.
+P_NNP Abundant_NNP ._.
+46.13_CD 9_CD E._NNP J_NNP ._.
+29_CD M_NNP 3_CD 800.C.C_CD Red_NNP Yellow_NNP Sharply_NNP acid_VBD 1,015_CD 2.0_CD %_NN Absent_NNP ._.
+Trace_NN ._.
+Marked_VBN ._.
+D_NNP 27.96_CD 10_CD E._NNP J_NNP ._.
+31_CD M_NNP 4_CD 760.C.C_CD ._.
+Do_NNP ._.
+Neutral_JJ 1,018_CD 1.85_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 31.87_CD 11_CD N._NNP C._NNP 18_CD M_NNP 4_CD 800.C.C_CD ._.
+Light_NNP Yellow_NNP Sharply_NNP acid_VBD 1,025_CD 0.85_CD %_NN Absent_NNP ._.
+P_NNP D_NNP 46.60_CD 12_CD Eurasian_JJ 45_CD M_NNP 3_CD 850.C.C_CD ._.
+Red_NNP Yellow_NNP Do_NNP ._.
+1,025_CD 1.80_CD %_NN Do_NNP ._.
+P_NNP D_NNP 49.51_CD 13_CD Do_NNPS ._.
+22_CD M_NNP 0_CD 1,000.C.C_CD Dark_NNP Red_NNP Do_NNP ._.
+1,028_CD 1.75_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 63.04_CD 14_CD Do_NNPS ._.
+23_CD M_NNP 4_CD 850.C.C_CD ._.
+Yellow_JJ Red_NNP Do_NNP ._.
+1,018_CD 1.25_CD %_NN Do_NNP ._.
+P_NNP Present_NNP ._.
+35.64_CD 15_CD Do_NNPS ._.
+15_CD F_NNP 4_CD 800.C.C_CD ._.
+Red_JJ Do_NNP ._.
+1,015_CD 2.5_CD %_NN Do_NNP ._.
+P_NNP D_NNP 27.96_CD 16_CD G._NNP 34_CD M_NNP 3_CD 760.C.C_CD ._.
+Deep_NNP Red_NNP Do_NNP ._.
+1,024_CD 1.85_CD %_NN Absent_NNP ._.
+P_NNP D_NNP 42.49_CD 17_CD Eurasian_JJ 26_CD M_NNP 3_CD 600.C.C_CD Red_NNP Yellow_NNP Do_NNP ._.
+1,025_CD 1.75_CD %_NN P._NNP Trace_NNP ._.
+Trace_NN ._.
+D_NNP 34.95_CD 18_CD D.E_NNP ._.
+38_CD M_NNP 9_CD 700.C.C_CD ._.
+Red_JJ Do_NNP ._.
+1,025_CD 1.90_CD %_NN Absent_NNP ._.
+P_NNP Trace_NNP ._.
+40.77_CD 19_CD Eurasian_JJ 13_CD M_NNP 4_CD 400.C.C_CD ._.
+Muddy_NNP Yellow_NNP Red_NNP ._.
+Faintly_RB acid_VBZ 1,020_CD 2.0_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 18.64_CD 20_CD Do_NNPS ._.
+29_CD M_NNP 4_CD 650.C_CD C._NNP Do_NNP ._.
+Sharply_NNP acid_VBD 1,018_CD 1.5_CD %_NN Absent_NNP ._.
+P_NNP D_NNP 27.26_CD 21_CD Do_NNPS ._.
+9_CD M_NNP 5_CD 1,000.C.C_CD Light_NNP Yellow_NNP Do_NNP ._.
+1,015_CD 2.5_CD %_NN P._NNP P_NNP D_NNP 34.95_CD 22_CD G._NNP 44_CD M_NNP 3_CD 700.C.C_CD ._.
+Do_NNP ._.
+Do_NNP ._.
+1,020_CD 1.85_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 32.62_CD 23_CD G._NNP 14_CD M_NNP 3_CD 500.C.C_CD Yellow_NNP Red_NNP Do_NNP ._.
+1,024_CD 2.0_CD %_NN Do_NNP ._.
+P_NNP D_NNP 27.96_CD 24_CD D._NNP E._NNP 18_CD M_NNP 4_CD 950.C.C_CD ._.
+Red_NNP Yellow_NNP Do_NNP ._.
+1,014_CD 2.5_CD %_NN Do_NNP ._.
+Slight_NNP ._.
+D_NNP 30.98_CD 25_CD G._NNP 16_CD M_NNP 5_CD 1,000.C.C_CD ._.
+Yellow_JJ Red_NNP Do_NNP ._.
+1,018_CD 1.85_CD %_NN Do_NNP P_NNP D_NNP 41.94_CD 26_CD Eurasian_JJ 15_CD M_NNP 6_CD 800.C.C_CD ._.
+Do_NNP ._.
+Do_NNP ._.
+1,010_CD 1.0_CD %_NN Do_NNP ._.
+P_NNP D_NNP 18.04_CD 27_CD G._NNP 26_CD M_NNP 4_CD 800.C.C_CD ._.
+Red_NNP Yellow_NNP Do_NNP ._.
+1,012_CD 1.85_CD %_NN Do_NNP ._.
+P_NNP D_NNP 20.20_CD 28_CD D._NNP E._NNP 31_CD F_NNP 3_CD 850.C.C_CD ._.
+Do_NNP ._.
+Do_NNP ._.
+1,016_CD 1.90_CD %_NN Do_NNP ._.
+P_NNP D_NNP 31.68_CD 29_CD D._NNP E._NNP 7_CD M_NNP 4_CD 630.C.C_CD ._.
+Do_NNP ._.
+Do_NNP ._.
+1,015_CD 2.25_CD %_NN P._NNP P_NNP D_NNP 22.01_CD 30_CD D._NNP E._NNP 8_CD F_NNP 4_CD 900.C.C_CD Yellow_NNP Red_NNP Do_NNP ._.
+1,018_CD 2.0_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 39.84_CD 31_CD Eurasian_JJ 30_CD M_NNP 3_CD 800.C.C_CD ._.
+Light_NNP Yellow_NNP Do_NNP ._.
+1,025_CD 1.85_CD %_NN Do_NNP ._.
+P_NNP D_NNP 46.60_CD 32_CD D._NNP E._NNP 22_CD F_NNP 4_CD 900.C.C_CD ._.
+Yellow_JJ Red_NNP Do_NNP ._.
+1,024_CD 2.5_CD %_NN P._NNP P_NNP D_NNP 50.32_CD 33_CD Eurasian_JJ 21_CD M_NNP 4_CD 1,000.C.C_CD ._.
+Light_NNP Yellow_NNP Faintly_NNP acid_VBZ 1,010_CD 1.75_CD %_NN Trace_NNP ._.
+P_NNP Trace_NNP ._.
+23.30_CD 34_CD Do_NNPS ._.
+55_CD M_NNP 5_CD 1,500.C.C_CD Red_NNP Yellow_NNP Sharply_NNP acid_VBD 1,025_CD 1.75_CD %_NN P._NNP P_NNP D_NNP 87.37_CD 35_CD G._NNP 22_CD M_NNP 3_CD 760.C.C_CD ._.
+Brown_NNP Red_NNP Intensely_NNP acid_VBD 1,026_CD 2.75_CD %_NN Absent_NNP ._.
+P_NNP D_NNP 46.04_CD 36_CD Eurasian_JJ 32_CD M_NNP 5_CD 1,400.C.C_CD ._.
+Yellow_JJ Sharply_NNP acid_VBD 1,022_CD 1.50_CD %_NN Do_NNP ._.
+P_NNP D_NNP 71.70_CD 37_CD Do_NNPS ._.
+19_CD F_NNP 5_CD 1,000.C.C_CD Do_NNPS ._.
+Do_NNP ._.
+1,025_CD 2.0_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 58.25_CD 38_CD J_NNP ._.
+20_CD M_NNP 5_CD 1,500.C.C_CD Brown_NNP Red_NNP Do_NNP ._.
+1,024_CD 2.0_CD %_NN Absent_NNP ._.
+P_NNP D_NNP 82.88_CD 39_CD Eurasian_JJ 18_CD F_NNP 3_CD 500.C.C_CD ._.
+Do_NNP ._.
+Do_NNP ._.
+1,025_CD 2.5_CD %_NN Trace_NNP ._.
+P_NNP Trace_NNP ._.
+29.12_CD 40_CD Do_NNPS ._.
+33_CD M_NNP 4_CD 1,260.C.C_CD ._.
+Light_NNP Yellow_NNP Do_NNP ._.
+1,030_CD 2.5_CD %_NN Do_NNP ._.
+P_NNP P._NNP 88.07_CD 41_CD Do_NNPS ._.
+17_CD M_NNP 4_CD 900.C.C_CD ._.
+Do_NNP ._.
+Intensely_RB acid_JJ 1,024_CD 1.25_CD %_NN Do_NNP ._.
+P_NNP Slight_NNP ._.
+50.32_CD 42_CD G._NNP 44_CD M_NNP 5_CD 950.C.C_CD Red_NNP Yellow_NNP Sharply_NNP acid_VBD 1,026_CD 1.75_CD %_NN Trace_NNP Salmon_NNP Pink_NNP P_NNP D_NNP 57.45_CD 43_CD J_NNP ._.
+40_CD M_NNP 4_CD 950.C.C_CD ._.
+Do_NNP ._.
+Do_NNP ._.
+1,035_CD 1.25_CD %_NN Trace_NNP ._.
+P_NNP D_NNP 77.48_CD 44_CD European_JJ 17_CD F_NNP 3_CD 800.C.C_CD ._.
+Light_NNP Yellow_NNP Do_NNP ._.
+1,025_CD 1.50_CD %_NN Fair_NNP ._.
+P_NNP D_NNP 46.60_CD 45_CD R._NNP J_NNP ._.
+26_CD F_NNP 4_CD 900.C.C_CD ._.
+Red_NNP Yellow_NNP Do_NNP ._.
+1,032_CD 2.25_CD %_NN Trace_NNP ._.
+P_NNP Slight_NNP ._.
+67.10_CD 46_CD J_NNP ._.
+16_CD M_NNP 4_CD 1,000.O.C_CD ._.
+Red_NNP Brown_NNP Do_NNP ._.
+1,025_CD 2.0_CD %_NN Do_NNP ._.
+P_NNP Do_NNP ._.
+58.25_CD 47_CD Eurasian_JJ 12_CD M_NNP 5_CD 1,200.C.C_CD ._.
+Light_NNP Yellow_NNP Neutral_NNP 1,018_CD 2.5_CD %_NN P._NNP P_NNP Abundant_NNP ._.
+50.32_CD 48_CD Do_NNPS ._.
+28_CD M_NNP 5_CD 1,900.C.C_CD Red_NNP Yellow_NNP Do_NNP ._.
+1,018_CD 3.2_CD %_NN D._NNP P_NNP D._NNP 67.10_CD 49_CD D._NNP E._NNP 13_CD M_NNP 4_CD 760.C.C_CD Do_NNPS ._.
+Sharply_NNP acid_VBD 1,028_CD 2.5_CD %_NN Normal_NNP ._.
+P_NNP Slight_NNP 49.55_CD 50_CD Eurasian_JJ 42_CD F_NNP 4_CD 700.C.C_CD ._.
+Do_NNP ._.
+Do_NNP ._.
+1,020_CD 2.5_CD %_NN Trace_NNP ._.
+P_NNP Do_NNP ._.
+32.62_CD Abbreviations_NNS ._.
+-E._JJ =_JJ European_JJ ._.
+D._NNP E._NNP =_NNP Domiciled_VBD European_NNP ._.
+E._NNP J_NNP ._.
+=_JJ European_JJ Jew_NNP ._.
+J_NNP ._.
+=_JJ Jew_NNP ._.
+R._NNP J_NNP ._.
+=_JJ Russian_JJ Jew_NNP ._.
+?_. 23_CD IX_NNP ._.
+Hojel_NNP in_IN fifty_JJ plague_NN cases_NNS at_IN the_DT St._NNP George_NNP 's_POS Hospital_NNP ,_, Bombay_NNP ._.
+15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD Albumin_NNP ._.
+Globulins_NNS ._.
+Peptones_NNS ._.
+Albumoses_NNS ._.
+Bile_NNP ._.
+Sugar_NNP ._.
+Indican_NNP ._.
+Leucin_NNP ,_, Tyrosin_NNP ._.
+Acetone_NN ,_, Diacetic_NNP Acid_NNP ._.
+Diazo_NNP Reaction_NNP ._.
+Sediment_NN ._.
+Trace_NN ._.
+Nil_NNP Nil_NNP Nil_NNP Trace_NNP ._.
+Nil_NNP Trace_NNP ._.
+Nil_NNP Nil_NNP Port_NNP wine_VB colour_NN ._.
+Amorphous_JJ urates_NNS ;_: no_DT casts_NNS ._.
+Do_NNP ._.
+Do_NNP ._.
+Do_NNP ._.
+Do_NNP ._.
+No_DT casts_NNS ._.
+Do_NNP ._.
+Nil_NNP Marked_NNP ._.
+Do_NNP ._.
+Do_NNP ._.
+Do_NNP ._.
+M_NNP Do_NNP ._.
+Hyaline_NNP and_CC uratic_JJ casts_NNS ;_: uric_JJ acid_NN crystals_NNS abundant_VBP ._.
+Nil_NNP ._.
+Trace_NN ._.
+M_NNP Do_NNP ._.
+No_DT sediment_NN ;_: mucous_JJ clouds_NNS ._.
+Nil_NNP Trace_NNP ._.
+Do_NNP ._.
+Cloudy_NNP ;_: no_DT sediment_NN ._.
+Trace_NN ._.
+M_NNP Do_NNP ._.
+Cloudy_NNP ._.
+Do_NNP ._.
+M_NNP Do_NNP ._.
+Amorphous_JJ and_CC triple_JJ phosphates_NNS ._.
+Nil_NNP ._.
+M_NNP Do_NNP ._.
+Amorphous_JJ urates_NNS ;_: uratic_JJ casts_NNS ._.
+Trace_NN ._.
+M_NNP Do_NNP ._.
+Urate_NN of_IN ammonium_NN ._.
+Trace_NN ._.
+Present_NNP ._.
+Trace_NN ._.
+Do_NNP ._.
+Granular_JJ casts_NNS ,_, large_JJ and_CC small_JJ urate_NN of_IN amnonium_NN ._.
+6_CD Do_NNP ._.
+P_NNP ,_, M_NNP Do_NNP ._.
+A_DT few_JJ granular_JJ casts_NNS ._.
+Trace_NN ._.
+Nil_NNP Nil_NNP Trace_NNP ._.
+Fair_NNP Light_NNP Port_NNP wine_VB colour_NN ._.
+Do_NNP ._.
+do_NN ._.
+Nil_NNP Do_NNP ._.
+M_NNP Port_NNP wine_VB colour_NN ._.
+Nil_NNP ._.
+1/8_CD Trace_NNP ._.
+P_NNP Nil_NNP M_NNP Do_NNP ._.
+R._NNP B._NNP corpuscles_NNS ;_: hmoglobin_NN crystals_NNS ._.
+Do_NNP ._.
+P_NNP P_NNP M_NNP Do_NNP ._.
+Do_NNP ._.
+do_NN ._.
+Do_NNP ._.
+Nil_NNP P_NNP Trace_NNP ._.
+Do_NNP ._.
+R._NNP B._NNP corpuscles_NNS ;_: amorphous_JJ urates_NNS ._.
+Nil_NNP P_NNP Trace_NNP ._.
+Marked_VBN ._.
+P_NNP Acetone_NNP Do_NNP ._.
+Granular_JJ casts_NNS ._.
+Trace_NN ._.
+Nil_NNP Nil_NNP Trace_NNP ._.
+Nil_NNP Nil_NNP Do_NNP ._.
+Epithelial_JJ casts_NNS ._.
+Do_NNP ._.
+Marked_VBN ._.
+Do_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+Fair_NNP ._.
+Do_NNP ._.
+M_NNP Light_NNP P._NNP W._NNP Trace_NNP ._.
+Trace_NN ._.
+M_NNP P._NNP W._NNP Nil_NNP Nil_NNP Trace_NNP ._.
+Do_NNP ._.
+Trace_NNP M_NNP Do_NNP ._.
+Nil_NNP ._.
+Trace_NN ._.
+Do_NNP ._.
+,_, Trace_NNP ._.
+Marked_VBN Do_NNP ._.
+Urate_NN of_IN soda_NN ._.
+Trace_NN ._.
+Trace_NN ._.
+Nil_NNP Trace_NNP ._.
+Do_NNP ._.
+Amorphous_JJ urates_NNS ._.
+Nil_NNP Nil_NNP M_NNP Do_NNP ._.
+Nil_NNP ._.
+Trace_NN ._.
+Trace_NN ._.
+M_NNP Do_NNP ._.
+Vaginal_NNP epithelum_NN ;_: no_DT casts_NNS ._.
+Do_NNP ._.
+Nil_NNP M_NNP Do_NNP ._.
+Amorphous_JJ urates_NNS ._.
+Nil_NNP Trace_NNP ._.
+M_NNP Do_NNP ._.
+Vaginal_NNP epithelium_NN ;_: urates_NNS ._.
+Trace_NN ._.
+Nil_NNP M_NNP Do_NNP ._.
+Urate_NN of_IN ammonium_NN ._.
+Trace_NN ._.
+M_NNP Do_NNP ._.
+Granular_JJ and_CC epithelial_JJ casts_NNS ._.
+Trace_NN ._.
+Trace_NN ._.
+Nil_NNP M_NNP Do_NNP ._.
+Uric_JJ acid_NN ._.
+Nil_NNP Trace_NNP ._.
+Do_NNP ._.
+M_NNP Do_NNP ._.
+Hyalin_NNP casts_NNS ._.
+1/6_CD Nil_NNP Do_NNP ._.
+M_NNP Do_NNP ._.
+Nil_NNP ._.
+1/8_CD Do_NNP ._.
+M_NNP Do_NNP ._.
+Amorphons_NNS urates_NNS ._.
+Trace_NN ._.
+Nil_NNP Trace_NNP ._.
+Do_NNP ._.
+Epithelial_JJ casts_NNS ._.
+Do_NNP ._.
+Trace_NN ._.
+M_NNP Do_NNP ._.
+Nil_NNP ._.
+Do_NNP ._.
+Nil_NNP M_NNP Do_NNP ._.
+Uric_JJ acid_NN ;_: oxalate_NN of_IN lime_NN ._.
+Do_NNP ._.
+Trace_NN ._.
+M_NNP Do_NNP ._.
+Amorphous_JJ urates_NNS ._.
+Trace_NN ._.
+Trace_NN ._.
+Nil_NNP Trace_NNP ._.
+Do_NNP ._.
+Granular_JJ and_CC uratic_JJ casts_NNS ._.
+Trace_NN ._.
+Nil_NNP Nil_NNP P_NNP Do_NNP ._.
+Do_NNP ._.
+Vesical_JJ and_CC vaginal_JJ epithelium_NN ._.
+Do_NNP ._.
+Trace_NNP M_NNP Do_NNP ._.
+Nil_NNP ._.
+Do_NNP ._.
+Nil_NNP M_NNP Do_NNP ._.
+Granular_JJ casts_NNS ._.
+Nil_NNP M_NNP Do_NNP ._.
+Triple_JJ phosphates_NNS ._.
+1/6_CD P_NNP M_NNP Do_NNP ._.
+Nil_NNP ._.
+Nil_NNP ,_, Nil_NNP Trace_NNP ._.
+M_NNP Do_NNP ._.
+Trace_NN ._.
+Nil_NNP Trace_NNP ._.
+Do_NNP ._.
+Uratic_JJ casts_NNS ._.
+G_NNP =_NNP Goanese_NNP ._.
+N_NNP C_NNP =_NNP Native_NNP Christian_NNP ._.
+P_NNP =_NNP Present_NNP ._.
+D_NNP =_NNP Diminished_NNP ._.
+M_NNP =_NNP Marked_NNP ._.
+24_CD GENERAL_NNP APPENDIX_NNP ._.
+The_DT following_JJ recommendations_NNS were_VBD made_VBN by_IN the_DT Committee_NNP :_: -_: From_IN THE_NNP PRESIDENT_NNP ,_, PLAGUE_NNP RESEARCH_NNP COMMITTEE_NNP ;_: To_TO THE_DT SECRETARY_NNP TO_NNP THE_NNP SURGEON-GENERAL_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP BOMBAY_NNP ._.
+Petit_NNP Laboratory_NNP ,_, J._NNP J_NNP ._.
+Hospital_NN ,_, Bombay_NNP ,_, 9th_CD December_NNP 1896_CD ._.
+SIR_NNP ,_, The_DT undersigned_JJ members_NNS of_IN the_DT Plague_NNP Research_NNP Committee_NNP strongly_RB urge_VBD the_DT adoption_NN of_IN the_DT following_JJ measures_NNS for_IN dealing_VBG with_IN the_DT existing_VBG epidemic_NN ._.
+2_CD ._.
+Seeing_VBG that_IN it_PRP is_VBZ known_VBN that_IN each_DT plague_NN patient_NN contains_VBZ in_IN himself_PRP the_DT source_NN of_IN infection_NN ,_, and_CC seeing_VBG that_IN there_EX is_VBZ a_DT possibility_NN of_IN this_DT passing_NN either_CC directly_RB or_CC indirectly_RB from_IN the_DT sick_NN to_TO the_DT healthy_JJ ,_, it_PRP is_VBZ absolutely_RB necessary_JJ that_IN the_DT most_RBS rigid_JJ isolation_NN of_IN the_DT sick_NN should_MD be_VB practised_VBN ._.
+For_IN the_DT attainment_NN of_IN this_DT end_NN it_PRP is_VBZ not_RB necessary_JJ in_IN all_DT cases_NNS that_IN the_DT sick_JJ person_NN or_CC persons_NNS should_MD be_VB removed_VBN from_IN the_DT house_NN in_IN which_WDT the_DT attack_NN commenced_VBD ._.
+Suitable_JJ rooms_NNS might_MD be_VB available_JJ in_IN the_DT house_NN in_IN which_WDT the_DT case_NN could_MD be_VB efficiently_RB isolated_VBN ._.
+In_IN select-_JJ ing_NN such_JJ room_NN ,_, the_DT points_NNS to_TO be_VB especially_RB kept_VBN in_IN mind_NN should_MD be_VB the_DT free_JJ supply_NN of_IN sunlight_NN and_CC air_NN and_CC the_DT minimising_NN of_IN the_DT chances_NNS of_IN communication_NN with_IN other_JJ persons_NNS in_IN the_DT house_NN ._.
+Often_RB ,_, in_IN place_NN of_IN a_DT room_NN ,_, the_DT flat_JJ roof_NN of_IN a_DT house_NN or_CC other_JJ such_JJ open_JJ space_NN in_IN connection_NN with_IN a_DT house_NN could_MD be_VB utilised_VBN for_IN isolation_NN a_DT temporary_JJ erection_NN sufficing_VBG to_TO keep_VB off_RP the_DT direct_JJ rays_NNS of_IN the_DT sun_NN ._.
+Whichever_WDT method_NN be_VB adopted_VBN ,_, the_DT door_JJ passage_NN of_IN communication_NN with_IN the_DT house_NN should_MD be_VB guarded_VBN by_IN hanging_VBG over_IN it_PRP a_DT cloth_JJ kept_FW constantly_RB saturated_VBN with_IN carbolic_JJ solution_NN (_( 1_CD pint_NN to_TO 2_CD gallons_NNS )_) ._.
+3_CD ._.
+All_DT articles_NNS of_IN clothing_NN ,_, etc._FW ,_, used_VBN by_IN the_DT patient_NN ,_, and_CC all_DT secretions_NNS should_MD either_RB be_VB disinfected_VBN before_IN removal_NN from_IN the_DT room_NN ,_, or_CC destroyed_VBN by_IN fire_NN ._.
+Not_RB more_JJR than_IN one_CD attendant_NN ,_, or_CC at_IN the_DT most_RBS two_CD at_IN a_DT time_NN ,_, should_MD be_VB allowed_VBN in_IN the_DT room_NN ._.
+4_CD ._.
+If_IN no_DT suitable_JJ accommodation_NN is_VBZ available_JJ in_IN the_DT house_NN ,_, the_DT patient_NN must_MD be_VB removed_VBN to_TO a_DT suitable_JJ place_NN ,_, which_WDT should_MD ,_, if_IN possible_JJ ,_, be_VB a_DT special_JJ hospital_NN ._.
+5_CD ._.
+After_IN the_DT removal_JJ recovery_NN or_CC death_NN of_IN the_DT patient_NN ,_, the_DT infected_JJ room_NN should_MD first_RB be_VB hermetically_RB closed_VBN and_CC thoroughly_RB fumigated_VBN with_IN sulphur_JJ fumes_NNS ._.
+The_DT walls_NNS and_CC floor_NN should_MD then_RB be_VB scraped_VBN ,_, and_CC they_PRP ,_, together_RB with_IN all_PDT the_DT articles_NNS in_IN the_DT room_NN capable_NN of_IN being_VBG so_RB treated_VBN ,_, should_MD be_VB washed_VBN with_IN solution_NN of_IN carbolic_JJ acid_NN (_( 1/2_CD pint_NN to_TO 2_CD gallons_NNS )_) ._.
+Finally_RB ,_, the_DT walls_NNS should_MD be_VB washed_VBN with_IN fresh_JJ quicklime_NN and_CC water_NN ,_, or_CC preferably_RB with_IN a_DT solution_NN of_IN chlorinated_JJ lime_NN ._.
+Clothing_NN ,_, bedding_NN ,_, etc._FW ,_, should_MD be_VB treated_VBN in_IN a_DT steam_NN steriliser_NN ._.
+For_IN the_DT purpose_NN of_IN transporting_VBG them_PRP to_TO the_DT sterliser_NN ,_, it_PRP is_VBZ advisable_JJ that_IN they_PRP should_MD be_VB wrapped_VBN in_IN a_DT sheet_NN soaked_VBN in_IN carbolic_JJ acid_JJ solution_NN ._.
+The_DT room_NN should_MD be_VB then_RB vacated_VBN for_IN a_DT period_NN of_IN at_IN least_JJS six_CD weeks_NNS ,_, About_IN a_DT week_NN before_IN it_PRP is_VBZ re-occupied_JJ ,_, the_DT floor_NN and_CC walls_NNS should_MD again_RB be_VB treated_VBN with_IN chlorinated_JJ lime_NN ._.
+On_IN the_DT occurrence_NN of_IN a_DT second_JJ case_NN in_IN the_DT same_JJ house_NN within_IN 15_CD days_NNS of_IN the_DT occurrence_NN of_IN the_DT first_JJ case_NN ,_, the_DT whole_JJ house_NN should_MD be_VB vacated_VBN ,_, the_DT sick_JJ person_NN being_VBG removed_VBN to_TO a_DT suitable_JJ hospital_NN ._.
+If_IN the_DT removal_NN of_IN the_DT sick_NN can_MD not_RB be_VB effected_VBN without_IN giving_VBG rise_NN to_TO an_DT objectionable_JJ amount_NN of_IN prejudice_NN ,_, they_PRP should_MD be_VB treated_VBN in_IN the_DT house_NN ._.
+The_DT whole_JJ house_NN ,_, when_WRB vacated_VBN ,_, should_MD be_VB subjected_VBN to_TO the_DT same_JJ process_NN as_IN detailed_VBN for_IN the_DT infected_JJ room_NN ,_, with_IN the_DT proviso_NN that_IN any_DT godown_NN or_CC place_NN of_IN business_NN ,_, provided_VBN with_IN a_DT separate_JJ entrance_NN and_CC not_RB used_VBN as_IN a_DT residence_NN ,_, need_VBP not_RB necessarily_RB be_VB vacated_VBN ,_, but_CC should_MD be_VB treated_VBN on_IN its_PRP$ merits_NNS as_IN to_TO how_WRB far_RB it_PRP should_MD come_VB under_IN the_DT operation_NN of_IN the_DT measures_NNS applicable_JJ to_TO the_DT rest_NN of_IN the_DT house_NN ._.
+?_. 25_CD 6_CD ._.
+To_TO meet_VB prejudices_NNS against_IN promiscuous_JJ segregation_NN ,_, communities_NNS in_IN the_DT various_JJ districts_NNS objecting_VBG to_TO the_DT ordinary_JJ isolation_NN hospitals_NNS should_MD be_VB per-_JJ mitted_VBN to_TO open_VB as_IN many_JJ selected_VBN and_CC approved_VBN hospitals_NNS as_IN may_MD be_VB necessary_JJ for_IN the_DT purpose_NN ._.
+Vacant_JJ houses_NNS ,_, huts_NNS ,_, tents_NNS or_CC ships_NNS in_IN the_DT harbour_NN may_MD be_VB used_VBN for_IN the_DT purpose_NN ._.
+7_CD ._.
+To_TO meet_VB the_DT difficulty_NN of_IN housing_NN the_DT evicted_VBN healthy_JJ persons_NNS tempo-_JJ rary_JJ accommodation_NN might_MD be_VB required_VBN ,_, and_CC could_MD be_VB erected_VBN on_IN any_DT available_JJ open_JJ land_NN ,_, but_CC much_RB might_MD be_VB done_VBN by_IN utilising_VBG houses_NNS already_RB more_RBR or_CC less_RBR deserted_VBN ._.
+Houses_NNS that_WDT have_VBP been_VBN vacated_VBN for_IN six_CD weeks_NNS ,_, owing_VBG to_TO the_DT occurrence_NN of_IN plague_NN cases_NNS ,_, might_MD be_VB found_VBN suitable_JJ ._.
+8_CD ._.
+To_TO meet_VB the_DT serious_JJ difficulty_NN of_IN the_DT concealment_NN of_IN cases_NNS ,_, all_DT house-_JJ holders_NNS should_MD be_VB made_VBN responsible_JJ that_IN all_DT serious_JJ cases_NNS of_IN illness_NN should_MD immedi-_VB ately_RB be_VB reported_VBN to_TO the_DT Health_NNP Department_NNP of_IN the_DT Municipality_NNP ._.
+On_IN receipt_NN of_IN such_JJ a_DT report_NN the_DT Municipal_NNP Medical_NNP Officer_NNP should_MD visit_VB the_DT case_NN ,_, and_CC if_IN it_PRP should_MD prove_VB to_TO be_VB one_CD of_IN plague_NN ,_, the_DT person_NN reporting_NN might_MD be_VB suitably_RB rewarded_VBN ._.
+In_IN the_DT case_NN of_IN chawls_NN ,_, it_PRP might_MD be_VB necessary_JJ ,_, not_RB only_RB to_TO make_VB the_DT landlord_NN responsible_JJ ,_, but_CC also_RB to_TO compel_VB him_PRP to_TO keep_VB a_DT representative_NN constantly_RB on_IN the_DT premises_NNS to_TO report_VB cases_NNS of_IN sickness_NN in_IN the_DT same_JJ manner_NN as_IN a_DT householder_NN ._.
+The_DT concealment_NN of_IN cases_NNS of_IN severe_JJ sickness_NN should_MD be_VB made_VBN a_DT penal_JJ offence_NN ._.
+To_TO ensure_VB the_DT efficient_JJ reporting_NN of_IN cases_NNS of_IN plague_NN ,_, house_NN to_TO house_NN visitations_NNS by_IN Municipal_NNP Medical_NNP Officers_NNP should_MD be_VB carried_VBN out_RP daily_RB in_IN all_DT infected_JJ localities_NNS ._.
+9_CD ._.
+Meanwhile_RB the_DT present_JJ measures_NNS for_IN opening_VBG up_RP and_CC cleansing_NN of_IN drains_NNS ,_, gullies_NNS &_CC c._NN ,_, disinfecting_NN of_IN roads_NNS ,_, burning_NN of_IN dead_JJ rats_NNS &_CC c._NN ,_, should_MD be_VB continued_VBN ;_: but_CC we_PRP consider_VBP that_IN the_DT practice_NN of_IN burning_VBG sulphur_NN in_IN open_JJ spaces_NNS and_CC in_IN open_JJ houses_NNS is_VBZ useless_JJ and_CC had_VBD better_JJR be_VB discontinued_VBN ._.
+10_CD ._.
+We_PRP consider_VBP that_IN an_DT extensive_JJ mortality_NN among_IN rats_NNS in_IN any_DT locality_NN may_MD be_VB taken_VBN as_IN an_DT indication_NN that_IN there_EX is_VBZ a_DT risk_NN of_IN the_DT appearance_NN of_IN plague_NN among_IN human_JJ beings_NNS there_RB residing_VBG ,_, and_CC that_IN on_IN the_DT occurrence_NN of_IN this_DT pheno-_JJ menon_NN ,_, all_DT rat-holes_NNS should_MD be_VB dug_VBN up_RP and_CC thoroughly_RB disinfected_VBN ,_, either_RB by_IN fire_NN or_CC by_IN means_NNS of_IN a_DT strong_JJ solution_NN of_IN chlorinated_JJ lime_NN ._.
+Rat-holes_NNS should_MD also_RB be_VB carefully_RB disinfected_VBN wherever_NN found_VBN in_IN an_DT infected_JJ house_NN ._.
+11_CD ._.
+A_DT set_NN of_IN simple_JJ rules_NNS for_IN the_DT guidance_NN of_IN the_DT people_NNS should_MD be_VB drawn_VBN up_RP in_IN the_DT various_JJ vernaculars_NNS and_CC circulated_VBN both_DT by_IN printed_VBN notices_NNS and_CC by_IN criers_NNS ._.
+Such_JJ rules_NNS should_MD direct_VB attention_NN to_TO the_DT necessity_NN for_IN free_JJ and_CC efficient_JJ ventilation_NN ,_, the_DT prevention_NN of_IN overcrowding_VBG and_CC the_DT necessity_NN of_IN cleanliness_JJ both_DT of_IN the_DT person_NN and_CC of_IN the_DT dwelling_NN ._.
+The_DT whole_JJ contents_NNS of_IN dwelling_VBG rooms_NNS should_MD be_VB well_RB aired_VBN and_CC exposed_VBN to_TO sunlight_VB once_RB a_DT fortnight_NN ;_: bedding_NN and_CC clothing_NN should_MD be_VB so_RB treated_JJ every_DT day_NN ._.
+Special_JJ care_NN should_MD be_VB enjoined_VBN in_IN keeping_VBG clean_JJ all_DT injuries_NNS or_CC skin_JJ abrasions_NNS even_RB of_IN the_DT slightest_JJS description_NN ._.
+They_PRP should_MD be_VB washed_VBN with_IN disinfectants_NNS obtained_VBN from_IN the_DT Municipality_NNP and_CC protected_VBN by_IN plaster_NN ,_, or_CC clean_JJ bandages_NNS ,_, or_CC otherwise_RB ._.
+Householders_NNS and_CC land-_JJ lords_NNS should_MD be_VB compelled_VBN to_TO wash_VB and_CC limewash_VB all_DT houses_NNS and_CC rooms_NNS which_WDT on_IN inspection_NN are_VBP found_VBN to_TO be_VB dirty_JJ ._.
+Such_JJ limewashing_NN will_MD obviously_RB give_VB an_DT opportunity_NN for_IN exposing_VBG the_DT contents_NNS of_IN a_DT room_NN to_TO sunlight_NN and_CC air_NN ._.
+Persons_NNS coming_VBG in_IN contact_NN with_IN the_DT sick_JJ ,_, especially_RB if_IN contaminated_VBN with_IN secretions_NNS ,_, should_MD be_VB instructed_VBN to_TO carefully_VB wash_VB all_DT exposed_VBN skin_NN surfaces_NNS with_IN carbolic_JJ lotion_NN of_IN 1_CD in_IN 20_CD strength_NN ._.
+12_CD ._.
+In_IN order_NN to_TO increase_VB the_DT accuracy_NN of_IN the_DT death_NN returns_NNS and_CC to_TO obtain_VB a_DT better_JJR check_NN on_IN the_DT progress_NN of_IN the_DT disease_NN ,_, a_DT Medical_JJ Officer_NNP should_MD be_VB stationed_VBN at_IN each_DT of_IN the_DT places_NNS for_IN the_DT disposal_NN of_IN the_DT dead_JJ ,_, and_CC should_MD be_VB em-_JJ powered_VBN to_TO examine_VB bodies_NNS in_IN all_DT suspicious_JJ cases_NNS ._.
+As_IN a_DT general_JJ rule_NN ,_, this_DT examination_NN need_MD only_RB be_VB external_JJ ._.
+13_CD ._.
+With_IN regard_NN to_TO general_JJ measures_NNS ,_, it_PRP may_MD be_VB noted_VBN that_IN overcrowding_VBG ,_, deficient_JJ ventilation_NN of_IN houses_NNS and_CC rooms_NNS ,_, accumulated_VBD dirt_NN in_IN rooms_NNS and_CC passages_NNS ,_, are_VBP frequently_RB present_JJ and_CC obviously_RB require_VB to_TO be_VB dealt_VBN with_IN ,_, where_WRB necessary_JJ ,_, by_IN compulsion_NN ._.
+The_DT opening_NN up_IN of_IN crowded_JJ localities_NNS for_IN the_DT free_JJ perflation_NN of_IN air_NN is_VBZ urgently_RB needed_VBN ._.
+The_DT crowded_VBN and_CC insanitary_JJ burial_JJ grounds_NNS present_JJ in_IN the_DT midst_NN of_IN thickly_RB populated_JJ districts_NNS should_MD be_VB closed_VBN on_IN B_NNP 1751-7_JJ 26_CD the_DT earliest_JJS possible_JJ occasion_NN ._.
+We_PRP also_RB point_VBP out_RP the_DT need_NN for_IN a_DT steam_NN steriliser_NN in_IN each_DT district_NN of_IN the_DT city_NN ._.
+14_CD ._.
+The_DT committee_NN is_VBZ well_RB aware_JJ that_IN the_DT carrying_VBG out_IN of_IN much_JJ of_IN the_DT above_JJ measures_NNS will_MD be_VB attended_VBN with_IN hardship_NN and_CC inconvenience_NN to_TO the_DT inhabitants_NNS ,_, but_CC we_PRP consider_VBP that_IN nothing_NN less_JJR than_IN the_DT above_JJ desiderata_NN will_MD suffice_VB to_TO eradicate_VB the_DT disease_NN ._.
+While_IN every_DT effort_NN should_MD be_VB made_VBN to_TO prevent_VB the_DT regulations_NNS bearing_VBG harshly_RB on_IN the_DT people_NNS ,_, these_DT regulations_NNS should_MD be_VB firmly_RB and_CC unflinchingly_RB applied_VBN in_IN view_NN of_IN the_DT enormous_JJ interests_NNS at_IN stake_NN ._.
+Although_IN interference_NN with_IN trade_NN and_CC even_RB panic_NN may_MD ensue_VB on_IN enforcing_VBG the_DT above_JJ measures_NNS ,_, it_PRP should_MD be_VB borne_VBN in_IN mind_NN that_IN greater_JJR interference_NN with_IN trade_NN and_CC greater_JJR panic_NN is_VBZ likely_JJ to_TO be_VB produced_VBN by_IN the_DT disease_NN itself_PRP if_IN allowed_VBN an_DT untram-_JJ melled_JJ course_NN in_IN the_DT succeeding_JJ months_NNS of_IN the_DT cold_JJ weather_NN ._.
+15_CD ._.
+While_IN leaving_VBG the_DT carrying_VBG out_IN of_IN the_DT above_NN rules_NNS to_TO the_DT Municipal_NNP authorities_NNS ,_, the_DT Committee_NNP advocates_VBZ the_DT employment_NN of_IN a_DT Commissioned_JJ Me-_NNP dical_JJ officer_NN in_IN each_DT of_IN the_DT infected_JJ districts_NNS to_TO inspect_VB and_CC supervise_VB the_DT methods_NNS of_IN combating_VBG the_DT disease_NN ._.
+It_PRP might_MD be_VB feasible_JJ to_TO ask_VB the_DT Army_NNP Medical_NNP Staff_NNP and_CC the_DT Royal_NNP Navy_NNP to_TO contribute_VB their_PRP$ quota_NN of_IN such_JJ officers_NNS ,_, if_IN any_DT difficulty_NN is_VBZ found_VBN in_IN providing_VBG them_PRP from_IN the_DT Indian_NNP Medical_NNP Service_NNP ._.
+Such_JJ aid_NN is_VBZ requisite_JJ ,_, as_IN it_PRP is_VBZ feared_VBN that_IN in_IN some_DT cases_NNS the_DT present_JJ measures_NNS of_IN disinfection_NN are_VBP not_RB efficiently_RB carried_VBN out_RP ,_, and_CC more_RBR responsible_JJ aid_NN is_VBZ required_VBN in_IN super-_JJ vising_VBG the_DT sanitary_JJ needs_NNS of_IN the_DT infected_JJ areas_NNS ._.
+At_IN present_JJ it_PRP is_VBZ feared_VBN that_IN the_DT Medical_NNP officers_NNS employed_VBN by_IN the_DT Municipality_NNP have_VBP most_JJS of_IN their_PRP$ time_NN employed_VBN in_IN inspecting_VBG and_CC treating_VBG the_DT sick_NN ._.
+These_DT Municipal_JJ officers_NNS should_MD direct_VB the_DT whole_NN of_IN their_PRP$ time_NN to_TO inspecting_VBG their_PRP$ districts_NNS and_CC to_TO seeing_VBG that_IN the_DT above_JJ suggestions_NNS are_VBP carried_VBN out_RP efficiently_RB ._.
+The_DT Commissioned_NNP Medical_NNP officers_NNS ,_, if_IN employed_VBN ,_, should_MD be_VB independent_JJ of_IN the_DT Municipality_NNP and_CC should_MD report_VB to_TO the_DT Sanitary_NNP Commissioner_NNP with_IN the_DT Government_NNP of_IN Bombay_NNP ._.
+16_CD ._.
+We_PRP also_RB consider_VBP that_IN steps_NNS should_MD be_VB taken_VBN for_IN obtaining_VBG further_JJ supplies_NNS of_IN M._NNP Yersin_NNP 's_POS antitoxin_NN for_IN treatment_NN of_IN the_DT sick_NN ._.
+17_CD ._.
+In_IN conclusion_NN we_PRP wish_VBP to_TO point_VB out_RP that_IN until_IN scientific_JJ researches_NNS have_VBP shown_VBN us_PRP the_DT exact_JJ sources_NNS and_CC modes_NNS of_IN infection_NN in_IN this_DT disease_NN ,_, the_DT utility_NN of_IN any_DT special_JJ mode_NN of_IN disinfection_NN must_MD remain_VB a_DT matter_NN of_IN theory_NN ,_, and_CC the_DT safest_JJS way_NN of_IN avoiding_VBG the_DT disease_NN must_MD be_VB to_TO run_VB away_RB from_IN it_PRP ._.
+In_IN other_JJ words_NNS ,_, although_IN it_PRP is_VBZ probable_JJ that_IN the_DT suggested_JJ measures_NNS of_IN disinfection_NN will_MD be_VB of_IN some_DT use_NN ,_, we_PRP consider_VBP that_IN there_EX is_VBZ reason_NN for_IN placing_VBG more_JJR reliance_NN on_IN the_DT evacuation_NN of_IN infected_JJ houses_NNS as_IN a_DT means_NN of_IN combating_VBG the_DT disease_NN ._.
+We_PRP have_VBP the_DT honour_NN to_TO be_VB ,_, Sir_NNP ,_, Your_NNP most_RBS obedient_JJ servants_NNS ,_, (_( Signed_VBN )_) R._NNP MANSER_NNP ,_, M.D._NNP ,_, Surgeon-Major_NNP ,_, I._NNP M._NNP S._NNP ,_, President_NNP ._.
+(_( Signed_VBN )_) E._NNP H._NNP HANKIN_NNP ._.
+(_( Signed_VBN )_) L._NNP F._NNP CHILDE_NNP ,_, Surgeon-Captain_NNP ,_, I._NNP M._NNP S._NNP (_( Signed_VBN )_) N._NNP F._NNP SURVEYOR_NNP ,_, A_NNP minority_NN report_NN by_IN Professor_NNP Haffkine_NNP is_VBZ appended_VBN ._.
+?_. 27_CD Petit_NNP Laboratory_NNP ,_, 10th_CD December_NNP 1896_CD ._.
+DEAR_NNP DR._NNP MANSER_NNP ,_, I_PRP regret_VBP to_TO be_VB unable_JJ to_TO sign_VB the_DT paper_NN which_WDT you_PRP have_VBP read_VBN us_PRP during_IN our_PRP$ sittings_NNS yesterday_NN and_CC on_IN the_DT day_NN before_IN yesterday_NN ,_, even_RB after_IN its_PRP$ having_VBG been_VBN altered_VBN by_IN the_DT Committee_NNP ._.
+Kindly_RB forward_RB to_TO the_DT Surgeon-General_JJ the_DT following_JJ statement_NN which_WDT represents_VBZ the_DT views_NNS I_PRP hold_VBP personally_RB on_IN the_DT situation_NN ._.
+The_DT sanitary_JJ precautions_NNS now_RB being_VBG taken_VBN against_IN the_DT plague_NN are_VBP in_IN conformity_NN with_IN the_DT general_JJ sanitary_JJ principles_NNS adopted_VBN at_IN present_JJ ._.
+Any_DT new_JJ suggestions_NNS can_MD be_VB made_VBN only_RB after_IN a_DT patient_NN study_NN for_IN which_WDT we_PRP have_VBP not_RB yet_RB had_VBN sufficient_JJ time_NN and_CC which_WDT ought_MD to_TO be_VB uninterruptedly_RB pursued_VBN ._.
+No_DT immaterial_JJ alterations_NNS or_CC additions_NNS in_IN the_DT present_JJ measures_NNS are_VBP in_IN the_DT least_JJS likely_JJ to_TO affect_VB the_DT course_NN of_IN the_DT epidemic_JJ ,_, and_CC it_PRP is_VBZ not_RB advisable_JJ to_TO inter-_JJ fere_NN with_IN the_DT sanitary_JJ system_NN at_IN present_NN at_IN work_NN in_IN the_DT city_NN ,_, for_IN which_WDT there_EX is_VBZ no_DT reason_NN to_TO substitute_VB any_DT other_JJ ._.
+The_DT preparation_NN of_IN an_DT antitoxin_NN serum_NN ,_, similar_JJ to_TO that_DT which_WDT is_VBZ being_VBG experimented_VBN upon_IN by_IN Dr._NNP Yersin_NNP ,_, is_VBZ a_DT correct_JJ attempt_NN ,_, and_CC in_IN my_PRP$ programme_NN of_IN work_NN submitted_VBN to_TO the_DT Government_NNP of_IN India_NNP previous_JJ to_TO my_PRP$ coming_VBG to_TO Bombay_NNP ,_, this_DT was_VBD the_DT first_JJ problem_NN to_TO be_VB taken_VBN up_RP after_IN having_VBG ascertained_VBD the_DT identity_NN of_IN the_DT disease_NN ._.
+Since_IN several_JJ weeks_NNS horses_NNS ,_, cows_NNS ,_, goats_NNS and_CC sheep_NN are_VBP being_VBG immunised_VBN at_IN the_DT Government_NNP Lazaretto_NNP at_IN Siwri_NNP ._.
+Dr._NNP Yersin_NNP has_VBZ also_RB been_VBN asked_VBN for_IN a_DT supply_NN of_IN serum_NN ,_, just_RB at_IN the_DT commencement_NN of_IN the_DT outbreak_NN ,_, through_IN the_DT Consul_NNP General_NNP in_IN Calcutta_NNP ,_, and_CC he_PRP answered_VBD that_IN he_PRP had_VBD only_RB a_DT small_JJ amount_NN of_IN serum_NN ,_, of_IN which_WDT he_PRP could_MD send_VB only_RB two_CD doses_NNS ,_, since_IN then_RB received_VBN in_IN Calcutta_NNP ._.
+At_IN my_PRP$ request_NN to_TO have_VB the_DT sample_NN here_RB for_IN a_DT trial_NN ,_, I_PRP had_VBD first_RB a_DT tele-_JJ gram_NN from_IN the_DT Health_NNP Officer_NNP of_IN Calcutta_NNP ,_, saying_VBG that_IN it_PRP was_VBD being_VBG despatched_VBN to_TO me_PRP ,_, but_CC later_RB on_IN he_PRP informed_VBD me_PRP that_IN he_PRP could_MD not_RB spare_VB the_DT specimen_NNS ._.
+I_PRP am_VBP repeating_VBG the_DT request_NN to-day_NN ._.
+As_IN there_EX is_VBZ the_DT possibility_NN of_IN Dr._NNP Yersin_NNP having_VBG since_IN prepared_VBN another_DT supply_NN of_IN serum_NN ,_, or_CC of_IN his_PRP$ being_VBG now_RB ready_JJ to_TO submit_VB it_PRP to_TO trial_NN ,_, it_PRP is_VBZ advisable_JJ to_TO repeat_VB the_DT inquiry_NN ,_, and_CC I_PRP concur_VBP with_IN the_DT rest_NN of_IN the_DT Committee_NNP in_IN the_DT clause_NN which_WDT has_VBZ been_VBN inserted_VBN in_IN your_PRP$ paper_NN to_TO that_DT effect_NN ._.
+Yours_NNP faithfully_RB ,_, (_( Signed_VBN )_) W._NNP M._NNP HAFFKINE_NNP ._.
+MEASURES_NNP RECOMMENDED_NNP TO_NNP BE_NNP ADOPTED_NNP FOR_NNP LIMITING_NNP THE_NNP SPREAD_NNP OF_NNP PLAGUE_NNP IN_NNP THE_NNP MOFUSSIL_NNP ._.
+*_RB 1_CD ._.
+On_IN the_DT appearance_NN of_IN plague_NN in_IN a_DT district_NN or_CC when_WRB the_DT disease_NN is_VBZ pre-_JJ valent_NN in_IN the_DT neighbourhood_NN ,_, Collectors_NNS should_MD take_VB measures_NNS to_TO prevent_VB the_DT admission_NN into_IN villages_NNS of_IN persons_NNS from_IN infected_VBN areas_NNS and_CC the_DT movement_NN of_IN villagers_NNS between_IN neighbouring_VBG villages_NNS ._.
+2_CD ._.
+Sanitary_JJ measures_NNS such_JJ as_IN will_MD improve_VB the_DT water_NN supply_NN and_CC drainage_NN ,_, the_DT provision_NN of_IN food_NN where_WRB scarcity_NN prevails_VBZ ,_, and_CC the_DT supervision_NN of_IN the_DT quality_NN of_IN the_DT grain_NN sold_VBN in_IN the_DT bazaar-in_JJ short_JJ ,_, all_DT sanitary_JJ measures_NNS calculated_VBN to_TO improve_VB the_DT general_JJ health-should_NN be_VB carried_VBN out_IN without_IN delay_NN ,_, as_IN improve-_JJ ment_NN of_IN the_DT general_JJ health_NN of_IN a_DT population_NN increases_VBZ its_PRP$ resistance_NN to_TO epidemic_VB disease_NN ._.
+3_CD ._.
+The_DT death-rate_NN should_MD be_VB closely_RB watched_JJ and_CC the_DT cause_NN of_IN any_DT unusual_JJ mortality_NN enquired_VBD into_IN ,_, so_IN that_IN the_DT disease_NN may_MD be_VB detected_VBN before_IN it_PRP has_VBZ spread_VBN throughout_IN the_DT village_NN ._.
+4_CD When_WRB the_DT presence_NN of_IN plague_NN has_VBZ been_VBN ascertained_VBN ,_, a_DT temporary_JJ hospital_NN should_MD be_VB erected_VBN ,_, if_IN possible_JJ ,_, with_IN wards_NNS for_IN male_NN and_CC female_JJ patients_NNS ,_, and_CC shelter_NN provided_VBD near_IN the_DT hospital_NN for_IN such_JJ of_IN the_DT patients_NNS '_POS friends_NNS as_IN will_MD act_VB as_IN nurses_NNS ._.
+``_`` When_WRB a_DT temporary_JJ hospital_NN can_MD not_RB be_VB provided-e.g_JJ ._.
+in_IN the_DT monsoon-as_JJ suit-_JJ able_JJ a_DT house_NN as_IN possible_JJ should_MD be_VB obtained_VBN ._.
+*For_JJ translation_NN into_IN vernacular_NN for_IN the_DT use_NN of_IN village_NN officers_NNS ._.
+?_. 28_CD 5_CD ._.
+A_DT hospital_NN establishment_NN ,_, medicines_NNS ,_, instruments_NNS &_CC c._NN will_MD be_VB necessary_JJ in_IN proportion_NN to_TO the_DT size_NN of_IN the_DT village_NN and_CC extent_NN of_IN the_DT outbreak_NN ._.
+A_DT dooly_NN or_CC the_DT patient_NN 's_POS cot_NN may_MD be_VB used_VBN for_IN conveying_VBG the_DT sick_NN to_TO hospital_NN ._.
+6_CD ._.
+In_IN the_DT fair_JJ season_NN and_CC when_WRB the_DT disease_NN is_VBZ limited_VBN to_TO a_DT few_JJ families_NNS ,_, segregation_NN of_IN the_DT infected_JJ families_NNS should_MD be_VB carried_VBN out_RP ._.
+For_IN this_DT purpose_JJ sheds_NNS or_CC other_JJ accommodation_NN will_MD generally_RB be_VB necessary_JJ ._.
+Occasionally_RB the_DT whole_JJ population_NN of_IN a_DT village_NN will_MD turn_VB out_RP into_IN the_DT fields_NNS of_IN their_PRP$ own_JJ accord_NN on_IN the_DT appearance_NN of_IN plague_NN ._.
+This_DT appears_VBZ to_TO act_VB excellently_RB in_IN checking_VBG the_DT outbreak_NN and_CC should_MD be_VB encouraged_VBN ._.
+They_PRP should_MD not_RB return_VB until_IN cases_NNS of_IN plague_NN have_VBP ceased_VBN to_TO occur_VB among_IN them_PRP ,_, and_CC in_IN the_DT interval_JJ their_PRP$ houses_NNS should_MD be_VB thoroughly_RB cleaned_VBN ._.
+During_IN the_DT rains_NNS the_DT most_RBS that_WDT can_MD be_VB done_VBN ,_, as_IN a_DT rule_NN ,_, is_VBZ to_TO warn_VB the_DT uninfected_JJ not_RB to_TO expose_VB themselves_PRP unnecessarily_RB by_IN going_VBG into_IN infected_VBN houses_NNS ._.
+7_CD ._.
+The_DT dead_JJ should_MD be_VB buried_VBN at_IN a_DT safe_JJ distance_NN from_IN banks_NNS of_IN nlas_NNS and_CC from_IN wells_NNS ._.
+Where_WRB burning_NN is_VBZ employed_VBN ,_, the_DT body_NN should_MD be_VB entirely_RB con-_JJ sumed_NN ._.
+8_CD ._.
+Schools_NNS should_MD be_VB closed_VBN ,_, and_CC gatherings_NNS at_IN fairs_NNS &_CC c._NN discouraged_VBD or_CC prohibited_VBN ._.
+9_CD ._.
+In_IN cleaning_NN houses_NNS the_DT woodwork_NN should_MD be_VB well_RB washed_VBN ,_, and_CC articles_NNS of_IN furniture_NN washed_VBN and_CC exposed_VBN to_TO the_DT sun_NN and_CC air_NN for_IN some_DT days_NNS ._.
+The_DT walls_NNS and_CC floors_NNS should_MD be_VB swept_VBN as_RB clean_JJ as_IN possible_JJ ,_, and_CC the_DT house_NN thrown_JJ open_JJ to_TO the_DT light_NN and_CC air_NN ;_: where_WRB there_EX are_VBP mud_JJ floors_NNS ,_, these_DT should_MD be_VB renewed_VBN ._.
+10_CD ._.
+The_DT clothing_NN of_IN infected_JJ persons_NNS should_MD be_VB disinfected_VBN by_IN boiling_VBG or_CC steeping_VBG for_IN some_DT hours_NNS in_IN perchloride_NN of_IN mercury_NN solution_NN (_( 1_CD in_IN 1000_CD )_) ._.
+11_CD ._.
+Villagers_NNS should_MD co-operate_VB with_IN the_DT village_NN officers_NNS in_IN carrying_VBG out_RP these_DT measures_NNS as_RB thoroughly_RB as_IN possible_JJ ,_, as_IN they_PRP are_VBP intended_VBN for_IN the_DT good_NN of_IN the_DT whole_JJ community_NN ._.
+Professor_NNP Haffkine_NNP objects_VBZ to_TO paras_VB ._.
+6_CD ,_, 10_CD and_CC 11_CD ._.
+He_PRP thinks_VBZ they_PRP should_MD run_VB as_IN follows_VBZ :_: -_: 6_CD ._.
+While_IN the_DT disease_NN is_VBZ still_RB limited_VBN to_TO a_DT few_JJ families_NNS ,_, the_DT Ptel_NNP should_MD explain_VB to_TO the_DT people_NNS the_DT danger_NN of_IN residing_VBG in_IN the_DT infected_JJ houses_NNS ,_, and_CC try_VB to_TO induce_VB them_PRP to_TO go_VB to_TO some_DT other_JJ unoccupied_JJ dwellings_NNS ._.
+As_RB far_RB as_IN practicable_JJ ,_, they_PRP should_MD be_VB assisted_VBN by_IN providing_VBG them_PRP with_IN accommodation_NN at_IN the_DT public_JJ expense_NN ._.
+When_WRB the_DT village_NN is_VBZ small_JJ and_CC there_EX is_VBZ the_DT possibility_NN of_IN the_DT whole_JJ population_NN vacating_VBG it_PRP for_IN a_DT time_NN ,_, this_DT ought_MD to_TO be_VB encouraged_VBN ,_, the_DT people_NNS remain-_VBP ing_VBG outside_IN the_DT village_NN till_VBD the_DT cessation_NN of_IN the_DT epidemic_JJ amongst_NN them_PRP ._.
+The_DT practicability_NN of_IN this_DT measure_NN is_VBZ limited_VBN in_IN the_DT rainy_NN season_NN ._.
+10_CD ._.
+The_DT clothes_NNS of_IN infected_JJ persons_NNS should_MD not_RB be_VB used_VBN before_IN being_VBG thoroughly_RB washed_VBN and_CC dried_VBN in_IN the_DT sun_NN ._.
+11_CD ._.
+The_DT head_NN of_IN the_DT village_NN is_VBZ enjoined_VBN to_TO watch_VB over_IN the_DT carrying_VBG out_IN of_IN the_DT above_JJ measures_NNS ,_, as_IN they_PRP are_VBP for_IN the_DT good_NN of_IN the_DT community_NN under_IN him_PRP ,_, R._NNP W._NNP S._NNP LYONS_NNP ,_, M._NNP D._NNP ,_, Surgeon-Major_NNP ,_, I._NNP M._NNP S._NNP ,_, President_NNP ,_, Plague_NNP Research_NNP Committee_NNP ,_, Bombay_NNP ,_, 2nd_CD August_NNP 1897_CD ._.

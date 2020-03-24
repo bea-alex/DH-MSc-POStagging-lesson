@@ -1,0 +1,238 @@
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP BENGAL_NNP VETERINARY_NNP COLLEGE_NNP AND_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP ,_, FOR_IN THE_DT YEAR_NNP 1912-1913_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: THE_DT BENGAL_NNP SECRETARIAT_NNP BOOK_NNP DEPOT_NNP ._.
+1913_CD ._.
+[_JJ PriceANNUAL_NNP REPORT_NNP OF_IN THE_NNP BENGAL_NNP VETERINARY_NNP COLLEGE_NNP [_NNP INCLUDING_NNP THE_NNP REPORTS_NNP OF_IN THE_NNP EPIZOOTIC_NNP DISEASES_NNP DEPARTMENT_NNP IN_NNP CALCUTTA_NNP AND_NNP ITS_NNP VICINITY_NNP AND_NNP THE_NNP RAYMOND_NNP RESEARCH_NNP LABORATORY_NNP ]_NNP FOR_IN THE_NNP YEAR_NNP 1912-1913_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: THE_DT BENGAL_NNP SECRETARIAT_NNP BOOK_NNP DEPOT_NNP ._.
+1913_CD ._.
+Published_VBN at_IN the_DT BENGAL_NNP SECRETARIAT_NNP BOOK_NNP DEPOT_NNP ,_, Writers_NNP '_POS Buildings_NNS ,_, Calcutta_NNP ._.
+OFFICIAL_NN AGENTS_NNP ._.
+In_IN India_NNP [_NNP Maximum_NNP limit_NN ,_, 4_CD pages_NNS ._. ]_NN
+TABLE_NN OF_IN CONTENTS_NNP ._.
+Page_NN ._.
+General_NNP Administration_NNP ..._: ..._: ..._: ._. 1_CD Veterinary_JJ Instruction_NN ..._: ..._: ib_JJ Treatment_NNP of_IN Disease_NNP ..._: ..._: 2_CD Expenditure_NN of_IN the_DT College_NNP ..._: ..._: ib_NN ._.
+General_NNP remarks_NNS ..._: ._. ib_NN ._.
+Epizootic_JJ Diseases_NNP Department_NNP ..._: ..._: ib_NN ._.
+The_DT Raymond_NNP Research_NNP Laboratory_NNP ..._: .._VBZ 3_CD APPENDICES_NNP ._.
+Table_NN I_PRP ..._: ..._: .._VBZ 4_CD Table_NNP XVITHE_NNP BENGAL_NNP VETERINARY_NNP COLLEGE_NNP ._.
+GENERAL_NNP ADMINISTRATION_NNP ._.
+I_PRP WAS_VBP posted_VBN to_TO Bengal_NNP on_IN the_DT 15th_CD April_NNP and_CC took_VBD over_RP formal_JJ charge_NN of_IN the_DT Bengal_NNP Veterinary_NNP College_NNP on_IN the_DT afternoon_NN of_IN the_DT 4th_CD June_NNP ._.
+I_PRP also_RB held_VBD ,_, in_IN addition_NN to_TO my_PRP$ own_JJ duties_NNS ,_, the_DT charge_NN of_IN the_DT Civil_NNP Veterinary_NNP Depart-_NNP ment_NN ,_, Bengal_NNP ,_, from_IN 22nd_CD April_NNP to_TO 27th_CD October_NNP ,_, both_DT days_NNS included_VBD ._.
+VETERINARY_NNP INSTRUCTION_NNP ._.
+2_CD ._.
+Students.2_NNP TREATMENT_NNP OF_NNP DISEASE_NNP ._.
+9_CD ._.
+During_IN the_DT year_NN under_IN report_NN 2,428_CD patients_NNS were_VBD treated_VBN against_IN 2,184_CD of_IN the_DT previous_JJ year_NN showing_VBG an_DT increase_NN of_IN 244_CD and_CC 1,892_CD operations_NNS were_VBD performed_VBN against_IN 1,881_CD of_IN last_JJ year_NN ._.
+The_DT number_NN of_IN cruelty_NN to_TO animal_JJ cases_NNS sent_VBN by_IN the_DT trying_VBG Magistrates_NNP was_VBD 245_CD which_WDT in_IN comparison_NN with_IN 14,932_CD prosecutions_NNS appears_VBZ very_RB small_JJ ._.
+10_CD ._.
+The_DT fees_NNS realised_VBD for_IN treatment_NN and_CC shoeing_VBG amounted_VBN to_TO Rs_NNP ._.
+19,704-14-9_JJ and_CC the_DT cost_NN of_IN feeding_NN was_VBD Rs_NNP ._.
+24,110-10-3_JJ which_WDT includes_VBZ the_DT cost_NN of_IN feeding_NN of_IN the_DT College_NNP riding_NN ponies_NNS ,_, the_DT ambulance_NN horses_NNS and_CC the_DT breeding_NN and_CC draft_NN bulls_NNS ,_, as_IN also_RB any_DT chargers_NNS ,_, horses_NNS or_CC cattle_NNS used_VBN in_IN public_JJ service_NN ._.
+EXPENDITURE_NN OF_IN THE_NNP COLLEGE_NNP ._.
+11_CD ._.
+Table_JJ XIV-A_NN shows_NNS ,_, in_IN detail_NN ,_, the_DT expenditure_NN of_IN the_DT College_NNP during_IN the_DT year_NN ._.
+GENERAL_NNP REMARKS_NNP ._.
+12_CD ._.
+During_IN the_DT year_NN under_IN report_NN a_DT new_JJ hospital_NN for_IN dogs_NNS has_VBZ been_VBN erected_VBN and_CC certain_JJ low_JJ portions_NNS of_IN the_DT compound_NN of_IN the_DT Bengal_NNP Veterinary_NNP College_NNP have_VBP been_VBN raised_VBN ._.
+A_DT new_JJ building_NN for_IN the_DT office_NN and_CC quarters_NNS for_IN the_DT Principal_NNP are_VBP highly_RB necessary_JJ ._.
+13_CD ._.
+Staff3_NNP THE_NNP RAYMOND_NNP RESEARCH_NNP LABORATORY_NNP ._.
+During_IN the_DT year_NN under_IN report_NN some_DT up_IN to-date_JJ electrical_JJ apparatus_NN for_IN special_JJ experiments_NNS were_VBD purchased_VBN ._.
+2_CD ._.
+Pathological_JJ specimens_NNS ,_, smears_NNS ,_, dabs_NNS ,_, etc._FW ,_, were_VBD received_VBN from_IN the_DT Civil_NNP Veterinary_NNP Departments_NNP of_IN Bengal_NNP ,_, BiharTABLE_NNP I_PRP ._.
+Provincial_JJ report_NN showing_VBG the_DT main_JJ results_NNS of_IN the_DT Bengal_NNP Veterinary_NNP College_NNP during_IN the_DT year_NN 1912-13_RB ._.
+VETERI-_NNP NARY_NNP COLLEGES_NNP AND_NNP SCHOOLS_NNP ._.
+Name_NN of_IN course_NN of_IN instruction_NN if_IN more_JJR than_IN one_CD course_NN followed_VBD ._.
+NUMBER_NNP OF_NNP STUDENTS_NNP ._.
+STUDENTS_NNS ADMITTTED_VBP DURING_PDT THE_DT YEAR_NN CLASSED_NNP BY_NNP EDUCA-_NNP TIONAL_NNP QUALIFI-_NNP CATION_NNP ._.
+RECEIPTS_NNP ._.
+EXPENDITURE_NNP ._.
+EMPLOYEMENT_NNP OF_NNP STUDENTS_NNP WHO_NNP PASSED_VBD OUT_NNP DURING_NNP THE_NNP THREE_NNP YEARS_NNP PRECEDING_NNP ._.
+Admit-_NNP ted_VBD dur-_JJ ing_VBG the_DT year_NN ._.
+Passed_VBN during_IN the_DT year_NN ._.
+Failed_VBN to_TO pass_VB out_RP Remain-_JJ ing_VBG under_IN instruc-_JJ tion_NN at_IN the_DT end_NN of_IN the_DT year_NN ._.
+Scholarship-holders_NNS ._.
+Others_NNS ._.
+In_IN ordinary_JJ course_NN ._.
+Instruction_NN prolonged_VBN by_IN reason_NN of_IN failure_NN to_TO pass_NN ._.
+Matriculates_NNS or_CC with_IN higher_JJR qualifications_NNS ._.
+Knowing_VBG some_DT English_NNP but_CC not_RB matriculated_VBN ._.
+Knowing_VBG no_DT English_NNP or_CC very_RB little_JJ English_NNP ,_, From_NNP fees_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Instructing_VBG staff_NN and_CC their_PRP$ salaries_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Total_JJ number_NN passed_VBN ._.
+In_IN service_NN of_IN Government_NNP or_CC local_JJ bodies_NNS ._.
+In_IN service_NN of_IN other_JJ local_JJ committees_NNS or_CC institution_NN ._.
+In_IN private_JJ practice_NN ._.
+Unemployed_VBN in_IN veterinary_JJ work_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 1_CD 7_CD 18_CD 19_CD 20_CD 21_CD 22_CD No_NNP College_NNP fee_NN is_VBZ charged_VBN for_IN instruc-_JJ tion_NN ._.
+Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Veterinary_NNP College_NNP ,_, Bengal_NNP ._.
+Three_CD years_NNS '_POS course_NN in_IN English_NNP ._.
+26_CD 3_CD 27_CD 13_CD 45_CD 15_CD 27_CD ..._: ..._: ..._:
+Principal_NNP 's_POS salary_NN and_CC allowance_NN ._.
+18,700_CD 1_CD 7_CD Stipends_NNS ..._: 676_CD 0_CD 0_CD 92_CD 78_CD .._JJ 8_CD 6*_CD Allowance_NN to_TO Examiner_NNP ._.
+450_CD 0_CD 0_CD Assistant_NNP Principal_NNP 's_POS salary_NN and_CC allowance_NN ._.
+5,985_CD 0_CD 0_CD Prizes_NNS ..._: 562_CD 5_CD 9_CD Five_CD Lec-_JJ turers_NNS '_POS sa-_JJ lary_NN ._.
+12,550_CD 0_CD 0_CD Gymnasium_NNP Instructor_NNP 's_POS salary_NN ._.
+528_CD 0_CD 0_CD Riding_VBG Mas-_NNP ter_NN 's_POS salary_NN ._.
+240_CD 0_CD 0_CD Total_NN ..._: 38,003_CD 1_CD 7_CD Total_NN ..._: 1,088_CD 5_CD 9_CD 39,69_CD 1_CD 7_CD 4_CD *_JJ One_CD dead_NN ._.
+TABLE_DT XIV-A_NN ._.
+Statement_JJ showing_VBG the_DT expenditure_NN of_IN the_DT Bengal_NNP Veterinary_NNP College_NNP during_IN 1912-13_JJ ._.
+HEADS_NNP OF_NNP ACCOUNTS_NNP ._.
+AMOUNT_NNP ._.
+Total_NN ._.
+Imperial_NNP ._.
+Provincial_NNP ._.
+Local_NNP ._.
+Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Superintendence_NNP 5,979_CD 10_CD 10_CD 28,937_CD 1_CD 10_CD 34,916_CD 12_CD 8_CD Veterinery_NNP Instruction_NNP ..._: 19,061_CD 12_CD 14_CD 1,07,538_CD 7_CD 3_CD 2,597_CD 9_CD 4_CD 1,29,197_CD 13_CD 6_CD Subordinate_NNP Establishment_NN ..._: ..._: 17,576_CD 12_CD 9_CD ..._: ..._: 17,576_CD 12_CD 9_CD Hospitals_NNS and_CC Dispensaries_NNS ..._: ..._: ..._: 8,314_CD 7_CD 2_CD ..._: ..._: 8,314_CD 7_CD 2_CD Breeding_NNP operations_NNS ..._: ..._: ..._: 1,337_CD 7_CD 7_CD ..._: ..._: 1,337_CD 7_CD 7_CD Prizes_NNS ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Fairs_NNP and_CC Shows_NNP ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Total_VBP ..._: 25,041_CD 7_CD 9_CD 1,63,704_CD 4_CD 7_CD 2,597_CD 9_CD 4_CD 1,91,343_CD 5_CD 8_CD Furnished_VBN by_IN Accountant-General_NNP ,_, Bengal_NNP ._.
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP ,_, FOR_IN THE_DT YEAR_NNP 1912-13_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: THE_DT BENGAL_NNP SECRETARIAT_NNP BOOK_NNP DEPÔT_NNP ,_, 1913_CD ._.
+[_JJ Maximum_NNP limit_NN ,_, 15_CD pages_NNS ._. ]_NN
+TABLE_NN OF_IN CONTENTS_NNP ._.
+PREFACE_NNP AND_NNP GENERAL_NNP ADMINISTRATION_NNP ._.
+PAGE_JJ Officer_NNP in_IN charge_NN duration_NN of_IN tour_NN ,_, etc_FW ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD PART_NNP I.-VETERINARY_NNP INSTRUCTIONS_NNP ._.
+Training_NN of_IN Veterinary_NNP Inspectors_NNPS and_CC Reserve_NNP Veterinary_NNP Assistants_NNS ..._: .._VBZ 1_CD PART_NNP II.ANNUAL_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP ,_, FOR_IN THE_DT YEAR_NNP 1912-13_CD ._.
+PREFACE2_NNP prompt_JJ notification_NN to_TO this_DT department_NN ,_, and_CC consequent_NN earlier_JJR attendance_NN of_IN Veterinary_NNP Assistants_NNP ,_, though_RB in_IN the_DT latter_NN there_EX is_VBZ still_RB much_JJ to_TO be_VB desired_VBN ._.
+8_CD ._.
+In_IN some_DT cases_NNS it_PRP came_VBD to_TO my_PRP$ notice_NN that_IN the_DT police_NN failed_VBD to_TO report_VB at_IN all_DT ,_, and_CC in_IN others_NNS the_DT disease_NN had_VBD subsided_VBN before_IN this_DT department_NN got_VBD the_DT report_NN ._.
+EQUINES_NNP ._.
+9_CD ._.
+Glanders.3_NNP One_CD hundred_CD and_CC forty-six_JJ outbreaks_NNS of_IN rinderpest_NN ,_, 23_CD of_IN hæmorrhagic_JJ septicæmia_NN and_CC three_CD of_IN anthrax_NN at_IN which_WDT inculation_NN could_MD be_VB undertaken_VBN were_VBD reported_VBN ,_, and_CC the_DT total_JJ number_NN of_IN cattle_NNS inoculated_VBN was_VBD 21,705_CD as_IN per_NN details_NNS below_IN against_IN 21,193_CD of_IN the_DT previous_JJ year:4_VBZ the_DT fact_NN ,_, that_IN the_DT previous_JJ year_NN 's_POS returns_NNS of_IN these_DT assistants_NNS included_VBD the_DT figures_NNS for_IN the_DT number_NN of_IN daily_JJ attendances_NNS of_IN patients_NNS ,_, both_DT old_JJ and_CC new_JJ ,_, instead_RB of_IN new_JJ cases_NNS only_RB shown_VBN this_DT year_NN ,_, under_IN instruction_NN of_IN this_DT office_NN The_DT decrease_NN against_IN other_JJ assistants_NNS ,_, viz._NN ,_, Burdwan_NNP ,_, Midnapore_NNP ,_, Jessore_NNP and_CC Malda_NNP ,_, is_VBZ also_RB noticeable_JJ ,_, and_CC is_VBZ reported_VBN to_TO be_VB due_JJ to_TO the_DT decrease_NN of_IN foot_NN and_CC mouth_NN and_CC other_JJ contagious_JJ diseases_NNS ._.
+31_CD ._.
+In_IN spite_NN of_IN the_DT decrease_NN noted_VBD above_IN ,_, the_DT total_JJ number_NN of_IN patients_NNS treated_VBN by_IN the_DT assistants_NNS shows_VBZ a_DT slight_JJ increase_NN ,_, which_WDT is_VBZ partly_RB due_JJ to_TO the_DT appointment_NN of_IN three_CD new_JJ assistants_NNS during_IN the_DT year_NN ._.
+TABLE_NNP V.5_NNP Construction_NNP of_IN a_DT new_JJ building_NN for_IN this_DT hospital_NN is_VBZ now_RB pending_VBG selection_NN of_IN a_DT new_JJ site_NN by_IN this_DT department_NN ._.
+The_DT present_JJ site_NN is_VBZ objeced_VBN to_TO by_IN the_DT University_NNP ,_, on_IN the_DT ground_NN that_IN it_PRP will_MD be_VB too_RB near_IN the_DT proposed_VBN girl_NN 's_POS school_NN ;_: other_JJ six_CD or_CC seven_CD sites_NNS selected_VBN have_VBP been_VBN unobtainable_JJ for_IN various_JJ reasons_NNS ._.
+Every_DT effort_NN will_MD be_VB made_VBN to_TO overcome_VB this_DT site-selecting_JJ difficulty_NN and_CC to_TO get_VB the_DT erection_NN of_IN the_DT hospital_NN in_IN hand_NN this_DT year_NN ._.
+40_CD ._.
+Narainganj_NNP Municipal_NNP Hospital.6_NNP 50_CD ._.
+Malda.7_NNP the_DT improvement_NN of_IN Siri_NNP cattle_NNS in_IN the_DT district_NN of_IN Darjeeling_NNP ,_, and_CC a_DT herd_NN of_IN 28_CD heifers_NNS and_CC 2_CD bulls_NNS was_VBD imported_VBN by_IN Government_NNP from_IN Bhutan_NNP and_CC handed_VBN over_IN to_TO the_DT St._NNP Andrew_NNP 's_POS Colonial_NNP Homes_NNP under_IN certain_JJ conditions_NNS ._.
+59_CD ._.
+I_PRP have_VBP twice_RB inspected_VBN the_DT cattle_NNS ,_, which_WDT are_VBP in_IN fairly_RB good_JJ condition_NN ,_, and_CC in_IN a_DT few_JJ years_NNS will_MD ,_, I_PRP think_VBP ,_, be_VB quite_RB a_DT good_JJ herd_NN ._.
+60_CD ._.
+Table_JJ IX_NNP shows_VBZ the_DT working_NN of_IN this_DT farm_NN during_IN the_DT year_NN ._.
+61_CD ._.
+Horse_NN and_CC pony_NN stallion_NN ._.
+8_CD He_PRP attended_VBD an_DT outbreak_NN of_IN glanders_NNS at_IN Berhampore_NNP ,_, and_CC several_JJ outbreaks_NNS of_IN cattle_JJ diseases_NNS in_IN the_DT districts_NNS of_IN Jessore_NNP ,_, Khulna_NNP and_CC Nadia_NNP ._.
+(_( 4_CD )_) Inspector_NNP J_NNP ,_, N._NNP Dutt_NNP Chowdhury_NNP was_VBD in_IN charge_NN of_IN the_DT Burdwan_NNP Division_NNP from_IN 11th_CD May_NNP 1912_CD to_TO the_DT end_NN of_IN the_DT year_NN ._.
+Prior_RB to_TO that_DT Babu_NNP S._NNP N._NNP Dutt_NNP was_VBD in_IN charge_NN ._.
+Babu_NNP J._NNP N._NNP Dutt_NNP Chowdhury_NNP was_VBD on_IN tour_NN for_IN 186_CD days_NNS and_CC travelled_VBD 6,658_CD miles_NNS by_IN rail_NN and_CC 669_CD miles_NNS by_IN road_NN ._.
+He_PRP inspected_VBD the_DT dispensary_NN and_CC the_DT work_NN of_IN the_DT Veterinary_NNP Assistant_NNP at_IN Chinsura_NNP and_CC Burdwan_NNP thrice_NN ,_, and_CC Tarakeswar_NNP ,_, Midnapore_NNP ,_, Contai_NNP ,_, Suri_NNP and_CC Burdwan_NNP (_( I._NNP V_NNP ._.
+A_DT ._. )_)
+and_CC Uluberia_NNP twice_RB each_DT ._.
+He_PRP also_RB checked_VBD the_DT work_NN of_IN all_PDT these_DT assistants_NNS in_IN the_DT mufassal_NN and_CC attended_VBD an_DT outbreak_NN of_IN glanders_NNS at_IN Burdwan_NNP ,_, where_WRB five_CD ponies_NNS were_VBD tested_VBN by_IN him_PRP with_IN mallein_NN ,_, of_IN which_WDT one_CD only_RB re-acted_JJ and_CC was_VBD destroyed_VBN ._.
+The_DT cattle_NN shows_VBZ at_IN Suri_NNP ,_, Midnapore_NNP and_CC Chinsura_NNP were_VBD also_RB attended_VBN by_IN him_PRP ._.
+(_( 5_CD )_) Inspector_NNP K._NNP C._NNP Sen_NNP was_VBD in_IN charge_NN of_IN the_DT Chittagong_NNP Division_NNP from_IN 15th_CD July_NNP to_TO the_DT end_NN of_IN the_DT year_NN ._.
+Before_IN that_DT date_NN the_DT work_NN of_IN the_DT division_NN was_VBD performed_VBN by_IN the_DT Inspector_NNP of_IN the_DT Dacca_NNP Division_NNP in_IN addition_NN to_TO his_PRP$ own_JJ duties_NNS ._.
+Under_IN the_DT orders_NNS of_IN the_DT Superintendent_NNP he_PRP came_VBD down_RB to_TO Belgachia_NNP in_IN March_NNP last_JJ to_TO be_VB examined_VBN for_IN confirmation_NN of_IN his_PRP$ appointment_NN ,_, and_CC succeeded_VBD in_IN passing_VBG his_PRP$ examination_NN ._.
+He_PRP was_VBD on_IN tour_NN for_IN 146_CD days_NNS ,_, and_CC travelled_VBD 4,234_CD miles_NNS by_IN rail_NN ,_, 1,315_CD miles_NNS by_IN road_NN ,_, 755_CD miles_NNS by_IN steamer_NN and_CC 168_CD miles_NNS by_IN boat_NN ._.
+He_PRP inspected_VBD the_DT dispensaries_NNS at_IN Chittagong_NNP and_CC Comilla_NNP thrice_NNP each_DT ,_, and_CC the_DT work_NN of_IN Itinerant_NNP Veterinary_NNP Assistants_NNP of_IN Chittagong_NNP ,_, Comilla_NNP and_CC Noakhali_NNP both_DT at_IN their_PRP$ head-quarters_NNS and_CC in_IN the_DT interior_JJ thrice_NN each_DT ._.
+He_PRP visited_VBD 116_CD villages_NNS in_IN this_DT connection_NN during_IN these_DT inspections_NNS ._.
+STAFF_NNP VETERINARY_NNP ASSISTANTS_NNP ._.
+66_CD ._.
+Of_IN the_DT four_CD Staff_NNP Veterinary_NNP Assistants_NNS sanctioned_VBD for_IN the_DT province_NN ,_, the_DT services_NNS of_IN one_CD were_VBD placed_VBN under_IN the_DT disposal_NN of_IN the_DT Director_NNP of_IN Agriculture_NNP ,_, Bengal_NNP ,_, in_IN connection_NN witn_IN the_DT cattle_NNS survey_NN operation_NN ._.
+Three_CD only_RB were_VBD therefore_RB actually_RB employed_VBN by_IN this_DT department_NN ._.
+All_PDT these_DT men_NNS have_VBP on_IN the_DT whole_JJ worked_VBD fairly_RB well_RB and_CC have_VBP justified_VBN their_PRP$ appointments_NNS ._.
+I_PRP consider_VBP Staff_NNP Veterinary_NNP Assistant_NNP a_DT most_RBS useful_JJ section_NN of_IN the_DT department_NN ._.
+It_PRP acts_VBZ as_IN a_DT training_NN and_CC sorting_VBG ground_NN for_IN possible_JJ Inspectors_NNS ._.
+They_PRP are_VBP employed_VBN on_IN various_JJ important_JJ duties_NNS ,_, especially_RB attending_VBG and_CC ._.
+helping_VBG Veterinary_JJ Assistants_NNS and_CC Inspectors_NNS with_IN outbreaks_NNS of_IN contagious_JJ diseases_NNS ._.
+RESERVE_NNP VETERINARY_NNP ASSISTANTS_NNP ._.
+67_CD ._.
+There_EX were_VBD seven_CD leave_VBP reserve_VBN originally_RB sanctioned_VBN for_IN Bengal_NNP ._.
+Of_IN these_DT ,_, five_CD were_VBD taken_VBN to_TO Bihar_NNP on_IN the_DT reconstitution_NN of_IN the_DT provinces_NNS ,_, leaving_VBG two_CD only_RB for_IN the_DT two_CD divisions_NNS of_IN West_NNP Bengal_NNP ,_, and_CC one_CD was_VBD received_VBN from_IN East_NNP Bengal_NNP and_CC Assam_NNP ._.
+These_DT three_CD men_NNS were_VBD ,_, however_RB ,_, found_VBD to_TO be_VB insufficient_JJ and_CC disproportionate_JJ to_TO the_DT strength_NN of_IN the_DT subordinate_JJ staff_NN ._.
+Sanction_NN has_VBZ therefore_RB been_VBN obtained_VBN during_IN the_DT current_JJ year_NN for_IN the_DT appointment_NN of_IN three_CD more_JJR men_NNS under_IN this_DT head_NN ._.
+The_DT work_NN of_IN all_PDT the_DT reserve_NN men_NNS employed_VBD during_IN the_DT year_NN was_VBD satisfactory_JJ ._.
+VETERINARY_NNP ASSISTANTS_NNP ._.
+68_CD ._.
+Of_IN the_DT 55_CD assistants_NNS employed_VBN ,_, 18_CD were_VBD Stationary_NNP and_CC 37_CD Itinerant_NNP ._.
+The_DT details_NNS of_IN their_PRP$ work_NN have_VBP been_VBN given_VBN under_IN the_DT respective_JJ heads_NNS ._.
+69_CD ._.
+On_IN the_DT whole_JJ the_DT assistants_NNS have_VBP worked_VBN fairly_RB well_RB ._.
+1_CD wish_JJ they_PRP would_MD all_DT take_VB keener_JJR interest_NN in_IN their_PRP$ work_NN itself_PRP ,_, and_CC that_IN 1_CD saw_VBD less_JJR tendency_NN in_IN some_DT of_IN them_PRP to_TO do_VB just_RB enough_RB to_TO escape_VB reprimand_NN ._.
+OFFICE_JJ STAFF_NNP ._.
+70_CD ._.
+On_IN reconstitution_NN of_IN the_DT province_NN three_CD of_IN the_DT original_JJ office_NN staff_NN tayed_VBN in_IN Bengal9_NNP and_CC the_DT typist_NN came_VBD here_RB from_IN Veterinary_NNP Office_NNP ,_, Eastern_NNP Bengal_NNP and_CC Assam_NNP ,_, where_WRB the_DT former_JJ was_VBD second_JJ clerk_NN and_CC is_VBZ new_JJ to_TO his_PRP$ work_NN here_RB ._.
+71_CD ._.
+They_PRP have_VBP all_DT done_VBN their_PRP$ best_JJS to_TO help_VB me_PRP to_TO run_VB the_DT department_NN under_IN rather_RB difficult_JJ circumstances_NNS ,_, in_IN that_DT part_NN of_IN the_DT cadre_NN are_VBP employed_VBN under_IN the_DT regulations_NNS of_IN Eastern_NNP Bengal_NNP and_CC Assam_NNP and_CC part_NN under_IN those_DT of_IN old_JJ Bengal_NNP ._.
+They_PRP have_VBP given_VBN me_PRP every_DT assistance_NN in_IN drawing_VBG up_RP a_DT scheme_NN to_TO amalgamate_VB these_DT two_CD sections_NNS ._.
+72_CD ._.
+There_EX is_VBZ necessity_NN felt_NN for_IN another_DT clerk_NN ,_, and_CC Government_NNP will_MD be_VB approached_VBN this_DT year_NN for_IN sanction_NN of_IN this_DT post_NN ._.
+PART_NN V.-EXPENDITURE_NNP OP_NNP THE_NNP DEPARTMENT_NNP ._.
+73_CD ._.
+Table_JJ XIV_NNP (_( a_DT )_) shows_VBZ the_DT cost_NN of_IN the_DT department_NN during_IN the_DT year_NN ._.
+PART_NN VI10_NNP to_TO be_VB made_VBN out_IN of_IN care_NN and_CC feeding_NN of_IN cattle_NNS ._.
+Until_IN the_DT care_NN of_IN cattle_NNS is_VBZ understood_JJ ,_, the_DT purchase_NN and_CC distribution_NN of_IN selected_VBN bulls_NNS will_MD be_VB productive_JJ of_IN little_JJ or_CC no_DT result_NN ._.
+83_CD ._.
+Another_DT plan_NN to_TO stimulate_VB a_DT desire_NN to_TO improve_VB local_JJ cattle_NNS would_MD be_VB to_TO give_VB numerous_JJ small_JJ money_NN prizes_NNS for_IN good_JJ cattle_NNS at_IN every_DT méla_NN to_TO which_WDT cattle_NNS are_VBP brought_VBN ._.
+84_CD ._.
+Supervision.No_NNP ._.
+6149_CD ,_, dated_VBN Calcutta_NNP ,_, the_DT 23rd_CD July_NNP 1913_CD ._.
+From2_NNP 7_CD ._.
+Veterinary_JJ dispensaries_NNS ._.
+REVENUE_NN DEPARTMENT_NNP ._.
+AGRICULTURE_NNP ._.
+DARJEELING_NN ,_, THE_DT 14TH_CD OCTOBER_NNP 1913_CD ._.
+RESOLUTION2_NNP under_IN the_DT consideration_NN of_IN Government_NNP during_IN the_DT year_NN ._.
+The_DT solution_NN appears_VBZ to_TO lie_VB in_IN the_DT direction_NN of_IN utilizing_VBG other_JJ Government_NNP servants_NNS who_WP are_VBP in_IN a_DT position_NN to_TO obtain_VB information_NN of_IN the_DT outbreak_NN of_IN cattle_JJ disease_NN to_TO supple-_JJ ment_NN the_DT reports_NNS now_RB submitted_VBN by_IN the_DT police_NN ._.
+By_IN far_RB the_DT largest_JJS number_NN of_IN deaths_NNS from_IN bovine_NN contagious_JJ diseases_NNS ,_, viz._NN ,_, 5,154_CD out_IN of_IN a_DT total_JJ death-roll_NN of_IN 7,637_CD ,_, was_VBD caused_VBN by_IN rinderpest_NN ._.
+The_DT mortality_NN would_MD have_VB been_VBN far_RB more_RBR serious_JJ but_CC for_IN the_DT valuable_JJ results_NNS obtained_VBD from_IN preventive_JJ inoculation_NN ._.
+There_EX were_VBD 146_CD outbreaks_NNS of_IN this_DT disease_NN ,_, resulting_VBG in_IN the_DT death_NN of_IN 2,067_CD uninoculated_JJ animals_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, out_IN of_IN 19,085_CD animals_NNS which_WDT were_VBD inoculated_VBN ,_, only_RB 43_CD or_CC about_IN 0_CD '_POS 2_CD per_IN cent_NN ._.
+died_VBN ._.
+Similarly_RB ,_, there_EX were_VBD only_RB 3_CD deaths_NNS among_IN 2,407_CD animals_NNS inoculated_VBN for_IN hæmorrhagic_JJ septicæmia_NN ,_, and_CC only_RB one_CD out_IN of_IN 286_CD inoculated_JJ for_IN anthrax_NN ._.
+It_PRP is_VBZ reported_VBN that_IN considerable_JJ prejudice_NN against_IN inoculation_NN still_RB exists_VBZ among_IN the_DT cultivators_NNS ._.
+Only_RB time_NN can_MD cure_VB this_DT ,_, and_CC the_DT Governor_NNP in_IN Council_NNP is_VBZ confident_JJ that_IN the_DT persistent_NN and_CC tactful_JJ efforts_NNS of_IN the_DT officers_NNS of_IN the_DT Veterinary_NNP Department_NNP will_MD in_IN the_DT end_NN overcome_NN ,_, objections_NNS which_WDT are_VBP due_JJ to_TO ignorance_VB and_CC inexperience_NN ._.
+5_CD ._.
+The_DT itinerant_JJ veterinary_JJ assistants_NNS visited_VBD 10,409_CD villages_NNS as_IN against_IN 8,055_CD in_IN the_DT previous_JJ year_NN ._.
+Three_CD new_JJ assistants_NNS were_VBD appointed_VBN during_IN the_DT year_NN ,_, bringing_VBG the_DT number_NN up_RB to_TO 62._CD excluding_VBG the_DT 5_CD divisional_JJ inspectors_NNS ._.
+This_DT number_NN falls_VBZ far_RB short_JJ of_IN that_DT which_WDT it_PRP is_VBZ hoped_VBN eventually_RB to_TO reach_VB ,_, viz.._FW two_CD veterinary_JJ assistants_NNS to_TO each_DT subdivision_NN ;_: but_CC there_EX are_VBP hopeful_JJ signs_NNS that_IN local_JJ bodies_NNS are_VBP beginning_VBG to_TO realize_VB their_PRP$ responsibilities_NNS in_IN this_DT direction_NN ,_, and_CC several_JJ applications_NNS have_VBP recently_RB been_VBN received_VBN by_IN Govern-_NNP ment_NN for_IN additional_JJ officers_NNS ._.
+6_CD ._.
+The_DT stables_NNS in_IN Calcutta_NNP and_CC the_DT neighbourhood_NN ,_, in_IN the_DT area_NN under_IN the_DT Glanders_NNP Act_NNP ,_, were_VBD regularly_RB inspected_VBN by_IN the_DT staff_NN of_IN the_DT Veterinary_NNP College_NNP ._.
+A_DT further_JJ decrease_NN in_IN cases_NNS of_IN glanders_NNS was_VBD observed_VBN ,_, the_DT disease_NN occurring_VBG in_IN only_RB 4_CD stables_NNS as_IN against_IN 15_CD last_JJ year_NN ._.
+Hut_NNP there_EX was_VBD an_DT increase_NN in_IN cases_NNS in_IN the_DT mufassal_NN ,_, 240_CD out_IN of_IN a_DT total_NN of_IN 260_CD deaths_NNS occurring_VBG in_IN the_DT Sodepur_NNP Pinjrapole_NNP ._.
+There_EX were_VBD severe_JJ outbreaks_NNS in_IN Barisal_NNP and_CC Mymensingh_NNP ._.
+The_DT question_NN of_IN extending_VBG the_DT provisions_NNS of_IN the_DT Glanders_NNP and_CC Farcy_NNP Act_NNP ,_, which_WDT in_IN the_DT eastern_JJ districts_NNS has_VBZ hitherto_VBN been_VBN in_IN force_NN only_RB in_IN a_DT few_JJ specified_JJ areas_NNS ,_, has_VBZ been_VBN engaging_VBG the_DT attention_NN of_IN Government_NNP ,_, and_CC orders_NNS will_MD shortly_RB be_VB issued_VBN bringing_VBG the_DT Act_NNP into_IN force_NN throughout_IN the_DT province_NN ._.
+The_DT Governor_NNP in_IN Council_NNP notes_NNS with_IN satisfaction_NN that_IN Mr._NNP Kerr_NNP is_VBZ able_JJ to_TO report_VB that_DT comparatively_RB little_JJ trouble_NN has_VBZ been_VBN experienced_VBN this_DT year_NN in_IN enforcing_VBG the_DT provisions_NNS of_IN the_DT Act_NNP ,_, and_CC that_IN the_DT obstructive_JJ attitude_NN of_IN some_DT municipalities_NNS ,_, to_TO which_WDT a_DT reference_NN was_VBD made_VBN in_IN last_JJ year_NN 's_POS review_NN ,_, has_VBZ ,_, except_IN in_IN one_CD instance_NN ,_, given_VBN place_NN to_TO a_DT more_RBR reasonable_JJ policy_NN ._.
+7_CD ._.
+The_DT number_NN of_IN patients_NNS treated_VBN at_IN the_DT various_JJ dispensaries_NNS shows_VBZ a_DT large_JJ increase_NN ,_, viz._FW ,_, from_IN 17,289_CD to_TO 22,106_CD ,_, or_CC over_IN 27_CD per_IN cent_NN ._.
+Rather_RB less_JJR than_IN one-fourth_JJ were_VBD in-patients_NNS ._.
+Satisfactory_JJ progress_NN is_VBZ shown_VBN in_IN practically_RB all_PDT the_DT districts_NNS of_IN the_DT province_NN ._.
+At_IN Dacca_NNP considerable_JJ difficulty_NN has_VBZ been_VBN experienced_VBN in_IN selecting_VBG a_DT site_NN for_IN the_DT new_JJ veterinary_JJ hospital_NN ,_, which_WDT is_VBZ greatly_RB needed_VBN ,_, and_CC special_JJ difficulties_NNS have_VBP been_VBN reported_VBN from_IN Burdwan_NNP and_CC Mymensingh_NNP ,_, which_WDT will_MD be_VB dealt_VBN with_IN in_IN due_JJ course_NN ._.
+In_IN connection_NN with_IN the_DT remarks_NNS made_VBN in_IN last_JJ year_NN 's_POS Resolution_NNP on_IN the_DT subject_NN of_IN the_DT want_NN of_IN accommodation_NN for_IN in-patients_NNS at_IN certain_JJ places_NNS ,_, the_DT Superinten-_NNP dent_NN states_NNS that_IN the_DT only_JJ places_NNS where_WRB such_JJ accommodation_NN is_VBZ urgently_RB required_VBN are_VBP Bakarganj_NNP and_CC Dacca_NNP ._.
+Proposals_NNS for_IN erecting_VBG a_DT new_JJ dispensary_JJ building_NN with_IN all_PDT the_DT necessary_JJ accommodation_NN at_IN Dacca_NNP are_VBP now_RB under_IN consideration_NN ,_, and_CC the_DT Governor_NNP in_IN Council_NNP will_MD issue_VB orders_NNS to_TO the_DT Director_NNP of_IN Agriculture_NNP to_TO submit_VB a_DT scheme_NN for_IN Bakarganj_NNP as_RB soon_RB as_IN possible_JJ ._.
+8_CD ._.
+The_DT difficult_JJ and_CC important_JJ question_NN of_IN the_DT improvement_NN of_IN cattle_NNS breeding_VBG has_VBZ continued_VBN to_TO engage_VB the_DT attention_NN of_IN Government_NNP and_CC of_IN the_DT Agricultural_NNP Department_NNP ._.
+Shortly_RB before_IN the_DT close_NN of_IN the_DT year_NN the_DT sanction_NN of_IN Government_NNP was_VBD accorded_VBN to_TO the_DT establishment_NN of_IN a_DT cattle_NNS and_CC cultivation_NN farm_NN at_IN Rangpur_NNP ,_, and_CC a_DT prominent_JJ place_NN in_IN the_DT work_NN of_IN the_DT farm_NN will_MD be_VB given_VBN to_TO the_DT improvement_NN of_IN the_DT breed_NN of_IN cattle_NNS ._.
+The_DT main_JJ object_NN of_IN the_DT farm_NN is_VBZ to_TO demonstrate_VB to_TO private_JJ persons_NNS the_DT feasibility_NN of_IN such_JJ under-_JJ takings_NNS and_CC the_DT possibility_NN of_IN working_VBG them_PRP at_IN a_DT profit_NN ,_, and_CC it_PRP is_VBZ hoped_VBN that_IN ,_, if_IN success_NN attends_VBZ the_DT present_JJ experiment_NN ,_, Government_NNP will_MD ultimately_RB be_VB able_JJ to_TO withdraw_VB in_IN favour_NN of_IN private_JJ enterprise_NN ._.
+Progress_NN ,_, however_RB ,_, must_MD 3_CD necessarily_RB be_VB slow_JJ ,_, and_CC the_DT gloomy_JJ picture_NN which_WDT Mr._NNP Kerr_NNP draws_VBZ of_IN the_DT present_JJ position_NN as_IN regards_NNS cattle-breeding_VBG clearly_RB shows_VBZ that_IN it_PRP would_MD be_VB idle_JJ to_TO expect_VB any_DT material_JJ improvement_NN in_IN the_DT breed_NN of_IN cattle_NNS in_IN Bengal_NNP for_IN some_DT years_NNS to_TO come_VB ._.
+Use_NNP is_VBZ made_VBN of_IN debilitated_JJ and_CC badly_RB shaped_VBD bulls_NNS ,_, and_CC little_JJ or_CC no_DT care_NN is_VBZ taken_VBN to_TO prevent_VB in-breeding_NN ._.
+Though_IN suitable_JJ bulls_NNS have_VBP been_VBN placed_VBN at_IN the_DT disposal_NN of_IN District_NNP Boards_NNP ,_, they_PRP are_VBP seldom_RB used_VBN ,_, and_CC even_RB when_WRB used_VBD the_DT value_NN of_IN the_DT good_JJ stock_NN is_VBZ often_RB lost_VBN owing_VBG to_TO neglect_VB of_IN the_DT cow_NN or_CC the_DT calf_NN ._.
+The_DT question_NN of_IN feeding_NN is_VBZ of_IN the_DT greatest_JJS moment_NN ,_, but_CC little_JJ attention_NN is_VBZ ordinarily_RB paid_VBN to_TO it_PRP ._.
+The_DT cultivator_NN may_MD in_IN time_NN be_VB persuaded_VBN that_IN the_DT benefits_NNS to_TO be_VB secured_VBN by_IN greater_JJR care_NN in_IN such_JJ matters_NNS are_VBP worth_IN the_DT extra_JJ expenditure_NN which_WDT is_VBZ involved_VBN ,_, but_CC it_PRP will_MD require_VB protracted_JJ demonstration_NN on_IN the_DT part_NN of_IN the_DT Agricultural_NNP Department_NNP and_CC its_PRP$ allies_NNS to_TO achieve_VB this_DT result_NN ._.
+The_DT Governor_NNP in_IN Council_NNP is_VBZ ,_, however_RB ,_, satisfied_VBD that_IN the_DT Director_NNP of_IN Agriculture_NNP and_CC the_DT officers_NNS of_IN the_DT Veterinary_NNP Department_NNP are_VBP giving_VBG this_DT vital_JJ question_NN the_DT attention_NN it_PRP deserves_VBZ ,_, and_CC His_PRP$ Excellency_NN recognizes_VBZ that_IN progress_NN must_MD inevitably_RB be_VB slow_JJ ._.
+9_CD ._.
+Only_RB 245_CD animals_NNS were_VBD sent_VBN for_IN treatment_NN to_TO the_DT Bengal_NNP Veterinary_NNP College_NNP in_IN connection_NN with_IN cases_NNS under_IN the_DT Prevention_NNP of_IN Cruelty_NNP to_TO Animals_NNP Act_NNP during_IN the_DT year_NN ,_, though_IN nearly_RB 15,000_CD prosecutions_NNS were_VBD instituted_VBN under_IN the_DT Act_NNP ._.
+The_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, again_RB draws_JJ attention_NN to_TO the_DT futility_NN of_IN punishing_VBG owners_NNS by_IN nominal_JJ fines_NNS only_RB ,_, without_IN compelling_VBG them_PRP to_TO have_VB their_PRP$ animals_NNS treated_VBN ,_, with_IN the_DT natural_JJ consequence_NN that_WDT unfit_JJ animals_NNS are_VBP put_VBN to_TO work_VB again_RB immediately_RB the_DT trial_NN is_VBZ over_IN ._.
+The_DT remedy_NN for_IN this_DT evil_JJ lies_VBZ in_IN the_DT hands_NNS of_IN the_DT trying_VBG Magistrates_NNS ._.
+10_CD ._.
+The_DT Governor_NNP in_IN Council_NNP desires_VBZ to_TO acknowledge_VB his_PRP$ appreciation_NN of_IN the_DT services_NNS of_IN Major_JJ Smith_NNP ,_, the_DT Principal_NNP of_IN the_DT College_NNP ,_, and_CC of_IN Mr._NNP Kerr_NNP ,_, the_DT Superintendent_NNP of_IN the_DT Veterinary_NNP Department_NNP ._.
+The_DT opinions_NNS expressed_VBN by_IN these_DT officers_NNS regarding_VBG the_DT work_NN of_IN their_PRP$ subordinates_NNS have_VBP been_VBN duly_RB noted_VBN ._.
+By_IN order_NN of_IN the_DT Governor_NNP in_IN Council_NNP ,_, H._NNP F._NNP SAMMAN_NNP ,_, Offg_NNP ._.
+Secretary_NNP to_TO the_DT Govt_NNP ._.
+of_IN Bengal_NNP ._.
+No_DT ._.
+3035_CD T.ANNUAL_NNP REPORT_NNP OF_IN THE_NNP BENGAL_NNP VETERINARY_NNP COLLEGE_NNP AND_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP ,_, FOR_IN THE_DT YEAR_NNP 1912-1913_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: THE_DT BENGAL_NNP SECRETARIAT_NNP BOOK_NNP DEPOT_NNP ._.
+1913_CD ._.
+[_JJ Price_NNP

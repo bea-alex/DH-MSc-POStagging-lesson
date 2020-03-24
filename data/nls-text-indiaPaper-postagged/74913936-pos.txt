@@ -1,0 +1,399 @@
+LIST_NN OF_NNP DRUGS_NNP ,_, MEDICINES_NNP &_CC c._NN ,_, FREE_NNP FROM_NNP ,_, AND_NNP CONTAINING_NNP ,_, SPIRIT_NNP ._.
+m._RB 91._CD c._NN IP/25_NNP CJ.2_NNP ALPHABETICAL_NNP LIST_NNP OF_NNP DRUGS_NNP ,_, MEDICINES_NNP AND_NNP OTHER_NNP PREPARATIONS_NNP FREE_NNP FROM_NNP ,_, AND_NNP CONTAINING_NNP ,_, SPIRIT_NNP ._.
+COMPILED_NN FROM_IN THE_NNP RESULTS_NNP OF_NNP TESTS_NNP MADE_NNP BY_NNP THE_NNP CUSTOMS_NNP HOUSES_NNP AT_NNP CALCUTTA_NNP ,_, BOMBAY_NNP ,_, AND_NNP MADRAS_NNP ._.
+MADRAS_NN :_: PRINTED_NN BY_IN THE_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRESS_NNP ._.
+1903_CD ._.
+Not_RB for_IN Sale_NNP ._.
+ALPHABETICAL_NNP LIST_NNP OF_NNP TESTED_NNP DRUGS_NNP ,_, MEDICINES_NNP ,_, AND_NNP OTHER_NNP PREPARATIONS_NNP ._.
+Medicines_NNS or_CC Preparations_NNS ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+A_DT Containing_VBG 20_CD per_IN cent_NN ._.
+and_CC upwards_NNS of_IN Proof_NNP Spirit_NNP ._.
+Absinthe_NNP Pernod_NNP Fils_NNP 120.36_CD Do_NNP ._.
+Wynand_NNP Fockink_NNP 112.32_CD Do_NNP ._.
+Ex_NNP trait-de-d_NN '_'' Edouard_NNP Pernod_NNP 133.68_CD Do_NNP ._.
+Extrait_NNP Noilly_NNP Prat_NNP &_CC Co._NNP 136.68_CD Do_NNP ._.
+Peter_NNP Heering_NNP 127.92_CD Do_NNP ._.
+d'Edouard_NN Pernod_NNP d'couvet_NN 129.12_CD Do_NNP ._.
+Suisse_NNP Premier_NNP Fils_NNP a_DT Romano_NNP 129.12_CD Do_NNP ._.
+do_NN ._.
+A._NN Bertrand_NNP 109.84_CD Do_NNP ._.
+Extract_NNP D_NNP '_POS C._NNP Silliman_NNP 126.8_CD Acacian_NNP Balsam_NNP F._NNP W._NNP Hailes_NNP 22.2_CD Acid_NNP Sulphuric_NNP Aromatic_NNP Burgoyne_NNP ,_, Burbidges_NNP &_CC Co._NNP 145.5_CD Acqua_NNP di_FW Felsina_NNP (_( white_JJ )_) Pietro_NNP Bortilotte_NNP Acqua_NNP di_VBZ Fel-_NNP sina_NN ._.
+165.0_CD Do_NNP ._.
+do_NN ._.
+xs_NN (_( red_JJ )_) Do_VBP ._.
+do_NN ._.
+128_CD 0_CD Advcoat_NNP 31.84_CD Æther_NNP Ozonicus_NNP Schmidt_NNP and_CC Wildenhayn_NNP 68.0_CD Æthylicum_NNP Butyricum_NNP Conc_NNP ._.
+108.6_CD Ague_NNP Cure_NNP Ayer_NNP 67.6_CD Ague_NNP Mixture_NNP Dr._NNP D._NNP Jayne_NNP 31_CD 0_CD Ague_NNP Specific_NNP ,_, Popular_NNP ,_, Dr._NNP Dean_NNP 's_POS The_DT American_JJ National_NNP Drug_NNP Co._NNP 65.0_CD Albumen_NNP Compound_NNP Barnett_NNP and_CC Foster_NNP 35.30_CD Alcohol_NNP Butyric_NNP 81.6_CD Do_NNP ._.
+Hom2_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NNP ,_, of_IN Proof_NNP Spirit_NNP ._.
+A3_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+B4_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP B5_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+C6_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+C7_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+C8_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+C9_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+D10_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E11_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E12_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E13_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E14_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP E15_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E16_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E17_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E18_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E19_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E20_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E21_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E22_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E23_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E24_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E25_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+E26_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+F27_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+G28_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+H29_NNP Medicines_NNP or_CC Preparations.Manufactured_NNP byPercentage_NN of_IN Proof_NNP Spirit_NNP ._.
+I30_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+K31_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+L32_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+L33_NNP Medicines_NNP or_CC Preparations.Manufactured_NNP byPercentage_NN of_IN Proof_NNP Spirit_NNP ._.
+L34_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+M35_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+N36_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+O37_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+P38_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+P39_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+R_NNP Containing_NNP 20_CD per_IN cent_NN ._.
+and_CC upwards_NNS of_IN Proof_NNP Spirit_NNP ._.
+Raspberry_NNP Champagne_NNP Colouring_NNP ..._: 31.0_CD Raspberry_NNP Essence_NNP E._NNP F._NNP Langdale_NNP 77.22_CD Raspberry_NNP Juice_NNP Burgoyne_NNP ,_, Burbidges_NNP &_CC Co._NNP 39.3_CD Regulator_NNP ,_, Southern_NNP ,_, Liver_NNP F._NNP Stearns_NNP &_CC Co._NNP 36.0_CD Remede_NNP Peruvienne_NNP J._NNP Larroque_NNP 73.74_CD Remedy_NNP ,_, Greek_NNP ,_, Indian_JJ F._NNP Stearns_NNP &_CC Co._NNP 51.7_CD Restorative_NNP Assimilant_NNP Vervanis_NNP 28.13_CD Revivification_NNP Bitters_NNS ..._: Morritz_NNP Schnabel_NNP 75.6_CD Rough_NNP on_IN Coughs_NNP E._NNP S._NNP Well_NNP 's_POS 37.0_CD Rough_NNP on_IN Pain_NNP Do_NNP ._.
+114.18_CD Rose_NNP of_IN Latakia_NNP ..._: 27.14_CD Rum_NNP Shrub_NNP ..._: 41.5_CD Containing_VBG less_JJR than_IN 20_CD per_IN cent_NN ._.
+Raspberry_NNP Colouring_NNP Pale_NNP Crosse_NNP and_CC Blackwells_NNP Under_IN 20_CD per_IN cent_NN ._.
+Do_NNP ._.
+Juice_NNP Do._NNP ``_``
+Raspberryade_VBN Compound_NNP Barnett_NNP and_CC Foster_NNP ``_`` Remedy_NNP ,_, External_NNP R-49_NNP ..._: ``_`` Rennett_NNP ,_, Essence_NNP of_IN Crosse_NNP and_CC Blackwells_NNP ``_`` Restorative_NNP ,_, Brown_NNP 's_POS ..._: ``_`` Rheumaticon_NNP Sutherland_NNP ``_`` Rob_NNP Lechaux_NNP ``_`` Rosinwood_NNP Tar_NNP Mixture_NNP A._NNP J_NNP ._.
+White_NNP ,_, Ld._NNP ``_``
+Royal_NNP Amaranth_NNP Bitters_NNP Alf_NNP ._.
+Savigear_NNP &_CC Co._NNP ``_`` Do_NNP ._.
+Infant_NNP Preservative_NNP Atkinson_NNP ``_`` Russel_NNP 's_POS Preparation_NNP ``_`` Free_NNP from_IN Spirit_NNP ._.
+Raspberry_NNP Colouring_NNP Barnett_NNP and_CC Foster_NNP No_NNP proof_NN spirit_NN ._.
+Do_NNP ._.
+do_NN ._.
+Bratby_NNP and_CC Hinchliffe_NNP ``_`` Do_NNP ._.
+do_NN ._.
+(_( deep_JJ )_) W._NNP J._NNP Bush_NNP &_CC Co._NNP ``_`` Raspberry_NNP Cordial_NNP ``_`` Rectified_NNP Tar_NNP Spirit_NNP ``_`` Red_NNP Rose_NNP Wash_NNP F._NNP Stearns_NNP &_CC Co._NNP ``_`` Restorative_NNP Elixir_NNP Jenner_NNP ``_`` Restorer_NNP Truefitt_NNP 's_POS ``_`` Rigola_NNP (_( Essence_NNP of_IN Wheat_NNP )_) ..._: ``_`` Rodinal_JJ Action_NNP Gesselschaft_NNP fur_NN Anilin_NNP Fabrikation_NNP ._.
+..._: ``_`` Rose_NNP or_CC Rusa_NNP Oil_NNP ..._: ``_`` Rose-water_NNP ,_, Triple_NNP Horner_NNP and_CC Sons_NNP ``_`` Rosen_NNP Spirit_NNP ,_, Refined_VBD A_DT ._.
+B._NNP Fleming_NNP &_CC Co._NNP ,_, Limited_NNP ``_`` Rough_NNP on_IN Catarrh_NNP E._NNP S._NNP Wells_NNP ``_`` Do_NNP ._.
+Corns_NNP Do._NNP ``_``
+Royal_NNP Embrocation_NNP for_IN Horses_NNP and_CC Cattle_NNP Elliman_NNP ``_`` Rubine_NNP Colouring_NNP Cossipore_NNP Chemical_NNP Works_NNP ``_`` S_NNP Containing_NNP 20_CD per_IN cent_NN ._.
+and_CC upwards_NNS of_IN Proof_NNP Spirit_NNP ._.
+Safe_JJ Cure_NN or_CC Safe_NNP Kidney_NNP and_CC Liver_NNP Cure_NNP Warner_NNP 's_POS 28.9_CD Do_NNP ._.
+Nervine_NNP Cure_NNP Do_VBP ..._: 23.0_CD Sagrada_NNP Wine_NNP J._NNP Paul_NNP Liebe_NNP 36.3_CD Saint_NNP Lehon_NNP (_( Tonic_NNP Reconstituting_NNP Wine_NNP )_) Imported_VBN by_IN Eugene_NNP Meiffre_NNP 20.0_CD Samshoo_NNP ,_, Yellow_NNP ..._: 69.53_CD Sanmetto_NNP Old_NNP Chemical_NNP Co._NNP 28.0_CD Santolicura_NNP ,_, Peter_NNP 's_POS Popular_NNP Remedies_NNPS Manufacturing_NNP Company_NNP ._.
+41.2_CD Salsiparilla_NNP Grimault_NNP &_CC Cie._NNP 43.6_CD Sarsac_NNP Beer_NNP Conc_NNP ._.
+Barnett_NNP and_CC Foster_NNP 105.0_CD Do_NNP ._.
+Compound_NNP fl_NN ._.
+ext_NN ._.
+Southall_NNP Brothers_NNPS and_CC Barclay_NNP 22.47_CD 40_CD Medicines_NNS or_CC Preparations_NNS ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+S41_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+S42_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+S43_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+S44_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Sprit_NNP ._.
+S45_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+T46_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+V47_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+V48_NNP Medicines_NNP or_CC Preparations_NNP ._.
+Manufactured_VBN by_IN Percentage_NN of_IN Proof_NNP Spirit_NNP ._.
+Z_NNP Containing_NNP 20_CD per_IN cent_NN ._.
+and_CC upwards_NNS of_IN Proof_NNP Spirit_NNP ._.
+Zarzaparilla_NNP Parisiense_NNP ..._: Grimault_NNP &_CC Co_NNP ..._: ._. 43.6_CD Zingit_NNP (_( the_DT Imperial_NNP Persian_NNP Pick-me-up_NNP )_) ..._:
+Imported_VBN by_IN the_DT Army_NNP &_CC Navy_NNP Co-operative_JJ Society_NNP ,_, Limited_NNP ._.
+50.0_CD Zingit_NNP ..._: ..._: 52.4_CD Zolakone_NN ..._: Clayton_NNP and_CC Jewett_NNP ..._: 92.07_CD Containing_VBG less_JJR than_IN 20_CD per_IN cent_NN ._.
+Zarouba_NNP ..._: Nevill_NNP Johnson_NNP ..._:
+Under_IN 20_CD per_IN cent_NN ._.
+Free_JJ from_IN Spirit_NNP ._.
+Zolakone_CD Colouring_VBG ..._: Clayton_NNP and_CC Jowett_NNP ..._: No_DT proof_NN spirit_NN ._.
+49_CD Liquid_NNP Preparations_NNP of_IN the_DT British_JJ Pharmacopaia_NNP ._.
+Nos_NNP ._.
+Preparations_NNS ._.
+U.P_NNP ._.
+Proof_NN ._.
+O.P_NNP ._.
+REMARKS_NNP ._.
+1_CD Acidum_NNP sulphuricum_NN aromatic_NN ..._: ..._: ..._: 48.8_CD 2_CD Acctum_NNP scillæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+3_CD Elixir_NNP paregorie_NN ..._: ..._:
+Proof_NN ._.
+..._: 4_CD Ether_NNP chloric_NN ..._: ..._: ..._: 52_CD 5_CD Ether_NNP acetic_JJ ..._: 46.7_CD ..._: ..._: 6_CD Ether_NNP sulphuricus_NN ..._: ..._: ..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+7_CD Extract_NNP ._.
+bellæ_NN liquidum_NN ..._: 70_CD ..._: ..._: 8_CD Extract_NNP ._.
+glycyrrhizæ_NN liquidum_NN ..._: 80_CD ..._: ..._: 9_CD Extract_NNP ._.
+sarsæ_NN liquidum_NN ..._: 80_CD ..._: ..._: 10_CD Extract_NNP ._.
+papaveris_NN liquidum_NN ..._: 60_CD ..._: ..._: 11_CD Extract_NNP ._.
+chinchonæ_NN flava_NN liquidum_NN ..._: ..._: ..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+12_CD Extract_NNP ._.
+focus_NN vesiculosus_NN liquidum_NN ..._: ..._: ..._: 6.7_CD 13_CD Extract_NN ._.
+ergotæ_NN liquidum_NN ..._: 43.5_CD ..._: ..._: 14_CD Extract_NNP ._.
+parciræ_NN liquidum_NN ..._: 69.0_CD ..._: ..._: 15_CD Extract_NNP ._.
+opii_NN liquidum_NN ..._: 68_CD ..._: ..._: 16_CD Extract_NNP ._.
+felicis_NN liquidum_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+17_CD Extract_NNP ._.
+sarsæ_NN compositum_NN ..._: 80_CD ..._: ..._: 18_CD Extract_NNP ._.
+eucalypte_NN flaidam_NN ..._: 68_CD ..._: ..._: 19_CD Essence_NNP menthæ_NN peperitæ_NN ..._: ..._: ..._: 28_CD 20_CD Essence_NNP aniseed_NN ..._: ..._: ..._: 28_CD 21_CD Essence_NN camphore_NN ..._: ..._: ..._: 60_CD 22_CD Linimentum_NNP aconite_NN ..._: ..._: ..._: 60_CD 23_CD Linimentum_NNP calcis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 5_CD per_IN Cent_NN ._.
+ad_NN val_NN ._.
+24_CD Linimentum_NNP capsici_NN ..._: ..._: ..._: 60_CD 25_CD Linimentum_NNP iodi_NN ..._: ..._: ..._: 56_CD 26_CD Linimentum_NNP ammoniæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+27_CD Linimentum_NNP crotonis_NN ..._: 30_CD ..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+28_CD Linimentum_NNP terebinthine_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 29_CD Linimentum_NNP potassii_NN iodidi_NN cum_NN saponis_NN ..._: No_DT spirit_NN ._.
+..._: 30_CD Linimentum_NNP cantharadis_NN ..._: ..._: ..._: 1.1_CD 31_CD Linementum_NNP sinapis_NN compositum_NN ..._: ..._: ..._: 34.7_CD 32_CD Linimentum_NNP belladonnæ_NN ..._: ..._: ..._: 60_CD 33_CD Linimentum_NNP camphoræ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 5_CD per_IN rent_NN ._.
+ad_NN val_NN ._.
+34_CD Linimentum_NNP belladonnæ_NN et_NN chloroformi_NN ..._: ..._: ..._: 40_CD 35_CD Linimentum_NNP camphoræ_NN compositum_NN ..._: ..._: ..._: 19.24_CD 36_CD Linimentum_NNP crinale_NN ..._: ..._:
+Proof_NN ._.
+..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+37_CD Linimentum_NNP hydrargyri_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 38_CD Linimentum_NNP chloroformi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 39_CD Linimentum_NNP opii_NN ..._: ..._:
+Proof_NN ._.
+..._: 40_CD Linimentum_NNP simplex_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+41_CD Linimenthum_NNP saponis_NN ..._: ..._: ..._: 25.645_CD 42_CD Linimentum_NNP terebinthine_NN aceticum_NN ..._: No_DT spirit_NN ._.
+..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+43_CD Liquor_NNP ammoniæ_NN fortior_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 44_CD Liquor_NNP arsenici_NN chloridi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 45_CD Liquor_NNP calcis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 46_CD Liquor_NNP chloroformi_NN camphoratus_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 47_CD Liquor_NNP ferri_NN per_IN chloridi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 48_CD Liquor_NNP iodi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 49_CD Liquor_NNP morphia_NN acetatis_NN ..._: 60_CD ..._: ..._: 50_CD Liquor_NNP plumbi_NN subacetatis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+51_CD Liquor_NNP ammonia_NN acctatis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 52_CD Liquor_NNP marquisæ_NN carbonatis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 53_CD Liquor_NNP antimonii_NN chloridi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: 13_CD 50_CD Nos_NNP ._.
+Preparations_NNS ._.
+U.P_NNP ._.
+Proof_NN ._.
+O.P_NNP ._.
+REMARKS_NNP ._.
+54_CD Liquor_NNP morphia_NN hydrochlorates_VBZ 60_CD ..._: ..._: ..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+55_CD Liquor_NNP chloroformi_NN compositus_NN ..._: ..._: ..._: ..._: ..._: ..._: 56_CD Liquor_NNP calcis_NN chloratæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+57_CD Liquor_NNP ferri_NN iodidi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 58_CD Liquor_NNP arsenicalis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 59_CD Liquor_NNP ferri_NN per_IN nitratis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 60_CD Liquor_NNP marquissæ_NN sulphatis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 61_CD Liquor_NNP plumbi_NN acctatis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 62_CD Liquor_NNP potassii_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 63_CD Liquor_NNP ferri_NN per_IN chloridi_NN fortior_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 64_CD Liquor_NNP plumbi_NN acetates_NNS diluted_VBD ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 65_CD Liquor_NNP calcis_NN saccharatus_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 66_CD Liquor_NNP epispasticus_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 67_CD Liquor_NNP carbonis_NN detergens_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 68_CD Liquor_NNP per_IN sulphates_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 69_CD Liquor_NNP chlori_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 70_CD Liquor_NNP morphia_NN bimeconates_NNS ..._: ..._:
+Proof_NN ._.
+..._: ..._: 71_CD Liquor_NNP hydrargyri_NN nitrates_NNS acidus_VBP ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+72_CD Liquor_NNP lithæ_NN effervescens_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 73_CD Liquor_NNP potassii_NN arsenitis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 74_CD Liquor_NNP zinci_NN chloridi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 75_CD Liquor_NNP hydrargyri_NN per_IN chloridum_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 76_CD Liquor_NNP potassii_NN permanganates_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 77_CD Liquor_NNP sodæ_NN effervescens_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 78_CD Liquor_NNP potassii_NN effervescens_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 79_CD Liquor_NNP sodæ_NN arscnites_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 80_CD Liquor_NNP volatilis_NN cornu_NN cervi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 81_CD Liquor_NNP sedativus_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 82_CD Liquor_NNP strychniæ_VBD 60_CD ..._: ..._: ..._: ..._: 83_CD Liquor_NNP quinnæ_NN ammoniatæ_NN 12.5_CD ..._: ..._: ..._: ..._: 84_CD Liquor_NNP sodæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+85_CD Liquor_NNP opii_NN sedativus_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+86_CD Liquor_NNP sodæ_NN chloratas_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 87_CD Liquor_NNP ergotæ_NN (_( same_JJ as_IN Extract_NNP ._.
+liquidum_NN )_) 43.5_CD ..._: ..._: ..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+88_CD Mistura_NNP gentianæ_NN radix_NN ..._: ..._: ..._: ..._: ..._: ..._: 89_CD Mistura_NNP ferri_NN composita_NN ..._: ..._: ..._: ..._: ..._: ..._: 90_CD Mistura_NNP croasotum_NN ..._: ..._: ..._: ..._: ..._: ..._: 91_CD Mistura_NNP ferri_NN aromatica_NN 77.2_CD ..._: ..._: ..._: ..._: 92_CD Syrupus_NNP ipecacuanha_NN ..._: ..._: ..._: ..._: ..._: ..._: 5_CD per_IN cent_NN ad_NN val_NN ._.
+93_CD Syrupus_NNP scillæ_NN ..._: ..._: ..._: ..._: ..._: ..._: 94_CD Syrupus_NNP mori_NN ..._: ..._: ..._: ..._: ..._: ..._: 95_CD Syrupus_NNP gummi_NN rubri_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 96_CD Syrupus_NNP pruni_NN verginiæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 97_CD Syrupus_NNP rhei_NN 60_CD ..._: ..._: ..._: ..._: 98_CD Syrupus_NNP rhamni_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+99_CD Syrupus_NNP sennæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 100_CD Syrupus_NNP (_( Parrish_NNP 's_POS )_) ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 101_CD Syrupus_NNP tolutanus_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 102_CD Syrupus_NNP lemonis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 103_CD Syrupus_NNP zingeribis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 104_CD Syrupus_NNP ferri_NN iodide_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 105_CD Syrupus_NNP morphiæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 106_CD Syrupus_NNP quinnæ_NN hydrodatis_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 107_CD Syrupus_NNP aurantii_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 108_CD Syrupus_NNP ferri_NN phosphates_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 109_CD Syrupus_NNP aurantii_NN floris_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 110_CD Syrupus_NNP eastons_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 111_CD Syrupus_NNP codiæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 112_CD Syrupus_NNP papaveris_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 113_CD Syrupus_NNP with_IN hypophosphates_NNS ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 114_CD Syrupus_NNP hemidesmi_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 115_CD Syrupus_NNP rheados_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 116_CD Syrupus_NNP rosæ_NN gallicæ_NN ..._: ..._: No_DT spirit_NN ._.
+..._: ..._: 117_CD Succus_NNP conii_VBD 60_CD ..._: ..._: ..._: ..._: 51_CD Nos_NNP ._.
+Preparations_NNS ._.
+U.P_NNP ._.
+Proof_NN ._.
+O.P_NNP ._.
+REMARKS_NNP ._.
+118_CD Succus_NNP Taraxaci_NNP 60_CD ..._: .._NN ..._: .._VBZ 119_CD Succus_NNP digitalis_NN 60_CD ..._: .._NN ..._: .._VBZ 120_CD Succus_NNP mori_NNS ..._: .._NN ..._: .._VBZ 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+121_CD Succus_NNP aconiti_VBD 60_CD ..._: .._NN ..._: .._VBZ 122_CD Succus_NNP scoparii_VBD 60_CD ..._: .._NN ..._: .._VBZ 123_CD Succus_NNP limonis_NN ..._: .._VBZ No_DT spirit_NN ._.
+..._: .._NN 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+124_CD Succus_NNP belladonnæ_VBD 60_CD ..._: .._NN ..._: .._VBZ 125_CD Succus_NNP rhamni_NNS ..._: .._VBZ No_DT spirit_NN ._.
+..._: .._NN 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+126_CD Succus_NNP lactucæ_VBD virosæ_JJ 60_CD ..._: .._NN ..._: .._VBZ 127_CD Spiritus_NNP camphoræ_NN ..._: .._NN ..._: .._VBZ 60_CD 128_CD Spiritus_NNP ætheris_NN ..._: .._NN ..._: .._VBZ 6.666_CD 129_CD Spiritus_NNP rectificatus_NN ..._: .._NN ..._: .._VBZ 60_CD 130_CD Spiritus_NNP ammon_NN fetidus_NN ..._: .._NN ..._: .._VBZ 44_CD 131_CD Spiritus_NNP juniperrii_NN ..._: .._NN ..._: .._VBZ 56.8_CD 132_CD Spiritus_NNP myristicæ_NN ..._: .._NN ..._: .._VBZ 56.8_CD 133_CD Spiritus_NNP nitrosi_NN (_( Sp_NNP ._.
+Eth_NNP ._.
+Nitrosi_NNP )_) ..._: .._NN ..._: .._VBZ 40_CD 134_CD Spiritus_NNP menthi_NN piperitæ_NN ..._: .._NN ..._: .._VBZ 56.8_CD 135_CD Spiritus_NNP ammon_JJ aromaticus_NN ..._: .._NN ..._: .._VBZ 1.4_CD 136_CD Spirit_NNP armoraciæ_NN compositus_NN 27.273_CD ..._: .._NN ..._: .._VBZ 137_CD Spiritus_NNP chloroformi_NN ..._: .._NN ..._: .._VBZ 52_CD 138_CD Spiritus_NNP lavandulæ_NN ..._: .._NN ..._: .._VBZ 56.8_CD 139_CD Spiritus_NNP cajeeputti_NNS ..._: .._NN ..._: .._VBZ 5.8_CD 140_CD Spiritus_NNP alcohol_NN absolute_NN ..._: .._NN ..._: .._VBZ 74_CD 141_CD Spiritus_NNP anodyne_NN (_( Hoffman_NNP 's_POS )_) ..._: .._NN ..._: .._VBZ 6.666_CD 142_CD Spiritus_NNP salvolatile_NN ..._: .._NN ..._: .._VBZ 1.4_CD 143_CD Spiritus_NNP hartshorn_NN ..._: .._VBZ No_DT spirit_NN ._.
+..._: .._NN 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+144_CD Spiritus_NNP rosmarini_NN ..._: .._NN ..._: .._VBZ 56.8_CD 145_CD Tinctura_NNP actea_NN racemosa_NN ..._: .._NN
+Proof_NN ._.
+..._: .._NN 146_CD Tinctura_NNP ergotæ_NN ætherii_NN ..._: .._NN ..._: .._NN ..._: .._VBZ 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+147_CD Tinctura_NNP aloes_NNS ..._: .._NN
+Proof_NN ._.
+..._: .._NN 148_CD Tinctura_NNP ammonia_NN composita_NN ..._: .._NN ..._: .._NN ..._: .._VBZ 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+149_CD Tinctura_NNP aurantii_NN ..._: .._NN
+Proof_NN ._.
+..._: .._NN 150_CD Tinctura_NNP aurantii_NN recentis_NN ..._: .._NN ..._: .._VBZ 60_CD 151_CD Tinctura_NNP aconite_NN ..._: .._NN ..._: .._VBZ 60_CD 152_CD Tinctura_NNP arnica_NN ..._: .._NN ..._: .._VBZ 60_CD 153_CD Tinctura_NNP assaf52_JJ Nos_NNP ._.
+Preparations_NNS ._.
+U.P_NNP ._.
+Proof_NN ._.
+O.P_NNP ._.
+REMARKS_NNP ._.
+180_CD Tinctura_NNP digitalis_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 181_CD Tinctura_NNP ergotæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 182_CD Tinctura_NNP ferri_NN chloridi_NN 60_CD ..._: ..._: ..._: ..._: 183_CD Tinctura_NNP ferri_NN sesque_NN chloridi_NN 60_CD ..._: ..._: ..._: ..._: 184_CD Tinctura_NNP ferri_NN per_IN chloridi_NN 60_CD ..._: ..._: ..._: ..._: 185_CD Tinctura_NNP ferri_NN acetatis_NN 60_CD ..._: ..._: ..._: ..._: 186_CD Tinctura_NNP ferri_NN acetates_VBZ æther_RB ..._: ..._: ..._: ..._: ..._: ..._: 5_CD per_IN cent_NN ._.
+ad_NN val_NN ._.
+187_CD Tinctura_NNP gallæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 188_CD Tinctura_NNP gummi_NN rubri_NN ..._: ..._: ..._: ..._: 60_CD 189_CD Tinctura_NNP gentian_JJ comp_NN ._.
+..._: ..._:
+Proof_NN ._.
+..._: ..._: 190_CD Tinctura_NNP guaiaci_NN ammoniatæ_NN ..._: ..._: ..._: ..._: 1.4_CD 191_CD Tinctura_NNP helleboris_NN nigri_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 192_CD Tinctura_NNP hyoscyami_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 193_CD Tinctura_NNP iodi_NN ..._: ..._: ..._: ..._: 60_CD 194_CD Tinctura_NNP jalapæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 195_CD Tinctura_NNP jaborandi_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 196_CD Tinctura_NNP kamalæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 197_CD Tinctura_NNP kino_NN 4.0_CD ..._: ..._: ..._: ..._: 198_CD Tinctura_NNP krameriæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 199_CD Tinctura_NNP laricis_NN ..._: ..._: ..._: ..._: 60_CD 200_CD Tinctura_NNP lavandulæ_NN comp_NN ._.
+..._: ..._: ..._: ..._: 60_CD 201_CD Tinctura_NNP limonis_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 202_CD Tinctura_NNP lobelliæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 203_CD Tinctura_NNP lobelliæ_NN æthria_NN ..._: ..._: ..._: ..._: 6.666_CD 204_CD Tinctura_NNP lupuli_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 205_CD Tinctura_NNP lactucarii_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 206_CD Tinctura_NNP lupulini_NN ..._: ..._: ..._: ..._: 60_CD 207_CD Tinctura_NNP ._.
+maticæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 208_CD Tinctura_NNP myrrhæ_NN et_NN boracis_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 209_CD Tinctura_NNP moschi_NN ..._: ..._: ..._: ..._: 60_CD 210_CD Tinctura_NNP myrrhæ_NN ..._: ..._: ..._: ..._: 60_CD 211_CD Tinotura_NNP nux_NN vomica_NN ..._: ..._: ..._: ..._: 28_CD 212_CD Tinctura_NNP opii_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 213_CD Tinctura_NNP opii_NN ammoniatæ_NN ..._: ..._: ..._: ..._: 28_CD 214_CD Tinctura_NNP pyrethri_NN ..._: ..._: ..._: ..._: 60_CD 215_CD Tinctura_NNP quassiæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 216_CD Tinctura_NNP quinnæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 217_CD Tinctura_NNP quinnæ_NN ammoniata_NN 12.5_CD ..._: ..._: ..._: ..._: 218_CD Tinctura_NNP rhei_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 219_CD Tinctura_NNP sabina_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 220_CD Tinctura_NNP scillæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 221_CD Tinctura_NNP senegæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 222_CD Tinctura_NNP sennæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 223_CD Tinctura_NNP serpentariæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 224_CD Tinctura_NNP stramonii_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 225_CD Tinctura_NNP strophanthi_NN ..._: ..._: ..._: ..._: 60_CD 226_CD Tinctura_NNP sumbul_NN ..._: ..._: ..._: ..._: 60_CD 227_CD Tinctura_NNP thebaicæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 228_CD Tinctura_NNP toluntana_NN ..._: ..._: ..._: ..._: 60_CD 229_CD Tinctura_NNP valerianæ_NN ..._: ..._:
+Proof_NN ._.
+..._: ..._: 230_CD Tinctura_NNP valerianæ_NN ammoniatæ_NN ..._: ..._: ..._: ..._: 37.14_CD 231_CD Tinctura_NNP veratri_NN veridis_NN ..._: ..._: ..._: ..._: 60_CD 232_CD Tinctura_NNP zingeribis_NN ..._: ..._: ..._: ..._: 60_CD 233_CD Tinctura_NNP zengeribis_NN fortior_NN ..._: ..._: ..._: ..._: 60_CD 234_CD Vinum_NNP antimoniale_NN 62.94_CD ..._: ..._: ..._: ..._: 235_CD Vinum_NNP aurantii_NN (_( orange_JJ wine_NN )_) ..._: ..._: ..._: ..._: ..._: ..._: Re_NNP ._.
+1_CD per_IN lm_JJ perial_JJ Gallon_NNP ._.
+236_CD Vinum_NNP aloes_NNS 62.94_CD ..._: ..._: ..._: ..._: 237_CD Vinum_NNP colchici_NN 62.94_CD ..._: ..._: ..._: ..._: 238_CD Vinum_NNP colchici_NN seminis_NN 62.94_CD ..._: ..._: ..._: ..._: 239_CD Vinum_NNP quinnæ_NN 79.12_CD ..._: ..._: ..._: ..._: 240_CD Vinum_NNP ferri_NN 62.94_CD ..._: ..._: ..._: ..._: 241_CD Vinum_NNP opii_VBD 62.94_CD ..._: ..._: ..._: ..._: 242_CD Vinum_NNP ipecacuanha_NN 62.94_CD ..._: ..._: ..._: ..._: 53_CD NOTE_NN TO_NNP THE_NNP LIST_NNP OF_NNP BRITISH_NNP PHARMACOP_NNP

@@ -1,0 +1,2940 @@
+ANNUAL_NNP ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP IN_NNP INDIA_NNP FOR_NNP THE_NNP FINANCIAL_NNP YEAR_NNP 1899-1900_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NN NLS_NNP to_TO Scan_NNP B_NNP &_CC W_NNP and_CC insert_JJ NLS_NNP to_TO Scan_VB colour_NN and_CC insert_JJ No_NNP ._.
+222ANNUAL_CD ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP IN_NNP INDIA_NNP FOR_NNP THE_NNP FINANCIAL_NNP YEAR_NNP 1899-1900_CD ._.
+ANNUAL_NNP ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP IN_NNP INDIA_NNP FOR_NNP THE_NNP OFFICIAL_NNP YEAR_NNP 1899-1900_CD ._.
+CONTENTS_NNS ._.
+PART_NN I.ii_NNP II.iii_NNP PAGES_NNP ._.
+III.iv_NNP PAGES_NNP ,_, III.GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+ANNUAL_NNP ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP IN_NNP INDIA_NNP FOR_NNP THE_NNP OFFICIAL_NNP YEAR_NNP 1899-1900_CD ._.
+PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+ANNUAL_NNP ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP IN_NNP INDIA_NNP FOR_NNP THE_NNP OFFICIAL_NNP YEAR_NNP 1899-1900_CD ._.
+PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+I.-HORSE-BREEDING_NN ._.
+Introductory_NN ._.
+Before_IN remarking_VBG on_IN the_DT various_JJ points_NNS connected_VBN with_IN horse_NN and_CC mule-_NN breeding_NN which_WDT call_NN for_IN mention_NN in_IN this_DT Report_NNP ,_, I_PRP deem_VBP it_PRP advisable_JJ to_TO allude_VB to_TO the_DT great_JJ scarcity_NN which_WDT has_VBZ existed_VBN in_IN some_DT parts_NNS ,_, amounting_VBG in_IN others_NNS to_TO absolute_VB fodder_JJR famine_NN ._.
+The_DT Punjab_NNP has_VBZ suffered_VBN severely_RB ,_, as_IN also_RB has_VBZ the_DT whole_NN of_IN Baluchistan_NNP ,_, including_VBG the_DT Gorani_NNP country_NN ,_, which_WDT is_VBZ our_PRP$ best_RBS horse-_JJ breeding_NN district_NN in_IN that_DT Province_NNP ._.
+In_IN Sind_NNP ,_, the_DT Lower_NNP Divisions_NNP of_IN Hyderabad_NNP and_CC all_DT Thar_NNP and_CC Parkar_NNP have_VBP been_VBN famine_JJ stricken_NN ._.
+Having_VBG carefully_RB watched_VBN our_PRP$ operations_NNS in_IN these_DT parts_NNS during_IN the_DT past_JJ year_NN ,_, I_PRP can_MD safely_RB say_VB that_IN whilst_JJ worse_JJR grain_NN famines_NNS have_VBP been_VBN known_VBN ,_, such_PDT a_DT total_JJ absence_NN of_IN fodder_NN has_VBZ never_RB been_VBN brought_VBN to_TO my_PRP$ notice_NN ._.
+I_PRP never_RB remember_VBP stallions_NNS having_VBG to_TO be_VB removed_VBN from_IN stands_NNS ;_: a_DT little_JJ extra_JJ expenditure_NN has_VBZ always_RB obtained_VBN for_IN them_PRP the_DT neces-_JJ sary_JJ fodder_NN ,_, but_CC on_IN this_DT occasion_NN it_PRP was_VBD impossible_JJ to_TO procure_VB a_DT blade_NN of_IN grass_NN ,_, the_DT consequence_NN being_VBG that_IN stallions_NNS had_VBD to_TO be_VB removed_VBN to_TO head-quarters_NNS from_IN some_DT of_IN our_PRP$ best_JJS breeding_NN districts_NNS ._.
+2_CD ._.
+The_DT effects_NNS on_IN horse-breeding_NN must_MD be_VB long_JJ felt_NN ,_, and_CC the_DT forecast_NN made_VBN by_IN the_DT various_JJ Superintendents_NNS in_IN December_NNP was_VBD most_JJS gloomy_JJ ;_: mares_NNS had_VBD to_TO be_VB removed_VBN to_TO tracts_NNS where_WRB fodder_NN was_VBD obtainable_JJ and_CC in_IN which_WDT stallions_NNS were_VBD not_RB located_VBN ;_: they_PRP also_RB were_VBD in_IN such_JJ low_JJ condition_NN that_IN in_IN all_DT probability_NN ,_, such_JJ as_IN were_VBD covered_VBN ,_, will_MD not_RB hold_VB ;_: foals_NNS have_VBP suffered_VBN greatly_RB ,_, many_JJ have_VBP died_VBN from_IN starvation_NN or_CC from_IN diseases_NNS arising_VBG from_IN indigestible_JJ fodder_NN ,_, but_CC almost_RB the_DT worst_JJS feature_NN has_VBZ been_VBN the_DT fact_NN that_IN breeders_NNS have_VBP been_VBN compelled_VBN in_IN many_JJ instances_NNS to_TO sell_VB their_PRP$ fillies_NNS ,_, which_WDT on_IN ordinary_JJ occasions_NNS no_DT money_NN would_MD have_VB bought_VBN ._.
+3_CD ._.
+Financially_RB also_RB the_DT year_NN under_IN review_NN has_VBZ been_VBN one_CD of_IN anxiety_NN ,_, for_IN not_RB only_RB has_VBZ the_DT price_NN of_IN grain_NN been_VBN high_JJ ,_, but_CC the_DT grass_NN ,_, brought_VBN in_IN by_IN grass-cutters_NNS has_VBZ had_VBN to_TO be_VB supplemented_VBN by_IN purchase_NN at_IN exorbitant_JJ rates_NNS ._.
+4_CD ._.
+I_PRP can_MD not_RB but_CC record_VBZ the_DT exertions_NNS made_VBN by_IN all_PDT the_DT officers_NNS of_IN this_DT Depart-_NNP ment_NN connected_VBN with_IN horse_NN and_CC mule-breeding_NN in_IN the_DT affected_JJ Provinces_NNS ,_, in_IN order_NN to_TO minimize_VB the_DT effects_NNS of_IN this_DT terrible_JJ famine_NN ,_, and_CC I_PRP trust_VBP the_DT Govern-_NNP ment_NN of_IN India_NNP will_MD agree_VB with_IN me_PRP in_IN thinking_NN ,_, after_IN a_DT perusal_NN of_IN the_DT horse_NN and_CC mule-breeding_JJ sections_NNS of_IN this_DT Report_NNP ,_, that_IN one_CD and_CC all_DT have_VBP done_VBN their_PRP$ best_JJS ._.
+5_CD ._.
+I_PRP have_VBP deemed_VBN it_PRP advisable_JJ to_TO make_VB the_DT foregoing_NN preliminary_JJ remarks_NNS ,_, as_IN they_PRP will_MD account_VB for_IN any_DT differences_NNS between_IN the_DT results_NNS of_IN the_DT year_NN under_IN review_NN when_WRB compared_VBN with_IN former_JJ years_NNS ._.
+B_NNP 2_CD Number_NNP of_IN stallions_NNS on_IN the_DT register_NN ._.
+6_CD ._.
+Table_NN I_PRP will_MD show_VB that_IN 390_CD stallions_NNS were_VBD present_JJ on_IN 1st_CD April_NNP 1899_CD ,_, that_IN 52_CD were_VBD added_VBN to_TO the_DT register_NN and_CC that_IN 69_CD were_VBD removed_VBN ,_, leaving_VBG a_DT balance_NN on_IN 31st_CD March_NNP 1900_CD of_IN 373_CD stallions_NNS ._.
+7_CD ._.
+Seventeen_JJ ponies_NNS were_VBD on_IN the_DT strength_NN of_IN the_DT Bombay_NNP Presidency_NNP ,_, against_IN 18_CD on_IN 1st_CD April_NNP 1899_CD ._.
+8_CD ._.
+Table_JJ II_NNP will_MD show_VB that_IN of_IN 344_CD horses_NNS employed_VBN in_IN Northern_NNP India_NNP ,_, 191_CD were_VBD up_RB to_TO 10_CD years_NNS of_IN age_NN ,_, 129_CD over_IN 10_CD and_CC up_RB to_TO 15_CD years_NNS ,_, 24_CD over_IN 15_CD years_NNS ._.
+Number_NNP of_IN stallions_NNS at_IN work_NN ._.
+9_CD ._.
+Table_JJ V_NNP will_MD show_VB that_IN of_IN 373_CD horses_NNS on_IN the_DT register_NN ,_, 293_CD were_VBD actually_RB at_IN work_NN ,_, the_DT balance_NN of_IN 80_CD is_VBZ accounted_VBN for_IN as_IN follows:3_NN imported_VBN during_IN the_DT past_JJ five_CD years_NNS by_IN that_DT Firm_NN have_VBP been_VBN noted_VBN for_IN ._.
+They_PRP included_VBD stallions_NNS by_IN the_DT following_JJ well-known_JJ sires:4_NN The_DT hackneys_NNS include_VBP Norfolk_NNP trotters_NNS ,_, half_NN and_CC three-quarter_JJ breds_NNS ._.
+The_DT other_JJ breeds_NNS existing_VBG in_IN 1893-94_CD included_JJ Persians_NNPS ,_, Turkomans_NNPS and_CC country-_JJ breds_NNS ._.
+27_CD ._.
+By_IN the_DT above_NN it_PRP will_MD be_VB seen_VBN that_IN the_DT number_NN of_IN thorough-breds_NNS and_CC Arabs_NNPS have_VBP increased_VBN by_IN 67_CD ,_, whilst_VBD the_DT hackneys_NNS ,_, etc._NN ,_, have_VBP decreased_VBN by_IN 48_CD and_CC other_JJ breeds_NNS by_IN 8_CD ._.
+The_DT 5_CD now_RB remaining_VBG of_IN this_DT class_NN are_VBP country-breds_NNS ,_, which_WDT by_IN various_JJ crosses_NNS of_IN thorough-bred_JJ blood_NN may_MD almost_RB be_VB reckoned_VBN as_IN such_JJ ._.
+28_CD ._.
+With_IN this_DT vast_JJ collection_NN of_IN different_JJ classes_NNS of_IN stallions_NNS it_PRP is_VBZ next_JJ to_TO impossible_JJ to_TO breed_VB to_TO type_VB ,_, especially_RB in_IN a_DT country_NN where_WRB so_RB much_RB has_VBZ to_TO be_VB entrusted_VBN to_TO native_JJ agency_NN ,_, but_CC by_IN restricting_VBG our_PRP$ operations_NNS to_TO thorough-breds_NNS and_CC Arabs_NNPS this_DT can_MD be_VB done_VBN ,_, and_CC ,_, with_IN this_DT end_NN in_IN view_NN ,_, I_PRP solicited_VBD the_DT sanction_NN of_IN the_DT Government_NNP of_IN India_NNP ,_, before_IN the_DT receipt_NN of_IN the_DT Resolution_NNP above_IN referred_VBN to_TO ,_, to_TO be_VB allowed_VBN to_TO introduce_VB a_DT system_NN in_IN Baluchistan_NNP whereby_NN every_DT mare_NN branded_VBN would_MD be_VB allotted_VBN to_TO Arab_VB or_CC thorough-bred_JJ sires_NNS ._.
+It_PRP was_VBD possible_JJ to_TO do_VB this_DT in_IN Baluchistan_NNP ,_, as_IN the_DT change_NN only_RB involved_VBD the_DT transfer_NN of_IN 5_CD horses_NNS of_IN other_JJ breeds_NNS ._.
+As_IN each_DT mare_NN is_VBZ branded_VBN she_PRP is_VBZ allotted_VBN and_CC is_VBZ branded_VBN either_RB V.I./A_NNP ._.
+or_CC V.I./T_NNP ._.
+according_VBG to_TO the_DT class_NN of_IN sire_NN with_IN which_WDT it_PRP is_VBZ thought_VBN she_PRP will_MD mate_VB well_RB ._.
+Sanction_NN having_VBG been_VBN accorded_VBN to_TO my_PRP$ proposal_NN ,_, this_DT system_NN is_VBZ now_RB in_IN force_NN in_IN Baluchistan_NNP ,_, and_CC I_PRP anticipate_VBP the_DT most_RBS favourable_JJ results_NNS from_IN its_PRP$ adoption_NN ._.
+29_CD ._.
+It_PRP will_MD be_VB understood_JJ that_IN it_PRP can_MD only_RB be_VB introduced_VBN gradually_RB in_IN other_JJ Provinces_NNS ,_, as_IN otherwise_NN it_PRP would_MD mean_VB the_DT sale_NN of_IN all_DT hackney_NN and_CC other_JJ stallions_NNS ,_, which_WDT I_PRP am_VBP not_RB prepared_JJ to_TO advocate_VB ,_, as_IN I_PRP calculate_VBP that_IN this_DT would_MD involve_VB an_DT expenditure_NN of_IN 4_CD ½_JJ lakhs_NN of_IN rupees_NNS ._.
+As_IN ,_, however_RB ,_, none_NN but_CC thorough-_JJ breds_NNS and_CC Arabs_NNS have_VBP been_VBN obtained_VBN for_IN the_DT past_JJ five_CD years_NNS ,_, the_DT change_NN will_MD gradually_RB be_VB effected_VBN ,_, and_CC during_IN the_DT year_NN 1900-1901_JJ it_PRP will_MD also_RB be_VB possible_JJ to_TO introduce_VB this_DT system_NN in_IN the_DT whole_NN of_IN Sind_NNP ,_, in_IN about_RB eight_CD districts_NNS of_IN the_DT Punjab_NNP ,_, and_CC I_PRP am_VBP now_RB in_IN communication_NN with_IN the_DT Superintendent_NNP ,_, North-Western_JJ Provinces_NNS and_CC Oudh_NNP ,_, with_IN a_DT view_NN of_IN its_PRP$ introduction_NN in_IN districts_NNS of_IN those_DT Prov-_NNP inces_NNS where_WRB it_PRP is_VBZ found_VBN to_TO be_VB possible_JJ ._.
+Castration_NN ._.
+30_CD ,_, During_IN the_DT year_NN under_IN report_NN the_DT following_JJ colts_NNS were_VBD castrated:5_JJ 35_CD ._.
+The_DT Collector_NNP of_IN Shahabad_NNP also_RB gives_VBZ the_DT following_VBG interesting_JJ details:6_JJ 43_CD ._.
+The_DT Lahore_NNP dealers_NNS are_VBP shown_VBN as_IN having_VBG purchased_VBN 450_CD ,_, whilst_JJR Amritsar_NNP dealers_NNS purchased_VBD 133_CD ;_: these_DT were_VBD purchased_VBN in_IN the_DT Punjab_NNP and_CC Baluchistan_NNP ,_, but_CC the_DT figures_NNS are_VBP in_IN no_DT way_NN complete_JJ ,_, as_IN no_DT returns_NNS giving_VBG this_DT information_NN were_VBD received_VBN from_IN either_DT of_IN the_DT Amritsar_NNP Fairs_NNP ,_, but_CC they_PRP are_VBP sufficient_JJ to_TO show_VB how_WRB many_JJ horses_NNS fall_VBP into_IN their_PRP$ hands_NNS :_: these_DT may_MD be_VB said_VBD to_TO have_VB been_VBN all_DT remounts_NNS as_IN ,_, owing_VBG to_TO the_DT great_JJ demand_NN ,_, the_DT dealers_NNS devoted_VBD their_PRP$ attention_NN almost_RB entirely_RB to_TO horses_NNS of_IN this_DT class_NN ,_, knowing_VBG that_IN they_PRP would_MD ensure_VB profit_NN and_CC quick_JJ returns_NNS ._.
+44_CD ._.
+Other_JJ interesting_JJ facts_NNS brought_VBD to_TO light_NN are_VBP that_IN the_DT Bhojpuri_NNP dealers_NNS purchased_VBD 850_CD head_NN of_IN stock_NN from_IN four_CD of_IN the_DT best_JJS fairs_NN in_IN the_DT Punjab_NNP ,_, viz._NN ,_, Shahpur_NNP ,_, Gujrat_NNP ,_, Jellalabad_NNP and_CC Dera_NNP Ghazi_NNP Khan_NNP ,_, and_CC that_IN Trans-frontier_NNP people_NNS removed_VBD 903_CD animals_NNS from_IN the_DT Rawalpindi_NNP Fair_NNP alone_RB ;_: these_DT were_VBD mainly_RB young_JJ mules_NNS ._.
+Removal_NN of_IN Punjab_NNP Depôt_NNP ._.
+45_CD ._.
+During_IN the_DT year_NN under_IN review_NN sanction_NN has_VBZ been_VBN accorded_VBN to_TO the_DT erection_NN of_IN the_DT necessary_JJ buildings_NNS at_IN Abbottabad_NNP for_IN the_DT accommodation_NN of_IN the_DT stallions_NNS of_IN the_DT Punjab_NNP ._.
+The_DT depôt_NN establishment_NN has_VBZ already_RB been_VBN moved_VBN up_RP ,_, and_CC the_DT stallions_NNS returning_VBG for_IN rest_NN and_CC conditioning_NN in_IN July_NNP will_MD be_VB taken_VBN up_RP to_TO that_DT station_NN ._.
+Owing_VBG to_TO favourable_JJ climate_NN and_CC good_JJ grass_NN ,_, I_PRP anticipate_VBP most_RBS favourable_JJ results_NNS from_IN this_DT change_NN ._.
+Number_NNP of_IN branded_JJ mares_NNS ._.
+46_CD ._.
+Table_JJ X_NN will_MD show_VB that_IN whilst_JJ 24,907_CD were_VBD on_IN the_DT registers_NNS at_IN the_DT begin-_JJ ning_NN of_IN the_DT year_NN ,_, 23,235_CD were_VBD present_JJ at_IN its_PRP$ close_NN ._.
+The_DT reduction_NN ,_, viz._NN ,_, 1,672_CD ,_, is_VBZ mainly_RB due_JJ to_TO the_DT fact_NN that_IN the_DT mares_NNS are_VBP not_RB traceable_JJ ,_, they_PRP having_VBG been_VBN removed_VBN to_TO other_JJ districts_NNS in_IN search_NN of_IN fodder_NN ;_: some_DT may_MD return_VB ,_, but_CC I_PRP fear_VBP that_IN it_PRP will_MD be_VB found_VBN that_IN many_JJ have_VBP died_VBN ._.
+47_CD ._.
+Two_CD thousand_CD and_CC fifty-seven_JJ were_VBD branded_VBN ,_, against_IN 2,679_CD ._.
+Considering_VBG the_DT year_NN through_IN which_WDT we_PRP have_VBP just_RB passed_VBN ,_, I_PRP am_VBP surprised_JJ that_IN so_RB many_JJ were_VBD branded_VBN ,_, for_IN it_PRP frequently_RB happened_VBD that_IN when_WRB the_DT Superintendent_NNP visited_VBD a_DT stand_NN ,_, not_RB a_DT single_JJ mare_NN was_VBD presented_VBN to_TO him_PRP ._.
+Number_NNP of_IN mares_NNS covered_VBN by_IN stallions_NNS ._.
+48_CD ._.
+Table_JJ V_NNP will_MD show_VB that_IN 14,100_CD mares_NNS were_VBD covered_VBN ,_, against_IN 15,077_CD last_JJ year_NN ,_, showing_VBG a_DT reduction_NN of_IN 977_CD mares_NNS when_WRB compared_VBN with_IN 1898-99_JJ ,_, but_CC as_IN we_PRP find_VBP that_IN only_RB 14,000_CD were_VBD covered_VBN in_IN 1897-98_JJ ,_, the_DT number_NN shown_VBN this_DT year_NN as_IN having_VBG been_VBN served_VBN must_MD be_VB looked_VBN upon_IN as_IN a_DT fair_JJ average_NN ,_, and_CC in_IN fact_NN a_DT high_JJ one_NN for_IN a_DT famine_JJ year_NN ._.
+Average_JJ coverings_NNS per_IN stallion_NN employed_VBN ._.
+49_CD ._.
+The_DT average_JJ number_NN of_IN mares_NNS covered_VBN per_IN stallion_NN employed_VBN was_VBD 48.09_CD ,_, against_IN 49.71_CD last_JJ year_NN ._.
+To_TO enable_VB me_PRP to_TO draw_VB any_DT comparison_NN on_IN this_DT point_NN between_IN this_DT year_NN and_CC last_JJ year_NN 's_POS working_NN ,_, it_PRP is_VBZ necessary_JJ to_TO repeat_VB some_DT figures_NNS contained_VBN in_IN Table_NNP V7_NNP Demand_NNP for_IN stallions_NNS ._.
+53_CD ._.
+The_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, North-Western_NNP Provinces_NNPS and_CC Oudh_NNP ,_, states8_NN at_IN the_DT horse_NN shows_NNS ,_, the_DT quality_NN of_IN the_DT horses_NNS obtained_VBD this_DT year_NN was_VBD better_JJR than_IN I_PRP have_VBP previously_RB seen_VBN in_IN any_DT show_NN ring_NN ._.
+67_CD ._.
+The_DT following_JJ regiments_NNS may_MD be_VB said_VBD not_RB to_TO have_VB bought_VBN country-_JJ breds:9_NN This_DT must_MD go_VB to_TO prove_VB that_IN owners_NNS can_MD find_VB a_DT more_RBR profitable_JJ market_NN than_IN that_DT offered_VBN by_IN Government_NNP ._.
+75_CD ._.
+Imperial_NNP Service_NNP Cavalry.10_NNP Reports_NNP from_IN Com-_NNP manding_VBG Officers_NNS on_IN the_DT class_NN of_IN stallions_NNS that_IN pro-_JJ duce_NN the_DT best_JJS stock_NN for_IN cavalry_NN re-_JJ mounts_NNS ._.
+85_CD ._.
+Reports_NNS have_VBP been_VBN received_VBN during_IN the_DT year_NN from_IN the_DT following_VBG regi-_JJ ments:11_NNS 1st_CD Madras_NNP LancersPART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+A.-MILITARY_JJ SECTION_NNP ._.
+II.15_NNP PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+II.16_NNP MISCELLANEOUS_NNP MATTER_NNP REGARDING_NNP DONKEY_NNP STALLIONS_NNP ._.
+Supply_NN of_IN donkey_JJ stallions_NNS ._.
+103_CD ._.
+I_PRP have_VBP already_RB shown_VBN what_WP the_DT demand_NN for_IN Jacks_NNP is_VBZ ;_: it_PRP may_MD be_VB well_RB to_TO consider_VB the_DT supply_NN which_WDT ,_, under_IN the_DT existing_VBG arrangements_NNS ,_, is_VBZ totally_RB inadequate_JJ ._.
+104_CD ._.
+The_DT supply_NN from_IN the_DT Continent_NN has_VBZ this_DT year_NN only_RB resulted_VBD in_IN 18_CD being_VBG obtained_VBN and_CC ,_, as_IN I_PRP have_VBP shown_VBN when_WRB remarking_VBG on_IN the_DT Catalans_NNPS ,_, many_JJ inferior_JJ ones_NNS had_VBD to_TO be_VB sent_VBN to_TO make_VB up_RP the_DT number_NN ._.
+105_CD ._.
+Not_RB a_DT single_JJ Arab_NN or_CC Persian_JJ donkey_NN was_VBD offered_VBN for_IN sale_NN in_IN the_DT Bombay_NNP market_NN although_IN sanction_NN has_VBZ been_VBN accorded_VBN to_TO the_DT price_NN being_VBG raised_VBN to_TO R400_NNP ._.
+106_CD ._.
+Cyprus_NNP has_VBZ been_VBN our_PRP$ only_JJ standby_NN and_CC had_VBD it_PRP not_RB been_VBN for_IN these_DT Jacks_NNP ,_, I_PRP fail_VBP to_TO see_VB how_WRB mule-breeding_JJ in_IN India_NNP could_MD have_VB been_VBN carried_VBN on_IN ._.
+Thirty-two_NNP were_VBD obtained_VBN from_IN this_DT Island_NNP ._.
+107_CD ._.
+The_DT agreement_NN entered_VBD into_IN between_IN the_DT Government_NNP of_IN India_NNP and_CC Cyprus_NNP ,_, to_TO take_VB between_IN 25_CD and_CC 30_CD Jacks_NNP annually_RB and_CC not_RB to_TO discontinue_VB such_JJ purchases_NNS except_IN on_IN three_CD years_NNS '_POS notice_NN being_VBG given_VBN ,_, will_MD have_VB the_DT effect_NN of_IN more_JJR attention_NN being_VBG paid_VBN to_TO donkey-breeding_NN in_IN the_DT Island_NNP ._.
+108_CD ._.
+Many_JJ of_IN the_DT suggestions_NNS which_WDT I_PRP was_VBD able_JJ to_TO make_VB to_TO the_DT Governor_NNP on_IN my_PRP$ visit_NN to_TO Cyprus_NNP in_IN 1898_CD ,_, for_IN the_DT improvement_NN of_IN donkey-breeding_JJ having_VBG been_VBN given_VBN effect_NN to_TO ,_, good_JJ Jacks_NNS and_CC well_RB selected_VBN ones_NNS are_VBP stationed_VBN in_IN some_DT of_IN the_DT districts_NNS ;_: their_PRP$ services_NNS are_VBP allowed_VBN free_JJ and_CC the_DT Government_NNP of_IN Cyprus_NNP offer_NN prizes_NNS paid_VBN from_IN Agricultural_JJ Funds_NNS for_IN the_DT best_JJS donkeys_NN ._.
+109_CD ._.
+A_DT perusal_NN of_IN the_DT above_JJ short_JJ remarks_NNS will_MD show_VB that_IN our_PRP$ donkey-supply_NN is_VBZ in_IN a_DT precarious_JJ state_NN ,_, in_IN fact_NN I_PRP have_VBP made_VBN similar_JJ remarks_NNS for_IN years_NNS past_RB ._.
+Especially_RB is_VBZ it_PRP so_RB at_IN present_JJ when_WRB many_JJ old_JJ donkeys_NNS require_VBP to_TO be_VB replaced_VBN and_CC when_WRB it_PRP is_VBZ necessary_JJ for_IN the_DT next_JJ two_CD years_NNS to_TO find_VB 25_CD extra_JJ Jacks_NNS to_TO meet_VB the_DT increase_NN sanctioned_VBN by_IN the_DT Government_NNP of_IN India_NNP under_IN the_DT scheme_NN whereby_WRB these_DT are_VBP handed_VBN over_IN to_TO Lambardars_NNP and_CC others_NNS with_IN a_DT view_NN of_IN extending_VBG mule-_JJ breeding_NN in_IN outlying_VBG centres_NNS at_IN which_WDT no_DT stands_NNS exist_VBP ._.
+110_CD ._.
+Feeling_VBG that_IN something_NN must_MD be_VB done_VBN to_TO improve_VB our_PRP$ supply_NN ,_, I_PRP have_VBP suggested_VBN for_IN the_DT consideration_NN of_IN Government_NNP that_IN endeavours_NN should_MD be_VB made_VBN to_TO open_VB a_DT market_NN in_IN Syria_NNP ._.
+I_PRP have_VBP been_VBN led_VBN to_TO make_VB this_DT suggestion_NN owing_VBG to_TO the_DT fact_NN that_IN during_IN the_DT past_JJ three_CD or_CC four_CD years_NNS a_DT few_JJ so-called_JJ Arab_NN Jacks_NNS have_VBP been_VBN landed_VBN in_IN Bombay_NNP annually_RB ._.
+These_DT were_VBD not_RB the_DT typical_JJ class_NN of_IN Arabs_NNP ,_, they_PRP were_VBD of_IN good_JJ dark_NN colours_NNS ,_, many_JJ being_VBG black_JJ ;_: they_PRP were_VBD bigger_JJR than_IN the_DT ordinary_JJ Arab_NNP donkey_NN and_CC possessed_VBD more_JJR bone_NN and_CC were_VBD of_IN deeper_JJ girth_NN ._.
+On_IN enquiry_NN I_PRP found_VBD that_IN they_PRP had_VBD been_VBN purchased_VBN in_IN the_DT districts_NNS around_IN Damascus_NNP ._.
+If_IN we_PRP can_MD successfully_RB open_VB out_RP a_DT market_NN in_IN Syria_NNP ,_, combined_VBN with_IN the_DT one_CD now_RB started_VBN in_IN Cyprus_NNP ,_, we_PRP shall_MD have_VB done_VBN much_RB to_TO alleviate_VB the_DT want_NN of_IN Jacks_NNP in_IN India_NNP ,_, which_WDT is_VBZ being_VBG so_RB much_RB felt_NN at_IN the_DT present_JJ time_NN ._.
+Improvement_NN in_IN the_DT breed_NN of_IN donkeys_NNS ._.
+111_CD ._.
+Intimately_RB connected_VBN with_IN the_DT supply_NN of_IN donkey_JJ stallions_NNS is_VBZ that_IN of_IN the_DT improvement_NN of_IN the_DT breed_NN in_IN India_NNP ._.
+Not_RB only_RB is_VBZ this_DT question_NN of_IN interest_NN to_TO us_PRP ,_, but_CC the_DT Transport_NNP Department_NNP is_VBZ also_RB greatly_RB interested_JJ in_IN the_DT matter_NN ._.
+Statistics_NNS previously_RB given_VBN will_MD show_VB to_TO what_WP extent_VB this_DT Department_NNP has_VBZ been_VBN able_JJ to_TO assist_VB ;_: with_IN the_DT paucity_NN of_IN Jacks_NNS at_IN our_PRP$ disposal_NN we_PRP can_MD only_RB relegate_VB such_JJ that_WDT will_MD not_RB cover_VB pony_NN mares_NNS ,_, to_TO donkey-breeding_NN ._.
+112_CD ._.
+I_PRP have_VBP been_VBN in_IN communication_NN with_IN the_DT Director_NNP of_IN Land_NNP Records_NNP and_CC Agriculture_NNP ,_, Punjab_NNP ,_, and_CC a_DT Circular_NNP has_VBZ been_VBN sent_VBN to_TO all_DT Deputy_NNP Commissioners_NNP in_IN that_DT Province_NNP ,_, asking_VBG them_PRP for_IN certain_JJ information_NN which_WDT ,_, when_WRB received_VBN ,_, will_MD enable_VB me_PRP ,_, in_IN communication_NN with_IN the_DT Director_NNP ,_, to_TO draw_VB up_RP a_DT workable_JJ scheme_NN with_IN a_DT view_NN of_IN generally_RB improving_VBG the_DT breed_NN of_IN donkeys_NNS ._.
+Mule_NNP supply_NN ._.
+113_CD ._.
+During_IN the_DT current_JJ year_NN various_JJ measures_NNS have_VBP been_VBN discussed_VBN with_IN a_DT view_NN of_IN endeavouring_VBG to_TO obtain_VB more_JJR mules_NNS for_IN all_DT branches_NNS of_IN the_DT service_NN ._.
+This_DT has_VBZ been_VBN rendered_VBN necessary_JJ owing_NN to_TO the_DT enormous_JJ demand_NN for_IN these_DT animals_NNS for_IN use_NN in_IN Native_NNP States_NNPS ,_, for_IN private_JJ purposes_NNS ,_, for_IN Imperial_NNP Service_NNP Transport_NNP Corps_NNP and_CC for_IN Native_NNP Cavalry_NNP Transport_NNP ._.
+Some_DT years_NNS ago_RB carriage_NN of_IN grain_NN in_IN the_DT hills_NNS was_VBD mainly_RB carried_VBN on_IN by_IN means_NNS of_IN ponies_NNS ,_, to-day_JJ nearly_RB the_DT whole_NN of_IN such_JJ transport_NN is_VBZ done_VBN by_IN mules_NNS ._.
+Again_RB ,_, the_DT transport_NN of_IN Native_NNP Cavalry_NNP was_VBD always_RB supplied_VBN by_IN ponies_NNS ,_, now_RB every_DT regiment_NN is_VBZ exchanging_VBG these_DT for_IN mules_NNS as_IN they_PRP find_VBP them_PRP to_TO be_VB more_RBR serviceable_JJ ._.
+During_IN the_DT current_JJ year_NN the_DT Bharatpur_NNP State_NNP has_VBZ been_VBN raising_VBG a_DT Transport_NNP Corps_NNP and_CC have_VBP bought_VBN 17_CD largely_RB in_IN the_DT mule_NN market_NN ;_: then_RB again_RB ,_, the_DT export_NN of_IN young_JJ mules_NNS beyond_IN the_DT Frontier_NNP is_VBZ ,_, in_IN my_PRP$ opinion_NN ,_, becoming_VBG a_DT serious_JJ one_CD amounting_NN as_IN it_PRP did_VBD at_IN the_DT Rawalpindi_NNP Fair_NNP alone_RB to_TO about_IN 800_CD ._.
+114_CD ._.
+That_DT mules_NNS will_MD have_VB to_TO be_VB purchased_VBN young_JJ and_CC will_MD have_VB to_TO be_VB reared_VBN is_VBZ self_JJ evident_JJ and_CC a_DT commencement_NN has_VBZ been_VBN sanctioned_VBN which_WDT came_VBD into_IN operation_NN on_IN 1st_CD April_NNP 1900_CD ._.
+Two_CD hundred_JJ young_JJ mules_NNS are_VBP to_TO be_VB bought_VBN by_IN this_DT Department_NNP annually_RB :_: they_PRP are_VBP to_TO be_VB sent_VBN to_TO Hissar_NNP when_WRB purchased_VBN and_CC then_RB to_TO be_VB fed_VBN as_RB inexpensively_RB as_IN possible_JJ ._.
+The_DT calculation_NN is_VBZ based_VBN on_IN their_PRP$ cost_NN of_IN R70_NNP per_IN head_NN between_IN the_DT ages_NNS of_IN 6_CD and_CC 12_CD months_NNS and_CC it_PRP is_VBZ cal-_JJ culated_VBN that_IN if_IN 40_CD per_IN cent_NN ._.
+turn_VB out_RP fit_NN for_IN Ordnance_NNP ,_, 30_CD per_IN cent_NN ._.
+for_IN 1st_CD class_NN Baggage_NNP and_CC 25_CD per_IN cent_NN ._.
+for_IN Transport_NNP purposes_NNS ,_, allowing_VBG 5_CD per_IN cent_NN ._.
+for_IN casu-_JJ alties_NNS ,_, the_DT scheme_NN will_MD prove_VB a_DT financial_JJ success_NN ._.
+115_CD ._.
+I_PRP feel_VBP assured_VBD that_IN with_IN so_RB many_JJ purchasers_NNS in_IN the_DT field_NN ,_, especially_RB when_WRB it_PRP is_VBZ considered_VBN that_IN young_JJ stock_NN is_VBZ being_VBG exported_VBN across_IN the_DT border_NN in_IN large_JJ numbers_NNS ,_, some_DT such_JJ scheme_NN is_VBZ required_VBN ._.
+The_DT one_CD mentioned_VBN above_IN is_VBZ of_IN course_NN on_IN a_DT small_JJ scale_NN but_CC its_PRP$ success_NN or_CC otherwise_RB will_MD prove_VB whether_IN it_PRP would_MD not_RB be_VB advisable_JJ to_TO enlarge_VB it_PRP greatly_RB ._.
+I_PRP fully_RB favour_VBP this_DT proposal_NN ,_, in_IN fact_NN I_PRP would_MD go_VB so_RB far_RB as_IN to_TO say_VB that_IN all_DT young_JJ stock_NN that_WDT can_MD be_VB purchased_VBN should_MD be_VB bought_VBN and_CC when_WRB of_IN an_DT age_NN fit_NN for_IN issue_NN it_PRP should_MD be_VB sorted_VBN out_RP for_IN the_DT different_JJ branches_NNS of_IN the_DT service_NN ._.
+Government_NNP need_MD have_VB no_DT fear_NN of_IN any_DT loss_NN even_RB on_IN those_DT that_WDT are_VBP not_RB considered_VBN fit_NN for_IN Transport_NNP purposes_NNS for_IN such_JJ is_VBZ the_DT demand_NN for_IN mules_NNS that_WDT every_DT one_CD of_IN these_DT would_MD have_VB a_DT marketable_JJ value_NN ._.
+116_CD ._.
+It_PRP is_VBZ mainly_RB with_IN reference_NN to_TO the_DT supply_NN of_IN Transport_NNP mules_NNS that_IN this_DT country_NN is_VBZ concerned_VBN ,_, for_IN I_PRP am_VBP fully_RB of_IN opinion_NN that_IN the_DT requirements_NNS of_IN Ordnance_NNP mules_NNS can_MD be_VB met_VBN if_IN care_NN is_VBZ taken_VBN not_RB to_TO allow_VB Native_NNP States_NNPS to_TO forestall_VB the_DT purchasers_NNS ._.
+This_DT was_VBD done_VBN this_DT year_NN by_IN a_DT Native_JJ Officer_NNP of_IN the_DT Hyderabad_NNP State_NNP who_WP was_VBD buying_VBG 14-hand_JJ mules_NNS for_IN carriage_NN work_NN ._.
+117_CD ._.
+The_DT Government_NNP of_IN the_DT North-Western_JJ Provinces_NNS ,_, in_IN order_NN to_TO assist_VB in_IN the_DT mule_NN breeding_NN industry_NN ,_, has_VBZ sanctioned_VBN the_DT sum_NN of_IN R1,000_NNP annually_RB towards_VBZ the_DT road_NN expenses_NNS of_IN cast_NN mares_NNS all_DT of_IN which_WDT not_RB being_VBG over_IN 14_CD years_NNS of_IN age_NN ,_, are_VBP now_RB handed_VBN over_RP by_IN British_JJ Mounted_NNP Corps_NNP to_TO the_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, for_IN issue_NN to_TO breeders_NNS ._.
+All_DT mares_NNS are_VBP covered_VBN before_IN issue_NN and_CC if_IN it_PRP proved_VBD that_IN enough_JJ are_VBP forthcoming_VBG ,_, this_DT scheme_NN should_MD result_VB in_IN many_JJ good_JJ Ordnance_NN mules_NNS being_VBG obtained_VBN ._.
+The_DT progeny_NN are_VBP to_TO be_VB bought_VBN at_IN six_CD months_NNS of_IN age_NN if_IN well_RB grown_VBN and_CC in_IN good_JJ condition_NN ._.
+So_RB great_JJ is_VBZ the_DT competition_NN for_IN these_DT mares_NNS that_WDT already_RB 400_CD applications_NNS have_VBP been_VBN received_VBN ._.
+118_CD ._.
+Connected_VBN with_IN this_DT scheme_NN is_VBZ the_DT branding_NN of_IN selected_VBN mares_NNS for_IN mule-breeding_NN ,_, the_DT condition_NN being_VBG that_DT Government_NNP will_MD supply_VB a_DT selected_VBN Jack_NNP for_IN their_PRP$ service_NN ._.
+Up_RB to_TO date_NN ,_, however_RB ,_, this_DT has_VBZ not_RB met_VBN with_IN any_DT success_NN ,_, owners_NNS refusing_VBG the_DT brand_NN ._.
+119_CD ._.
+The_DT Superintendents_NNPS of_IN this_DT Department_NNP have_VBP assisted_VBN the_DT Army_NNP Re-_NNP mount_NNP Department_NNP in_IN their_PRP$ purchases_NNS during_IN the_DT year_NN by_IN buying_VBG any_DT suitable_JJ mules_NNS when_WRB a_DT Remount_NNP Agent_NNP was_VBD not_RB present_JJ ;_: this_DT has_VBZ resulted_VBN in_IN 34_CD Ordnance_NN and_CC 25_CD 1st_CD Class_NNP Baggage_NNP mules_VBZ being_VBG obtained_VBN ._.
+120_CD ._.
+The_DT Superintendents_NNS have_VBP also_RB assisted_VBN the_DT Officers_NNP specially_RB selected_VBD to_TO purchase_VB Transport_NNP mules_NNS ,_, and_CC in_IN this_DT connection_NN I_PRP pointed_VBD out_RP to_TO the_DT Govern-_NNP ment_NN of_IN India_NNP that_IN as_IN mules_NNS were_VBD worked_VBN by_IN private_JJ individuals_NNS at_IN two_CD and_CC a_DT half_JJ years_NNS of_IN age_NN and_CC further_RB that_IN as_IN they_PRP were_VBD bought_VBN by_IN Native_NNP Cavalry_NNP and_CC Imperial_NNP Service_NNP Troops_NNP at_IN three_CD years_NNS of_IN age_NN ,_, the_DT Commissariat_NNP and_CC Transport_NNP Department_NNP could_MD only_RB expect_VB to_TO get_VB the_DT dregs_NN of_IN the_DT market_NN ,_, purchasing_VBG only_RB ,_, as_IN they_PRP did_VBD ,_, at_IN four_CD years_NNS of_IN age_NN ;_: this_DT was_VBD all_PDT the_DT more_RBR evident_JJ owing_VBG to_TO the_DT fact_NN that_IN only_RB R150_NNP was_VBD given_VBN ._.
+This_DT was_VBD altered_VBN by_IN the_DT age_NN being_VBG reduced_VBN to_TO three_CD years_NNS and_CC the_DT price_NN being_VBG raised_VBN to_TO R175_NNP ._.
+Another_DT point_NN which_WDT I_PRP brought_VBD forward_RB was_VBD that_IN of_IN girth_NN measurement_NN ,_, as_IN I_PRP found_VBD that_IN an_DT average_NN of_IN 2_CD inches_NNS more_RBR was_VBD considered_VBN necessary_JJ for_IN Commissariat-Transport_NNP mules_NNS ,_, the_DT price_NN of_IN which_WDT was_VBD only_RB R150_NNP than_IN for_IN 1st_CD Class_NNP Baggage_NNP mules_NNS (_( Artillery_NNP )_) for_IN which_WDT R200_NNP is_VBZ paid_VBN ._.
+121_CD ._.
+An_DT alteration_NN on_IN this_DT point_NN connected_VBN with_IN a_DT reduction_NN in_IN age_NN and_CC an_DT increase_NN in_IN price_NN ,_, as_IN above_IN noted_JJ ,_, should_MD result_VB in_IN many_JJ more_JJR being_VBG obtained_VBN ._.
+D_NNP 18_CD Number_NNP of_IN mares_NNS covered_VBN by_IN donkey_JJ stallions_NNS ._.
+122_CD ._.
+Table_JJ VII_NNP will_MD show_VB that_IN 19,444_CD pony_NN mares_NNS were_VBD covered_VBN by_IN donkey_JJ stallions_NNS against_IN 18,151_CD in_IN 1898-99_CD ._.
+The_DT increase_NN is_VBZ very_RB satisfactory_JJ ._.
+123_CD ._.
+The_DT increase_NN in_IN Sind_NNP is_VBZ encouraging_JJ ,_, as_IN we_PRP find_VBP that_IN 1,055_CD were_VBD covered_VBN against_IN 791_CD last_JJ year_NN ._.
+This_DT Province_NN is_VBZ likely_JJ to_TO develop_VB into_IN a_DT good_JJ breeding_NN centre_NN ._.
+124_CD ._.
+One_CD thousand_CD four_CD hundred_CD and_CC eighty-nine_JJ donkey_NN mares_NNS were_VBD covered_VBN against_IN 1,379_CD last_JJ year_NN ._.
+Average_JJ coverings_NNS per_IN stallion_NN employed_VBN ._.
+125_CD ._.
+The_DT average_JJ number_NN of_IN pony_NN mares_NNS covered_VBN per_IN stallion_NN employed_VBN was_VBD 60.64_CD against_IN 63.31_CD last_JJ year_NN ,_, and_CC of_IN donkey_JJ mares_NNS 57.26_CD against_IN 53.03_CD ._.
+126_CD ._.
+The_DT average_NN is_VBZ quite_RB high_JJ enough_RB and_CC is_VBZ excessive_JJ in_IN North_NNP Punjab_NNP where_WRB it_PRP is_VBZ 72.58_CD ._.
+Demand_NN for_IN donkey_JJ stallions_NNS ._.
+127_CD ._.
+The_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, North-Western_NNP Provinces_NNPS and_CC Oudh_NNP ,_, states:19_VBD 138_CD ._.
+The_DT relative_JJ average_JJ results_NNS of_IN the_DT previous_JJ year_NN 's_POS coverings_NNS per_IN stallion_NN employed_VBN was_VBD mules_NNS 13.13_CD donkeys_NNS 11.69_CD ._.
+These_DT percentages_VBZ show_VBP much_RB better_RBR working_VBG than_IN last_JJ year_NN ._.
+This_DT naturally_RB does_VBZ not_RB show_VB actual_JJ results_NNS as_IN over_IN three_CD thousand_NN mares_NNS could_MD not_RB be_VB traced_VBN ._.
+Mules_NNS purchased_VBN for_IN Mountain_NNP Batteries_NNP ._.
+139_CD ._.
+The_DT Army_NNP Remount_NNP Department_NNP (_( Table_NNP viii_NN )_) obtained_VBD 258_CD Ordnance_NNP and_CC 119_CD Baggage_NN mules_NNS ,_, making_VBG a_DT total_NN of_IN 377_CD ._.
+Of_IN this_DT number_NN ,_, 305_CD were_VBD purchased_VBN by_IN that_DT Department_NNP ,_, 59_CD by_IN Officers_NNS of_IN the_DT Civil_NNP Veterinary_NNP Department_NNP and_CC 13_CD by_IN Mountain_NNP Battery_NNP Officers_NNP ._.
+These_DT figures_NNS compare_VBP favorably_RB with_IN last_JJ year_NN when_WRB 290_CD were_VBD bought_VBN ._.
+140_CD ._.
+The_DT number_NN of_IN Ordnance_NNP mules_NNS obtained_VBN fell_VBD short_RB of_IN the_DT requirements_NNS by_IN 82_CD ,_, but_CC I_PRP am_VBP of_IN opinion_NN that_WDT had_VBD the_DT Army_NNP Remount_NNP Department_NNP been_VBN in_IN a_DT position_NN to_TO devote_VB more_JJR time_NN to_TO the_DT purchase_NN of_IN mules_NNS ,_, the_DT full_JJ number_NN would_MD have_VB been_VBN forthcoming_VBG ._.
+As_IN before_RB stated_VBN ,_, I_PRP am_VBP of_IN opinion_NN that_IN this_DT country_NN is_VBZ quite_RB able_JJ to_TO furnish_VB Ordnance_NNP mules_NNS to_TO meet_VB all_DT casualties_NNS during_IN the_DT year_NN and_CC that_IN foreign_JJ countries_NNS need_VBP only_RB be_VB indented_VBN on_IN in_IN case_NN of_IN new_JJ Batteries_NNS being_VBG raised_VBN ._.
+141_CD ._.
+One_CD thousand_CD two_CD hundred_CD and_CC fifty-six_JJ (_( 1,256_CD )_) mules_NNS were_VBD purchased_VBN for_IN Transport_NNP purposes_NNS against_IN 1,281_CD last_JJ year_NN ,_, the_DT difference_NN is_VBZ but_CC trifling_VBG ._.
+PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+III.23_NNP PART_NNP I-IMPERIAL_NNP REPORT_NNP ._.
+III-HORSE_JJ FAIRS_NNP AND_NNP SHOWS_NNP ._.
+Horse_NNP Fairs_NNP and_CC Shows_NNP ._.
+142_CD ._.
+During_IN the_DT year_NN under_IN review_NN the_DT terrible_JJ fodder_NN famine_NN which_WDT has_VBZ prevailed_VBN in_IN most_JJS parts_NNS of_IN India_NNP has_VBZ been_VBN responsible_JJ for_IN the_DT abandonment_NN of_IN no_DT less_JJR than_IN 11_CD Horse_NN Shows_NNP ._.
+These_DT were_VBD situated_VBN in_IN the_DT following_JJ Provinces:24_NNP 150_CD ._.
+This_DT was_VBD an_DT excellent_JJ Show_NN ._.
+Ninety-six_JJ remounts_NNS for_IN Native_NNP Cavalry_NNP regiments_NNS were_VBD purchased_VBN ._.
+Rolls_NNS showing_VBG the_DT average_JJ price_NN paid_VBN were_VBD submitted_VBN by_IN some_DT officers_NNS only25_VBP 156_CD ._.
+Two_CD hundred_CD and_CC fifty-one_JJ mules_NNS were_VBD purchased_VBN by_IN Native_NNP Cavalry_NNP and_CC Native_NNP States_NNPS ,_, as_IN follows:26_JJ 165_CD ._.
+Lahore_RB and_CC other_JJ dealers_NNS took_VBD away_RB at_IN least_JJS 100_CD from_IN this_DT fair_NN ._.
+Their_PRP$ attention_NN this_DT year_NN was_VBD entirely_RB devoted_VBN to_TO remounts_NNS as_IN they_PRP knew_VBD they_PRP would_MD command_VB a_DT ready_JJ sale_NN owing_VBG to_TO the_DT demand_NN caused_VBN by_IN the_DT transfer_NN of_IN horses_NNS to_TO South_NNP Africa_NNP ,_, but_CC what_WP surprised_VBD me_PRP was_VBD the_DT high_JJ price_NN paid_VBN by_IN them_PRP ._.
+Rupees_NNS 400_CD was_VBD readily_RB given_VBN for_IN a_DT good_JJ remount_NN and_CC by_IN a_DT return_NN received_VBN from_IN the_DT Deputy_NNP Commissioner_NNP ,_, I_PRP find_VBP that_IN one_CD dealer_NN bought_VBD 31_CD at_IN an_DT average_JJ price_NN of_IN R270_NNP ._.
+166_CD ._.
+The_DT Army_NNP Remount_NNP Department_NNP only_RB obtained_VBD three_CD head_NN of_IN young_JJ stock_NN ._.
+On_IN this_DT point_NN the_DT Remount_NNP Agent_NNP states:27_VBD absence_NN of_IN some_DT of_IN the_DT best_JJS breeders_NNS with_IN regret_NN ,_, still_RB I_PRP can_MD safely_RB say_VB that_IN during_IN the_DT many_JJ years_NNS I_PRP have_VBP known_VBN this_DT Fair_NNP I_PRP have_VBP never_RB seen_VBN a_DT better_JJR collec-_JJ tion_NN of_IN mares_NNS and_CC young_JJ stock_NN ;_: the_DT latter_JJ especially_RB were_VBD noticeable_JJ for_IN their_PRP$ quality_NN ._.
+The_DT owner_NN of_IN a_DT filly_RB two_CD years_NNS of_IN age28_JJ General_NNP remarks_NNS on_IN Punjab_NNP Horse_NNP Shows_NNP abovemen-_NN tioned_VBD ._.
+187_CD ._.
+Thirteen_JJ mules_NNS were_VBD purchased:29_JJ It_PRP is_VBZ pleasing_VBG to_TO find_VB the_DT Australians_NNPS furnishing_VBG such_PDT a_DT large_JJ proportion_NN of_IN British_JJ Cavalry_NNP stock_NN ,_, as_IN it_PRP proves_VBZ that_IN they_PRP are_VBP giving_VBG bone_NN ._.
+195_CD ._.
+Remarking_VBG on_IN the_DT young_JJ stock_NN purchased_VBD ,_, Captain_NNP Turner_NNP states:30_VBZ ``_`` (_( b_NN )_) Objection_NN to_TO Government_NNP stallions.31_NN ._.
+215_CD ._.
+The_DT number_NN of_IN remounts_NNS purchased_VBN by_IN Native_NNP Cavalry_NNP ,_, even_RB though_IN the_DT number_NN of_IN Fairs_NNP decreased_VBD ,_, shows_VBZ a_DT great_JJ increase_NN except_IN in_IN the_DT North-Western_JJ Provinces_NNS ._.
+The_DT figures_NNS are_VBP given_VBN below_IN in_IN order_NN to_TO facilitate_VB comparison:32_NN that_IN the_DT results_NNS can_MD be_VB compared_VBN with_IN the_DT best_JJS managed_JJ districts_NNS in_IN British_JJ territory_NN ._.
+224_CD ._.
+Two_CD hundred_CD and_CC eighteen_JJ mares_NNS were_VBD covered_VBN by_IN horse_NN stallions_NNS against_IN 285_CD in_IN 1898-99_CD ,_, and_CC 351_CD by_IN donkeys_NNS against_IN 310_CD last_JJ year_NN ._.
+One_CD hundred_CD and_CC twelve_VB horses_NNS and_CC 83_CD mule_NN foals_NNS were_VBD dropped_VBN during_IN the_DT year_NN under_IN review_NN ._.
+225_CD ._.
+A_DT most_RBS successful_JJ Horse_NN Show_NNP is_VBZ held_VBN annually_RB in_IN this_DT State_NNP ._.
+Remark-_JJ ing_NN on_IN this_DT Show_NNP ,_, the_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, South_NNP Punjab_NNP ,_, states:33_VBD 21_CD remounts_NNS were_VBD obtained_VBN for_IN the_DT Alwar_NNP Imperial_NNP Service_NNP Lancers_NNP ._.
+231_CD ._.
+I_PRP have_VBP but_CC one_CD recommendation_NN to_TO make_VB with_IN reference_NN to_TO this_DT most_RBS excellently_RB managed_VBN stud_NN ,_, it_PRP is_VBZ that_IN more_JJR Rissala_NNP mares_NNS might_MD perhaps_RB have_VB been_VBN covered_VBN by_IN the_DT 9_CD donkeys_NNS ._.
+I_PRP note_VBP that_IN 178_CD mares_NNS belonging_VBG to_TO Rissalas_NNP were_VBD covered_VBN by_IN horse_NN stallions_NNS ,_, and_CC they_PRP are_VBP not_RB likely_JJ to_TO produce_VB stock_NN that_WDT will_MD prove_VB fit_NN for_IN remounts_NNS ._.
+Bharatpur_NNP ._.
+232_CD ._.
+The_DT coverings_NNS in_IN this_DT State_NNP have_VBP improved_VBN ._.
+One_CD hundred_CD and_CC fifty-five_JJ mares_NNS were_VBD covered_VBN by_IN horse_NN stallions_NNS and_CC 121_CD by_IN donkeys_NNS as_IN compared_VBN with_IN 88_CD and_CC 50_CD respectively_RB ,_, for_IN the_DT previous_JJ year_NN ._.
+233_CD ._.
+I_PRP am_VBP pleased_JJ to_TO find_VB that_DT mule-breeding_NN has_VBZ made_VBN a_DT start_NN in_IN this_DT State_NNP ,_, as_IN during_IN the_DT past_JJ year_NN 198_CD mules_NNS were_VBD purchased_VBN for_IN the_DT Imperial_NNP Service_NNP Transport_NNP Corps_NNP ,_, and_CC the_DT drain_NN from_IN our_PRP$ Fairs_NNS to_TO supply_VB these_DT is_VBZ great_JJ ._.
+Two_CD new_JJ donkeys_NNS were_VBD purchased_VBN ._.
+Jaipur_NNP ._.
+234_CD ._.
+This_DT State_NNP is_VBZ supplied_VBN with_IN four_CD Arab_NNP stallions_NNS which_WDT are_VBP kept_VBN at_IN Jaipur_NNP ,_, Sambhar_NNP ,_, Hindown_NNP and_CC Malpura_NNP :_: they_PRP have_VBP covered_VBN 80_CD mares_NNS between_IN them_PRP ,_, exactly_RB the_DT same_JJ number_NN covered_VBN last_JJ year_NN ._.
+The_DT stallion_NN kept_VBD at_IN Jaipur_NNP has_VBZ covered_VBN his_PRP$ full_JJ number_NN ,_, the_DT falling_VBG off_RP being_VBG in_IN the_DT outlying_JJ districts_NNS ._.
+Owing_VBG to_TO the_DT great_JJ famine_NN existing_VBG in_IN this_DT part_NN of_IN the_DT country_NN this_DT was_VBD to_TO be_VB ex-_JJ pected_VBN ,_, but_CC when_WRB matters_NNS improve_VBP I_PRP hope_VBP to_TO see_VB better_JJR results_NNS ._.
+235_CD ._.
+The_DT stallions_NNS kept_VBD in_IN the_DT districts_NNS are_VBP in_IN charge_NN of_IN two_CD Veterinary_JJ Assistants_NNS and_CC it_PRP is_VBZ pleasing_VBG to_TO note_VB that_IN they_PRP treated_VBD 290_CD cases_NNS when_WRB on_IN tour_NN ._.
+This_DT is_VBZ a_DT small_JJ beginning_NN but_CC it_PRP is_VBZ nevertheless_JJ satisfactory_NN ._.
+BOMBAY_NNP PRESIDENCY_NNP ._.
+Kathiawar_NNP ._.
+236_CD ._.
+The_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, enters_VBZ fully_RB into_IN the_DT question_NN of_IN horse-breeding_NN in_IN Native_NNP States_NNPS and_CC as_IN bearing_NN on_IN the_DT question_NN of_IN the_DT value_NN of_IN the_DT indigenous_JJ horse_NN as_IN an_DT animal_NN capable_NN of_IN carrying_VBG the_DT weight_NN now_RB expected_VBN of_IN a_DT troop_NN horse_NN ,_, I_PRP deem_VBP it_PRP advisable_JJ to_TO give_VB his_PRP$ remarks_NNS in_IN extenso_NN ._.
+They_PRP also_RB go_VBP to_TO prove_VB what_WP I_PRP have_VBP urged_VBN as_IN a_DT system_NN worthy_NN of_IN adoption_NN in_IN other_JJ parts_NNS of_IN India_NNP ,_, viz._NN ,_, that_IN the_DT first_JJ crosses_NNS with_IN the_DT indigenous_JJ mare_NN should_MD be_VB the_DT Arab_NNP after_IN which_WDT that_WDT Thoroughbred_VBD blood_NN can_MD be_VB infused_VBN :_: 34_CD single_JJ exception_NN ,_, been_VBN bought_VBN from_IN private_JJ studs_NNS ,_, the_DT property_NN of_IN Chiefs_NNP ,_, and_CC are_VBP the_DT produce_NN of_IN Arabs_NNP and_CC Thoroughbreds_NNP ._.
+Not_RB a_DT single_JJ pure_NN Kathi_NNP has_VBZ been_VBN bought_VBN nor_CC has_VBZ a_DT single_JJ head_NN of_IN young_JJ stock_NN been_VBN purchased_VBN from_IN a_DT Garasia_NNP ._.
+``_`` These_DT simple_JJ facts_NNS are_VBP difficult_JJ to_TO explain_VB but_CC there_EX can_MD be_VB no_DT doubt_NN that_WDT Kathiawar_NNP as_IN a_DT horse-breeding_JJ country_NN has_VBZ completely_RB changed_VBN within_IN the_DT last_JJ 60_CD years_NNS and_CC the_DT same_JJ causes_NNS have_VBP affected_VBN this_DT country_NN and_CC brought_VBD about_IN this_DT change_NN as_IN they_PRP have_VBP in_IN other_JJ parts_NNS of_IN India_NNP ._.
+``_`` This_DT Department_NNP ,_, since_IN 1894_CD ,_, has_VBZ purchased_VBN 4_CD Arab_NNP ,_, 1_CD Thoroughbred_NNP and_CC 3_CD donkey_JJ stallions_NNS for_IN this_DT Province_NN and_CC completed_VBD an_DT arrangement_NN with_IN the_DT then_RB following_VBG studs_NN to_TO maintain_VB a_DT Government_NNP stallion_NN free_NN of_IN cost_NN with_IN certain_JJ restrictions_NNS as_IN to_TO their_PRP$ produce_NN ._.
+``_`` Mule-breeding_NN is_VBZ making_VBG steady_JJ progress_NN and_CC I_PRP trust_VBP when_WRB more_RBR donkey_JJ stallions_NNS are_VBP procurable_JJ to_TO supply_VB each_DT stud_NN with_IN one_CD if_IN not_RB two_CD stallions_NNS ._. ''_''
+``_`` It_PRP is_VBZ very_RB satisfactory_JJ to_TO notice_VB that_IN the_DT system_NN established_VBD amongst_IN these_DT studs_NNS six_CD years_NNS ago_RB has_VBZ been_VBN successful_JJ and_CC that_IN they_PRP can_MD now_RB be_VB depended_VBN upon_IN to_TO produce_VB a_DT certain_JJ number_NN of_IN young_JJ stock_NN annually_RB that_DT are_VBP fully_RB up_RB to_TO our_PRP$ requirements_NNS ,_, and_CC this_DT without_IN any_DT outlay_NN or_CC risk_NN on_IN the_DT part_NN of_IN Government_NNP except_IN the_DT initial_JJ cost_NN of_IN the_DT three_CD stallions_NNS lent_VBP to_TO Rajkot_NNP ,_, Wankaner_NNP and_CC Palitana_NNP ._.
+``_`` Kathiawar_NNP has_VBZ suffered_VBN very_RB severely_RB from_IN famine_NN this_DT year_NN and_CC it_PRP will_MD take_VB many_JJ seasons_NNS of_IN prosperity_NN to_TO replace_VB the_DT stock_NN which_WDT have_VBP either_DT died_VBD or_CC been_VBN sold_VBN ._. ''_''
+CENTRAL_NNP INDIA_NNP ._.
+237_CD ._.
+Three_CD stallions_NNS purchased_VBN by_IN this_DT Department_NNP are_VBP at_IN work_NN PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+IV.37_NNP PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+IV.38_NNP ``_`` The_DT following_JJ machines_NNS taken_VBN over_RP as_IN unserviceable_JJ were_VBD put_VBN into_IN working_VBG order_NN :39_NNP Bhir_NNP has_VBZ been_VBN taken_VBN over_RP by_IN the_DT District_NNP Board_NNP of_IN Hissar_NNP for_IN the_DT use_NN of_IN cattle_JJ owners_NNS of_IN the_DT Hissar_NNP City_NNP ._.
+This_DT portion_NN has_VBZ been_VBN wired_VBN off_RP from_IN the_DT Government_NNP Bhir_NNP ._.
+Disease_NNP ._.
+``_`` During_IN the_DT year_NN ,_, I_PRP regret_VBP to_TO say_VB Foot_NNP and_CC Mouth_NNP desease_NN ,_, Black_NNP Quarter_NNP and_CC Rinderpest_NNP broke_VBD out_RP among_IN the_DT Farm_NNP cattle_NNS ._.
+Although_IN Foot_NNP and_CC Mouth_NNP disease_NN attacked_VBD nearly_RB all_PDT the_DT animals_NNS ,_, they_PRP were_VBD only_RB incapaci-_JJ tated_VBN for_IN a_DT short_JJ time_NN and_CC no_DT deaths_NNS occurred_VBD ._.
+``_`` Black_NNP Quarter_NNP broke_VBD out_RP among_IN the_DT young_JJ male_NN stook_NN at_IN the_DT Chowni_NNP Farm_NNP ._.
+After_IN careful_JJ enquiries_VBZ the_DT disease_NN was_VBD located_VBN in_IN a_DT Jhowl_NNP near_IN the_DT Farm_NN stables_NNS ._.
+Precautions_NNS were_VBD taken_VBN to_TO keep_VB the_DT cattle_NNS from_IN grazing_VBG in_IN the_DT neighbourhood_NN and_CC the_DT spread_NN of_IN the_DT disease_NN was_VBD stopped_VBN after_IN 6_CD deaths_NNS only_RB had_VBD taken_VBN place_NN ._.
+``_`` With_IN Rinderpest_NNP ,_, however_RB ,_, we_PRP were_VBD not_RB so_RB fortunate_JJ ._.
+The_DT disease_NN occurred_VBD at_IN Hansi_NNP among_IN the_DT young_JJ female_NN produce_NN and_CC had_VBD been_VBN probably_RB introduced_VBN by_IN stray_JJ cattle_NNS from_IN the_DT neighbouring_NN villages_NNS where_WRB the_DT disease_NN had_VBD been_VBN very_RB virulent_JJ for_IN some_DT time_NN previously_RB ._.
+Every_DT precaution_NN had_VBD been_VBN taken_VBN to_TO prevent_VB the_DT disease_NN from_IN spreading_VBG but_CC without_IN effect_NN ._.
+The_DT disease_NN persisted_VBD for_IN a_DT considerable_JJ time_NN and_CC only_RB died_VBD out_RP after_IN claiming_VBG many_JJ hundred_CD victims_NNS ._.
+``_`` Veterinary_JJ Major_NNP Hagger_NNP ,_, Assistant_NNP to_TO the_DT Inspector_NNP General_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, carried_VBD out_RP a_DT series_NN of_IN inoculations_NNS with_IN Riderpest_NNP serum._NN ``_``
+While_IN these_DT inoculations_NNS at_IN Hansi_NNP were_VBD being_VBG carried_VBN out_RP ,_, four_CD young_JJ females_NNS escaped_VBD and_CC found_VBD their_PRP$ way_NN back_RB to_TO their_PRP$ old_JJ lines_NNS at_IN Chowni_NNP whither_VBP the_DT males_NNS had_VBD been_VBN removed_VBN ._.
+A_DT few_JJ days_NNS afterwards_RB Rinderpest_NNP was_VBD discovered_VBN among_IN the_DT animals_NNS at_IN Chowni_NNP ._.
+Veterinary_JJ Major_NNP Hagger_NNP continued_VBD his_PRP$ inoculations_NNS at_IN Chowni_NNP also_RB with_IN much_RB more_RBR favourable_JJ results_NNS ._.
+It_PRP is_VBZ estimated_VBN that_IN the_DT loss_NN amounted_VBD to_TO about_IN 100_CD bead_NN of_IN stock_NN ._.
+This_DT statement_NN may_MD not_RB be_VB considered_VBN quite_RB definite_JJ ,_, but_CC it_PRP must_MD be_VB explained_VBN that_IN while_IN many_JJ of_IN the_DT post-mortem_JJ examinations_NNS proved_VBD conclusively_RB that_IN the_DT animals_NNS had_VBD died_VBN of_IN Rinderpest_NNP ,_, still_RB there_EX were_VBD many_JJ in_IN which_WDT appear-_JJ ances_NNS were_VBD not_RB clearly_RB proved_VBN ._.
+``_`` It_PRP was_VBD feared_VBN that_IN the_DT disease_NN might_MD spread_VB to_TO the_DT Home_NNP Farm_NNP and_CC Stables_NNP where_WRB all_PDT the_DT most_RBS valuable_JJ stock_NN were_VBD kept_JJ ,_, but_CC by_IN using_VBG extraordinary_JJ precautions_NNS ,_, the_DT scourge_NN was_VBD warded_VBN off_RP and_CC no_DT cases_NNS occurred_VBD among_IN the_DT breeding_NN cows_NNS or_CC herd_NN bulls_NNS ._.
+Cultivation_NN ._.
+``_`` Much_JJ importance_NN has_VBZ been_VBN attached_VBN to_TO this_DT branch_NN ._.
+As_IN much_JJ laud_NN as_IN possible_JJ has_VBZ been_VBN taken_VBN up_RP and_CC worked_VBN by_IN the_DT Farm_NN ._.
+``_`` Hitherto_VB it_PRP had_VBD been_VBN the_DT custom_NN only_RB to_TO cultivate_VB a_DT few_JJ hundred_CD bighas_NNS and_CC to_TO let_VB out_RP the_DT land_NN to_TO culti-_JJ vators_NNS partly_RB on_IN rent_NN and_CC partly_RB on_IN batai_NN ._.
+During_IN the_DT Rabi_NNP of_IN 1898-99_JJ ,_, 169_CD bighas_NN 18_CD biswansis_NN were_VBD cultivated_VBN by_IN the_DT Farm_NNP and_CC 1,291_CD bighas_NN by_IN cultivators_NNS :_: during_IN 1899-1900_NNS ,_, the_DT Farm_NNP cultivated_VBD for_IN the_DT Kharif_NNP 1,155_CD bighas_NN ,_, but_CC 284_CD bighas_NNS were_VBD lost_VBN on_IN account_NN of_IN the_DT drought_NN ,_, leaving_VBG an_DT affective_JJ balance_NN of_IN 871_CD bighas_NNS which_WDT came_VBD to_TO maturity_NN ._.
+For_IN the_DT Rabi_NNP of_IN 1899-1900_JJ ,_, the_DT Farm_NNP cultivation_NN was_VBD 1,026_CD bighas_NN and_CC 849_CD let_NN out_IN on_IN rental_JJ and_CC batai_NN ._.
+``_`` In_IN addition_NN to_TO the_DT increased_VBN cultivation_NN ,_, the_DT following_NN will_MD show_VB the_DT improvement_NN which_WDT has_VBZ been_VBN realised_VBN in_IN the_DT rent_NN revenue_NN :_: PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+V.41_NNP PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+V.PART_NNP I.45_NNP PART_NNP I46_NNP 362_CD ._.
+The_DT Principal_NNP ,_, Bombay_NNP Veterinary_NNP College_NNP ,_, shows_VBZ the_DT following_JJ as_IN the_DT number_NN of_IN importations_NNS during_IN the_DT year:47_NN 369_CD ._.
+During_IN the_DT year_NN under_IN review_NN the_DT Lieutenant-Governor_NNP was_VBD pleased_JJ to_TO apply_VB the_DT Glanders_NNP and_CC Farcy_NNP Act_NNP ,_, with_IN effect_NN from_IN 1st_CD January_NNP 1899_CD ,_, to_TO the_DT whole_NN of_IN the_DT territories_NNS of_IN the_DT North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+Rules_NNS under_IN the_DT Act_NNP were_VBD framed_VBN and_CC Inspectors_NNPS and_CC Veterinary_NNP Practitioners_NNPS were_VBD appointed_VBN ._.
+370_CD ._.
+By_IN Notification_NNP No_NNP ._.
+731-1-889_JJ C._NNP of_IN 1900_CD ,_, powers_NNS were_VBD conferred_VBN on_IN Veterinary_NNP Practitioners_NNPS to_TO enable_VB them_PRP to_TO test_VB any_DT suspected_JJ horse_NN with_IN Mallein_NNP ,_, and_CC as_IN being_VBG the_DT first_JJ Province_NNP in_IN which_WDT this_DT most_RBS useful_JJ measure_NN has_VBZ been_VBN introduced_VBN ,_, I_PRP deem_VBP it_PRP advisable_JJ to_TO give_VB the_DT rules_NNS in_IN extenso_NN :48_NN thirdly_RB ,_, by_IN lime-washing_NN in_IN the_DT proportion_NN of_IN one_CD maund_NN of_IN good_JJ fresh_JJ lime_NN to_TO 20_CD gallons_NNS of_IN water_NN ._.
+``_`` (_( d_NN )_) It_PRP is_VBZ useless_JJ to_TO apply_VB the_DT phenyle_JJ solution_NN or_CC lime-wash_NN until_IN after_IN thoroughly_RB cleansing_VBG ._.
+``_`` (_( e_NN )_) After_IN horse-boxes_NNS have_VBP been_VBN cleaned_VBN and_CC lime-washed_JJ ,_, the_DT lime-wash_NN should_MD be_VB allowed_VBN to_TO dry_VB ,_, and_CC should_MD then_RB be_VB carefully_RB brushed_VBN off_RB ,_, as_IN ,_, if_IN this_DT precaution_NN is_VBZ not_RB observed_VBN ,_, the_DT eyes_NNS and_CC nostrils_NNS of_IN animals_NNS subsequently_RB occupying_VBG the_DT vehicle_NN are_VBP liable_JJ to_TO suffer_VB ._.
+``_`` 3_CD ._.
+At_IN principal_JJ stations_NNS where_WRB a_DT train_NN halts_NNS for_IN any_DT time_NN ,_, station_NN masters_NNS should_MD see_VB that_IN horse-boxes_NNS on_IN the_DT train_NN containing_NN horses_NNS are_VBP cleaned_VBN out_RP through_IN the_DT trap_NN doors_NNS in_IN front_NN and_CC rear_NN before_IN an_DT engine_NN is_VBZ attached_VBN to_TO the_DT train_NN ,_, and_CC that_IN the_DT roof_NN tanks_NNS are_VBP supplied_VBN with_IN clean_JJ water_NN ._.
+``_`` 4_CD ._.
+On_IN application_NN to_TO the_DT station_NN master_NN of_IN any_DT station_NN ,_, Civil_NNP Veterinary_NNP Officers_NNP should_MD forthwith_VB be_VB allowed_VBN to_TO inspect_VB any_DT or_CC all_DT vehicles_NNS used_VBN for_IN the_DT conveyance_NN of_IN live-stock_NN which_WDT may_MD at_IN the_DT time_NN be_VB standing_VBG at_IN their_PRP$ station_NN ._.
+``_`` 5_CD ._.
+The_DT administrations_NNS of_IN the_DT several_JJ railways_NNS should_MD forward_VB to_TO the_DT Inspector-General_NNP of_IN the_DT Civil_NNP Veterinary_NNP Department_NNP a_DT list_NN of_IN their_PRP$ stations_NNS at_IN which_WDT the_DT cleansing_NN of_IN vehicles_NNS ,_, under_IN these_DT rules_NNS ,_, will_MD ordi-_VB narily_RB be_VB carried_VBN out_RP ._.
+375_CD ._.
+I_PRP have_VBP deemed_VBN it_PRP advisable_JJ to_TO reproduce_VB these_DT rules_NNS in_IN the_DT Annual_NNP Administration_NNP Report_NNP of_IN this_DT Department_NNP in_IN order_NN that_IN it_PRP may_MD be_VB widely_RB known_VBN that_IN cleanliness_NN of_IN boxes_NNS may_MD now_RB be_VB expected_VBN ,_, and_CC I_PRP think_VBP that_IN if_IN Remount_NNP Officers_NNP would_MD only_RB see_VB that_IN these_DT rules_NNS are_VBP strictly_RB adhered_VBN to_TO before_IN they_PRP place_VBP their_PRP$ horses_NNS in_IN the_DT trucks_NNS provided_VBN by_IN the_DT various_JJ Railway_NNP Admin-_NNP istrations_NNS ,_, many_JJ cases_NNS of_IN contagious_JJ disease_NN might_MD be_VB avoided_VBN ._.
+376_CD ._.
+It_PRP will_MD be_VB noticed_VBN that_IN by_IN rule_NN 4_CD the_DT inspection_NN of_IN these_DT vehicles_NNS has_VBZ been_VBN placed_VBN in_IN the_DT hands_NNS of_IN the_DT officers_NNS of_IN this_DT Department_NNP ,_, and_CC already_RB ,_, during_IN the_DT past_JJ quarter_NN ,_, inspections_NNS have_VBP been_VBN held_VBN on_IN the_DT following_JJ Railways_NNS :_: PART_NNP I.51_NNP PART_NNP I.52_NNP Rawalpindi_NNP ,_, to_TO institute_VB such_JJ measures_NNS as_IN were_VBD likely_JJ to_TO eradicate_VB the_DT disease_NN and_CC to_TO prevent_VB its_PRP$ extension_NN to_TO British_JJ territory_NN until_IN it_PRP abated_VBD ._.
+I_PRP then_RB returned_VBD to_TO Simla_NNP to_TO attend_VB the_DT Railway_NNP Conference_NNP at_IN which_WDT the_DT method_NN of_IN cleansing_VBG horse-boxes_NNS and_CC cattle_NNS trucks_NNS was_VBD discussed_VBN ._.
+The_DT advisability_NN of_IN delegating_VBG the_DT inspection_NN to_TO officers_NNS of_IN this_DT Department_NNP was_VBD also_RB brought_VBN before_IN the_DT Con-_JJ ference_NN ._.
+Decisions_NNS on_IN both_DT these_DT points_NNS were_VBD arrived_VBN at_IN ,_, and_CC I_PRP feel_VBP that_IN the_DT result_NN must_MD tend_VB to_TO the_DT diminution_NN of_IN contagious_JJ diseases_NNS in_IN India_NNP ._.
+384_CD ._.
+On_IN 20th_CD September_NNP I_PRP proceeded_VBD to_TO Quetta_NNP and_CC attended_VBD the_DT Horse_NNP Show_NNP ._.
+I_PRP also_RB inspected_VBD the_DT arrangements_NNS which_WDT had_VBD been_VBN made_VBN for_IN the_DT preven-_JJ tion_NN of_IN horses_NNS affected_VBN with_IN glanders_NNS and_CC farcy_NN leaving_VBG the_DT Show_NN :_: these_DT being_VBG necessary_JJ owing_NN to_TO the_DT prevalence_NN of_IN glanders_NNS at_IN Quetta_NNP ._.
+I_PRP discussed_VBD the_DT question_NN of_IN the_DT Northern_NNP Horse_NNP Trade_NNP with_IN the_DT Agent_NNP to_TO the_DT Governor-General_NNP ._.
+385_CD ._.
+I_PRP visited_VBD the_DT Bahawalpore_NNP State_NNP and_CC inspected_VBD the_DT Stud_NNP and_CC en_RB route_NN to_TO Hissar_NNP I_PRP inspected_VBD the_DT dispensary_NN at_IN Ferozepore_NNP ._.
+At_IN Hissar_NNP ,_, I_PRP went_VBD very_RB carefully_RB into_IN the_DT question_NN of_IN fodder_NN which_WDT owing_VBG to_TO the_DT drought_NN had_VBD become_VBN one_CD of_IN much_JJ importance_NN ._.
+I_PRP came_VBD to_TO the_DT conclusion_NN that_WDT with_IN the_DT amount_NN of_IN cultivation_NN which_WDT had_VBD been_VBN undertaken_VBN we_PRP would_MD be_VB able_JJ to_TO maintain_VB the_DT cattle_NNS until_IN the_DT monsoon_NN of_IN 1900_CD ._.
+386_CD ._.
+I_PRP then_RB visited_VBD the_DT Alwar_NNP State_NNP and_CC inspected_VBD the_DT Stud_NNP and_CC paddocks_NNS ._.
+I_PRP was_VBD able_JJ then_RB to_TO draw_VB the_DT attention_NN of_IN the_DT Political_NNP Agent_NNP to_TO the_DT fact_NN that_IN mule-breeding_NN had_VBD not_RB extended_VBN as_RB much_JJ as_IN it_PRP might_MD ._.
+387_CD ._.
+I_PRP then_RB proceeded_VBD to_TO Ajmer_NNP and_CC inspected_VBD the_DT Veterinary_NNP School_NNP ._.
+My_PRP$ visit_NN enabled_VBD me_PRP to_TO lay_VB before_IN the_DT Agent_NNP to_TO the_DT Governor-General_NNP in_IN Rajputana_NNP certain_JJ points_NNS connected_VBN with_IN the_DT financial_JJ position_NN of_IN this_DT Institution_NNP ._.
+388_CD ._.
+At_IN Kapurthala_NNP ,_, which_WDT State_NNP I_PRP next_RB visited_VBD ,_, I_PRP held_VBD an_DT inspection_NN of_IN mares_NNS and_CC young_JJ stock_NN which_WDT was_VBD most_RBS encouraging_JJ ._.
+I_PRP then_RB proceeded_VBD to_TO Rawalpindi_NNP to_TO inspect_VB the_DT stallions_NNS before_IN leaving_VBG for_IN the_DT districts_NNS ._.
+389_CD ._.
+I_PRP attended_VBD the_DT Horse_NNP Show_NNP at_IN Hansi_NNP and_CC the_DT Amritsar_NNP Horse_NNP Fair_NNP ._.
+I_PRP then_RB proceeded_VBD to_TO Bombay_NNP and_CC en_IN route_NN I_PRP visited_VBD Poona_NNP to_TO discuss_VB with_IN the_DT Director_NNP of_IN Land_NNP Records_NNP and_CC Agriculture_NNP the_DT subject_NN of_IN the_DT system_NN of_IN preventive_JJ inoculation_NN for_IN rinderpest_NN ;_: this_DT subject_NN was_VBD of_IN much_JJ importance_NN at_IN that_DT time_NN owing_VBG to_TO large_JJ numbers_NNS of_IN cattle_NNS being_VBG collected_VBN at_IN the_DT various_JJ Cattle_NNP Camps_NNP in_IN Guzerat_NNP ._.
+I_PRP then_RB visited_VBD Bombay_NNP and_CC interviewed_VBD the_DT various_JJ Arab_NNP dealers_NNS ,_, but_CC finding_VBG that_IN the_DT best_JJS horses_NNS had_VBD not_RB arrived_VBN ,_, I_PRP deferred_VBD my_PRP$ pur-_JJ chases_NNS for_IN a_DT week_NN ._.
+390_CD ._.
+I_PRP then_RB proceeded_VBD to_TO Madras_NNP ,_, at_IN the_DT direction_NN of_IN the_DT Government_NNP of_IN India_NNP ,_, to_TO confer_VB with_IN the_DT Commissioner_NNP of_IN Revenue_NNP Settlement_NNP and_CC Director_NNP of_IN the_DT Department_NNP of_IN Land_NNP Records_NNP and_CC Agriculture_NNP ;_: at_IN this_DT interview_NN the_DT following_JJ points_NNS were_VBD discussed_VBN :53_RB 392_CD ._.
+Early_RB in_IN January_NNP I_PRP attended_VBD the_DT following_JJ committees:54_NN destroying_VBG locusts_NNS ._.
+Subsequently_RB he_PRP visited_VBD the_DT Saharunpore_NNP and_CC Bijnor_NNP dis-_JJ tricts_NNS and_CC inoculated_JJ cattle_NNS ._.
+He_PRP also_RB visited_VBD the_DT Remount_NNP Depôts_NNP at_IN Kurnal_NNP and_CC Hapur_NNP to_TO investigate_VB outbreaks_NNS of_IN glanders_NNS and_CC lymphangitis_NN epizootica_NN ._.
+Assistant_JJ Bacte-_NNP riologist_NN ._.
+403_CD ._.
+This_DT officer_NN visited_VBD the_DT districts_NNS of_IN Bulandshahr_NNP and_CC Bareilly_NNP (_( North-_NNP Western_NNP Provinces_NNP )_) ._.
+He_PRP also_RB visited_VBD the_DT district_NN of_IN Simla_NNP (_( Punjab_NNP )_) ._.
+All_PDT these_DT visits_NNS were_VBD connected_VBN with_IN virulent_JJ outbreaks_NNS of_IN rinderpest_NN ._.
+Personnel_NNS of_IN the_DT Department_NNP ._.
+404_CD ._.
+During_IN the_DT year_NN under_IN review_NN certain_JJ changes_NNS have_VBP occurred_VBN in_IN the_DT appointments_NNS held_VBN by_IN the_DT Officers_NNS of_IN the_DT Department_NNP ,_, but_CC no_DT resignations_NNS or_CC appointments_NNS have_VBP been_VBN made_VBN ._.
+Appointments_NNS ,_, 1st_CD April_NNP 1899_CD ._.
+31st_CD March_NNP 1900_CD ._.
+Remarks_NNS ._.
+Inapector-General_JJ ,_, Civil_NNP Veter-_NNP inary_JJ Department_NNP ._.
+Veterinary_JJ Colonel_NNP A._NN E._NNP Queripel_NNP ._.
+Veterinary_JJ Colonel_NNP A._NN E._NNP Queripel_NNP ._.
+Assistant_NN to_TO Inspector-Gene-_NNP ral_NN ,_, Civil_NNP Veterinary_NNP De-_NNP partment_NN ._.
+Veterinary_NNP Lieutenant_NNP Holmes_NNP (_( officiating_VBG )_) ._.
+Veterinary_JJ Major_NNP Hagger_NNP ._.
+Appointed_VBN 7th_CD July_NNP 1899_CD ._.
+Imperial_JJ Bacteriologist_NNP ._.
+._.
+Captain_NN Rogers_NNP ,_, I._NNP M.S_NNP ._.
+(_( officiating_VBG )_) ._.
+Dr._NNP Lingard_NNP ._.
+._.
+Returned_VBN from_IN furlough_NN (_( m._JJ c_NN )_) ._.
+7th_CD January_NNP 1900_CD ._.
+Assistant_JJ Bacteriologist_NNP ._.
+Veterinary_NNP Lieutenant_NNP Walker_NNP ._.
+Veterinary_NNP Lieutenant_NNP Walker_NNP ._.
+Superintendent_NN ,_, Government_NNP Cattle_NNP Farm_NNP ,_, Hissar_NNP ._.
+Veterinary_JJ Major_NNP Gunn_NNP ._.
+Veterinary_JJ Major_NNP Gunn_NNP ._.
+Superintendent_NN ,_, North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+Veterinary_JJ Major_NNP Binge_NNP ._.
+Veterinary_JJ Major_NNP Ringe_NNP ._.
+Ditto_NNP ,_, North_NNP Punjab_NNP ._.
+Veterinary_NNP Lieutenant_NNP Trydell_NNP ._.
+Veterinary_NNP Lieutenant_NNP Trydell_NNP ._.
+Ditto_NNP ,_, South_NNP Punjab_NNP ._.
+Veterinary_JJ Lieutenant_NNP Smith_NNP ._.
+Veterinary_JJ Lieutenant_NNP Smith_NNP ._.
+Ditto_NNP Baluchistan_NNP and_CC Sind_NNP ._.
+Veterinary_JJ Captain_NNP Maxwell_NNP ._.
+Veterinary_JJ Captain_NNP Maxwell_NNP ._.
+Principal_NNP ,_, Lahore_NNP Veterinary_NNP College_NNP ._.
+Veterinary_JJ Captain_NNP Joslen_NNP (_( officiating_VBG )_) ._.
+Veterinary_JJ Captain_NNP Pease_NNP ._.
+Returned_VBN from_IN furlough_NN ,_, 2nd_CD January_NNP 1900_CD ._.
+Professor_NNP ,_, Ditto_NNP ._.
+._.
+Veterinary_NNP Licutenant_NNP Dawson_NNP ._.
+Veterinary_NNP Lieutenant_NNP Dawson_NNP ._.
+Principal_NNP ,_, Bombay_NNP Veterinary_NNP College_NNP ._.
+Veterinary_JJ Major_NNP Brodie_NNP Mills_NNP ._.
+Veterinary_JJ Major_NNP Brodie_NNP Mills_NNP ._.
+Assistant_NN Principal_NNP ,_, Veterinary_NNP College_NNP ._.
+Veterinary_NNP Lieutenant_NNP Farmer_NNP (_( officiating_VBG )_) ._.
+Veterinary_NNP Lieutenant_NNP Baldrey_NNP ._.
+Reverted_VBN to_TO substantive_VB appointment_NN ,_, 8th_CD November_NNP 1899_CD ._.
+Superintendent_NNP ,_, C._NNP V._NNP D._NNP ,_, Rnj-_NNP putana_NN ._.
+Veterinary_JJ Major_NNP Hagger_NNP ,_, Veterinary_NNP Captain_NNP Joslen_NNP ._.
+Appointed_VBN 8th_CD November_NNP 1899_CD ,_, Ditto_NNP Bengal_NNP ._.
+._.
+Veterinary_JJ Major_NNP Raymond_NNP ._.
+Veterinary_JJ Major_NNP Raymond_NNP ._.
+Ditto_NNP Bombay_NNP ._.
+._.
+Veterinary_NNP Lieutenant_NNP Baldrey_NNP ._.
+Veterinary_JJ Major_NNP Morgan_NNP ._.
+Returned_VBN from_IN furlough_NN ,_, 7th_CD November_NNP 1899_CD ._.
+Ditto_NNP Madras_NNP ._.
+._.
+Vacaut_NNP ._.
+._.
+._.
+Veterinary_NNP Lieutenant_NNP Holmes_NNP ._.
+Appointed_VBN 10th_CD February_NNP 1899_CD ._.
+Ditto_NNP Burma_NNP ._.
+._.
+Veterinary_JJ Captaiu_NNP Evans_NNP ._.
+Veterinary_JJ Captain_NNP Evans_NNP ._.
+1st_CD Furlough_NNP officer_NN ._.
+._.
+Veterinary_NNP Lieutenant_NNP Farmer_NNP ._.
+Veterinary_NNP Lieutenant_NNP Farmer_NNP ._.
+Posted_VBN to_TO Hissar_NNP to_TO learn_VB work_NN of_IN Government_NNP Cattle_NNP Farm_NNP ._.
+2nd_CD Furlough_NNP officer_NN ._.
+._.
+Veterinary_JJ Lieutenant_NNP Smith_NNP ._.
+Vacant_NNP ._.
+No_DT changes_NNS have_VBP occurred_VBN in_IN the_DT horse-breeding_JJ circles_NNS ._.
+405_CD ._.
+I_PRP last_JJ year_NN noted_VBD that_IN this_DT Department_NNP was_VBD undermanned_VBN ._.
+During_IN the_DT year_NN under_IN review_NN the_DT Right_NNP Honourable_NNP the_DT Secretary_NNP of_IN State_NNP for_IN India_NNP has_VBZ been_VBN pleased_VBN to_TO sanction_VB an_DT increase_NN of_IN three_CD officers_NNS ,_, viz_NN ._.
+:_: 55_CD When_WRB these_DT officers_NNS are_VBP appointed_VBN ,_, this_DT Department_NNP will_MD be_VB enabled_VBN to_TO do_VB much_RB for_IN the_DT preservation_NN of_IN cattle_NNS than_IN it_PRP has_VBZ hitherto_VBN done_VBN ._.
+406_CD ._.
+The_DT question_NN of_IN the_DT appointment_NN of_IN an_DT officer_NN for_IN Kashmir_NNP is_VBZ still_RB in_IN abeyance_NN owing_NN to_TO the_DT recruitment_NN question_NN not_RB having_VBG been_VBN settled_VBN ._.
+In_IN the_DT meanwhile_NN ,_, Mr._NNP Clemence_NNP has_VBZ been_VBN appointed_VBN Veterinary_NNP Inspector_NNP ,_, working_VBG under_IN the_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, North_NNP Punjab_NNP ,_, to_TO guard_VB against_IN the_DT introduction_NN of_IN contagious_JJ diseases_NNS into_IN India_NNP ._.
+407_CD ._.
+There_EX remains_VBZ to_TO be_VB still_RB considered_VBN the_DT advisability_NN of_IN appointing_VBG an_DT officer_NN to_TO each_DT of_IN the_DT following_JJ Provinces_NNPS whose_WP$ duties_NNS will_MD be_VB those_DT solely_RB connected_VBN with_IN cattle_NNS :_: GOVERNMENT_NNP OF_IN INDIA_NNP ._.
+ANNUAL_NNP ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP IN_NNP INDIA_NNP FOR_NNP THE_NNP OFFICIAL_NNP YEAR_NNP 1899-1900_CD ._.
+PART_NN II.59_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP ANNUAL_NNP ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP IN_NNP INDIA_NNP FOR_NNP THE_NNP OFFICIAL_NNP YEAR_NNP 1899-1900_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP PART_NNP II.60_NNP where_WRB I_PRP think_VBP a_DT pony_NN would_MD be_VB useful_JJ ._.
+Hazara_NNP district_NN ,_, I_PRP am_VBP glad_JJ to_TO be_VB able_JJ to_TO record_VB ,_, has_VBZ done_VBN very_RB well_RB with_IN the_DT one_NN they_PRP purchased_VBD during_IN the_DT year_NN under_IN report_NN ,_, and_CC that_IN the_DT Imperial_NNP horse_NN lent_NN to_TO them_PRP to_TO serve_VB un-_JJ branded_VBN mares_NNS have_VBP covered_VBN no_DT less_JJR than_IN 61_CD and_CC 62_CD mares_NNS ,_, respectively_RB ._.
+This_DT could_MD not_RB be_VB more_RBR encouraging_JJ ._.
+``_`` The_DT good_JJ the_DT District_NNP Board_NNP pony_NN does_VBZ can_MD not_RB be_VB overestimated_VBN ,_, as_IN he_PRP is_VBZ ,_, so_RB to_TO speak_VB ,_, the_DT first_JJ stepping_VBG stone_NN towards_IN the_DT improvement_NN and_CC keepiug_VB up_IN of_IN stock_NN ._.
+His_PRP$ mare_NN progeny_NN is_VBZ frequently_RB branded_VBN ,_, and_CC the_DT smaller_JJR is_VBZ often_RB put_VBN to_TO a_DT Jack_NNP the_DT result_NN of_IN which_WDT is_VBZ the_DT production_NN of_IN a_DT well_NN bred_VBN mule_NN ._.
+Another_DT point_NN in_IN their_PRP$ favour_NN is_VBZ ,_, they_PRP produce_VBP an_DT animal_NN which_WDT does_VBZ not_RB cost_VB the_DT poorer_NN breeder_NN much_JJ to_TO feed_VB ._. ''_''
+420_CD ._.
+The_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, South_NNP Punjab_NNP ,_, states_NNS :_: PART_NNP II.63_NNP PART_NNP II.PART_NNP II67_NNP PART_NNP II68_NNP Whenever_NNP reports_NNS of_IN serious_JJ cattle_NNS disease_NN reach_VB me_PRP ,_, an_DT Imperial_NNP Salutri_NNP is_VBZ sent_VBN to_TO investigate_VB and_CC report_VB ,_, and_CC necessary_JJ precautions_NNS are_VBP carried_VBN out_RP ''_'' ._.
+Bengal_NNP ._.
+440_CD ._.
+The_DT large_JJ number_NN of_IN 215,891_CD cases_NNS of_IN disease_NN were_VBD reported_VBN in_IN this_DT Province_NNP ,_, of_IN which_WDT 69,021_CD died_VBD ,_, giving_VBG a_DT percentage_NN of_IN 31.67_CD ._.
+By_IN far_RB the_DT greatest_JJS number_NN of_IN cases_NNS were_VBD those_DT of_IN rinderpest_JJS ,_, of_IN which_WDT there_EX were_VBD 60,044_CD ._.
+The_DT death_NN rate_NN from_IN this_DT disease_NN in_IN 46_CD districts_NNS averaged_VBD 49.06_CD per_IN cent_NN ._.
+:_: this_DT is_VBZ of_IN interest_NN ,_, showing_VBG as_IN it_PRP does_VBZ the_DT average_JJ mortality_NN amongst_NN plains_VBZ cattle_NNS in_IN this_DT disease_NN ._.
+441_CD ._.
+The_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, makes_VBZ the_DT following_JJ report_NN on_IN the_DT subject_NN of_IN the_DT method_NN of_IN reporting_VBG cattle_JJ disease_NN in_IN Bengal_NNP :69_NNP 448_CD ._.
+Charbon_NNP Symptomatique_NNP was_VBD reported_VBN from_IN five_CD districts_NNS ._.
+The_DT total_JJ number_NN attacked_VBD amounted_VBN to_TO 158_CD ,_, of_IN which_WDT 93_CD per_IN cent_NN ._.
+proved_JJ fatal_NN ._.
+449_CD ._.
+As_IN bearing_NN on_IN the_DT excessive_JJ fodder_NN famine_NN which_WDT has_VBZ existed_VBN in_IN the_DT Deccan_NNP and_CC Guzerat_NNP and_CC as_IN showing_VBG the_DT mortality_NN which_WDT has_VBZ arisen_VBN therefrom_IN ,_, I_PRP deem_VBP it_PRP advisable_JJ to_TO give_VB ,_, in_IN extenso_NN ,_, certain_JJ extracts_NNS from_IN Veterinary_NNP Major_NNP Morgan_NNP 's_POS able_JJ report_NN ._.
+Remarking_VBG on_IN the_DT mortality_NN arising_VBG from_IN famine_NN ,_, he_PRP states:70_VBD disease_NN would_MD most_RBS probably_RB have_VBP spread_VBN rapidly_RB and_CC the_DT mortality_NN would_MD have_VB been_VBN great_JJ ._.
+The_DT disease_NN was_VBD of_IN the_DT most_RBS virulent_JJ type_NN as_IN the_DT majority_NN of_IN deaths_NNS occurred_VBD within_IN five_CD days_NNS ._.
+Our_PRP$ unsuccessful_JJ efforts_NNS to_TO reproduce_VB the_DT disease_NN ,_, the_DT small_JJ number_NN actually_RB attacked_VBN in_IN proportion_NN to_TO the_DT number_NN unavoidably_RB exposed_VBD to_TO contagion_NN can_MD only_RB be_VB accounted_VBN for_IN in_IN the_DT two_CD following_VBG ways_NNS ._.
+That_IN the_DT great_JJ heat_NN and_CC desiccating_VBG effects_NNS of_IN the_DT sun_NN are_VBP antagonistic_JJ to_TO the_DT disease_NN or_CC that_IN a_DT very_RB large_JJ percentage_NN of_IN the_DT Guzerat_NNP cattle_NNS are_VBP immune_JJ ._.
+The_DT great_JJ mortality_NN from_IN debility_NN (_( famine_NN )_) in_IN Nos_NNP ._.
+2_CD and_CC 6_CD Camps_NNP was_VBD due_JJ to_TO the_DT fact_NN that_IN many_JJ animals_NNS were_VBD admitted_VBN in_IN the_DT beginning_NN that_WDT should_MD have_VB been_VBN rejected_VBN ._.
+It_PRP is_VBZ well_RB known_VBN that_IN cattle_NNS starved_VBD to_TO a_DT certain_JJ point_NN never_RB recover_RB ._.
+When_WRB in_IN this_DT state_NN ,_, even_RB if_IN placed_VBN under_IN the_DT most_RBS favourable_JJ conditions_NNS ,_, they_PRP linger_VBP on_IN for_IN weeks_NNS and_CC eventually_RB die_VB ._.
+Mr._NNP Mollison_NNP and_CC I_PRP endeavoured_VBD to_TO some_DT extent_NN to_TO rectify_VB this_DT and_CC sent_VBD many_JJ animals_NNS that_WDT had_VBD already_RB been_VBN accepted_VBN ,_, to_TO the_DT Pinjrapol_NNP ._.
+Should_MD the_DT misfortune_NN ever_RB arise_RB again_RB to_TO form_VB similar_JJ camps_NNS ,_, no_DT efforts_NNS should_MD be_VB spared_VBN to_TO procure_VB men_NNS with_IN sufficient_JJ knowledge_NN of_IN famine_JJ cattle_NNS to_TO be_VB able_JJ to_TO tell_VB at_IN a_DT glance_NN whether_IN animals_NNS ought_MD to_TO be_VB accepted_VBN or_CC rejected_VBN ,_, as_IN I_PRP feel_VBP sure_JJ that_IN on_IN this_DT first_JJ careful_JJ selection_NN the_DT success_NN or_CC otherwise_NN of_IN a_DT famine_JJ cattle_NN camp_NN mainly_RB depends_VBZ ._.
+Those_DT camps_NNS ,_, where_WRB animals_NNS were_VBD at_IN first_JJ carefully_RB selected_VBN ,_, have_VBP shown_VBN a_DT very_RB slight_JJ mortality_NN and_CC scarcely_RB above_IN what_WP was_VBD to_TO be_VB expected_VBN under_IN normal_JJ conditions_NNS ;_: but_CC those_DT on_IN the_DT contrary_JJ where_WRB all_DT animals_NNS were_VBD taken_VBN regardless_RB of_IN condition_NN ,_, show_VBP a_DT very_RB high_JJ mortality_NN ,_, entirely_RB due_JJ to_TO the_DT above_NN cause_NN ._.
+Cattle_NNP sent_NN by_IN rail_NN to_TO forest_VB lands.71_NN show_NN that_IN prompt_JJ reports_NNS of_IN outbreaks_NNS ,_, segregation_NN of_IN the_DT sick_NN ,_, and_CC general_JJ careful_JJ supervision_NN has_VBZ yielded_VBN excellent_JJ results_NNS ._.
+Not_RB only_RB has_VBZ the_DT extension_NN of_IN disease_NN been_VBN checked_VBN ,_, but_CC in_IN many_JJ instances_NNS it_PRP has_VBZ been_VBN stamped_VBN out_RP ._.
+A_DT great_JJ advance_NN has_VBZ also_RB been_VBN made_VBN in_IN setting_VBG apart_RP certain_JJ areas_NNS (_( on_IN which_WDT in_IN many_JJ places_NNS sheds_NNS have_VBP been_VBN erected_VBN )_) for_IN the_DT accommodation_NN of_IN animals_NNS suffering_VBG from_IN contagious_JJ disease_NN ._.
+Copies_NNS of_IN the_DT rules_NNS have_VBP been_VBN freely_RB distributed_VBN ,_, and_CC I_PRP would_MD recommend_VB that_IN this_DT means_VBZ of_IN acquainting_VBG the_DT villagers_NNS with_IN the_DT rules_NNS be_VB continued_VBN as_IN in_IN this_DT manner_NN only_RB can_MD the_DT people_NNS learn_VBP the_DT good_JJ intentions_NNS of_IN Government_NNP ._.
+Deputy_NN Commissioners_NNPS ,_, Sub-_NNP divisional_JJ Officers_NNP ,_, and_CC Township_NNP Officers_NNP have_VBP ,_, when_WRB on_IN tour_NN ,_, done_VBN everything_NN to_TO point_VB out_RP the_DT advantages_NNS of_IN segregation_NN ,_, etc._NN ,_, and_CC frequently_RB take_VBP the_DT Veterinary_NNP Assistants_NNPS with_IN them_PRP ._.
+Veterinary_JJ Assistants_NNS have_VBP received_VBN standing_VBG orders_NNS to_TO explain_VB to_TO the_DT headmen_NNS and_CC villagers_NNS the_DT benefits_NNS likely_JJ to_TO accrue_VB from_IN a_DT close_JJ observance_NN of_IN the_DT rules_NNS ._.
+``_`` Until_IN the_DT villagers_NNS on_IN their_PRP$ own_JJ initiative_JJ take_NN immediate_JJ precautions_NNS on_IN the_DT outbreak_NN of_IN disease_NN ,_, we_PRP must_MD be_VB prepared_VBN to_TO hear_VB of_IN losses_NNS of_IN cattle_NNS in_IN the_DT remoter_NN parts_NNS of_IN many_JJ districts_NNS and_CC on_IN distant_JJ grazing-_JJ grounds_NNS ,_, as_IN it_PRP is_VBZ only_RB during_IN the_DT open_JJ season_NN that_WDT rapid_JJ communication_NN is_VBZ possible_JJ ;_: consequently_RB reports_NNS of_IN outbreaks_NNS are_VBP frequently_RB not_RB received_VBN till_VBZ most_JJS of_IN the_DT mischief_NN is_VBZ done_VBN ,_, and_CC when_WRB the_DT Veterinary_NNP Assistants_NNPS and_CC others_NNS arrive_VBP at_IN the_DT scene_NN of_IN outbreak_NN they_PRP are_VBP too_RB late_JJ to_TO be_VB of_IN any_DT service_NN ._. ''_''
+453_CD ._.
+Cattle_NNP disease_NN and_CC mortality_NN does_VBZ not_RB appear_VB to_TO be_VB as_IN carefully_RB reported_VBN in_IN Upper_NNP as_IN in_IN Lower_NNP Burma_NNP ,_, but_CC from_IN various_JJ reports_NNS received_VBD there_EX can_MD be_VB no_DT doubt_NN that_IN cattle_JJ disease_NN was_VBD much_RB more_RBR prevalent_JJ than_IN during_IN the_DT preceding_JJ year_NN ._.
+At_IN the_DT same_JJ time_NN none_NN of_IN the_DT outbreaks_NNS assumed_VBD the_DT alarming_VBG proportion_NN they_PRP occasionally_RB do_VBP in_IN Lower_NNP Burma_NNP ._.
+454_CD ._.
+Reporting_VBG on_IN the_DT returns_NNS of_IN mortality_NN ,_, the_DT Superintendent_NNP states_NNS :72_VBP ``_`` The_DT dissemination_NN of_IN veterinary_JJ knowledge_NN among_IN the_DT people_NNS is_VBZ still_RB progressing_VBG very_RB slowly_RB ._.
+There_EX are_VBP now_RB 8_CD dispensaries_NNS open_VBP in_IN the_DT province_NN ,_, and_CC Veterinary_JJ Assistants_NNS make_VBP short_JJ tours_NNS in_IN the_DT interior_NN of_IN the_DT districts_NNS ;_: but_CC the_DT owners_NNS who_WP bring_VBP cattle_NNS for_IN treatment_NN are_VBP as_IN yet_RB few_JJ ,_, chiefly_JJ residents_NNS of_IN towns_NNS or_CC villages_NNS in_IN the_DT close_JJ vicinity_NN of_IN the_DT towns_NNS ._.
+Several_JJ thousand_CD copies_NNS of_IN leaflets_NNS by_IN Veterinary_NNP Lieutenant_NNP Trydell_NNP on_IN the_DT prevention_NN of_IN the_DT spread_NN of_IN contagious_JJ and_CC infectious_JJ diseases_NNS of_IN cattle_NNS ,_, and_CC by_IN Veterinary_NNP Captain_NNP Gunn_NNP on_IN the_DT treatment_NN of_IN the_DT four_CD more_JJR deadly_RB forms_NNS of_IN cattle_JJ diseases_NNS have_VBP been_VBN distributed_VBN among_IN the_DT people_NNS ,_, but_CC these_DT will_MD only_RB appeal_VB to_TO the_DT most_RBS educated_VBN among_IN the_DT agricultural_JJ classes_NNS ._.
+Yet_RB the_DT results_NNS are_VBP not_RB altogether_RB dis-_JJ couraging_NN ._.
+From_IN Chanda_NNP ,_, Bhandara_NNP ,_, Balaghat_NNP and_CC Chindwara_NNP come_VBP reports_NNS that_IN the_DT advantages_NNS of_IN segregation_NN are_VBP gradually_RB being_VBG recognized_VBN ,_, while_IN in_IN the_DT first-named_JJ district_NN it_PRP is_VBZ stated_VBN that_IN some_DT persons_NNS have_VBP tried_VBN the_DT treatment_NN indicated_VBD in_IN the_DT pamphlet_NN with_IN good_JJ results_NNS ._.
+Elsewhere_RB ,_, and_CC most_JJS notably_RB in_IN Chhattisgarh_NNP ,_, the_DT people_NNS cling_VBG to_TO their_PRP$ traditional_JJ methods_NNS with_IN hide-bound_JJ steadfastness_NN ._. ''_''
+460_CD ._.
+These_DT figures_NNS were_VBD not_RB inserted_VBN in_IN the_DT statistical_JJ table_NN (_( Table_NNP M_NNP )_) as_IN the_DT report_NN reached_VBD me_PRP after_IN mine_NN had_VBD gone_VBN to_TO press_VB ._.
+461_CD ._.
+The_DT Director_NNP of_IN Land_NNP Records_NNP and_CC Agriculture_NNP submits_VBZ a_DT most_RBS interest-_JJ ing_JJ report_NN on_IN cattle_JJ disease_NN and_CC the_DT results_NNS of_IN the_DT famine_NN which_WDT I_PRP would_MD have_VB liked_VBN to_TO have_VB inserted_VBN in_IN extenso_NN ,_, but_CC under_IN the_DT orders_NNS of_IN the_DT Government_NNP of_IN India_NNP ,_, bearing_VBG on_IN the_DT preparation_NN of_IN this_DT report_NN ,_, I_PRP shall_MD only_RB give_VB the_DT following_JJ précis:73_NN PREVENTIVE_NNP INOCULATION_NNP AGAINST_NNP RINDERPEST_NNP IN_NNP THE_NNP FIELD_NNP ._.
+466_CD ._.
+This_DT is_VBZ the_DT first_JJ occasion_NN on_IN which_WDT I_PRP am_VBP able_JJ to_TO report_VB that_IN this_DT Department_NNP has_VBZ been_VBN in_IN a_DT position_NN to_TO deal_VB with_IN the_DT various_JJ outbreaks_NNS of_IN rinderpest_NN ,_, and_CC I_PRP trust_VBP to_TO be_VB able_JJ to_TO note_VB its_PRP$ extension_NN in_IN future_JJ ._.
+467_CD ._.
+The_DT work_NN has_VBZ been_VBN entrusted_VBN to_TO the_DT Assistant_NNP to_TO the_DT Inspector-General_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, who_WP has_VBZ worked_VBN indefatigably_RB ._.
+He_PRP has_VBZ tried_VBN the_DT three_CD systems_NNS ,_, each_DT of_IN which_WDT have_VBP their_PRP$ advocates_NNS in_IN South_NNP Africa_NNP ,_, viz_NN ._.
+:74_RB 469_CD ._.
+The_DT above_NN will_MD show_VB that_IN the_DT three_CD systems_NNS are_VBP eminently_RB successful_JJ in_IN dealing_VBG with_IN outbreaks_NNS ,_, but_CC that_IN owing_VBG to_TO the_DT fact_NN that_IN immunity_NN is_VBZ not_RB acquired_VBN by_IN the_DT Bile_NNP methods_NNS until_IN 10_CD days_NNS after_IN inoculation_NN ,_, the_DT percentage_NN of_IN attacks_NNS is_VBZ greater_JJR during_IN that_DT period_NN than_IN it_PRP is_VBZ by_IN the_DT simultaneous_JJ method_NN ._.
+Bombay_NNP ._.
+470_CD ._.
+Preventive_JJ inoculation_NN has_VBZ been_VBN carried_VBN in_IN certain_JJ of_IN the_DT cattle_NNS camps_NNS in_IN Bombay_NNP ._.
+Two_CD hundred_CD and_CC eighteen_JJ head_NN of_IN cattle_NNS were_VBD inoculated_VBN by_IN the_DT simultaneous_JJ method_NN by_IN Veterinary_NNP Major_NNP Hagger_NNP ,_, Assistant_NNP to_TO the_DT Inspector-_NNP General_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, at_IN Ahmedabad_NNP ._.
+Remarking_VBG on_IN this_DT subject_NN ,_, the_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, states_VBZ :75_NNP nary_JJ Inspector_NNP who_WP is_VBZ a_DT member_NN of_IN the_DT Royal_NNP College_NNP of_IN Veterinary_NNP Surgeons_NNP ,_, England_NNP ._.
+Before_IN the_DT horses_NNS reach_VBP the_DT port_NN of_IN shipment_NN ,_, they_PRP are_VBP examined_VBN by_IN the_DT District_NNP (_( inland_NN )_) Inspectors_NNPS and_CC travel_NN to_TO the_DT port_NN on_IN the_DT Inspector_NNP 's_POS permit_NN ._.
+If_IN they_PRP come_VBP from_IN a_DT district_NN in_IN which_WDT cattle_VBP ticks_NNS have_VBP been_VBN known_VBN to_TO exist_VB they_PRP are_VBP ,_, before_IN being_VBG moved_VBN ,_, thoroughly_RB dipped_VBD or_CC disinfected_VBN and_CC on_IN arrival_NN at_IN the_DT port_NN of_IN shipment_NN are_VBP twice_RB disinfected_VBN by_IN the_DT Government_NNP Veterinary_NNP Inspector_NNP at_IN that_DT place_NN ._.
+That_DT officer_NN then_RB issues_NNS his_PRP$ certificate_NN that_IN the_DT horses_NNS are_VBP free_JJ from_IN disease_NN or_CC infection_NN ._.
+477_CD ._.
+A_DT copy_NN of_IN the_DT form_NN of_IN certificate_NN has_VBZ been_VBN received_VBN and_CC the_DT precautions_NNS taken_VBN ,_, as_IN noted_VBN above_IN ,_, have_VBP been_VBN deemed_VBN sufficient_JJ guarantee_NN against_IN the_DT introduction_NN of_IN the_DT disease_NN into_IN India_NNP ._.
+478_CD ._.
+The_DT various_JJ Maritime_NNP Governments_NNS have_VBP been_VBN asked_VBN to_TO take_VB such_JJ steps_NNS as_IN will_MD ensure_VB the_DT agreement_NN come_VB to_TO between_IN the_DT Queensland_NNP and_CC Indian_JJ Governments_NNP being_VBG given_VBN effect_NN to_TO ,_, and_CC all_DT firms_NNS interested_VBN in_IN the_DT horse_NN trade_NN have_VBP been_VBN informed_VBN that_IN if_IN Queensland_NNP horses_NNS are_VBP introduced_VBN into_IN India_NNP in_IN infraction_NN of_IN the_DT agreement_NN come_VB to_TO or_CC if_IN ticks_NNS are_VBP actually_RB found_VBN on_IN any_DT shipment_NN ,_, the_DT Government_NNP of_IN India_NNP will_MD be_VB obliged_VBN to_TO put_VB the_DT Live-stock_NNP Importation_NNP Act_NNP ,_, IX_NNP of_IN 1898_CD ,_, into_IN force_NN ._.
+479_CD ._.
+The_DT precautions_NNS taken_VBN by_IN the_DT Queensland_NNP Government_NNP ,_, if_IN properly_RB carried_VBN out_RP ,_, will_MD guard_VB this_DT country_NN against_IN the_DT introduction_NN of_IN the_DT disease_NN and_CC will_MD not_RB interfere_VB in_IN any_DT way_NN with_IN the_DT horse_NN trade_NN ._.
+Introductory_NN ._.
+VETERINARY_NNP DISPENSARIES_NNP ._.
+480_CD ._.
+Table_JJ L_NNP will_MD show_VB that_IN the_DT total_JJ number_NN of_IN cattle_NNS treated_VBN at_IN dispen-_JJ saries_NNS was_VBD as_IN follows_VBZ :76_NNP Sind_NNP ._.
+486_CD ._.
+The_DT four_CD dispensaries_NNS in_IN Sind_NNP continue_VBP to_TO do_VB good_JJ work_NN ._.
+The_DT follow-_JJ ing_JJ number_NN of_IN cases_NNS was_VBD treated_VBN ;_: 77_CD VETERINARY_NNP ASSISTANTS_NNP ._.
+496_CD ._.
+During_IN the_DT year_NN under_IN review_NN ,_, material_NN progress_NN has_VBZ been_VBN made_VBN to-_JJ wards_NNS the_DT completion_NN of_IN the_DT scheme_NN whereby_WRB each_DT province_NN will_MD be_VB equipped_VBN with_IN a_DT Subordinate_NNP Veterinary_NNP Establishment_NNP ;_: this_DT will_MD enable_VB the_DT Civil_NNP Veteri-_NNP nary_JJ Department_NNP to_TO deal_VB with_IN all_DT questions_NNS connected_VBN with_IN the_DT welfare_NN of_IN the_DT cattle_NNS of_IN this_DT country_NN ._.
+During_IN the_DT past_JJ few_JJ years_NNS ,_, whilst_NN I_PRP have_VBP held_VBN administrative_JJ charge_NN of_IN this_DT Department_NNP ,_, I_PRP have_VBP striven_VBN to_TO effect_NN this_DT ,_, feel-_JJ ing_NN as_IN I_PRP do_VBP that_DT our_PRP$ first_JJ duties_NNS should_MD be_VB those_DT which_WDT embrace_VBP all_DT questions_NNS involving_VBG the_DT improvement_NN in_IN the_DT various_JJ breeds_NNS and_CC the_DT health_NN of_IN cattle_NNS in_IN this_DT country_NN ._.
+As_IN will_MD be_VB seen_VBN under_IN the_DT section_NN of_IN 'Cattle_JJ disease_NN ,_, '_'' we_PRP have_VBP made_VBN great_JJ strides_NNS during_IN the_DT past_JJ year_NN in_IN the_DT introduction_NN of_IN the_DT preventive_JJ system_NN of_IN inoculation_NN against_IN rinderpest_NN ,_, but_CC without_IN a_DT properly_RB trained_VBN subordinate_JJ establishment_NN ,_, we_PRP are_VBP unable_JJ to_TO make_VB that_DT progress_NN which_WDT I_PRP would_MD like_VB to_TO see_VB effected_JJ ._.
+Punjab_NNP ._.
+497_CD ._.
+The_DT scheme_NN adopted_VBN by_IN the_DT Punjab_NNP is_VBZ about_IN the_DT most_RBS complete_JJ and_CC is_VBZ one_CD well_NN worthy_NN of_IN consideration_NN ._.
+A_DT Provincial_NNP graded_VBN service_NN will_MD be_VB formed_VBN and_CC in_IN it_PRP will_MD be_VB amalgamated_VBN all_DT Veterinary_NNP Assistants_NNS employed_VBN by_IN the_DT various_JJ Local_JJ Bodies_NNS as_RB well_RB as_IN those_DT now_RB paid_VBN from_IN Imperial_JJ funds_NNS ._.
+This_DT Provincial_NNP service_NN will_MD ,_, I_PRP am_VBP certain_JJ ,_, work_NN well_RB as_IN it_PRP will_MD enable_VB promotions_NNS to_TO be_VB made_VBN for_IN good_JJ work_NN ,_, which_WDT under_IN the_DT present_JJ system_NN is_VBZ impossible_JJ ._.
+Pro-_JJ vision_NN is_VBZ made_VBN in_IN the_DT Punjab_NNP for_IN 104_CD Veterinary_JJ Assistants_NNS and_CC 6_CD Inspectors_NNS ;_: coupled_VBN with_IN this_DT scheme_NN is_VBZ the_DT employment_NN of_IN a_DT third_JJ Veterinary_JJ officer_NN whose_WP$ duties_NNS will_MD be_VB those_DT solely_RB connected_VBN with_IN cattle_NNS ._.
+This_DT appointment_NN has_VBZ received_VBN the_DT sanction_NN of_IN the_DT Secretary_NNP of_IN State_NNP ,_, and_CC when_WRB the_DT officer_NN is_VBZ appointed_VBN ,_, the_DT Punjab_NNP will_MD be_VB in_IN a_DT position_NN to_TO take_VB up_RP all_DT questions_NNS con-_NNS nected_JJ with_IN cattle_NNS ._.
+N.-W_NNP ._.
+Provinces_NNS ._.
+498_CD ._.
+This_DT important_JJ subject_NN has_VBZ always_RB met_VBN with_IN attention_NN at_IN the_DT hands_NNS of_IN the_DT Government_NNP of_IN the_DT North-Western_JJ Provinces_NNS ._.
+In_IN these_DT Provinces_NNS it_PRP is_VBZ intended_VBN to_TO employ_VB 96_CD Veterinary_JJ Assistants_NNS under_IN various_JJ Local_JJ Bodies_NNS and_CC 6_CD Inspectors_NNS under_IN the_DT Provincial_JJ Government_NNP ._.
+Already_RB 33_CD Veterinary_JJ Assistants_NNS and_CC 2_CD Inspectors_NNS have_VBP been_VBN appointed_VBN ._.
+As_IN in_IN the_DT Punjab_NNP ,_, an_DT extra_JJ officer_NN for_IN duties_NNS connected_VBN with_IN cattle_NNS is_VBZ much_RB needed_VBN ._.
+Bombay_NNP ._.
+499_CD ._.
+In_IN Bombay_NNP it_PRP is_VBZ proposed_VBN to_TO employ_VB 24_CD Veterinary_JJ Assistants_NNS of_IN whom_WP 19_CD have_VBP been_VBN appointed_VBN ._.
+This_DT number_NN is_VBZ independent_JJ of_IN the_DT Inspectors_NNS who_WP may_MD hereafter_VB be_VB found_VBN necessary_JJ ._.
+Madras_NNS ._.
+500_CD ._.
+Madras_NNP alone_RB remains_VBZ with_IN no_DT provision_NN to_TO combat_VB the_DT great_JJ mortality_NN which_WDT now_RB exists_VBZ amongst_IN the_DT cattle_NNS in_IN that_DT Presidency_NNP ,_, and_CC at_IN the_DT request_NN of_IN the_DT Government_NNP of_IN India_NNP ,_, I_PRP conferred_VBD with_IN the_DT Board_NNP of_IN Revenue_NNP in_IN December_NNP last_JJ ,_, and_CC as_IN a_DT result_NN of_IN the_DT Conference_NNP I_PRP was_VBD enabled_VBN to_TO draw_VB up_RP a_DT comprehensive_JJ scheme_NN which_WDT ,_, if_IN adopted_VBN by_IN the_DT Government_NNP of_IN Madras_NNP ,_, would_MD enable_VB a_DT Veterinary_NNP College_NNP to_TO be_VB started_VBN for_IN the_DT training_NN of_IN Veteri-_NNP nary_JJ Assistants_NNS ,_, who_WP afterwards_NNS would_MD find_VB employment_NN in_IN the_DT districts_NNS ._.
+It_PRP also_RB provided_VBD for_IN the_DT employment_NN of_IN a_DT certain_JJ number_NN of_IN reliable_JJ graduates_NNS who_WP would_MD assist_VB the_DT Superintendent_NNP ,_, thus_RB enabling_VBG him_PRP to_TO be_VB of_IN some_DT value_NN ,_, for_IN single_JJ handed_VBN as_IN he_PRP is_VBZ at_IN present_JJ (_( the_DT Stock_NNP Inspectors_NNPS now_RB employed_VBP being_VBG next_JJ to_TO useless_JJ )_) ,_, he_PRP is_VBZ totally_RB unable_JJ to_TO cope_VB with_IN the_DT work_NN ._.
+501_CD ._.
+The_DT scheme_NN ,_, as_IN drawn_VBN up_RP by_IN me_PRP ,_, throws_VBZ but_CC little_JJ expense_NN on_IN the_DT Pro-_NNP vincial_NN Revenues_NNP ,_, as_IN it_PRP is_VBZ thought_VBN that_RB ,_, as_IN in_IN Bombay_NNP and_CC Calcutta_NNP ,_, Native_NNP gentlemen_NNS will_MD contribute_VB towards_IN the_DT erection_NN of_IN the_DT College_NNP ,_, and_CC in_IN fact_NN already_RB a_DT sum_NN of_IN Rs_NNP ._.
+10,000_CD has_VBZ been_VBN offered_VBN by_IN one_CD gentleman_NN who_WP is_VBZ inter-_JJ ested_VBN in_IN the_DT matter_NN ._.
+502_CD ._.
+The_DT Director_NNP of_IN Land_NNP Records_NNP and_CC Agriculture_NNP states_NNS :78_VBP WORK_NNP DONE_NNP BY_NNP VETERINARY_NNP ASSISTANTS_NNP ._.
+Introductory_NN ._.
+504_CD ._.
+Table_JJ N_NNP will_MD show_VB that_IN 218_CD Veterinary_JJ Assistants_NNS were_VBD employed_VBN during_IN the_DT year_NN under_IN review_NN ,_, that_IN they_PRP visited_VBD 32,827_CD villages_NNS and_CC treated_VBD 181,536_CD head_NN of_IN cattle_NNS ;_: if_IN to_TO this_DT number_NN is_VBZ added_VBN those_DT treated_VBN at_IN Dispensaries_NNP ,_, we_PRP find_VBP that_IN 236,000_CD animals_NNS were_VBD treated_VBN ._.
+No_DT comparison_NN can_MD be_VB drawn_VBN with_IN last_JJ year_NN 's_POS working_NN as_IN no_DT abstract_NN has_VBZ hitherto_VBN been_VBN submitted_VBN ._.
+The_DT mortality_NN amounting_VBG as_IN it_PRP did_VBD to_TO only_RB 11.5_CD per_IN cent_NN ._.
+must_MD be_VB considered_VBN satisfactory_JJ ._.
+N.-W_NNP ._.
+Provinces_NNS ,_, 505_CD ._.
+The_DT Veterinary_NNP Assistants_NNPS treated_VBD the_DT large_JJ number_NN of_IN about_IN 48,000_CD head_NN of_IN cattle_NNS and_CC other_JJ animals_NNS ._.
+Amongst_NNP this_DT number_NN were_VBD 11,317_CD cases_NNS of_IN foot-and-mouth_JJ disease_NN ._.
+It_PRP is_VBZ in_IN the_DT treatment_NN of_IN such_JJ diseases_NNS ,_, which_WDT are_VBP amen-_JJ able_JJ to_TO medical_JJ aid_NN ,_, that_IN the_DT services_NNS of_IN Veterinary_JJ Assistants_NNS are_VBP of_IN great_JJ value_NN rather_RB than_IN in_IN the_DT treatment_NN of_IN cases_NNS of_IN rinderpest_NN in_IN which_WDT disease_NN but_CC little_JJ can_MD be_VB done_VBN until_IN preventive_JJ inoculation_NN is_VBZ introduced_VBN ._.
+506_CD ._.
+The_DT work_NN done_VBN by_IN the_DT Veterinary_NNP Assistants_NNPS in_IN these_DT Provinces_NNS is_VBZ very_RB satisfactory_JJ ,_, especially_RB when_WRB it_PRP is_VBZ borne_VBN in_IN mind_NN that_IN only_RB 32_CD out_IN of_IN 48_CD dis-_JJ tricts_NNS have_VBP employed_VBN them_PRP up_RP to_TO date_NN ._.
+Punjab_NNP ._.
+507_CD ._.
+Seventy-three_JJ Veterinary_JJ Assistants_NNS were_VBD employed_VBN :_: they_PRP visited_VBD 13,817_CD villages_NNS and_CC treated_VBD 56,998_CD head_NN of_IN cattle_NNS ._.
+508_CD ._.
+Much_JJ good_JJ work_NN is_VBZ done_VBN by_IN these_DT men_NNS ,_, and_CC I_PRP am_VBP glad_JJ to_TO find_VB that_IN they_PRP are_VBP gaining_VBG the_DT confidence_NN of_IN the_DT zemindars_NNS and_CC that_IN complaints_NNS regarding_VBG them_PRP are_VBP very_RB few_JJ ._.
+Their_PRP$ work_NN will_MD be_VB better_JJR still_RB when_WRB they_PRP are_VBP under_IN more_JJR super-_JJ vision_NN than_IN they_PRP are_VBP at_IN present_JJ ._.
+Sind_NNP ._.
+509_CD ._.
+Four_CD Veterinary_JJ Assistants_NNS are_VBP employed_VBN :_: they_PRP visited_VBD 102_CD villages_NNS and_CC treated_VBD 4,699_CD cases_NNS ._.
+The_DT mortality_NN among_IN such_JJ cases_NNS as_IN were_VBD treated_VBN amoun-_JJ ting_NN as_IN it_PRP did_VBD to_TO only_RB 1.5_CD per_IN cent._NN ,_, must_MD be_VB looked_VBN upon_IN as_IN very_RB satisfactory_JJ ._.
+Bombay_NNP ._.
+510_CD ._.
+The_DT present_JJ establishment_NN of_IN Veterinary_NNP Assistants_NNP is_VBZ 18_CD ,_, but_CC in_IN the_DT near_JJ future_NN it_PRP is_VBZ contemplated_VBN to_TO add_VB 9_CD itinerating_VBG men_NNS and_CC to_TO appoint_VB a_DT senior_JJ Veterinary_NNP Assistant_NNP ._.
+When_WRB the_DT establishment_NN is_VBZ complete_JJ ,_, it_PRP will_MD consist_VB of:79_JJ Burma_NNP 515_CD ._.
+Each_DT Veterinary_NNP Assistant_NNP has_VBZ a_DT dispensary_NN at_IN his_PRP$ head-quarters_NNS ,_, Burma_NNP When_WRB on_IN tour_NN attending_VBG outbreaks_NNS ,_, he_PRP takes_VBZ a_DT chest_NN containing_NN drugs_NNS likely_JJ to_TO be_VB required_VBN ._.
+Table_JJ N_NNP shows_VBZ the_DT following_JJ results_NNS :_: PART_NNP II.-PROVINCIAL_NNP REPORT_NNP ._.
+IV.83_NNP PART_NNP II.-PROVINCIAL_NNP REPORT_NNP ._.
+IV.84_NNP 532_CD ._.
+This_DT question_NN requires_VBZ to_TO be_VB most_RBS carefully_RB considered_VBN as_IN the_DT deterio-_JJ ration_NN in_IN the_DT breeds_NNS of_IN cattle_NNS must_MD continue_VB unless_IN careful_JJ selection_NN of_IN bulls_NNS is_VBZ made_VBN :_: I_PRP ,_, however_RB ,_, fear_VBP that_IN this_DT Department_NNP can_MD do_VB nothing_NN in_IN this_DT important_JJ matter_NN until_IN these_DT provinces_NNS have_VBP an_DT extra_JJ officer_NN to_TO deal_VB with_IN all_DT questions_NNS relating_VBG to_TO the_DT welfare_NN of_IN cattle_NNS ._.
+Punjab_NNP ._.
+533_CD ._.
+No_DT information_NN is_VBZ available_JJ on_IN this_DT point_NN from_IN this_DT province_NN ._.
+The_DT deterioration_NN of_IN cattle_NNS is_VBZ only_RB too_RB visible_JJ at_IN the_DT large_JJ fairs_NNS held_VBD in_IN various_JJ centres_NNS ,_, and_CC the_DT whole_JJ question_NN will_MD have_VB to_TO be_VB very_RB carefully_RB considered_VBN on_IN the_DT appointment_NN of_IN a_DT third_JJ Superintendent_NNP ._.
+Then_RB ,_, I_PRP think_VBP ,_, a_DT comprehensive_JJ scheme_NN should_MD be_VB drawn_VBN up_RP ._.
+Bombay_NNP ._.
+534_CD ._.
+The_DT Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, goes_VBZ carefully_RB into_IN this_DT subject_NN ._.
+The_DT Collectors_NNPS of_IN 18_CD districts_NNS have_VBP been_VBN consulted_VBN ,_, but_CC with_IN the_DT exception_NN of_IN Dharwar_NNP and_CC Surat_NNP ,_, who_WP simply_RB say_VBP they_PRP will_MD consider_VB the_DT matter_NN ,_, and_CC Sholapur_NNP and_CC Poona_NNP ,_, who_WP are_VBP willing_JJ to_TO assist_VB ,_, the_DT remaining_VBG 14_CD are_VBP either_DT unable_JJ or_CC unwilling_JJ to_TO assist_VB in_IN any_DT measures_NNS to_TO improve_VB the_DT breed_NN of_IN cattle_NNS ._.
+535_CD ._.
+The_DT Superintendent_NNP divides_VBZ his_PRP$ remarks_NNS into_IN two_CD parts_NNS ,_, viz._NN ,_, the_DT cattle_NNS belonging_VBG to_TO owners_NNS in_IN the_DT Krishna_NNP Valley_NNP ,_, Northern_NNP Guzerat_NNP ,_, the_DT Gir_NNP hills_NNS of_IN Kathiawar_NNP ._.
+Amongst_NNP these_DT he_PRP points_VBZ out_RP that_IN the_DT breeds_NNS being_VBG of_IN value_NN ,_, the_DT owners_NNS are_VBP quite_RB alive_JJ to_TO the_DT necessity_NN of_IN keeping_VBG their_PRP$ breeds_NNS pure_NN ._.
+Referring_VBG to_TO these_DT breeds_NNS he_PRP states:85_VBZ ``_`` The_DT proposed_VBN Hathwa_NNP Farm.PART_NNP II.-PROVINCIAL_NNP REPORT_NNP ._.
+V.89_NNP PART_NNP II.-PROVINCIAL_NNP REPORT_NNP ._.
+V.90_NNP 546.The_CD various_JJ points_NNS raised_VBN in_IN the_DT above_JJ recommendations_NNS have_VBP been_VBN referred_VBN to_TO the_DT various_JJ Local_JJ Governments_NNS ,_, and_CC if_IN adopted_VBN ,_, must_MD lead_VB to_TO the_DT increased_VBN practical_JJ utility_NN of_IN the_DT Veterinary_NNP Assistants_NNPS ._.
+547.The_CD conference_NN also_RB considered_VBD the_DT officers_NNS who_WP should_MD be_VB appointed_VBN examiners_NNS and_CC the_DT method_NN in_IN which_WDT the_DT examinations_NNS should_MD be_VB conducted_VBN :_: they_PRP also_RB laid_VBD down_RB the_DT percentage_NN of_IN marks_NNS which_WDT would_MD be_VB necessary_JJ to_TO ensure_VB a_DT 'Pass_NN ._. '_''
+548.These_CD points_NNS have_VBP also_RB been_VBN referred_VBN to_TO the_DT Local_JJ Governments_NNP con-_NN cerned_VBD ,_, and_CC if_IN adopted_VBN ,_, will_MD result_VB in_IN uniformity_NN in_IN the_DT standard_NN of_IN men_NNS turned_VBD out_RP from_IN the_DT various_JJ Colleges_NNP ._.
+VETERINARY_NNP COLLEGES_NNP AND_NNP SCHOOLS_NNP ._.
+549.By_CD the_DT revised_VBN rules_NNS for_IN the_DT preparation_NN of_IN the_DT Annual_NNP Administration_NNP Report_NNP of_IN this_DT Department_NNP ,_, the_DT review_NN of_IN the_DT work_NN done_VBN at_IN the_DT various_JJ Veteri-_NNP nary_JJ Educational_NNP establishments_NNS in_IN India_NNP should_MD be_VB compressed_VBN as_RB much_JJ as_IN possible_JJ ._.
+To_TO be_VB concise_NN ,_, I_PRP purpose_VBP reviewing_VBG the_DT whole_NN of_IN the_DT Colleges_NNP under_IN separate_JJ headings_NNS ,_, as_IN I_PRP am_VBP opinion_NN that_IN this_DT will_MD render_VB it_PRP more_RBR clear_JJ ._.
+Examinations_NNS ._.
+550.The_CD points_NNS which_WDT call_VBP for_IN notice_NN are_VBP the_DT numbers_NNS which_WDT passed_VBD ._.
+Only_RB the_DT results_NNS in_IN the_DT examination_NN of_IN the_DT final_JJ year_NN 's_POS students_NNS can_MD be_VB compared_VBN ,_, as_IN the_DT first_JJ year_NN 's_POS students_NNS at_IN Ajmer_NNP and_CC Lahore_NNP are_VBP examined_VBN by_IN the_DT teaching_JJ staff_NN ._.
+I_PRP hope_VBP to_TO see_VB more_JJR uniformity_NN in_IN this_DT respect_NN ,_, when_WRB the_DT recommendations_NNS of_IN the_DT Umballa_NNP Conference_NNP are_VBP accepted_VBN by_IN the_DT various_JJ Local_JJ Governments_NNS ._.
+No_DT ._.
+passed_VBN ._.
+No_DT ._.
+failed_VBN ._.
+Percentage_NN of_IN passes_NNS ._.
+(_( 1_CD )_) Bengal_NNP ._.
+._.
+._.
+._.
+._.
+15_CD 1_CD 93.7_CD (_( 2_CD )_) Lahore_NN ._.
+._.
+._.
+._.
+._.
+47_CD 7_CD 87.0_CD (_( 3_CD )_) Ajmer_NNP ._.
+._.
+._.
+._.
+._.
+16_CD 8_CD 66.6_CD (_( 4_CD )_) Bombay_NNP ._.
+._.
+._.
+._.
+9_CD 10_CD 47.3_CD Bengal_NNP heads_NNS the_DT list_NN ,_, and_CC it_PRP is_VBZ satisfactory_JJ to_TO learn_VB that_IN in_IN the_DT important_JJ subject_NN of_IN Operative_NNP Surgery_NNP ,_, the_DT students_NNS showed_VBD scientific_JJ skill_NN ._.
+Lahore_RB comes_VBZ next_JJ ,_, which_WDT reflects_VBZ great_JJ credit_NN on_IN the_DT teaching_JJ staff_NN ,_, but_CC I_PRP regret_VBP to_TO note_VB that_IN the_DT students_NNS were_VBD wanting_VBG in_IN the_DT practical_JJ portions_NNS of_IN Pharmacy_NNP ,_, viz._NN ,_, prescribing_VBG and_CC the_DT recognition_NN of_IN drugs_NNS ._.
+At_IN Ajmer_NNP ,_, the_DT percentage_NN of_IN passes_NNS is_VBZ very_RB fair_JJ ._.
+This_DT school_NN has_VBZ suffered_VBN during_IN the_DT year_NN from_IN frequent_JJ changes_NNS in_IN the_DT teaching_JJ staff_NN ;_: three_CD officers_NNS having_VBG held_VBD the_DT appointment_NN of_IN Principal_NNP ._.
+Bombay_NNP comes_VBZ last_JJ with_IN a_DT very_RB low_JJ percentage_NN of_IN passes_NNS ,_, and_CC again_RB the_DT Board_NNP of_IN Examiners_NNP remarked_VBD on_IN the_DT want_NN of_IN practical_JJ knowledge_NN of_IN the_DT students_NNS ._.
+They_PRP also_RB noted_VBD on_IN the_DT physical_JJ unfitness_NN of_IN some_DT of_IN the_DT men_NNS ,_, which_WDT is_VBZ a_DT most_RBS important_JJ point_NN considering_VBG the_DT hard_JJ work_NN which_WDT Veterinary_NNP Assist-_NNP ants_NNS are_VBP at_IN times_NNS called_VBN upon_IN to_TO perform_VB ._.
+Practice_NNP ._.
+551_CD ._.
+The_DT following_NN will_MD show_VB the_DT number_NN of_IN indoor_NN and_CC outdoor_JJ patients_NNS admitted_VBN during_IN the_DT year:91_JJ application_NN was_VBD received_VBN by_IN the_DT Principal_NNP of_IN the_DT Lahore_NNP Veterinary_NNP College_NNP for_IN 100_CD Nalbunds_NNS for_IN South_NNP Africa_NNP ._.
+553_CD ._.
+At_IN Lahore_NNP ,_, 11_CD men_NNS were_VBD under_IN training_NN ,_, 7_CD of_IN whom_WP passed_VBD the_DT examination_NN ._.
+On_IN this_DT subject_NN ,_, the_DT Principal_NNP states:92_VBD 566.Ajmer.PART_CD II.-PROVINCIAL_JJ REPORT_NNP ._.
+VI.95_NNP PART_NNP II.-PROVINCIAL_NNP REPORT_NNP ._.
+VI.PART_NNP II.-PROVINCIAL_NNP REPORT_NNP ._.
+VII.99_NNP PART_NNP II.-PROVINCIAL_NNP REPORT_NNP ._.
+VII.-GENERAL_NNP ._.
+Conclusion_NN ._.
+574.I_CD feel_NN that_IN I_PRP can_MD not_RB close_VB this_DT report_NN without_IN placing_VBG on_IN record_NN the_DT good_JJ work_NN which_WDT has_VBZ been_VBN done_VBN by_IN all_PDT the_DT officers_NNS of_IN this_DT Department_NNP :_: their_PRP$ hearty_JJ co-operation_NN in_IN carrying_VBG out_RP the_DT various_JJ measures_NNS tending_VBG to_TO the_DT development_NN of_IN horse_NN and_CC mule_NN breeding_NN and_CC connected_VBN with_IN the_DT welfare_NN of_IN the_DT cattle_NNS in_IN this_DT country_NN has_VBZ led_VBN to_TO the_DT favorable_JJ results_NNS recorded_VBN in_IN this_DT Report_NNP ._.
+The_DT Department_NNP is_VBZ small_JJ ,_, and_CC the_DT work_NN expected_VBN of_IN the_DT various_JJ Superintendents_NNS is_VBZ most_RBS onerous_JJ ,_, entailing_VBG as_IN it_PRP does_VBZ great_JJ exertion_NN and_CC exposure_NN ,_, still_RB one_CD and_CC all_DT have_VBP always_RB responded_VBN cheerfully_RB to_TO any_DT suggestions_NNS which_WDT I_PRP have_VBP made_VBN ,_, although_IN they_PRP may_MD have_VB entailed_VBN extra_JJ work_NN on_IN already_RB overworked_VBN men_NNS ._.
+575.I_CD had_VBD almost_RB decided_VBN to_TO omit_VB the_DT mention_NN of_IN any_DT particular_JJ officers_NNS as_IN it_PRP appears_VBZ invidious_JJ to_TO do_VB so_RB where_WRB all_DT have_VBP worked_VBN so_RB well_RB ,_, still_RB I_PRP feel_VBP compelled_VBN to_TO bring_VB to_TO the_DT notice_NN of_IN the_DT Government_NNP of_IN India_NNP the_DT following_NN :_: PART_NNP I.-IMPERIAL_NNP REPORT_NNP ._.
+TABLES_NNP ._.
+iii_NN TABLE_NN I_PRP ._.
+IMPERIAL_NNP ._.
+Return_NN of_IN Government_NNP Horse_NNP ,_, Pony_NNP and_CC Donkey_NNP stallions_NNS for_IN the_DT official_JJ year_NN 1899-1900_CD ._.
+DETAILS_NNP ._.
+GOVERNMENT_NNP HORSE_NNP AND_NNP PONY_NNP STALLIONS_NNP ._.
+GOVERNMENT_NNP DONKEY_NNP STALLIONS_NNP ._.
+HORSES_NNP PONIES_NNP Thorough-bred_NNP English_NNP ._.
+Three-quarter_NN bred_VBD ._.
+Half-bred_JJ English_NNP ,_, and_CC Norfolk_NNP Trotters_NNP ._.
+Hackney_NNP ._.
+Roadster_NN ._.
+Australian_JJ ._.
+Arab_NN ._.
+Persian_NN ._.
+Turkoman_NNP ._.
+Country-bred_NNP ._.
+Total_NN ._.
+Arab_NN ._.
+Country-bred_NNP ._.
+Total_NN ._.
+Total_JJ horses_NNS and_CC ponies_NNS ._.
+Spanish_JJ (_( Catalonian_JJ )_) ._.
+Arab_NN ._.
+Home-bred_NNP ._.
+Country-bred_NNP ._.
+Poitou-Catalan_NN ._.
+Punjabi_NNP ._.
+Italian_JJ ._.
+French_JJ ._.
+Persian_NN ._.
+Cyprian_JJ ._.
+Guzerati_NNP ._.
+Meshod_NNP ._.
+Ghazni_NNP ._.
+Zanzibar_NN ._.
+Total_NN ._.
+Balance_NN on_IN 1st_CD April_NNP 1899_CD ._.
+._.
+._.
+98_CD 5_CD 58_CD 44_CD 2_CD 47_CD 131_CD ..._: ..._: 5_CD 390_CD 17_CD 1_CD 18_CD 408_CD 25_CD 13_CD 7_CD 13_CD 1_CD 38_CD 173_CD 3_CD 27_CD 99_CD ..._: 2_CD 1_CD 4_CD 406_CD Increase_NNP Received_VBN by_IN importation_NN ._.
+8_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 8_CD ..._: ..._: ..._: 8_CD 18_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 33_CD ..._: ..._: ..._: ..._: 51_CD Purchased_VBN in_IN India_NNP ._.
+._.
+..._: ..._: ..._: ..._: ..._: 10_CD 30_CD ..._: ..._: ..._: 40_CD 2_CD ..._: 2_CD 42_CD ..._: ..._: 1_CD 8_CD ..._: 8_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 17_CD Received_VBN from_IN Instruction_NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 6_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 7_CD Farm_NN ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._:
+Errors_NNS in_IN last_JJ year_NN 's_POS Return_NNP ._.
+._.
+._.
+..._: 1_CD ..._: 2_CD ..._: ..._: 1_CD ..._: ..._: ..._: 4_CD ..._: ..._: ..._: 4_CD 1_CD ..._: ..._: ..._: ..._: 4_CD ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: 6_CD TOTAL_NNP 106_CD 6_CD 58_CD 46_CD 2_CD 57_CD 162_CD ..._: ..._: 5_CD 442_CD 19_CD 1_CD 20_CD 462_CD 44_CD 13_CD 8_CD 27_CD 1_CD 51_CD 173_CD 3_CD 27_CD 132_CD 1_CD 2_CD 1_CD 4_CD 487_CD Decrease_NNP Died_NNP ._.
+._.
+._.
+._.
+._.
+6_CD ..._: 2_CD 2_CD ..._: 1_CD 3_CD ..._: ..._: ..._: 14_CD 1_CD ..._: 1_CD 15_CD ..._: ..._: 1_CD ..._: ..._: 2_CD 2_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 6_CD Destroyed_NNP ._.
+._.
+._.
+._.
+5_CD ..._: 8_CD 4_CD ..._: 2_CD 10_CD ..._: ..._: ..._: 29_CD 2_CD ..._: 2_CD 31_CD 2_CD ..._: ..._: ..._: ..._: ..._: 15_CD 2_CD ..._: 7_CD ..._: ..._: ..._: 1_CD 27_CD Sold_NNP ._.
+._.
+._.
+._.
+._.
+6_CD 2_CD 4_CD 7_CD ..._: 1_CD 1_CD ..._: ..._: ..._: 21_CD ..._: ..._: 21_CD ..._: ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: 1_CD 5_CD ..._: ..._: ..._: ..._: 8_CD Errors_NNS in_IN last_JJ year_NN 's_POS Return_NNP ._.
+._.
+._.
+..._: ..._: 4_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 5_CD ..._: ..._: ..._: 5_CD ..._: ..._: ..._: 5_CD 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 7_CD TOTAL_NNP 17_CD 2_CD 18_CD 13_CD 1_CD 4_CD 14_CD ..._: ..._: ..._: 69_CD 3_CD ..._: 3_CD 72_CD 2_CD ..._: 1_CD 6_CD 1_CD 3_CD 18_CD 2_CD 2_CD 12_CD ..._: ..._: ..._: 1_CD 48_CD Balance_NN on_IN 31st_CD March_NNP 1900_CD ._.
+._.
+._.
+89_CD 4_CD 40_CD 33_CD 1_CD 53_CD 148_CD ..._: ..._: 5_CD 373_CD 16_CD 1_CD 17_CD 390_CD 42_CD 13_CD 7_CD 21_CD ..._: 48_CD 155_CD 1_CD 25_CD 120_CD 1_CD 2_CD 1_CD 3_CD 439_CD In_IN North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+(_( allotted_VBN )_) 17_CD 2_CD 11_CD 10_CD ..._: 13_CD 26_CD ..._: ..._: 3_CD 82_CD ..._: ..._: ..._: 82_CD 10_CD 3_CD 4_CD 9_CD ..._: 4_CD 40_CD 9_CD 19_CD ..._: 1_CD 99_CD In_IN North-Western_JJ Provinces_NNS and_CC Oudh_NNP (_( unallotted_JJ )_) ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._:
+In_IN Rajputana_NNP ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: 1_CD ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._:
+In_IN North_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+27_CD ..._: 21_CD 12_CD ..._: 16_CD 32_CD ..._: ..._: 1_CD 109_CD ..._: ..._: 109_CD 11_CD 3_CD 2_CD 12_CD ..._: 25_CD 66_CD 1_CD 8_CD 49_CD 1_CD ..._: ..._: 2_CD 180_CD In_IN South_NNP Punjab_NNP (_( allotted_VBN )_) ._.
+._.
+._.
+23_CD 2_CD 8_CD 9_CD 1_CD 12_CD 31_CD ..._: ..._: 1_CD 87_CD ..._: ..._: ..._: 87_CD 14_CD 5_CD 1_CD ..._: ..._: 19_CD 34_CD ..._: 7_CD 44_CD ..._: ..._: ..._: ..._: 124_CD Ditto_NNP (_( unallotted_VBN )_) ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._:
+In_IN Baluchistan_NNP ._.
+._.
+._.
+._.
+._.
+7_CD ..._: ..._: ..._: 10_CD 25_CD ..._: ..._: ..._: 42_CD ..._: ..._: ..._: 42_CD ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: 3_CD In_IN Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+5_CD ..._: ..._: ..._: ..._: 1_CD 17_CD ..._: ..._: ..._: 23_CD ..._: ..._: ..._: 23_CD 6_CD 2_CD ..._: ..._: ..._: ..._: 14_CD ..._: 1_CD 6_CD ..._: 1_CD 1_CD ..._: 31_CD In_IN Central_NNP India_NNP ._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD In_IN Bengal_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: 1_CD In_IN Deccan_NNP ._.
+._.
+._.
+._.
+._.
+._.
+6_CD ..._: ..._: 2_CD ..._: 1_CD 12_CD ..._: ..._: ..._: 21_CD 14_CD 1_CD 15_CD 36_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._:
+In_IN Guzerat_NNP and_CC Kathiawar_NNP ._.
+._.
+._.
+4_CD ..._: ..._: ..._: ..._: ..._: 4_CD ..._: ..._: ..._: 8_CD 2_CD ..._: 2_CD 10_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_VBP 89_CD 4_CD 40_CD 33_CD 1_CD 53_CD 148_CD ..._: ..._: 5_CD 373_CD 16_CD 1_CD 17_CD 390_CD 42_CD 13_CD 7_CD 21_CD ..._: 48_CD 155_CD 1_CD 25_CD 120_CD 1_CD 2_CD 1_CD 3_CD 439_CD iv_NN TABLE_NNP II_NNP ._.
+IMPERIAL_NNP ._.
+Statement_JJ showing_VBG the_DT Ages_NNP of_IN stallions_NNS on_IN the_DT Register_NNP at_IN the_DT close_NN of_IN the_DT year_NN under_IN report_NN ,_, viz._NN ,_, 1899-1900_JJ ._.
+PROVINCES_NNS ._.
+HORSES_NNP ._.
+DONKEYS_NNP ._.
+REMARKS_NNP ._.
+Up_RB to_TO 10_CD years_NNS ._.
+Over_IN 10_CD and_CC upto_JJ 15_CD years_NNS ._.
+Over_IN 15_CD years_NNS ._.
+Total_NN ._.
+Up_RB to_TO 10_CD years_NNS ._.
+Over_IN 10_CD and_CC up_RB to_TO 15_CD years_NNS ._.
+Over_IN 15_CD years_NNS ._.
+Total_NN ._.
+North-Western_JJ Provinces_NNS and_CC Oudh_NNP (_( allotted_VBN )_) ._.
+._.
+._.
+._.
+._.
+._.
+._.
+49_CD 28_CD 5_CD 82_CD 59_CD 27_CD 13_CD 99_CD North-Western_JJ Provinces_NNS and_CC Oudh_NNP (_( unallotted_JJ )_) ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Rajputana_NNP ._.
+._.
+._.
+._.
+._.
+1_CD ..._: ..._: 1_CD ..._: ..._: ..._: ..._: North_NNP Punjab_NNP ._.
+._.
+._.
+._.
+56_CD 42_CD 11_CD 109_CD 109_CD 35_CD 36_CD 180_CD South_NNP Punjab_NNP (_( allotted_VBN )_) ._.
+._.
+._.
+47_CD 33_CD 7_CD 87_CD 87_CD 28_CD 9_CD 124_CD Ditto_NNP (_( unallotted_JJ )_) ._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Baluchistan_NNP ._.
+._.
+._.
+._.
+23_CD 18_CD 1_CD 42_CD 1_CD 1_CD 1_CD 3_CD Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+15_CD 8_CD ..._: 23_CD 23_CD 6_CD 2_CD 31_CD Central_JJ India_NNP ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: Not_RB furnished_VBN ._.
+Bengal_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: Deccan_NNP ._.
+._.
+._.
+._.
+._.
+Not_RB furnished_VBN ._.
+Guzerat_NNP ._.
+._.
+._.
+._.
+._.
+TOTAL_NN ._.
+._.
+191_CD 129_CD 24_CD 344_CD 279_CD 97_CD 61_CD 437_CD V_NNP TABLE_NNP III_NNP ._.
+IMPERIAL_NNP Abstract_NNP of_IN Casualties_NNP of_IN Government_NNP Horse_NNP ,_, Pony_NNP and_CC Donkey_NNP ,_, stallions_NNS during_IN the_DT year_NN 1899-1900_RB ._.
+PROVINCE_NNP ._.
+NUMBER_NNP DIED_NNP NUMBER_NNP DESTROYED_NNP ._.
+TOTAL_NN ._.
+PERCENTAGE_NN OF_NNP DEATHS_NNP PERCENTAGE_NNP DESTROYED_NNP GENERAL_NNP PERCENTAGE_NNP REMARKS_NNP ._.
+Horse_NN ._.
+Pony_NN ._.
+Donkey_NNP ._.
+Horse_NN ._.
+Pony_NN ._.
+Donkey_NNP ._.
+Horse_NN ._.
+Pony_NN ._.
+Donkey_NNP ._.
+Horse_NN ._.
+Pony_NN ._.
+Donkey_NNP ._.
+Horse_NN ._.
+Pony_NN ._.
+Donkey_NNP ._.
+Horse_NN ._.
+Pony_NN ._.
+Donkey_NNP ._.
+North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+._.
+._.
+2_CD ..._: 2_CD 10_CD ..._: 13_CD 12_CD ..._: 15_CD 1.98_CD ..._: 1.61_CD 9_CD 90_CD ..._: 10.48_CD 11.88_CD ..._: 12.09_CD Rajputana_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: North_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+7_CD ..._: 3_CD 4_CD ._.
+..._: 6_CD 11_CD ..._: 9_CD 7.21_CD ..._: 225_CD 4.12_CD ..._: 4.51_CD 11.34_CD ..._: 6.76_CD South_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+3_CD ..._: 1_CD 10_CD ..._: 7_CD 13_CD ..._: 8_CD 277_CD ..._: 0.86_CD 9.25_CD ..._: 6_CD 03_CD 12.03_CD ..._: 6.89_CD Baluchistan_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD ..._: ..._: 3_CD ..._: ..._: 4_CD ..._: ..._: 250_CD ..._: ..._: 7.50_CD ..._: ..._: 10.00_CD ..._: ..._: Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: 1_CD 1_CD 1_CD 1_CD 1_CD 1_CD ..._: ..._: ..._: 6.66_CD 10000_CD 3.84_CD 6.66_CD 100.00_CD 3.84_CD Central_JJ India_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Bengal_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Deccan_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD 1_CD ..._: 1_CD 1_CD ..._: 2_CD 2_CD ..._: 3.57_CD 5.88_CD ..._: 3.57_CD 5.88_CD ..._: 7.14_CD 11.76_CD ..._: Guzerat_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+._.
+14_CD 1_CD 6_CD 29_CD 2_CD 27_CD 43_CD 3_CD 33_CD 3.66_CD 5.88_CD 1.49_CD 7.59_CD 11.76_CD 6.71_CD 11.25_CD 17.64_CD 8.20_CD NOTE.vi_NNP TABLE_NNP IV_NNP ._.
+IMPERIAL_NNP ._.
+Sale_NNP Roll_NNP of_IN Government_NNP Horse_NNP ,_, Pony_NNP and_CC Donkey_NNP stallions_NNS during_IN 1899-1900_JJ ._.
+Brand_NNP No_NNP ._.
+Name_NN ._.
+Class_NN ._.
+Age_NNP ._.
+Horse_NN ,_, Pony_NNP or_CC Donkey_NNP ._.
+Name_NN of_IN purchaser_NN ._.
+Amount_NNP sold_VBD for_IN ._.
+Cause_NN of_IN rejection_NN ._.
+NORTH-WESTERN_JJ PROVINCES_NNP AND_NNP OUDH_NNP ._.
+Years_NNS ._.
+R_$ 134_CD Bob_NNP Gould_NNP ._.
+T._NNP B._NNP E._NNP ._.
+7_CD Horse_NN ._.
+Rajah_NNP Balwant_NNP Singh_NNP 1,000_CD Unfit_NNP for_IN stud_JJ work_NN ._.
+105_CD Cæsar_NNP ._.
+._.
+¾_NN bred_VBD ._.
+4_CD Do_NNP ._.
+._.
+Colonel_NNP A._NN M._NNP Crofts_NNP 1,100_CD Do_NNP ._.
+2317_CD Big_NNP Heart_NNP ._.
+H._NNP B._NNP E._NNP 11_CD Do_NNP ._.
+._.
+Babu_NNP K._NNP P._NNP Bose_NNP ._.
+85_CD Do_NNP ._.
+2526_CD Spinning_VBG Shot_NNP ._.
+Hackney_NNP 10_CD Do_NNP ._.
+._.
+Babu_NNP Kedarnath_NNP ._.
+410_CD Do_NNP ._.
+2363_CD White_NNP Star_NNP ._.
+H._NNP B._NNP E._NNP 10_CD Do_NNP ._.
+._.
+Colonel_NNP A._NN M._NNP Crofts_NNP 620_CD Do_NNP ._.
+2471_CD Wallace_NNP ._.
+._.
+Hackney_NNP 10_CD Do_NNP ._.
+._.
+Radha_NNP Mohan_NNP ._.
+._.
+375_CD Do_NNP ._.
+2378_CD Clarence_NNP ._.
+._.
+¾_NN bred_VBD ._.
+11_CD Do_NNP ._.
+._.
+Lieut_NNP ._.
+Heywood_NNP ._.
+210_CD Do_NNP ._.
+SOUTH_NNP PUNJAB_NNP ._.
+Years_NNS ._.
+R_$ 11_CD Lord_NNP Wesley_NNP ._.
+Hackney_NNP ._.
+7_CD Horse_NN ._.
+Colonel_NNP A._NN M._NNP Crofts_NNP 1,250_CD Incurable_NNP Bursati_NNP ._.
+10_CD Jesuit_NNP ._.
+._.
+Do_NNP ._.
+._.
+6_CD Do_NNP ._.
+._.
+Do_NNP ._.
+470_CD Bad_NNP stock_NN getter_NN ._.
+2369_CD Kimarbaz_NNP ._.
+Arab_$ 10_CD Do_NNP ._.
+._.
+Do_NNP ._.
+500_CD Very_RB bad_JJ fore_NN legs_NNS and_CC bad_JJ stock_NN getter_NN ._.
+137_CD Cormorant_NNP ._.
+T._NNP B._NNP E._NNP ._.
+6_CD Do_NNP ._.
+._.
+Do_NNP ._.
+1,200_CD Unfit_NN for_IN stud_JJ work_NN ._.
+138_CD Carradale_NNP ._.
+._.
+Do_NNP ._.
+._.
+5_CD Do_NNP ._.
+._.
+Do_NNP ._.
+1,500_CD Do_NNP ._.
+2660_CD Agapo_NNP ._.
+._.
+Do_NNP ._.
+._.
+7_CD Do_NNP ._.
+._.
+J_NNP ._.
+C_NNP ,_, Smith_NNP ,_, Esq_NNP ._.
+._.
+S05_NNP Misshapen_NNP and_CC a_DT bad_JJ stock_NN getter_NN ._.
+141_CD Wet_NNP Blanket_NNP ._.
+Do_NNP ._.
+._.
+6_CD Do_NNP ._.
+._.
+H._NNP H._NNP Maharajah_NNP of_IN Patiala_NNP ._.
+600_CD Unfit_NN for_IN stud_JJ work_NN ._.
+135_CD Trollop_NNP ._.
+._.
+Do_NNP ._.
+._.
+4_CD Do_NNP ._.
+._.
+Do_NNP ._.
+4,400_CD Do_NNP ._.
+77_CD Falmouth_NNP ._.
+T._NNP B._NNP Aus_NNP ._.
+6_CD Do_NNP ._.
+._.
+Colonel_NNP P._NNP K._NNP Doyne_NNP 1,100_CD Refusing_VBG to_TO cover_VB mares_NNS ._.
+212_CD Kharna_NNP ._.
+._.
+Cyprian_JJ ._.
+4_CD Donkey_NNP Maler_NNP Kotla_NNP State_NNP ._.
+Equivalent_NN of_IN £21-14-10_JJ each_DT ._.
+For_IN stud_JJ purposes_NNS ._.
+213_CD Sidh_NNP ._.
+._.
+Do_NNP ._.
+._.
+6_CD Do_NNP ._.
+._.
+Jodhpur_NNP State_NNP ._.
+Do_NNP ._.
+202_CD Jogia_NNP ._.
+._.
+Do_NNP ._.
+._.
+7_CD Do_NNP ._.
+._.
+Wadwhan_NNP State_NNP ._.
+Do_NNP ._.
+140_CD Kasauli_NNP ._.
+._.
+Do_NNP ._.
+._.
+6_CD Do_NNP ._.
+._.
+Bharatpur_NNP State_NNP ._.
+Do_NNP ._.
+17_CD Fitna_NNP ._.
+._.
+Do_NNP ._.
+._.
+8_CD Do_NNP ._.
+._.
+Do_NNP ._.
+Do_NNP ._.
+461_CD Rajshahi_NNP ._.
+._.
+Persian_NN ._.
+11_CD Do_NNP ._.
+._.
+Jasram_NNP ._.
+._.
+._.
+10_CD Refused_VBD to_TO cover_VB mares_NNS ._.
+105_CD Bandia_NNP ._.
+._.
+Punjabi_NNP ._.
+4_CD Do_NNP ._.
+._.
+Do_NNP ._.
+29_CD Do_NNP ._.
+NORTH_NNP PUNJAB_NNP Years_NNP ._.
+R_$ 9_CD Newbiggin_NNP Rufus_NNP Hackney_NNP ._.
+8_CD Horse_NN ._.
+Diwan_NNP Dowlat_NNP Ram_NNP ._.
+185_CD Bad_NNP stock_NN getter_NN ._.
+181_CD Pura_NNP ._.
+._.
+C._NNP B._NNP ._.
+6_CD Donkey_NNP Kalian_NNP Singh_NNP ._.
+22_CD Unfit_NN for_IN stud_JJ work_NN ._.
+BALUCHISTAN_NNP ._.
+Years_NNS ._.
+R_NN 2333_CD Valour_NNP N._NNP T._NNP ._.
+11_CD Horse_NN ._.
+Dist_NN ._.
+Superintendent_NN ,_, Police_NNP ._.
+150_CD Do_NNP ._.
+2383_CD The_DT Pilot_NNP ._.
+H._NNP B._NNP E._NNP ._.
+11_CD Do_NNP ._.
+._.
+Secretary_NNP ,_, Cantonment_NNP Committee_NNP ,_, Quetta_NNP ._.
+125_CD Do_NNP ._.
+2573_CD Augustus_NNP ._.
+._.
+Hackney_NNP 8_CD Do_NNP ._.
+._.
+Dist_NN ._.
+Superintendent_NN ,_, Police_NNP ._.
+150_CD Do_NNP ._.
+BOMBAY_NNP ._.
+Years_NNS ._.
+R_$ 1_CD Model_NNP N._NNP T._NNP ._.
+..._:
+Horse_NN ._.
+Mr._NNP J._NNP Kendall_NNP 61_CD Unsuitable_NNP for_IN mares_NNS in_IN the_DT Presidency_NNP ._.
+vii_NN TABLE_NNP V._NNP IMPERIAL_NNP ._.
+Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Horse_NNP and_CC Pony_NNP stallion_NN during_IN 1899-1900_JJ ._.
+Horse_NN or_CC Pony_NNP ._.
+CLASS_NN ._.
+NORTH-WESTERN_JJ PROVINCES_NNP AND_NNP OUDH_NNP ._.
+RAJPUTANA_NNP ._.
+REMARKS_NNP ._.
+Stallions_NNS on_IN register_NN ._.
+STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP ._.
+AVERAGE_JJ RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP AVERAGE_NNP OF_NNP MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP RESULTS_NNP OF_NNP PRE-_NNP VIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP ._.
+AVERAGE_JJ RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN produce_NN ._.
+Number_NNP not_RB hold_VB ._.
+Number_NNP not_RB known_VBN ._.
+Average_NN of_IN produce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Stallions_NNS on_IN register_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Average_NN of_IN produce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Horse_NN ._.
+Thorough-bred_JJ English_NNP ._.
+17_CD 16_CD 13_CD 883_CD 670_CD 55.18_CD 51.53_CD 145_CD 431_CD 94_CD 11.15_CD 33.15_CD 7.23_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Three-quarter_NN bred_VBD 2_CD 2_CD 2_CD 100_CD 111_CD 50.00_CD 5550_CD 31_CD 69_CD 11_CD 1550_CD 34.50_CD 5.50_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Half-bred_JJ and_CC Norfolk_NNP Trotters_NNP ._.
+31_CD 10_CD 13_CD 543_CD 599_CD 54.30_CD 46.07_CD 137_CD 419_CD 43_CD 10.53_CD 3223_CD 3.30_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Hackney_NNP 10_CD 10_CD 12_CD 575_CD 685_CD 57.50_CD 57.08_CD 169_CD 445_CD 71_CD 14.08_CD 37.08_CD 5.91_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Roadster_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 13_CD 9_CD 8_CD 499_CD 426_CD 55.40_CD 53.25_CD 116_CD 268_CD 42_CD 14.50_CD 33.50_CD 5.25_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Arab_VBP 26_CD 19_CD 17_CD 817_CD 723_CD 43.00_CD 42_CD 50_CD 196_CD 453_CD 74_CD 11.52_CD 26_CD 64_CD 4.35_CD 1_CD 1_CD 1_CD 13_CD 47_CD 13.00_CD 47.00_CD Not_RB known_VBN ._.
+Persian_JJ ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: .._NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Country-bred_JJ ._.
+._.
+3_CD 2_CD 2_CD 108_CD 76_CD 54.00_CD 38.00_CD 27_CD 40_CD 9_CD 13.50_CD 20.00_CD 4.50_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_VBP 82_CD 68_CD 67_CD 3,525_CD 3,290_CD 51.80_CD 49.10_CD 821_CD 2,125_CD 341_CD 12.25_CD 31.71_CD 5.13_CD 1_CD 1_CD 1_CD 13_CD 47_CD 13.00_CD 47.00_CD ..._: ..._: ..._: ..._: ..._: Pony_NNP ._.
+Arab_NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Pegu_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: .._JJ .._NN ..._: TOTAL_NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: GRAND_NNP TOTAL_NNP ._.
+82_CD 68_CD 67_CD 3,525_CD 3,290_CD 51.80_CD 49.10_CD 821_CD 2,125_CD 344_CD 12.25_CD 31.71_CD 5.13_CD 1_CD 1_CD 1_CD 13_CD 47_CD 13.00_CD 47.00_CD Not_RB known_VBN ._.
+viii_NN Servíces_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Horse_NNP and_CC Pony_NNP stallion_NN during_IN 1899-1900ix_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Horse_NNP and_CC Pony_NNP stallion_NN during_IN 1899-1900x_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Horse_NNP and_CC Pony_NNP stallion_NN during_IN 1899-1900xi_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Horse_NNP and_CC Pony_NNP stallion_NN during_IN 1899-1900xii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Horse_NNP and_CC Pony_NNP stallion_NN during_IN 1899-1900xiii_JJ TABLE_NNP VI_NNP ._.
+IMPERIAL_NNP ._.
+Abstract_NNP showing_VBG the_DT total_JJ number_NN and_CC pedigrees_NNS of_IN country-bred_JJ Remounts_NNS purchased_VBN by_IN Native_NNP Cavalry_NNP Regiments_NNP ,_, etc._NN ,_, during_IN the_DT official_JJ year_NN 1899-1900_CD ._.
+By_IN whom_WP purchased_VBD ._.
+Total_JJ number_NN purchased_VBN ._.
+PEDIGREES_NNP ._.
+PERCENTAGE_NN OF_CC PEDIGREES_NNP ._.
+Farnished_NNP ._.
+Not_RB furnished_VBN ._.
+Furnished_NNP ._.
+Not_RB furnished_VBN ._.
+Army_NNP Remount_NNP Department_NNP ._.
+._.
+122_CD 109_CD 13_CD 89.34_CD 1066_CD Native_NNP Cavalry_NNP Regiments_NNP ._.
+._.
+1,613_CD 358_CD 1,259_CD 22.19_CD 78.04_CD Police_NNP ._.
+North-Western_JJ Provinces_NNS ._.
+57_CD 5_CD 52_CD 8.77_CD 91.22_CD Punjab_NNP ._.
+39_CD ..._: 39_CD ..._: 100.00_CD Bombay_NNP ._.
+._.
+._.
+17_CD 5_CD 12_CD 294_CD 70.58_CD Sind_NNP ._.
+._.
+._.
+._.
+4_CD 4_CD ..._: 100_CD 00_CD ..._: Imperial_NNP Service_NNP Troops_NNP ._.
+._.
+._.
+185_CD 13_CD 172_CD 7.02_CD 92.97_CD TOTAL_NN ._.
+2,037_CD 494_CD 1,547_CD 24.20_CD 75_CD 94_CD xiv_NNS TABLE_NNP VII_NNP ._.
+IMPERIAL_NNP ._.
+Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900_JJ ._.
+Glass_NNP of_IN Donkey_NNP Stallions_NNP ._.
+NORTH-WESTERN_JJ PROVINCES_NNP AND_NNP OUDH_NNP ._.
+DONKEY_NNP STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP ._.
+EMPLOYED_NN AT_NNP STUD_NNP ._.
+RESULT_NNP OR_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP ._.
+AVERAGE_JJ RESULT_NNP OF_NNP PREVIOUS_NNP YEARS_NNP COVERINGS_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+For_IN mule_NN breeding_NN ._.
+For_IN donkey_JJ breeding_NN ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP marcs_NN ._.
+Donkey_NNP marcs_NN ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP marcs_NN ._.
+Stallions_NNS on_IN register_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN mule_NN produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Number_NNP of_IN donkey_JJ pro-_JJ duce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Average_NN of_IN mule_JJ pro-_JJ duce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Average_NN of_IN donkey_JJ pro-_JJ duce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Catalonians_NNS ._.
+._.
+10_CD 2_CD 3_CD ..._: ..._: 98_CD 206_CD ..._: ..._: 49.00_CD 68.66_CD ..._: ..._: ._. 54_CD 116_CD 36_CD ..._: ..._: ..._: 18.00_CD 3860_CD 12_CD 00_CD ..._: .._NN ..._: Arab_NNP ._.
+._.
+3_CD 3_CD 3_CD ..._: ..._: 179_CD 152_CD ..._: ..._: 59_CD 60_CD 50.66_CD ..._: ..._: 42_CD 79_CD 31_CD ..._: ..._: ..._: 14.00_CD 26_CD 30_CD 10_CD 30_CD ..._: ..._: ..._: Home-berd_NNP ._.
+._.
+4_CD 3_CD 3_CD 2_CD 2_CD 147_CD 141_CD 79_CD 73_CD 49.00_CD 47'00_CD 39.50_CD 36.50_CD 58_CD 71_CD 12_CD 22_CD 44_CD 7_CD 19.30_CD 23.60_CD 400_CD 11.00_CD 22.00_CD 3_CD 50_CD Punjabi_NNP ._.
+._.
+4_CD 3_CD 3_CD 1_CD 1_CD 135_CD 108_CD 36_CD 20_CD 45.00_CD 3600_CD 36.00_CD 20_CD 00_CD 38_CD 52_CD 18_CD 4_CD 16_CD ..._: 12.60_CD 17.30_CD 6.00_CD 4.00_CD 1600_CD ..._: Italian_JJ ._.
+._.
+40_CD 40_CD 45_CD 1_CD 1_CD 2,057_CD 2,092_CD 30_CD 34_CD 51.42_CD 46.48_CD 30_CD 00_CD 34_CD 00_CD 542_CD 1,229_CD 321_CD 15_CD 14_CD 5_CD 12.04_CD 27.30_CD 7.10_CD 15.00_CD 1400_CD 5.00_CD French_JJ ._.
+._.
+..._: 1_CD 2_CD ..._: 37_CD 60_CD ..._: ..._: 3700_CD 30.00_CD ..._: ..._: 13_CD 37_CD .10_NN ..._: ..._: ..._: 6_CD 50_CD 18.50_CD 5.00_CD ..._: ..._: ..._: Persian_NN ._.
+._.
+9_CD 6_CD 6_CD 2_CD 2_CD 330_CD 324_CD 56_CD 52_CD 55.00_CD 54_CD 00_CD 28.00_CD 26.00_CD 111_CD 166_CD 47_CD 17_CD 30_CD 5_CD 18.50_CD 27.60_CD 7.80_CD 8.50_CD 15.00_CD 2_CD 50_CD Cyprian_JJ ._.
+._.
+19_CD 14_CD 13_CD ..._: ..._: 730_CD 589_CD ..._: ..._: 52.14_CD 45.30_CD ..._: ..._: 163_CD 325_CD 101_CD ..._: ..._: ..._: 12.50_CD 25.00_CD 7.70_CD ..._: ..._: ..._: Zanzibari_NNP ._.
+._.
+1_CD ..._: ..._: 2_CD 2_CD ..._: ..._: 95_CD 92_CD ..._: ..._: 47.50_CD 46.00_CD ..._: ..._: ..._: 29_CD 49_CD 14_CD ..._: ..._: ..._: 14.50_CD 24.50_CD 7.00_CD Country_NN bred_VBD ._.
+._.
+9_CD 8_CD 7_CD ..._: ..._: 370_CD 366_CD ..._: ..._: 46.25_CD 52.28_CD ..._: ..._: 122_CD 193_CD 51_CD ..._: ..._: ..._: 17.40_CD 27.50_CD 7.20_CD ..._: ..._: ..._: TOTAL_VBP 99_CD 80_CD 85_CD 8_CD 8_CD 4,083_CD 4,038_CD 296_CD 271_CD 51.03_CD 47.50_CD 37.00_CD 33.87_CD 1,143_CD 2,268_CD 627_CD 87_CD 153_CD 31_CD 13.40_CD 26.60_CD 7.30_CD 10.80_CD 19.10_CD 3.80_CD xv_NN Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900xvi_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900xvii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900xviii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900xix_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP staions_NNS during_IN 1899-1900xx_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900xxi_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900xxii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900xxiii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP stallions_NNS during_IN 1899-1900-continued_JJ ._.
+Class_NN of_IN Donkey_NNP Stallions_NNP ._.
+GUZERAT_NNP ._.
+DONKEY_NNP STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP ._.
+AVERAGE_JJ RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+For_IN male-_JJ breeding_NN ._.
+For_IN donkey-_JJ breeding_NN ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Stallions_NNS on_IN register_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+rear_JJ under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN mule_JJ pro-_JJ duce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Number_NNP of_IN donkey_JJ pro-_JJ duce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Average_NN of_IN mule_JJ pro-_JJ duce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Average_NN of_IN donkey_JJ pro-_JJ duce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Nil_NNP ._.
+xxiv_NN Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN Government_NNP Donkey_NNP Stallions_NNP during_IN 1899-1900xxv_JJ TABLE_NNP VIII_NNP ._.
+IMPERIAL_NNP ._.
+Statement_NN of_IN Mules_NNS purchased_VBN by_IN Government_NNP during_IN 1899-1900_JJ ._.
+Mules_NNS purchased_VBN for_IN Total_JJ number_NN purchased_VBN ._.
+REMARKS_NNP ._.
+Remount_NNP Department_NNP Ordnance_NNP ._.
+258_CD 305_CD purchased_VBN by_IN Army_NNP Remount_NNP Department_NNP Officers_NNP ._.
+59_CD purchased_VBN by_IN Civil_NNP Veterinary_NNP Department_NNP Officers_NNP ._.
+18_CD purchased_VBN by_IN Mountain_NNP Artil-_NNP lery_NN Officers_NNPS ._.
+Baggage_NN ._.
+._.
+119_CD Transport_NNP ._.
+._.
+*1,256_JJ TOTAL_NNP ._.
+._.
+1,633_CD PURCHASED_NNP AT_NNP Fairs_NNP and_CC shows_NNS ._.
+Elsewhere_RB ._.
+Total_NN ._.
+In_IN Madr_NNP as_IN ._.
+._.
+._.
+._.
+._.
+..._: 172_CD 172_CD In_IN Bombayxxvi_NNP TABLE_NNP X_NNP ._.
+IMPERIAL_NNP ._.
+Return_NN of_IN branded_VBD or_CC certificated_VBN Mares_NNS and_CC their_PRP$ Produce_NN for_IN the_DT official_JJ year_NN 1899-1900_CD ._.
+DETAILS_NNP ._.
+BRANDED_NNP OR_NNP CERTIFICATED_NNP MARES_NNP ._.
+PRODUCE_NNP ._.
+TOTAL_NN ._.
+For_IN horse-breeding_NN ._.
+For_IN pony-breeding_NN ._.
+TOTAL_NN ._.
+Horse_NN stock_NN ._.
+Pony_NNP stock_NN ._.
+Mule_NNP stock_NN ._.
+Donkey_NNP stock_NN ._.
+Balance_NN on_IN 1st_CD April_NNP 1899_CD ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+24,907_CD 5,140_CD 30.047_CD Information_NN not_RB available_JJ ._.
+Increase_NNP Branded_NNP during_IN the_DT year_NN ._.
+._.
+._.
+._.
+._.
+._.
+2,057_CD 130_CD 2,187_CD ..._: ..._: ..._: ..._: ..._: Certificated_JJ mares_NNS ._.
+._.
+._.
+._.
+._.
+._.
+._.
+67_CD ..._: 67_CD ..._: ..._: ..._: ..._: ..._:
+Received_VBN by_IN transfer_NN from_IN other_JJ districts_NNS ._.
+._.
+._.
+687_CD ..._: 687_CD ..._: ..._: ..._: ..._: Foaled_VBD during_IN the_DT year_NN ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: 3,619_CD 185_CD 3,398_CD 290_CD 7,492_CD TOTAL_NN 27,718_CD 5,270_CD 32,988_CD 3,619_CD 185_CD 3,398_CD 290_CD 7,492_CD Decrease_NNP Died_NNP ._.
+._.
+._.
+._.
+._.
+._.
+1,281_CD 94_CD 1,375_CD 48_CD 28_CD 76_CD Sold_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1,413_CD ..._: 1,413_CD 340_CD 143_CD ..._: 483_CD Stolen_NNP ._.
+._.
+._.
+._.
+._.
+._.
+124_CD 73_CD 197_CD 1_CD ..._: 2_CD ..._: 3_CD Transferred_NNP to_TO other_JJ districts_NNS ._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._:
+Struck_NNP off_RP the_DT register_NN ._.
+._.
+._.
+._.
+._.
+._.
+342_CD ..._: 342_CD ..._: ..._: ..._: ..._: Not_RB traceable_JJ ._.
+._.
+._.
+._.
+._.
+._.
+._.
+1,323_CD 600_CD 1,923_CD ..._: ..._: ..._: ..._: TOTAL_VBP 4,483_CD 767_CD 5,250_CD 389_CD ..._: 173_CD ..._: 562_CD Balance_NNP on_IN 31st_CD March_NNP 1900_CD ._.
+._.
+._.
+._.
+._.
+._.
+23,235_CD 4,503_CD 27,738_CD Information_NN not_RB available_JJ ._.
+In_IN North-W_NNP estern_JJ Provinces_NNPS and_CC Oudh_NNP ._.
+._.
+._.
+._.
+._.
+._.
+3,971_CD 3,971_CD Information_NN not_RB available_JJ ._.
+In_IN North_NNP P_NNP unjab_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+6,684_CD ..._: 6,684_CD Ditto_NNP ._.
+In_IN South_NNP P_NNP unjab_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+6,541_CD 6,541_CD Ditto_NNP ._.
+In_IN Baluchi_NNP stan_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+2,654_CD ..._: 2,654_CD Ditto_NNP ._.
+In_IN Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+1,959_CD ..._: 1,959_CD Ditto_NNP ._.
+In_IN Deccan_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+803_CD 3,084_CD 3,8S7_CD Ditto_NNP ._.
+In_IN Guzerat_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+623_CD 1,419_CD 2,042_CD Ditto_NNP ._.
+In_IN Cutch_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: Ditto_NNP ._.
+TOTAL_JJ 23,235_CD 4,503_CD 27,738_CD xxvii_NN DETAILS_NNP ._.
+MAKES_NNP Horse-_NNP breeding_NN ._.
+Pony-_JJ breeding_NN ._.
+PRODUCE_NNP ._.
+Horse_NN stock_NN ._.
+Pony_NNP stock_NN ._.
+Male_JJ stock_NN ._.
+Donkey_NNP |_NNP stock_NN ._.
+Branded_VBN during_IN ._.
+the_DT year_NN ._.
+N.-W_NNP ._.
+Provinces_NNS ._.
+410_CD ..._: Foaled_VBN during_IN the_DT year_NN ._.
+N.-W_NNP ._.
+Provinces_NNS ._.
+745_CD ..._: 775_CD 73_CD North_NNP Punjab_NNP 499_CD ..._: North_NNP Punjab_NNP 1,063_CD ..._: 1,499_CD 190_CD South_NNP Punjab_NNP ._.
+789_CD ..._: South_NNP Punjab_NNP ._.
+1,046_CD ..._: 1,012_CD 27_CD Baluchistan_NNP ._.
+140_CD Baluchistan_NNP ._.
+406_CD ..._: 9_CD ..._: Sind_NNP ._.
+._.
+166_CD ..._: Sind_NNP ._.
+._.
+83_CD ..._: 103_CD ..._: Bombay_NNP ._.
+._.
+53_CD 130_CD Bombay_NNP ._.
+._.
+276_CD 185_CD ..._: ..._: 2,057_CD 130_CD 3,619_CD 185_CD 3,398_CD 290_CD Received_VBN from_IN other_JJ districts_NNS ._.
+N.-W_NNP ._.
+Provinces_NNS ._.
+175_CD ..._: North_NNP Punjab_NNP 264_CD ..._: South_NNP Punjab_NNP ._.
+236_CD ..._: Died_NNP ._.
+._.
+Baluchistan_NNP ._.
+40_CD 3_CD ..._: Baluchistan_NNP 12_CD ..._: 687_CD ..._: Sind_NNP ._.
+._.
+8_CD ..._: 25_CD ..._: 48_CD 28_CD Certificated_NNP North_NNP Punjab_NNP 67_CD ..._: Died_VBD N.-W_NNP ._.
+Provinces_NNS ._.
+150_CD ..._: North_NNP Punjab_NNP 247_CD ..._: Sold_VBN ._.
+._.
+Baluchistan_NNP ._.
+281_CD 22_CD ..._: South_NNP Punjab_NNP 584_CD ..._:
+I_PRP Baluchistan_VBP 35_CD ..._: Sind_NNP ._.
+._.
+59_CD ..._: 121_CD ..._: 340_CD 143_CD Sind_NNP ._.
+._.
+209_CD ..._: Bombay_NNP ._.
+._.
+56_CD 94_CD 1,281_CD 94_CD Stolen_NNP Baluchistan_NNP ._.
+1_CD ..._: ..._: ..._: Sold_VBN N.-W_NNP ._.
+Provinces_NNS ._.
+219_CD ..._: Sind_NNP ._.
+._.
+..._: ..._: 2_CD ..._: North_NNP Punjab_NNP ._.
+189_CD ..._: 1_CD 2_CD ..._: South_NNP Punjab_NNP ._.
+811_CD ..._: Baluchistan_NNP ._.
+17_CD ..._: Sind_NNP ._.
+._.
+._.
+177_CD ..._: 1,413_CD ..._:
+Stolen_NNP ._.
+._.
+N.-W_NNP ._.
+Provinces_NNS ._.
+13_CD ..._: North_NNP Punjab_NNP 34_CD ..._: South_NNP Punjab_NNP ._.
+36_CD ..._: Baluchistan_NNP i_NN ..._: Sind_NNP ._.
+._.
+7_CD ..._: Bombay_NNP ._.
+._.
+33_CD 73_CD 124_CD 73_CD Struck_NNP off_IN the_DT Register_NNP ._.
+N.-W_NNP ._.
+Provinces_NNS ._.
+9_CD ..._: North_NNP Punjab_NNP ._.
+98_CD ..._: South_NNP Punjab_NNP ._.
+235_CD ..._: 342_CD ..._: xxviii_NN TABLE_NNP XI_NNP ._.
+IMPERIAL_NNP Abstract_NNP showing_VBG number_NN of_IN Colts_NNP castrated_VBN by_IN Veterinary_JJ Assistants_NNS and_CC Salutris_NNP paid_VBD from_IN Imperial_NNP funds_NNS ,_, during_IN 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+HORSE_NNP STOCK_NNP ._.
+MULE_NNP STOCK_NNP ._.
+OTHER_NNP ANIMALS_NNP ._.
+TOTAL_NN ._.
+NUMBER_NNP OF_NNP DEATHS_NNP RESULT-_NNP ING_NNP FROM_NNP EFFECTS_NNP OP_NNP CASTRATION_NNP ._.
+Remarks_NNS ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+N.-W_NNP ._.
+Provinces_NNS and_CC Oudh_NNP ._.
+431_CD 448_CD 54_CD 76_CD ..._: ..._: 485_CD 524_CD ..._: ..._: Rajputana_NNP ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: North_NNP Punjab_NNP ._.
+._.
+._.
+202_CD 218_CD 25_CD 28_CD ..._: ..._: 227_CD 246_CD ..._: ..._: South_NNP Punjab_NNP ._.
+._.
+._.
+406_CD 482_CD 40_CD 41_CD ..._: ..._: 446_CD 523_CD ..._: 2_CD Baluchistan_NNP ._.
+._.
+._.
+174_CD 303_CD 2_CD 2_CD ..._: ..._: 176_CD 305_CD ..._: ..._: Sind_NNP ._.
+._.
+._.
+._.
+._.
+42_CD ..._: ..._: ..._: ..._: ..._: 42_CD ..._: ..._: ..._: Deccan_NNP ._.
+._.
+._.
+._.
+21_CD 13_CD ..._: ..._: ..._: ..._: 21_CD 13_CD ..._: ..._: Karnatak_NNP ._.
+._.
+._.
+._.
+8_CD 0_CD ..._: ..._: ..._: ..._: 8_CD 9_CD ..._: ..._: Guzerat_NNP ._.
+._.
+._.
+._.
+10_CD 7_CD ..._: ..._: ..._: ..._: 10_CD 7_CD ..._: 1_CD TOTAL_NNP 1,294_CD 1,480_CD 121_CD 147_CD .._NNS ..._: 1,415_CD 1,627_CD ..._: 3_CD TABLE_NNP XII_NN ._.
+IMPERIAL_NNP ._.
+Abstract_NNP showing_VBG average_JJ Cost_NN of_IN feed_NN ,_, keep_VB ,_, attendants_NNS ,_, etc._FW ,_, of_IN Government_NNP donkey_JJ stallions_NNS during_IN 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+AVERAGE_JJ COST_NNP PER_NNP DONKEY_NNP STALLION_NNP PER_NNP ANNUM_NNP ._.
+REMARKS_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._NN IMPERIAL_NNP CHARGES_NNP ._.
+North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+._.
+._.
+147_CD 12_CD 7_CD 130_CD 1_CD 0_CD Rajputana_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+219_CD 13_CD 4_CD 212_CD 15_CD 5_CD North_NNP Punjab_NNP ..._: ..._: 190_CD 0_CD 9_CD 180_CD 1_CD 11_CD South_NNP Punjab_NNPS ..._: ..._: 169_CD 15_CD 5_CD 157_CD 2_CD 8_CD Baluchistan_NNP ._.
+._.
+._.
+._.
+._.
+._.
+336_CD 0_CD 3_CD 315_CD 4_CD 6_CD Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+263_CD 8_CD 4_CD 219_CD 0_CD 2_CD Central_JJ India_NNP ..._: ..._: ._. Not_RB furnished_VBN ._.
+..._: Bengal_NN ..._: .._VBZ 223_CD 3_CD 6_CD 199_CD 4_CD 7_CD General_JJ average_JJ Imperial_JJ charges_NNS ._.
+._.
+._.
+179_CD 13_CD 0_CD 163_CD 13_CD 11_CD PROVINCIAL_NNP CHARGES_NNP ._.
+Deccan_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: 295_CD 0_CD 0_CD Guzerat_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: 335_CD 0_CD 0_CD Cutch_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: General_JJ average_JJ Provincial_JJ charges_NNS ._.
+._.
+._.
+..._: ..._: 314_CD 5_CD 8_CD xxix_NNS TABLE_NNP XIII_NN ._.
+IMPERIAL_NNP ._.
+Abstract_NNP of_IN particulars_NNS regarding_VBG Horse_NNP Fairs_NNP and_CC Shows_NNP held_VBD during_IN the_DT year_NN 1S99~1900_CD ._.
+PROVINCE_NNP Number_NNP of_IN Fairs_NNP or_CC Shows_NNP held_VBD ._.
+TOTAL_NN ._.
+NUMBER_NNP OF_NNP ANIMALS_NNP PRESENT_NNP ._.
+TOTAL_JJ NUMBER_NNP COMPETING_NNP FOR_NNP PRIZES_NNP ._.
+TOTAL_JJ NUMBER_NNP OF_NNP HORSE_NNP STOCK_NNP (_( NOT_NNP INCLUDING_NNP BRANDED_NNP MARES_NNP )_) PRESENT_NNP ._.
+NUMBER_NNP OF_NNP REMOUNTS_NNP PURCHASED_NNP ._.
+PRICE_NNP PAID_NNP FOR_NNP REMOUNTS_NNP ._.
+NUMBER_NNP OF_NNP MULES_NNP PURCHASED_NNP ._.
+PRICE_NNP PAID_NNP FOR_NNP MULES_NNP TOTAL_NNP NUMBER_NNP OF_NNP SALES_NNP EFFECTED_NNP ._.
+PRIZES_NNP AWARDED_NNP ._.
+Amount_NN sanctioned_VBN by_IN Government_NNP of_IN India_NNP for_IN next_JJ year_NN 's_POS Fair_NNP or_CC Show_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Belonging_VBG to_TO breeders_NNS ._.
+Belonging_VBG to_TO dealers_NNS ._.
+For_IN Remount_NNP Department_NNP ._.
+For_IN Native_NNP Cavalry_NNP ._.
+For_IN Police_NNP ._.
+Total_NN ._.
+Highest_NNP price_NN ._.
+Lowest_NNP price_NN ._.
+Average_JJ price_NN ._.
+By_IN Government_NNP ._.
+By_IN others_NNS ._.
+Total_NN ._.
+Highest_NNP price_NN ._.
+Lowest_NNP price_NN ._.
+Average_JJ price_NN ._.
+Total_JJ number_NN sold_VBN ._.
+Highest_NNP price_NN ._.
+Lowest_NNP price_NN ._.
+Average_JJ price_NN ._.
+From_IN Imperial_NNP Funds_NNP ._.
+From_IN Provincial_JJ Funds_NNS ._.
+From_IN Local_NNP and_CC District_NNP Funds_NNP ._.
+From_IN private_JJ subscription_NN ._.
+Total_NN ._.
+Amount_NNP actually_RB awarded_VBD ._.
+Number_NNP of_IN Medals_NNP awarded_VBD ._.
+North-Western_JJ Provinces_NNS and_CC Oudh_NNP 6_CD 58,736_CD 80,185_CD 1,694_CD 1,720_CD 1,359_CD 6,223_CD 10_CD *_NN 276_CD 35_CD *_NN 321_CD 500_CD 60_CD 254_CD 27_CD ..._: 27_CD 148_CD 130_CD 136_CD 3,648_CD 500_CD 60_CD 192_CD 4,660_CD 2,660_CD ..._: 7,300_CD 6,818_CD 4_CD 5,350_CD Rajputana_NNP ._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: North_NNP Punjab_NNP ._.
+._.
+._.
+._.
+6_CD 7,312_CD 7,394_CD 1,615_CD 1,966_CD 2,596_CD 375_CD 14_CD 100_CD 7_CD 121_CD 800_CD 20_CD ..._: 134_CD 1,184_CD 1,318_CD 400_CD 1_CD ..._: 2,813_CD 800_CD 1_CD ..._: 5,600_CD ..._: 1,873_CD ..._: 7,4,73_CD 6,542_CD 6_CD 6,100_CD South_NNP Punjab_NNP ._.
+._.
+._.
+._.
+10_CD 19,044_CD 19,057_CD 1,933_CD 2,796_CD 9,634_CD 5,644_CD 15_CD 449_CD 11_CD 475_CD ..._: ..._: ..._: 192_CD 1,230_CD 1,422_CD ..._: ..._: ..._: 10,852_CD ..._: ..._: ..._: 5,367_CD ..._: 2,478_CD 617_CD 8,462_CD 8,197_CD 7_CD 6,060_CD Baluchistan_NNP ._.
+._.
+._.
+._.
+2_CD 1,186_CD 1,390_CD 1,186_CD 1,315_CD 879_CD 271_CD 21_CD 132_CD 52_CD 205_CD 825_CD 275_CD 422_CD 3_CD ..._: 3_CD 100_CD 80_CD 88_CD 359_CD 425_CD 60_CD 131_CD 2,600_CD 1,642_CD ..._: ..._: 4,242_CD 4,226_CD 2_CD 2,600_CD Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+2_CD 1,366_CD 2,150_CD 1,356_CD 2,150_CD 1,073_CD ..._: 7_CD 35_CD 54_CD 96_CD 540_CD 200_CD 377_CD 15_CD ..._: 15_CD 152_CD 120_CD 135_CD 169_CD 220_CD 100_CD 162_CD 2,700_CD ..._: ..._: ..._: 2,700_CD 2,700_CD 2_CD 3,200_CD Bengal_NNP ._.
+._.
+._.
+._.
+._.
+._.
+Partculars_NNS not_RB furnished_VBN ._.
+Bombay_NNP Presidency_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 500_CD TOTAL_NN ._.
+25_CD 67,634_CD 110,176_CD 7,784_CD 9,947_CD 15,541_CD 12,513_CD 67_CD 992_CD 159_CD 1,218_CD 825_CD 20_CD ..._: 371_CD 2,411_CD 2,785_CD 400_CD 1_CD ..._: 17,841_CD 800_CD 1_CD ..._: 20,917_CD 4,292_CD 4,351_CD 617_CD 30,177_CD 28,483_CD 20_CD 23,80_CD *_NN Includes_NNP 5_CD ponies_NNS ._.
+XXX_NN TABLE_NNP XIV_NNP ._.
+IMPERIAL_NNP ._.
+Abstract_NNP showing_VBG the_DT produce_NN of_IN Government_NNP stallions_NNS that_IN won_VBD prizes_NNS at_IN Horse_NNP Fairs_NNP and_CC Shows_NNP ,_, during_IN 1899-1900_JJ ._.
+CLASS_NN OF_NNP SIRES_NNP ._.
+Number_NNP of_IN sires_NNS of_IN each_DT class_NN ._.
+NUMBER_NNP OF_NNP PRIZES_NNP AWARDED_NNP ._.
+PROPORTION_NN OF_NNP PRIZE_NNP TO_NNP EACH_NNP SIRE_NNP 1st_CD prize_NN ._.
+2nd_CD prize_NN ._.
+3rd_CD prize_NN ._.
+Other_JJ prizes_NNS ._.
+Total_NN ._.
+1st_CD prize_NN ._.
+2nd_CD prize_NN ._.
+3rd_CD prize_NN ._.
+Other_JJ prizes_NNS ._.
+Total_NN ._.
+Thorough-bred_JJ English_NNP ._.
+107_CD 105_CD 86_CD 62_CD 292_CD 545_CD 098_CD 0.80_CD 0.57_CD 2.72_CD 5.09_CD Half_NN and_CC Three-quarter_NNP bred_VBD English_NNP ,_, Hackney_NNP and_CC Nor-_NNP folk_NN Trotter_NNP ._.
+150_CD 53_CD 61_CD 67_CD 305_CD 486_CD 0.35_CD 0.40_CD 0.44_CD 2.03_CD 3.24_CD Australians_NNPS ._.
+._.
+._.
+31_CD 33_CD 28_CD 22_CD 116_CD 199_CD 1.06_CD 0.90_CD 0.70_CD 3.74_CD 6.40_CD Arabs_NNPS ._.
+._.
+._.
+._.
+129_CD 32_CD 37_CD 32_CD 238_CD 339_CD 0.24_CD 0.28_CD 0.24_CD 1.84_CD 2.62_CD Stud-breds_NNS ._.
+._.
+._.
+7_CD 2_CD 3_CD 7_CD 27_CD 39_CD 0.28_CD 0.42_CD 1.00_CD 3.85_CD 5.56_CD Persians_NNPS ._.
+._.
+._.
+._.
+1_CD 1_CD ..._: 1_CD ..._: 2_CD 1.00_CD ..._: 1.00_CD ..._: 2.00_CD TABLE_NNP XV_NN ._.
+IMPERIAL_NNP ._.
+BALANCE_NNP SHEET_NNP OF_NNP CULTIVATION_NNP OPERATIONS_NNP OF_IN THE_NNP NORTH-WESTERN_NNP PROVINCES_NNP DEPÔT_NNP FOR_NNP THE_NNP OFFICIAL_NNP YEAR_NNP 1899-1900._JJ xxxii_NNP TABLE_NNP Dr._NNP IMPE_NNP Balance_NNP sheet_NN of_IN Cultivation_NNP operations_NNS of_IN the_DT North-Western_JJ No_NNP ._.
+R_NNP a._NN p._NN R_NNP a._NN p._VBD 1_CD Value_NNP of_IN lands_NNS ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1,076_CD 4_CD 0_CD 2_CD xxxiii_JJ XV_NNP ._.
+RIAL_NNP ._.
+Provinces_NNS Depôt_NNP for_IN the_DT official_JJ year_NN 1899-1900_CD ._.
+No_DT ._.
+By_IN stock_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._VBD 29_CD Value_NNP of_IN lands_NNS ._.
+._.
+._.
+._.
+1,076_CD 4_CD 0_CD 30_CD xxxiv_NNS TABLE_NNP IMPE_NNP Balance_NNP sheet_NN of_IN Cultivation_NNP operations_NNS of_IN the_DT No_NNP ._.
+To_TO stock_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._VBD 1_CD Value_NNP of_IN land_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+868_CD 11_CD 0_CD 2_CD XXXV_NN XVI_NN ._.
+RIAL_NNP ._.
+South_NNP Punjab_NNP Dep6t_NNP for_IN the_DT official_JJ year_NN 1899-1900_CD ._.
+No_DT ._.
+By_IN stock_NN ._.
+R_NNP a._NN p_NN ._.
+R_NNP a._NN p_NN ._.
+29_CD Value_NNP of_IN land_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+868_CD 11_CD 0_CD 30_CD xxxvi_NNS TABLE_NNP XVII_NN ._.
+IMPERIAL_NNP ._.
+Return_NN of_IN Instruction_NNP Farm_NNP animals_NNS for_IN the_DT official_JJ year_NN 1899-1900_CD ._.
+DETAILS_NNP ._.
+FARM_NN STALLIONS_NNP ._.
+FARM_NN MARES_NNP ._.
+FARM_NN PRODUCE_NNP ._.
+HORSE_NN ._.
+DONKEY_NNP ._.
+Total_JJ Horse_NNP and_CC Don-_NNP key_JJ Stallions_NNP ._.
+FARM_NN MARES_NNP ._.
+PONY_NNP MARES_NNP ._.
+DONKEY_NNP MARES_NNP ._.
+Total_JJ Farm_NNP MarEs_NNP ._.
+HORSE_NNP STOCK_NNP ._.
+MULE_NNP STOCK_NNP ._.
+DONKEY_NNP STOCK_NNP ._.
+Total_JJ Produce_NNP ._.
+Arab_NN ._.
+Half-bred_JJ and_CC Hackney_NNP ._.
+Gelding_VBG ._.
+Total_NN ._.
+Persian_NN ._.
+Home-bred_NNP ._.
+Total_NN ._.
+Country-bred_NNP ._.
+Australian_JJ ._.
+Total_NN ._.
+Country-bred_NNP ._.
+Total_NN ._.
+Home-bred_NNP ._.
+Total_NN ._.
+Colts_NNS ._.
+Fillies_NNS ._.
+Total_NN ._.
+Colts_NNS ,_, Fillies_NNS ._.
+Total_NN ._.
+Colts_NNS ._.
+Fillies_NNS ._.
+Total_NN ._.
+Balance_NN on_IN 1st_CD April_NNP 1899_CD ._.
+._.
+._.
+._.
+._.
+._.
+6_CD ..._: 1_CD 7_CD ..._: ..._: ..._: 7_CD 22_CD 5_CD 27_CD 2_CD ..._: 2_CD ..._: ..._: .._VBZ 29_CD 10_CD 6_CD 16_CD 1_CD 2_CD 3_CD 7_CD ..._: 7_CD 26_CD Increase_NN Purchased_VBN in_IN India_NNP ._.
+._.
+._.
+._.
+._.
+11_CD ..._: ..._: 11_CD ..._: ..._: ..._: 11_CD 6_CD ..._: 6_CD ..._: ..._: ..._: ..._: ..._: 6_CD ..._: ..._: ..._: ..._: ..._: ..._: 3_CD ..._: 3_CD 3_CD Received_VBN from_IN Imperial_NNP list_NN ._.
+._.
+._.
+._.
+..._: 2_CD ..._: 2_CD ..._: ..._: ..._: ..._: 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Foaled_VBD during_IN the_DT year_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 7_CD 2_CD 9_CD ..._: 2_CD 2_CD ..._: ..._: ..._: 11_CD Received_VBD from_IN ``_`` Horse_NNP Stock_NNP ''_'' ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: .._NN ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._:
+Received_VBN from_IN Punjab_NNP Depôt_NNP by_IN purchase_NN ..._: ..._: ..._: .._NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 4_CD ..._: 4_CD ..._: 1_CD 1_CD ..._: ..._: ..._: 5_CD Received_VBN from_IN Kirkee_NNP Royal_NNP Horse_NNP Artillery_NNP ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+17_CD 2_CD 1_CD 20_CD ..._: ..._: ..._: 20_CD 29_CD 6_CD 35_CD 2_CD ..._: 2_CD ..._: ..._: ..._: 37_CD 21_CD 8_CD 29_CD 1_CD 5_CD 6_CD 20_CD ..._: 10_CD 45_CD Decrease_NNP Died_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD 1_CD 1_CD ..._: 1_CD ..._: ..._: ..._: 2_CD ..._: 1_CD 1_CD ..._: ..._: ..._: 1_CD ..._: 1_CD 2_CD Destroyed_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD 1_CD 1_CD ..._: 1_CD ..._: ..._: ..._: 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Sold_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+11_CD ..._: ..._: 11_CD ..._: ..._: ..._: 11_CD 7_CD ..._: 7_CD ..._: ..._: ..._: ..._: ..._: ..._: 7_CD 10_CD 3_CD 13_CD ..._: 1_CD 1_CD 2_CD ..._: 2_CD 16_CD Transferred_NNP to_TO ``_`` Farm_NNP Mares_NNP ''_'' ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: 1_CD Transferred_NNP to_TO Imperial_NNP list_NN ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 7_CD ..._: 7_CD 7_CD TOTAL_NN ._.
+11_CD ..._: ..._: 11_CD ..._: ..._: ..._: 11_CD 7_CD 2_CD 9_CD 2_CD ..._: 2_CD ..._: ..._: ..._: 11_CD 10_CD 5_CD 15_CD ..._: 1_CD 1_CD 10_CD ..._: 10_CD 26_CD Balance_NN on_IN 31st_CD March_NNP 1900_CD ._.
+._.
+._.
+._.
+._.
+._.
+._.
+6_CD 2_CD 1_CD 9_CD ..._: ..._: ..._: 9_CD 22_CD 4_CD 26_CD ..._: ._. ..._: ..._: ..._: ..._: ..._: 26_CD 11_CD 3_CD 14_CD 1_CD 4_CD 5_CD ..._: ..._: ..._: 19_CD In_IN North-Western_JJ Provinces_NNS Depôt_NNP ._.
+._.
+._.
+._.
+2_CD 2_CD 1_CD 5_CD ..._: ..._: ..._: 5_CD 9_CD 3_CD 12_CD ..._: ..._: ..._: ..._: ..._: ..._: 12_CD 10_CD 3_CD 13_CD 1_CD 4_CD 5_CD ..._: ..._: ..._: 18_CD In_IN South_NNP Punjab_NNP Depôt_NNP ._.
+._.
+._.
+._.
+._.
+._.
+4_CD ..._: ..._: 4_CD ..._: ..._: ..._: 4_CD 13_CD 1_CD 14_CD ..._: ..._: ..._: ..._: ..._: 14_CD 1_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: 1_CD xxxvii_NNS TABLE_NNP XVIII_NN ._.
+IMPERIAL_NNP ._.
+Abstract_NNP of_IN Casualties_NNP of_IN Instruction_NNP Farm_NNP animals_NNS ,_, during_IN 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+NUMBER_NNP DIED_NNP ._.
+NUMBER_NNP DESTROYED_NNP ._.
+Total_NN ._.
+PERCENTAGE_NNP DEATHS_NNP ._.
+PERCENTAGE_NN DESTROYED_NNP ._.
+GENERAL_NNP PERCENTAGE_NNP ._.
+Stallions_NNS ._.
+Marcs_NNP ._.
+Produce_NNP ._.
+Stallions_NNS ._.
+Mares_NNS ._.
+Produce_NNP ._.
+Stallions_NNS ._.
+Mares_NNS ._.
+Produce_NNP ._.
+Stallions_NNS ._.
+Mares_NNS ._.
+Produce_NNP ._.
+Stallions_NNS ._.
+Mares_NNS ._.
+Produce_NNP ._.
+Stallions_NNS ._.
+Mares_NNS ._.
+Produce_NNP ._.
+North-W_JJ estern_JJ Provinces_NNS ._.
+..._: ..._: 2_CD ..._: 1_CD ..._: ..._: 1_CD 2_CD ..._: ..._: 10.52_CD ..._: 5.88_CD ..._: ..._: 5.88_CD 10.52_CD South_NNP Punjab_NNP ._.
+..._: 2_CD ..._: ..._: 1_CD ..._: ..._: 3_CD ..._: ..._: 16.66_CD ..._: ..._: 8.33_CD ..._: ..._: 25.00_CD ..._: TOTAL_NN ._.
+..._: 2_CD 2_CD ..._: 2_CD ..._: ..._: 4_CD 2_CD ..._: 6.89_CD 7.69_CD ..._: 6.89_CD ..._: ..._: 17.79_CD 7.69_CD TABLE_NNP XIX_NN ._.
+IMPERIAL_NNP ._.
+Abstract_NN of_IN Sales_NNS of_IN Instruction_NNP farm_NN animals_NNS ,_, during_IN 1899-1900_JJ ._.
+DETAILS_NNP ._.
+NORTH-WESTERN_JJ PROVINCES_NNP ._.
+SOUTH_NNP PUNJAB_NNP ._.
+TOTAL_NN ._.
+REMARKS_NNP ._.
+Num-_JJ ber_NN sold_VBN ._.
+Average_JJ price_NN realized_VBN per_IN animal_NN ._.
+Num-_JJ ber_NN sold_VBN ._.
+Average_JJ price_NN realized_VBN per_IN animal_NN ._.
+Num-_JJ ber_NN sold_VBN ._.
+General_JJ average_JJ price_NN realized_VBN per_IN animal_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN Stallions_NNP sold_VBD to_TO District_NNP Boards_NNP ,_, etc_NN ._.
+5_CD 609_CD 6_CD 4_CD 6_CD 677_CD 12_CD 5_CD 11_CD 646_CD 11_CD 1_CD Mares_NNS unfit_JJ for_IN breeding_VBG ._.
+5_CD 67_CD 8_CD 0_CD 2_CD 130_CD 8_CD 0_CD 7_CD 85_CD 8_CD 0_CD Horse_NNP stock_NN sold_VBD as_IN Remounts_NNS ._.
+1_CD 425_CD 0_CD 0_CD 3_CD 333_CD 5_CD 4_CD 4_CD 356_CD 4_CD 0_CD Mule_NNP stock_NN sold_VBD as_IN Remounts_NNS ._.
+..._: ..._: ..._: ..._: ..._: ..._:
+Horse_NNP stock_NN not_RB likely_JJ to_TO be_VB fit_JJ for_IN Remounts_NNS ._.
+4_CD 84_CD 12_CD 0_CD 1_CD 250_CD 0_CD 0_CD 5_CD 117_CD 12_CD 9_CD Mule_NNP stock_NN not_RB likely_JJ to_TO be_VB fit_JJ for_IN Ordnance_NNP or_CC Baggage_NNP purposes_NNS ._.
+..._: ..._: ..._: ..._: ..._: ..._: Donkey_NNP stock_NN not_RB likely_JJ to_TO be_VB fit_JJ for_IN stallion_NN purposes_NNS ._.
+1_CD 22_CD 0_CD 0_CD ..._: ..._: 1_CD 22_CD 0_CD 0_CD Donkey_NNP colts_NNS sold_VBD as_IN stallion_NN ._.
+1_CD 200_CD 0_CD 0_CD ..._: ..._: 1_CD 200_CD 0_CD 0_CD Horse_NNP stock_NN sold_VBD to_TO North-_NNP Western_NNP Provinces_NNP Instruc-_NNP tion_NN Farm_NNP ._.
+..._: ..._: 4_CD 52_CD 8_CD 0_CD 4_CD 52_CD 8_CD 0_CD Mule_NNP stock_NN sold_VBD to_TO North-_NNP Western_NNP Provinces_NNP Instruc-_NNP tion_NN Farm_NNP ._.
+..._: ..._: 1_CD 70_CD 0_CD 0_CD 1_CD 70_CD 0_CD 0_CD TOTAL_NN ._.
+17_CD 257_CD 0_CD 4_CD 17_CD 344_CD 9_CD 1_CD 34_CD 300_CD 13_CD 3_CD xxxviii_NNS TABLE_NNP XX_NN ._.
+IMPERIAL_NNP ._.
+Statement_JJ showing_NN charges_NNS debited_VBN to_TO Indian_JJ Estimates_NNS during_IN 1899-1900_JJ in_IN connection_NN with_IN the_DT Civil_NNP Veterinary_NNP Department_NNP ._.
+MAJOR_JJ HEAD_NNP ._.
+Inspector-_JJ General_NNP ._.
+Imperial_JJ Bacteriologist_NNP ._.
+Assistant_NN to_TO Inspector-_NNP General_NNP ._.
+Superintend-_JJ ent_NN ,_, North-_JJ Western_JJ Pro-_NNP vinces_NNS and_CC Oudh_NNP ._.
+Superintend-_JJ ent_NN ,_, North_NNP Punjab_NNP ._.
+Superintend-_JJ ent_NN ._.
+South_NNP Punjab_NNP ._.
+Superintend-_JJ ent_NN ,_, Balu-_NNP chistan_NN and_CC Sind_NNP ._.
+Superintend-_JJ ent_NN ,_, Bombay_NNP ._.
+Commandant_NNP ,_, Central_NNP India_NNP Horse_NNP ,_, Indore_NNP Superintend-_NNP ent_NN ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, Rajputana_NNP ._.
+Superintend-_JJ ent_NN ,_, Bengal_NNP ._.
+Superintend-_JJ ent_NN ,_, Madras_NNP ._.
+Superintend-_JJ ent_NN ,_, Burma_NNP ._.
+TOTAL_NN ._.
+Civil_NNP Veterinary_NNP Department_NNP ._.
+ft_JJ a._NN p._NN I._NNP Prizes_NNP at_IN Horse_NNP Fairs_NNP and_CC Shows_NNP ._.
+._.
+416_CD 12_CD 0_CD ..._: ..._: 1,744_CD 0_CD 0_CD 5,475_CD 0_CD 0_CD 5,273_CD 8_CD 3_CD 2,600_CD 0_CD 0_CD ..._: ..._: ..._: 500_CD 0_CD 0_CD ..._: ..._: 16,009_CD 4_CD 3_CD II_NNP ._.
+Establishment_NN ,_, officers_NNS ._.
+._.
+._.
+._.
+24,210_CD 6_CD 0_CD 18,254_CD 10_CD 6_CD 13,011_CD 7_CD 10_CD ..._: ..._: ..._: 12,833_CD 6_CD 5_CD ..._: ..._: 12,081_CD 3_CD 11_CD ..._: ..._: ..._: 80,391_CD 2_CD 7_CD Ditto_NNP subordinates_NNS ._.
+._.
+._.
+13,290_CD 8_CD 0_CD 8,018_CD 14_CD 0_CD 1,860_CD 0_CD 0_CD 10,755_CD 5_CD 6_CD 5,715_CD 5_CD 4_CD 8,903_CD 8_CD 2_CD 11,290_CD 2_CD 1_CD ..._: ..._: 477_CD 6_CD 8_CD ..._: ..._: ..._: 60,311_CD 1_CD 9_CD III_NNP ._.
+Travelling_VBG allowances_NNS ,_, officers_NNS ._.
+._.
+5,651_CD 2_CD 0_CD 1,596_CD 14_CD 0_CD 2,985_CD 0_CD 0_CD ..._: ..._: ..._: 2,004_CD 10_CD 0_CD ..._: ..._: 605_CD 2_CD 0_CD ..._: ..._: ..._: 12,842_CD 12_CD 0_CD Ditto_NNP subordinates_NNS ._.
+._.
+3,793_CD 12_CD 9_CD 716_CD 6_CD 0_CD 535_CD 13_CD 6_CD 916_CD 5_CD 0_CD 109_CD 0_CD 3_CD 295_CD 0_CD 0_CD 875_CD 10_CD 3_CD ..._: ..._: 10_CD 1_CD 0_CD ..._: ..._: ..._: 7,252_CD 0_CD 9_CD Grain_NNP compensation_NN allowance_NN ._.
+._.
+..._: ..._: ..._: ..._: 26_CD 1_CD 0_CD 9_CD 3_CD 0_CD 0_CD 10_CD 8_CD 0_CD ..._: ..._: 15_CD 0_CD 0_CD ..._: ..._: ..._: 55_CD 2_CD 9_CD IV_NNP ._.
+Contingencies_NNS ._.
+._.
+._.
+._.
+._.
+7,490_CD 15_CD 10_CD 14,775_CD 12_CD 11_CD 1,191_CD 15_CD 0_CD 1,280_CD 6_CD 4_CD ..._: 0_CD 1_CD 0_CD 2,607_CD 12_CD 0_CD ..._: ..._: 147_CD 14_CD 8_CD ..._: ..._: ..._: 27,494_CD 12_CD 9_CD V._NNP Purchase_NNP of_IN Stallions_NNP ._.
+._.
+._.
+._.
+1,18,789_CD 8_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1,18,789_CD 8_CD 2_CD VI_NNP ._.
+Stable_JJ feed_NN and_CC keep_VB ._.
+._.
+._.
+._.
+13,877_CD 14_CD 0_CD ..._: ..._: 40,872_CD 6_CD 5_CD 61,932_CD 2_CD 8_CD 49,544_CD 1_CD 5_CD 3_CD 24,602_CD 13_CD 4_CD 11,053_CD 1_CD 4_CD 237_CD 6_CD 11_CD 614_CD 9_CD 2_CD ..._: ..._: ..._: 2,02,665_CD 6_CD 1_CD VII_NNP ._.
+Road_NN expenses_NNS ._.
+._.
+._.
+._.
+._.
+1,042_CD 12_CD 0_CD ..._: ..._: 3,172_CD 1_CD 6_CD 518_CD 1_CD 2_CD 5_CD 1,871_CD 5_CD 4_CD 631_CD 1_CD 0_CD 698_CD 8_CD 0_CD ..._: ..._: ..._: ..._: ..._: 7,834_CD 8_CD 3_CD Instruction_NNP Farm_NNP ._.
+VIII_NNP ._.
+Establishment_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: 1,505_CD 1_CD 5_CD 3_CD ..._: 1,617_CD 4_CD 0_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3,123_CD 3_CD 3_CD IX_NNP ._.
+Contingencies_NNS ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: 4,386_CD 9_CD 0_CD ..._: 2,141_CD 1_CD 3_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 6,528_CD 6_CD 2_CD X_NN ._.
+Purchase_NN of_IN farm_NN animals_NNS ._.
+._.
+._.
+1,000_CD 0_CD 0_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1,000_CD 0_CD 0_CD XI_NN ._.
+Stable_JJ feed_NN and_CC keep_VB ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+1,89,563_CD 10_CD 9_CD 43,362_CD 9_CD 4_CD 19,584_CD 4_CD 4_CD 64,633_CD 0_CD 0_CD 73,776_CD 5_CD 69,650_CD 7_CD 2_CD 67,455_CD 15_CD 1_CD 11,651_CD 9_CD 4_CD 237_CD 6_CD 11_CD 13,881_CD 5_CD 5_CD 500_CD 0_CD 0_CD ..._: ..._: 5,44,297_CD 3_CD 9_CD xxxix_NNS TABLE_NNP XXI_NN ._.
+IMPERIAL_NNP ._.
+Abstract_NNP of_IN Tours_NNP of_IN Superintendents_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, during_IN 1899-1900_JJ RANK_NNP ,_, NAME_NNP ,_, AND_NNP DESIGNATION_NNP OF_NNP TOURING_NNP OFFICER_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP INSPECTED_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP BRANDED_NNP FOR_NNP TOTAL_NNP MARES_NNP BRANDED_NNP ._.
+HORSE_NN ._.
+PONY_NNP ._.
+MULE_NNP ._.
+DONKEY_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+SUMMARY_NNP OF_NNP OTHER_NNP DUTIES_NNP PERFORMED_NNP ._.
+Veterinary_JJ Major_NNP R._NNP H._NNP Ringe_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, North-Western_NNP Provinces_NNPS and_CC Oudh_NNP ._.
+1,897_CD 2_CD 642_CD 410_CD 488_CD ..._: ..._: 26_CD ..._: ..._: ..._: 436_CD 488_CD Inspected_VBN Shaharanpur-Rajpur_NNP Dâk_NNP line_NN in_IN June_NNP ,_, July_NNP ,_, August_NNP and_CC October_NNP 1899_CD ._.
+Ditto_NNP Kathgodam-Naini_NNP Tal_NNP Dâk_NNP line_NN in_IN September_NNP 1899_CD ._.
+Ditto_NNP Cast_NNP mares_NNS for_IN mule_NN breeding_NN at_IN Umballa_NNP in_IN August_NNP 1899_CD ._.
+Ditto_NNP Equine_NNP stock_NN at_IN Benares_NNP to_TO detect_VB cases_NNS of_IN glanders_NNS in_IN October_NNP 1899_CD and_CC February_NNP 1900_CD ._.
+Visited_VBN Haldwani_NNP to_TO examine_VB suspected_VBN glandered_JJ case_NN in_IN August_NNP 1899_CD ._.
+Examined_VBD a_DT glandered_JJ case_NN at_IN Sardhana_NNP in_IN March_NNP 1900_CD ._.
+Purchased_VBN stallions_NNS at_IN Bombay_NNP for_IN Provincial_JJ Government_NNP in_IN February_NNP 1900_CD ._.
+Attended_NNP ,_, as_IN a_DT Member_NNP ,_, Board_NNP of_IN Examination_NNP ,_, Ajmer_NNP Veterinary_NNP School_NNP ,_, in_IN April_NNP 1900_CD ,_, Purchased_VBD mares_NNS for_IN mule-breeding_NN for_IN Partabgarh_NNP ._.
+Inspected_VBN Veterinary_NNP Dispensary_NNP ,_, Mazaffarnagar_NNP ,_, and_CC the_DT Bardast-Khana_NNP at_IN Hapur_NNP for_IN a_DT Veterinary_NNP Dispensary_NNP ._.
+Veterinary_JJ Captain_NNP F._NNP Joslen_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, South_NNP Punjab_NNP ._.
+..._: 61_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 61_CD Veterinary_NNP Lieutenant_NNP A._NN Smith_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, South_NNP Punjab_NNP ._.
+3,081_CD 2,566_CD 835_CD 777_CD ..._: ..._: ..._: ..._: ..._: ..._: 835_CD 777_CD Acted_JJ Member_NNP ,_, Board_NNP of_IN Examination_NNP ,_, Lahore_NNP Veterinary_NNP College_NNP ._.
+Inspected_VBN stallions_NNS at_IN various_JJ stands_NNS ,_, also_RB Veterinary_JJ Dispensaries_NNS ._.
+Ditto_NNP Simla_NNP ,_, Dalhousie_NNP ,_, and_CC Dharmsala_NNP Dâk_NNP lines_NNS under_IN Glanders_NNS and_CC Farcy_NNP Act_NNP ._.
+Attended_JJ horse_NN shows_NNS and_CC Amritsar_NNP ,_, Rewari_NNP ,_, and_CC Sirsa_NNP Cattle_NNP Fairs_NNP ._.
+Acted_NNP ,_, Member_NNP Board_NNP of_IN Examination_NNP ,_, Nalbund_NNP class_NN ,_, Lahore_NNP Veterinary_NNP College_NNP ._.
+Purchased_VBN mules_NNS for_IN Army_NNP Remount_NNP Department_NNP ._.
+Investigated_VBN outbreak_NN of_IN foot-and-mouth_JJ disease_NN on_IN Kalka-Simla_NNP line_NN ._.
+Inspected_VBN horsePART_JJ II.-PROVINCIAL_NNP REPORT_NNP ._.
+TABLES_NNP ._.
+xliii_NN TABLE_NNP A_NNP ._.
+PROVINCIAL_NNP REPORT_NNP ._.
+Return_NNP of_IN District_NNP Horse_NNP ,_, Pony_NNP and_CC Donkey_NNP Stallions_NNP ,_, for_IN the_DT year_NN 1899-1900_RB ._.
+DETAILS_NNP ._.
+DISTRICT_NNP HORSE_NNP AND_NNP PONY_NNP STALLIONS_NNP ._.
+DISTRICT_NNP DONKEY_NNP STALLIONS_NNP ._.
+HORSES_NNP ._.
+PONIES_NNP ._.
+Total_JJ Horses_NNP and_CC Ponies_NNPS ._.
+Italian_JJ ._.
+Cyprian_JJ ._.
+Country-bred_NNP ._.
+Persian_NN ._.
+Punjabi_NNP ._.
+Home-Bred_NNP ._.
+Total_NN ._.
+Arab_NN ._.
+Persian_NN ._.
+Country-bred_NNP ._.
+Northern_NNP ._.
+Total_NN ._.
+Arab_NN ._.
+Persian_NN ._.
+Country-bred_NNP ._.
+Shan_NNP ._.
+Deli_NNP ._.
+Total_NN ._.
+Balance_NN on_IN 1st_CD April_NNP 1899_CD ._.
+67_CD 5_CD 1_CD 1_CD ..._: ..._: 74_CD 102_CD 2_CD 1_CD 1_CD 2_CD ..._: 108_CD 182_CD 2_CD ..._: 4_CD 5_CD 1_CD 3_CD ..._: ..._: 15_CD Increase_NNP Purchased_VBD in_IN India_NNP Received_NNP on_IN loan_NN from_IN Civil_NNP Veterinary_NNP De-_NNP partment_NN ._.
+15_CD ..._: ..._: ..._: ..._: ..._: 15_CD 7_CD 1_CD ..._: 1_CD ..._: ..._: 9_CD 24_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+83_CD 0_CD 1_CD 1_CD ..._: ..._: 90_CD 109_CD 3_CD 1_CD 2_CD 2_CD ..._: 117_CD 207_CD 2_CD ..._: 4_CD 5_CD 1_CD 3_CD ..._: ..._: 15_CD Decrease_NNP Died_NNP ._.
+._.
+._.
+2_CD 1_CD ..._: 1_CD ..._: ..._: 4_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 6_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Sold_NNP ._.
+._.
+._.
+2_CD ..._: ..._: ..._: ..._: ..._: 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: 2_CD Destroyed_NNP ._.
+._.
+2_CD 1_CD ..._: ..._: ..._: ..._: 3_CD 1_CD ..._: ..._: ..._: ..._: ..._: 1_CD 4_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+6_CD 2_CD ..._: 1_CD ..._: ..._: 9_CD 3_CD ..._: ..._: ..._: ..._: ..._: 3_CD 12_CD ..._: ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: 2_CD Balance_NNP on_IN 31st_CD March_NNP 1900_CD ._.
+77_CD 3_CD 1_CD ..._: ..._: ..._: 81_CD 106_CD 3_CD 1_CD 2_CD 2_CD ..._: 114_CD 195_CD 2_CD ..._: 4_CD 4_CD 1_CD 2_CD ..._: ..._: 13_CD In_IN North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+44_CD 3_CD ..._: ..._: ..._: ..._: 47_CD 24_CD 1_CD ..._: ..._: ..._: ..._: 25_CD 72_CD ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: ..._: 2_CD xliv_NN TABLE_NNP B_NNP ._.
+PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_NNP of_IN casualties_NNS of_IN District_NNP Horse_NNP and_CC Pony_NNP stallions_NNS ,_, during_IN 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+NUMBER_NNP DIED_NNP ._.
+NUMBER_NNP DESTROYED_NNP ._.
+TOTAL_NN ._.
+PERCENTAGE_NN OF_NNP DEATH_NNP ._.
+PERCENTAGE_NN DEBTROYED_NNP ._.
+GENERAL_NNP PERCENTAGE_NNP ._.
+Horse_NN ._.
+Pony_NN ._.
+Horse_NN ._.
+Pony_NN ._.
+Horse_NN ._.
+Pony_NN ._.
+Horse_NN ._.
+Pony_NN ._.
+Horse_NN ._.
+Pony_NN ._.
+Horse_NN ._.
+Pony_NN ._.
+North-Western_JJ Prov-_NNP inces_NNS and_CC Oudh_NNP ._.
+3_CD 1_CD 2_CD ..._: 5_CD 1_CD 8.10_CD 4.16_CD 5.40_CD ..._: 13.51_CD 4.16_CD North_NNP Punjab_NNP ._.
+..._: ..._: ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: ..._: 3.33_CD ..._: 3.33_CD South_NNP Punjab_NNP ._.
+1_CD 1_CD 1_CD ..._: 2_CD 1_CD 3.70_CD 2.85_CD 3.70_CD ..._: 7.40_CD 2.85_CD Baluchistan_NNP ._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Sind_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Central_JJ Provinces_NNS ._.
+..._: ..._: ..._: ..._: ..._: Not_RB furnished_VBN ._.
+..._: ..._: ..._: ..._: Burma_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Madras_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Bengal_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+4_CD 2_CD 3_CD 1_CD 7_CD 3_CD 6.25_CD 3.38_CD 4.68_CD 3.33_CD 10.93_CD 3.37_CD TABLE_NNP C._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_NN of_IN Sales_NNS of_IN District_NNP Horse_NNP and_CC Pony_NNP stallions_NNS ,_, during_IN 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+NUMBER_NNP SOLD_NNP ._.
+AVERAGE_JJ PRICE_NNP REALIZED_NNP ._.
+REMARKS_NNP ._.
+Horse_NN ._.
+Pony_NN ._.
+Horse_NN ._.
+Pony_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._VBD North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: North_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: South_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+2_CD ..._: 30_CD ..._: ..._: ..._: ..._: ..._: Baluchistan_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Central_JJ Provinces_NNS ._.
+._.
+._.
+._.
+._.
+Not_RB furnished_VBN Burma_NNP ._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Madras_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+2_CD ..._: 30_CD ..._: ..._: ..._: ..._: ..._: xlv_VBZ TABLE_NNP D._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Horse_NNP and_CC Pony_NNP stallions_NNS ,_, during_IN 1899-1900_JJ ._.
+Horse_NN or_CC pony_NN ._.
+CLASS_NN ._.
+NORTH-WESTERN_JJ PROVINCES_NNP AND_NNP OUDH_NNP ._.
+NORTH_NNP PUNJAB_NNP ._.
+REMARKS_NNP ._.
+Stallions_NNS on_IN register_NN ._.
+STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+RESULT_NNP OF_NNP PREVI-_NNP OUS_NNP YEAR_NNP 'S_POS COVER-_JJ INGS_NNP ._.
+AVERAGE_JJ RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP PER_NNP STAL-_NNP LION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+Stallions_NNS on_IN register_NN ._.
+STALLIONS_NNP ACTUALLY_NNP EM-_NNP PLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP ._.
+AVERAGE_JJ RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVER-_JJ INGS_NNP PER_NNP STALLION_NNP EM-_NNP PLOYED_NNP AT_NNP STUD_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ,_, Average_NNP of_IN produce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Average_NN of_IN produce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Horse_NN ._.
+Arab_NN ._.
+._.
+._.
+44_CD 36_CD 26_CD 1,809_CD 1,371_CD 50.2_CD 53.0_CD 450_CD 725_CD 196_CD 17.3_CD 27.88_CD 7.53_CD 6_CD 6_CD 4_CD 397_CD 328_CD 66.16_CD 82.00_CD 84_CD 170_CD 74_CD 21.00_CD 42.50_CD 18.50_CD Persian_NN ._.
+._.
+3_CD 3_CD 4_CD 258_CD 287_CD 86.0_CD 72.0_CD 84_CD 168_CD 35_CD 21.0_CD 42.0_CD 8.75_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Northern_NNP ._.
+._.
+..._: ..._: 1_CD 11_CD 72_CD 11.0_CD 72.0_CD 14_CD 48_CD 10_CD 14.0_CD 480_CD 10.0_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Country-bred_JJ ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD 1_CD 1_CD 48_CD 47_CD 48.00_CD 47.00_CD 12_CD 25_CD 10_CD 12.00_CD 25.00_CD 10.00_CD Total_NN ._.
+47_CD 39_CD 31_CD 2,078_CD 1,730_CD 53.28_CD 55.8_CD 548_CD 941_CD 241_CD 17.67_CD 30.61_CD 7.77_CD 7_CD 7_CD 5_CD 445_CD 375_CD 63.57_CD 75.00_CD 96_CD 195_CD 84_CD 19.20_CD 69.00_CD 16.80_CD Pony_NNP ._.
+Arab_NN ._.
+._.
+._.
+24_CD 22_CD 24_CD 1,122_CD 1,256_CD 51.0_CD 52.3_CD 388_CD 711_CD 157_CD 16.16_CD 29.62_CD 6.54_CD 31_CD 31_CD 28_CD 1,969_CD 1,921_CD 63.51_CD 68.60_CD 554_CD 1,055_CD .312_JJ 19.78_CD 37.67_CD 11.14_CD Persian_NN ._.
+._.
+1_CD 1_CD 1_CD 20_CD 61_CD 20.0_CD 61.0_CD 17_CD 36_CD 8_CD 17.0_CD 36.0_CD 8.0_CD 2_CD 2_CD 1_CD 95_CD 72_CD 47.50_CD 72.00_CD 7_CD 47_CD 18_CD 7.00_CD 47.00_CD 18.00_CD Country-bred_JJ ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Shan_NNP ._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Total_NN ._.
+25_CD 23_CD 25_CD 1,142_CD 1,317_CD 49.65_CD 52.68_CD 405_CD 747_CD 165_CD 16.20_CD 29.88_CD 6.6_CD 33_CD 33_CD 29_CD 2,064_CD 1,993_CD 62.54_CD 68.72_CD 561_CD 1,102_CD 330_CD 19.34_CD 38.00_CD 11.37_CD GRAND_NNP TOTAL_NNP ._.
+72_CD 62_CD 56_CD 3,220_CD 3,047_CD 51.93_CD 54.41_CD 953_CD 1,688_CD 406_CD 17_CD .01_JJ 30.28_CD 7.25_CD 40_CD 40_CD 34_CD 2,509_CD 2,368_CD 62.72_CD 69.64_CD 657_CD 1,297_CD 414_CD 19.32_CD 38.14_CD 12.17_CD xlvi_NN Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Horse_NNP and_CC ,_, Pony_NNP stallions_NNS ,_, during_IN 1899-1900xlvii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Horse_NNP and_CC Pony_NNP stallions_NNS ,_, during_IN 1899-1900xlviii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Horse_NNP and_CC Pony_NNP stallions_NNS ,_, during_IN 1899-1900xlix_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Horse_NNP and_CC Pony_NNP stallions_NNS ,_, during_IN 1899-1900_JJ ._.
+Horse_NN or_CC pony_NN ._.
+CLASS_NN ._.
+Stallions_NNS on_IN register_NN ._.
+TOTAL_NN ._.
+Remarks_NNS ._.
+STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP AVERAGE_NNP RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Average_NN of_IN produce_JJ Average_NNP of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Horse_NN ._.
+Arab_NN ._.
+._.
+._.
+._.
+._.
+._.
+74_CD 65_CD 56_CD 3,642_CD 3,308_CD 56.03_CD 59.07_CD 951_CD 1,573_CD 784_CD 16.98_CD 28.08_CD 14.00_CD Persian_NN ._.
+._.
+._.
+._.
+._.
+3_CD 3_CD 4_CD 258_CD 287_CD 86.00_CD 71.75_CD 84_CD 168_CD 35_CD 21.00_CD 42.00_CD 8.75_CD Northern_NNP ._.
+._.
+._.
+._.
+._.
+..._: ..._: 1_CD 11_CD 72_CD ..._: 72.00_CD 14_CD 48_CD 10_CD 14.00_CD 48.00_CD 10.00_CD Country-bred_JJ ._.
+._.
+._.
+._.
+1_CD 1_CD 1_CD 48_CD 47_CD 48.00_CD 47.00_CD 12_CD 25_CD 10_CD 12.00_CD 25.00_CD 10.00_CD TOTAL_NN ._.
+78_CD 69_CD 62_CD 3,959_CD 3,714_CD 57.37_CD 59.90_CD 1,061_CD 1,814_CD 839_CD 17.11_CD 29.25_CD 13.53_CD Pony_NNP ._.
+Arab_NN ._.
+._.
+._.
+._.
+._.
+._.
+106_CD 102_CD 99_CD 5,402_CD 5,414_CD 52.96_CD 54.68_CD 1,380_CD 2,475_CD 1,559_CD 13.93_CD 25.20_CD 15.74_CD Persian_NN ._.
+._.
+._.
+._.
+._.
+3_CD 4_CD 3_CD 195_CD 202_CD 48.75_CD 67.33_CD 24_CD 83_CD 95_CD 8.00_CD 27.66_CD 31.66_CD Country-bred_JJ ._.
+._.
+._.
+._.
+1_CD Shan_NNP ._.
+._.
+._.
+._.
+._.
+._.
+2_CD 2_CD 1_CD 71_CD 29_CD 35.50_CD 29.00_CD 1_CD 23_CD 5_CD 1_CD 00_CD 23.00_CD 5.00_CD Deli_NNP ._.
+._.
+._.
+._.
+._.
+._.
+2_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_VBP 114_CD 110_CD 103_CD 5,668_CD 5,645_CD 51.52_CD 54_CD 80_CD 1,405_CD 2,581_CD 1,659_CD 13.64_CD 25.05_CD 1610_CD GRAND_NNP TOTAL_NNP 192_CD 179_CD 165_CD 9,627_CD 9,359_CD 53.78_CD 56.72_CD 2,466_CD 4,395_CD 2,498_CD 14_CD 94_CD 26.63_CD 15.13_CD X_NN l_NN TABLE_NNP E._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_NNP showing_VBG average_JJ Cost_NN of_IN feed_NN ,_, keep_VB ,_, attendants_NNS ,_, etc._FW ,_, of_IN District_NNP Horse_NNP and_CC Pony_NNP Stallions_NNP ,_, during_IN 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+AVERAGE_JJ COST_NNP ,_, PER_NNP STALLION_NNP PER_NNP ANNUM_NNP ._.
+REMARKS_NNP ._.
+HORSE_NN ._.
+PONY_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._VBD North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+230_CD 10_CD 10_CD 219_CD 10_CD 0_CD 225_CD 14_CD 10_CD 198_CD 10_CD 1_CD North_NNP Punjab_NNP ._.
+._.
+._.
+259_CD 2_CD 1_CD 238_CD 0_CD 7_CD 276_CD 5_CD 10_CD 227_CD 1_CD 3_CD South_NNP li_NN TABLE_NNP H._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Donkey_NNP stallions_NNS ,_, during_IN 1899-1900_JJ ._.
+CLASS_NN OF_NNP DONKEY_NNP STALLIONS_NNP ._.
+NORTH-WESTERN_JJ PROVINCES_NNP AND_NNP OUDH_NNP ._.
+Stallions_NNS on_IN register_NN ._.
+DONKEY_NNP STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP ._.
+AVERAGE_JJ RESULT_NNP OF_NNP PREVIOUS_NNP YEAE_NNP 'S_POS COVERINGS_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+For_IN mule-_JJ breeding_NN ._.
+For_IN donkey-_JJ breeding_NN ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN mule_NN produce_NN ._.
+Number_NNP not_RB hold_VB ._.
+Number_NNP not_RB known_VBN ._.
+Number_NNP of_IN donkey_JJ produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Average_NN of_IN mule_NN produce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Average_NN of_IN donkey_JJ produce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Punjabi_NNP ._.
+._.
+._.
+._.
+._.
+._.
+1_CD 1_CD 1_CD ..._: ..._: 16_CD ..._: ..._: ..._: 16_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Country-bred_JJ ._.
+._.
+._.
+._.
+._.
+1_CD 1_CD 1_CD ..._: ..._: ..._: 4_CD ..._: ..._: ..._: 4_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+2_CD 2_CD 2_CD ..._: ..._: 16_CD 4_CD ..._: ..._: 16_CD 4_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Particulars_NNP incomplete_JJ ._.
+Information_NN not_RB received_VBN ._.
+Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Donkey_NNP stallions_NNS ,_, during_IN 1899-1900lii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Donkey_NNP stallions_NNS ,_, during_IN 1899-1900liii_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Donkey_NNP stallions_NNS ,_, during_IN 1899-1900liv_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Donkey_NNP stallions_NNS ,_, during_IN 1899-1900lv_JJ Services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN District_NNP Donkey_NNP stallions_NNS ,_, during_IN 1899-1900_JJ ._.
+CLASS_NN OF_NNP DONKEY_NNP STALLIONS_NNP ._.
+TOTAL_NN ._.
+Stallions_NNS on_IN register_NN ._.
+DONKEY_NNP STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP ._.
+AVERAGE_JJ RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+For_IN mule-_JJ breeding_NN ._.
+For_IN donkey-_JJ breeding_NN ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Donkey_NNP mares_NNS ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN mule_NN produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Number_NNP of_IN donkey_JJ produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+Average_NN of_IN mule_NN produce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Average_NN of_IN donkey_JJ produce_NN ._.
+Average_NN of_IN not_RB held_VBN ._.
+Average_NN of_IN not_RB known_VBN ._.
+Punjabi_NNP ._.
+._.
+._.
+._.
+1_CD 1_CD 1_CD ..._: ..._: 16_CD ..._: ..._: ..._: 16.00_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Country-bred_JJ ._.
+._.
+._.
+4_CD 4_CD 3_CD ..._: ..._: 91_CD 71_CD ..._: ..._: 22.75_CD 23.66_CD ..._: ..._: 9_CD 44_CD 18_CD ..._: ..._: ..._: 3.00_CD 14.66_CD 6.00_CD ..._: ..._: ..._: Home-bred_NNP ._.
+._.
+._.
+._.
+2_CD 2_CD 3_CD ..._: ..._: 120_CD 109_CD ..._: ..._: 60.00_CD 36.38_CD ..._: ..._: 16_CD 79_CD 14_CD ..._: ..._: ..._: 5.33_CD 26.33_CD 4.66_CD ..._: ..._: ..._: Italian_JJ ._.
+._.
+._.
+._.
+2_CD 2_CD 2_CD ..._: ..._: 36_CD 99_CD ..._: ..._: 18.00_CD 49.50_CD ..._: ..._: 6_CD 12_CD 81_CD ..._: ..._: ..._: 3.00_CD 6.00_CD 40.50_CD ..._: ..._: ..._: Persian_NN ._.
+._.
+._.
+._.
+3_CD 4_CD 4_CD ..._: ..._: 93_CD 143_CD ..._: ..._: 23.25_CD 35.75_CD ..._: ..._: 58_CD 48_CD 37_CD ..._: ..._: ..._: 14.50_CD 12.00_CD 9.25_CD ..._: ..._: ..._: Cyprian_JJ ._.
+._.
+._.
+._.
+1_CD 1_CD 1_CD ..._: ..._: ..._: 10_CD ..._: ..._: ..._: 10.00_CD ..._: ..._: ..._: 10_CD ..._: ..._: ..._: ..._: ..._: 10.00_CD ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+13_CD 14_CD 14_CD ..._: ..._: 356_CD 432_CD ..._: ..._: 25.42_CD 30.85_CD ..._: ..._: 89_CD 193_CD 150_CD ..._: ..._: ..._: 6.35_CD 13.78_CD 10.71_CD ..._: ..._: ..._: lvi_RBR TABLE_NNP J_NNP ._.
+PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_NNP showing_VBG average_JJ Cost_NN of_IN feed_NN ,_, keep_VB ,_, attendants_NNS ,_, etc._FW ,_, of_IN District_NNP donkey_NN stallions_NNS ,_, during_IN 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+AVERAGE_JJ COST_NNP PER_NNP PER_NNP DONKEY_NNP STALLION_NNP ANNUM_NNP ._.
+REMARKS_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._VBD North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+._.
+Information_NN not_RB furnished_VBN ._.
+30_CD 9_CD 1_CD North_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+167_CD 2_CD 8_CD 137_CD 0_CD 0_CD South_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+195_CD 13_CD 4_CD 154_CD 14_CD 11_CD Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+165_CD 7_CD 2_CD 149_CD 1_CD 9_CD Madras_NNS ._.
+._.
+._.
+._.
+._.
+._.
+307_CD 0_CD 0_CD 344_CD 0_CD 0_CD Bengal_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+223_CD 3_CD 6_CD Not_RB noted_VBN ._.
+GENERAL_NNP AVERAGE_NNP ._.
+211_CD 8_CD 4_CD 201_CD 2_CD 0_CD TABLE_NNP K._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_NNP showing_VBG number_NN of_IN Colts_NNP castrated_VBN by_IN Veterinary_JJ Assistants_NNS and_CC Salutris_NNP paid_VBD from_IN Local_JJ Funds_NNS ,_, during_IN 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+HORSE_NNP STOCK_NNP MULE_NNP STOCK_NNP OTHER_NNP ANIMALS_NNP ._.
+TOTAL_NN ._.
+NUMBER_NNP OF_NNP DEATHS_NNP RESULT-_NNP ING_NNP FROM_NNP EFFECTS_NNP OF_NNP CASTRATION_NNP ._.
+REMARKS_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+251_CD 227_CD 8_CD 3_CD 57_CD 87_CD 316_CD 317_CD ..._: ..._: North_NNP Punjab_NNP ._.
+._.
+365_CD 404_CD 63_CD 35_CD ..._: ..._: 428_CD 439_CD 2_CD 1_CD South_NNP Punjab_NNP ._.
+._.
+311_CD 379_CD 46_CD 42_CD ..._: ..._: 357_CD 421_CD ..._: 1_CD Central_JJ Provinces_NNS ._.
+._.
+Not_RB furnished_VBN ._.
+..._: ..._: ..._: Madras_NNP ._.
+._.
+._.
+._.
+177_CD 287_CD ..._: ..._: ..._: ..._: 177_CD 287_CD ..._: 1_CD Baluchistan_NNP ._.
+._.
+._.
+27_CD 40_CD ..._: 4_CD ..._: ..._: 27_CD 44_CD ..._: ..._: Sind_NNP ._.
+._.
+._.
+._.
+21_CD 24_CD ..._: ..._: ..._: ..._: 21_CD 24_CD ..._: ..._: TOTAL_NNP ._.
+1,152_CD 1,361_CD 117_CD 84_CD 57_CD 87_CD 1,326_CD 1,532_CD 2_CD 3_CD lvii_NN TABLE_NNP L._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_NNP showing_VBG number_NN of_IN Animals_NNS treated_VBN by_IN Veterinary_JJ Assistants_NNS at_IN Dispensaries_NNP ,_, during_IN 1899viii_CD TABLE_NNP M._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_NNP showing_VBG Provinces_NNS where_WRB Outbreaks_NNP of_IN Cattle-disease_NNP occurred_VBD during_IN ,_, 1899-1900_JJ ._.
+PROVINCE_NNP ._.
+RINDERPEST_NN ._.
+ANTHRAX_NNP ._.
+FOOT-AND-MOUTH_JJ DISEASE_NNP ._.
+PLEURO-_NNP PNEUMONIA_NNP ._.
+CHARBON_NNP SYMPTOMATIQUE_NNP OTHER_NNP DISEASES_NNP ._.
+TOTAL_NN ._.
+REMARKS_NNP ._.
+Number_NNP attackod_NN ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP attacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP attacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP attacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP attacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP attacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP attacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+North-Western_JJ Provinces_NNS and_CC Oudh_NNP 67,443_CD 35,361_CD 52.43_CD 3,221_CD 2,219_CD 68.89_CD 40,801_CD 2,844_CD 6.97_CD ..._: ..._: ..._: ..._: ..._: 154_CD 68_CD 44.15_CD 111,619_CD 40,492_CD 36.27_CD North_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+6,816_CD 4,229_CD 62.05_CD 2,208_CD 1,398_CD 63.31_CD 5,147_CD 135_CD 2.62_CD 534_CD 267_CD 50*00_CD 2S2_CD 239_CD 84.75_CD 14,686_CD 1,109_CD 7.55_CD 29,672_CD 7,377_CD 24.86_CD South_NNP Punjab_NNP ._.
+._.
+._.
+._.
+._.
+14,512_CD 7,494_CD 51.64_CD 796_CD 6C9_CD 76.50_CD 4,6S0_CD 70_CD 1.50_CD 31_CD 8_CD 25.87_CD ..._: ..._: ..._: 14,758_CD 952_CD 6.45_CD 34,777_CD 9,133_CD 26.26_CD Central_JJ Provinces_NNS ._.
+._.
+._.
+._.
+Not_RB furnished_VBN ._.
+Bombay_NNP Presidency_NNP ._.
+._.
+2,371_CD 1,338_CD 56.43_CD 271_CD 249_CD 91.88_CD 2,577_CD 151_CD 5.86_CD 54_CD 20_CD 37.04_CD 158_CD 147_CD 93.04_CD 35_CD 29_CD 82.86_CD 5,466_CD 1,934_CD 35.40_CD Bengal_NNP ._.
+._.
+._.
+._.
+._.
+._.
+122,367_CD 60,044_CD 49.06_CD 2,473_CD 1,674_CD 67.69_CD 87,320_CD 4,929_CD 5.64_CD ..._: ..._: ..._: ..._: ..._: ..._: 3,731_CD 2,374_CD 63.06_CD 215,891_CD 69,021_CD 81.67_CD Burma_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: 10,626_CD ..._: ..._: 10,017_CD ..._: ..._: 4,731_CD ..._: ..._: ..._: ..._: ..._: 3*_CD ..._: ..._: 69,855_CD ..._: ..._: 95,232_CD ..._: *_VBZ Most_JJS of_IN the_DT figures_NNS for_IN this_DT disease_NN are_VBP in-_JJ eluded_VBN under_IN Anthrax_NNP ._.
+Sind_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: 38_CD 33_CD 100.00_CD 286_CD 6_CD 2.09_CD ..._: ..._: ..._: ..._: ..._: ..._: 3.590_CD 56_CD 1.56_CD 3,914_CD 100_CD 2.55_CD Rajputana_NNP ._.
+._.
+._.
+._.
+2_CD 2_CD 100.00_CD 2,471_CD 950_CD 38.44_CD 661_CD 36_CD 5.44_CD 1_CD 1_CD 100_CD ..._: ..._: ..._: 1,174_CD 358_CD 30.49_CD 4,209_CD 1,347_CD 32.00_CD Madras_NNS ._.
+._.
+._.
+._.
+._.
+.._NN ._.
+..._: 19,623_CD ..._: ..._: 16,480_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 65,426_CD ..._: ..._: 101,529_CD ..._: Berar_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+10,823_CD 5,968_CD 55.13_CD 40_CD 33_CD 82.50_CD 1,626_CD 984_CD 60.52_CD SS2_NNP 794_CD 90.02_CD 186_CD 172_CD 92.47_CD 10,244_CD 9,790_CD 95.57_CD 23,803_CD 17,741_CD 74.53_CD In_IN addition_NN 25,984_CD died_VBD from_IN scar-_JJ city_NN of_IN fodder_NN and_CC water_NN ._.
+Total_NN ._.
+224,335_CD 184,685_CD ..._: 11,518_CD 33,667_CD ..._: 143,098_CD 13,886_CD ..._: 1,502_CD 1,090_CD ..._: 626_CD 561_CD ..._: 48,372_CD 150,017_CD ..._: 429,351_CD 343,906_CD ..._: *_JJ Deduct_NNP deaths_NNS in_IN Burma_NNP and_CC Madras_NNP ..._: 30,249_CD ..._: ..._: 26,497_CD ..._: ..._: 4,731_CD ..._: ..._: ..._: ..._: ..._: 3_CD ..._: ..._: 135,281_CD ..._: ..._: 1,96,761_CD ..._: TOTAL_NN ._.
+224,335_CD 104,436_CD 46.55_CD 11,518_CD 7,170_CD 62.25_CD 143,099_CD 9,155_CD 6.89_CD 1,502_CD 1,090_CD 72.56_CD 626_CD 558_CD 89.13_CD 48,372_CD 14,736_CD 30.40_CD 429,351_CD 147,145_CD 84.27_CD *To_JJ arrive_NN at_IN the_DT correct_JJ percentage_NN of_IN deaths_NNS ,_, the_DT numbers_NNS died_VBD in_IN Burma_NNP and_CC Madras_NNP have_VBP been_VBN excluded_VBN ,_, as_IN the_DT total_JJ number_NN attacked_VBN have_VBP not_RB been_VBN furnished_VBN by_IN the_DT respective_JJ Superintendents_NNS ._.
+lix_NN TABLE_NNP N._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_NNP showing_VBG the_DT number_NN of_IN animals_NNS treated_VBN by_IN Veterinary_NNP Assistants_NNP ,_, during_IN the_DT year_NN 1899-1900_RB ._.
+PROVINCE_NNP ._.
+RINDERPEST_NN ._.
+ANTHRAX_NNP ._.
+FOOT-ANB-MOUTH_JJ DISEASE_NNP ._.
+PLEURO-PNEUMONIA_NNP ._.
+CHARBON_NNP SYMPTOMATIQUE_NNP OTHER_NNP DISEASES_NNP ._.
+TOTAL_NN TREATED_NNP ._.
+Number_NNP of_IN villages_NNS visited_VBN ._.
+Number_NNP of_IN Veterinary_NNP Assistants_NNP employed_VBD ._.
+Died_NNP ._.
+Relieved_VBN ._.
+Cured_NNP ._.
+Total_NN ._.
+Died_NNP ._.
+Relieved_VBN ._.
+Cured_NNP ._.
+Total_NN ._.
+Died_NNP ._.
+Relieved_VBN ._.
+Cured_NNP ._.
+Total_NN ._.
+Died_NNP ._.
+Relieved_VBN ._.
+Cured_NNP ._.
+Total_NN ._.
+Died_NNP ._.
+Relieved_VBN ._.
+Cured_NNP ._.
+Total_NN ._.
+Died_NNP ._.
+Relieved_VBN ._.
+Cured_NNP ,_, Total_NNP ._.
+Died_NNP ._.
+Relieved_VBN ._.
+Cured_NNP ,_, Total_NNP ._.
+North-Western_JJ Provin-_NNP ces_NNS and_CC Oudh_NNP ._.
+10,691_CD 3,208_CD 8,632_CD 22,531_CD 1,070_CD 127_CD 632_CD 2,429_CD 451_CD 2,130_CD 8,727_CD 11,317_CD 39_CD 25_CD ..._: 63_CD ..._: ..._: ..._: ..._: 397_CD 3,726_CD 8,421_CD 12,644_CD 13,247_CD 9,225_CD 26,412_CD 48,884_CD 6,451_CD 36_CD North_NNP Punjab_NNP ._.
+._.
+3,228_CD 181_CD 2,283_CD 6,692_CD 881_CD 37_CD 269_CD 1,187_CD 160_CD 365_CD 3,733_CD 4,258_CD 62_CD 7_CD 141_CD 210_CD 61_CD ..._: 33_CD 94_CD 473_CD 2,749_CD 10,559_CD 13,781_CD 4,865_CD 3,339_CD 17,018_CD 25,222_CD 6,540_CD 29_CD South_NNP Punjab_NNP ._.
+._.
+6,728_CD 1,082_CD 4,706_CD 12,616_CD 686_CD ..._: 1S6_CD 771_CD 68_CD 330_CD 3,988_CD 4,386_CD 8_CD 14_CD 8_CD 80_CD ..._: ..._: ..._: ..._: 368_CD 3,641_CD 10,064_CD 14,073_CD 7,757_CD 5,067_CD 18,952_CD 31,776_CD 7,277_CD 44_CD Central_JJ Provinces_NNS ._.
+Not_RB furni_RB shed_VBN ._.
+Bengal_NNP ._.
+._.
+._.
+._.
+1,392_CD 661_CD 1,673_CD 4,017_CD 145_CD 131_CD 6_CD 281_CD 29_CD 94_CD 797_CD 920_CD 1_CD 3_CD ..._: 4_CD ..._: ..._: ..._: ..._: 649_CD 275_CD 1,188_CD 2,012_CD 2,116_CD 1,064_CD 4,663_CD 8,234_CD 637_CD 21_CD Bombay_NNP ._.
+._.
+272_CD 3_CD 207_CD 482_CD 30_CD ..._: 48_CD 78_CD 6_CD 11_CD 912_CD 929_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 604_CD 1,260_CD 13,078_CD 14,942_CD 912_CD 1,274_CD 14,245_CD 16,431_CD 359_CD 15_CD Burma_NNP ._.
+._.
+._.
+._.
+632_CD 268*_CD 1,631_CD 2,431_CD 267_CD 17*_CD 270_CD 554_CD 10_CD 3,347*_CD 13,167_CD 16,524_CD ..._: ..._: ..._: ..._: 3_CD ..._: 3_CD 6_CD 167_CD 2,018*_CD 19,243_CD 21,428_CD 1,079_CD 6,650*_CD 34,214_CD 40,943_CD 12,077_CD 65_CD Sind_NNP ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 93_CD 93_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 74_CD 151_CD 4,381_CD 4,606_CD 74_CD 151_CD 4,474_CD 4,699_CD 102_CD 4_CD Rajputana_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: 20_CD ..._: 10_CD 80_CD 29_CD 233_CD 1,277_CD 1,639_CD 3_CD 2_CD 6_CD 10_CD ..._: ..._: ..._: ..._: 26_CD 7_CD 153_CD 186_CD 78_CD 242_CD 1,416_CD 1,765_CD 435_CD 1_CD Madras_NNS ._.
+._.
+._.
+Not_RB furnished_VBN ._.
+Berar_NNP ._.
+._.
+._.
+._.
+833_CD 4_CD 1,038_CD 1,877_CD ..._: ..._: ..._: ..._: ..._: 62_CD 119_CD 181_CD ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: 1_CD 59_CD 100_CD 1,365_CD 1,524_CD 893_CD 168_CD 2,521_CD 3,682_CD 49_CD 3_CD TOTAL_NN ._.
+23,776_CD 6,307_CD 20,070_CD 49,646_CD 3,598_CD 312_CD 1,420_CD 6,330_CD 753_CD 6,581_CD 32,813_CD 40,147_CD 112_CD 61_CD 154_CD 317_CD 65_CD ..._: 36_CD 101_CD 2,717_CD 13,927_CD 68,452_CD 85,096_CD 31,021_CD 26,180_CD 123,944_CD 181,636_CD 32,827_CD 218_CD *_JJ Result_NNP unknown_NN ._.
+lx_NN TABLE_NNP O_NNP ._.
+PROVINCIAL_NNP REPORT_NNP ._.
+Abstract_JJ showing_VBG Receipts_NNP and_CC Expenditure_NNP of_IN Veterinary_NNP Dispensaries_NNP ,_, during_IN 1899-1900_JJ ._.
+Province_NN ._.
+RECEIPTS_NNP ._.
+EXPENDITURE_NNP ._.
+Balance_NN ._.
+Last_JJ year_NN 's_POS Balance_NNP ._.
+By_IN Local_NNP Fund_NNP Grant_NNP ._.
+By_IN Govern-_NNP meut_NN Grant_NNP ._.
+By_IN Municipal_NNP contribution_NN ._.
+By_IN other_JJ sources_NNS ._.
+Total_NN ._.
+Pay_NN ._.
+Travelling_VBG Allowance_NNP ._.
+Medicines_NNS Instruments_NNS ,_, etc._FW ,_, etc_FW ._.
+Furniture_NN ,_, land_NN ,_, etc._FW ,_, etc_FW ._.
+Contingencies_NNS ,_, stabling_VBG ,_, house-_JJ rent_NN ,_, etc_FW ._.
+Transferred_VBN to_TO Indian_JJ Veterinary_NNP Dispensary_NNP Fund_NNP ._.
+Total_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a_DT ._.
+p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p_NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p_NN ._.
+North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+2,626_CD 12_CD 8_CD 539_CD 13_CD 6_CD ..._: 120_CD 0_CD 0_CD 1,168_CD 14_CD 6_CD 4,455_CD 8_CD 8_CD 972_CD 12_CD 3_CD 218_CD 13_CD 0_CD 329_CD 13_CD 6_CD 150_CD 1_CD 9_CD 79_CD 8_CD 0_CD ..._: 1,751_CD 0_CD 6_CD 2,704_CD 8_CD 2_CD North_NNP Punjab_NNP ._.
+._.
+._.
+201_CD 6_CD 2_CD 5,566_CD 12_CD 6_CD ..._: ..._: 88_CD 14_CD 6_CD 5,857_CD 1_CD 2_CD 3,341_CD 11_CD 0_CD 1,097_CD 9_CD 6_CD 774_CD 7_CD 6_CD ..._: 226_CD 5_CD 0_CD 88_CD 14_CD 6_CD 5,528_CD 15_CD 6_CD 328_CD 1_CD 8_CD South_NNP Punjab_NNP ._.
+._.
+._.
+..._: 5,608_CD 14_CD 8_CD ..._: 774_CD 0_CD 0_CD 132_CD 10_CD 9_CD 6,515_CD 9_CD 5_CD 3,292_CD 12_CD 3_CD 543_CD 3_CD 6_CD 1,188_CD 8_CD 9_CD 43_CD 0_CD 3_CD 1,448_CD 0_CD 8_CD ..._: 6,515_CD 9_CD 5_CD ..._: Central_JJ Provinces_NNS ._.
+Not_RB furnished_VBN Not_RB furnished_JJ Bengal_NNP ._.
+._.
+._.
+1,329_CD 8_CD 10_CD 9,911_CD 13_CD 9_CD 100_CD 0_CD 0_CD 1,050_CD 0_CD 0_CD 1,980_CD 0_CD 6_CD 13,371_CD 7_CD 1_CD 5,380_CD 5_CD 11_CD 1,028_CD 9_CD 6_CD 1,442_CD 4_CD 6_CD 2,739_CD 12_CD 7_CD 1,892_CD 6_CD 1_CD 0_CD ..._: 12,483_CD 7_CD 4_CD 1,933_CD 1_CD 10_CD Burma_NNP ._.
+._.
+._.
+._.
+Not_RB furnished_VBN 31,888_CD 0_CD 8_CD 12,013_CD 7_CD 10_CD 1,164_CD 1_CD 2_CD 10_CD ..._: 10,801_CD 6_CD 0_CD ..._: 56,687_CD 5_CD 10_CD ..._: Bombay_NNP ._.
+._.
+._.
+18,602_CD 6_CD 6_CD 10,884_CD 12_CD 11_CD 8,842_CD 2_CD 8_CD 2,114_CD 0_CD 0_CD 2,483_CD 4_CD 3_CD 43,926_CD 1_CD 0_CD 4_CD 16,085_CD 4_CD 4_CD 762_CD 13_CD 9_CD 4,391_CD 9_CD 5_CD 1,628_CD 3_CD 5_CD 4,380_CD 1_CD 0_CD 6_CD ..._: 27,243_CD 7_CD 5_CD 16,678_CD 2_CD 11_CD Sind_NNP ._.
+._.
+._.
+16,151_CD 14_CD 3_CD 8,000_CD 0_CD 0_CD 3,610_CD 2_CD 0_CD 2,170_CD 0_CD 0_CD 1,124_CD 2_CD 1_CD 0_CD 31,056_CD 3_CD 1_CD 9,446_CD 14_CD 1_CD 592_CD 4_CD 6_CD 4,513*_CD 12_CD 4_CD 131_CD 6_CD 0_CD 5,931_CD 6_CD 9_CD ..._: 20,615_CD 11_CD 8_CD 10,440_CD 7_CD 4_CD Rajputana_NNP ._.
+._.
+..._: 120_CD 0_CD 0_CD ..._: 400_CD 0_CD 0_CD 31_CD 2_CD 1_CD 0_CD 551_CD 2_CD 10_CD 360_CD 0_CD 0_CD ..._: ..._: 25_CD 0_CD 0_CD 126_CD 1_CD 1_CD 6_CD ..._: 511_CD 11_CD 6_CD 39_CD 7_CD 4_CD Madras_NNS ._.
+._.
+._.
+._.
+Not_RB furnished_VBN Not_RB furnished_VBN Berar_NNP ._.
+._.
+._.
+._.
+Nil_NNP Nil_NNP TOTAL_NNP ._.
+38,912_CD 0_CD 5_CD 40,632_CD 3_CD 4_CD 12,552_CD 4_CD 8_CD 6,628_CD 0_CD 0_CD 7,009_CD 2_CD 2_CD 105,733_CD 10_CD 7_CD 70,767_CD 12_CD 6_CD 16,256_CD 1_CD 3_CD 7_CD 13,805_CD 4_CD 10_CD 4,717_CD 8_CD 0_CD 24,886_CD 7_CD 3_CD 88_CD 14_CD 6_CD 131,342_CD 5_CD 2_CD 32,123_CD 13_CD *_NN Includes_NNP contingencies_NNS ._.
+lxi_NN TABLE_NNP P._NNP PROVINCIAL_NNP REPORT_NNP ._.
+Statement_JJ showing_NN Tours_NNP of_IN Superintendents_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, during_IN 1899-1900_JJ ._.
+Rank_NNP ,_, name_NN ,_, and_CC designation_NN of_IN Officer_NNP ._.
+Distriots_NNP visited_VBD ._.
+Fairs_NNS and_CC Shows_NNP attended_VBD ._.
+NUMBER_NNP OF_NNP MILES_NNP TRAVELLED_NNP ._.
+By_IN Road_NNP ._.
+By_IN Rail_NNP ._.
+By_IN Boat_NNP or_CC Stonmer_NNP ._.
+TOTAL_NN ._.
+Veterinary_JJ Major_NNP R._NNP H._NNP Ringe_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, North-Western_NNP Provinces_NNPS and_CC Oudh_NNP ._.
+Meerut_NNP ,_, Saharanpur_NNP ,_, Dehra_NNP Dun_NNP ,_, Fatehpur_NNP ,_, Moradabad_NNP ,_, Muzafarnagar_NNP ,_, Umballa_NNP ,_, Naini_NNP Tal_NNP ,_, Benares_NNP ,_, Buland-_NNP shahr_NN ,_, Agra_NNP ,_, Etab_NNP ,_, Aligarb_NNP ,_, Muttra_NNP ,_, Bijnor_NNP ,_, Budaon_NNP ,_, Bareilly_NNP ,_, Shahjehanpur_NNP ,_, Cawnpore_NNP and_CC Bombay_NNP ._.
+Garhmuktesar_NNP ,_, Batesar_NNP ,_, Makanpur_NNP ,_, Bulandshahr_NNP ,_, Muzafurnagar_NNP and_CC Nau-_NNP chandi_NN ._.
+2,327_CD 7,900_CD ..._: 10,227_CD Veterinary_NNP Lieutenant_NNP A._NNP S._NNP Trydell_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, North-_NNP Punjab_NNP ._.
+Hazara_NNP ,_, Rawal_NNP Pindi_NNP ,_, Jhelum_NNP ,_, Kohat_NNP ,_, Bannu_NNP ,_, Dera_NNP Ismail_NNP Khan_NNP ,_, Shahpur_NNP ,_, Gujrat_NNP ,_, Gujranwala_NNP ,_, J_NNP hang_NN ,_, Lahore_NNP ,_, Sialkot_NNP and_CC Peshawar_NNP ._.
+Jhang_NNP ,_, Shahpur_NNP ,_, Lahore_NNP ,_, Gujrat_NNP ,_, Rawal_NNP Pindi_NNP ,_, Amritsar_NNP ,_, Eminabad_NNP and_CC Dera_NNP Ghazi_NNP Khan_NNP ._.
+5,626_CD 7,067_CD ..._: 12,693_CD Veterinary_NNP Lieutenant_NNP A._NN Smith_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, South_NNP Punjab_NNP ._.
+Amritsar_NNP ,_, Ludhiana_NNP ,_, Feroze-_NNP pur_NN ,_, Gurdaspur_NNP ,_, Jullunder_NNP ,_, Hissar_NNP ,_, Umballa_NNP ,_, Kurnal_NNP ,_, Delhi_NNP ,_, Gurgaon_NNP ,_, Dera_NNP Ghazi_NNP Khan_NNP ,_, Rohtak_NNP ,_, Montgo-_NNP mery_NN ,_, Hoshiarpur_NNP ,_, Multan_NNP and_CC Muzafargarh_NNP ._.
+Amritsar_NNP ,_, Rewari_NNP ,_, Sirsa_NNP ,_, Hansi_NNP ,_, Jalalabad_NNP ,_, Kapur-_NNP thala_NN ,_, Multan_NNP ,_, Dera_NNP Ghazi_NNP Khan_NNP ,_, Umballa_NNP and_CC Rawal_NNP Pindi_NNP ._.
+5,145_CD 10,327_CD ..._: 15,472_CD Veterinary_NNP Captain_NNP H._NNP M._NNP Maxwell_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, Baluchistan_NNP and_CC Sind_NNP ._.
+Quetta_NNP ,_, Pishin_NNP ,_, Thal_NNP Chotiali_NNP '_POS Kalat_NNP and_CC Zhob_NNP ._.
+Quetta_NNP and_CC Sibi_NNP 721_CD 2,415_CD ..._: 3,136_CD Upper_NNP Sind_NNP Frontier_NNP ,_, Hyder-_NNP abad_NN (_( Sind_NNP )_) ,_, Shikar_NNP pur_NN and_CC Karachi_NNP ._.
+Jacobabad_NNP and_CC Moro_NNP 546_CD 5,846_CD ..._: 6,392_CD Veterinary_NNP Major_NNP F._NNP Raymond_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, Bengal_NNP ._.
+Aligarh_NNP ,_, Allahabad_NNP ,_, Dar-_NNP bhanga_NN ,_, Tippera_NNP ,_, Chitta-_NNP gong_NN ,_, Dacca_NNP ,_, Rangpur_NNP ,_, Saran_NNP ,_, Darjeeling_NNP ,_, Balasore_NNP ,_, Cuttack_NNP ,_, Puri_NNP ,_, Umballa_NNP ,_, Babugarh_NNP ,_, Hissar_NNP ,_, Gya_NNP ,_, Patna_NNP ,_, Shahabad_NNP ,_, Birbhum_NNP ,_, Sontal_NNP Parganas_NNP and_CC Muzafarpur_NNP ._.
+Sonepore_RB ,_, Kalimpong_NNP and_CC Barahpur_NNP ._.
+448_CD 9,470_CD 671_CD 10,589_CD Veterinary_JJ Major_NNP J._NNP W._NNP A._NN Morgan_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, Bombay_NNP Presidency_NNP ._.
+Satara_NNP ,_, Bombay_NNP ,_, Poona_NNP ,_, Ahmednagar_NNP ,_, Khandesh_NNP ,_, Dharwar_NNP ,_, Belgaum_NNP ,_, Thana_NNP ,_, Nasik_NNP ,_, Ahmedabad_NNP ,_, Palan-_NNP pur_NN ,_, Kaira_NNP ,_, Surat_NNP ,_, Sholapur_NNP and_CC Kathiawar_NNP ._.
+Nil_NNP ._.
+1,352_CD 13,701_CD ..._: 15,053_CD Veterinary_NNP Captain_NNP G._NNP H._NNP Evans_NNP ,_, Superintendent_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, Burma_NNP ._.
+Hanthawaddy_NNP ,_, Pegu_NNP ,_, Tharra-_NNP waddy_NN ,_, Prome_NNP ,_, Bassein_NNP ,_, Myaungmya_NNP ,_, Thongwa_NNP ,_, Heuzada_NNP ,_, Toungoo_NNP ,_, Thaton_NNP ,_, Amherst_NNP ,_, Thayetmyo_NNP ,_, Pokokku_NNP ,_, Mandalay_NNP ,_, Bhamo_NNP Katha_NNP ,_, Showbo_NNP ,_, Sagaing_NNP ,_, Kyankse_NNP ,_, Meiktila_NNP ,_, Yame-_NNP thin_NN and_CC Myingyan_NNP ._.
+Nil_NNP ._.
+150_CD 5,275_CD 2,332_CD 7,690_CD lxii_NN TABLE_NNP Q_NNP ._.
+PROVINCIAL_NNP REPORT_NNP ._.
+Statement_JJ showing_VBG Provincial_JJ cost_NN of_IN the_DT Civil_NNP Veterinary_NNP Department_NNP ,_, during_IN the_DT official_JJ year_NN 1899-1900_CD ._.
+MAJOR_JJ HEADS_NNP ._.
+Superintendent_NN ,_, North-Western_JJ Provinces_NNS and_CC Oudh_NNP ._.
+Superintendent_NNP ,_, North_NNP Punjab_NNP ._.
+Superintendent_NN ,_, South_NNP Punjab_NNP ._.
+Superin-_JJ t_JJ ndent_JJ Baluchis-_NNP tan_NN and_CC Sind_NNP ._.
+Superintendent_NN ,_, Bengal_NNP ._.
+Superin-_JJ tendent_NN ,_, Madras_NNP ._.
+Superin-_JJ ndent_NN ut_JJ ana_NN ._.
+Superin-_JJ tendent_NN ,_, Central_NNP Provinces_NNPS ._.
+SUPERINTENDENT_NNP ,_, BOMBAY_NNP ._.
+SUPERINTENDENT_NNP ,_, BURMA_NNP ._.
+REMARKS_NNP ._.
+Local_JJ Fund_NN Charges_NNP ._.
+P_NNP rovincial_NN Charges_NNP ._.
+Local_JJ District_NNP Cess_NNP Fund_NNP ._.
+Provincial_JJ Charges_NNS ._.
+R_NNP a._NN p._NN R_NNP a._NN p_NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a_DT ._.
+p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN I_PRP ._.

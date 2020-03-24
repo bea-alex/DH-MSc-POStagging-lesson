@@ -1,0 +1,2158 @@
+IP/10/HG.6_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971377.tif_CD ]_NNS IP/10/HG_NNP 6_CD IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP '_POS MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP FOR_IN THE_NNP YEAR_NNP 1925-26_JJ BY_NNP Lieutenant-Colonel_NNP H._NNP R._NNP Dutton_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971389.tif_CD ]_JJ PATNA_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP 1926_CD ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP '_POS MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP FOR_IN THE_NNP YEAR_NNP 1925-26_JJ BY_NNP Lieutenant-Colonel_NNP H._NNP R._NNP Dutton_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971395.tif_CD ]_JJ PATNA_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP 1926_CD No_NNP ._.
+539_CD E.-197ANNUAL_JJ REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP '_POS MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP FOR_IN THE_NNP YEAR_NNP 1925-26_CD ._.
+Historical_JJ sketch.2_NN Hostel.3_NNP 1926_CD when_WRB he_PRP was_VBD officially_RB appointed_VBN as_IN senior_JJ demonstrator_NN of_IN Physiology_NNP he_PRP started_VBD work_NN on_IN his_PRP$ own_JJ department_NN where_WRB he_PRP has_VBZ had_VBN to_TO arrange_VB the_DT appliances_NNS and_CC chemicals_NNS ,_, indent_NN for_IN the_DT deficiencies_NNS and_CC see_VB whether_IN the_DT instruments_NNS were_VBD working_VBG all_RB in_IN order_NN ._.
+In_IN the_DT absence_NN of_IN his_PRP$ Professor_NNP he_PRP has_VBZ had_VBD the_DT sole_JJ responsibility_NN of_IN this_DT department_NN and_CC has_VBZ completed_VBN the_DT arrangement_NN for_IN the_DT Physiology_NNP department_NN ._.
+Dr._NNP B._NNP Narain_NNP has_VBZ been_VBN of_IN help_NN to_TO Dr._NNP Prasad_NNP in_IN fitting_VBG up_RP the_DT motors_NNS and_CC drums_NNS of_IN the_DT experimental_JJ room_NN ,_, preparing_VBG chemicals_NNS ,_, and_CC stock_NN reagents_NNS and_CC cutting_VBG sections_NNS for_IN the_DT class_NN purposes_NNS ._.
+Dr._NNP Prasad_NNP made_VBD himself_PRP generally_RB useful_JJ in_IN the_DT organisation_NN of_IN the_DT College_NNP and_CC supervi-_JJ sion_NN of_IN the_DT equipment_NN of_IN the_DT basement_NN room_NN which_WDT is_VBZ to_TO serve_VB as_IN the_DT central_JJ depôt_NN of_IN stores_NNS for_IN all_PDT the_DT departments_NNS in_IN future_JJ ._.
+*Who_NN joined_VBD this_DT department_NN on_IN December_NNP 11th_CD ,_, 1925_CD ._.
+Materia_NNP Medica_NNP and_CC Pharmacology.4_NNP disinfected_VBD and_CC no_DT further_JJ cases_NNS occurred_VBD ._.
+It_PRP is_VBZ of_IN interest_NN to_TO note_VB that_IN this_DT student_NN was_VBD one_CD of_IN the_DT two_CD who_WP did_VBD not_RB attend_VB the_DT vaccination_NN parade_VBD held_VBN in_IN the_DT hostel_NN as_RB soon_RB as_IN the_DT outbreak_NN was_VBD anticipated_VBN ._.
+Four_CD monitors_NNS were_VBD appointed_VBN from_IN among_IN the_DT College_NNP students_NNS each_DT of_IN whom_WP was_VBD allotted_VBN a_DT room_NN on_IN the_DT upper_JJ floor_NN ._.
+The_DT discipline_NN was_VBD on_IN the_DT whole_JJ satisfactory_NN ._.
+ATHLETICS_NNP ._.
+The_DT College_NNP students_NNS formed_VBD an_DT association_NN of_IN their_PRP$ own_JJ which_WDT opened_VBD its_PRP$ activities_NNS with_IN a_DT fancy_JJ foot-ball_JJ match_NN between_IN students_NNS and_CC staff_NN ._.
+Some_DT Tennis_NNP and_CC hockey_NN were_VBD played_VBN during_IN the_DT year_NN and_CC efforts_NNS were_VBD made_VBN to_TO secure_VB boats_NNS for_IN rowing_VBG on_IN the_DT river_NN ._.
+On_IN account_NN of_IN the_DT paucity_NN of_IN the_DT number_NN of_IN students_NNS this_DT side_NN of_IN college_NN life_NN could_MD not_RB fully_RB develop_VB ._.
+Annual_JJ sports_NNS were_VBD held_VBN on_IN the_DT 23rd_CD February_NNP 1926_CD ,_, in_IN which_WDT college_NN and_CC school_NN students_NNS competed_VBN together_RB ._.
+The_DT nursing_NN staff_NN were_VBD 5_CD FINANCE_NNP ._.
+A_DT statement_NN showing_VBG income_NN and_CC expenditure_NN from_IN Government_NNP and_CC other_JJ sources_NNS during_IN the_DT year_NN has_VBZ been_VBN furnished_VBN in_IN Table_NNP ``_`` E_NNP ''_'' ._.
+AVERAGE_JJ COST_NN OF_IN EDUCATING_NNP A_NNP PUPIL_NNP ._.
+The_DT average_JJ cost_NN of_IN educating_VBG a_DT pupil_NN at_IN the_DT Prince_NNP of_IN Wales_NNP '_POS Medical_NNP College_NNP ,_, Patna_NNP ,_, is_VBZ Rs_NNP ._.
+263.5_CD per_IN annum_NN ._.
+ESTABLISHMENT_NNP ._.
+A_DT separate_JJ list_NN of_IN the_DT staff_NN of_IN the_DT College_NNP has_VBZ been_VBN furnished_VBN in_IN Table_NNP ``_`` F_NNP ''_'' ._.
+CONCLUSION_NNP ._.
+I_PRP record_VBP my_PRP$ appreciation_NN here_RB of_IN the_DT manner_NN in_IN which_WDT the_DT staff_NN ,_, both_DT professorial_JJ and_CC clerical_JJ have_VBP enthusiastically_RB entered_VBN into_IN the_DT spirit_NN of_IN making_VBG this_DT new_JJ institution_NN a_DT success_NN ,_, worthy_NN of_IN the_DT province_NN and_CC one_CD of_IN the_DT best_JJS in_IN India_NNP ._.
+H._NNP R._NNP DUTTON_NNP ,_, LT.-COL._NNP ,_, I.M.S._NNP ,_, Principal_NNP ,_, The_DT Prince_NNP of_IN Wales_NNP '_POS Medical_NNP College_NNP ,_, Patna_NNP ._.
+6_CD TABLE_NNP ``_`` A_NNP ``_`` ._.
+Showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN the_DT students_NNS admitted_VBD or_CC re-admitted_JJ during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP '_POS Medical_NNP College_NNP ,_, Patna_NNP ._.
+7_CD TABLE_NNP ``_`` D_NNP ''_'' ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN students_NNS who_WP appeared_VBD and_CC passed_VBD their_PRP$ examinations_NNS during_IN the_DT year_NN 1925-26_RB ._.
+Serial_JJ number_NN ._.
+Description_NN of_IN examination_NN ._.
+Date_NNP of_IN examina-_JJ tion_NN ._.
+Number_NNP appeared_VBD ._.
+Number_NNP passed_VBD ._.
+Religioa_NNP of_IN students_NNS passed_VBN ._.
+Residence_NN of_IN students_NNS passed_VBN ._.
+Christians_NNS ._.
+Hindus_NNP ,_, Muhammadans_NNP ._.
+Total_JJ Bihar_NNP ._.
+Orissa_NNP ._.
+Chota_NNP Nagpur_NNP Bengali_NNP domieiled_VBD ._.
+Bengalis_NNP ,_, sons_NNS of_IN Bihar_NNP and_CC Orissa_NNP Government_NNP servants_NNS ._.
+Total_JJ European_JJ and_CC Eurasian_JJ ._.
+Indian_JJ ._.
+Brahmins_NNS ._.
+Non-Brahmins_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1_CD First_NNP M.B._NNP ,_, B.S_NNP ._.
+December_NNP 1925_CD ,_, 30_CD 22_CD ..._: 1_CD 1_CD 17_CD 3_CD 22_CD 12_CD 4_CD 2_CD 2_CD 2_CD 22_CD 2_CD Supplementary_NNP First_NNP M.B._NNP ,_, B_NNP ,_, S_NNP ._.
+M_NNP a_DT r_NN c_NN h_NN 1926_CD ._.
+9_CD 8_CD ..._: ..._: 2_CD 3_CD 3_CD 8_CD 6_CD 1_CD ..._: ..._: 1_CD 8_CD TABLE_NN ``_`` E._NNP ''_'' Showing_VBG the_DT finance_NN and_CC expenditure_NN of_IN the_DT Prince_NNP of_IN Wales_NNP '_POS Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 1925-26_RB ._.
+INCOME_NNP ._.
+EXPENDITURE_NNP ._.
+Heads_NNS of_IN receipts_NNS 1925-26_JJ ._.
+Heads_NNS of_IN expenditure_JJ 1925-26_JJ ._.
+Receipts_NNS from_IN sources_NNS other_JJ than_IN Government_NNP ._.
+Rs_NNP ._.
+a._NN p._NN Rs_NNP ._.
+a._NN p._NN Establishment_NNP 19,071_CD 0_CD 0_CD Entrance_NN fees_NNS 620_CD 0_CD 0_CD Scholarship_NN 470_CD 0_CD 0_CD College_NNP tuition_NN fees_NNS and_CC mie-_JJ roscope_NN hire_NN ,_, etc_FW 4,315_CD 0_CD 0_CD Book-allotment_JJ including_VBG library_JJ Rs_NNP ._.
+1,99_CD 8_CD ._.
+10,998_CD 0_CD 0_CD Tuition_NNP fee_NN realised_VBD from_IN casual_JJ student_NN ._.
+50_CD 0_CD 0_CD Stationery_NNP 360_CD 0_CD 0_CD Buildings_NNS and_CC repairs_NNS ..._: 1,77,730_CD 0_CD 0_CD Fine_NNP Nil_NNP Special_NNP grant_NN for_IN furniture_NN 2,487_CD 0_CD 0_CD Miscellaneous_NNP (_( hostel_JJ rent_NN and_CC electric_JJ charge_NN ,_, etc_FW ._. )_)
+836_CD 0_CD 0_CD Municipal_JJ taxes_NNS 6,162_CD 0_CD 0_CD Total_JJ 5,821_CD 0_CD 0_CD Telephone_NN charges_NNS 675_CD 0_CD 0_CD Contingencies_NNS ,_, contract_NN 2,142_CD 0_CD 0_CD Receipts_NNS from_IN Government_NNP ._.
+Non_NNP -_: contract_NN contingen-_JJ cies_NNS ._.
+32,736_CD 0_CD 0_CD Establishment_NN 19,071_CD 0_CD 0_CD scholarships_NNS 470_CD 0_CD 0_CD (_( Including_VBG Rs_NNP ._.
+3,958_CD amount_NN spent_VBN on_IN electric_JJ energy_NN ._. )_)
+Book-allotment_JJ 9,000_CD 0_CD 0_CD Library_JJ 1,998_CD 0_CD 0_CD Stationery_NNP 360_CD 0_CD 0_CD Remitted_VBN to_TO treasury_VB 5,821_CD 0_CD 0_CD Buildings_NNS and_CC repairs_VB 1,77,730_CD 0_CD 0_CD Special_JJ grant_NN for_IN furniture_NN 2,487_CD 0_CD 0_CD Municipal_JJ taxes_NNS 6,162_CD 0_CD 0_CD Telephone_NNP charge_NN 675_CD 0_CD 0_CD Contingencies_NNS ,_, contract_NN 2,142_CD 0_CD 0_CD Non-contract_JJ contingencies_NNS 32,736_CD 0_CD 0_CD Total_JJ 2,52,831_CD 0_CD 0_CD Grand_NNP Total_NNP 2,58,652_CD 0_CD 0_CD Grand_NNP Total_NNP 2,58,652_CD 0_CD 0_CD 8_CD Staff_NNP of_IN the_DT College_NNP Lt.-Col._NNP H._NNP R._NNP Dutton_NNP ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._.
+)_) ,_, D_NNP T_NNP M._NNP &_CC H_NNP ._.
+(_( Camb_NNP ._.
+)_) ,_, I.M.S_NNP ._.
+Principal_NNP ._.
+Medicine_NNP ._.
+Lt.-Col._NNP H._NNP B._NNP Dutton_NNP ,_, I.M.S_NNP ._.
+Professor_NNP ._.
+Rai_NNP Bahadur_NNP Dr._NNP S._NNP K._NNP Barat_NNP ,_, M.A._NNP ,_, L.M_NNP S._NNP Assistant_NNP to_TO the_DT Professor_NNP ._.
+Surgery_NN ._.
+Captain_NNP S._NNP N._NNP Hayes_NNP ,_, F.R.C.S_NNP ._.
+(_( Eng_NNP ._.
+)_) ,_, I.M.S_NNP ._.
+Professor_NNP ._.
+Khan_NNP Bahadur_NNP Dr._NNP Syed_NNP Hasan_NNP ,_, D.P.H_NNP ._.
+(_( Irel_NNP ._.
+)_) ,_, F.R.F.P_NNP ._.
+&_CC s_NN ._.
+(_( Glasg_NNP ._. )_) ._.
+Assistant_NN to_TO the_DT Professor_NNP (_( General_NNP )_) ._.
+Rai_NNP Bahadur_NNP Dr._NNP S._NNP N._NNP Ghosh_NNP ,_, L.M.S_NNP ._.
+Assistant_NN to_TO the_DT Professor_NNP (_( Special_NNP )_) ._.
+Obstetric_JJ Medicine_NNP ._.
+Major_JJ D._NNP Coutts_NNP ,_, M.B._NNP ,_, I.M.S_NNP Professor_NNP ._.
+Dr._NNP A._NN N._NNP Sankar_NNP ,_, M.B_NNP ._.
+Assistant_NN to_TO the_DT Professor_NNP ._.
+Pathology_NN ._.
+Captain_NNP A._NN N._NNP Bose_NNP ,_, M.B.E._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M_NNP ._.
+R.C.P._NN ,_, (_( Lond_NNP ._. )_)
+&_CC (_( Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Camb_NNP ._.
+)_) ,_, I.M.S_NNP ._.
+Professor_NNP ._.
+Dr._NNP S._NNP K._NNP Ghosh_NNP Dastidar_NNP ,_, M.B._NNP ,_, D._NNP T.M_NNP ._.
+(_( Cal_NNP ._. )_)
+Assisant_NN to_TO the_DT Professor_NNP ._.
+Dr._NNP S._NNP N._NNP P._NNP Varma_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+Demonstrator_NN ._.
+Pharmacology_NN ._.
+Dr._NNP T._NNP N._NNP Banarji_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._. )_)
+&_CC (_( Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Lond_NNP ._. )_)
+Professor_NNP ._.
+Dr._NNP P._NNP C._NNP Ray_NNP ,_, L.R.C.P_NNP ._.
+&_CC s_NN ._.
+(_( Edin_NNP ._. )_)
+L.R.F.P.S_NNP ._.
+(_( Glasg_NNP ._. )_)
+Assistant_NN to_TO the_DT Professor_NNP ._.
+Anatomy_NNP ._.
+Dr._NNP H._NNP Hyder_NNP Ali_NNP Klan_NNP ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._. )_)
+Professor_NNP ._.
+Dr._NNP Gopiballabh_NNP Sahay_NNP ,_, B.SC._NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_)
+Assistant_NN to_TO the_DT Professor_NNP ._.
+Dr._NNP S._NNP M._NNP Ghoshal_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+Demonstrator_NN ._.
+Physiology_NNP ._.
+Dr._NNP E._NNP W._NNP H._NNP Cruickshank_NNP ,_, D.Sc_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M.D_NNP ._.
+(_( Aber_NNP ._.
+)_) ,_, M.R_NNP C.P_NNP ._.
+(_( Lond_NNP ._. )_)
+Professor_NNP ._.
+Dr._NNP Badri_NNP Narayan_NNP Prashad_NNP ,_, M.Sc._NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_)
+Assistant_NN to_TO the_DT Professor_NNP ._.
+Dr._NNP Basudeva_NNP Narayan_NNP ,_, M.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+Demonstrator_NN ._.
+Biology_NNP ._.
+Mr._NNP S._NNP S._NNP Chaudhury_NNP ,_, M_NNP A._NN ,_, B.SC_NNP ._.
+(_( Allahabad_NNP ._.
+)_) ,_, M.SC_NNP ._.
+(_( Lucknow_NNP )_) ._.
+Professor_NNP ._.
+Botany_NNP ._.
+Mr._NNP A._NNP C._NNP Ghosh_NNP ,_, M.A_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.SC_NNP ._.
+Agric._NNP ,_, (_( Corcell_NNP ._. )_)
+Demonstrator_NN ._.
+Zoology_NNP ._.
+Mr._NNP M._NNP A._NNP Majid_NNP ,_, M_NNP .E_NNP C._NNP (_( Lucknow_NNP )_) Demonstrator_NNP ._.
+Medical_JJ Jurisprudence_NN ._.
+The_DT Police_NNP Surgeon_NNP ,_, Patna_NNP Lecturer_NNP ._.
+Hygiene_NNP and_CC Public_NNP Health_NNP ._.
+Assistant_NNP Director_NNP of_IN Public_NNP Health_NNP ,_, Bihar_NNP and_CC Orissa_NNP Lecturer_NNP ._.
+Mental_JJ Diseases_NNP ._.
+Superintendent_NN ,_, Indian_JJ Mental_NNP Hospital_NNP ,_, Kanke_NNP ,_, Ranchi_NNP Lecturer_NNP ._.
+Organic_JJ Chemistry_NNP ._.
+Dr._NNP K._NNP N.Bagchi_NNP ,_, B.SC._NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.C.S_NNP ._.
+Lecturer_NNP ._.
+B_NNP ,_, &_CC O._NNP G._NNP P._NNP (_( L._NNP S.-G._NNP )_) no_DT ._.
+23IP/10/HG.6_CD ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP FOR_IN THE_NNP YEAR_NNP 1926-27_CD BY_NNP Major_NNP R.R_NNP ._.
+M._NNP Porter_NNP ,_, I.M.S._NNP ,_, Principal_NNP (_( Offg_NNP ._. )_) ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971440.tif_CD ]_JJ PATNA_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ;_: 1927_CD ._.
+[_JJ Price_NNP Annas_NNP 5_CD ._. ]_NN
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP FOR_IN THE_NNP YEAR_NNP 1926-27_CD BY_NNP Major_NNP R._NNP R._NNP M._NNP Porter_NNP ,_, I.M.S._NNP ,_, Principal_NNP (_( Offg_NNP ._. )_) ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971446.tif_CD ]_JJ PATNA_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ;_: 1927_CD ._.
+PRICED_NNP PUBLICATIONS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP BIHAR_NNP AND_NNP ORISSA_NNP CAN_NNP BE_NNP HAD_NNP FROMNo_NNP ._.
+9933/E-474ANNUAL_JJ REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP FOR_IN THE_NNP YEAR_NNP 1926-27_CD ._.
+Introductory.2_NNP Seventeen_JJ students_NNS were_VBD allowed_VBN to_TO appear_VB in_IN part_NN I_PRP and_CC 5_CD students_NNS in_IN part_NN II_NNP of_IN the_DT 2nd_CD M._NNP B.B.S_NNP ._.
+in_IN October_NNP 1926_CD ._.
+Of_IN whom_WP 7_CD or_CC 41.1_CD per_IN cent_NN ._.
+passed_VBN in_IN part_NN I_PRP and_CC 2_CD or_CC 40.0_CD passed_VBN in_IN part_NN II_NNP ._.
+Similarly_RB 51_CD students_NNS were_VBD allowed_VBN to_TO appear_VB in_IN part_NN I_PRP and_CC 18_CD students_NNS in_IN part_NN II_NNP of_IN the_DT 2nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP in_IN March_NNP 1927_CD ._.
+The_DT figure_NN of_IN passes_NNS will_MD be_VB shown_VBN in_IN the_DT next_JJ year_NN 's_POS report_NN ._.
+Final_NNP M._NNP B_NNP ._.
+B._NNP S.3_NNP The_DT Maharajahdhiraj_NNP of_IN Darbhanga_NNP headed_VBD the_DT donors_NNS ,_, several_JJ of_IN whom_WP were_VBD present_JJ including_VBG Raja_NNP Deokinandan_NNP Singh_NNP of_IN Monghyr_NNP ,_, the_DT Rajah_NNP of_IN Amawan_NNP and_CC the_DT Maharajah_NNP of_IN Hathwa_NNP ._.
+Health_NNP and_CC discipline.4_VB Scholarships_NNP for_IN scholars_NNS who_WP joined_VBD this_DT College_NNP on_IN transfer_NN during_IN the_DT year.5_NNP Department_NNP of_IN Pharmacology.6_NNP TABLE_NNP A_NNP ._.
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN students_NNS admitted_VBN or_CC re-admitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+7_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remained_VBN on_IN the_DT roll_NN at_IN the_DT end_NN of_IN the_DT year_NN 1925-26_JJ and_CC 1926-27_JJ ._.
+Year_NN ._.
+Remained_VBN on_IN the_DT rolls_NNS from_IN the_DT previous_JJ year_NN ._.
+Admitted_VBN during_IN the_DT year_NN ._.
+Re-admitted_JJ during_IN the_DT year_NN ._.
+Admitted_VBN on_IN transfer_NN from_IN a_DT medical_JJ college_NN of_IN the_DT province_NN ._.
+Total_NN ._.
+Left_NNP ,_, died_VBD etc._NN ,_, during_IN the_DT year_NN ._.
+Left_NNP College_NNP after_IN passing_VBG the_DT final_JJ examination_NN ._.
+Removed_VBN for_IN absence_NN without_IN leave_NN ._.
+Removed_VBN for_IN non-payment_NN of_IN fees_NNS ._.
+Removed_VBN for_IN failure_NN in_IN examination_NN ._.
+Rusticated_VBN or_CC removed_VBN for_IN misconduct_NN ,_, etc_FW ._.
+Left_VBN with_IN object_NN of_IN studying_VBG in_IN Europe_NNP ._.
+Resigned_VBD or_CC left_VBD other-wise_NN ._.
+Died_NNP ._.
+Total_NN ._.
+Remained_VBN on_IN roll_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 1925-26_JJ ..._: 31_CD ..._: ..._: 31_CD ..._: ..._: ..._: 1_CD ..._: ..._: 1_CD ..._: 2_CD 29_CD 1926-27_JJ 29_CD 41_CD ..._: 88_CD 158_CD ..._: ..._: ..._: ..._: ..._: ..._: 4_CD ..._: 4_CD 154_CD TABLE_NNP D._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS who_WP appeared_VBD and_CC passed_VBD examination_NN during_IN the_DT year_NN ._.
+Serial_JJ No_NNP ._.
+Description_NN of_IN examinations_NNS ._.
+Dates_NNS of_IN examinations_NNS ._.
+Number_NNP appeared_VBD ._.
+Number_NNP passed_VBD ._.
+Religion_NN of_IN students_NNS passed_VBN ._.
+Residence_NN of_IN students_NNS passed_VBN ._.
+Christians_NNS ._.
+Hindus_NNP ._.
+Muhammadans_NNS ._.
+Total_NN ._.
+Bihar_NNP ._.
+Orissa_NNP ._.
+Chota_NNP Nagpur_NNP ._.
+Bengalis_NNP ,_, Domiciled_NNP ._.
+Bengalis_NNP ,_, sons_NNS of_IN Governments_NNP servants_NNS ,_, Bihar_NNP and_CC Orissa_NNP ._.
+Total_NN ._.
+European_JJ and_CC Eurasian_JJ ._.
+Indian_JJ ._.
+Brahmins_NNS ._.
+Non-Brahmins_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1925-26_JJ ._.
+.._JJ .._NNP .._NNP .._NNP .._NNP .._NNP .._NNP .._NNP .._NNP .._NNP .._NNP .._NNP .._NNP .._NNP .._VBD 1_CD 1st_CD M._NNP B_NNP ._.
+B._NNP S._NNP December_NNP 1925_CD ._.
+30_CD 22_CD ..._: 1_CD 1_CD 17_CD 3_CD 22_CD 12_CD 4_CD 2_CD 2_CD 2_CD 22_CD Supplementary_NNP first_RB M._NNP B_NNP ._.
+B._NNP S._NNP March_NNP 1926_CD 9_CD 8_CD ..._: ..._: 2_CD 3_CD 3_CD 8_CD 6_CD 1_CD ..._: ..._: 1_CD 8_CD 1926-27_JJ ._.
+2_CD 1st_CD M._NNP B_NNP ._.
+B._NNP S._NNP December_NNP 1926_CD ._.
+39_CD 28_CD ..._: ..._: 3_CD 19_CD 6_CD 28_CD 20_CD 1_CD ..._: 6_CD 1_CD 28_CD Supplementary_NNP first_RB M._NNP B_NNP ._.
+B._NNP S._NNP March_NNP 1927_CD ._.
+10_CD 6_CD ..._: ..._: ..._: 4_CD 2_CD 6_CD 5_CD ..._: ..._: ..._: 1_CD 6_CD 3_CD 2nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP I._NNP October_NNP 1926_CD ._.
+17_CD 7_CD ..._: ..._: ..._: 7_CD ..._: 7_CD 5_CD 1_CD ..._: 1_CD ..._: 7_CD 2nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP II_NNP October_NNP 1926_CD ._.
+5_CD 2_CD ..._: ..._: ..._: 1_CD 1_CD 2_CD 2_CD ..._: ..._: ..._: ..._: 2_CD 2nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP I_PRP ._.
+March_NNP 1927_CD ._.
+51_CD 25_CD ..._: 1_CD 4_CD 17_CD 3_CD 25_CD 16_CD 4_CD ..._: 3_CD 2_CD 25_CD 3nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP II_NNP ._.
+March_NNP 1927_CD ._.
+18_CD 7_CD ..._: ..._: ..._: 4_CD 3_CD 7_CD 5_CD 1_CD ..._: 1_CD ..._: 7_CD 4_CD Final_NNP M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP I._NNP October_NNP 1926_CD ._.
+9_CD 6_CD ..._: ..._: 1_CD 5_CD ..._: 6_CD 3_CD ..._: ..._: 2_CD 1_CD 6_CD Final_NNP M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP II_NNP ._.
+October_NNP 1926_CD ._.
+5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 8_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT finance_NN and_CC expenditure_NN of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN 1926-27_JJ and_CC previous_JJ year_NN ._.
+Income_NNP ._.
+Expenditure_NN ._.
+Heads_NNS of_IN receipts_NNS ._.
+1925-26_JJ ._.
+1926-27_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+Heads_NNS of_IN expenditure_NN ._.
+1925-26_JJ ._.
+1926-27_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Receipts_NNS from_IN sources_NNS other_JJ than_IN Government_NNP ._.
+Establishment_NN 19,071_CD 1,52,201_CD 1,33,130_CD ..._:
+Entrance_NN fees_NNS 620_CD 980_CD 360_CD ..._:
+Scholarship_NN of_IN Calcutta_NNP students_NNS ._.
+..._: 3,475_CD 3,475_CD ..._: College_NNP tuition_NN fees_NNS and_CC microscope_NN hire_NN ._.
+4,315_CD 29,640_CD 25,325_CD ..._:
+Merit_NNP scholarships_VBZ 470_CD 1,259_CD 789_CD ..._:
+Tuition_NN fees_NNS realised_VBN from_IN casual_JJ student_NN ._.
+50_CD ..._: ..._: 50_CD Book_NNP allotment_NN 9,000_CD ..._: ..._: 9,000_CD Library_NNP 1,998_CD 1,999_CD 1_CD ..._: Fine_NNP ..._: 127_CD 127_CD ..._: Stationery_NNP 360_CD 360_CD ..._: ..._: Miscellaneous_NNP (_( hostel_JJ rent_NN and_CC electric_JJ charge_NN ,_, etc_FW ._. )_)
+836_CD 4,413_CD 3,577_CD ..._: Buildings_NNS and_CC repairs_VB 1,77,730_CD 1,57,456_CD ..._: 20,274_CD 5,821_CD 35,160_CD 29,389_CD 50_CD Special_JJ grant_NN for_IN furniture_NN 2,487_CD 5,606_CD 3,119_CD ..._: Total_JJ Municipal_NNP taxes_NNS 6,162_CD 6,675_CD 513_CD ..._: Telephone_NN charges_NNS 675_CD 1,125_CD 450_CD ..._: Receipts_NNS from_IN Government_NNP ._.
+Contingencies9_NNP TABLE_NNP F._NNP Staff_NNP of_IN the_DT college_NN ._.
+Lt.-Col._NNP H._NNP R._NNP Dutton_NNP ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._. )_)
+D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Camb_NNP ._.
+)_) ,_, I.M.S_NNP ._.
+Principal_NNP ._.
+Anatomy_NNP ._.
+Mr._NNP H._NNP Hyder_NNP Ali_NNP Khan_NNP ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._. )_)
+Professor_NNP ._.
+Biology_NNP ._.
+Mr._NNP S._NNP S._NNP Chadhury_NNP ,_, M.A._NNP ,_, B.SC_NNP ._.
+(_( All_DT ._.
+)_) ,_, M.SC_NNP ._.
+(_( Luck_NNP ._. )_)
+Professor_NNP ._.
+Medicine_NNP ._.
+Lt.-Col._JJ H.R_NNP ._.
+Dutton_NNP ,_, I.M.S_NNP ._.
+Professor_NNP ._.
+Obstetric_NNP Medicine_NNP Major_NNP D_NNP ._.
+Coutts._NNP ,_, M.B_NNP ._.
+(_( Aber_NNP ._.
+)_) ,_, I.M.S._NNP Civil_NNP Surgeon_NNP ,_, Patna_NNP Professor_NNP ._.
+Pathology_NN ._.
+Major_JJ A._NN N._NNP Bose_NNP ,_, M.B.E._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+&_CC Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Camb_NNP ._.
+)_) ._. ,_, I.M.S_NNP ._.
+Professor_NNP ._.
+Pharmacology_NN ._.
+Dr._NNP T._NNP N._NNP Banerji_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+&_CC Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Lond_NNP ._. )_) ._.
+Professor_NNP ._.
+Physiology_NNP ._.
+Dr._NNP E._NNP W._NNP H._NNP Cruickshank_NNP ,_, D.sc_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M.D_NNP ._.
+(_( Aber_NNP ._. )_) ._.
+Professor_NNP ._.
+Surgery_NN ._.
+Major_JJ R._NNP R._NNP M._NNP Porter_NNP ,_, M.O._NNP ,_, M.A._NNP ,_, M.B._NNP ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._. )_)
+(_( Officiating_VBG Principal_NNP )_) ._.
+Professor_NNP ._.
+Forensic_JJ Medicine_NNP ._.
+Dr._NNP Jafar_NNP Hasan_NNP ,_, L.M.S._NNP ,_, Assistant_NNP to_TO Civil_NNP Surgeon_NNP ,_, Patna_NNP Lecturer_NNP ._.
+Hygiene_NNP and_CC Public_NNP Health_NNP ._.
+Captain_NNP S._NNP L._NNP Mitra_NNP ,_, M_NNP B._NNP ,_, ch_NN ._.
+B_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, B.Sc_NNP ._.
+(_( Alld_NNP ._.
+)_) ,_, D.P.H_NNP ._.
+(_( Edin_NNP ._.
+&_CC Glas_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, I.M.S_NNP ._.
+Lecturer_NNP ._.
+Disease_NNP of_IN Eye_NNP ,_, Ear_NNP ,_, Nose_NNP and_CC Throat_NNP ._.
+Rai_NNP Bahadur_NNP Dr._NNP S._NNP N._NNP Ghosh_NNP ,_, I.M.S_NNP ._.
+Lecturer_NNP ._.
+Mental_JJ Disease_NNP ._.
+The_DT Superintendent_NNP ,_, Indian_JJ Mental_NNP Hospital_NNP ,_, Kanke_NNP Lecturer_NNP ._.
+Organic_JJ Chemistry_NNP ._.
+Rai_NNP Sahib_NNP Dr._NNP K._NNP N._NNP Bagchi_NNP ,_, B_NNP ._.
+SC._NNP ,_, M.B_NNP ._.
+D.T.H_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.C.S_NNP ._.
+Lecturer_NNP ._.
+Radiology_NNP ._.
+Dr._NNP P._NNP B._NNP Mukherji_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F._NNP R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, D.M.R.E_NNP ._.
+(_( Camb_NNP )_) ._.
+Lecturer_NNP ._.
+Anatomy_NNP ._.
+Dr._NNP Gopiballabh_NNP Sahay_NNP ,_, B.SC._NNP ,_, M.B_NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_)
+Assistant_NN to_TO Professor_NNP ._.
+Medicine_NNP ._.
+Rai_NNP Bahadur_NNP Dr._NNP S._NNP K._NNP Barat_NNP ,_, M.A._NNP ,_, L.M.S_NNP ._.
+Assistant_NN to_TO Professor_NNP ._.
+Obstetrics_NNS ._.
+Dr._NNP A._NN N._NNP Sarkar_NNP ,_, M.B_NNP ._.
+Assistant_NN to_TO Professor_NNP ._.
+10_CD Pathology_NNP ._.
+Dr._NNP S._NNP K._NNP Ghosh_NNP Dastidar_NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_)
+Assistant_NN to_TO Professor_NNP ._.
+Pharmacology_NN ._.
+Dr._NNP P._NNP C._NNP Ray_NNP ,_, L.R.C.P._NNP ,_, &_CC S_NNP ._.
+(_( Edin_NNP ._. )_)
+(_( Glas_NNP ._. )_)
+Assistant_NN to_TO Professor_NNP ._.
+Physiology_NNP ._.
+Dr._NNP B._NNP N._NNP Prashad_NNP ,_, M.SC._NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+Assistant_NN to_TO Professor_NNP ._.
+Surgery_NN ._.
+Khan_NNP Bahadur_NNP Dr._NNP Saiyid_NNP Hasan_NNP ,_, F.R.F.P_NNP ._.
+&_CC S_NNP ._.
+Glas_NNP ._. )_)
+D.P.H_NNP ._.
+(_( Irel_NNP ._. )_)
+L.M.S_NNP ._.
+Assistant_NN to_TO Professor_NNP ._.
+Anatomy_NNP ._.
+Dr._NNP S._NNP M._NNP Ghosal_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+Demonstrator_NN ._.
+Phathology_NN ._.
+Dr._NNP S._NNP N._NNP P._NNP Verma_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+Demonstrator_NN ._.
+Physiology_NNP ._.
+Dr._NNP B._NNP Narayan_NNP ,_, M_NNP ._.
+SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+Demonstrator_NN ._.
+Biology_NNP ._.
+Botany_NNP ._.
+Mr._NNP A._NNP C._NNP Ghosh_NNP ,_, B.A_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.SC._NNP ,_, Agric_NNP ._.
+(_( Cornell_NNP )_) ,_, U.S.A._NNP Demonstrator_NNP ._.
+Zoology_NNP ._.
+Mr._NNP M._NNP A._NNP Majid_NNP ,_, M.SC_NNP ._.
+(_( Luck_NNP ._. )_)
+Demonstrator_NN ._.
+R._NNP R._NNP M._NNP PORTER_NNP ,_, MAJOR_NNP ,_, I.M.S._NNP Offg_NNP ._.
+Principal_NNP ,_, Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+B_NNP ._.
+&_CC O._NNP G._NNP P._NNP (_( I._NNP G._NNP C._NNP H._NNP )_) no_DT ._.
+17IP_CD IP/10/HE.6_NNP Edin_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALLS_NNP '_POS MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP ,_, FOR_IN THE_DT YEAR_NNP 1927-28_JJ BY_NNP LIEUT.-COL._NNP H._NNP R._NNP DUTTON_NNP ,_, I.M.S._NNP ,_, Principal_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971501.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP 1928_CD ._.
+[_JJ Price_NNP Annas_NNP 6_CD ._. ]_NN
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP '_POS MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP ,_, FOR_IN THE_DT YEAR_NNP 1927-28_JJ BY_NNP LIEUT.-COL._NNP H._NNP R._NNP DUTTON_NNP ,_, I.M.S._NNP ,_, Principal_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971507.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP 1928_CD ._.
+Priced_NNP Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP and_CC Orissa_NNP can_MD be_VB had_VBN fromNo_VBN ._.
+7901/E.-1382_CD The_DT question_NN which_WDT presently_RB overshadows_VBZ all_DT others_NNS is_VBZ that_IN of_IN obtaining_VBG the_DT recognition_NN by_IN the_DT General_NNP Medical_NNP Council_NNP of_IN the_DT medical_JJ qualifications_NNS of_IN the_DT University_NNP ._.
+The_DT report_NN of_IN Sir_NNP Norman_NNP Walker_NNP has_VBZ been_VBN closely_RB studied_JJ and_CC as_IN a_DT result_NN of_IN repeated_VBN conferences_NNS between_IN myself_PRP and_CC the_DT Principal_NNP and_CC his_PRP$ staff_NN considered_VBN ._.
+recommendations_NNS have_VBP been_VBN made_VBN to_TO Government_NNP ._.
+Acceptance_NN of_IN these_DT recommendations_NNS will_MD ,_, besides_IN almost_RB commending_VBG recognition_NN ,_, raise_VB the_DT standard_NN of_IN teaching_VBG to_TO a_DT high_JJ level_NN ._.
+Government_NNP will_MD I_PRP hope_VBP agree_JJ with_IN me_PRP that_IN the_DT report_NN shews_VBZ steady_JJ progress_NN and_CC efficient_JJ internal_JJ administration_NN ,_, I_PRP have_VBP the_DT honour_NN to_TO be_VB ,_, SIR_NNP ,_, Your_NNP most_RBS obedient_JJ Servant_NNP ,_, W._NNP S._NNP WILLMORE_NNP ,_, M.D._NNP ,_, M.R.C.P._NNP ,_, COL._NNP ,_, I.M.S._NNP ,_, Inspector-General_NNP of_IN Civil_NNP Hospitals_NNP ,_, Bihar_NNP and_CC Orissa_NNP ._.
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP '_POS MEDICAL_NNP COLLEGE_NNP PATNA_NNP ,_, FOR_IN THE_DT YEAR_NN 19272_CD completed_VBN as_RB far_RB as_IN the_DT building_NN is_VBZ concerned_VBN ,_, but_CC since_IN the_DT foundation_NN of_IN the_DT proposed_VBN new_JJ Public_NNP Health_NNP Laboratory_NNP is_VBZ not_RB within_IN sight_NN yet_RB ,_, it_PRP is_VBZ feared_VBN it_PRP will_MD be_VB long_RB before_IN the_DT Physiology_NNP department_NN can_MD have_VB full_JJ possession_NN of_IN the_DT whole_JJ building_NN ._.
+A_DT two-storeyed_JJ Animal_NNP House_NNP which_WDT has_VBZ nearly_RB been_VBN completed_VBN will_MD be_VB put_VBN to_TO use_VB next_JJ year_NN to_TO accommodate_VB animals_NNS for_IN experimental_JJ and_CC routine_JJ work_NN of_IN the_DT different_JJ departments_NNS of_IN the_DT college_NN ._.
+New_NNP quarters_NNS for_IN the_DT Professor_NNP of_IN Surgery_NNP are_VBP under_IN construction_NN and_CC expected_VBN to_TO be_VB ready_JJ for_IN occupation_NN next_JJ July_NNP ._.
+A_DT crane_NN has_VBZ been_VBN provided_VBN in_IN the_DT cold_JJ storage_NN room_NN to_TO facilitate_VB the_DT lifting_NN of_IN the_DT ice_NN manufactured_VBD ._.
+A_DT safety_NN signal_NN which_WDT can_MD be_VB worked_VBN by_IN persons_NNS accidentally_RB impressed_VBN in_IN that_DT room_NN has_VBZ also_RB been_VBN added_VBN to_TO it_PRP ._.
+Visitors.3_NNP His_PRP$ Excellency_NNP the_DT Hon'ble_NNP Sir_NNP Hugh_NNP Lansdown_NNP Stephenson_NNP visited_VBD the_DT college_NN on_IN March_NNP 14th_CD ,_, 1928_CD ,_, in_IN connection_NN with_IN the_DT construction_NN of_IN a_DT new_JJ hostel_NN and_CC the_DT Radium_NNP Institute_NNP ._.
+Colonel_NNP Willmore_NNP ,_, Lieutenant-Colonel_NNP Sprawson_NNP and_CC Dr._NNP Caldwell_NNP visited_VBD the_DT college_NN on_IN March_NNP 30th_CD ,_, 1928_CD ,_, as_IN University_NNP Inspectors_NNP and_CC will_MD submit_VB their_PRP$ report_NN in_IN due_JJ time_NN ._.
+Changes_NNS in_IN the_DT staff.4_JJ Forty-seven_JJ journals_NNS were_VBD subscribed_VBN for_IN and_CC 50_CD new_JJ books_NNS were_VBD purchased_VBN during_IN the_DT year_NN which_WDT raised_VBD the_DT total_NN of_IN books_NNS from_IN 1,033_CD to_TO 1,083_CD ._.
+Our_PRP$ library_NN is_VBZ yet_RB far_RB from_IN respectable_JJ regarding_VBG books_NNS of_IN reference_NN and_CC back_JJ sets_NNS of_IN journals_NNS without_IN which_WDT research_NN work_NN can_MD not_RB satisfactorily_RB be_VB carried_VBN on_IN ._.
+Another_DT substantial_JJ grant_NN is_VBZ needed_VBN for_IN the_DT library_NN ._.
+Teaching_VBG staff.5_JJ practical_JJ histology_NN ,_, a_DT subject_NN which_WDT is_VBZ put_VBN under_IN the_DT department_NN of_IN Anatomy_NNP in_IN progressive_JJ and_CC new_JJ schools_NNS of_IN medicine_NN but_CC which_WDT is_VBZ perhaps_RB better_RBR not_RB disturbed_VBN in_IN this_DT college_NN so_RB long_RB as_IN the_DT existing_VBG conditions_NNS of_IN the_DT building_NN and_CC equipment_NN of_IN the_DT departments_NNS concerned_VBN are_VBP not_RB changed_VBN ._.
+Pharmacology_NNP and_CC Materia_NNP Medica.6_NNP TABLE_NNP '_POS A_NNP ._. '_''
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN students_NNS admitted_VBN or_CC readmitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP '_POS Medical_NNP College_NNP ,_, Patna_NNP ._.
+7_CD TABLE_NNP ``_`` D_NNP ``_`` ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN students_NNS who_WP appeared_VBD and_CC passed_VBD their_PRP$ examinations_NNS during_IN the_DT year_NN 1927-28_RB ._.
+Serial_JJ number_NN ._.
+Description_NN of_IN examination_NN ._.
+Date_NNP of_IN examina-_JJ tion_NN ._.
+Number_NNP appeared_VBD ._.
+Number_NNP passed_VBD ._.
+Religion_NN a_DT students_NNS passed_VBN ._.
+Residence_NN of_IN students_NNS passed_VBN ._.
+Christian_JJ ._.
+Hindus_NNP ._.
+Muhammnand_NNP ._.
+Total_NN ._.
+Bihar_NNP ._.
+Orissa_NNP ._.
+Chota_NNP Nagpur_NNP ._.
+Bengalis_NNP domiciled_VBD ._.
+Bengalis_NNP ,_, sons_NNS of_IN Government_NNP servants_NNS Bihar_NNP and_CC Orissa_NNP ._.
+Total_JJ European_JJ and_CC Eurasian_JJ India_NNP ._.
+Brahmins_NNS ._.
+Non_NNP Brahmins_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 1925-26_JJ ._.
+1_CD First_NNP M.B.B.S_NNP ._.
+December_NNP 1925_CD ._.
+30_CD 23_CD ..._: 1_CD 1_CD 17_CD 3_CD 22_CD 12_CD 4_CD 2_CD 2_CD 2_CD 22_CD Supplementary_JJ M.B_NNP ._.
+B.S._NNP ,_, March_NNP 1936_CD ._.
+9_CD 8_CD ..._: ..._: 2_CD 3_CD 3_CD 8_CD 6_CD 1_CD ..._: ..._: 1_CD 9_CD 1926-27_JJ ._.
+2_CD First_NNP M.B.B.S_NNP ._.
+December_NNP 1926_CD ._.
+39_CD 28_CD ..._: ..._: 3_CD 19_CD 6_CD 28_CD 20_CD 1_CD ..._: 6_CD 1_CD 28_CD Supplementary_NNP March_NNP 1927_CD ._.
+10_CD 6_CD ..._: ..._: ..._: 4_CD 2_CD 6_CD 5_CD ..._: ..._: ..._: 1_CD 6_CD 3_CD Second_JJ M.B.B.S._NNP ,_, Part_NNP I._NNP October_NNP 1926_CD ._.
+17_CD 7_CD ..._: ..._: ..._: 7_CD ..._: 7_CD 5_CD 1_CD ..._: 1_CD ..._: 7_CD Second_NNP M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+5_CD 2_CD ..._: ..._: ..._: 1_CD 1_CD 2_CD 2_CD ..._: ..._: ..._: ..._: 2_CD Second_NNP M.B.B.S._NNP ,_, Part_NNP I_PRP ._.
+March_NNP 1927_CD ._.
+51_CD 25_CD ..._: 1_CD 4_CD 17_CD 3_CD 25_CD 16_CD 4_CD ..._: 3_CD 2_CD 25_CD Second_JJ M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+18_CD 7_CD ..._: ..._: ..._: 4_CD 3_CD 7_CD 5_CD 1_CD ..._: 1_CD ..._: 7_CD 4_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP I._NNP October_NNP 1926_CD ._.
+9_CD 6_CD ..._: ..._: 1_CD 5_CD .._JJ 6_CD 3_CD ..._: ..._: 2_CD 1_CD 6_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 5_CD First_NNP M.B.B.S_NNP ._.
+December_NNP 1927_CD ._.
+36_CD 26_CD ..._: ..._: 4_CD 16_CD 6_CD 26_CD 17_CD 2_CD ..._: 4_CD 3_CD 26_CD Supplementary_NNP March_NNP 1929_CD ._.
+12_CD 8_CD ..._: 1_CD 2_CD 5_CD ..._: 8_CD 6_CD ..._: ..._: 1_CD 1_CD 8_CD 8_CD Second_JJ M.B.B.S._NNP ,_, Part_NNP I._NNP October_NNP 1927_CD ._.
+25_CD 21_CD ..._: ..._: 2_CD 15_CD 4_CD 21_CD 11_CD 5_CD 2_CD 2_CD 1_CD 21_CD Second_JJ M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+13_CD 6_CD ..._: ..._: 1_CD 4_CD 1_CD 6_CD 5_CD 1_CD ..._: ..._: ..._: 6_CD Second_NNP M.B.B.S._NNP ,_, Part_NNP I_PRP ._.
+March_NNP 1928_CD ._.
+30_CD 21_CD ..._: ..._: 1_CD 14_CD 6_CD 21_CD 15_CD ..._: ..._: 5_CD 1_CD 21_CD Second_JJ M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+35_CD 17_CD ..._: ..._: 3_CD 11_CD 3_CD 17_CD 8_CD 3_CD ..._: 3_CD 3_CD 17_CD 7_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP I_PRP ._.
+March_NNP 1927_CD ._.
+30_CD 17_CD ..._: ..._: 5_CD 10_CD 3_CD 17_CD 3_CD ..._: ..._: 7_CD 7_CD 17_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+16_CD 5_CD ..._: .._NN ..._: 5_CD ..._: 5_CD 3_CD ..._: ..._: 2_CD ..._: 5_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP I._NNP October_NNP 1927_CD ._.
+12_CD 5_CD ..._: ..._: 1_CD 3_CD 1_CD 5_CD 3_CD 1_CD ..._: 1_CD ..._: 5_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+15_CD 6_CD ..._: ..._: 2_CD 4_CD ..._: 6_CD 1_CD 1_CD ..._: 4_CD ..._: 6_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP I_PRP ._.
+March_NNP 1928_CD ._.
+21_CD 10_CD ..._: ..._: 1_CD 5_CD 4_CD 10_CD 5_CD 1_CD ..._: 4_CD ..._: 10_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+22_CD 12_CD ..._: ..._: 2_CD 9_CD 1_CD 12_CD 4_CD ..._: ..._: 8_CD ..._: 12_CD 8_CD TABLE_NN ``_`` E._NNP ''_'' Statement_NNP showing_VBG the_DT finance_NN and_CC expenditure_NN of_IN the_DT Prince_NNP of_IN Wales_NNP '_POS Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN 1927-28_JJ and_CC previous_JJ year_NN ._.
+INCOME_NNP ._.
+EXPENDITURE_NNP ._.
+Heads_NNS of_IN receipts_NNS ._.
+1926-27_JJ 1927-28_JJ Increase_NNP ._.
+Decrease_NNP ._.
+Heads_NNS of_IN Expenditure_NN ._.
+1926-27_JJ 1927-28_JJ Increase_NNP ._.
+Decrease_NNP ._.
+Remarks_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Receipts_NNS from_IN sources_NNS other_JJ than_IN Government_NNP ._.
+..._: ..._: ..._: ..._:
+Establishment_NN 1,52,201_CD 1,95,232_CD 43,031_CD ..._:
+The_DT increase_NN is_VBZ due_JJ to_TO new_JJ appointment_NN of_IN officers_NNS in_IN the_DT te_JJ staff_NN ._.
+Entrance_NN fees_NNS 980_CD 960_CD ..._: 220_CD Scholarship_NN of_IN Calcutta_NNP students_NNS ._.
+3,475_CD 4,765_CD 1,290_CD ..._: Students_NNS whose_WP$ set_VBN ships_NNS were_VBD withheld_VBN allowed_VBN to_TO continue_VB passing_VBG their_PRP$ examin_NN hence_NN the_DT increase_NN ._.
+College_NNP tuition_NN fees_NNS and_CC micro-_JJ scope_NN hire_NN ._.
+19,810_CD 23,025_CD 3,215_CD ..._:
+Tuition_NN fees_NNS realised_VBN from_IN casual_JJ student_NN ._.
+..._: ..._: ..._: ..._:
+Merit_NNP scholarships_VBZ 1,259_CD 3,628_CD 2,369_CD ..._: More_JJR students_NNS comp_VBP hence_RB the_DT increas_JJ scholarship_NN ._.
+Fine_JJ 127_CD 137_CD 10_CD ..._: Miscellaneous_NNP (_( hostel_JJ rent_NN and_CC electric_JJ charge_NN ,_, etc_FW ._. )_) ._.
+4,413_CD 5,201_CD 788_CD ..._: Library_NNP 1,999_CD 3,000_CD 1,001_CD ..._: Allotment_NNP was_VBD incr_VBN from_IN Rs_NNP ._.
+2,000_CD to_TO Rs_NNP ._.
+Stationery_RB 360_CD 360_CD ..._: ..._: Total_JJ 25,330_CD 29,123_CD 4,013_CD 220_CD Buildings_NNS and_CC repairs_VB 1,57,456_CD 90,200_CD ..._: 67,256_CD Less_NNP expenditure_NN in_IN in_IN buildings_NNS ._.
+Special_JJ grant_NN for_IN furni-_JJ ture_NN ._.
+5,606_CD ..._: ..._: 5,606_CD There_EX was_VBD not_RB any_DT s_JJ sanction_NN for_IN furnit_NN hence_NN no_DT expendit_NN during_IN the_DT year_NN ._.
+Receipts_NNS from_IN Government_NNP ..._: ..._: ..._: ..._:
+Establishment_NN 1,52,201_CD 1,95,232_CD 43,031_CD ..._: Municipal_NNP taxes_NNS 8,675_CD 6,706_CD 31_CD ..._:
+Slight_NNP difference_NN ,_, nee_JJ explanation_NN ._.
+Scholarship_NN of_IN Calcutta_NNP students_NNS 3,475_CD 4,765_CD 1,290_CD ..._: Telephone_NN charges_NNS 1,125_CD 1,125_CD ..._: ..._:
+Merit_NNP scholarships_VBZ 1,259_CD 3,628_CD 2,369_CD ..._: ContingenciesTABLE_NNP ``_`` F._NNP ''_'' Present_JJ pay_NN ._.
+Special_JJ pay_NN ._.
+Compensatory_JJ allowance_NN ._.
+Lecturers_NNS ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Mental_JJ diseases_NNS ..._:
+Superintendent_NN ,_, Indian_JJ ._.
+Mental_NNP Hospital_NNP ,_, Kanke_NNP ,_, Ranchi_NNP ..._: ..._: 20_CD lectures_NNS at_IN Rs_NNP ._.
+32_CD per_IN lecture_NN (_( part-_JJ time_NN )_) ._.
+Organic_JJ Chemistry_NN ..._: Rai_NNP Sahib_NNP Dr._NNP K._NNP N._NNP Bagchi_NNP ,_, B.SC._NNP ,_, M.B._NNP ,_, D.T.M._NNP ,_, (_( Cal_NNP ._. )_)
+F.C.S_NNP ._.
+..._: 9_CD months_NNS at_IN Rs_NNP ._.
+150_CD per_IN month_NN (_( part-_JJ time_NN )_) ._.
+Radiology_NN ..._: Dr._NNP P._NNP B._NNP Mukharji_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, D.M.R.B_NNP ._.
+(_( Camb_NNP ._. )_)
+6_CD lectures_NNS at_IN Rs_NNP ._.
+32_CD per_IN lecture_NN (_( part-_JJ time_NN )_) ._.
+Bio-chemistry_NN ..._: Dr._NNP T._NNP N._NNP Seth_NNP ,_, M.SC._NNP ,_, Ph_NNP ._.
+D._NNP (_( Camb_NNP )_) ._.
+..._: 500_CD Demonstrators_NNS ._.
+Biology_NN ..._: Botany_NNP ,_, Mr._NNP A._NNP C._NNP Ghosh_NNP ,_, B.A_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.SC_NNP ._.
+Agric_NNP ._.
+(_( Corn_NNP ._. )_)
+..._: ..._: 185_CD Zoology_NNP ,_, Mr._NNP M._NNP A._NNP Majid_NNP ,_, M.SC_NNP ._.
+(_( Luck_NNP ._. )_)
+..._: 170_CD Organic_JJ Chemistry_NN ..._: Mr._NNP M._NNP N._NNP Rudra_NNP ,_, M.SC_NNP ._.
+170_CD Assistant_NNP to_TO Professor_NNP ._.
+Pharmacology_NN ..._: Assistant_NNP Surgeon_NNP Dr._NNP P._NNP C._NNP Roy_NNP ,_, L.R.C.P_NNP ._.
+&_CC S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, L.R.F.P_NNP ._.
+&_CC S_NNP ._.
+(_( Glasg_NNP ._. )_)
+..._: ..._: 375_CD 150_CD 75_CD Hostel_NNP allow-_JJ ance_NN ._.
+Physiology_NN ..._: Assistant_NNP Surgeon_NNP Dr._NNP B._NNP N._NNP Prasad_NNP ,_, M.SC._NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_) ..._:
+..._: 225_CD 150_CD 100_CD Non-prac-_JJ tising_VBG allow-_JJ ance_NN ._.
+Anatomy_NNP ..._: Assistant_NNP Surgeon_NNP Dr._NNP G._NNP B._NNP Sahay_NNP ,_, B_NNP ,_, SC._NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_)
+..._: 225_CD 150_CD 100_CD Ditto_NNP ._.
+Pathology_NN ..._: Assistant_NNP Surgeon_NNP Dr._NNP S._NNP K._NNP G._NNP Dastidar_NNP ,_, M_NNP ,_, B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_)
+..._: ..._: 225_CD 150_CD 100_CD Provincial_JJ laboratory_NN allowance_NN ._.
+Demonstrators_NNS (_( Medical_NNP men_NNS )_) ._.
+Physiology_NN ..._: Assistant_NNP Surgeon_NNP Dr._NNP B._NNP Narayan_NNP ,_, M.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+200_CD 75_CD Comp_NNP ._.
+allowance_NN ._.
+50_CD Non-practising_JJ allowance_NN ._.
+Anatomy_NNP ..._: Assistant_NNP Surgeon_NNP Dr._NNP S._NNP N._NNP Ghoshal_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+..._: 200_CD 75_CD Comp_NNP ._.
+allowance_NN ._.
+50_CD Non-practising_JJ allowance_NN ._.
+Pathology_NN ..._: Assistant_NNP Surgeon_NNP Dr._NNP S._NNP P._NNP Verma_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_)
+..._: ..._: 200_CD 75_CD Comp_NNP ._.
+allowance_NN ._.
+50_CD Provincial_JJ labo-_JJ ratory_NN allow-_JJ ance_NN ._.
+10_CD Present_JJ pay_NN ._.
+Special_JJ pay_NN ._.
+Compensatory_JJ allowance_NN ._.
+Demonstrators_NNS (_( Medical_NNP men_NNS )_) .IP/10/HG.6_VBP IP_NNP adour_NN IP_NNP ._.
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1928-1929_JJ BY_NNP Lt.-Col._NNP H._NNP R._NNP DUTTON_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971555.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ._.
+PATNA_NN 1930_CD ._.
+[_JJ Price_NNP As_NNP ._.
+5_CD ._. ]_NN
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1928-1929_JJ BY_NNP Lt.-Col._NNP H._NNP R._NNP DUTTON_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971561.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP 1930_CD ._.
+[_JJ Price_NNP As_NNP ._.
+5_CD ._. ]_NN
+Priced_NNP Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP and_CC Orissa_NNP can_MD be_VB had_VBN from11324_JJ No_NNP ._.
+E.115ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP ,_, FOR_IN THE_DT YEAR_NNP 1928-29_CD ._.
+Introductory.2_NNP Additional_NNP buildings_NNS .3_NNP Dr._NNP Reid_NNP ,_, an_DT experienced_JJ teacher_NN of_IN repute_NN from_IN the_DT University_NNP of_IN Aberdeen_NNP ,_, has_VBZ been_VBN appointed_VBN in_IN Dr._NNP Cruickshank4_NNP been_VBN extended_VBN very_RB considerably_RB with_IN addition_NN of_IN the_DT Pasteur_NNP Institute_NNP and_CC the_DT Bacteriological_NNP Laboratory_NNP not_RB to_TO mention_VB the_DT growth_NN of_IN the_DT departmental_NN museum_NN which_WDT is_VBZ systematically_RB going_VBG on_IN from_IN the_DT beginning_NN and_CC on_IN which_WDT the_DT professor_NN is_VBZ bestowing_VBG his_PRP$ very_RB special_JJ and_CC anxious_JJ cares_NNS ._.
+A_DT new_JJ system_NN on_IN the_DT lines_NNS of_IN European_JJ teaching_NN centres_NNS has_VBZ been_VBN introduced_VBN during_IN the_DT last_JJ three_CD months_NNS in_IN that_DT the_DT unpaid_JJ clinical_JJ Assistants_NNS of_IN the_DT Patna_NNP Medical_NNP College_NNP Hospital_NNP carry_VBP out_RP the_DT laboratory_NN investigation_NN of_IN their_PRP$ patients_NNS in_IN the_DT hospital_NN every_DT afternoon_NN ._.
+Thus_RB it_PRP is_VBZ possible_JJ to_TO make_VB a_DT complete_JJ study_NN of_IN a_DT patient_NN on_IN modern_JJ scientific_JJ lines_NNS ._.
+A_DT technician_NN has_VBZ been_VBN appointed_VBN permanently_RB as_IN a_DT caretaker_NN of_IN the_DT Patho-_NNP logical_JJ Museum_NNP ._.
+Mounting_VBG work_NN is_VBZ proceeding_VBG satisfactorily_RB since_IN his_PRP$ appointment_NN ._.
+One_CD hundred_CD and_CC one_CD new_JJ wet_NN specimens_NNS ,_, obtained_VBN from_IN England_NNP and_CC Vienna_NNP ,_, have_VBP been_VBN added_VBN ._.
+to_TO the_DT previous_JJ collections_NNS ._.
+Also_RB 103_CD coloured_VBD lantern_JJ slides_NNS on_IN Morbid_NNP Anatomy_NNP and_CC 33_CD Bacteriological_NNP cultures_NNS for_IN exhibi-_JJ tion_NN in_IN the_DT Museum_NNP have_VBP been_VBN received_VBN from_IN Vienna_NNP ._.
+Physiology.5_NNP (_( 2_CD )_) Lt.-Col.Cook_NN ,_, C.I.E._NNP ,_, I.M.S._NNP ,_, Professor_NNP of_IN Midwifery_NNP ._.
+(_( 3_CD )_) Professor_NNP T._NNP N.Banerjee_NNP ._.
+and_CC (_( 4_CD )_) Messrs._NNPS A._NNP Wels_NNP ,_, and_CC Co_NNP ._.
+The_DT club_NN is_VBZ busy_JJ with_IN framing_NN rules_NNS for_IN its_PRP$ guidance_NN ,_, and_CC it_PRP is_VBZ hoped_VBN that_IN they_PRP will_MD be_VB ready_JJ before_IN the_DT next_JJ session_NN commences_NNS ._.
+The_DT credit_NN for_IN all_PDT these_DT improvements_NNS is_VBZ due_JJ to_TO Professor_NNP Hyder_NNP Ali_NNP Khan_NNP under_IN whom_WP the_DT club_NN is_VBZ making_VBG a_DT rapid_JJ progress_NN ._.
+Dramatic_JJ Performances.6_NNP 2_CD ._.
+7_CD TABLE_NN A_NN ._.
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN students_NNS admitted_VBN or_CC re-admitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+8_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remained_VBN on_IN the_DT roll_NN at_IN the_DT end_NN of_IN the_DT year_NN ._.
+Year_NN ._.
+Remained_VBN on_IN the_DT rolls_NNS from_IN the_DT previous_JJ year_NN ._.
+Admitted_VBN during_IN the_DT year_NN ._.
+Readmitted_VBN during_IN the_DT year_NN ._.
+Admitted_VBN on_IN transfer_NN from_IN a_DT Medical_NNP College_NNP of_IN the_DT Province_NNP ._.
+Total_NN ._.
+Left_NNP ,_, died_VBD ,_, etc._FW ,_, during_IN the_DT year_NN ._.
+Left_NNP College_NNP after_IN passing_VBG the_DT final_JJ examination_NN ._.
+Removed_VBN for_IN absence_NN without_IN leave_NN ._.
+Removed_VBN for_IN non-payment_NN of_IN fees_NNS ._.
+Removed_VBN for_IN failure_NN in_IN examina-_JJ tion_NN ._.
+Rusticated_VBN or_CC removed_VBN for_IN mis-_JJ conduct_NN ,_, etc_FW ._.
+Left_VBN with_IN object_NN of_IN studying_VBG in_IN Europe_NNP ._.
+Resigned_VBD or_CC left_VBD otherwise_RB ._.
+Died_NNP ._.
+Total_NN ._.
+Remained_VBN on_IN roll_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 19279_CD TABLE_NNP E._NNP atement_VBD showing_VBG the_DT finance_NN and_CC expenditure_NN of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 1928-29_JJ and_CC previous_JJ year_NN ._.
+Income_NNP ._.
+Expenditure_NN ._.
+Remarks_NNS ._.
+Heads_NNS of_IN receipts_NNS ._.
+1927-23_CD ._.
+1928-29_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+Heads_NNS of_IN expenditure_NN ._.
+1927-28_JJ ._.
+1928-29_JJ Increase_NNP ._.
+Decrease_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD ECEIPTS_NN FROM_NNP SOURCES_NNP GOVERNMENT_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+trance_NN fees_NNS 760_CD 880_CD 120_CD ..._:
+Establishment_NN 1,95,232_CD 1,85,567_CD ..._: 9,665_CD Decrease_NNP is_VBZ due_JJ to_TO the_DT resignation_NN of_IN Professor_NNP of_IN Physiology_NNP during_IN the_DT year_NN ._.
+llege_JJ tuition_NN fees_NNS and_CC microscope_NN hire_NN and_CC sisin_NN fee_NN ._.
+23,025_CD 26,775_CD 3,750_CD ..._:
+Scholarship_NN of_IN Calcutta_NNP and_CC Oriya_NNP students_NNS ._.
+4,765_CD 3,868_CD ..._: 897_CD After_IN Calcutta_NNP scholar-_JJ ship-holders_NNS having_VBG passed_VBN out_RP during_IN the_DT year_NN ._.
+tion_NN fees_NNS realised_VBN from_IN sual_JJ students_NNS ._.
+..._: 100_CD 100_CD ..._: e_RB 137_CD 126_CD ..._: 11_CD Merit_NNP scholarship_VBD 3,628_CD 3,337_CD ..._: 291_CD Qualifying_VBG marks_NNS were_VBD obtained_VBN by_IN few_JJ students_NNS ._.
+ellaneous_JJ (_( hostel_JJ rent_NN and_CC electric_JJ charges_NNS )_) ._.
+5,201_CD 5,667_CD 466_CD ..._: Library_NNP 3,000_CD 2,990_CD ..._: 10_CD Variation_NNP slight_VBD needs_VBZ no_DT explanation_NN ._.
+Total_JJ 29,123_CD 33,548_CD 4,436_CD 11_CD Stationery_NNP 380_CD 500_CD 140_CD ..._:
+Extra_NNP grant_NN was_VBD sanc-_JJ tioned_JJ during_IN the_DT year_NN ._.
+ECEIPTS_NNP FEOM_NNP GOVERN-_NNP MENT_NNP ._.
+Buildings_NNS and_CC repairs_VB 90,200_CD 81,985_CD ..._: 8,215_CD Less_NNP expenditure_NN on_IN buildings_NNS and_CC on_IN sanita-_JJ tion_NN ,_, etc._NN ,_, has_VBZ been_VBN incurred_VBN daring_VBG this_DT year_NN ._.
+lablishment_NN 195,232_CD 185,567_CD ..._: 9,665_CD Special_JJ grant_NN for_IN furniture_NN ..._: ..._: ..._: ..._: cholarship_NN of_IN Calcutta_NNP and_CC Oriya_NNP students_NNS ._.
+4,765_CD 3,868_CD ..._: 897_CD Municipal_NNP taxes_NNS 6,706_CD 6,712_CD 6_CD ..._:
+Variation_NNP slight_VBD needs_VBZ no_DT explanation_NN ._.
+rit_NN scholarship_NN 3,628_CD 3,337_CD ..._: 291_CD Telephone_NNP charges_NNS 1,125_CD 1,422_CD 297_CD ..._: Actually_RB 6_CD telephones_NNS were_VBD in_IN use_NN ,_, but_CC grant_NN for_IN only_RB 5_CD connections_NNS was_VBD provided_VBN ._.
+Extra_NNP grant_NN was_VBD obtained_VBN later_RB ._.
+ary_JJ 3,000_CD 2,990_CD ..._: 10_CD ationery_NN 360_CD 500_CD 140_CD ..._: Contingencies10_NNP TABLE_NNP F._NNP Instructional_NNP Staff_NNP ._.
+Department_NNP of_IN Medicine_NNP ._.
+1_CD Professor_NNP ..._: First_NNP Physician_NNP to_TO the_DT Hospital_NNP ._.
+Lt.-Col._NNP H._NNP R._NNP Dutton_NNP ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP :_: )_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Camb_NNP ._.
+)_) ,_, I.M.S._NNP 1_CD Assistant_NNP to_TO ..._: the_DT Professor_NNP ._.
+Assistant_NNP Physician_NNP Rai_NNP Bahadur_NNP Dr._NNP S._NNP K._NNP Barat_NNP ,_, M.A._NNP ,_, L.M.S_NNP ._.
+1_CD Medical_JJ Registrar11_NNP Mental_NNP Diseases_VBZ 1_CD Lecturer_NN ..._: ..._: Captain_NNP J._NNP E._NNP Dhunjibhoy_NNP ,_, I.M.S._NNP (_( Superintendent_NNP ,_, Indian_JJ Mental_NNP Hospital_NNP ,_, Kanke_NNP )_) ._.
+Department_NNP of_IN Physiology_NNP ._.
+1_CD Professor_NNP ..._: ..._: Dr._NNP C._NNP Reid_NNP ,_, M.A._NNP ,_, M.B._NNP ,_, D.SC._NNP ,_, ch_NN ._.
+B._NNP ,_, D.P.H_NNP ._.
+1_CD Assistant_NN to_TO the_DT Professor_NNP ._.
+..._: ..._: Dr._NNP B._NNP Narayan_NNP ,_, M.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Demonstrator_NNP ._.
+..._: ..._: Dr._NNP B._NNP Banerji_NNP ,_, B.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Bio-Chemistry_NNP ._.
+..._: ..._: Dr._NNP T._NNP N._NNP Seth_NNP ,_, M.Sc._NNP ,_, Ph.D_NNP ._.
+(_( Camb_NNP ._. )_) ._.
+Department_NNP of_IN Anatomy_NNP ._.
+1_CD Professor_NNP Warden_NNP to_TO the_DT Hostel_NNP Dr._NNP H._NNP Hyder_NNP Ali_NNP Khan_NNP ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._.
+)_) ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP )_) ._.
+1_CD Assistant_NN to_TO the_DT Professor_NNP ._.
+..._: ..._: Dr._NNP S._NNP M._NNP Ghoshal_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP )_) ._.
+1_CD Demonstrator_NN ..._: ..._: Dr._NNP G._NNP K._NNP Ghosh_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+Department_NNP of_IN Organic_NNP Chemis-_NNP try_NN ._.
+1_CD Lecturer_NN ..._: ..._: Rai_NNP Sahib_NNP Dr._NNP K._NNP N._NNP Bagchi_NNP B.SC._NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_)
+F.C.S_NNP ._.
+1_CD Demonstrator_NN ..._: ..._: Mr.M_NNP ._.
+N._NNP Rudra_NNP ,_, M.SC_NNP ._.
+Department_NNP of_IN Radiology_NNP ._.
+1_CD Lecturer_NN ..._: ..._: Dr._NNP P._NNP B._NNP Mukerjee_NNP ,_, B.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.R.C.S.E._NNP ,_, D.M_NNP ._.
+R.E_NNP ._.
+(_( Camb_NNP ._. )_) ._.
+Department_NNP of_IN Materia_NNP Medica_NNP ._.
+The_DT Staff_NNP of_IN Pharmacology_NNP ._.
+Department_NNP Biology_NNP ._.
+1_CD Professor_NNP ..._: ..._: Mr._NNP S._NNP S._NNP Chandhry_NNP ,_, M.A._NNP ,_, B._NNP Sc_NNP ._.
+(_( Allh_NNP ._.
+)_) ,_, M.Sc_NNP ._.
+(_( Luck_NNP )_) 2_CD Demonstrators_NNPS ._.
+Botany_IN Mr._NNP A._NNP C._NNP Ghosh_NNP ,_, B.A._NNP ,_, (_( Cal_NNP ._.
+)_) ,_, M.Sc_NNP ._.
+(_( Agric_NNP ._.
+Corn_NNP ._. )_)
+U.S.A._NNP Zoology_NNP Mr._NNP M._NNP A._NNP Majid_NNP ,_, M.Sc_NNP ._.
+(_( Luck_NNP ._. )_) ._.
+Department_NNP of_IN Dentistry_NNP ._.
+1_CD Dental_JJ Sur-_NNP geon_NN ._.
+..._: ..._: Dr._NNP H._NNP ST._NNP John_NNP Mason_NNP ,_, D.M.D_NNP ._.
+B_NNP ._.
+&_CC O._NNP G._NNP P._NNP (_( I._NNP G._NNP C._NNP H._NNP )_) no_DT ._.
+37IP/10/HG.6_CD IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1929-1930_JJ BY_NNP D._NNP COUTTS_NNP ,_, Lt.-Col._NNP I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971633.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP ._.
+1930_CD ._.
+[_JJ Price_NNP As_NNP ._.
+5_CD ._. ]_NN
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1929-1930_JJ BY_NNP D._NNP COUTTS_NNP ,_, Lt.-Col._NNP I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971639.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP 1930_CD ._.
+[_JJ Price_NNP As_NNP ._.
+5_CD ._. ]_NN
+Priced_NNP Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP and_CC Orissa_NNP can_MD be_VB had_VBN fromNo_JJ 8835_CD E._NNP 187ANNUAL_CD REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP FOR_IN THE_NNP YEAR_NNP 1929-30_JJ ._.
+Introductory.2_NNP Visitor.3_NNP Annual_NNP Sports.4_NNP Anatomical_NNP museum.5_NN TABLE_NNP A_NNP ._.
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN student_NN admitted_VBN or_CC re-admitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+6_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remained_VBN on_IN the_DT rolls_NNS at_IN the_DT end_NN of_IN the_DT year_NN 1929-30_JJ ._.
+Year_NN ._.
+Number_NNP on_IN rolls_NNS in_IN the_DT previous_JJ year_NN ._.
+Admitted_VBN during_IN the_DT year_NN ._.
+Readmittedh_NNP duri_VBZ the_DT year_NN ._.
+Admitted_VBN on_IN transfer_NN certificate_NN from_IN other_JJ college_NN ._.
+Total_NN ._.
+Number_NNP left_VBD or_CC died_VBD ,_, etc._FW ,_, during_IN the_DT year_NN ._.
+Left_NNP college_NN after_IN passing_VBG the_DT final_JJ examination_NN ._.
+Removed_VBN for_IN absence_NN without_IN leave_NN ._.
+Removed_VBN for_IN non-payment_NN of_IN fees_NNS ._.
+Removed_VBN for_IN failure_NN in_IN examina-_JJ tion_NN ._.
+Rusticated_VBN or_CC removed_VBN for_IN mis-conduct_NN ._.
+Left_VBN with_IN the_DT object_NN of_IN studying_VBG in_IN Europe_NNP ,_, etc_NN ._.
+Resigned_VBD or_CC left_VBD otherwise_RB ._.
+Died_NNP ._.
+Total_NN ._.
+On_IN rolls_NNS at_IN present_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 1928-29_JJ 172_CD 40_CD ..._: 4_CD 216_CD 20_CD ..._: ..._: ..._: ..._: ..._: 7_CD 1_CD 28_CD 188_CD 1929-30_JJ 188_CD 40_CD ..._: ..._: 228_CD 10_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 10_CD 218_CD TABLE_NNP D._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS who_WP appeared_VBD and_CC passed_VBD examinations_NNS during_IN the_DT year_NN 1929-30_JJ ._.
+Siral_JJ no_DT ._.
+Name_NN of_IN examination_NN ._.
+Date_NNP of_IN examination_NN ._.
+Number_NNP appeared_VBD ._.
+Number_NNP passed_VBD ._.
+Religion_NN of_IN students_NNS passed_VBN ._.
+Residence_NN of_IN students_NNS passed_VBN ._.
+Christian_JJ ._.
+Hindu_NNP ._.
+Muhammadan.l_NNP Total_NNP ._.
+Bihar_NNP ._.
+Orissa_NNP ._.
+Chota_NNP Nagpur_NNP ._.
+Domiciled_VBN Bengalees_NNS ._.
+Bengalees_NNS who_WP are_VBP sons_NNS of_IN Gov-_NNP ernment_NN servants_NNS ._.
+Total_NN ._.
+Percentage_NN of_IN pass_NN ._.
+European_JJ or_CC Eurasian_JJ ._.
+Indian_JJ ._.
+Brahamin_NNP ._.
+Non-Brahmin_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 1_CD 2nd_CD M.B.B.S._NNP ,_, Part_NNP I._NNP October_NNP 1929_CD ._.
+13_CD 9_CD ..._: ..._: 1_CD 6_CD 2_CD 9_CD 6_CD 1_CD ..._: 2_CD .._VBD 9_CD 75_CD 2nd_CD M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+..._: 20_CD 11_CD .._NNS ..._: 1_CD 6_CD 4_CD 11_CD 9_CD ..._: ..._: 1_CD 1_CD 11_CD 55_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP I_PRP ,_, Do_NNP ._.
+..._: 7_CD 4_CD ..._: ..._: ..._: 3_CD 1_CD 4_CD 3_CD ..._: ..._: 1_CD ..._: 4_CD 57_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+..._: 11_CD 5_CD ..._: ..._: ..._: 4_CD 1_CD 5_CD 3_CD ..._: ..._: 1_CD 1_CD 5_CD 45_CD 2_CD 1st_CD M.B.B.S_NNP ._.
+..._: Decem-_NN ber_NN 1929_CD ._.
+40_CD 32_CD ..._: .._RB 2_CD 22_CD 8_CD 32_CD 19_CD 5_CD 2_CD 3_CD 3_CD 32_CD 80_CD Supplementary_JJ M.B.B.S_NNP ._.
+March_NNP 1936_CD ._.
+8_CD 8_CD ..._: ..._: 3_CD 4_CD 1_CD 8_CD 5_CD ..._: 1_CD 1_CD 1_CD 8_CD 100_CD 3_CD 2nd_CD M.B.B.S._NNP ,_, Part_NNP I_PRP ._.
+Do_NNP ._.
+..._: 40_CD 25_CD ..._: ..._: 6_CD 15_CD 4_CD 25_CD 8_CD 2_CD 2_CD 8_CD 5_CD 25_CD 62_CD 2nd_CD M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+..._: 35_CD 19_CD ..._: ..._: 4_CD 11_CD 4_CD 19_CD 8_CD ..._: 1_CD 6_CD 4_CD 19_CD 55_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP I_PRP ._.
+Do_NNP ._.
+..._: 35_CD 18_CD ..._: ..._: 1_CD 10_CD 7_CD 18_CD 11_CD 2_CD 1_CD 2_CD 2_CD 18_CD 52_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+..._: 14_CD 5_CD ..._: ..._: ..._: 4_CD 1_CD 5_CD 5_CD ..._: ..._: ..._: ..._: 5_CD 35_CD 7_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT Finance_NNP and_CC Expenditure_NNP of_IN The_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 1929-30_JJ and_CC previous_JJ year_NN ._.
+Income_NNP ._.
+Expenditure_NN ._.
+Remarks_NNS ._.
+Heads_NNS of_IN Receipts_NNP ._.
+1928-29_JJ ._.
+1929-30_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+Heads_NNS of_IN expenditure_NN ._.
+1928-29_JJ ._.
+1929-30_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD RECEIPTS_NN FROM_NNP SOURCES_NNP OTHER_NNP THAN_NNP GOVERN-_NNP MENT_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Entrance_NN fees_NNS 880_CD 800_CD ..._: 80_CD Establishment_NNP 1,85,567_CD 2,03,535_CD 17,968_CD ..._:
+The_DT increase_NN is_VBZ due_JJ to_TO the_DT usual_JJ increment_NN of_IN pay_NN of_IN several_JJ Professors_NNS ,_, etc._NN ,_, as_RB well_RB as_IN the_DT en-_JJ tertainment_NN of_IN the_DT new_JJ Professor_NNP of_IN Physiology_NNP during_IN the_DT whole_JJ year_NN ._.
+College_NNP Tuition_NNP fees_NNS ,_, micro-_JJ scope_NN hire_NN and_CC Revision_NNP fees_NNS ._.
+26,775_CD 30,080_CD 3,305_CD ..._:
+Tuition_NN fees_NNS realised_VBN from_IN casual_JJ students_NNS ._.
+100_CD ..._: ..._: 100_CD Scholarships_NNP 7,205_CD 6,485_CD ..._: 720_CD A_NNP few_JJ Calcutta_NNP scholar-_JJ ship-holders_NNS having_VBG passed_VBN out_RP during_IN the_DT year_NN ._.
+Fine_JJ 126_CD 261_CD 135_CD ..._: Library_NNP 2,990_CD 3,573_CD 583_CD ..._:
+Some_DT more_RBR journals_NNS were_VBD purchased_VBN ._.
+Miscellaneous_NNP (_( Hostel_NNP rent_NN and_CC Electric_NNP charges_NNS )_) ._.
+5,667_CD 5,754_CD 87_CD ..._: Total_JJ 33,548_CD 36,895_CD 3,527_CD 180_CD Stationery_NNP 500_CD 500_CD ..._: ..._: Buildings_NNS and_CC Repairs_NNP 81,985_CD 96,182_CD 14,197_CD ..._:
+Greater_NNP amount_NN of_IN ex-_JJ penditure_NN on_IN buildings_NNS and_CC repairs_NNS has_VBZ been_VBN made_VBN ._.
+RECEIPTS_NN FROM_NNP GOVERN-_NNP MENT_NNP ,_, Municipal_NNP taxes_NNS ..._: 6,712_CD 8,739_CD 2,027_CD ..._:
+Rent_NN on_IN certain_JJ new_JJ buildings_NNS has_VBZ been_VBN paid_VBN ._.
+Establishment_NN 1,85,567_CD 2,03,535_CD 17.968_CD ..._:
+Scholarships_NNP 7,205_CD 6,485_CD ..._: 720_CD Telephone_NNP charges_NNS 1,422_CD 1,294_CD ..._: 128_CD Rise_NN of_IN expenditure_NN above_IN the_DT normal_JJ during_IN the_DT previous_JJ year_NN was_VBD due_JJ to_TO the_DT arrear_JJ payment_NN made_VBN during_IN the_DT period_NN ._.
+This_DT cause_NN being_VBG absent_VBD the_DT expenditure_NN fell_VBD down_RB during_IN the_DT present_JJ year_NN ._.
+Library_JJ 2,990_CD 3,573_CD 583_CD ..._: Stationery_NNP 500_CD 500_CD ..._: ..._: BUILDINGS_NNP AND_NNP REPAIRS_NNP ._.
+Rs_NNP ._.
+Contingencies_NNS ._.
+Contract_NN 3,000_CD 2,800_CD ..._: 200_CD Allotment_NNP was_VBD reduced_VBN this_DT year_NN ._.
+Buildings_NNS 28,363_CD 81,985_CD 96,182_CD 14,197_CD ..._: Electric_NNP 10,607_CD Contingencies_NNPS ._.
+Non-con-_JJ tract_NN ._.
+66,491_CD 57.704_CD ..._: 3,787_CD Less_NNP expenditure_NN on_IN Laboratory_NNP requisites_NNS and_CC Electric_NNP current_JJ was_VBD incurred_VBN ._.
+Sanitation_NN 57,212_CD Remitted_VBN to_TO Treasury_NNP 33,548_CD 36,895_CD 3,347_CD ..._: Due_NNP to_TO the_DT increased_VBN number_NN of_IN students_NNS ._.
+Total_JJ 96,182_CD Municipal_JJ tax_NN 6,712_CD 8,739_CD 2,027_CD ..._: Telephone_NNP charge_NN 1,422_CD 1,294_CD ..._: 128_CD Contingencies_NNPS ,_, Contract_NNP 3.000_CD 2,800_CD ..._: 200_CD Contingencies_NNPS ,_, Non-con-_NNP tract_NN ._.
+66,491_CD 57,704_CD ..._: 8,787_CD Total_JJ 3,55,872_CD 3,80,812_CD 34,775_CD 9,835_CD Grand_NNP Total_NNP 3,89,420_CD 4,17,707_CD 38,302_CD 10,015_CD Total_JJ 3,89,420_CD 4,17,707_CD 38,122_CD 9,835_CD 8_CD TABLE_NNP F._NNP Instructional_NNP Staff_NNP ._.
+Department_NNP of_IN Medicine_NNP ._.
+1_CD Professor_NNP 1st_CD Physician_NN to_TO the_DT Hospital_NNP ._.
+Lt.-Col._NNP H._NNP R._NNP Dutton_NNP ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP )_) ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP )_) ,_, D_NNP T.M_NNP ._.
+&_CC H._NNP (_( Camb_NNP )_) ,_, F.R.C.P_NNP ._.
+(_( Lond_NNP )_) ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Medicine_NNP ._.
+..._: ..._: Rai_NNP Bahadur_NNP Dr._NNP S._NNP K._NNP Barat_NNP ,_, M_NNP A._NN ,_, L.M.S_NNP 1_CD Medical_NNP Registrar_NNP ._.
+..._: ..._: Dr._NNP A._NN Qaiyum_NNP ._.
+1_CD Clinical_JJ Pathologist_NN ._.
+..._: ..._: Dr._NNP M._NNP D._NNP Tewari_NNP ._.
+Department_NNP of_IN Surgery_NNP ._.
+1_CD Professor_NNP Surgeon_NNP to_TO the_DT Hospital_NNP ._.
+Major_JJ H._NNP G._NNP Alexander_NNP ,_, F.R.C.S._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Surgery_NNP ._.
+..._: ..._: Khan_NNP Bahadur_NNP Dr._NNP Syed_NNP Hasan_NNP ._.
+F.R_NNP ._.
+F.P_NNP ._.
+&_CC (_( Glasg_NNP )_) ,_, D.P.H_NNP ._.
+(_( lre_NN ._. )_)
+1_CD Surgica1_NNP Registrar_NNP ._.
+Surgeon_NN to_TO Venereal_NNP Block_NNP ._.
+Dr._NNP G._NNP C._NNP Bhaduri_NNP ,_, M.B_NNP ._.
+Department_NNP of_IN Ophthal-_NNP mology_NN and_CC Oto-Rhino-_NNP Laryngology_NNP ._.
+1_CD Lecturer_NNP in_IN Eye_NNP ,_, Ear_NNP ,_, Nose_NNP and_CC Throat_NNP disea-_JJ ses_NNS ._.
+Ophthalmic_NNP Surgeon_NNP to_TO the_DT Hospital_NNP ._.
+Rai_NNP Bahadur_NNP Dr._NNP S._NNP N._NNP Ghosh_NNP ._.
+Department_NNP of_IN Gynaeco-_NNP logy_NN ._.
+1_CD Professor_NNP ..._: Obstetric_NNP Surgeon_NNP to_TO the_DT Hospital_NNP ._.
+Lt.-Col._NNP D._NNP Coutts_NNP ,_, M.D_NNP ._.
+(_( Aberd_NNP )_) ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Midwifery_NNP ._.
+..._: ..._: Dr._NNP A._NNP N._NNP Sarkar_NNP ,_, M.B_NNP ._.
+Department_NNP of_IN Pathology_NNP 1_CD Professor_NNP Physician_NNP to_TO Isolation_NNP Block_NNP ._.
+Major_JJ A._NN N._NNP Bose_NNP ,_, M.B.E._NNP ,_, M.D._NNP ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP &_CC Edin_NNP )_) ,_, D.T.M_NNP ._.
+&_CC H._NNP ,_, F.R.C.P.E_NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Pathology_NNP ._.
+..._: ..._: Dr._NNP S._NNP K._NNP Ghosh_NNP Dastidar_NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP )_) ._.
+1_CD Demonstrator_NN ..._: ..._: Dr._NNP S._NNP P._NNP Varma_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP )_) ._.
+1_CD Curator_NNP of_IN Museum_NNP ._.
+..._: ..._: Dr._NNP S._NNP Prasad_NNP ,_, M.B_NNP ._.
+Department_NNP of_IN Forensic_NNP Medicine_NNP ._.
+1_CD Lecturer_NNP in_IN Jurisprudence_NNP ._.
+..._: ..._: Assistant_NNP Surgeon_NNP Dr._NNP Jafar_NNP Hasan_NNP ._.
+Department_NNP of_IN Hygiene_NNP 1_CD Lecturer_NNP ..._: ..._: Assistant_NNP Director_NNP of_IN Public_NNP Health_NNP ._.
+1_CD Demonstrator_NN ..._: ..._: Health_NNP Officer_NNP ,_, Patna_NNP City_NNP Municipality_NNP ._.
+Department_NNP of_IN Pharma-_NNP cology_NN &_CC Therapeutics_NNP ._.
+1_CD Professor_NNP 2nd_CD Physician_NN to_TO the_DT Hospital_NNP ._.
+Dr._NNP T._NNP N._NNP Banarji_NNP ,_, M.B._NNP ,_, (_( Cal_NNP )_) ._.
+M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+&_CC Edin_NNP )_) ,_, D.T.M_NNP ._.
+&_CC H._NNP (_( Lond_NNP )_) ._.
+1_CD Lecturer_NNP in_IN &_CC Assistant_NNP Pharmaco1ogy_NNP ,_, Warden_NNP to_TO the_DT Hostel_NNP ._.
+Dr._NNP P._NNP C._NNP Ray_NNP ,_, L.R_NNP C.P_NNP ._.
+&_CC S._NNP (_( Edin_NNP )_) ,_, L.R_NNP ._.
+F.P_NNP ._.
+&_CC S._NNP (_( Glasg_NNP )_) ._.
+Mental_JJ Diseases_VBZ 1_CD Lecturer_NN ..._: .._JJ Captain_NNP J._NNP E._NNP Dhunji-_NNP bhoy_NN ,_, I.M.S._NNP (_( Superin-_NNP tendent_NN ,_, Indian_JJ Mental_NNP Hospital_NNP ,_, Kanke_NNP )_) ._.
+9_CD Department_NNP of_IN Physiology_NNP 1_CD Professor_NNP ..._: ..._: Dr._NNP C._NNP Reid_NNP ,_, M.A_NNP ._.
+M.B._NNP ,_, D.SC_NNP ._.
+CH_NNP ._.
+B._NNP ,_, D.P.H_NNP ,_, 1_CD Lecturer_NN ..._: ..._: Dr._NNP B._NNP Narayana_NNP ,_, M.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP )_) ._.
+1_CD Demonstrator_NN ..._: ..._: Dr._NNP B._NNP Banarji_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP )_) ._.
+1_CD Lecturer_NNP in_IN Biochemistry_NNP ..._: ..._: Dr._NNP T._NNP N._NNP Seth_NNP ,_, M.SC._NNP ,_, Ph.D._NNP (_( Camb_NNP )_) ._.
+Department_NNP of_IN Anatomy_NNP 1_CD Professor_NNP Warden_NNP to_TO the_DT Hostel_NNP Dr._NNP H._NNP Hyder_NNP Ali_NNP Khan_NNP ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP )_) ,_, F.R_NNP ._.
+C.S_NNP ._.
+(_( Edin_NNP )_) ._.
+1_CD Lecturer_NN ..._: ..._: Dr._NNP Sanatan_NNP Pujari_NNP ,_, M.B._NNP ,_, (_( Cal_NNP )_) ._.
+1_CD Demonstrator_NN ..._: ..._: Dr._NNP G._NNP K._NNP Ghosh_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP )_) ._.
+Department_NNP of_IN Organic_NNP Chemistry_NNP ._.
+1_CD Lecturer_NN ..._: ..._: Rai_NNP Sahib_NNP Dr._NNP K._NNP N._NNP Bagchi_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+D.T.M._NNP ,_, (_( Cal_NNP )_) ,_, F.C.S_NNP ._.
+1_CD Demonstrator_NN ..._: ..._: Mr_NNP ,_, M._NNP N._NNP Rudra_NNP ,_, M.SC_NNP ._.
+Department_NNP of_IN Radiology_NNP 1_CD Lecturer_NNP ..._: ..._: Dr._NNP P._NNP B._NNP Mukharji_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP )_) ,_, F.R.C_NNP ._.
+S.E._NNP ,_, D.M.R.E_NNP ._.
+(_( Camb_NNP )_) ._.
+Department_NNP of_IN Biology_NNP 1_CD Professor_NNP ..._: ..._: Mr._NNP S._NNP S._NNP Chaudhuri_NNP ,_, M.A._NNP ,_, B.SC_NNP ._.
+(_( Alld_NNP ._. )_)
+M.SC_NNP ._.
+(_( Luck_NNP )_) ._.
+2_CD Demonstrators_NNS ,_, Botany_NNP ._.
+..._: ..._: Mr._NNP A._NNP C._NNP Ghosh_NNP ,_, B.A_NNP ._.
+(_( Cal_NNP )_) ._.
+M.SC_NNP ._.
+(_( AGRIC_NNP ._. )_)
+(_( Corn_NNP ,_, U.S.A._NNP )_) Zoology_NNP ..._: ..._: Mr._NNP M._NNP A._NNP Majid_NNP ,_, M.SC_NNP ._.
+(_( Luck_NNP )_) ._.
+Department_NNP of_IN Dentistry_NNP 1_CD Dental_NNP Surgeon_NNP ._.
+..._: ..._: Dr._NNP H._NNP St._NNP John_NNP Mason_NNP ,_, D.M.D_NNP ._.
+Department_NNP of_IN Materia_NNP Medica_NNP ._.
+The_DT staff_NN of_IN Pharmacology_NNP ._.
+B_NNP ._.
+&_CC O._NNP G._NNP P_NNP ._.
+(_( I.G.C.H_NNP ._. )_)
+no_DT ._.
+13IP/10/HG.6_CD IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1930-31_JJ BY_NNP Lt.-Col._NNP ,_, D._NNP COUTTS_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971687.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP 1931_CD ._.
+[_JJ Price_NNP -_: As_IN ._.
+5_CD ._. ]_NN
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1930-31_JJ BY_NNP Lt.-Col._NNP ,_, D._NNP COUTTS_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971693.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP 1931_CD ._.
+No_DT ._.
+E/134/31_NNP ._.
+FROM_IN THE_NNP INSPECTOR-GENERAL_NNP OF_NNP CIVIL_NNP HOSPITALS_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, To_TO THE_NNP SECRETARY_NNP TO_NNP THE_NNP GOVERNMENT_NNP OF_NNP BIHAR_NNP AND_NNP ORISSA_NNP ,_, LOCAL_NNP SELF-GOVERNMENT_NNP DEPARTMENT_NNP ._.
+Patna_NNP ,_, the_DT June_NNP 1931_CD ._.
+SIR_NNP ,_, I_PRP HAVE_VBP the_DT honour_NN to_TO submit_VB for_IN the_DT information_NN of_IN Government_NNP the_DT annual_JJ report_NN of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1930-31_RB ._.
+2_CD ._.
+The_DT college_NN has_VBZ now_RB been_VBN in_IN existence_NN for_IN six_CD years_NNS and_CC its_PRP$ successful_JJ progress_NN is_VBZ largely_RB due_JJ to_TO the_DT ability_NN and_CC enthusiasm_NN shown_VBN by_IN the_DT Principal_NNP and_CC the_DT staff_NN ._.
+3_CD ._.
+The_DT session_NN commenced_VBD with_IN 258_CD students_NNS on_IN the_DT roll_NN ._.
+This_DT included_VBD 40_CD new_JJ students_NNS ._.
+4_CD ._.
+Forty-seven_JJ students_NNS appeared_VBD for_IN the_DT Final_NNP M._NNP B_NNP ._.
+B._NNP S._NNP examination_NN and_CC of_IN these_DT 17_CD qualified_VBD as_IN M._NNP B_NNP ._.
+B._NNP S._NNP 5_CD ._.
+Twenty-three_JJ students_NNS were_VBD sent_VBN to_TO Bangalore_NNP for_IN training_NN in_IN practical_JJ midwifery_NN and_CC 29_CD to_TO Kanke_NNP for_IN mental_JJ diseases_NNS ,_, the_DT total_JJ cost_NN on_IN this_DT account_NN was_VBD Rs_NNP ._.
+4,291_CD and_CC Rs_NNP ._.
+797_CD ,_, respectively_RB ._.
+6_CD ._.
+During_IN the_DT year_NN four_CD assistant_NN surgeons_NNS attended_VBD the_DT post-graduate_JJ course_NN and_CC were_VBD declared_VBN to_TO have_VB passed_VBN in_IN the_DT examination_NN held_VBD at_IN the_DT end_NN of_IN the_DT course_NN ._.
+7_CD ._.
+A_DT special_JJ leprosy_JJ clinic_NN for_IN two_CD weeks_NNS was_VBD held_VBN in_IN the_DT college_NN by_IN the_DT Leprosy_NNP Expert_NNP which_WDT was_VBD attended_VBN by_IN all_PDT the_DT post-graduate_JJ officers_NNS and_CC medical_JJ students_NNS ._.
+8_CD ._.
+During_IN the_DT year_NN the_DT college_NN was_VBD visited_VBN by_IN the_DT Director-General_NNP ,_, Indian_NNP Medical_NNP Service_NNP ,_, who_WP expressed_VBD his_PRP$ great_JJ satisfaction_NN at_IN the_DT result_NN and_CC progress_NN of_IN the_DT college_NN ._.
+9_CD ._.
+Recognition_NN has_VBZ now_RB been_VBN accorded_VBN to_TO the_DT M._NNP B_NNP ._.
+B._NNP S._NNP course_NN and_CC degree_NN of_IN the_DT Patna_NNP University_NNP by_IN the_DT Conjoint_NNP Board_NNP ,_, London_NNP ._.
+10_CD ._.
+The_DT conduct_NN and_CC health_NN of_IN the_DT students_NNS on_IN the_DT whole_NN was_VBD good_JJ ._.
+I_PRP have_VBP the_DT honour_NN to_TO be_VB ,_, SIR_NNP ,_, Your_NNP most_RBS obedient_JJ servant_NN ,_, L._NNP COOK_NNP ,_, LT.-COL._NNP ,_, I.M.S._NNP ,_, Inspector-General_NNP of_IN Civil_NNP Hospitals_NNP ,_, BihANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP ,_, FOR_IN THE_DT YEAR_NNP 1930-31_CD ._.
+Introductory.2_NNP spent_NN is_VBZ quite_RB inconsiderable_JJ compared_VBN to_TO the_DT needs_NNS of_IN the_DT different_JJ depart-_JJ ments_NNS of_IN the_DT college_NN where_WRB serious_JJ and_CC earnest_JJS attempts_NNS are_VBP being_VBG made_VBN to_TO carry_VB on_IN research_NN along_IN with_IN teaching_NN ._.
+Back_JJ numbers_NNS of_IN journals_NNS ,_, renewal_NN of_IN older_JJR publications_NNS as_RB well_RB as_IN the_DT additions_NNS of_IN new_JJ ones_NNS are_VBP necessary_JJ for_IN the_DT improvement_NN of_IN the_DT library_NN if_IN it_PRP is_VBZ to_TO help_VB in_IN the_DT work_NN of_IN original_JJ research_NN ._.
+Hostel.3_NNP A_NNP new_JJ post_NN of_IN temporary_JJ Demonstrator_NNP has_VBZ been_VBN created_VBN for_IN the_DT Anatomy_NNP department_NN and_CC Dr._NNP Masudul_NNP Haq_NNP has_VBZ been_VBN appointed_VBN to_TO it_PRP ._.
+Dr._NNP Sidheshwari_NNP Prasad_NNP ,_, B.Sc._NNP ,_, M.B._NNP ,_, has_VBZ been_VBN appointed_VBN as_IN Demons-_NNP trator_NN of_IN Physiology_NNP in_IN place_NN of_IN Dr._NNP B._NNP N._NNP Banerji_NNP ,_, B.Sc._NNP ,_, M.B._NNP ,_, transferred_VBD to_TO Pathology_NNP department_NN as_IN a_DT lecturer_NN in_IN Chemical_NNP Pathology_NNP ._.
+A_DT technician_NN for_IN this_DT section_NN (_( Chemical_NNP Pathology_NNP )_) has_VBZ also_RB been_VBN appointed_VBN ._.
+The_DT Professor_NNP of_IN Pathology_NNP (_( Major_NNP Bose_NNP )_) was_VBD away_RB on_IN leave_VBP to_TO Europe_NNP for_IN three_CD months_NNS and_CC some_DT days_NNS during_IN the_DT year_NN ._.
+He_PRP returned_VBD to_TO his_PRP$ duty_NN on_IN October_NNP 6th_CD ,_, 1930_CD ,_, allowing_VBG Dr._NNP S._NNP K._NNP G._NNP Dastidar_NNP to_TO revert_VB to_TO his_PRP$ own_JJ post_NN as_IN Lecturer_NNP in_IN Pathology_NNP ._.
+The_DT Lecturer_NNP of_IN Pharmacology_NNP (_( Dr._NNP P._NNP C._NNP Roy_NNP )_) held_VBD charge_NN of_IN the_DT Pharmacology_NNP department_NN during_IN the_DT year_NN under_IN report_NN and_CC carried_VBD out_IN the_DT duties_NNS of_IN office_NN of_IN the_DT Lecturer_NNP and_CC of_IN the_DT Professor_NNP of_IN Pharmacology_NNP ._.
+On_IN May_NNP 16th_CD ,_, 1930_CD ,_, Dr._NNP K._NNP N._NNP Bagchi_NNP ,_, the_DT Lecturer_NNP in_IN Organic_NNP Chemistry_NNP ,_, left_VBD for_IN England_NNP on_IN study_NN leave_VBP for_IN 15_CD months_NNS and_CC the_DT duties_NNS of_IN the_DT Lecturer_NNP were_VBD taken_VBN over_RP by_IN Mr._NNP M._NNP N._NNP Rudra_NNP ,_, M.Sc._NNP ,_, the_DT Demons-_NNP trator_NN ,_, Mr._NNP D._NNP C._NNP Bose_NNP ,_, was_VBD appointed_VBN temporarily_RB as_IN junior_JJ Demonstrator_NNP from_IN July_NNP 1st_CD ,_, 1930_CD ._.
+RESEARCH_NN AND_CC PUBLICATIONS_NNP ._.
+Pharmacology.4_VB A_NNP paper_NN 5_CD idea_NN is_VBZ to_TO find_VB a_DT sufficient_JJ number_NN of_IN cases_NNS locally_RB in_IN order_NN to_TO make_VB it_PRP un-_JJ necessary_JJ for_IN the_DT students_NNS to_TO go_VB to_TO Bangalore_NNP for_IN training_NN in_IN midwifery_NN ._.
+Conclusion.6_NNP TABLE_NNP A_NNP ._.
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN students_NNS admitted_VBN or_CC re-admitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+7_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remained_VBN on_IN the_DT rolls_NNS at_IN the_DT end_NN of_IN the_DT year_NN 1930-31_RB ._.
+Year_NN ._.
+Number_NNP on_IN rolls_NNS in_IN the_DT previous_JJ year_NN ._.
+Admitted_VBN during_IN the_DT year_NN ._.
+Readmitted_VBN during_IN the_DT year_NN ._.
+Admitted_VBN or_CC transfer_VB certificate_NN from_IN other_JJ college_NN ._.
+Total_NN ._.
+Left_NNP ,_, died_VBD ,_, etc._FW ,_, during_IN the_DT year_NN ._.
+Left_NNP college_NN after_IN passing_VBG the_DT final_JJ examination_NN ._.
+Removed_VBN for_IN absence_NN without_IN leave_NN ._.
+Removed_VBN for_IN non-payment_NN of_IN fees_NNS ._.
+Removed_VBN for_IN failure_NN in_IN examination_NN ._.
+Rusticated_VBN or_CC removed_VBN for_IN misconduct_NN ._.
+Left_VBN with_IN the_DT object_NN of_IN making_VBG study_NN in_IN Europe_NNP ._.
+Resigned_VBD or_CC left_VBD otherwise_RB ._.
+Died_NNP ._.
+Total_NN ._.
+On_IN rolls_NNS at_IN present_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 1929-30_JJ 188_CD 40_CD .._JJ .._VBD 228_CD 10_CD .._JJ .._NNP .._NNP .._NNP .._NNP .._NNP .._VBD 10_CD 218_CD 1930-31_JJ 218_CD 40_CD .._JJ .._VBD 258_CD 20_CD .._JJ .._NNP .._NNP .._NNP .._VBD 5_CD .._JJ 25_CD 233_CD TABLE_NNP D._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS who_WP appeared_VBD and_CC passed_VBD examinations_NNS during_IN the_DT year_NN 1930-31_RB ._.
+Serial_JJ number_NN ._.
+Name_NN of_IN examination_NN ._.
+Dates_NNS of_IN examinations_NNS ._.
+Number_NNP appeared_VBD ._.
+Number_NNP passed_VBD ._.
+Religion_NN of_IN students_NNS passed_VBN ._.
+Residence_NN of_IN students_NNS passed_VBN ._.
+Chris-_JJ tian_NN ._.
+Hindus_NNP ._.
+Muhammadans_NNS ._.
+Total_NN ._.
+Bihar_NNP ._.
+Orissa_NNP ._.
+Chota_NNP Nagpur_NNP ._.
+Bengalis_NNP domiciled_VBD ._.
+Bengalis_NNP sons_NNS of_IN Government_NNP servants_NNS ._.
+Total_NN ._.
+Percentage_NN of_IN passes_NNS ._.
+European_JJ or_CC Eurasian_JJ ._.
+Indian_JJ ._.
+Brahmin_NNP ._.
+Non-Brahmin_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 1_CD 2nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP I_PRP October_NNP 1930_CD ._.
+18_CD 16_CD .._JJ .._VBD 4_CD 10_CD 2_CD 16_CD 13_CD 1_CD .._JJ .._VBD 2_CD 16_CD 88_CD 2nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP II_NNP Do_NNP ..._: 20_CD 10_CD .._JJ 1_CD 1_CD 6_CD 2_CD 10_CD 8_CD 1_CD 1_CD .._JJ .._VBD 10_CD 50_CD Final_NNP M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP I_PRP Do_VBP ..._: 31_CD 17_CD .._JJ 1_CD 3_CD 10_CD 3_CD 17_CD 9_CD 3_CD 1_CD .._JJ 4_CD 17_CD 55_CD Final_NNP M_NNP B_NNP ._.
+B._NNP S._NNP Part_NNP II_NNP Do_NNP ..._: 17_CD 7_CD .._JJ .._VBD 1_CD 3_CD 3_CD 7_CD 3_CD 2_CD .._JJ 1_CD 1_CD 7_CD 41.1_CD 2_CD 1st_CD M._NNP B_NNP ._.
+B_NNP ._.
+S_NNP December_NNP 1930_CD ._.
+38_CD 25_CD .._JJ 1_CD 4_CD 17_CD 3_CD 25_CD 14_CD 2_CD 1_CD 6_CD 2_CD 25_CD 66_CD 1st_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Supplementary_NNP March_NNP 1931_CD 13_CD 13_CD .._JJ .._VBD 1_CD 8_CD 4_CD 13_CD 11_CD 1_CD 1_CD .._JJ .._VBD 13_CD 100_CD 3_CD 2nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP I_PRP March_NNP 1931_CD 42_CD 26_CD .._JJ .._VBD 5_CD 16_CD 5_CD 26_CD 15_CD 3_CD .._JJ 4_CD 4_CD 26_CD 62_CD 2nd_CD M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP II_NNP Do_NNP ..._: 49_CD 22_CD .._JJ .._VBD 7_CD 15_CD .._JJ 22_CD 13_CD 2_CD .._JJ 3_CD 4_CD 22_CD 45_CD Final_NNP M.B.B.S._NNP ,_, Part_NNP I_PRP Do_VBP ..._: 26_CD 12_CD .._JJ .._NNP .._NNP 11_CD 1_CD 12_CD 6_CD 2_CD .._JJ 1_CD 3_CD 12_CD 46_CD Final_NNP M._NNP B_NNP ._.
+B._NNP S._NNP ,_, Part_NNP II_NNP Do_NNP ..._: 30_CD 10_CD .._JJ .._VBD 1_CD 7_CD 2_CD 10_CD 5_CD 1_CD .._JJ .._VBD 4_CD 10_CD 33_CD 8_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT Finance_NNP and_CC Expenditure_NNP of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 1930-31_JJ and_CC previous_JJ years_NNS ._.
+Income_NNP ._.
+Expenditure_NN ._.
+Head_NN of_IN Receipts_NNP ._.
+1929-30_JJ ._.
+1930-31_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+Head_NN of_IN Expenditure_NN ._.
+1929-30_JJ ._.
+1930-31_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+Remarks_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+RECEIPTS_NN FROM_NNP SOURCES_NNP OTHER_NNP THAN_NNP GOVERNMENT_NNP ._.
+Establishment_NN 2,03,535_CD 1,87,359_CD .._JJ 16,176_CD Entrance_NN fees_NNS 800_CD 800_CD .._NNS .._VBP
+Scholarship_NN of_IN Calcutta_NNP students_NNS and_CC Oriya_NNP students_NNS ._.
+.._JJ .._NNP .._NNP .._NNP College_NNP tuition_NN fees_NNS 30,080_CD 33,103_CD 3,023_CD .._NN
+Merit_NNP scholarship_VBD 6,485_CD 7,539_CD 1,054_CD .._NN
+Tuition_NN fees_NNS realised_VBN from_IN Casual_JJ students_NNS ._.
+.._JJ .._NNP .._NNP .._NNP Library_NNP 3,573_CD 2,997_CD .._JJ 576_CD Fine_NNP 261_CD 125_CD .._JJ 136_CD Stationery_NNP 500_CD 500_CD .._JJ .._RB Miscellaneous_NNP (_( hostel_NN and_CC electric_JJ charges_NNS ._. )_)
+5,754_CD 5,737_CD .._JJ 17_CD Buildings_NNS and_CC repairs_VB 96,182_CD 18,260_CD .._JJ 77,922_CD Municipal_JJ taxes_NNS 8,739_CD 8,621_CD .._NNS 11_CD Total_JJ 36,895_CD 39,765_CD 3,023_CD 153_CD Telephone_NN charges_NNS 1,294_CD 1,350_CD 56_CD .._NNS Contingencies9_NNP TABLE_NNP F._NNP Instructional_NNP Staff_NNP ._.
+Department_NNP of_IN Medicine_NNP ._.
+1_CD Professor_NNP First_NNP Physician_NNP to_TO the_DT Hospital_NNP ._.
+Dr._NNP T._NNP N._NNP Banarji_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._. )_)
+and_CC (_( Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Lond_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Medicine_NNP ._.
+Second_JJ Physician_NN to_TO the_DT Hospital_NNP ._.
+Rai_NNP Bahadur_NNP Dr._NNP S._NNP K._NNP Barat_NNP ,_, M.A._NNP ,_, L.M.S_NNP ._.
+1_CD Medical_JJ Re-_NNP gistrar_NN ._.
+..._: ._. Dr._NNP S._NNP M._NNP Ghosal_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+&_CC Edin_NNP ._. )_) ._.
+1_CD Clinical_JJ Patho-_NNP logist_NN ._.
+..._: .._NN Dr._NNP U._NNP M._NNP Gupta_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Edin_NNP ._. )_) ._.
+Department_NNP of_IN Surgery_NNP ._.
+1_CD Professor_NNP Surgeon_NNP to_TO the_DT Hospital_NNP ._.
+Major_JJ H._NNP G._NNP Alexander_NNP ,_, F.R.C.S._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Surgery_NNP ._.
+..._: ._. Khan_NNP Bahadur_NNP Dr._NNP Syed_NNP Hasan_NNP ,_, F.R.F.P_NNP ._.
+&_CC S_NNP ._.
+(_( Glas_NNP ._.
+)_) ,_, D.P.H_NNP ._.
+(_( Ire_NNP ._. )_) ._.
+1_CD Surgical_JJ Re-_NNP gistrar_NN ._.
+Surgeon_NN to_TO Venereal_NNP Block_NNP ._.
+Dr._NNP Md_NNP ._.
+Husnain_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, D.L.O_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, D.O.M.S_NNP ._.
+(_( Lond_NNP ._. )_)
+Department_NNP of_IN Ophthalmo-_NNP logy_NN ._.
+l_JJ Lecturer_NNP in_IN Eye_NNP ._.
+Ophthalmic_JJ Sur-_NNP geon_NN to_TO the_DT Hospi-_NNP tal_NN ._.
+Rai_NNP Balladur_NNP Dr._NNP S._NNP N._NNP Ghosh_NNP ._.
+Department_NNP of_IN Oto-Rhino-_NNP Laryngology_NNP ._.
+Ear_NNP ,_, Nose_NNP and_CC throat_NN diseases_NNS ._.
+..._: ._. Major_NNP J._NNP C._NNP John_NNP ,_, I.M.S._NNP Department_NNP of_IN Gynæcology_NNP ._.
+1_CD Professor_NNP Obstetric_NNP Surgeon_NNP to_TO the_DT Hospital_NNP ._.
+Lt._NNP Col._NNP D._NNP Coutts_NNP ,_, M.D_NNP ._.
+(_( Aber_NNP ._.
+)_) ,_, Ch.B._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Midwifery_NNP ._.
+..._: ._. Dr._NNP A._NN N._NNP Sarkar_NNP ,_, M.B_NNP ._.
+Department_NNP of_IN Pathology_NNP ._.
+1_CD Professor_NNP Physician_NNP to_TO the_DT Iso-_NNP lation_NN Block_NNP ._.
+Major_JJ A._NN N._NNP .Bose_NNP ,_, M.B.E._NNP ,_, M.D._NNP ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+&_CC Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H._NNP ,_, F.R.C.P_NNP ._.
+E._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Pathology_NNP ._.
+..._: ._. Dr._NNP S._NNP K._NNP Ghosh_NNP ,_, Dastidar_NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Chemical_NNP Pathology_NNP ._.
+..._: ._. Dr._NNP B._NNP N._NNP Banerji_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Demonstrator_NN ..._: ._. Dr._NNP S._NNP P._NNP Verma_NNP ,_, B.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+Department_NNP of_IN Forensic_NNP Medi-_NNP cine_NN ._.
+1_CD Lecturer_NNP in_IN Jurisprudence_NNP ._.
+..._: ._. Dr._NNP B._NNP C._NNP Chatterji_NNP ,_, Assis-_NNP tant_NN to_TO the_DT Civil_NNP Surgeon_NNP of_IN Patna_NNP ._.
+Department_NNP of_IN Hygiene_NNP ._.
+1_CD Lecturer_NN ..._: ._. Director_NNP of_IN Public_NNP Health_NNP of_IN Bihar_NNP and_CC Orissa_NNP ._.
+1_CD Demonstrator_NN ..._: ._. Assistant_NNP Director_NNP of_IN Public_NNP Health_NNP ,_, Bihar_NNP and_CC Orissa_NNP ._.
+Department_NNP of_IN Pharmacology_NNP and_CC Therapeu-_NNP tics_NNS ._.
+1_CD Professor_NNP Chair_NNP vacant_NN ._.
+10_CD 1_CD Lecturer_NNP in_IN Pharmacology_NNP and_CC Assistant_NNP Warden_NNP to_TO the_DT college_NN hostel_NN ._.
+..._: ._. Dr._NNP P._NNP C._NNP Roy_NNP ,_, L.R.C.P_NNP ._.
+&_CC amp_NN ;_: S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, L.R.F.P_NNP ._.
+&_CC amp_NN ;_: S_NNP ._.
+(_( Glas_NNP ._.
+)_) ,_, is_VBZ working_VBG as_IN Professor_NNP also_RB in_IN addition_NN to_TO his_PRP$ own_JJ duties_NNS of_IN Lecturer_NNP ._.
+Mental_JJ Diseases_VBZ 1_CD Lecturer_NNP .._NN ..._: ._.
+Superintendent_NN ,_, Indian_JJ Mental_NNP Hospital_NNP ,_, Kanke_NNP ._.
+Department_NNP of_IN Physiology_NNP ._.
+1_CD Professor_NNP .._NN ..._: ._. Dr._NNP C._NNP Reid_NNP ,_, M.A._NNP ,_, M.B._NNP ,_, D.Sc._NNP ,_, ch_NN ._.
+B._NNP ,_, D.P.H_NNP ._.
+1_CD Lecturer_NNP .._NN ..._: ._. Dr._NNP B._NNP Narayan_NNP ,_, M.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Demonstrator_NN ..._: ._. Dr._NNP Sidheshwari_NNP Prasad_NNP ,_, B.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Biochemistry_NNP ._.
+..._: ._. Dr._NNP T._NNP N._NNP Seth_NNP ,_, M.Sc._NNP ,_, ph.D_NN ._.
+(_( Camb_NNP ._. )_) ._.
+Department_NNP of_IN Anatomy_NNP ._.
+1_CD Professor_NNP .._NN
+Warden_NNP to_TO the_DT Hos-_NNP tel_NN ._.
+Dr._NNP H._NNP Hyder_NNP Ali_NNP Khan_NNP ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._.
+)_) ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._. )_) ._.
+1_CD Lecturer_NNP .._NN ..._: ._. Dr._NNP Sanatan_NNP Pujari_NNP ,_, L.M.S_NNP ._.
+1_CD Demonstrator_NN ..._: ._. Dr._NNP G._NNP K._NNP Ghosh_NNP ,_, B.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+Department_NNP of_IN Organic_NNP Che-_NNP mistry_NN ._.
+1_CD Lecturer_NNP .._NN ..._: ._. Mr._NNP M._NNP N._NNP Rudra_NNP ,_, M.Sc_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Demonstrator_NN ..._: ._. Mr._NNP D._NNP C._NNP Bose_NNP ,_, B.Sc_NNP ._.
+Department_NNP of_IN Radiology_NNP ._.
+1_CD Lecturer_NNP .._NN ..._: ._. Dr._NNP P._NNP B._NNP Mukherji_NNP ,_, B.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.R.C.S.E._NNP ,_, D.M.R.E_NNP ._.
+(_( Camb_NNP ._. )_) ._.
+Department_NNP of_IN Biology_NNP ._.
+1_CD Professor_NNP .._NN ..._: ._. Mr._NNP S._NNP S._NNP Chaudhury_NNP ,_, M.A._NNP ,_, B.Sc_NNP ._.
+(_( All_DT ._.
+)_) ,_, M.Sc_NNP ._.
+(_( Luck_NNP ._. )_) ._.
+2_CD Demonstrators_NNS ,_, Botany_NNP .._NNP Mr._NNP A._NNP C._NNP Ghosh_NNP ,_, B.A_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.Sc_NNP ._.
+(_( Agric_NNP ._.
+Corn_NNP ._.
+)_) ,_, U.S.A._NNP Zoology_NNP .._NNP Mr._NNP M._NNP A._NNP Majid_NNP ,_, M.Sc_NNP ._.
+(_( Luck_NNP ._. )_) ._.
+Department_NNP of_IN Dentistry_NNP ._.
+1_CD Dental_JJ Sur-_NNP geon_NN ._.
+..._: ._. Dr._NNP H._NNP St._NNP John_NNP Mason_NNP ,_, D.M.D_NNP ._.
+Department_NNP of_IN Materia_NNP Medi-_NNP ca_MD ._.
+The_DT staff_NN of_IN Pharmacology_NNP ._.
+B_NNP ._.
+&_CC O._NNP G._NNP P._NNP (_( I._NNP G._NNP C._NNP H._NNP )_) no_DT ._.
+9IP/10/HG.6_CD IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN WalesMedical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1931-32_JJ BY_NNP Lt.-Col._NNP D._NNP COUTTS_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971741.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP ._.
+1932_CD ._.
+[_JJ Price-As_NNP ._.
+5_CD ._. ]_NN
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1931-32_JJ BY_NNP Lt.-Col._NNP D._NNP COUTTS_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971747.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP ._.
+1932_CD ._.
+Priced_NNP Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP and_CC Orissa_NNP can_MD be_VB had_VBN from11076_JJ No_NNP ._.
+E-67-1932_NN FROM_IN THE_NNP INSPECTOR-GENERAL_NNP OF_NNP CIVIL_NNP HOSPITALS_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, To_TO THE_NNP SECRETARY_NNP TO_NNP THE_NNP GOVERNMENT_NNP OF_NNP BIHAR_NNP AND_NNP ORISSA_NNP ,_, LOCAL_NNP SELF-GOVERNMENT_NNP DEPARTMENT_NNP ._.
+Dated_VBN Patna_NNP ,_, the_DT 9th_CD September_NNP 1932_CD ._.
+SIR_NNP ,_, I_PRP HAVE_VBP the_DT honour_NN to_TO submit_VB for_IN the_DT information_NN of_IN Government_NNP the_DT annual_JJ report_NN of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1931-32_RB ._.
+No_DT alterations_NNS have_VBP been_VBN made_VBN in_IN the_DT report_NN and_CC I_PRP have_VBP no_DT comments_NNS to_TO offer_VB ._.
+I_PRP have_VBP the_DT honour_NN to_TO be_VB ,_, SIR_NNP ,_, Your_NNP most_RBS obedient_JJ servant_NN ,_, L._NNP COOK_NNP ,_, COL._NNP ,_, I.M.S._NNP ,_, Inspector-_NNP General_NNP of_IN Civil_NNP Hospitals_NNP ,_, Bihar_NNP and_CC Orissa_NNP ._.
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP ,_, FOR_IN THE_DT YEAR_NNP 1931-32_CD ._.
+Introductory.2_NNP The_DT average_JJ cost_NN per_IN student_NN was_VBD Rs_NNP ._.
+1241.8_CD as_IN against_IN Rs_NNP ._.
+1108.03_CD of_IN the_DT last_JJ year_NN ._.
+Training_VBG outside_IN the_DT college.3_NN There_EX has_VBZ been_VBN considerable_JJ facility_NN in_IN museum_NN study_NN by_IN addition_NN of_IN two_CD megascopes_NNS ,_, 49_CD wet_NN specimens_NNS and_CC 27_CD lantern_JJ slides_NNS to_TO the_DT equipment_NN of_IN the_DT department_NN ._.
+Functioning_VBG of_IN the_DT Chemical_NNP Pathology_NNP section_NN has_VBZ completed_VBN the_DT organization_NN of_IN the_DT laboratory_NN ,_, and_CC investigations_NNS of_IN most_JJS complicated_VBN cases_NNS are_VBP now_RB being_VBG undertaken_VBN as_IN in_IN any_DT English_JJ laboratory_NN ._.
+Additional_JJ equipments_NNS like_IN high_JJ range_NN incubator_NN ,_, blood_NN calculator_NN ,_, etc._FW ,_, purchased_VBD during_IN the_DT year_NN have_VBP facilitated_VBN investigations_NNS by_IN economy_NN of_IN time_NN and_CC money_NN ._.
+RESEARCH_NN AND_CC PUBLICATIONS_NNP ._.
+1_CD ._.
+Vaccine_NNP therapy_NN in_IN typhoid_JJ fever_NN by_IN Dr._NNP B._NNP N._NNP Banerji_NNP ,_, B.Sc._NNP ,_, M.B._NNP ,_, Lecturer_NNP in_IN Chemical_NNP Pathology_NNP and_CC Parasitology_NNP ,_, published_VBN in_IN the_DT Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, Vol_NNP ._.
+VI_NNP ,_, no_DT ._.
+2_CD ,_, April_NNP 1931_CD ._.
+2_CD ._.
+The_DT effect_NN of_IN dilution_NN on_IN the_DT properties_NNS of_IN an_DT antiseptic_JJ by_IN Dr._NNP S.K.Ghosh_NNP Dastidar_NNP ,_, M.B._NNP ,_, D.T.M._NNP ,_, and_CC Dr._NNP T._NNP N._NNP Seth_NNP ,_, published_VBN in_IN the_DT Indian_JJ Journal_NNP of_IN Medical_NNP Research_NNP ,_, Vol_NNP ._.
+XVIII_NN ,_, no_DT ._.
+4_CD ,_, April_NNP 1932_CD ._.
+3_CD ._.
+The_DT place_NN of_IN calcium_NN in_IN modern_JJ medicine_NN by_IN Dr._NNP D._NNP R._NNP N._NNP Sahu_NNP ,_, Research_NNP Scholar_NNP ,_, Patna_NNP University_NNP ,_, published_VBN in_IN the_DT Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, Vol_NNP ._.
+VII_NNP ,_, no_DT ._.
+1_CD ,_, 1932_CD ._.
+4_CD ._.
+Calcium_NNP content_NN of_IN common_JJ dietary_NN in_IN India_NNP by_IN Dr._NNP D._NNP R._NNP N._NNP Sahu_NNP ,_, published_VBN in_IN the_DT Indian_NNP Medical_NNP Gazette_NNP ._.
+5_CD ._.
+Some_DT clues_NNS to_TO the_DT diagnosis_NN of_IN leprosy_JJ by_IN Dr._NNP S._NNP P._NNP Varma_NNP ,_, published_VBN in_IN the_DT Patna_NNP Journal_NNP of_IN Medicine_NNP ._.
+6_CD ._.
+Normal_JJ blood_NN chemistry_NN in_IN Indian_NNP (_( Behari_NNP )_) by_IN Major_NNP A._NN N._NNP Bose_NNP ,_, M.D._NNP ,_, F.B.C.P.E._NNP ,_, etc._NN ,_, I.M.S._NNP 7_CD ._.
+A_DT study_NN of_IN reduction_NN factor_NN after_IN prophylactic_JJ T._NNP A_NNP ._.
+B._NNP inoculation_NN (_( 6_CD and_CC 7_CD will_MD be_VB ready_JJ for_IN publication_NN shortly_RB )_) ._.
+Physiology.4_NNP RESEARCH_NNP ._.
+Investigation_NN on_IN pharmacological_JJ actions_NNS of_IN several_JJ indigenous_JJ drugs_NNS has_VBZ been_VBN carried_VBN out_IN throughout_IN the_DT year_NN ._.
+An_DT original_JJ article_NN on_IN hyqnotic_JJ action_NN of_IN Rauwolfia_NNP Serpentina_NNP (_( Dhan_NNP Marua_NNP )_) has_VBZ been_VBN published_VBN in_IN the_DT Patna_NNP Journal_NNP of_IN Medicine_NNP in_IN October_NNP 1931_CD ._.
+Anatomy.5_NNP TABLE_NNP A_NNP ._.
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN students_NNS admitted_VBN or_CC re-admitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+6_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remained_VBN on_IN the_DT rolls_NNS at_IN the_DT end_NN of_IN the_DT year_NN 19317_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT Finance_NNP and_CC Expenditure_NNP of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 19318_CD TABLE_NNP F._NNP Instructional_NNP Staff_NNP ._.
+Department_NNP of_IN Medicine_NNP ._.
+1_CD Professor_NNP ..._: 1st_CD Physician_NN to_TO the_DT Hospital_NNP ._.
+Dr._NNP T._NNP N._NNP Banerji_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R_NNP ._.
+C.P_NNP ._.
+(_( Lond_NNP ._. )_)
+and_CC (_( Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC II_NNP ._.
+(_( Lond_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Medicine_NNP ._.
+2nd_CD Physician_JJ to_TO the_DT Hospital_NNP ._.
+Bai_NNP Bahadur_NNP Dr._NNP S_NNP ,_, K._NNP Barat_NNP ,_, M.A._NNP ,_, L.M.S_NNP ._.
+1_CD Medical_JJ Re-_NNP gistrar_NN ._.
+..._: Dr._NNP S._NNP M._NNP Ghosal_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+&_CC Edin_NNP )_) ._.
+Clinical_JJ Patho-_NNP logist_NN ,_, ..._: Dr._NNP U._NNP M._NNP Gupta_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Edin_NNP ,_, )_) ._.
+Department_NNP of_IN Surgery_NNP ._.
+1_CD Professor_NNP ..._:
+Surgeon_NN to_TO the_DT Hospital_NNP ._.
+Major_JJ H._NNP G._NNP Alexander_NNP ,_, F.R.C.S._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Surgery_NNP ._.
+..._: Khan_NNP Bahadur_NNP Dr._NNP Syed_NNP Hasan_NNP ,_, F.R.F.P_NNP ._.
+&_CC s_NN ._.
+(_( Glas_NNP ._.
+)_) ,_, D.P.H_NNP ._.
+(_( Ire_NNP ._. )_) ._.
+1_CD Surgical_JJ Re-_NNP gistrar_NN ._.
+Surgeon_NN to_TO the_DT Venereal_NNP Block_NNP ._.
+Dr._NNP Grindra_NNP Chandra_NNP Bha-_NNP duri_NN ,_, L_NNP M.S_NNP ._.
+Department_NNP of_IN Ophthalmology_NNP ._.
+1_CD Lecturer_NNP in_IN Eye_NNP ,_, Ear_NNP ,_, Nose_NNP and_CC Throat_NNP ,_, Ophthalmic_NNP Sur-_NNP geon_NN to_TO the_DT Hospital_NNP ._.
+Dr._NNP S._NNP Husnain_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, D.L.O_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, D.O.M.S_NNP ._.
+(_( Lond_NNP ._. )_) ._.
+Department_NNP of_IN Gynæcology_NNP ._.
+1_CD Professor_NNP ..._: Obstetric_NNP Surgeon_NNP to_TO the_DT Hospital_NNP ._.
+Lt.-Col._NNP D._NNP Coutts_NNP ,_, M.D_NNP ._.
+(_( Aber_NNP ._.
+)_) ,_, ch_NN ._.
+B._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Midwifery_NNP ._.
+..._: Dr._NNP A._NNP N._NNP Sarkar_NNP ,_, M.B_NNP ._.
+Department_NNP of_IN Pathology_NNP ._.
+1_CD Professor_NNP ..._: ..._: Major_NNP A._NN N._NNP Bose_NNP ,_, M.B.E._NNP ,_, M.D._NNP ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+and_CC Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H._NNP ,_, (_( Camb_NNP ._. )_)
+F.R.C.P.E._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Pathology_NNP ._.
+..._: Dr._NNP S._NNP K._NNP Ghosh_NNP Dastidar_NNP ,_, M.B_NNP ,_, D.T.M_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Chemical_NNP Patho-_NNP logy_NN ._.
+..._: Dr._NNP ,_, B._NNP N._NNP Banerji_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Demonstrator_NN ..._: ..._: Dr._NNP S._NNP P._NNP Verma_NNP ,_, B.Sc._NNP ,_, M.R_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+Department_NNP of_IN Forensic_NNP Medicine_NNP ._.
+1_CD Lecturer_NNP in_IN Jurisprudence_NNP ._.
+..._: Dr._NNP B._NNP K._NNP Chatterji_NNP ,_, Assist-_NNP ant_NN to_TO the_DT Civil_NNP Surgeon_NNP of_IN Patna_NNP ._.
+Department_NNP of_IN Hygiene_NNP ._.
+1_CD Lecturer_NN ..._: ..._: Director_NNP of_IN Public_NNP Health_NNP ,_, Bihar_NNP and_CC Orissa_NNP ._.
+1_CD Demonstrator_NNP ..._: Health_NNP Officer_NNP ,_, Patna_NNP City_NNP Municipality_NNP ._.
+..._: ..._: Department_NNP of_IN Pharmacology_NNP and_CC Therapeuties_NNP ._.
+1_CD Professor_NNP ..._:
+Chair_NNP vacant_NN ._.
+1_CD Lecturer_NNP in_IN Pharmacology_NNP and_CC Assistant_NNP Warden_NNP to_TO the_DT College_NNP Hostel_NNP ._.
+..._: Dr._NNP P._NNP C._NNP Roy_NNP ,_, L.R.C.P_NNP ._.
+&_CC s_NN ._.
+(_( Edin_NNP ._.
+)_) ,_, L.R.F.P_NNP ._.
+&_CC S_NNP ._.
+(_( Glas_NNP ._. )_)
+is_VBZ working_VBG as_IN Professor_NNP also_RB in_IN addition_NN to_TO his_PRP$ own_JJ duties_NNS ._.
+9_CD Mental_JJ Diseases_NNS ..._: 1_CD Lecturer_NN ..._: ..._:
+Superintendent_NN ,_, Indian_JJ Mental_NNP Hospital_NNP ,_, Kanke_NNP ._.
+Department_NNP of_IN Physiology_NNP ._.
+1_CD Professor_NNP ..._: ..._: Dr._NNP C.Reid_NNP ,_, M.A._NNP ,_, M.D._NNP ,_, D.SC._NNP ,_, Ch_NNP ._.
+B._NNP ,_, D.P.H_NNP ._.
+1_CD Lecturer_NN ..._: ..._: Dr._NNP B._NNP Narayan_NNP ,_, M.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Demonstrator_NN ..._: ..._: Dr._NNP Sidheshwari_NNP Prasad_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Biochemistry_NNP ._.
+..._: Dr._NNP T._NNP N._NNP Seth_NNP ,_, M.SC._NNP ,_, Ph.D_NNP ._.
+(_( Camb_NNP ._. )_) ._.
+Department_NNP of_IN Anatomy_NNP ._.
+1_CD Professor_NNP ..._:
+Warden_NNP to_TO the_DT Hostel_NNP ._.
+Dr._NNP H._NNP Hyder_NNP Ali_NNP Khan_NNP ,_, M.R.C.S_NNP ._.
+(_( Eng_NNP ._.
+)_) ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._. )_) ._.
+1_CD Lecturer_NN ..._: ..._: Dr._NNP Sanatan_NNP Pujari_NNP ,_, L.M.S_NNP ._.
+1_CD Demonstrator_NN ..._: ..._: Dr.G.K.Ghosh_NNP ,_, B.Sc._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+Department_NNP of_IN Organic_NNP Che-_NNP mistry_NN ._.
+1_CD Lecturer_NN ..._: ..._: Mr._NNP M._NNP N._NNP Rudra_NNP ,_, M.SC_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Demonstrator_NN ..._: ..._: Mr._NNP D._NNP C._NNP Bose_NNP ,_, B.SC_NNP ._.
+Department_NNP of_IN Radiology_NNP ._.
+1_CD Lecturer_NN ..._: ..._: Dr._NNP P._NNP B._NNP Mukherji_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.R.C.S.E._NNP ,_, D.M.R.E_NNP ._.
+(_( Camb_NNP ._. )_) ._.
+Department_NNP of_IN Biology_NNP ._.
+1_CD Professor_NNP ..._: ..._: Mr._NNP S._NNP S._NNP Chaudhury_NNP ,_, M.A._NNP ,_, B.Sc_NNP ._.
+(_( All_DT )_) ,_, M.Sc_NNP ._.
+(_( Luck_NNP ._.
+)_) .2_VBD 2_CD Demonstrators_NNS ..._: Botany_NNP ..._: Mr._NNP A._NNP C._NNP Ghosh_NNP ,_, B.A_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.SC_NNP ._.
+(_( Agric_NNP ._.
+Corn_NNP ._. )_)
+U.S.A._NNP Zoology_NNP ..._: Mr._NNP M._NNP A._NNP Majid_NNP ,_, M.Sc_NNP ._.
+(_( Luck_NNP )_) ._.
+Department_NNP of_IN Dentistry_NNP ._.
+1_CD Dental_NNP Surgeon_NNP ..._: Dr._NNP H._NNP St._NNP John_NNP Mason_NNP ,_, D.M.D_NNP ._.
+Department_NNP of_IN Materia_NNP Medica_NNP ._.
+Staff_NN of_IN Pharmacology_NNP ._.
+BOGP_NNP (_( IGCH_NNP )_) 14IP/10/HG.6_CD IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1932-33_JJ BY_NNP Dr.T_NNP ._.
+N._NNP BANERJI_NNP ,_, M.B_NNP ._.
+(_( CAL_NNP ._. )_) ,_, M.R.C.P_NNP ._.
+(_( LOND_NNP ._. )_)
+&_CC (_( EDIN_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( LOND_NNP ._.
+)_) ,_, Offg_NNP ._.
+Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971795.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ._.
+PATNA_NNP ._.
+1933_CD ._.
+[_JJ Price_NNP as_IN ._.
+5_CD ._. ]_NN
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1932-33_JJ BY_NNP Dr.T_NNP ._.
+N.BANERJI_NNP ,_, M.B_NNP ._. (_( CAL_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( LOND_NNP ._. )_)
+&_CC (_( EDIN_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( LOND_NNP ._.
+)_) ,_, offg_UH ._.
+Principal_NNP ._.
+[_VB A_DT Graphic_NNP Appears_NNP Here_RB Priced_VBD Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP and_CC Orissa_NNP can_MD be_VB had_VBN fromNo_VBN ._.
+11974ANNUAL_CD REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP ,_, FOR_IN THE_DT YEAR_NNP 1932-33_CD ._.
+Introductory.2_NNP In_IN view_NN of_IN official_JJ information_NN received_VBD as_IN to_TO the_DT present_JJ position_NN of_IN the_DT All-India_NNP Medical_NNP Council_NNP Bill_NNP ,_, the_DT Committee_NNP has_VBZ decided_VBN to_TO postpone_VB taking_VBG the_DT action_NN indicated_VBD above_IN for_IN a_DT further_JJ twelve_NN months_NNS ,_, i.e._FW ,_, until_IN 1st_CD June_NNP 1934_CD ._. ''_''
+Endowment_NN and_CC Scholarship.3_NNP staff_NN and_CC students_NNS ._.
+These_DT included_VBD the_DT quarterly_JJ Cumulative_NNP Index_NNP Medicus_NNP ,_, an_DT invaluable_JJ up-to-date_JJ publication_NN introduced_VBD this_DT year_NN and_CC two_CD periodicals_NNS on_IN Psychology_NNP ._.
+The_DT latter_NN were_VBD purchased_VBN of_IN the_DT Berkeley-Hill_NNP Medal_NNP Fund_NNP ._.
+The_DT back_JJ volumes_NNS of_IN the_DT quarterly_JJ Cumulative_NNP Index_NNP Medicus_NNP for_IN ten_CD years_NNS purchased_VBN at_IN a_DT concession_NN rate_NN have_VBP met_VBN a_DT long-felt_JJ want_NN ._.
+The_DT grant_NN for_IN the_DT library_NN was_VBD cut_VBN down_RP by_IN Rs_NNP ._.
+500_CD on_IN account_NN of_IN the_DT financial_JJ stringency_NN ._.
+RESEARCH_NN AND_CC PUBLICATIONS_NNP ._.
+Pharmacology.4_NNP (_( 2_CD )_) 53_CD wet_NN specimens_NNS and_CC 2_CD sets_NNS of_IN 110_CD microscopic_NNS slides_NNS of_IN morbid_NN histology_NN ._.
+(_( 3_CD )_) Bacteriological_NNP charts_NNS ._.
+Animal_JJ house.-Special_JJ apparatus_NN has_VBZ been_VBN introduced_VBN to_TO mark_VB the_DT animals_NNS with_IN numbers_NNS ._.
+An_DT autosprayer_NN is_VBZ being_VBG used_VBN to_TO disinfect_VB the_DT animal_JJ house_NN ._.
+Research.-Dr._NNP A._NN K._NNP Barat_NNP has_VBZ been_VBN awarded_VBN a_DT Research_NNP Scholarship_NN by_IN the_DT Patna_NNP University_NNP for_IN investigation_NN of_IN hookworm_NN disease_NN in_IN place_NN of_IN Dr._NNP D._NNP R._NNP N._NNP Sahu_NNP ,_, who_WP resigned_VBD on_IN account_NN of_IN private_JJ affairs_NNS ._.
+The_DT following_JJ contributions_NNS were_VBD made_VBN from_IN the_DT Department_NNP of_IN Pathology:5_NNP TABLE_NNP A_NNP ._.
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN students_NNS admitted_VBN or_CC re-admitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+6_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remaining_VBG on_IN the_DT rolls_NNS at_IN the_DT end_NN of_IN the_DT year_NN 19327_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT Finance_NNP and_CC Expenditure_NNP of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP ._.
+College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 1932-33_JJ and_CC previous_JJ years_NNS ._.
+Income_NNP ._.
+Expenditure_NN ._.
+Remarks_NNS ._.
+Heads_NNS of_IN Receipts_NNP ._.
+1931-32_JJ 1932-33_JJ Increase_NNP ._.
+Decrease_NNP ._.
+Heads_NNS of_IN Expenditure_NN ._.
+1931-32_JJ 1932-33_JJ Increase_NNP ._.
+Decrease_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD RECEIPTS_NN FROM_NNP SOURCES_NNP OTHER_NNP THAN_NNP GOVERNMENT_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Entrance_NN fees_NNS 840_CD 820_CD ..._: 20_CD Establishment_NNP 1,97,758_CD 1,67,667_CD ..._: 30,091_CD Decrease_NNP is_VBZ due_JJ to_TO the_DT fact_NN that_IN Professor_NNP of_IN Surgery_NNP drew_VBD his_PRP$ pay_NN for_IN few_JJ months_NNS in_IN England_NNP and_CC also_RB due_JJ to_TO 10_CD per_IN cent_NN cut_NN ._.
+College_NNP tuition_NN fees_NNS 34,540_CD 37,425_CD 2,885_CD ..._:
+Fines_NNS 121_CD 315_CD 194_CD ..._:
+Merit_NNP scholarship_NN and_CC Oriya_NNP scholarships_NNS ._.
+6,163_CD 6,180_CD 17_CD ..._: Miscellaneous_NNP (_( Hostel_NNP and_CC Electric_NNP charges_NNS )_) ._.
+5,778_CD 6,045_CD 267_CD ..._: Total_JJ 41,279_CD 41,605_CD 3,346_CD 20_CD Library_JJ 2,997_CD 2,500_CD ..._: 497_CD The_DT allotment_NN has_VBZ been_VBN reduced_VBN ._.
+RECEIPTS_NN FROM_IN THE_DT GOVERNMENT_NNP ._.
+Stationery_RB 500_CD 500_CD ..._: ..._:
+Establishment_NN 1,97,758_CD 1,67,667_CD ..._: 30,091_CD Buildings_NNS and_CC repairs_VB 2,727_CD 873_CD ..._: 1,854_CD No_DT new_JJ buildings_NNS were_VBD built_VBN during_IN the_DT year_NN ._.
+Merit_NNP scholarship_VBD 6,163_CD 6,180_CD 17_CD ..._: Municipal_NNP taxes_NNS 8,848_CD 8,736_CD ..._: 112_CD Privilege_NNP of_IN free_JJ quarters_NNS has_VBZ been_VBN taken_VBN from_IN the_DT warden_NN of_IN the_DT Hostel_NNP ._.
+Library_JJ 2,997_CD 2,500_CD ..._: 497_CD Stationery_NNP 500_CD 500_CD ..._: ..._: Telephone_NN charges_NNS 1,330_CD 1,050_CD ..._: 300_CD Some_DT connections_NNS have_VBP been_VBN cut_VBN off_RP ._.
+Buildings_NNS and_CC repairs-_JJ Rs_NNP ._.
+Contingencies_NNS ,_, contract_NN 7,456_CD 7,453_CD ..._: 3_CD 1_CD ._.
+Building_VBG 448_CD 2,727_CD 873_CD ..._: 1,854_CD 2_CD ._.
+Electric_NNP 118_CD Contingencies_NNPS ,_, non-contract_JJ 40,331_CD 38,988_CD ..._: 1,393_CD Strict_NNP economy_NN has_VBZ been_VBN observed_VBN and_CC some_DT allotment_NN has_VBZ also_RB been_VBN reduced_VBN ._.
+3_CD ._.
+Sanitation_NN 307_CD Municipal_NNP taxes_NNS 8,848_CD 8,736_CD ..._: 112_CD Telephone_NNP charges_NNS 1,350_CD 1,050_CD ..._: 300_CD Remitted_VBN to_TO Treasury_NNP 41,279_CD 44,605_CD 3,326_CD ..._: Due_NNP to_TO the_DT increased_VBN number_NN of_IN students_NNS ._.
+Contingencies_NNS ,_, contract_NN 7,456_CD 7,453_CD ..._: 3_CD Contingencies_NNPS ,_, non-contract_JJ 40,381_CD 38,988_CD ..._: 1,393_CD Total_JJ 2,68,180_CD 2,33,947_CD 17_CD 34,250_CD Grand_NNP Total_NNP 3,09,459_CD 2,78,552_CD 3,363_CD 34,270_CD Grand_NNP Total_NNP 3,09,459_CD 2,78,552_CD 3,343_CD 34,250_CD 8_CD TABLE_NNP F._NNP Instructional_NNP staff_NN ._.
+Department_NNP of_IN Medicine_NNP ._.
+1_CD Professor_NNP and_CC Physician_NNP to_TO the_DT Hospital_NNP ._.
+Dr._NNP T._NNP N._NNP Banerji_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._. )_)
+and_CC (_( Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+and_CC H_NNP ._.
+(_( Lond_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Medicine_NNP ._.
+and_CC Physician_NN to_TO the_DT Hospital_NNP ._.
+Rai_NNP Bahadur_NNP Dr._NNP S._NNP K._NNP Barat_NNP ,_, M.A._NNP ,_, L.M.S_NNP ._.
+1_CD Medical_JJ Regis-_NNP trar_NN ._.
+and_CC Physician_NN to_TO the_DT Hospital_NNP ._.
+Dr._NNP S._NNP M._NNP Ghosal_NNP ,_, M._NNP B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._. )_)
+and_CC (_( Edin_NNP ._. )_) ._.
+1_CD Clinical_JJ Patho-_NNP logist_NN ._.
+..._: Dr._NNP Mahesh_NNP Dutt_NNP Tewari_NNP ,_, M.B._NNP ,_, D.T.M_NNP ._.
+Department_NNP of_IN Surgery_NNP ._.
+1_CD Professor_NNP Surgeon_NNP to_TO the_DT Hospi-_NNP tal_NN ._.
+Major_JJ H._NNP G._NNP Alexander_NNP ,_, F.R.C.S._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Surgery_NNP ._.
+..._: Dr._NNP N._NNP Pal_NNP ,_, M.B._NNP ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._. )_) ._.
+1_CD Surgical_JJ Re-_NNP gistrar_NN ._.
+Surgeon_NN to_TO the_DT Venereal_NNP Block_NNP ._.
+Dr._NNP Grindra_NNP Chandra_NNP Bhaduri_NNP ,_, L.M.S_NNP ._.
+Department_NNP of_IN Opthalmology_NNP ._.
+1_CD Lecturer_NNP in_IN Eye_NNP ,_, Ear_NNP ,_, Nose_NNP and_CC throat_NN ._.
+Ophthalmic_NNP and_CC Aural_NNP Surgeon_NNP ._.
+Dr._NNP M._NNP Husnain_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, D.L.O_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, D.O.M.S_NNP ._.
+(_( Lond_NNP ._. )_) ._.
+Department_NNP of_IN Gynæcology_NNP ._.
+1_CD Professor_NNP Obstetric_NNP Surgeon_NNP to_TO the_DT Hospital_NNP ._.
+Lt.-Col._NNP D._NNP Coutts_NNP ,_, M.D_NNP ._.
+(_( Aber_NNP ._.
+)_) ,_, ch.B._NN ,_, M.C.O.G._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Midwifery_NNP ._.
+..._: Dr._NNP A._NNP N._NNP Sarkar_NNP ,_, M.B_NNP ._.
+Department_NNP of_IN Pathology_NNP ._.
+1_CD Professor_NNP and_CC Physician_NNP to_TO the_DT Hospital_NNP ._.
+Major_JJ A._NN N._NNP Bose_NNP ,_, M.B.E._NNP ,_, M.D._NNP ,_, M.R.C.P_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+and_CC H_NNP ._.
+(_( Camb_NNP ._.
+)_) ,_, F.R.C.P.E._NNP ,_, I.M.S._NNP 1_CD Lecturer_NNP in_IN Pathology_NNP ._.
+..._: Dr._NNP U._NNP M._NNP Gupta_NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._.
+)_) ,_, D.T.M._NNP ,_, M.R.C.P_NNP ._.
+(_( Edin_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Chemical_NNP Patho-_NNP logy_NN ._.
+..._: Dr._NNP B._NNP N._NNP Banerji_NNP ,_, B.SC._NNP ,_, M.B_NNP ._.
+(_( Cal_NNP ._. )_) ._.
+1_CD Demonstrator_NNP ..._: Dr._NNP S._NNP P._NNP Varma_NNP ,_, B.SC._NNP ,_, M.B_NNP ,_, (_( Cal_NNP ._. )_) ._.
+Department_NNP of_IN Forensic_NNP Medicine_NNP ._.
+1_CD Lecturer_NNP in_IN Jurisprudence_NNP ._.
+..._: Dr._NNP Satya_NNP Jiban_NNP Bhatta-_NNP charji_NN ,_, M.B_NNP ._.
+Department_NNP of_IN Hygiene_NNP ._.
+1_CD Professor_NNP ..._: Assistant_NNP Director_NNP of_IN Public_NNP Health_NNP ,_, Bihar_NNP and_CC Orissa_NNP ._.
+1_CD Demonstrator_NNP ..._: Health_NNP Officer_NNP ,_, Patna_NNP City_NNP municipality_NN ._.
+Department_NNP of_IN Pharmacology_NNP and_CC Thera-_NNP peutics_NNS ._.
+1_CD Professor_NNP (_( Officiating_VBG )_) and_CC Assistant_NNP Warden_NNP to_TO the_DT Hostel_NNP ._.
+Dr._NNP P._NNP C._NNP Roy_NNP ,_, L.R.C.P_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, L.R.F.P_NNP ._.
+and_CC S_NNP ._.
+(_( Glas_NNP ._. )_) ._.
+1_CD Lecturer_NNP in_IN Pharmacology_NNP ._.
+..._: Ditto_NNP ditto_NN ,_, 9_CD TABLE_NNP FIP/10/HG.6_NNP IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP Colleges_NNP Patna_NNP ,_, for_IN the_DT year_NN 1933-34_JJ BY_NNP Lt.-Col._NNP D._NNP COUTTS_NNP ,_, I.M.S._NNP ,_, Principal.._NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971849.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP ._.
+1934_CD ._.
+PriceANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1933-34_JJ BY_NNP Lt-Col._NNP D._NNP COUTTS_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971855.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP ._.
+1934_CD ._.
+Priced_NNP Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP and_CC Orissa_NNP can_MD be_VB had_VBN fromNo_VBN ._.
+E.-359ANNUAL_JJ REPORT_NNP OF_IN THE_NNP PRINCE_NNP OF_NNP WALES_NNP MEDICAL_NNP COLLEGE_NNP ,_, PATNA_NNP ,_, FOR_IN THE_DT YEAR_NNP 1933-34_CD ._.
+Introductory.2_NNP ANDREW_NNP FRASER_NNP ._.
+Rs_NNP ._.
+1_CD ._.
+Mubarak_NNP Nawab_NNP 30_CD per_IN month_NN ._.
+2_CD ._.
+Mirtunjoy_NNP Misra_NNP 30_CD ``_`` 3_CD ._.
+Hussain_NNP Akhtar_NNP 30_CD ``_`` 4_CD ._.
+Baldeo_NNP Prasad_NNP 30_CD ``_`` 5_CD ._.
+Muhammad_NNP Sagheer_NNP Yehia_NNP 30_CD ``_`` 6_CD ._.
+E._NNP P._NNP Justus_NNP Tirkey_NNP 30_CD ``_`` 7_CD ._.
+Baleshwar_NNP Prasad_NNP 30_CD ``_`` MERIT_NNP SCHOLARSHIPS_NNP ._.
+1_CD ._.
+Vijoy_NNP Narain_NNP ._.
+Singh_NNP 25_CD ``_`` 2_CD ._.
+Sital_JJ Prasad_NNP Singh_NNP 20_CD ``_`` 3_CD ._.
+S._NNP Mobarak_NNP Nawab_NNP 25_CD ``_`` 4_CD ._.
+Mahendra_NNP Chandra_NNP Misra_NNP 20_CD ``_`` 5_CD ._.
+Imteazuddin_NNP 25_CD ``_`` 6_CD ._.
+Bimalendu_NNP Chandra_NNP ._.
+Gupta_NNP 20_CD ``_`` 7_CD ._.
+Suhas_NNP Kumar_NNP Rai_NNP 25_CD ``_`` 8_CD ._.
+Gaya_NNP Kumar_NNP 20_CD ``_`` ._.
+9_CD ._.
+Baban_NNP Prasad_NNP Singh_NNP 25_CD ``_`` 10_CD ._.
+Amar_NNP Prasad_NNP Rai_NNP 20_CD ``_`` 11_CD ._.
+Achal_NNP Nath_NNP Ghosh_NNP 25_CD ``_`` 12_CD ._.
+Protap_NNP Chandra_NNP Sell_NNP ._.
+Gupta_NNP 20_CD ``_`` General_JJ education_NN of_IN students_NNS ,_, their_PRP$ religion_NN and_CC residences.3_NN Finance.4_NNP 4_CD ._.
+The_DT Pharmacological_NNP Action_NNP of_IN Thevetoxine_NNP ,_, by_IN P._NNP C._NNP Ray_NNP ,_, A._NNP C._NNP Ray_NNP and_CC S._NNP A._NNP Hasib.5_NNP Teaching.6_NNP Maternity_NNP Scheme.7_NNP TABLE_NNP A_NNP ._.
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN students_NNS admitted_VBN or_CC re-admitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+8_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remaining_VBG on_IN the_DT rolls_NNS at_IN the_DT end_NN of_IN the_DT year_NN 1933-34_RB ._.
+Year_NN ._.
+Number_NNP on_IN rolls_NNS in_IN the_DT previous_JJ year_NN ._.
+Admitted_VBN during_IN the_DT year_NN ._.
+Re-Admitted_JJ during_IN the_DT year_NN ._.
+Admitted_VBN on_IN transfer_NN certificate_NN from_IN other_JJ college_NN ._.
+Total_NN ._.
+Left_NNP college_NN after_IN passing_VBG the_DT final_JJ examination_NN ._.
+Removed_VBN for_IN absence_NN without_IN leave_NN ._.
+Removed_VBN for_IN non-payment_NN of_IN fees_NNS ._.
+Removed_VBN for_IN failure_NN in_IN examination_NN ._.
+Rusticated_VBN or_CC removed_VBN for_IN misconduct_NN ._.
+Left_VBN with_IN the_DT object_NN of_IN making_VBG study_NN in_IN Europe_NNP ._.
+Resigned_VBD or_CC left_VBD otherwise_RB ._.
+Died_NNP ._.
+Total_NN ._.
+On_IN rolls_NNS at_IN present_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 1932-33_JJ 248_CD 40_CD ..._: 1_CD 289_CD 17_CD ..._: 1_CD ..._: ..._: ..._: 5_CD 2_CD 25_CD 264_CD 1933-34_JJ 264_CD 40_CD 1_CD ..._: 305_CD 23_CD ..._: ..._: 1_CD ..._: ..._: 6_CD ..._: 30_CD 275_CD TABLE_NNP D._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS who_WP appeared_VBD and_CC passed_VBD examinations_NNS during_IN the_DT year_NN 1933-34_RB ._.
+Serial_JJ no_DT ._.
+Name_NN of_IN examina-_JJ tion_NN ._.
+Date_NNP of_IN examination_NN ._.
+Number_NNP appeared_VBD ._.
+Number_NNP passed_VBD ._.
+Religion_NN of_IN students_NNS passed_VBN ._.
+Residence_NN of_IN students_NNS passed_VBN ._.
+Christian_JJ ._.
+Hindus_NNP ._.
+Muhammadans_NNS ._.
+Total_NN ._.
+Bihar_NNP ._.
+Orissa_NNP ._.
+Chota_NNP Nagpur_NNP ._.
+Bengalis_NNP domiciled_VBD ._.
+Bengalis_NNP ,_, sons_NNS of_IN Government_NNP servants_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Percentage_NN ,_, of_IN pass_NN ,_, 1933-34_JJ ._.
+Percentage_NN of_IN pass_NN ,_, 1932-33_JJ ._.
+European_JJ or_CC Eurasian_JJ ._.
+Indian_JJ ._.
+Brahmin_NNP ._.
+Non-Brahmin_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 1_CD 2nd_CD M.B._NNP ,_, B.S._NNP ,_, Part_NNP I._NNP Septem-_NNP ber_NN 1933_CD ._.
+20_CD 14_CD ..._: 1_CD 3_CD 5_CD 5_CD 14_CD 9_CD 3_CD ..._: 1_CD ..._: 1_CD 14_CD 70_CD 66.6_CD 2_CD 2nd_CD M.B._NNP ,_, B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+19_CD 9_CD ..._: ..._: 2_CD 5_CD 2_CD 9_CD 7_CD 1_CD 1_CD ..._: ..._: ..._: 9_CD 64_CD 55.5_CD 3_CD Final_NNP M.B._NNP ,_, B.S_NNP ,_, Part_NNP I_PRP ._.
+Do_NNP ._.
+37_CD 22_CD ..._: ..._: 8_CD 8_CD 6_CD 22_CD 8_CD 5_CD ..._: 5_CD 3_CD 1_CD 22_CD 59_CD 51.8_CD 4_CD Final_NNP M.B._NNP ,_, B.S._NNP ,_, Part_NNP II_NNP ,_, Do_NNP ._.
+29_CD 14_CD ..._: ..._: 2_CD 9_CD 3_CD 14_CD 10_CD ..._: ..._: 2_CD 2_CD ..._: 14_CD 48_CD 36.3_CD 5_CD 1st_CD M.B._NNP ,_, B.S_NNP ._.
+December_NNP 1933_CD ._.
+34_CD 21_CD ..._: ..._: 8_CD 12_CD 1_CD 21_CD 13_CD 2_CD 1_CD 3_CD 2_CD ..._: 21_CD 64_CD 66.6_CD 6_CD 1st_CD M.B._NNP ,_, B.S._NNP ,_, (_( Supplementary_NNP )_) ._.
+April_NNP 1934_CD ._.
+17_CD 14_CD ..._: 1_CD 1_CD 10_CD 2_CD 14_CD 12_CD 2_CD ..._: ..._: ..._: ..._: 14_CD 82_CD 100_CD 7_CD 2nd_CD M.B._NNP ,_, B.S._NNP ,_, Part_NNP I_PRP ._.
+Do_NNP ._.
+39_CD 16_CD ..._: ..._: 3_CD 12_CD 1_CD 16_CD 14_CD 1_CD 1_CD ..._: ..._: ..._: 16_CD 41_CD 58.1_CD 8_CD 2nd_CD M.B._NNP ,_, B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+41_CD 20_CD ..._: ..._: 8_CD 8_CD 4_CD 20_CD 14_CD 4_CD 1_CD 1_CD ..._: ..._: 20_CD 48_CD 66.1_CD 9_CD Final_NNP M.B._NNP ,_, B.S._NNP ,_, Part_NNP I_PRP ._.
+Do_NNP ._.
+41_CD 23_CD ..._: ..._: 5_CD 13_CD 5_CD 23_CD 11_CD 5_CD 1_CD 4_CD 2_CD .._JJ 23_CD 56_CD 42.4_CD 10_CD Final_NNP M.B._NNP ,_, B.S._NNP ,_, Part_NNP II_NNP ._.
+Do_NNP ._.
+44_CD 17_CD ..._: ..._: 8_CD 7_CD 2_CD 17_CD 9_CD 1_CD 1_CD 3_CD 3_CD ..._: 17_CD 38_CD 31.0_CD 9_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT Finance_NNP and_CC Expenditure_NNP of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 1933-34_JJ and_CC previous_JJ years_NNS ._.
+Income_NNP ._.
+Expenditure_NN ._.
+Remarks_NNS ._.
+Heads_NNS of_IN Receipt_NNP ._.
+1932-33_JJ 1933-34_JJ Increase_NNP ._.
+Decrease_NNP ._.
+Heads_NNS of_IN Expenditure_NN ._.
+1932-33_JJ 1933-34_JJ Increase_NNP ._.
+Decrease_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD RECEIPTS_NN FROM_NNP SOURCES_NNP OTHER_NNP THAN_NNP GOVERNMENT_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Entrance_NN fees_NNS 820_CD 840_CD 20_CD ..._:
+Establishment_NN 1,67,667_CD 1,73,807_CD 6,140_CD ..._: Increase_NNP is_VBZ due_JJ to_TO the_DT increment_NN of_IN pay_NN and_CC for_IN new_JJ appointment_NN ._.
+College_NNP tuition_NN fees_NNS 37,425_CD 36,850_CD ..._: 575_CD Fines_NNS 315_CD 176_CD ..._: 139_CD Merit_NNP scholarship_NN and_CC Oriya_NNP scholarships_NNS ._.
+6,180_CD 6,337_CD 157_CD ..._:
+Some_DT more_RBR scholarships_NNS were_VBD awarded_VBN ._.
+Miscellaneous_NNP (_( Hostel_NNP and_CC Electric_NNP charges_NNS )_) ._.
+6,045_CD 5,974_CD ..._: 71_CD Total_JJ 44,605_CD 43,840_CD 20_CD 785_CD Library_JJ 2,500_CD 2,279_CD ..._: 221_CD Some_DT books_NNS could_MD not_RB be_VB purchased_VBN due_JJ to_TO the_DT earthquake_NN ._.
+RECEIPTS_NN FROM_IN THE_DT GOVERNMENT_NNP ._.
+Stationery_RB 500_CD 500_CD ..._: ..._:
+Establishment_NN 1,67,667_CD 1,73,807_CD 6,140_CD ..._: Buildings_NNS and_CC repairs_VB 873_CD 1,434_CD 561_CD ..._:
+Merit_NNP scholarship_VBD 6,180_CD 6,337_CD 157_CD ..._: Municipal_NNP taxes_NNS 8,736_CD 8,673_CD ..._: 63_CD Slight_NNP ._.
+Library_JJ 2,500_CD 2,279_CD ..._: 221_CD Stationery_NNP 500_CD 500_CD ..._: ..._: Telephone_NN charges_NNS 1,050_CD 1,040_CD ..._: 10_CD Do_NNP ._.
+Buildings_NNS and_CC repairs10_VB TABLE_NNP F._NNP COLLEGE_NNP AND_NNP HOSPITAL_NNP STAFF_NNP ,_, 1934_CD ._.
+Lt.-Col._NNP D._NNP Coutts_NNP ,_, M.D._NNP ,_, C._NNP H._NNP B._NNP ,_, F._NNP C.O_NNP ._.
+G._NNP ,_, I._NNP M._NNP S._NNP ,_, Principal_NNP ._.
+MEDICINE_NNP ._.
+Dr._NNP T._NNP N._NNP Banerjee_NNP ,_, M._NNP B._NNP ,_, M._NNP R.C_NNP ._.
+P._NNP (_( Lond_NNP ._.
+&_CC Edin_NNP ._.
+)_) ,_, D.T.M_NNP ._.
+&_CC H_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, Professor_NNP of_IN Medicine_NNP and_CC Physician_NNP ._.
+Dr._NNP S._NNP M._NNP Ghoshal_NNP ,_, M._NNP B._NNP ,_, M._NNP R._NNP C._NNP P_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, Lecturer_NNP and_CC Physician_NNP ._.
+A._NN N._NNP Bose_NNP ,_, Major_NNP ,_, I._NNP M._NNP S._NNP ,_, M._NNP B._NNP E._NNP ,_, M._NNP D_NNP ._.
+(_( Laus_NNP ._.
+)_) ,_, F._NNP R._NNP C._NNP P._NNP E._NNP ,_, M._NNP R._NNP C._NNP P._NNP ,_, D._NNP T._NNP M._NNP &_CC H._NNP ,_, Physician_NNP ._.
+Dr._NNP S._NNP K._NNP Ghosh_NNP Dastidar_NNP ,_, M._NNP B._NNP ,_, D._NNP T._NNP M._NNP ,_, M.R.C_NNP ._.
+P._NNP (_( Lond_NNP ._.
+&_CC Edin_NNP ._.
+)_) ,_, Medical_NNP Registrar_NNP ,_, Incharge_NNP ,_, Out-patient_NNP Department_NNP and_CC Infections_NNP Disease_NNP Ward_NNP ._.
+SURGERY_NNP ._.
+H._NNP G._NNP Alexander_NNP ,_, Major_NNP ,_, I_PRP ._.
+M.S._NNP ,_, F._NNP R._NNP C._NNP S._NNP ,_, Professor_NNP of_IN Surgery_NNP and_CC Surgeon_NNP ._.
+Honorary_NNP Surgeon_NNP Khan_NNP Bahadur_NNP Dr._NNP Saiyid_NNP Hasan_NNP ,_, F._NNP R._NNP F._NNP P._NNP &_CC S._NNP N._NNP Pal_NNP ,_, Captain_NNP ,_, M._NNP B._NNP ,_, F._NNP R._NNP C._NNP S._NNP E._NNP ,_, Lecturer_NNP in_IN Surgery_NNP and_CC Surgeon_NNP ._.
+Dr._NNP Sushilananda_NNP Sen_NNP ,_, M._NNP B._NNP ,_, D._NNP T._NNP M._NNP ,_, Surgical_NNP Registrar_NNP ,_, Incharge_NNP ,_, Out-patient_JJ Depart-_NNP ment_NN and_CC Venereal_NNP Diseases_NNP Ward_NNP ._.
+OBSTETRICS_NNP AND_NNP GYNAECOLOGY_NNP ._.
+D._NNP Coutts_NNP ,_, M._NNP D._NNP ,_, Ch_NNP ._.
+B._NNP ,_, F._NNP C._NNP O._NNP G._NNP ,_, Lieut.-Col._NNP ,_, I._NNP M._NNP S._NNP ,_, Professor_NNP of_IN Obstetrics_NNPS and_CC Gynæcology_NNP ,_, Obstetrician_NNP and_CC Gynæcologist_NNP ._.
+Rai_NNP Sahib_NNP Dr._NNP A._NNP N._NNP Sarkar_NNP ,_, M.B._NNP ,_, Lecturer_NNP in_IN Obstetrics_NNP and_CC Gynæcology_NNP and_CC Obstetrician_NNP and_CC Gynæcologist_NNP ._.
+Mrs._NNP B._NNP Francis_NNP ,_, Lady_NNP Doctor_NNP for_IN out-patients_NNS ._.
+OPHTHALMOLOGY_NNP ._.
+Dr._NNP M._NNP Husnain_NNP ,_, M.B._NNP ,_, D._NNP L._NNP O._NNP ,_, D._NNP O_NNP ._.
+M.S._NNP ,_, F._NNP R._NNP C._NNP S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, Ophthalmic_NNP and_CC Aural_NNP Surgeon_NNP and_CC Lecturer_NNP in_IN Ophthalmology_NNP ._.
+Honorary_NNP Ophthalmology_NNP Surgeon_NNP Rai_NNP Bahadur_NNP Dr._NNP S._NNP N._NNP Ghosh_NNP ._.
+DISEASES_NNP OF_NNP EAR_NNP ,_, NOSE_NNP AND_NNP THROAT_NNP ._.
+Dr._NNP M._NNP Husnain_NNP ,_, M._NNP B._NNP ,_, D._NNP L._NNP O._NNP ,_, D._NNP O._NNP M._NNP S._NNP ,_, F._NNP R._NNP C._NNP S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, Lecturer_NNP in_IN Ear_NNP ,_, Nose_NNP and_CC Throat_NNP ._.
+RADIOLOGY_NNP AND_CC ELECTROTHERAPEUTICS_NNP ._.
+Dr._NNP P._NNP B._NNP Mukherjee_NNP ,_, B_NNP ._.
+SC._NNP ,_, M._NNP B._NNP ,_, F._NNP R._NNP C._NNP S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, D._NNP M._NNP R._NNP E._NNP Radiologist_NNP and_CC Lecturer_NNP in_IN Radiology_NNP ._.
+RADIUM_NNP INSTITUTE_NNP ._.
+Dr._NNP B._NNP K._NNP Roy_NNP ,_, M.B._NNP ,_, D.M.R_NNP ._.
+E_NN ._.
+(_( Camb_NNP ._.
+)_) ,_, Superintendent_NNP ,_, Radium_NNP Institute_NNP ._.
+PATHOLOGY_NNP ._.
+A._NN N._NNP Bose_NNP ,_, Major_NNP ,_, I._NNP M._NNP S._NNP ,_, M._NNP B._NNP E._NNP ,_, M._NNP D._NNP (_( Laus_NNP ._.
+)_) ,_, F._NNP R._NNP C._NNP P._NNP E._NNP ,_, M._NNP R._NNP C._NNP P._NNP ,_, D._NNP T._NNP M._NNP &_CC H._NNP ,_, Professor_NNP of_IN Pathology_NNP and_CC Bacteriologist_NNP ._.
+Dr._NNP U._NNP M._NNP Gupta_NNP ,_, M._NNP B._NNP ,_, M.R.C.P_NNP ._.
+,_, D.T.M._NNP ,_, Lecturer_NNP in_IN Pathology_NNP and_CC Assistant_NNP Bacteriologist_NNP to_TO Government_NNP ._.
+Dr.B_NNP ._.
+N._NNP BANERJEE_NNP ,_, B_NNP ._.
+SC._NNP ,_, M._NNP B._NNP ,_, Lecturer_NNP in_IN Chemical_NNP Pathology_NNP ._.
+Dr_NNP M._NNP D._NNP Tewary_NNP ,_, M.B._NNP ,_, D._NNP T._NNP M._NNP ,_, Assistant_NNP Clinical_NNP Pathologist_NNP ._.
+Dr._NNP S._NNP P._NNP Verma_NNP ,_, B_NNP ._.
+Sc._NNP ,_, M._NNP B._NNP ,_, Demonstrator_NNP of_IN Pathology_NNP and_CC Second_NNP Assistant_NNP to_TO Bacteriologist_NNP ._.
+11_CD MATERIA_NNP MEDICA_NNP AND_NNP PHARMACOLOGY_NNP ._.
+Dr._NNP P._NNP C._NNP Roy_NNP ,_, L.R_NNP ._.
+C._NNP P_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, L.R.F_NNP ._.
+P._NNP &_CC S_NNP ._.
+(_( Glas_NNP ._.
+)_) ,_, Professor_NNP of_IN Materia_NNP Medica_NNP and_CC Pharmacology_NNP ._.
+Dr._NNP S._NNP A._NNP Hasib_NNP ,_, M._NNP B._NNP ,_, Lecturer_NNP ._.
+FORENSIC_NNP MEDICINE_NNP ._.
+Dr._NNP G._NNP B._NNP Sahay_NNP ,_, B.Sc._NNP ,_, M._NNP B._NNP ,_, D._NNP T._NNP M._NNP ,_, Police_NNP Surgeon_NNP and_CC Lecturer_NNP in_IN Medical_NNP Juris-_NNP prudence_NN and_CC Toxicology_NNP ._.
+HYGIENE_NNP AND_NNP PUBLIC_NNP HEALTH_NNP ._.
+S._NNP L._NNP Mitra_NNP ,_, Major_NNP ,_, I.M.S._NNP ,_, B.Sc._NNP ,_, M.B_NNP ._.
+Ch.B_NNP ._.
+,_, D._NNP T._NNP M._NNP ,_, &_CC H._NNP ,_, D._NNP P.H_NNP ._.
+,_, Assistant_NNP Director_NNP of_IN Public_NNP Health_NNP and_CC Professor_NNP of_IN Hygiene_NNP ._.
+ANATOMY_NNP ._.
+Dr._NNP H._NNP Hyderali_NNP Khan_NNP ,_, F._NNP R._NNP C._NNP S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, Professor_NNP of_IN Anatomy_NNP ._.
+Dr._NNP S._NNP Pujari_NNP ,_, M.B_NNP ._.
+,_, Lecturer_NNP ._.
+Dr._NNP U._NNP P._NNP Gupta_NNP ,_, M.B._NNP ,_, Senior_NNP Demonstrator_NNP ._.
+Dr._NNP Masudul_NNP Haque_NNP ,_, M.B._NNP ,_, B.S._NNP ,_, Junior_NNP Demonstrator_NNP ._.
+PHYSIOLOGY_NNP ._.
+Dr._NNP R._NNP K._NNP Pal_NNP ,_, M.Sc._NNP ,_, M._NNP B._NNP ,_, D.SC_NNP ._.
+,_, M._NNP R._NNP C._NNP P_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, Professor_NNP of_IN Physiology_NNP ._.
+Dr._NNP B._NNP Narayana_NNP ,_, M.Sc._NNP ,_, M.B._NNP ,_, Lecturer_NNP (_( on_IN leave_NN )_) ._.
+Dr._NNP Sidheshwari_NNP Prosad_NNP ,_, B._NNP SC_NNP ._.
+,_, M.B._NNP ,_, Lecturer_NNP (_( Officiating_VBG )_) ._.
+Mr._NNP H._NNP N._NNP Banerjee_NNP ,_, B.sc._NNP ,_, Demonstrator_NNP ._.
+Dr._NNP T._NNP N._NNP Seth_NNP ,_, M.SC._NNP ,_, Ph.D_NNP ._.
+(_( Cantab_NNP ._.
+)_) ,_, M._NNP B.S_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, M._NNP A.S._NNP B._NNP ,_, Lecturer_NNP in_IN Bio-_NNP chemistry_NN ._.
+ORGANIC_NNP CHEMISTRY_NNP ._.
+Rai_NNP Sahib_NNP Dr._NNP K._NNP N._NNP Bagchi_NNP ,_, B.Sc._NNP ,_, M._NNP B._NNP ,_, D.T.M._NNP ,_, F._NNP C._NNP S._NNP ,_, F._NNP I._NNP C._NNP ,_, Lecturer_NNP and_CC Chemical_NNP Analyst_NNP ._.
+Mr._NNP M._NNP N._NNP Rudra_NNP ,_, M.sc._NNP ,_, Demonstrator_NNP ._.
+BIOLOGY_NNP ._.
+Mr._NNP S._NNP S._NNP Chaudhury_NNP ,_, M.A._NNP ,_, M.sc._NNP ,_, Professor_NNP of_IN Biology_NNP ._.
+Mr._NNP A._NNP C._NNP Ghosh_NNP ,_, B_NNP ._.
+A._NN ,_, M.sc._NNP ,_, Demonstrator_NNP of_IN Botany_NNP ._.
+Mr._NNP M._NNP A._NNP Majid_NNP ,_, M.Sc._NNP ,_, Demonstrator_NNP of_IN Zoology_NNP ._.
+D._NNP COUTTS_NNP ,_, LT.-COT._NNP ,_, I.M.S._NNP ,_, Principal_NNP ,_, The_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, BOGP_NNP (_( IGCH_NNP )_) 16IP/10/HG.6_CD IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1934-35_JJ BY_NNP Lt.-Col._NNP A._NN N._NNP BOSE_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971909.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP ._.
+1936_CD ._.
+[_JJ PriceANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1934-35_JJ BY_NNP Lt.-Col._NNP A._NN N._NNP BOSE_NNP ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971915.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP AND_NNP ORISSA_NNP ,_, PATNA_NNP ._.
+1936_CD ._.
+Priced_NNP Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP and_CC Orissa_NNP can_MD be_VB had_VBN from_IN ,_, No_UH ._.
+16682TENTH_CD ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, 1934-35_JJ ._.
+IN_NNP the_DT last_JJ annual_JJ report_NN a_DT brief_JJ description_NN of_IN the_DT damages_NNS caused_VBN by_IN the_DT earthquake_NN on_IN the_DT 15th_CD January_NNP 1934_CD was_VBD given_VBN ._.
+The_DT buildings_NNS which_WDT sustained_VBD considerable_JJ damage_NN were_VBD the_DT laboratories_NNS of_IN the_DT departments_NNS of_IN Physiology_NNP and_CC Pathology_NNP ,_, the_DT Administrative_JJ Block_NNP and_CC the_DT Students_NNP '_POS Hostel_NNP ._.
+As_IN the_DT repairs_NNS to_TO the_DT damaged_VBN College_NNP buildings_NNS were_VBD only_RB partially_RB completed_VBN when_WRB the_DT College_NNP re-opened_JJ on_IN the_DT 16th_CD July_NNP 1934_CD temporary_JJ arrangements_NNS had_VBD to_TO be_VB made_VBN during_IN the_DT first_JJ term_NN ._.
+The_DT repairs_NNS were_VBD completed_VBN by_IN the_DT end_NN of_IN October_NNP 1934_CD ._.
+The_DT Governing_NNP Body.2_NNP 2_CD ._.
+The_DT College_NNP accounts_NNS for_IN the_DT period_NN from_IN 1931-32_JJ to_TO 1933-34_JJ were_VBD audited_VBN on_IN 9th_CD November_NNP 1934_CD ._.
+The_DT report_NN is_VBZ not_RB available_JJ yet_RB ._.
+The_DT last_JJ audit_NN was_VBD held_VBN in_IN 1928_CD for_IN the_DT period_NN from_IN 1925-26_JJ to_TO 1926-27_JJ ._.
+3_CD ._.
+The_DT Cold_NNP Storage_NNP Plant_NNP which_WDT forms_VBZ an_DT important_JJ unit_NN in_IN the_DT College_NNP broke_VBD down_RP for_IN a_DT few_JJ days_NNS during_IN the_DT first_JJ term_NN on_IN account_NN of_IN the_DT wear_NN and_CC tear_NN of_IN certain_JJ parts_NNS but_CC was_VBD promptly_RB repaired_VBN ._.
+4_CD ._.
+The_DT supply_NN of_IN gas_NN to_TO the_DT laboratories_NNS was_VBD very_RB unsatisfactory_JJ on_IN account_NN of_IN the_DT old_JJ pipes_NNS having_VBG suffered_JJ damage_NN during_IN the_DT earthquake_NN ._.
+They_PRP have_VBP been_VBN completely_RB replaced_VBN at_IN a_DT cost_NN of_IN Rs_NNP ._.
+2,600_CD ._.
+5_CD ._.
+The_DT method_NN of_IN collection_NN of_IN College_NNP fees_NNS and_CC other_JJ dues_NNS has_VBZ been_VBN improved_VBN ._.
+The_DT disbursement_NN of_IN salary_NN of_IN the_DT establishment_NN is_VBZ now_RB made_VBN under_IN the_DT supervision_NN of_IN a_DT gazetted_JJ officer_NN ._.
+6_CD ._.
+A_DT Committee_NNP of_IN the_DT teaching_NN staff_NN has_VBZ been_VBN formed_VBN to_TO scrutinize_VB the_DT attendances_NNS and_CC the_DT results_NNS of_IN the_DT terminal_JJ examinations_NNS of_IN the_DT students_NNS before_IN they_PRP are_VBP sent_VBN up_RP for_IN the_DT University_NNP Examination_NNP ._.
+7_CD ._.
+Indents_NNS on_IN the_DT Medical_NNP Stores_NNPS Depot_NNP ,_, the_DT verification_NN of_IN the_DT articles_NNS on_IN arrival_NN and_CC their_PRP$ distribution_NN to_TO the_DT various_JJ departments_NNS are_VBP controlled_VBN by_IN a_DT small_JJ committee_NN ._.
+8_CD ._.
+The_DT management_NN of_IN the_DT animal_JJ house_NN and_CC of_IN the_DT general_JJ stores_NNS has_VBZ been_VBN improved_VBN under_IN the_DT close_JJ supervision_NN of_IN the_DT Professor_NNP of_IN Biology_NNP and_CC Physiology_NNP respectively_RB ._.
+9_CD ._.
+The_DT much_RB required_JJ improvement_NN of_IN the_DT College_NNP grounds_NNS has_VBZ been_VBN taken_VBN in_IN hand_NN ._.
+10_CD ._.
+The_DT College_NNP Council_NNP met_VBD on_IN three_CD occasions_NNS during_IN the_DT year_NN ._.
+The_DT proceedings_NNS of_IN the_DT Council_NNP are_VBP now_RB properly_RB recorded_VBN ._.
+Staff.3_NNP (_( 5_CD )_) Physiology.4_NN STUDENTS_NNP ._.
+1_CD ._.
+Admission.5_$ 9_CD ._.
+Health_NNP ,_, disease_NN and_CC death.6_NN (_( 3_CD )_) Magazine_NNP Section.7_NNP Several_NNP appliances_NNS have_VBP been_VBN added_VBN to_TO the_DT various_JJ departments:8_VBZ The_DT following_JJ additions_NNS have_VBP been_VBN made_VBN in_IN different_JJ departments:9_NN (_( 2_CD )_) Effects_NNS of_IN Vitamin_NNP D_NNP on_IN Thyroid_NNP and_CC Suprarenal_NNP ._.
+By_IN R._NNP K._NNP Pal_NNP ._.
+Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, Jan._NNP 1935_CD ._.
+(_( 3_CD )_) Effects_NNS of_IN Vitamin_NNP D_NNP on_IN Thyroid_NNP and_CC Suprarenal_NNP ._.
+By_IN R._NNP K._NNP Pal_NNP ._.
+Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, April_NNP 1935_CD ._.
+(_( 4_CD )_) The_DT Peculiarities_NNPS of_IN the_DT Nervous_NNP System_NNP in_IN Children_NNP ._.
+By_IN R._NNP K._NNP Pal_NNP ._.
+Indian_JJ Journal_NNP of_IN Pediatrics_NNP ,_, Jan._NNP 1935_CD ._.
+(_( 5_CD )_) A_DT Study_NNP of_IN Electrocardiograms_NNP ._.
+By_IN S.Prasad_NNP ._.
+Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, Jan._NNP 1935_CD ._.
+(_( 6_CD )_) Studies_NNPS on_IN Electrocution_NNP ._.
+By_IN H.N_NNP ._.
+Banerji_NNP ._.
+Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, Jan._NNP 1935_CD ._.
+(_( 7_CD )_) Studies_NNPS on_IN Humoral_NNP Transmission_NNP by_IN Vagus_NNP and_CC Sympathetic_NNP Stimulation_NNP ._.
+(_( Ready_JJ for_IN the_DT Press_NNP ._. )_)
+(_( 8_CD )_) Effect_NN of_IN Lugols_NNP '_POS Iodine_NNP on_IN Thyroxenised_JJ Heart_NNP ._.
+(_( Ready_JJ for_IN the_DT Press_NNP ._. )_)
+(_( 9_CD )_) Effect_NN of_IN different_JJ products_NNS of_IN normal_JJ digestion_NN and_CC accessory_JJ substances_NNS on_IN the_DT rhythmic_JJ contraction_NN of_IN the_DT Intestines_NNP ._.
+By_IN R.K._NNP Pal_NNP and_CC S._NNP Prasad_NNP ._.
+(_( Sent_NNP for_IN publication_NN ._. )_)
+(_( 10_CD )_) More_JJR about_IN Insulin_NNP ._.
+By_IN R.K._NNP Pal_NNP (_( Annual_NNP special_JJ number_NN ,_, Antiseptic_NNP ,_, Madras_NNP ._.
+(_( Sent_NNP for_IN publication_NN ._. )_)
+(_( 11_CD )_) The_DT Pharmacological_JJ Action_NNP of_IN Sodium_NNP Embelate_NNP ._.
+A_DT Preli-_JJ minary_JJ Note_NN ._.
+By_IN P.C_NNP ._.
+Ray_NNP and_CC A.C._NNP Ray_NNP ._.
+Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, Vol_NNP ._.
+IX_NNP ,_, no_DT ._.
+3_CD ,_, July_NNP 1934_CD ._.
+(_( 12_CD )_) The_DT Pharmacological_JJ Action_NN of_IN the_DT Diazo_NNP Compounds_NNP of_IN Morphine_NNP (_( Benzene-Azomorphine_NNP )_) ._.
+By_IN P.C_NNP ._.
+Ray_NNP and_CC ._.
+A._NN C._NNP Ray_NNP ._.
+Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, Vol_NNP ._.
+IX_NNP ,_, no_DT ._.
+3_CD ,_, July_NNP 1934_CD ._.
+(_( 13_CD )_) Method_NN of_IN determining_VBG sugar_NN in_IN normal_JJ urine_NN ._.
+By_IN M.N_NNP ._.
+Rudra_NNP ._.
+Patna_NNP Journal_NNP of_IN Medicine_NNP ,_, Vol_NNP ._.
+X_NN ,_, no_DT ._.
+1_CD ,_, Jan._NNP 1935_CD ._.
+Library.10_NNP (_( ii_NN )_) Special_JJ sub-committees_NNS for_IN improving_VBG the_DT efficiency_NN of_IN the_DT college_NN administration_NN have_VBP been_VBN formed_VBN ,_, namely11_FW TABLE_NNP B_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN students_NNS in_IN each_DT class_NN ,_, their_PRP$ religion_NN and_CC place_NN of_IN residence_NN ,_, in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+193412_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT income_NN and_CC expenditure_NN of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 193413_CD TABLE_NNP F._NNP List_NNP of_IN the_DT Instructional_NNP Staff_NNP of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+Principal.14_NNP Department_NNP of_IN Physiology.15_NNP TABLE_NNP G._NNP 193416_CD 9_CD ._.
+Achal_NNP Nath_NNP Ghosh_NNP ,_, 2nd_CD year_NN at_IN Rs_NNP ._.
+25_CD ._.
+10_CD ._.
+Pratap_NNP Chandra_NNP Sen_NNP Gupta_NNP ,_, 2nd_CD year_NN at_IN Rs_NNP ._.
+20_CD ._.
+11_CD ._.
+Ram_NNP Virendra_NNP Pd_NNP ._.
+Sinha_NNP ,_, 1st_CD year_NN at_IN Rs_NNP ._.
+25_CD ._.
+12_CD ._.
+Gobind_NNP Achari_NNP ,_, 1st_CD year_NN at_IN Rs_NNP ._.
+20_CD ._.
+V._NNP Oriya_NNP Scholarships.17_NNP TABLE_NNP H._NNP AUGUST_NNP 1935_CD ._.
+Statement_NN of_IN admission_NN and_CC passes_NNS of_IN students_NNS admitted_VBN during_IN 192518_CD TABLE_NNP H.IP/10/HG.6_NNP IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1935-36_JJ BY_NNP Lt.-Col._NNP G._NNP H._NNP Mahony_NNP ,_, B.Sc_NNP ._.
+(_( Hons_NNS ._.
+)_) ,_, M.D._NNP ,_, M.Ch._NNP ,_, B.A.O._NNP ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, M.C.O.G_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, I.M.S_NNP ._.
+Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971987.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP ._.
+PATNA_NNP ._.
+1936_CD ._.
+[_JJ PriceANNUAL_NNP REPORT_NNP OF_IN THE_NNP ._.
+Prince_NN of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1935-36_JJ BY_NNP Lt.-Col._NNP G._NNP H._NNP Mahony_NNP ,_, B.Sc_NNP ._.
+(_( Hons_NNS ._.
+)_) ,_, M.D._NNP ,_, M.Ch._NNP ,_, B.A.O._NNP ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, M.C.O.G_NNP ._.
+(_( Land_NNP ._.
+)_) ,_, I.M.S_NNP ._.
+Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74971993.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP ._.
+PATNA_NNP ._.
+1936_CD ._.
+Priced_NNP Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP can_MD be_VB had_VBN fromNo_VBN ._.
+13944/E_CD -_: 83ELEVENTH_CD ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, 1935-36_JJ ._.
+The_DT college_NN entered_VBD on_IN its_PRP$ eleventh_JJ session_NN on_IN the_DT 16th_CD July_NNP 1935_CD ._.
+The_DT Governing_NNP Body.2_NNP (_( 2_CD )_) There_EX has_VBZ been_VBN no_DT trouble_NN with_IN the_DT Cold_NNP Storage_NNP Plant_NNP during_IN the_DT period_NN under_IN review_NN ._.
+(_( 3_CD )_) The_DT replacement_NN of_IN the_DT old_JJ gas_NN pipes_NNS which_WDT suffered_VBD damages_NNS during_IN the_DT earthquake_NN of_IN 1934_CD ,_, at_IN a_DT cost_NN of_IN Rs_NNP ._.
+2,600_CD has_VBZ been_VBN very_RB satisfactory_JJ in_IN its_PRP$ results_NNS ._.
+(_( 4_CD )_) Constant_JJ supervision_NN is_VBZ made_VBN in_IN the_DT collection_NN of_IN fees_NNS and_CC other_JJ dues_NNS ._.
+With_IN a_DT view_NN to_TO meeting_VBG the_DT requirements_NNS of_IN the_DT University_NNP with_IN regard_NN to_TO students_NNS who_WP failed_VBD to_TO appear_VB at_IN or_CC pass_VB an_DT examination_NN ,_, special_JJ revision_NN lectures_NNS have_VBP been_VBN arranged_VBN and_CC revision_NN fees_NNS have_VBP been_VBN charged_VBN for_IN these_DT extra_JJ lectures_NNS ._.
+This_DT ,_, apart_RB from_IN increasing_VBG contributions_NNS to_TO the_DT State_NNP and_CC ._.
+satisfying_VBG the_DT University_NNP requirements_NNS ,_, has_VBZ been_VBN a_DT benefit_NN to_TO backward_VB students_NNS ._.
+(_( 5_CD )_) The_DT College_NNP Council_NNP met_VBD on_IN seven_CD occasions_NNS during_IN the_DT year_NN ._.
+It_PRP is_VBZ ,_, however_RB ,_, considered_VBD that_IN the_DT college_NN council_NN ,_, as_IN it_PRP is_VBZ constituted_VBN at_IN present_JJ ,_, is_VBZ an_DT unwieldy_JJ body_NN ._.
+It_PRP is_VBZ desirable_JJ that_IN the_DT membership_NN should_MD be_VB limited_VBN only_RB to_TO the_DT Heads_NNP of_IN Departments_NNP ._.
+The_DT following_JJ changes_NNS have_VBP taken_VBN place_NN during_IN the_DT period_NN under_IN report:3_NN 6_CD ._.
+Ophthalmology.4_RB 7_CD ._.
+Hostel.5_NNP The_DT Professor_NNP of_IN Pathology_NNP has_VBZ also_RB consented_VBN to_TO demonstrate_VB the_DT technique_NN of_IN such_JJ complicated_JJ tests_NNS as_IN the_DT Aschheim-Zondak_NNP and_CC Freidman_NNP 's_POS test_NN to_TO the_DT students_NNS attending_VBG the_DT lectures_NNS in_IN Obstetrics_NNP ._.
+A_DT request_NN to_TO the_DT Superintendent_NNP of_IN the_DT Radium_NNP Institute_NNP is_VBZ being_VBG made_VBN to_TO demonstrate_VB to_TO students_NNS the_DT treatment_NN of_IN malignant_JJ uterine_JJ diseases_NNS and_CC other_JJ female_NN complaints_NNS by_IN radium_NN ._.
+The_DT following_JJ additions_NNS have_VBP been_VBN made_VBN and_CC the_DT following_JJ improvements_NNS effected_VBN in_IN the_DT Departments_NNS :_: Biology:6_NNP (_( 2_CD )_) An_DT investigation_NN on_IN the_DT action_NN of_IN Evipan_NNP Sodium_NNP on_IN the_DT blood_NN sugar_NN of_IN rabbits_NNS ._.
+Library.7_NNP TABLE_NNP B_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN students_NNS in_IN each_DT class_NN ,_, their_PRP$ religion_NN and_CC places_NNS of_IN residence_NN ,_, in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN 1935-36_JJ ._.
+Class_NN ._.
+Religion_NN ._.
+Places_NNS of_IN residence_NN ._.
+Christians_NNS ._.
+Hindus_NNP ._.
+Muhama-_JJ dans_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Bihar_NNP ._.
+Orissa_NNP ._.
+Chota-_JJ Nagpur_NNP ._.
+Domi-_NNP ciled_VBD ._.
+Bengali_NNP sons_NNS of_IN Govern-_NNP ment_NN servants_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Anglo-_JJ Indian_JJ ._.
+Indian_JJ ._.
+Brah-_JJ mans_NNS ._.
+Non-_JJ Brah-_NNP mans_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 1st_CD year_NN ..._: ..._: 4_CD 28_CD 8_CD ..._: 40_CD 29_CD 3_CD ..._: 4_CD 4_CD ..._: 40_CD 2nd_CD year_NN ..._: 1_CD 6_CD 22_CD 3_CD ..._: 32_CD 18_CD 3_CD 3_CD 4_CD 4_CD ..._: 32_CD 3rd_CD year_NN ..._: 1_CD 8_CD 36_CD 9_CD ..._: 54_CD 41_CD 5_CD 3_CD 5_CD ..._: ..._: 54_CD 4th_CD year_NN ..._: 1_CD 5_CD 26_CD 5_CD ..._: 37_CD 21_CD 5_CD 1_CD 5_CD 5_CD ..._: 37_CD 5th_CD year_NN ..._: 1_CD 8_CD 20_CD 3_CD ..._: 32_CD 19_CD 6_CD ..._: 2_CD 4_CD 1_CD 32_CD 6th_CD year_NN ..._: ..._: 8_CD 49_CD 15_CD ..._: 72_CD 48_CD 8_CD 2_CD 11_CD 3_CD ..._: 72_CD Total_NN ..._: 4_CD 39_CD 181_CD 43_CD ..._: 267_CD 176_CD 30_CD 9_CD 31_CD 20_CD 1_CD 267_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remaining_VBG on_IN the_DT rolls_NNS at_IN the_DT end_NN of_IN the_DT year_NN 19358_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT income_NN and_CC expenditure_NN for_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 19359_CD TABLE_NNP F._NNP List_NNP of_IN Instructional_NNP staff_NN of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+Principal10_NNP Department_NNP of_IN Physiology.11_NNP TABLE_NNP G._NNP 1935-36_CD ._.
+Medals_NNS ._.
+Name_NN of_IN Medals_NNS ._.
+Names_NNS of_IN donors_NNS ._.
+Name_NN of_IN recipient_NN ._.
+Awarded_VBN for_IN ._.
+I12_NNP Rs_NNP ._.
+Oriya_NNP ScholarshipIP/10/HG.6_NNP IP_NNP ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1936-37_JJ BY_NNP Lt.-CoI_NNP ._.
+G._NNP H._NNP Mahony_NNP ,_, B._NNP Sc_NNP ._.
+(_( Hons_NNS ._.
+)_) ,_, M.D._NNP ,_, M.Ch._NNP ,_, B.A.O._NNP ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, F.C.O.G_NNP ._.
+(_( Load_NNP ._.
+)_) ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74972047.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP PATNA_NNP ._.
+1938_CD ._.
+[_JJ PriceANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, for_IN the_DT year_NN 1936-37_JJ BY_NNP Lt.-Col._NNP G._NNP H._NNP Mahony_NNP ,_, B._NNP Sc_NNP ._.
+(_( Hons_NNS ._.
+)_) ,_, M.D._NNP ,_, M.Ch._NNP ,_, B.A.O._NNP ,_, F.R.C.S_NNP ._.
+(_( Edin_NNP ._.
+)_) ,_, F.C.O.G_NNP ._.
+(_( Lond_NNP ._.
+)_) ,_, I.M.S._NNP ,_, Principal_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 74972053.tif_CD ]_JJ SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, BIHAR_NNP PATNA_NNP ._.
+193_CD ._.
+[_NN PricePriced_NNP Publications_NNP of_IN the_DT Government_NNP of_IN Bihar_NNP ,_, can_MD be_VB had_VBN fromNo_VBN ._.
+15154/ETWELFTH_CD ANNUAL_NNP REPORT_NNP OF_IN THE_NNP Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, 1936-37_JJ ._.
+The_DT college_NN entered_VBD on_IN its_PRP$ twelfth_JJ session_NN on_IN the_DT 16th_CD July_NNP ,_, 1936_CD ._.
+THE_DT GOVERNING_NNP BODY_NNP ._.
+The_DT following_NN were_VBD the_DT members_NNS of_IN the_DT Governing_NNP Body_NNP for_IN the_DT year_NN 1936-37:2_CD The_DT committee_NN did_VBD not_RB consider_VB the_DT applications_NNS of_IN persons_NNS who_WP were_VBD not_RB domiciled_VBN ._.
+Such_JJ candidates_NNS were_VBD 19_CD in_IN number_NN ._.
+The_DT committee_NN considered_VBD 73_CD applications_NNS and_CC selected_VBD 40_CD candidates_NNS under_IN the_DT following_JJ headings:3_NN (_( 1_CD )_) Administration.4_NNP (_( ii_NN )_) Dr._NNP B._NNP N._NNP Prasad_NNP on_IN return_NN from_IN leave_JJ ex-India_NN ,_, was_VBD appointed_VBN ._.
+as_IN Lecturer_NNP in_IN Pharmaco1ogy_NNP and_CC took_VBD over_RP charge_NN from_IN Dr._NNP P._NNP A._NNP P._NNP Singh_NNP transferred_VBD ,_, on_IN the_DT 8th_CD April_NNP ,_, ._.
+1936_CD (_( forenoon_NN )_) ._.
+(_( 4_CD )_) Chemistry.5_NNP Table_NNP A6_NNP Unlike_IN the_DT students_NNS of_IN other_JJ colleges_NNS most_JJS of_IN the_DT students_NNS of_IN this_DT college_NN who_WP have_VBP to_TO attend_VB hospital_JJ duties_NNS in_IN addition_NN to_TO classes_NNS which_WDT go_VBP on_IN still_RB late_JJ in_IN the_DT afternoon_NN do_VBP not_RB find_VB time_NN to_TO go_VB to_TO the_DT maidan_NN which_WDT is_VBZ the_DT only_JJ place_NN where_WRB they_PRP could_MD practice_NN foot-ball_RB ._.
+Constant_JJ practice_NN is_VBZ absolutely_RB necessary_JJ for_IN turning_VBG out_RP a_DT good_JJ team_NN of_IN foot-ball_JJ players_NNS ,_, and_CC our_PRP$ students_NNS have_VBP no_DT facilities_NNS for_IN practice_NN as_IN they_PRP have_VBP no_DT foot-ball_JJ ground_NN of_IN their_PRP$ own_JJ ._.
+Teaching.7_NNP Pathology.8_NNP The_DT following_JJ problems_NNS are_VBP at_IN present_JJ in_IN hand_NN in_IN this_DT department:9_NN TABLE_VBZ A_DT ._.
+Statement_JJ showing_VBG classification_NN according_VBG to_TO preliminary_JJ general_JJ education_NN of_IN students_NNS admitted_VBN or_CC re-admitted_VBN during_IN the_DT year_NN in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP Patna_NNP ._.
+1935-36_JJ ._.
+1936-37_JJ ._.
+Males_NNS ._.
+Females_NNS ._.
+Males_NNS ._.
+Females_NNS ._.
+Intermediate_NNP Science_NNP Examination_NNP 37_CD 39_CD 2_CD Bachelor_NN of_IN Science_NNP Examination_NNP 3_CD 1_CD Total_JJ 40_CD 40_CD 2_CD 10_CD TABLE_NN B_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN students_NNS in_IN each_DT class_NN ,_, their_PRP$ religion_NN and_CC place_NN of_IN residence_NN ,_, in_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, 1936-37_JJ ._.
+Class_NN ._.
+Religion_NN ._.
+Place_NN of_IN residence_NN ._.
+Christians_NNS ._.
+Hindus_NNP ._.
+Muham-_JJ madans_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Bihar_NNP ._.
+Orissa_NNP ._.
+Chota_NNP Nagpur_NNP ._.
+Domi-_NNP ciled_VBD ._.
+Bengali_NNP Sons_NNP of_IN Govern-_NNP ment_JJ ser-_JJ vants_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Anglo-_JJ Indian_JJ ._.
+Indian_JJ ._.
+Brahmins_NNS ._.
+Non-_JJ Brahmins_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 1st_CD year_NN ..._: 2_CD 4_CD 28_CD 8_CD ..._: 42_CD 27_CD 4_CD ..._: 4_CD 5_CD 2_CD 42_CD 2nd_CD year_NN ..._: ..._: 2_CD 30_CD 8_CD ..._: 40_CD 30_CD 2_CD ..._: 4_CD 4_CD ..._: 40_CD 3rd_CD year_NN ..._: 1_CD 9_CD 30_CD 10_CD ..._: 50_CD 31_CD 6_CD 3_CD 5_CD 4_CD 1_CD 50_CD 4th_CD year_NN ..._: 1_CD 6_CD 22_CD 5_CD ..._: 34_CD 21_CD 6_CD 1_CD 5_CD 1_CD ..._: 34_CD 5th_CD year_NN ..._: 1_CD 1_CD 29_CD 5_CD ..._: 36_CD 25_CD 2_CD 1_CD 3_CD 4_CD 1_CD 36_CD 6th_CD year_NN ..._: 1_CD 7_CD 40_CD 17_CD ..._: 65_CD 49_CD 7_CD ..._: 5_CD 4_CD ..._: 65_CD Total_NN ..._: 6_CD 29_CD 179_CD 53_CD ..._: 267_CD 183_CD 27_CD 5_CD 26_CD 22_CD 4_CD 267_CD TABLE_NNP C._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS remaining_VBG on_IN the_DT rolls_NNS at_IN the_DT end_NN of_IN the_DT year_NN 1936-37_JJ ,_, at_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+Year_NN ._.
+Number_NNP on_IN rolls_NNS in_IN the_DT previous_JJ year_NN ._.
+Admitted_VBN during_IN the_DT year_NN ._.
+Readmitted_VBN during_IN the_DT year_NN ._.
+Admitted_VBN on_IN transfer_NN certificate_NN from_IN either_DT College_NNP ._.
+Total_NN ._.
+Left_NNP College_NNP after_IN passing_VBG the_DT final_JJ examination_NN ._.
+Removed_VBN for_IN absence_NN without_IN leave_NN ._.
+Removed_VBN for_IN non-payment_NN of_IN fees_NNS ._.
+Removed_VBN for_IN failure_NN in_IN examination_NN ._.
+Rusticated_VBN or_CC removed_VBN for_IN misconduct_NN ._.
+Left_VBN with_IN the_DT object_NN of_IN making_VBG study_NN in_IN Europe_NNP ._.
+Resigned_VBD or_CC left_VBD otherwise_RB ._.
+Died_NNP ._.
+Total_NN ._.
+On_IN rolls_NNS at_IN present_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 1935-36_JJ 266_CD 40_CD ..._: ..._: 306_CD 36_CD ..._: 1_CD ..._: ..._: ..._: 2_CD ..._: 39_CD 267_CD 1936-37_JJ 267_CD 41_CD 1_CD ..._: 309_CD 39_CD ..._: ..._: ..._: ..._: ..._: 2_CD 1_CD 42_CD 266_CD TABLE_NNP D._NNP Statement_NNP showing_VBG the_DT number_NN of_IN students_NNS ,_, their_PRP$ religion_NN and_CC place_NN of_IN residence_NN who_WP passed_VBD in_IN the_DT different_JJ examinations_NNS during_IN 1936-37_JJ ._.
+Examination_NN ._.
+Date_NNP of_IN examination_NN ._.
+Number_NNP appeared_VBD ._.
+Number_NNP passed_VBD ._.
+Religion_NN of_IN students_NNS ._.
+Residence_NN ._.
+Percentage_NN of_IN pass_NN ,_, 1936-37_JJ ._.
+Percentage_NN of_IN pass_NN ,_, 1935-36_JJ ._.
+Christian_JJ ._.
+Hindus_NNP ._.
+Muhammadan_NNP ._.
+Total_NN ._.
+Bihar_NNP ._.
+Orissa_NNP ._.
+Chota_NNP Nagpur_NNP ._.
+Domiciled_VBN ._.
+Bengali_NNP sons_NNS of_IN Government_NNP servants_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+European_JJ ._.
+Indian_JJ ._.
+Brahmin_NNP ._.
+Non-Brahmin_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 2nd_CD M.B._NNP ,_, B.S._NNP ,_, Part_NNP I_PRP March_NNP 1936_CD 42_CD 27_CD ..._: ..._: 4_CD 18_CD 5_CD 27_CD 17_CD 2_CD ..._: 4_CD 4_CD ..._: 27_CD 64.2_CD 62.5_CD Do_NNPS ._.
+Part_NN II_NNP ..._: 40_CD 24_CD ..._: ..._: 3_CD 17_CD 4_CD 24_CD 17_CD 2_CD ..._: 3_CD 2_CD ..._: 24_CD 60_CD ._.
+45.7_CD Final_NNP M.B._NNP ,_, B.S._NNP ,_, Part_NNP I_PRP ..._: 32_CD 20_CD ..._: ..._: 2_CD 14_CD 4_CD 20_CD 12_CD 3_CD ..._: 2_CD 3_CD ..._: 20_CD 62.5_CD 58.3_CD Do_NNPS ._.
+Part_NN II_NNP ..._: 50_CD 23_CD ..._: ..._: 3_CD 17_CD 3_CD 23_CD 14_CD 2_CD ..._: 4_CD 3_CD ..._: 23_CD 46_CD ._.
+38.4_CD 1st_CD M.B._NNP ,_, B.S._NNP ,_, March_NNP 1936_CD 11_CD 11_CD ..._: ..._: 3_CD 6_CD 2_CD 11_CD 10_CD ..._: ..._: ..._: 1_CD ..._: 11_CD 100_CD ._.
+84.6_CD 2nd_CD M.B._NNP ,_, B.S_NNP ._.
+Part_NN I_PRP September_NNP 1936_CD 15_CD 11_CD ..._: 1_CD 1_CD 7_CD 2_CD 11_CD 10_CD 1_CD ..._: ..._: ..._: ..._: 11_CD 73.3_CD 60_CD ._.
+Do_NNP ,_, Part_NNP II_NNP ..._: 20_CD 12_CD ..._: 0_CD 2_CD 9_CD 1_CD 12_CD 8_CD 3_CD ..._: ..._: 1_CD ..._: 12_CD 60_CD ._.
+68.9_CD Final_NNP M.B._NNP ,_, B.S._NNP ,_, Part_NNP I_PRP ..._: 23_CD 12_CD ..._: ..._: 1_CD 10_CD 1_CD 12_CD 12_CD ..._: ..._: ..._: ..._: ..._: 12_CD 52.1_CD 52.0_CD Do_NNPS ._.
+Part_NN II_NNP ..._: 38_CD 16_CD ..._: ..._: 3_CD 8_CD 5_CD 16_CD 15_CD ..._: ..._: ..._: 1_CD ..._: 16_CD 42.1_CD 43.9_CD 1st_CD M.B._NNP ,_, B.S_NNP ._.
+January_NNP 1937_CD 31_CD 24_CD ..._: 1_CD 2_CD 18_CD 3_CD 24_CD 15_CD 3_CD ..._: 3_CD 3_CD ..._: 24_CD 74.1_CD 73.6_CD 11_CD TABLE_NNP E._NNP Statement_NNP showing_VBG the_DT income_NN and_CC expenditure_NN for_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ,_, during_IN the_DT year_NN 1936-37_JJ and_CC previous_JJ year_NN ._.
+Head_NN of_IN receipts_NNS ._.
+INCOME_NNP ._.
+Heads_NNS of_IN expenditure_NN ._.
+EXPENDITURE_NNP ._.
+Remarks_NNS ._.
+1935-36_JJ ._.
+1936-37_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+1935-36_JJ ._.
+1936-37_JJ ._.
+Increase_NNP ._.
+Decrease_NNP ._.
+Receipts_NNS from_IN sources_NNS other_JJ than_IN Government:12_NNP TABLE_NNP F._NNP List_NNP of_IN Instructional_NNP staff_NN of_IN the_DT Prince_NNP of_IN Wales_NNP Medical_NNP College_NNP ,_, Patna_NNP ._.
+Principal.13_NNP Department_NNP of_IN Anatomy.14_NNP TABLE_NNP G._NNP 1936-37_CD ._.
+Medals_NNS ._.
+Names_NNS of_IN Medals_NNS ._.
+Names_NNS of_IN donors_NNS ._.
+Name_NN of_IN recipient_NN ._.
+Awarded_VBN for_IN ._.
+I.15_NNP Oriya_NNP Scholarship_NNP

@@ -1,0 +1,551 @@
+IP/QB_NNP ,_, 10_CD No_UH ._.
+25_CD ._.
+(_( NEW_JJ SERIES_NNP ._. )_)
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+ON_IN THE_DT IMPORTANCE_NNP OF_NNP LARVAL_NNP CHARACTERS_NNP IN_NNP THE_NNP CLASSIFICATION_NNP OF_NNP MOSQUITOES_NNP ._.
+BY_NNP CAPTAIN_NNP S._NNP R._NNP CHRISTOPHERS_NNP ,_, M.B._NNP ,_, I.M.S_NNP ._.
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75028975.tif_CD ]_JJ CALCUTTA_NNP :_: OFFICE_NN OF_IN THE_NNP SUPERINTENDENT_NNP OF_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ._.
+1906_CD ._.
+Price_NNP annas_NNS eight_CD or_CC 9d_CD ._.
+No_DT ._.
+25_CD ._.
+(_( NEW_JJ SERIES_NNP ._. )_)
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+ON_IN THE_DT IMPORTANCE_NNP OF_NNP LARVAL_NNP CHARACTERS_NNP IN_NNP THE_NNP CLASSIFICATION_NNP OF_NNP MOSQUITOES_NNP ._.
+BY_NNP CAPTAIN_NNP S._NNP R._NNP CHRISTOPHERS_NNP ,_, M.B._NNP ,_, I.M.S_NNP ._.
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75028987.tif_CD ]_JJ [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75028987.tif_CD ]_JJ CALCUTTA_NNP :_: OFFICE_NN OF_IN THE_NNP SUPERINTENDENT_NNP OF_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ._.
+1906_CD ._.
+Agents_NNS for_IN the_DT Sale_NNP of_IN Books_NNP published_VBN by_IN the_DT Superintendent_NNP of_IN Government_NNP Printing_NNP ,_, India_NNP ,_, Calcutta_NNP ._.
+IN_NNP ENGLAND_NNP ._.
+H._NNP S._NNP KING_NNP &_CC CO._NNP ,_, 65_CD ,_, Cornhill_NNP ,_, &_CC 9_CD ,_, Pall_NNP Mall_NNP ,_, London_NNP ._.
+E._NNP A._NN ARNOLD_NNP ,_, 41_CD &_CC 43_CD ,_, Maddox_NNP Street_NNP ,_, Bond_NNP Street_NNP ,_, London_NNP ,_, W._NNP CONSTABLE_NNP &_CC CO._NNP ,_, 16_CD ,_, James_NNP Street_NNP ,_, Hay_NNP Market_NNP ,_, London_NNP ,_, W._NNP P._NNP S._NNP KING_NNP &_CC SON_NNP ,_, 2_CD &_CC 4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ,_, London_NNP ,_, S.W_NNP ._.
+KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRÜBNER_NNP &_CC CO._NNP ,_, 43_CD ,_, Gerrard_NNP Street_NNP ,_, Soho_NNP ,_, London_NNP ,_, W._NNP BERNARD_NNP QUARITCH_NNP ,_, 15_CD ,_, Piccadilly_NNP ,_, London_NNP ,_, W._NNP B._NNP H._NNP BLACKWELL_NNP ,_, 50_CD &_CC 51_CD ,_, Broad_NNP Street_NNP ,_, Oxford_NNP ._.
+DEIGHTON_NNP BELL_NNP &_CC CO._NNP ,_, Cambridge_NNP ._.
+GRINDLAY_NNP &_CC CO._NNP ,_, 54_CD ,_, Parliament_NNP Street_NNP ,_, London_NNP ,_, S.W_NNP ._.
+ON_IN THE_DT CONTINENT_NNP ._.
+R._NNP FRIEDLÄNDER_NNP &_CC SOHN_NNP ,_, 11_CD ,_, Carlstrasse_NNP ,_, Berlin_NNP ,_, N.W_NNP ._.
+OTTO_NNP HARRASSOWITZ_NNP ,_, Leipzig_NNP ._.
+KARL_NNP W._NNP HIERSEMANN_NNP ,_, Leipzig_NNP ._.
+ERNEST_NNP LEROUX_NNP ,_, 28_CD ,_, Rue_NNP Bonaparte_NNP ,_, Paris_NNP ._.
+MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP ,_, Holland_NNP ._.
+RUDOLF_NNP HAUPT_NNP ,_, Halle_NNP A._NNP S._NNP ,_, Germany_NNP ._.
+IN_NNP INDIA_NNP ._.
+THACKER_NNP ,_, SPINK_NNP &_CC CO._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+NEWMAN_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+S._NNP K._NNP LAHIRI_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+R._NNP CAMBRAY_NNP &_CC CO._NNP ,_, Calcutta_NNP ._.
+HIGGINBOTHAM_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+V._NNP KALYANARAMA_NNP IYER_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+G._NNP A._NNP NATESAN_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+S._NNP MURTHY_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+THOMPSON_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+TEMPLE_NNP &_CC CO._NNP ,_, Madras_NNP ._.
+THACKER_NNP &_CC CO._NNP ,_, LD._NNP ,_, Bombay_NNP ._.
+A._NN J._NNP COMBRIDGE_NNP &_CC CO._NNP ,_, Bombay_NNP ._.
+D._NNP B._NNP TARAPOREVALA_NNP ,_, SONS_NNP &_CC CO._NNP ,_, Bombay_NNP ._.
+RADHABAI_NNP ATMARAM_NNP SAGOON_NNP ,_, Bombay_NNP ._.
+SUNDER_NNP PANDURANG_NNP ,_, Bombay_NNP ._.
+N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP ,_, Nazair_NNP Kanun_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+RAI_NNP SAHIB_NNP M._NNP GULAB_NNP SINGH_NNP &_CC SONS_NNP ,_, Mufid-i-Am_NNP Press_NNP ,_, Lahore_NNP ._.
+Superintendent_NN ,_, American_NNP Baptist_NNP Mission_NNP Press_NNP ,_, Rangoon_NNP ._.
+A._NNP M._NNP &_CC J._NNP FERGUSON_NNP ,_, Ceylon_NNP ._.
+List_NN of_IN Numbers_NNP of_IN Scientific_NNP Memoirs_NNP by_IN Officers_NNP of_IN the_DT Medical_NNP and_CC Sanitary_NNP Departments_NNP of_IN the_DT Government_NNP of_IN India_NNP (_( New_NNP Series_NNP )_) published_VBD previous_JJ to_TO the_DT present_JJ issue_NN ._.
+No_DT ._.
+1_CD ._.
+Standardisation_NN of_IN Calmette_NNP 's_POS anti-venomous_JJ serum_NN with_IN pure_JJ cobra_NN venom_NN :_: the_DT deterioration_NN of_IN this_DT serum_NN through_IN keeping_VBG in_IN India_NNP ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M.B_NNP ._.
+Price_NN As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+2_CD ._.
+Malaria_NNP in_IN India_NNP ,_, by_IN Captain_NNP S._NNP P._NNP Fames_NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+3_CD ._.
+Some_DT observations_NNS on_IN the_DT poison_NN of_IN Russell_NNP 's_POS Viper_NNP (_( Daboia_NNP Russellii_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP ,_, and_CC Wm_NNP ._.
+Hanna_NNP ,_, Esq._NNP ,_, M.B_NNP ._.
+Price_NN As_IN ._.
+5_CD or_CC 6d_CD ._.
+No_DT ._.
+4_CD ._.
+On_IN the_DT action_NN of_IN the_DT venoms_NNS of_IN the_DT Cobra_NNP and_CC of_IN the_DT Daboia_NNP on_IN the_DT red_JJ blood_NN cor-_NN puscles_NNS and_CC on_IN the_DT blood_NN plasma_NN ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+5_CD ._.
+Specificity_NN of_IN anti-venomous_JJ sera_NN ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+3_CD or_CC 4d_CD ._.
+No_DT ._.
+6_CD ._.
+First_NNP report_NN on_IN the_DT anti-malarial_JJ operations_NNS in_IN Mian_NNP Mir_NNP ,_, 1901-03_JJ ,_, by_IN Captain_NNP S._NNP P._NNP Fames_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+12_CD or_CC 1s_CD ._.
+2d_CD ._.
+No_DT ._.
+7_CD ._.
+Some_DT observations_NNS on_IN the_DT poison_NN of_IN the_DT Banded_NNP Krait_NNP (_( Bungarus_NNP Fasciatus_NNP )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+8_CD ._.
+A_DT preliminary_JJ report_NN on_IN a_DT parasite_NN found_VBN in_IN patients_NNS suffering_VBG from_IN enlargement_NN of_IN the_DT spleen_NN in_IN India_NNP ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, I.M.S._NNP Price_NNP Re_NNP ._.
+1-8_CD or_CC 2s_CD ._.
+3d_CD ._.
+No_DT ._.
+9_CD ._.
+Second_JJ report_NN of_IN the_DT anti-malarial_JJ operations_NNS at_IN Mian_NNP Mir_NNP ,_, 1901-03_JJ ,_, by_IN Lieutenant_NNP S._NNP R._NNP Christophers_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+10_CD or_CC 1s_CD ._.
+No_DT ._.
+10_CD ._.
+Specificity_NN of_IN anti-venomous_JJ sera_NN (_( second_JJ communication_NN )_) ,_, by_IN Captain_NNP G._NNP Lamb_NNP ,_, I.M.S._NNP Price_NNP As_IN ._.
+8_CD or_CC 9d_CD ._.
+No_DT ._.
+11_CD ._.
+On_IN a_DT parasite_NN found_VBN in_IN persons_NNS suffering_VBG from_IN enlargement_NN of_IN the_DT spleen_NN in_IN IndiaON_NNP THE_NNP IMPORTANCE_NNP OF_NNP LARVAL_NNP CHARACTERS_NNP IN_NNP THE_NNP CLASSIFICATION_NNP OF_NNP MOSQUITOES_NNP ._.
+IN_NNP collaboration_NN with_IN Stephens_NNP ,_, I_PRP described_VBD ,_, in_IN a_DT previous_JJ publication,1_NN the_DT ovum_NN and_CC larva_NN of_IN most_JJS of_IN the_DT common_JJ Anopheles_NNP mosquitoes_NNS of_IN India_NNP ._.
+We_PRP gave_VBD at_IN that_DT time_NN a_DT division_NN of_IN Anopheles_NNP into_IN natural_JJ groups_NNS ,_, largely_RB based_VBN upon_IN variations_NNS in_IN the_DT immature_NN stages_NNS ._.
+The_DT groups_NNS noted_VBN by_IN us_PRP ,_, so_RB far_RB as_IN the_DT species_NNS investigated_VBN were_VBD concerned_VBN ,_, were_VBD practically_RB identical_JJ with_IN the_DT genera_NN which_WDT Theobald_NNP instituted_VBD later_RBR upon_IN variations_NNS in_IN the_DT scale_JJ structure_NN of_IN the_DT adult_NN insects_NNS ;_: but_CC greater_JJR prominence_NN was_VBD given_VBN to_TO some_DT of_IN these_DT genera_NNS ,_, by_IN a_DT consideration_NN of_IN the_DT immature_NN stages_VBZ ,_, than_IN was_VBD apparent_JJ from_IN the_DT scale_JJ structure_NN of_IN the_DT adults_NNS alone_RB ._.
+Of_IN the_DT immature_NN stages_NNS of_IN mosquitoes_NNS other_JJ than_IN Anopheles_NNS ,_, we_PRP unfortunately_RB know_VBP very_RB little_JJ ._.
+The_DT larva_NN of_IN Anopheles_NNP and_CC that_IN of_IN Culex_NNP were_VBD described_VBN by_IN Meinert_NNP in_IN 1886.1_CD Howard's2_NNP description_NN of_IN the_DT larva_NN of_IN C._NNP pungens_NNS is_VBZ accurate_JJ and_CC detailed_JJ ._.
+James3_NNP has_VBZ described_VBN and_CC figured_VBN the_DT larva_NN of_IN Stegomyia_NNP ,_, and_CC was_VBD the_DT first_JJ to_TO draw_VB attention_NN to_TO the_DT occurrence_NN of_IN cannibal_JJ larvæ.4_NN The_DT larvæ_NN of_IN species_NNS of_IN Megarhinus_NNP ,_, Toxorhynchites_NNP ,_, Desvoidea_NNP ,_, Theobaldia_NNP ,_, Mela-_NNP noconion_NN ,_, Grabhamia_NNP ,_, Acartomyia_NNP ,_, and_CC Deinocerites_NNS have_VBP been_VBN to_TO some_DT extent_NN described_VBN by_IN Theobald,5_NNP who_WP also_RB figures_VBZ parts_NNS of_IN C._NNP fatigans_NNS ,_, C._NNP tigripes_VBZ ,_, and_CC C._NNP mimeticus_NN ._.
+In_IN very_RB few_JJ of_IN these_DT descriptions_NNS ,_, unfortunately_RB ,_, have_VBP the_DT points_NNS which_WDT appear_VBP to_TO be_VB of_IN most_JJS use_NN in_IN classification_NN been_VBN noted_VBN ._.
+In_IN many_JJ cases_NNS ,_, indeed_RB ,_, only_RB characters_NNS common_JJ to_TO nearly_RB all_DT mosquito_NN larvæ_NNS have_VBP been_VBN given_VBN ._.
+Before_IN proceeding_VBG to_TO describe_VB what_WP has_VBZ been_VBN determined_VBN regarding_VBG the_DT larval_JJ characters_NNS of_IN a_DT number_NN of_IN genera_NN of_IN culicidæ_NN other_JJ than_IN anopheles_NNS ,_, it_PRP will_MD be_VB well_RB to_TO briefly_VB mention_NN features_NNS which_WDT appear_VBP to_TO be_VB common_JJ to_TO all_DT larvæ_NN ,_, and_CC to_TO single_JJ out_RP those_DT which_WDT ,_, in_IN my_PRP$ researches_NNS ,_, I_PRP have_VBP found_VBN to_TO vary_VB in_IN the_DT different_JJ genera_NN or_CC species_NNS ._.
+I_PRP ._.
+All_DT mosquito_NN larvæ_VBZ possess_IN a_DT head_NN ,_, an_DT enlarged_JJ thorax_NN ,_, and_CC nine_CD abdominal_JJ segments_NNS ._.
+The_DT Head.2_NNP The_DT upper_JJ surface_NN is_VBZ smooth_JJ and_CC convex_NN and_CC carries_VBZ certain_JJ hairs_NNS ,_, which_WDT are_VBP usually_RB six_CD in_IN number_NN ._.
+Anteriorly_RB the_DT head_NN forms_VBZ a_DT rather_RB prominent_NN rounded_VBD mass_NN (_( the_DT clypeus_NN )_) ._.
+In_IN some_DT cases_NNS the_DT clypeus_NN carries_VBZ small_JJ hairs_NNS (_( clypeal_JJ hairs_NNS )_) as_IN in_IN Anopheles_NNP and_CC Stegomyia_NNP ._.
+As_IN a_DT rule_NN it_PRP carries_VBZ only_RB two_CD thorn-_JJ like_IN spines_NNS ._.
+When_WRB present_NN ,_, the_DT clypeal_NN hairs_NNS are_VBP of_IN specific_JJ importance_NN ._.
+The_DT clypeus_NN ,_, instead_RB of_IN projecting_VBG ,_, may_MD be_VB concave_JJ and_CC form_VB a_DT cup-like_JJ hollow_NN (_( cannibal_JJ larvæ_NN )_) ._.
+In_IN old_JJ larvæ_NN of_IN certain_JJ species_NNS a_DT sharp_JJ beak-like_JJ process_NN cov-_NN ered_VBN with_IN hairs_NNS or_CC spines_NNS may_MD project_VB from_IN below_IN the_DT clypeus_NN ._.
+At_IN the_DT side_NN of_IN the_DT head_NN are_VBP the_DT large_JJ compound_NN eyes_NNS ,_, and_CC immediately_RB behind_IN these_DT are_VBP the_DT ocelli_NN of_IN the_DT simple_JJ eyes_NNS ._.
+The_DT lower_JJR surface_NN of_IN the_DT head_NN is_VBZ smooth_JJ and_CC convex_NN and_CC is_VBZ marked_VBN by_IN two_CD grooves_NNS which_WDT pass_VBP from_IN the_DT outer_NN angles_NNS of_IN the_DT mental_JJ plate_NN backwards_NNS ._.
+About_IN the_DT middle_NN of_IN the_DT lower_JJR surface_NN of_IN the_DT head_NN is_VBZ a_DT small_JJ ,_, dark_JJ triangular_JJ plate3_NN of_IN the_DT first_JJ and_CC second_JJ portions_NNS a_DT large_JJ series_NN of_IN long_JJ stout_NN hairs_NN arises_VBZ which_WDT I_PRP have_VBP termed_VBN the_DT basal_NN tuft_NN ._.
+At_IN the_DT junction_NN of_IN the_DT second_JJ and_CC third_JJ portions_NNS there_EX are_VBP generally_RB two_CD large_JJ and_CC very_RB stout_JJ hairs_NNS or_CC spines_NNS ._.
+I_PRP have_VBP ,_, for_IN descriptive_JJ purposes_NNS ,_, termed_VBD these_DT the_DT median_JJ spines_NNS ._.
+From_IN the_DT end_NN of_IN the_DT third_JJ portion_NN ,_, one_CD or_CC more_JJR spines_NNS project_NN ._.
+I_PRP have_VBP called_VBN these_DT terminal_JJ spines_NNS ._.
+There_EX is_VBZ also_RB ,_, at_IN the_DT extreme_JJ end_NN of_IN the_DT antenna_NN ,_, a_DT papilla_NN ,_, which_WDT may_MD be_VB large_JJ and_CC conspicuous_JJ ,_, possibly_RB a_DT sense_NN organ_NN ._.
+I_PRP have_VBP named_VBN it_PRP the_DT terminal_JJ papilla_NN (_( Pl_NNP ._.
+II_NNP ,_, fig_NN ._.
+16_CD )_) ._.
+The_DT antennæ_NN are_VBP often_RB very_RB small_JJ and_CC poorly_JJ developed_NN ._.
+In_IN the_DT case_NN of_IN some_DT species_NNS (_( Stegomyia_NNP )_) this_DT appears_VBZ due_JJ to_TO retrograde_VB changes_NNS ,_, since_IN most_JJS of_IN the_DT above-mentioned_JJ structures_NNS are_VBP represented_VBN only_RB by_IN small_JJ hairs_NNS or_CC spines_NNS ._.
+The_DT Thorax.4_NNP of_IN view_NN ._.
+In_IN a_DT few_JJ cases_NNS only_RB (_( certain_JJ cannibal_JJ larvæ_NN )_) a_DT conspicuous_JJ series_NN of_IN hairs_NNS ,_, forming_VBG a_DT rudder-like_JJ expansion_NN ,_, springs_NNS from_IN the_DT median_JJ line_NN posteriorly_RB ._.
+On_IN the_DT eighth_JJ segment_NN there_EX are_VBP ,_, on_IN either_DT side_NN ,_, a_DT number_NN of_IN claw-like_JJ spines_NNS ._.
+Several_JJ small_JJ branched_VBN hairs_NNS also_RB rise_VBP near_IN the_DT base_NN of_IN the_DT siphon_NN tube_NN ._.
+Neither_CC the_DT spines_NNS nor_CC the_DT hairs_NNS appear_VBP to_TO be_VB of_IN much_JJ importance_NN in_IN relation_NN to_TO classification_NN ,_, since_IN they_PRP do_VBP not_RB vary_VB to_TO any_DT extent_NN in_IN the_DT genera_NN examined_VBD ._.
+The_DT characters_NNS of_IN the_DT siphon_NN tube_NN are_VBP of_IN importance_NN ,_, since_IN this_DT organ_NN is_VBZ subject_JJ to_TO great_JJ variations_NNS in_IN different_JJ genera_NN and_CC even_RB in_IN different_JJ species_NNS ._.
+The_DT relative_JJ shortness_NN or_CC tenuity_NN of_IN the_DT organ_NN is_VBZ an_DT important_JJ character_NN ._.
+In_IN descriptions_NNS of_IN larvæ_NN the_DT terms_NNS employed_VBN in_IN describing_VBG this_DT tube_NN do_VBP not_RB allow_VB of_IN accurate_JJ information_NN being_VBG conveyed_VBN ._.
+I_PRP have_VBP therefore_RB employed_VBN what_WP I_PRP have_VBP termed_VBN the_DT siphonic_JJ index_NN ._.
+This_DT is_VBZ obtained_VBN by_IN dividing_VBG the_DT length_NN by_IN the_DT greatest_JJS breadth_NN of_IN the_DT tube_NN ._.
+I_PRP have_VBP employed_VBN an_DT eyepiece_NN micrometer_NN for_IN the_DT purpose_NN of_IN measurement_NN ._.
+The_DT figures_NNS given_VBN by_IN the_DT different_JJ genera_NN have_VBP been_VBN very_RB constant_JJ ._.
+Stegomyia_NNP sugens_NNS ._.
+._.
+._.
+._.
+2_CD ,_, ,_, fasciata_NN ._.
+._.
+._.
+._.
+1.8_CD ,_, ,_, ?_.
+._.
+._.
+._.
+._.
+1.6_CD Desvoidea_NNP ._.
+._.
+._.
+._.
+1.7_CD Culex_NNP fatigans_NNS ._.
+._.
+._.
+._.
+4.3_CD ,_, ,_, ?_.
+._.
+._.
+._.
+._.
+4.1_CD ,_, ,_, impellens_NNS ._.
+._.
+._.
+._.
+5_CD ,_, ,_, ?_.
+._.
+._.
+._.
+._.
+5_CD Melanoconion_NNP ._.
+._.
+._.
+._.
+7.5_CD Tæniorhynchus_NNP tenax_NN ._.
+._.
+._.
+._.
+13_CD ,_, ,_, N._NNP SP_NNP ._.
+._.
+._.
+._.
+._.
+13_CD In_IN describing_VBG the_DT siphon_NN tube_NN ,_, it_PRP is_VBZ desirable_JJ that_IN a_DT drawing_VBG accurately_RB measured_VBN should_MD be_VB given_VBN ,_, since_IN the_DT siphon_NN tube_NN is_VBZ subject_JJ to_TO the_DT most_RBS extraordinary_JJ variations_NNS in_IN size_NN and_CC shape_NN ._.
+In_IN tæniorhynchus_NN it_PRP is_VBZ developed_VBN into_IN a_DT long_JJ and_CC slender_NN tube_NN ._.
+In_IN certain_JJ species_NNS not_RB yet_RB determined_VBN ,_, the_DT siphon_NN tube_NN is_VBZ enormous_JJ ._.
+The_DT ninth_JJ abdominal_JJ segment.5_NN appear_VBP to_TO be_VB of_IN the_DT nature_NN of_IN gills_NNS ._.
+In_IN the_DT case_NN of_IN a_DT species_NNS of_IN Stegomyia_NNP ,_, in_IN which_WDT these_DT were_VBD of_IN very_RB great_JJ size_NN ,_, the_DT larvæ_NN habitually_RB remained_VBD long_JJ periods_NNS without_IN rising_VBG to_TO the_DT surface_NN ._.
+Dorsally_RB ,_, immediately_RB above_IN the_DT anus_NN ,_, four_CD or_CC six_CD long_JJ hairs_NNS arise_RB from_IN one_CD or_CC two_CD small_JJ chitinous_JJ plates_NNS ._.
+Ventrally_RB ,_, a_DT double_JJ row_NN of_IN hairs_NNS forms_NNS a_DT large_JJ fan-like_JJ expansion_NN ._.
+The_DT variations_NNS in_IN the_DT hairs_NN of_IN the_DT ninth_JJ segment_NN are_VBP not_RB great_JJ in_IN the_DT different_JJ genera_NN and_CC their_PRP$ arrangement_NN is_VBZ very_RB similar_JJ in_IN Anopheles_NNP ,_, Stegomyia_NNP ,_, and_CC Culex_NNP ._.
+The_DT Nymph.6_NNP are_VBP small_JJ in_IN proportion_NN to_TO the_DT length_NN of_IN the_DT body_NN ._.
+The_DT whole_JJ aspect_NN of_IN the_DT larva_NN is_VBZ in_IN marked_JJ contrast_NN to_TO that_DT of_IN larvæ_NN to_TO which_WDT projecting_VBG angles_NNS and_CC hairs_NNS give_VBP a_DT spiny_JJ look_NN ._.
+(_( Melanoconion_NNP ,_, Culex_NNP ,_, etc_FW ._. )_)
+The_DT head_NN is_VBZ smooth_JJ ,_, and_CC projecting_VBG hairs_NNS are_VBP inconspicuous_JJ ._.
+The_DT clypeus_NN forms_VBZ a_DT prominent_JJ boss_NN ,_, on_IN which_WDT are_VBP situated_VBN ,_, in_IN some_DT species_NNS ,_, hairs_NNS very_RB closely_RB resembling_VBG the_DT clypeal_NN hairs_NN of_IN anopheles_NNS (_( Pl_NNP ._.
+III_NNP ,_, figs_NNS ._.
+9_CD ,_, 10_CD ,_, 11_CD )_) ._.
+The_DT antennæ_NN (_( Pl_NNP ._.
+II_NNP ,_, figs_NNS ._.
+4_CD and_CC 5_CD )_) ,_, are_VBP very_RB distinctive_JJ ._.
+They_PRP are_VBP very_RB small_JJ and_CC feeble_JJ and_CC appear_VBP to_TO have_VB undergone_JJ degeneration_NN ._.
+They_PRP are_VBP quite_RB smooth_JJ and_CC free_JJ from_IN the_DT numerous_JJ small_JJ thorn-like_NN spines_NNS which_WDT cover_VBP the_DT antenna_NN of_IN most_JJS other_JJ genera_NN ._.
+The_DT large_JJ hairs_NNS of_IN the_DT basal_NN tuft_NN are_VBP represented_VBN ,_, as_IN in_IN anopheles_NNS ,_, by_IN a_DT small_JJ branched_JJ hair_NN or_CC in_IN some_DT species_NNS by_IN a_DT single_JJ short_JJ bristle_NN only_RB ._.
+The_DT median_JJ and_CC terminal_JJ spines_NNS so_RB conspicuous_JJ in_IN Culex_NNP ,_, Melanoconion_NNP ,_, etc._NN ,_, are_VBP represented_VBN only_RB by_IN several_JJ extremely_RB small_JJ spike-like_JJ processes_NNS ._.
+As_IN a_DT rule_NN ,_, the_DT terminal_JJ papilla_NN (_( sense_NN organ_RB ?_. )_)
+is_VBZ well_RB developed_JJ and_CC rather_RB conspicuous_JJ ._.
+On_IN the_DT whole_NN ,_, the_DT antenna_NN of_IN Stegomyia_NNP larva_FW approximates_VBZ most_RBS nearly_RB to_TO that_DT of_IN anopheles_NNS ,_, but_CC in_IN several_JJ points_NNS is_VBZ still_RB more_RBR rudimentary_JJ than_IN in_IN this_DT sub-family_JJ (_( compare_JJ figs_NNS ._.
+1_CD and_CC 5_CD ,_, Pl_NNP ._.
+II_NNP )_) ._.
+The_DT mental_JJ plate_NN of_IN S._NNP sugens_NNS is_VBZ shown_VBN in_IN Pl_NNP ._.
+III_NNP ,_, fig_NN ._.
+1_CD ._.
+Those_DT of_IN S._NNP fas-_JJ ciata_NN and_CC S._NNP scutellaris_NNS are_VBP very_RB similar_JJ ._.
+The_DT siphon_NN tube_NN is_VBZ very_RB short_JJ and_CC stout_NN ._.
+The_DT siphonic_JJ index_NN is_VBZ 2_CD or_CC even_RB slightly_RB less_RBR ._.
+The_DT spines_NNS on_IN the_DT siphon_NN vary_NN in_IN number_NN according_VBG to_TO the_DT species_NNS ._.
+They_PRP extend_VBP as_IN a_DT rule_NN about_IN two-thirds_NNS up_IN the_DT tube_NN ._.
+There_EX are_VBP mosquitoes_NNS ,_, in_IN which_WDT the_DT larva_NN has_VBZ tubes_VBN closely_RB resembling_VBG those_DT of_IN Stegomyia_NNP ,_, which_WDT do_VBP not_RB appear_VB to_TO belong_VB to_TO the_DT genus_NN ;_: some_DT of_IN these_DT have_VBP other_JJ features_NNS approxi-_JJ mating_NN to_TO those_DT of_IN Stegomyia_NNP and_CC may_MD be_VB really_RB related_VBN to_TO the_DT genus_NN ._.
+The_DT anal_JJ papillæ_NN are_VBP large_JJ and_CC well_RB developed_VBN ._.
+Specific_JJ variation.7_NN and_CC had_VBD obtuse_VBN ends_NNS ._.
+In_IN this_DT species_VBZ the_DT anal_JJ papillæ_NN appear_VBP to_TO act_VB as_IN func-_JJ tional_JJ gills_NNS ,_, since_IN the_DT larva_NN had_VBD a_DT habit_NN of_IN remaining_VBG long_JJ periods_NNS at_IN the_DT bottom_NN ._.
+The_DT siphon_NN tube.8_NN so_RB as_IN to_TO form_VB rafts_NNS ._.
+The_DT length_NN of_IN the_DT raft_NN is_VBZ a_DT little_JJ greater_JJR than_IN the_DT breadth_NN ._.
+The_DT micropilar_JJ apparatus_NN is_VBZ ``_`` milled_JJ ''_'' laterally_RB ._.
+The_DT larvæ_NN are_VBP found_VBN especially_RB in_IN domestic_JJ utensils_NNS ,_, pots_NNS ,_, barrels_NNS full_JJ of_IN water_NN ,_, etc._NN ,_, and_CC are_VBP rarely_RB found_VBN in_IN large_JJ masses_NNS of_IN water_NN or_CC in_IN water_NN with_IN much_JJ vegetation_NN ._.
+The_DT head_NN is_VBZ ,_, rather_RB large_JJ and_CC quadrangular_JJ in_IN shape_NN ._.
+Some_DT conspicuous_JJ branched_VBN hairs_NNS arise_VB from_IN the_DT dorsum_NN ._.
+The_DT clypeus_NN carries_VBZ two_CD small_JJ thorn-like_JJ spines_NNS ,_, but_CC no_DT structures_NNS at_IN all_DT resembling_VBG clypeal_JJ hairs_NNS ._.
+The_DT antennæ_NN are_VBP fully_RB developed_VBN ._.
+The_DT basal_NN hairs_NNS and_CC the_DT median_JJ and_CC terminal_JJ spines_NNS are_VBP long_JJ and_CC very_RB noticeable_JJ ._.
+The_DT first_JJ and_CC second_JJ portions_NNS of_IN the_DT antennæ_JJ form_NN a_DT straight_JJ line_NN ._.
+The_DT third_JJ portion_NN is_VBZ rather_RB small_JJ ._.
+Small_JJ spines_NNS are_VBP scattered_VBN over_IN the_DT first_JJ and_CC the_DT proximal_JJ part_NN of_IN the_DT second_JJ portion_NN (_( Pl_NNP ._.
+II_NNP ,_, fig_NN ._.
+13_CD )_) ._.
+The_DT siphon_NN tube_NN is_VBZ distinctive_JJ ;_: .21_CD of_IN body_NN length_NN ._.
+The_DT siphonic_JJ index_NN is_VBZ 4.3_CD ._.
+The_DT spines_NNS number_NN 6_CD or_CC 7_CD in_IN each_DT row_NN and_CC extend_NN over_IN the_DT lower_JJR third_NN of_IN the_DT tube_NN (_( Pl_NNP ._.
+II_NNP ,_, fig_NN ._.
+24_CD )_) ._.
+The_DT nymph_NN of_IN Culex_NNP fatigans_NNS has_VBZ respiratory_NN trumpets_NNS which_WDT project_VBP laterally_RB as_IN shown_VBN in_IN Pl_NNP ._.
+I_PRP ,_, fig_NN ._.
+9_CD ._.
+The_DT opening_NN calls_VBZ to_TO mind_VB the_DT obliquely-cut_JJ mouthpiece_NN of_IN a_DT penny_NN whistle_NN (_( Pl_NNP ._.
+I_PRP ,_, fig_NN ._.
+7_CD )_) ._.
+This_DT character_NN ,_, so_RB far_RB as_IN my_PRP$ researches_NNS have_VBP gone_VBN ,_, appears_VBZ to_TO be_VB peculiar_JJ to_TO the_DT restricted_VBN portion_NN of_IN genus_NN Culex_NNP we_PRP are_VBP discussing_VBG ._.
+Specific_JJ variation.9_NN GROUP_NNP III_NNP ._.
+Adult_NNP mosquitoes_NNS showing_VBG scale_JJ arrangement_JJ typical_NN of_IN the_DT genus_NN Culex_NNP ,_, but_CC having_VBG larval_JJ characters_NNS recalling_VBG those_DT of_IN Stegomyia_NNP ._.
+Four_CD species_NNS ,_, all_DT unfortunately_RB undetermined_VBN ,_, were_VBD noted_VBN ._.
+All_PDT the_DT forms_NNS were_VBD found_VBN in_IN natural_JJ pools_NNS ._.
+Species_NNS a.10_VBP I_PRP have_VBP been_VBN able_JJ to_TO study_VB the_DT larva_NN which_WDT occurs_VBZ abundantly_RB in_IN the_DT Nilgiris_NNP ._.
+The_DT larval_NN characters_NNS have_VBP no_DT relation_NN to_TO any_DT other_JJ Culex_NNP larvæ_NN ._.
+A_DT curious_JJ point_NN is_VBZ that_IN the_DT spines_NNS on_IN the_DT siphon_NN tube_NN ,_, which_WDT is_VBZ long_JJ and_CC thin_JJ ,_, are_VBP very_RB large_JJ and_CC curved_VBD ,_, thus_RB differing_VBG from_IN those_DT of_IN the_DT great_JJ majority_NN of_IN larvæ_NN which_WDT are_VBP short_JJ ,_, straight_JJ spikes_NNS ._.
+GROUP_NNP V._NNP C._NNP concolor.11_VBD The_DT siphon_NN tube_NN is_VBZ long_JJ and_CC very_RB thin_JJ ;_: .23_CD of_IN body_NN length_NN ._.
+The_DT siphonic_JJ index_NN is_VBZ 7_CD ._.
+There_EX are_VBP about_IN 10_CD spines_NNS in_IN each_DT row_NN which_WDT are_VBP rather_RB long_RB and_CC slender_JJR and_CC extend_VB over_RP a_DT little_RB more_JJR than_IN the_DT basal_JJ third_NN of_IN the_DT tube_NN (_( Pl_NNP ._.
+II_NNP ,_, fig_NN ._.
+26_CD )_) ._.
+The_DT nymph_NN of_IN Melanoconion_NNP has_VBZ distinctive_JJ respiratory_NN trumpets_NNS ._.
+They_PRP are_VBP peculiarly_RB long_RB and_CC narrow_JJ and_CC project_NN in_IN a_DT more_RBR distinct_JJ curve_NN than_IN do_VBP those_DT of_IN Culex_NNP ._.
+The_DT end_NN is_VBZ more_RBR truncated_JJ than_IN in_IN Culex_NNP and_CC the_DT opening_NN is_VBZ on_IN this_DT account_NN more_JJR circular_JJ (_( Pl_NNP ._.
+I_PRP ,_, figs_NNS ._.
+8_CD and_CC 10_CD )_) ._.
+Tæniorhynchus.12_NNP describes_VBZ curious_JJ quadrangular_JJ frontal_NN processes_NNS ,_, but_CC these_DT appear_VBP to_TO be_VB the_DT widely_RB opened_VBN maxillæ_NN ._.
+The_DT bodies_NNS he_PRP describes_VBZ as_IN antennæ_NN are_VBP apparently_RB the_DT maxillary_JJ palps_NN ._.
+The_DT siphon_NN tube_NN is_VBZ very_RB short_JJ and_CC ,_, from_IN Theobald_NNP 's_POS drawing_NN ,_, appears_VBZ very_RB unlike_IN that_DT of_IN other_JJ larvæ_NN ._.
+Cannibal_NNP larvæ.13_NN evident_NN that_IN the_DT larvæ_NN of_IN these_DT genera_NNS are_VBP very_RB similar_JJ in_IN structure_NN and_CC appear-_JJ ance_NN ._.
+They_PRP all_DT adopt_VBP a_DT horizontal_JJ attitude_NN ._.
+All_DT have_VBP specially_RB modified_VBN mouth_NN parts_NNS and_CC possess_NN conspicuous_JJ ``_`` clasping_JJ organs_NNS ''_'' in_IN place_NN of_IN the_DT feeding_NN brushes_NNS ._.
+The_DT general_JJ appearance_NN in_IN all_DT is_VBZ similar_JJ ;_: the_DT shape_NN of_IN the_DT head_NN and_CC clypeus_NN is_VBZ identical_JJ ._.
+The_DT anal_JJ papillæ_NN are_VBP rudimentary_JJ or_CC absent_NN ._.
+Mucidus_NNP scataphagoides.14_VBD thorax_NN of_IN the_DT larva_NN of_IN Toxorhynchites_NNP and_CC the_DT absence_NN (_( ?_. )_)
+of_IN the_DT spines_NNS of_IN the_DT siphon_NN tube_NN in_IN this_DT species_NNS ._.
+Siphonic_NNP index_NN is_VBZ 2.5_CD (_( Pl_NNP III_NNP ,_, figs_NNS ._.
+12_CD and_CC 19_CD )_) ._.
+C._NNP concolor.15_VBD 6_CD ._.
+Trumpets_NNS abruptly_RB truncated_VBN (_( Pl_NNP ._.
+I_PRP ,_, fig_NN ._.
+15_CD )_) ._.
+._.
+._.
+._.
+._.
+Deinocerites_NNS ._.
+Howardina_NNP ._.
+Acartomyia_NNP ._.
+7_CD ._.
+Trumpets_NNS contracted_VBD at_IN opening_NN ;_: opening_VBG circular_NN ._.
+._.
+._.
+Mochlonyx_NNP ._.
+8_CD ._.
+Trumpets_NNS contracted_VBD at_IN opening_NN ;_: opening_VBG slit_NN like_IN ._.
+._.
+._.
+Corethra_NNP ._.
+Two_CD types_NNS of_IN antennæ_NN occur_NN in_IN the_DT above_JJ descriptions_NNS ._.
+1_CD ._.
+Stegomyia_NNP type_NN figs_NNS ._.
+4_CD ,_, 5_CD ,_, 6_CD ,_, 7_CD ,_, 8_CD ,_, 9_CD ,_, 10_CD ,_, seen_VBN in_IN Stegomyia_NNP ,_, Desvoidea_NNP ,_, Acartomyia_NNP ._.
+2_CD ._.
+Culex_NNP type_NN figs_NNS ._.
+13_CD ,_, 14_CD ,_, 15_CD ,_, 16_CD ,_, seen_VBN in_IN Culex_NNP ,_, Melanoconion_NNP ,_, Tæniorhynchus_NNP ,_, Grabhamia_NNP ._.
+The_DT differences_NNS in_IN the_DT two_CD types_NNS is_VBZ so_RB fundamental_JJ as_IN to_TO suggest_VB that_IN the_DT siphonate_NN Culicidæ_NNP are_VBP derived_VBN from_IN two_CD main_JJ types_NNS ,_, one_CD giving_VBG rise_NN to_TO the_DT Stegomyiæ_NNP ,_, the_DT other_JJ to_TO the_DT Culicinæ_NNP (_( restricted_VBN sense_NN ,_, see_VBP later_RB )_) ._.
+The_DT antennæ_NN of_IN C._NNP concolor_NN and_CC Mucidus_NNP appear_VBP distinct_NN from_IN either_CC ,_, though_IN that_DT of_IN Mucidus_NNP approaches_NNS more_RBR closely_RB to_TO the_DT Stegomyia_NNP than_IN the_DT Culex_NNP type_NN ._.
+The_DT siphon_NN tube_NN is_VBZ of_IN specific_JJ value_NN since_IN it_PRP is_VBZ subject_JJ to_TO considerable_JJ varia-_JJ tion_NN in_IN nearly_RB related_JJ species_NNS ._.
+In_IN many_JJ cases_NNS the_DT characters_NNS of_IN the_DT siphon_NN tube_NN appear_VBP also_RB to_TO be_VB of_IN generic_JJ significance_NN ,_, i.e._FW ,_, Culex_NNP ,_, Stegomyia_NNP ,_, Tæniorhynchus_NNP ,_, etc_NN ._.
+The_DT mental_JJ plate_NN is_VBZ a_DT structure_NN well_RB worth_IN further_JJ study_NN ._.
+Very_RB distinct_JJ characters_NNS were_VBD present_JJ in_IN Stegomyia_NNP ,_, Culex_NNP ,_, Melanoconion_NNP ,_, Tæniorhynchus_NNP ,_, C._NNP concolor_NN ,_, and_CC Mudicus_NNP ._.
+It_PRP is_VBZ evident_JJ that_IN ,_, in_IN general_JJ ,_, genera_NN based_VBN upon_IN the_DT adult_NN characters_NNS are_VBP established_VBN still_RB more_RBR firmly_RB by_IN a_DT consideration_NN of_IN the_DT characters_NNS of_IN the_DT immature_NN stages_NNS ._.
+But_CC there_EX are_VBP many_JJ points_NNS brought_VBD out_RP very_RB clearly_RB by_IN immature_NN characters_NNS which_WDT are_VBP not_RB so_RB evident_JJ on_IN consideration_NN of_IN adult_NN characters_NNS alone_RB ._.
+Theobald_NNP 's_POS classification_NN according_VBG to_TO adult_NN characters_NNS is_VBZ briefly_JJ as_IN follows_VBZ ._.
+(_( The_DT reasons_NNS for_IN the_DT groups_NNS are_VBP not_RB given_VBN ._.
+See_NNP ,_, however_RB ,_, manual_JJ of_IN the_DT Culicidæ_NNP ._. )_)
+SUB-FAMILY_NNP ._.
+Sec_NNP ._.
+A_DT ._.
+1_CD ._.
+Sub-fam_NNP ._.
+Anophelina_NNP ._.
+._.
+._.
+._.
+._.
+Anopheles_NNS ,_, etc._FW ,_, etc_FW ._.
+2_CD ._.
+16_CD Sec_NNP ._.
+A_DT ._.
+4_CD ._.
+Sub-fam_NNP ._.
+Joblotina_NNP ._.
+._.
+._.
+._.
+._.
+Joblotia_NNP ._.
+5_CD ._.
+17_CD To_TO remove_VB Mucidus_NNP and_CC Psorophora_NNP from_IN the_DT Culiana_NNP and_CC to_TO adopt_VB provisionally_RB a_DT new_JJ division_NN including_VBG Megarhinus_NNP ,_, Toxorhynchites_NNP ,_, Mucidus_NNP ,_, Psorophora_NNP ,_, and_CC possibly_RB Janthinsoma_NNP and_CC the_DT genera_NN Lutzia_NNP and_CC Jamesia_NNP ,_, would_MD seem_VB to_TO be_VB more_JJR natural_JJ ._.
+The_DT larval_JJ stages_NNS of_IN the_DT Aedeomyina_NNP are_VBP so_RB little_JJ known_IN that_DT I_PRP make_VBP no_DT attempt_NN to_TO consider_VB the_DT position_NN of_IN this_DT group_NN ._.
+In_IN the_DT few_JJ species_NNS described_VBN there_EX are_VBP however_RB some_DT features_NNS ,_, e.g._NN ,_, the_DT larval_NN antennæ_NN ,_, which_WDT suggest_VBP a_DT distant_JJ relationship_NN to_TO the_DT Stegomyina_NNP rather_RB than_IN to_TO the_DT Culicina_NNP ._.
+The_DT affinities_NNS of_IN the_DT Culicidæ_NNP would_MD then_RB be_VB shown_VBN as_IN follows_VBZ :18_$ 3_CD ._.
+Howard_NNP ._.
+The_DT Mosquitoes_NNP of_IN the_DT United_NNP States_NNPS ._.
+Bulletin_NNP No_NNP ._.
+5_CD ._.
+N._NNP S._NNP U._NNP S._NNP Department_NNP Agriculture_NNP ,_, Division_NNP Entomology_NNP ,_, 1896_CD ._.
+4_CD ._.
+James_NNP ._.
+Indian_JJ Med_NNP ._.
+Gazette_NNP ._.
+The_DT collection_NN of_IN mosquitoes_NNS and_CC their_PRP$ larvæ_NN ._.
+December_NNP 1889_CD ._.
+5_CD ._.
+James_NNP :_: Letter_NN to_TO Theobald_NNP ._.
+Manual_NNP of_IN the_DT Culicidæ_NNP ,_, Vol_NNP ._.
+II_NNP ,_, p._VBD 110_CD ._.
+6_CD ._.
+Theobald_NNP ._.
+Manual_NNP of_IN the_DT Culicidæ_NNP ._.
+Chiefly_NNP Vol_NNP ._.
+III_NNP ._.
+7_CD ._.
+Daniels_NNS and_CC Ross_NNP ._.
+Quoted_VBN by_IN Theobald_NNP ._.
+8_CD ._.
+Lutz_NNP ._.
+Communication_NN to_TO Theobald_NNP ._.
+Vol_NNP ._.
+I_PRP ,_, p._RB 48_CD ._.
+EXPLANATION_NN OF_NNP PLATES_NNP ._.
+PLATE_NNP I._NNP Figs_NNP ._.
+1PLATE_CD I_PRP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+1_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+2_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+3_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+4_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+5_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+6_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+7_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+8_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+9_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+10_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+11_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+12_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+13_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+14_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+15_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+16_CD [_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+17_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+18_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+19_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+20_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+21_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+22_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029071.tif_CD ]_JJ Fig_NNP ._.
+23_CD ._.
+PLATE_NNP II_NNP ._.
+Figs_NNS ._.
+1_CD PLATE_NNP II_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+1_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+2_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+3_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+4_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+5_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+6_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+7_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+8_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+9_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+10_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+11_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+12_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+13_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+14_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+15_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+16_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+17_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+18_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+19_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+20_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+21_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+22_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+23_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+24_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+25_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+26_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029083.tif_CD ]_JJ Fig_NNP ._.
+27_CD ._.
+PLATE_NNP III_NNP ._.
+Figs_NNS ._.
+1PLATE_CD III_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+1_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+2_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+3_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+4_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+5_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+6_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+7_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+8_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+9_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+10_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+11_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+12_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+13_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+14_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+15_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+16_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+17_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+18_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+19_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+20_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+21_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+22_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+23_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Gig_NNP ._.
+24_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029095.tif_CD ]_JJ Fig_NNP ._.
+25_CD ._.
+No_DT ._.
+25_CD ._.
+(_( NEW_JJ SERIES_NNP ._. )_)
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+ON_IN THE_DT IMPORTANCE_NNP OF_NNP LARVAL_NNP CHARACTERS_NNP IN_NNP THE_NNP CLASSIFICATION_NNP OF_NNP MOSQUITOES_NNP ._.
+BY_NNP CAPTAIN_NNP S._NNP R._NNP CHRISTOPHERS_NNP ,_, M.B._NNP ,_, I.M.S_NNP ._.
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75029110.tif_CD ]_JJ CALCUTTA_NNP :_: OFFICE_NN OF_IN THE_NNP SUPERINTENDENT_NNP OF_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ._.
+1906_CD ._.
+Price_NNP annas_NNS eight_CD or_CC 9d_CD ._.

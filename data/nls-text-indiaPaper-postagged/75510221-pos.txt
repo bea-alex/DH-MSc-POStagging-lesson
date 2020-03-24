@@ -1,0 +1,1736 @@
+Annual_JJ Administration_NNP Report_NNP OF_IN THE_NNP Civil_NNP Veterinary_NNP Department_NNP FOR_IN THE_NNP OFFICIAL_NNP YEAR_NNP 1910-1911_JJ [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP CALCUTTA_NNP SUPERINTEDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1911_CD [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP Annual_NNP Administration_NNP Report_NNP OF_IN THE_NNP Civil_NNP Veterinary_NNP Department_NNP FOR_IN THE_NNP OFFICIAL_NNP YEAR_NNP 1910-1911_JJ [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1911_CD CONTENTS_NNP GENERAL_NNP ADMINISTRATION_NNP ._.
+PAGE_NN ._.
+Preface_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Officers_NNS in_IN charge_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Inspector-General_JJ 's_POS tour_NN ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+2_CD PART_NNP A.GOVERNMENT_NNP OF_IN INDIA_NNP ._.
+ANNUAL_NNP ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP FOR_IN THE_NNP OFFICIAL_NNP YEAR_NNP 1910-1911_CD ._.
+GENERAL_NNP ADMINISTRATION_NNP ._.
+Preface_NNP Colonel_NNP H._NNP T._NNP Pease_NNP ,_, C.I.E._NNP ,_, was_VBD in_IN charge_NN of_IN the_DT Department_NNP from_IN 1st_CD April_NNP to_TO 4th_CD June_NNP 1910_CD when_WRB he_PRP pro-_RB ceeded_VBD on_IN furlough_NN to_TO Europe_NNP and_CC was_VBD relieved_VBN by_IN Lieut.-Colonel_NNP G._NNP H._NNP Evans_NNP ,_, who_WP officiated_VBD as_IN Inspector-General_JJ from_IN 5th_CD June_NNP to_TO the_DT end_NN of_IN the_DT year_NN under_IN report_NN ._.
+2_CD ._.
+As_IN usual_JJ ,_, a_DT coloured_JJ Map_NNP and_CC the_DT prescribed_JJ Tables_NNS are_VBP appended_VBN ._.
+The_DT following_JJ alterations_NNS have_VBP been_VBN made_VBN in_IN the_DT map_NN as_IN compared_VBN with_IN last_JJ year:2_JJ Appointments_NNS ._.
+1st_CD April_NNP 1910_CD ._.
+31st_CD March_NNP 1911_CD ._.
+Remarks_NNS ._.
+Principal_NNP ,_, Bombay_NNP Veterinary_NNP College_NNP M._NNP H._NNP Sowerby_NNP ,_, Esq_NNP ._.
+._.
+K._NNP Hewlett_NNP ,_, Esq_NNP ._.
+Assistant_NN Principal_NNP ,_, Bombay_NNP Veteri-_NNP nary_JJ College_NNP ._.
+N._NNP D._NNP Dhakmarvala_NNP ,_, Esq_NNP ._.
+._.
+M._NNP H._NNP Sowerby_NNP ,_, Esq_NNP ._.
+Superintendent_NN ,_, Bombay_NNP ._.
+._.
+K._NNP Hewlett_NNP ,_, Esq_NNP ._.
+._.
+._.
+Lieutenant-Colonel_NNP H._NNP M._NNP Maxwell_NNP ._.
+Principal_NNP ,_, Bengal_NNP Veterinary_NNP College_NNP Colonel_NNP F._NNP Raymond_NNP ._.
+._.
+Colonel_NNP F._NNP Raymond_NNP ._.
+Superintendent_NN ,_, Bengal_NNP ._.
+._.
+._.
+D._NNP Quinlan_NNP ,_, Esq_NNP ._.
+._.
+._.
+D._NNP Quinlan_NNP ,_, Esq_NNP ._.
+Superintendent_NNP ,_, Eastern_NNP Bengal_NNP and_CC Assam_NNP ._.
+W._NNP Harris_NNP ,_, Esq_NNP ._.
+W._NNP Harris_NNP ,_, Esq_NNP ._.
+Principal_NNP ,_, Madras_NNP Veterinary_NNP College_NNP D._NNP A._NNP D._NNP Aitchison_NNP ,_, Esq_NNP ._.
+D._NNP A._NN D._NNP Aitchison_NNP ,_, Esq_NNP ._.
+Superintendent_NN ,_, Madras_NNP ._.
+._.
+._.
+Captain_NNP W._NNP O._NNP Dawson_NNP ._.
+P._NNP Ware_NNP ,_, Esq_NNP ._.
+3_CD The_DT number_NN of_IN cases_NNS in_IN the_DT hospital_NN is_VBZ slightly_RB in_IN excess_NN of_IN the_DT year_NN pre-_RB vious_JJ ,_, viz._NN ,_, 5,869_CD against_IN 5,680_CD ._.
+The_DT fees_NNS realized_VBN for_IN treatment_NN ,_, etc._FW ,_, amounted_VBD to_TO Rs_NNP ._.
+14,869-12-8_JJ ._.
+A_DT new_JJ ambulance_NN was_VBD urgently_RB needed_VBN and_CC Babu_NNP Govindram_NNP Singhonia_NNP presented_VBD Rs_NNP ._.
+1,000_CD for_IN the_DT purchase_NN of_IN a_DT conveyance_NN ._.
+The_DT Principal_NNP remarks_NNS on_IN the_DT difficulty_NN in_IN obtaining_VBG funds_NNS for_IN the_DT further_JJ development_NN of_IN the_DT College_NNP ._.
+8_CD ._.
+Punjab.4_NNP premises_VBZ being_VBG under_IN consideration_NN ,_, the_DT construction_NN of_IN certain_JJ proposed_VBN buildings_NNS has_VBZ been_VBN held_VBN in_IN abeyance_NN ._.
+12_CD ._.
+Burma.5_JJ year_NN ._.
+The_DT diagnosis_NN of_IN cases_NNS of_IN Anthrax_NNP reported_VBD from_IN the_DT United_NNP Pro-_NNP vinces_NNS ,_, Central_NNP Provinces_NNPS ,_, Bengal_NNP and_CC Eastern_NNP Bengal_NNP and_CC Assam_NNP ,_, was_VBD con-_NN firmed_VBN by_IN bacteriological_JJ examination_NN ._.
+18_CD ._.
+Dourine.6_NNP to_TO dislodge_VB them_PRP ,_, rub_VBZ violently_RB against_IN each_DT other_JJ ._.
+They_PRP do_VBP not_RB confine_VB their_PRP$ attacks_NNS to_TO the_DT hours_NNS of_IN daylight_NN as_IN they_PRP can_MD be_VB found_VBN on_IN camels_NNS during_IN the_DT night_NN ._.
+Lyperosia_RB appear_VBP to_TO have_VB only_RB once_RB before_IN on_IN good_JJ grounds_NNS been_VBN suspected_VBN as_IN a_DT transmitter_NN of_IN Surra_NNP ,_, i.e._NN ,_, amongst_JJ cattle_NNS in_IN Rhodesia_NNP (_( King-_NNP horn_NN and_CC Montgomery_NNP )_) ._.
+It_PRP is_VBZ clear_JJ that_IN this_DT outbreak_NN occurred_VBD in_IN the_DT absence_NN of_IN Tabanus_NNP ,_, Stomoxys_NNP or_CC other_JJ biting_VBG flies_NNS ._.
+Mr._NNP Leese_NNP will_MD no_DT doubt_NN avail_VBZ himself_PRP of_IN any_DT opportunity_NN afforded_VBN in_IN endeavouring_VBG to_TO establish_VB his_PRP$ suspi-_JJ cions_NNS regarding_VBG Lyperosia_NNP ._.
+27_CD ._.
+Treatment_NN of_IN Surra.7_NNP 32_CD ._.
+Towards_IN the_DT close_NN of_IN the_DT year_NN the_DT buildings_NNS at_IN Sohawa_NNP were_VBD reported_VBN to_TO be_VB approaching_VBG completion_NN ._.
+It_PRP is_VBZ anticipated_VBN they_PRP will_MD be_VB ready_JJ for_IN occu-_JJ pation_NN during_IN the_DT early_JJ part_NN of_IN the_DT next_JJ official_JJ year_NN ._.
+33_CD ._.
+Mr._NNP Leese_NNP has_VBZ been_VBN most_RBS energetic_JJ and_CC unremitting_JJ in_IN his_PRP$ labours_NN to_TO advance_VB our_PRP$ knowledge_NN of_IN the_DT diseases_NNS of_IN the_DT camel_NN ._.
+Considering_VBG his_PRP$ work_NN has_VBZ been_VBN carried_VBN out_RP often_RB in_IN trying_VBG circumstances_NNS ,_, the_DT success_NN achieved_VBN is_VBZ highly_RB commendable_JJ ._.
+I_PRP consider_VBP we_PRP are_VBP greatly_RB indebted_VBN to_TO him_PRP not_RB only_RB for_IN the_DT zealous_JJ manner_NN in_IN which_WDT he_PRP has_VBZ carried_VBN on_IN his_PRP$ work_NN but_CC also_RB for_IN the_DT pro-_JJ gress_NN made_VBD ._.
+Other_JJ diseases_NNS ._.
+34_CD ._.
+Table_JJ IV_NNP shows_VBZ the_DT number_NN of_IN animals_NNS treated_VBN and_CC castrated_VBN by_IN Veterinary_NNP Assistants_NNP while_IN on_IN tour_NN ._.
+The_DT number_NN of_IN Veterinary_JJ Assistants_NNS employed_VBN has_VBZ increased_VBN by_IN nearly_RB a_DT hundred_JJ ,_, viz._JJ ,_, from_IN 517_CD to_TO 614_CD ._.
+With_IN the_DT exception_NN of_IN Rajputana_NNP ,_, additions_NNS have_VBP been_VBN made_VBN in_IN every_DT Province_NN ._.
+Mad-_NNP ras_NN shows_VBZ 38_CD Veterinary_JJ Assistants_NNS now_RB employed_VBP ._.
+In_IN last_JJ year_NN 's_POS report_NN none_NN were_VBD recorded_VBN ._.
+The_DT work_NN performed_VBN by_IN Veterinary_JJ Assistants_NNS indicates_VBZ general_JJ progress_NN ._.
+Over_IN 11,000_CD more_JJR villages_NNS were_VBD visited_VBN and_CC the_DT number_NN of_IN cases_NNS treated_VBN (_( excluding_VBG castrations_NNS )_) exceeded_VBD those_DT of_IN last_JJ year_NN by_IN 63,741_CD ._.
+Veterinary_JJ hospitals_NNS and_CC dispensaries_NNS ._.
+35_CD ._.
+A_DT reference_NN to_TO Table_NNP V_NNP will_MD show_VB that_IN there_EX were_VBD 327_CD Veterinary_JJ Dispensaries_NNS in_IN working_VBG order_NN during_IN the_DT year_NN under_IN report_NN ,_, against_IN 408_CD in_IN the_DT previous_JJ year_NN ._.
+Burma_NNP shows_VBZ a_DT decrease_NN of_IN 107_CD Dispensaries_NNS and_CC Madras_NNP of_IN 2_CD ._.
+An_DT explanation_NN on_IN this_DT point_NN will_MD be_VB given_VBN later_RB ._.
+In_IN Rajputana_NNP and_CC Bengal_NNP the_DT numbers_NNS remain_VBP the_DT same_JJ as_IN last_JJ year_NN ;_: in_IN all_DT other_JJ Provinces_NNS there_EX is_VBZ an_DT increase_NN shown_VBN ._.
+There_EX is_VBZ nothing_NN special_JJ worthy_NN of_IN note_NN under_IN this_DT head_NN ._.
+Madras_NNP ex-_JJ plains_NNS that_IN the_DT reduction_NN of_IN two_CD Veterinary_JJ Dispensaries_NNPS is_VBZ due_JJ to_TO those_DT at_IN Ongole_NNP and_CC Ellore_NNP having_VBG been_VBN transferred_VBN from_IN Government_NNP administration_NN to_TO that_DT of_IN the_DT District_NNP Boards_NNP of_IN Guntur_NNP ._.
+Burma_NNP explains_VBZ as_IN follows_VBZ in_IN regard_NN to_TO the_DT reduction_NN of_IN 107_CD Dispensaries_NNS :_: of_IN the_DT farm_NN at_IN Bettiah_NNP is_VBZ declared_VBN unsuitable_JJ owing_VBG to_TO its_PRP$ being_VBG subject_JJ to_TO inundation_NN ,_, and_CC the_DT condition_NN of_IN the_DT cattle_NNS is_VBZ also_RB reported_VBN to_TO be_VB 'not_RB good_JJ ._. '_''
+39_CD ._.
+In_IN the_DT Bombay_NNP Presidency_NNP the_DT results_NNS of_IN the_DT Northcote_NNP Cattle_NNP Farm_NNP at_IN Chharodi_NNP continue_VBP to_TO prove_VB satisfactory_NN ._.
+There_EX is_VBZ an_DT increase_NN in_IN the_DT number_NN of_IN live-stock_NN at_IN the_DT Farm_NNP ;_: several_JJ bulls_NNS were_VBD sold_VBN to_TO the_DT people_NNS of_IN neighbouring_VBG villages_NNS ._.
+The_DT number_NN of_IN calves_NNS dropped_VBD was_VBD nearly_RB double_JJ that_IN of_IN the_DT previous_JJ year_NN ._.
+Mortality_NN among_IN the_DT stock_NN has_VBZ been_VBN less_JJR than_IN usual_JJ ._.
+Several_JJ improvements_NNS with_IN regard_NN to_TO water_NN supply_NN ,_, fencing_NN of_IN stock_NN yards_NNS ,_, repairs_NNS to_TO buildings_NNS ,_, closing_NN of_IN roads_NNS running_VBG through_IN the_DT farm_NN ,_, etc._NN ,_, have_VBP been_VBN carried_VBN out_RP ._.
+An_DT increased_JJ quantity_NN of_IN fodder_NN is_VBZ now_RB maintained_VBN as_IN a_DT reserve_NN ._.
+40_CD ._.
+Punjab_NNP reports_NNS that_IN the_DT requirements_NNS of_IN nine_CD districts_NNS amounting_VBG to_TO 43_CD bulls_NNS ,_, were_VBD fully_RB met_VBN from_IN the_DT Government_NNP Cattle_NNP Farm_NNP at_IN Hissar_NNP ._.
+Nine-_NNP teen_JJ bulls_NNS of_IN the_DT 'Dhanni_NNP '_POS breed_NN were_VBD purchased_VBN from_IN Chakwal_NNP to_TO meet_VB the_DT requirements_NNS of_IN four_CD districts_NNS ._.
+41_CD ._.
+Twenty-five_JJ (_( 25_CD )_) bulls_NNS were_VBD purchased_VBN by_IN Local_JJ Boards_NNS in_IN Eastern_NNP Bengal_NNP and_CC Assam_NNP ._.
+It_PRP is_VBZ reported_VBN that_IN several_JJ indents_NNS were_VBD received_VBN from_IN Local_NNP and_CC District_NNP Boards_NNP for_IN the_DT supply_NN of_IN stud_NN bulls_NNS ,_, which_WDT could_MD not_RB be_VB complied_VBN with_IN as_IN suitable_JJ animals_NNS were_VBD difficult_JJ to_TO obtain_VB ._.
+The_DT Superintend-_NNP ent_NN states_NNS that_IN &_CC quot_NN ;_: A_DT scheme_NN for_IN the_DT breeding_NN of_IN bulls_NNS has_VBZ been_VBN drawn_VBN up_RP and_CC is_VBZ now_RB under_IN consideration._NN &_CC quot_NN ;_: 42_CD ._.
+Owing_VBG to_TO the_DT increasing_VBG demand_NN ,_, the_DT United_NNP Provinces_NNP also_RB experi-_VBP ence_NN the_DT same_JJ difficulty_NN regarding_VBG the_DT insufficient_JJ supply_NN of_IN suitable_JJ stud_NN bulls_NNS ._.
+Arrangements_NNS have_VBP been_VBN made_VBN for_IN the_DT supply_NN of_IN a_DT certain_JJ number_NN from_IN the_DT Government_NNP Cattle_NNP Farm_NNP ,_, Hissar_NNP ,_, to_TO meet_VB immediate_JJ demands_NNS ._.
+It_PRP is_VBZ expected_VBN that_IN next_JJ year_NN some_DT 20_CD Hissar_NNP bulls_NNS will_MD be_VB available_JJ for_IN issue_NN to_TO selected_VBN districts_NNS ._.
+As_IN an_DT experiment_NN ,_, a_DT farm_NN for_IN rearing_VBG bulls_NNS has_VBZ been_VBN started_VBN at_IN Kheri_NNP ._.
+43_CD ._.
+The_DT number_NN of_IN bulls_NNS in_IN the_DT North-West_NNP Frontier_NNP Province_NNP is_VBZ reported_VBN to_TO be_VB quite_RB inadequate_JJ ._.
+44_CD ._.
+In_IN the_DT Central_NNP Provinces_NNPS ,_, suggestions_NNS have_VBP been_VBN brought_VBN forward_RB by_IN the_DT Superintendent_NNP regarding_VBG the_DT establishment_NN of_IN a_DT Demonstration_NNP Farm_NNP in_IN Raipur_NNP ,_, also_RB the_DT establishment_NN of_IN Farms_NNP on_IN the_DT Raigarh_NNP plateau_NN and_CC at_IN Machurda_NNP in_IN the_DT Balaghat_NNP district_NN ._.
+The_DT farms_NNS at_IN Kindri_NNP and_CC Telinkheri_NNP are_VBP reported_VBN as_IN being_VBG capable_JJ of_IN considerable_JJ improvement_NN ,_, i.e._FW ,_, with_IN regard_NN to_TO the_DT class_NN of_IN animal_NN bred_VBN ,_, and_CC general_JJ condition_NN of_IN the_DT stock_NN maintained_VBD ._.
+Bull_NNP rearing_NN and_CC breeding_NN farms_NNS and_CC depôts_NN ._.
+45_CD ._.
+The_DT main_JJ results_NNS of_IN the_DT working_NN of_IN Provincial_NNP Cattle_NNP Farms_NNP are_VBP shown_VBN in_IN Table_NNP IX_NNP ._.
+The_DT details_NNS fur-_JJ nished_VBN in_IN the_DT Valuation_NNP Statements_NNP which_WDT accompany_VBP Table_NNP IX_NNP ,_, indicate_VBP the_DT financial_JJ position_NN of_IN each_DT farm_NN ._.
+The_DT total_JJ receipts_NNS amount_NN to_TO Rs_NNP ._.
+20,181_CD against_IN Rs_NNP ._.
+23,919_CD last_JJ year_NN ;_: the_DT expenditure_NN is_VBZ set_VBN down_RP at_IN Rs_NNP ._.
+52,884_CD against_IN Rs_NNP ._.
+46,986_CD in_IN the_DT previous_JJ year_NN ,_, and_CC the_DT value_NN of_IN stock_NN ,_, grain_NN and_CC fodder_NN at_IN the_DT close_NN of_IN the_DT year_NN is_VBZ estimated_VBN at_IN Rs_NNP 67,980_CD against_IN Rs_NNP ._.
+52,970_CD in_IN the_DT previous_JJ report_NN ._.
+Punjab_NNP has_VBZ fur-_NN nished_VBN no_DT particulars_NNS ._.
+Bengal_NNP states_NNS that_IN the_DT report_NN on_IN the_DT Kalimpong_NNP ._.
+Farm_NN was_VBD not_RB received_VBN ._.
+Camel_NNP breeding_NN ._.
+46_CD ._.
+The_DT scheme_NN for_IN the_DT encouragement_NN of_IN camel_NN breeding_NN by_IN the_DT award_NN of_IN prizes_NNS at_IN Camel_NNP Fairs_NNP not_RB meeting_VBG with_IN the_DT success_NN hoped_VBD for_IN ,_, the_DT question_NN of_IN its_PRP$ discontinuance_NN is_VBZ now_RB before_RB Government_NNP ._.
+47_CD ._.
+The_DT subject_NN dealt_NN with_IN in_IN paragraph_NN 181_CD of_IN last_JJ year_NN 's_POS report_NN ,_, regard-_JJ ing_NN making_VBG available_JJ certain_JJ Surra_NNP free_JJ grazing_VBG areas_NNS with_IN the_DT view_NN of_IN en-_JJ couraging_VBG camel_NN breeding_NN in_IN the_DT Punjab_NNP ,_, is_VBZ also_RB under_IN consideration_NN of_IN the_DT authorities_NNS concerned_VBN ._.
+Sheep_JJ breeding_NN ._.
+48_CD ._.
+North-West_NNP Frontier_NNP Province_NNP and_CC North_NNP Punjab.9_NNP type_NN by_IN in-breeding_NN ,_, and_CC hopes_NNS are_VBP entertained_VBN that_IN the_DT experiment_NN ,_, if_IN care_NN is_VBZ taken_VBN in_IN the_DT selection_NN of_IN the_DT ewes_NN ,_, will_MD succeed_VB ._.
+As_IN regards_NNS mortality_NN among_IN the_DT cross-bred_JJ sheep_NN ,_, it_PRP is_VBZ stated_VBN that_IN except_IN when_WRB very_RB young_JJ ,_, i.e._JJ ,_, the_DT first_JJ few_JJ days_NNS after_IN birth_NN ,_, they_PRP are_VBP constitutionally_RB as_RB strong_JJ as_IN the_DT indigenous_JJ sheep_NN ._.
+The_DT annual_JJ losses_NNS ,_, however_RB ,_, in_IN flocks_NNS generally_RB ,_, from_IN such_JJ contagious_JJ diseases_NNS as_IN Black_NNP Quarter_NNP ,_, Hæmorrhagic_NNP Septicæmia_NNP ,_, Sheep_NNP scab_NN and_CC Foot_NNP and_CC mouth_JJ disease_NN ,_, are_VBP stated_VBN to_TO be_VB very_RB heavy_JJ ._.
+Twenty_NNP Merino_NNP rams_NNS are_VBP expected_VBN to_TO arrive_VB from_IN New_NNP Zealand_NNP this_DT year_NN and_CC will_MD be_VB entrusted_VBN to_TO the_DT care_NN of_IN influential_JJ Jagirdars_NNP and_CC Zemindars_NNP ._.
+49_CD ._.
+Kangra_NNP and_CC Kulu.10_NNP IV.11_NNP 61_CD ._.
+Anthrax_NNP anti-serum.12_JJ Administration_NNP ._.
+70_CD ._.
+Fodder_NNP supply.13_NN of_IN the_DT following_JJ diseases_NNS were_VBD reported_VBN ,_, viz._NN ,_, Rinderpest_NNP ,_, Foot_NNP and_CC mouth_JJ disease_NN ,_, Black_NNP Quarter_NNP ,_, Strangles_NNP and_CC Sheep_NNP pox_NN ._.
+As_IN a_DT result_NN of_IN the_DT prompt_JJ action_NN taken_VBN by_IN the_DT Superintendent_NNP ,_, the_DT outbreak_NN of_IN Rinderpest_NNP was_VBD rapidly_RB checked_VBN and_CC only_RB one_CD death_NN was_VBD reported_VBN ._.
+An_DT outbreak_NN of_IN Sheep_NNP pox_NN gave_VBD considerable_JJ trouble_NN ._.
+The_DT Merino_NNP sheep_NN and_CC half-breds_NNS suffered_VBD from_IN a_DT severe_JJ form_NN of_IN the_DT disease_NN ;_: a_DT number_NN of_IN animals_NNS succumbed_VBN and_CC several_JJ of_IN those_DT which_WDT recovered_VBD were_VBD useless_JJ and_CC had_VBD to_TO be_VB destroyed_VBN ._.
+75_CD ._.
+The_DT difficulty_NN in_IN obtaining_VBG adequate_JJ labour_NN to_TO work_VB the_DT Farm_NN seems_VBZ to_TO be_VB increasing_VBG every_DT year_NN ._.
+Some_DT reasons_NNS which_WDT may_MD be_VB tending_VBG towards_IN bringing_VBG about_IN this_DT state_NN of_IN affairs_NNS are_VBP as_IN follows_VBZ ,_, viz._FW ,_, two_CD lines_NNS of_IN railway_NN under_IN construction_NN ,_, three_CD cotton_NN mills_NNS at_IN work_NN in_IN Hissar_NNP ,_, higher_JJR wages_NNS paid_VBN by_IN the_DT Public_NNP Works_NNP Department_NNP and_CC Zemindars_NNP ,_, the_DT ravages_NNS of_IN plague_NN and_CC malaria_NN ,_, especially_RB among_IN the_DT Mali_NNP class_NN ,_, and_CC the_DT visits_NNS of_IN recruiting_VBG parties_NNS ._.
+A_DT number_NN of_IN the_DT hands_NNS now_RB employed_VBP on_IN the_DT Farm_NN are_VBP mere_JJ lads_NNS 10_CD to_TO 14_CD years_NNS of_IN age_NN ,_, hence_VB the_DT work_NN of_IN supervision_NN is_VBZ greatly_RB increased_VBN ._.
+It_PRP is_VBZ quite_RB probable_JJ that_IN at_IN any_DT time_NN it_PRP may_MD be_VB necessary_JJ for_IN Government_NNP to_TO consider_VB the_DT question_NN of_IN granting_VBG a_DT general_JJ rise_NN in_IN the_DT scale_NN of_IN wages_NNS ._.
+The_DT Superin_NNP tendent_NN is_VBZ at_IN times_NNS very_RB hard_RB pressed_VBN to_TO procure_VB sufficient_JJ hands_NNS to_TO carry_VB on_IN the_DT farm_NN work_NN ._.
+It_PRP was_VBD hoped_VBN that_IN providing_VBG quarters_NNS for_IN a_DT certain_JJ number_NN of_IN men_NNS might_MD induce_VB them_PRP to_TO accept_VB permanent_JJ employ_NN ;_: so_RB far_RB ,_, however_RB ,_, the_DT scheme_NN has_VBZ not_RB proved_VBN a_DT great_JJ success_NN ._.
+76_CD ._.
+The_DT excellent_JJ work_NN performed_VBN last_JJ year_NN in_IN the_DT matter_NN of_IN raising_VBG the_DT level_NN of_IN roads_NNS ,_, repairing_VBG and_CC erecting_VBG walls_NNS ,_, clearing_NN and_CC remodelling_VBG water-_JJ courses_NNS ,_, extending_VBG cultivation_NN and_CC planting_NN trees_NNS has_VBZ been_VBN continued_VBN during_IN the_DT year_NN under_IN report_NN ,_, and_CC the_DT success_NN attained_VBN in_IN spite_NN of_IN the_DT difficulty_NN in_IN the_DT matter_NN of_IN labour_JJ reflects_VBZ credit_NN on_IN all_DT concerned_VBN ._.
+As_IN might_MD be_VB expected_VBN ,_, pigs_NNS and_CC other_JJ wild_JJ animals_NNS continue_VBP to_TO do_VB damage_VB in_IN the_DT cultivated_JJ areas_NNS ._.
+In_IN the_DT Bir_NNP a_DT large_JJ area_NN which_WDT was_VBD barren_NNS or_CC overrun_VB with_IN useless_JJ grasses_NNS has_VBZ been_VBN ploughed_VBN and_CC Anjan_NNP grass_VBP seed_NN sown_NN ._.
+Machinery_NN and_CC rolling-stock_NN are_VBP kept_VBN in_IN excellent_JJ order_NN ._.
+The_DT buildings_NNS are_VBP old_JJ and_CC require_VB overhauling_NN ._.
+A_DT Committee_NNP will_MD assemble_VB next_JJ year_NN to_TO report_VB on_IN them_PRP ._.
+A_DT post-mortem_NN house_NN has_VBZ been_VBN erected_VBN during_IN the_DT year_NN ._.
+77_CD ._.
+As_IN the_DT present_JJ state_NN of_IN the_DT stock_NN as_RB well_RB as_IN all_DT increases_NNS and_CC decreases_NNS is_VBZ clearly_RB indicated_VBN in_IN Table_NNP XVI_NNP ,_, it_PRP would_MD appear_VB superfluous_JJ to_TO enter_VB into_IN details_NNS regarding_VBG the_DT several_JJ classes_NNS of_IN animals_NNS maintained_VBN on_IN the_DT Farm_NN ._.
+It_PRP may_MD perhaps_RB be_VB sufficient_JJ to_TO state_NN that_IN there_EX is_VBZ a_DT continued_JJ improvement_NN in_IN the_DT stock_NN bred_VBD there_RB ._.
+Sheep_JJ breeding_NN is_VBZ doing_VBG fairly_RB well_RB ._.
+The_DT Merinos_NNP and_CC half-breds_NNS suffer_VBP considerably_RB from_IN the_DT heat_NN and_CC attacks_NNS of_IN flies_NNS ._.
+The_DT results_NNS of_IN donkey_NN and_CC mule_NN breeding_NN are_VBP shown_VBN in_IN Table_NNP XVII_NNP ._.
+78_CD ._.
+The_DT annual_JJ expenditure_NN connected_VBN with_IN the_DT working_NN of_IN the_DT Farm_NNP as_IN shown_VBN in_IN Table_NNP XVIII_NNP will_MD be_VB seen_VBN to_TO have_VB been_VBN Rs_NNP ._.
+1,06,366-7-8_JJ ;_: receipts_NNS Rs_NNP ._.
+86,857-14-3_JJ and_CC the_DT valuation_NN of_IN stock_NN ,_, fodder_NN ,_, machinery_NN ,_, etc._FW ,_, Rs_NNP ._.
+3,87,652-12-1_JJ ,_, against_IN expenditure_NN Rs_NNP ._.
+1,13,639-1-0_JJ ,_, receipts_JJ Rs_NNP ._.
+1,02,027-13-7_JJ and_CC valuation_NN of_IN stock_NN ,_, etc._NN ,_, Rs_NNP ._.
+3,65,690-7-1_JJ for_IN the_DT previous_JJ year_NN ._.
+The_DT decrease_NN in_IN expenditure_NN is_VBZ roughly_RB Rs_NNP ._.
+7,000_CD ._.
+The_DT receipts_NNS show_VBP a_DT falling_VBG off_IN of_IN Rs_NNP ._.
+15,000_CD mainly_RB due_JJ to_TO the_DT less_JJR number_NN of_IN animals_NNS sold_VBN ;_: the_DT valuation_NN of_IN stock_NN ,_, etc._NN ,_, has_VBZ however_RB increased_VBN by_IN nearly_RB Rs_NNP ._.
+22,000_CD ._.
+If_IN the_DT fact_NN that_IN a_DT large_JJ amount_NN of_IN the_DT stock_NN bred_VBD at_IN Hissar_NNP is_VBZ issued_VBN to_TO Government_NNP Departments_NNP at_IN prices_NNS very_RB far_RB below_IN that_DT obtainable_JJ from_IN pri-_JJ vate_NN purchasers_NNS or_CC in_IN the_DT open_JJ market_NN is_VBZ taken_VBN into_IN consideration_NN ,_, the_DT Farm_NN may_MD be_VB said_VBD to_TO be_VB practically_RB self-supporting_JJ ._.
+79_CD ._.
+Lieut.-Colonel_NNP Farmer_NNP has_VBZ as_RB usual_JJ worked_VBD hard_JJ and_CC afforded_JJ ample_JJ proof_NN of_IN his_PRP$ being_VBG particularly_RB well_RB suited_VBN to_TO fill_VB the_DT appointment_NN of_IN Superin-_NNP tendent_NN ._.
+Any_DT success_NN attained_VBN is_VBZ mainly_RB due_JJ to_TO his_PRP$ zeal_NN and_CC untiring_JJ super-_JJ vision_NN ._.
+He_PRP records_VBZ his_PRP$ appreciation_NN of_IN the_DT good_JJ work_NN performed_VBN by_IN his_PRP$ staff_NN more_RBR particularly_RB Lieut_NNP ._.
+R._NNP Morris_NNP ,_, Farm_NNP Overseer_NNP ,_, and_CC Mr._NNP E._NNP MacCutchan_NNP ,_, the_DT Farm_NNP Bailiff_NNP ._.
+14_CD 80_CD ._.
+There_EX is_VBZ little_JJ doubt_NN that_IN the_DT work_NN has_VBZ increased_VBN to_TO an_DT extent_NN that_IN the_DT Superintendent_NNP is_VBZ much_RB overworked_VBN ._.
+If_IN in_IN the_DT interests_NNS of_IN the_DT Farm_NNP alone_RB ,_, it_PRP would_MD seem_VB expedient_NN that_IN a_DT second_JJ officer_NN be_VB appointed_VBN permanently_RB to_TO be_VB trained_VBN under_IN Lieut.-Colonel_NNP Farmer_NNP who_WP stands_VBZ alone_RB in_IN his_PRP$ knowledge_NN and_CC experience_NN of_IN the_DT Hissar_NNP Farm_NNP ._.
+Should_MD any_DT circumstance_NN arise_NN necessi-_JJ tating_JJ Colonel_NNP Farmer_NNP relinquishing_VBG charge_NN of_IN the_DT farm_NN ,_, unless_IN there_EX is_VBZ an_DT officer_NN thoroughly_RB conversant_JJ with_IN the_DT various_JJ duties_NNS connected_VBN with_IN this_DT special_JJ charge_NN ready_JJ to_TO immediately_RB take_VB up_RP the_DT work_NN ,_, I_PRP fear_VBP it_PRP would_MD not_RB be_VB long_JJ before_IN neglect_NN of_IN this_DT precaution_NN was_VBD very_RB forcibly_RB impressed_JJ upon_IN us_PRP ._.
+Expenditure_NN of_IN the_DT Department_NNP ._.
+PART_NN C.15_NNP It_PRP certainly_RB can_MD not_RB be_VB done_VBN by_IN writing_VBG from_IN head-quarters_NNS ._.
+It_PRP is_VBZ rarely_RB in_IN Colleges_NNP that_IN opportunity_NN occurs_NNS of_IN affording_VBG pupils_JJ practical_JJ instruction_NN in_IN that_DT all-important_JJ work_NN dealing_VBG with_IN epidemics_NNS ,_, and_CC the_DT same_JJ remark_NN applies_NNS equally_RB to_TO the_DT local_JJ hospitals_NNS ._.
+It_PRP can_MD only_RB be_VB imparted_VBN in_IN the_DT villages_NNS ,_, graz-_JJ ing_NN grounds_NNS ,_, etc._FW ,_, while_IN epidemics_NNS are_VBP prevailing_VBG and_CC as_RB soon_RB as_IN possible_JJ after_IN the_DT outbreak_NN has_VBZ occurred_VBN ._.
+To_TO carry_VB out_RP such_JJ work_NN a_DT Superintendent_NNP must_MD be_VB willing_JJ and_CC free_JJ to_TO leave_VB his_PRP$ head-quarters_NNS at_IN any_DT time_NN ,_, and_CC himself_PRP super-_JJ vise_NN and_CC help_NN in_IN as_RB many_JJ outbreaks_NNS as_IN possible_JJ ._.
+When_WRB there_EX are_VBP no_DT epidemics_NNS Superintendents_NNS can_MD find_VB plenty_JJ to_TO do_VB in_IN looking_VBG after_IN the_DT work_NN of_IN Assistants_NNS and_CC instructing_VBG them_PRP how_WRB to_TO deal_VB with_IN outbreaks_NNS at_IN the_DT onset_NN ,_, before_IN their_PRP$ superiors_NNS can_MD arrive_VB ,_, and_CC when_WRB they_PRP must_MD necessarily_RB act_VB on_IN their_PRP$ own_JJ initia-_JJ tive_NN ._.
+G._NNP H._NNP EVANS_NNP ,_, Lieut.-Colonel_NNP ,_, Offg_NNP ._.
+Inspector-General_JJ ,_, Civil_NNP Veterinary_NNP Department_NNP ._.
+SIMLA_NNP ,_, The_DT 30th_CD September_NNP 1911_CD ._.
+17_CD TABLE_NN I_PRP ._.
+Showing_VBG the_DT main_JJ results_NNS of_IN Veterinary_NNP Colleges_NNP and_CC Schools_NNP during_IN 1910-1911_JJ ._.
+VETERINARY_NNP COLLEGES_NNP AND_NNP SCHOOLS_NNP ._.
+Name_NN of_IN course_NN of_IN instruction_NN if_IN more_JJR than_IN one_CD course_NN followed_VBD ._.
+NUMBER_NNP OF_NNP STUDENTS_NNP ._.
+STUDENTS_NNS ADMIT-_NNP TED_NNP DURING_NNP THE_NNP YEAR_NNP ,_, CLASSED_NNP BY_NNP EDUCATIONAL_NNP QUALIFICATIONS_NNP ._.
+RECEIPTS_NNP ._.
+EXPENDITURE_NNP ._.
+EMPLOYMENT_NNP OF_NNP STU-_NNP DENTS_NNP WHO_NNP PASSED_VBD OUT_NNP DURING_NNP THE_NNP THREE_NNP YEARS_NNP PRECEDING_NNP ._.
+ADMIT-_NNP TED_NNP DURING_NNP THE_NNP YEAR_NNP ._.
+Passed_VBN final_JJ examination_NN during_IN the_DT year_NN ._.
+Failed_VBN to_TO pass_VB final_JJ examination_NN ._.
+REMAINING_VBG UNDER_NNP IN-_JJ STRUCTION_NNP AT_NNP END_NNP OF_IN YEAR_NNP ._.
+Scholarship-_JJ holders_NNS ._.
+Others_NNS ._.
+In_IN ordinary_JJ course_NN ._.
+Instruction_NNP pro-_NN longed_VBN by_IN reason_NN of_IN failure_NN to_TO pass_NN ._.
+Matriculated_VBN with_IN higher_JJR qualifica-_JJ tions_NNS ._.
+Knowing_VBG some_DT English_JJ ,_, but_CC not_RB matriculated_VBN ._.
+Knowing_VBG no_DT Eng-_JJ lish_NN or_CC very_RB little_JJ English_NNP ._.
+From_IN fees_NNS ._.
+From_IN other_JJ sources_NNS ._.
+Total_NN ._.
+Salaries_NNS of_IN Instruct-_NNP ing_VBG Staff_NNP ._.
+Other_JJ expenses_NNS ._.
+Total_NN ._.
+Total_JJ number_NN passed_VBN ._.
+In_IN sorvice_NN of_IN Gov-_NNP ernment_NN or_CC Local_JJ Bodies_NNS ._.
+In_IN service_NN of_IN other_JJ bodies_NNS or_CC institu-_JJ tions_NNS ._.
+In_IN private_JJ practice_NN ._.
+Number_NNP unemploy-_JJ ed_NN ._.
+REMARKS_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD No_NN ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NNP P._NNP No_NNP ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+Punjab_NNP Veterinary_NNP Col-_NNP lege_NN ._.
+Diploma_NNP or_CC 3_CD years_NNS '_POS course_NN in_IN Urdu_NNP ._.
+(_( a_DT )_) 14_CD (_( b_NN )_) 46_CD (_( c_NN )_) 62_CD (_( d_NN )_) 23_CD 147_CD (_( e_NN )_) 57_CD 2_CD 23_CD 35_CD 7,184_CD 0_CD 0_CD 4,863_CD 0_CD 0_CD 12,047_CD 0_CD 0_CD 45,016_CD 0_CD 0_CD 29,433_CD 0_CD 0_CD 74,449_CD 0_CD 0_CD 199_CD 185_CD 13_CD 1_CD ..._: Bombay_NNP Veterinary_NNP Col-_NNP lege_NN ._.
+Ditto_NNP in_IN English_NNP ._.
+10_CD 14_CD 22_CD (_( f_NN )_) 19_CD 37_CD (_( g_NN )_) 24_CD (_( h_NN )_) 7_CD 17_CD ..._: 4,170_CD 0_CD 0_CD 4,717_CD 10_CD 0_CD 8,887_CD 10_CD 0_CD 29,647_CD 2_CD 4_CD 31,586_CD 1_CD 5_CD 61,233_CD 3_CD 9_CD 59_CD 15_CD 33_CD 9_CD 2_CD (_( i_NN )_) Burma_NNP ._.
+._.
+._.
+._.
+3_CD years_NNS '_POS Ver-_JJ nacular_NN ._.
+13_CD ..._: 14_CD 4_CD 26_CD 6_CD ..._: ..._: 13_CD ..._: ..._: ..._: 14,680_CD 0_CD 0_CD 8,781_CD 0_CD 0_CD 23,461_CD 0_CD 0_CD 32_CD 31_CD ..._: ..._: 1_CD Bengal_NNP Veterinary_NNP Col-_NNP lege_NN ._.
+3_CD years_NNS '_POS course_NN in_IN English_NNP ._.
+40_CD 12_CD 35_CD 11_CD 67_CD 19_CD 8_CD 44_CD ..._: (_( j_NN )_) 110_CD 0_CD 0_CD (_( k_NN )_) 25_CD 6_CD 0_CD 135_CD 6_CD 0_CD 41,119_CD 1_CD 4_CD 2,938_CD 2_CD 11_CD 44,057_CD 4_CD 3_CD 94_CD 77_CD (_( l_NN )_) 2_CD (_( m_NN )_) 6_CD 9_CD Madras_NNP Veterinary_NNP Col-_NNP lege_NN ._.
+Ditto_NNP ._.
+10_CD 9_CD 10_CD 8_CD 45_CD 13_CD 15_CD 4_CD ..._: 11,099_CD 14_CD 6_CD ..._: 11,099_CD 14_CD 6_CD 4,749_CD 0_CD 1_CD 3,290_CD 0_CD 0_CD 8,039_CD 0_CD 1_CD 46_CD 35_CD 8_CD 2_CD 1_CD TOTAL_NN ._.
+._.
+.._RB 87_CD 81_CD 143_CD 65_CD 322_CD 119_CD 32_CD 88_CD 48_CD 22,563_CD 14_CD 6_CD 9,606_CD 0_CD 0_CD 32,169_CD 14_CD 6_CD 1,35,211_CD 3_CD 9_CD 76,028_CD 4_CD 4_CD 2,11,239_CD 8_CD 1_CD 430_CD 343_CD 56_CD 18_CD 13_CD (_( a_DT )_) Admitted_VBN April_NNP 1910_CD ._.
+(_( b_NN )_) Military_JJ students_NNS and_CC others_NNS ._.
+(_( c_NN )_) 53_CD in_IN April_NNP 1911_CD ,_, 9_CD in_IN June_NNP 1960_CD in_IN one_CD subject_NN only_RB ._.
+(_( d_NN )_) 1_CD man_NN failed_VBD in_IN one_CD subject_NN only_RB (_( e_NN )_) Failed_VBD to_TO pass_VB the_DT annual_JJ examination_NN on_IN heald_NN in_IN April_NNP 1911_CD ..._: 55_CD :_: Absent_NN from_IN the_DT examination_NN ..._: ..._: 2_CD ._.
+(_( f_NN )_) Includes_VBZ one_CD shan_NN ._.
+(_( g_NN )_) 2_CD left_VBD (_( h_NN )_) 1_CD medically_RB unfit_JJ ,_, 4_CD left_VBD ,_, 1_CD dismissed_VBN ._.
+(_( i_NN )_) Died_VBD ._.
+(_( j_NN )_) From_IN plucked_JJ students_NNS ._.
+(_( k_NN )_) Fines_NNS of_IN students_NNS ._.
+(_( l_NN )_) British_NNP service_NN 33_CD ,_, District_NNP Boards_NNP 2_CD ._.
+(_( m_NN )_) Native_NNP States_NNPS 4_CD ,_, Foreign_NNP 1_CD ,_, not_RB known_VBN 3_CD ._.
+18_CD TABLE_NNP II_NNP ._.
+Showing_VBG number_NN of_IN Deaths_NNP from_IN Contagious_NNP Diseases_NNP amongst_JJ Animals_NNS during_IN the_DT year_NN 1910-1911_RB ._.
+PROVINCE_NNP ._.
+EQUINES_NNP ._.
+BOVINES_NNP ._.
+OTHERS_NNS ._.
+Glanders_NNS ._.
+Anthrax_NNP ._.
+Surra_NNP ._.
+Dourine_NNP ._.
+Other_JJ contagious_JJ diseases_NNS ._.
+Total_NN ._.
+Rinderpest_NNP ._.
+Foot_NN and_CC mouth_NN disease_NN ._.
+Hæmorrhagic_NNP septicæmia_NN ._.
+Black_NNP quarter_NN ._.
+Anthrax_NNP ._.
+Other_JJ contagious_JJ diseases_NNS ._.
+Total_NN ._.
+Rinderpest_NNP ._.
+Foot_NN and_CC mouth_NN ._.
+Hæmorrhagic_NNP septicæmia_NN ._.
+Black_NNP quarter_NN ._.
+Anthrax_NNP ._.
+Other_JJ contagious_JJ diseases_NNS ._.
+Surra_NNP ._.
+Distemper_NNP ._.
+Rabies_NNS ._.
+Fowl_NNP cholera_NN ._.
+Pleuro-Pneumonia_NNP Contagiosa_NNP ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD 26_CD Punjab_NNP ._.
+._.
+._.
+25_CD 2_CD 171_CD ..._: 27_CD 225_CD 49,154_CD 1,128_CD 17,432_CD 2,116_CD 19_CD 184_CD 70,033_CD 1,124_CD 249_CD 189_CD ..._: ..._: 2,876_CD ..._: ..._: ..._: ..._: ..._: 4,438_CD Eastern_JJ Bengal_NNP and_CC Assam_NNP ._.
+49_CD 27_CD 26_CD ..._: 38_CD 140_CD 19,137_CD 6,252_CD 6,095_CD 104_CD 2,342_CD 8,030_CD 41,960_CD 963_CD 75_CD 671_CD 5_CD 33_CD 224_CD ..._: 13_CD 25_CD ..._: ..._: 2,009_CD Burma_NNP ._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: (_( a_DT )_) 29,222_CD 6,096_CD ..._: (_( b_NN )_) 3,846_CD ..._: ..._: 39,164_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Bombay_NNP ._.
+._.
+._.
+._.
+6_CD ..._: 411_CD ..._: 3_CD 420_CD 2,249_CD 79_CD 3,292_CD 623_CD 752_CD 153_CD 7,148_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Baluchistan_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: (_( c_NN )_) 2,193_CD ..._: ..._: ..._: ..._: ..._: 2,193_CD Sind_NNP ._.
+._.
+._.
+._.
+..._: ..._: 32_CD ..._: ..._: 32_CD 1,504_CD 4_CD 307_CD 13_CD 2_CD 19_CD 1,849_CD ..._: ..._: ..._: ..._: ..._: 338_CD 2_CD 19_CD 19_CD ..._: 372_CD 750_CD Rajputana_NNP ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: 3_CD 3_CD 11_CD 178_CD 4_CD 64_CD ..._: 1_CD 258_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3_CD 3_CD ..._: ..._: 6_CD United_NNP Provinces_NNPS ._.
+._.
+15_CD 2_CD 76_CD ..._: (_( d_NN )_) 39_CD 132_CD 15,675_CD 4,734_CD 6,303_CD 2,030_CD 1,360_CD 160_CD 30,262_CD 181_CD 103_CD 117_CD ..._: 23_CD (_( a_DT )_) 2_CD ..._: ..._: ..._: ..._: 1,204_CD 1,630_CD Bengal_NNP ._.
+._.
+._.
+._.
+130_CD 5_CD 2_CD ..._: 289_CD 426_CD 11,687_CD 1,846_CD 6,000_CD 1,517_CD 470_CD 2,796_CD 24,316_CD ..._: ..._: ..._: ..._: ..._: (_( f_NN )_) 737_CD ..._: ..._: ..._: ..._: ..._: (_( f_NN )_) 737_CD North-West_JJ Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+._.
+._.
+4_CD ..._: 44_CD ..._: 1_CD 49_CD 1,543_CD 95_CD 1,863_CD 152_CD 4_CD 61_CD 3,718_CD 93_CD 470_CD 1,082_CD ..._: ..._: 1,947_CD 3_CD ..._: ..._: ..._: ..._: 3,595_CD Madras_NNP ._.
+._.
+._.
+._.
+..._: 10_CD ..._: ..._: ..._: 10_CD 24,435_CD 4,239_CD 6,731_CD 2,857_CD 11,374_CD 26,421_CD 76,057_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+229_CD 46_CD 762_CD ..._: 400_CD 1,437_CD 1,54,617_CD 24,651_CD 48,027_CD 13,322_CD 16,323_CD 37,825_CD 2,94,765_CD 2,361_CD 897_CD 2,059_CD 5_CD 56_CD 8,317_CD 5_CD 35_CD 47_CD ..._: 1,576_CD 15,358_CD (_( a_DT )_) There_EX is_VBZ no_DT system_NN of_IN registration_NN in_IN force_NN in_IN Burma_NNP Military_NNP Police_NNP register_VBD 40_CD deaths_NNS ,_, viz._NN ,_, Surra_NNP 34_CD ,_, Anthrax_NNP 2_CD ,_, Epizootic_NNP Lymphangitis_NNP 4_CD ._.
+(_( b_NN )_) These_DT diseases_NNS are_VBP not_RB differentiated_VBN by_IN villagers_NNS or_CC headmen_NNS ,_, but_CC are_VBP considered_VBN as_IN different_JJ manifestations_NNS of_IN Anthrax_NNP and_CC so_RB are_VBP included_VBN under_IN this_DT heading_NN ._.
+(_( c_NN )_) Small_NNP pox_NN 1735_CD ,_, Pleuro_NNP Pneumonia_NNP 410_CD ,_, other_JJ diseases_VBZ 48_CD ._.
+(_( d_NN )_) Tetanus_NNP 25_CD ,_, other_JJ diseases_VBZ 14_CD ._.
+(_( e_NN )_) Tetanus_VBZ 2_CD ._.
+(_( f_NN )_) Details_VBZ not_RB known_VBN ._.
+19_CD TABLE_NNP III_NNP ._.
+Showing_VBG results_NNS of_IN preventive_JJ inoculation_NN during_IN the_DT year_NN 1910-1911_RB ._.
+PROVINCE_NNP ._.
+Name_NN of_IN disease_NN against_IN which_WDT inoculation_NN was_VBD carried_VBN out_RP ._.
+Method_NNP of_IN inoculation_NN followed_VBD ._.
+Number_NNP of_IN outbreaks_NNS in_IN which_WDT inoculation_NN was_VBD undertaken_VBN ._.
+NUMBER_NNP OF_NNP ANI-_NNP MALS_NNP WHICH_NNP DIED_NNP UNINOCULATED_NNP IN_NNP COURSE_NNP OF_NNP OUTBREAK_NNP ._.
+NUMBER_NNP OF_NNP ANIMALS_NNP INOCULATED_NNP ._.
+NUMBER_NNP OF_NNP NIMALS_NNP WHICH_NNP DIED_NNP AFTER_NNP INOCULATION_NNP ._.
+REMARKS_NNP ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Others_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Others_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Others_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD Punjab_NNP ._.
+._.
+._.
+705_CD ..._: 15,536_CD 20_CD ..._: 1,02,593_CD 10_CD ..._: 300_CD ..._: Eastern_NNP Bengal_NNP and_CC Assam_NNP ._.
+Serum_NNP alone_RB ._.
+316_CD ..._: 7,048_CD 12_CD ..._: 33,375_CD 96_CD ..._: 282_CD ..._: Burma_NNP ._.
+._.
+._.
+._.
+Rinderpest_NNP ._.
+56_CD ..._: 796_CD ..._: ..._: 4,562_CD ..._: ..._: 35_CD ..._: Bombay_NNP ._.
+._.
+._.
+._.
+._.
+89_CD ..._: 983_CD 179_CD ..._: 8,096_CD 340_CD ..._: 19_CD ..._: Central_JJ Provinces_NNS ._.
+._.
+._.
+201_CD ..._: 2,976_CD ..._: ..._: 14,742_CD ..._: ..._: 37_CD ..._: Sind_NNP ._.
+._.
+._.
+._.
+._.
+24_CD ..._: 1,224_CD ..._: ..._: 2,751_CD 3_CD ..._: 6_CD ..._: United_NNP Provinces_NNPS ._.
+._.
+._.
+434_CD ..._: 5,101_CD 51_CD ..._: 41,602_CD 374_CD ..._: 59_CD ..._: Bengal_NNP ._.
+._.
+._.
+251_CD ..._: 2,284_CD ..._: ..._: 23,132_CD ..._: ..._: 61_CD ..._: North-West_NNP Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+57_CD ..._: 766_CD ..._: ..._: 16,790_CD ..._: ..._: 7_CD ..._: Madras_NNP ._.
+._.
+._.
+._.
+331_CD ..._: 5,538_CD 596_CD ..._: 21,080_CD 115_CD ..._: 92_CD ..._: TOTAL_NN ._.
+2,464_CD ..._: 42,252_CD 858_CD 2,68,723_CD 938_CD ..._: 898_CD ..._: As_IN furnished_VBN by_IN Imperial_NNP Bacteriologist_NNP ._.
+Hissar_NNP Cattle_NNP Farm_NNP ._.
+._.
+1_CD ..._: ..._: ..._: ..._: 263_CD ..._: ..._: ..._: ..._: Mysore_NNP State_NNP ._.
+._.
+._.
+24_CD ..._: 305_CD ..._: ..._: 2,624_CD ..._: ..._: ..._: ..._: Baroda_NNP State_NNP ._.
+._.
+._.
+3_CD ..._: 9_CD ..._: ..._: 843_CD ..._: ..._: ..._: ..._: Military_JJ Department_NNP ._.
+._.
+No_DT particulars_NNS furnished_VBD TOTAL_NNP ._.
+..._: ..._: 28_CD ..._: 314_CD ..._: ..._: 3,730_CD ..._: ..._: ..._: ..._: GRAND_NNP TOTAL_NNP ._.
+..._: ..._: 2,492_CD ..._: 42,566_CD 858_CD ..._: 2,72,453_CD 938_CD ..._: 898_CD ..._: Eastern_NNP Bengal_NNP and_CC Assam_NNP ._.
+Anthrax_NNP ._.
+Serum_NNP alone_RB 25_CD 16_CD 184_CD 2_CD 553_CD ..._: 2_CD 1_CD 8_CD ..._: Bengal_NNP ._.
+._.
+._.
+._.
+1_CD ..._: 1_CD ..._: ..._: 69_CD ..._: ..._: 1_CD ..._: TOTAL_NN ._.
+..._: ..._: 26_CD 16_CD 185_CD 2_CD 553_CD 2,832_CD 2_CD 1_CD 9_CD ..._: As_IN furnished_VBN by_IN Imperial_NNP Bacteriologist_NNP ._.
+Bombay_NNP ._.
+._.
+._.
+._.
+._.
+..._: ..._: 1_CD ..._: 8_CD ..._: ..._: 351_CD ..._: ..._: ..._: ..._: GRAND_NNP TOTAL_NNP ._.
+..._: ..._: 27_CD 16_CD 193_CD 2_CD 553_CD 3,183_CD 2_CD 1_CD 9_CD ..._: Punjab_NNP ._.
+._.
+._.
+._.
+Black_NNP quarter_NN ._.
+Vaccine_NN 12_CD ..._: ..._: ..._: ..._: 523_CD ..._: ..._: 3_CD ..._: Central_JJ Provinces_NNS ._.
+._.
+._.
+._.
+._.
+Black_NNP legoids_VBZ 10_CD ..._: 109_CD ..._: ..._: 734_CD ..._: ..._: 2_CD ..._: United_NNP Provinces_NNPS ._.
+._.
+Pillules_NNS 31_CD ..._: 375_CD ..._: ..._: 3,209_CD ..._: ..._: ..._: 1_CD Bengal_NNP ._.
+._.
+._.
+._.
+Vaccine_NN 15_CD ..._: 112_CD ..._: ..._: 2,692_CD ..._: ..._: 5_CD ..._: North-West_NNP Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+..._: 13_CD ..._: ..._: ..._: ..._: 2,814_CD ..._: ..._: 26_CD ..._: TOTAL_NN ._.
+..._: ..._: 81_CD ..._: 596_CD ..._: ..._: 9,972_CD ..._: ..._: 36_CD 1_CD Punjab_NNP ._.
+._.
+._.
+._.
+Hæm_NNP ._.
+Sept_NNP ._.
+Vaccine_NN 6_CD ..._: ..._: ..._: ..._: 598_CD ..._: ..._: ..._: ..._: Eastern_JJ Bengal_NNP and_CC Assam_NNP ._.
+Serum_NNP 3_CD ..._: 99_CD ..._: ..._: 176_CD ..._: ..._: ..._: ..._: Central_JJ Provinces_NNS ._.
+._.
+._.
+Vaccine_NN 1_CD ..._: 3_CD ..._: ..._: 15_CD ..._: ..._: 6_CD ..._: United_NNP Provinces_NNPS ._.
+._.
+._.
+20_CD TABLE_NNP IV_NNP ._.
+Showing_VBG the_DT number_NN of_IN Animals_NNP treated_VBD and_CC castrated_VBN by_IN Veterinary_NNP Assistants_NNS on_IN tour_NN during_IN 1910-1911_JJ ,_, PROVINCE_NNP ._.
+Number_NNP of_IN villages_NNS visited_VBN ._.
+Number_NNP of_IN Veteri-_NNP nary_JJ Assistants_NNS employed_VBN ._.
+CASTRATIONS_NNP PER-_NNP FORMED_NNP ._.
+TREATED_NNP FOR_NNP CONTAGIOUS_NNP DISEASES_NNP ._.
+TREATED_NN FOR_IN NON-_NNP CONTAGIOUS_NNP DISEASES_NNP ._.
+Total_JJ number_NN of_IN cases_NNS treated_VBN and_CC castrations_NNS per-_RB formed_VBN ._.
+REMARKS_NNP ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD Punjab_NNP ._.
+._.
+._.
+._.
+._.
+12,141_CD 130_CD 219_CD 388_CD 37_CD 644_CD 741_CD 46,107_CD 1,187_CD 48,035_CD 5,650_CD 16,848_CD 1,603_CD 24,101_CD 72,780_CD Eastern_JJ Bengal_NNP and_CC Assam_NNP ._.
+9,447_CD 45_CD 41_CD 24_CD 63_CD 128_CD 317_CD 29,789_CD 665_CD 30,771_CD 6,645_CD 48,701_CD 3,856_CD 59,202_CD 90,101_CD Burma_NNP ._.
+._.
+._.
+._.
+._.
+22,247_CD 120_CD ..._: 1_CD ..._: 1_CD 46_CD 55,838_CD 28_CD 55,912_CD 3,888_CD 38,098_CD 546_CD 42,532_CD (_( a_DT )_) 98,445_CD Bombay_NNP ._.
+._.
+._.
+._.
+1,535_CD 40_CD 6_CD 12_CD 1_CD 19_CD 21_CD 14,225_CD 551_CD 14,797_CD 603_CD 5,563_CD 434_CD 6,600_CD 21,416_CD Central_JJ Provinces_NNS ._.
+._.
+._.
+13,341_CD 53_CD 25_CD 158_CD 18_CD 201_CD ..._: 40,456_CD 202_CD 40,658_CD 1,969_CD 26,188_CD 690_CD 28,847_CD 69,706_CD Sind_NNP ._.
+._.
+._.
+322_CD 8_CD 2_CD ..._: ..._: 2_CD 27_CD 1,589_CD 254_CD 1,870_CD 672_CD 329_CD 709_CD 1,710_CD 3,582_CD Rajputana_NNP ._.
+._.
+._.
+._.
+297_CD 3_CD ..._: ..._: ..._: ..._: 2_CD 1,258_CD 77_CD 1,337_CD 47_CD 236_CD 60_CD 343_CD 1,680_CD United_NNP Provinces_NNPS ._.
+._.
+._.
+20,463_CD 81_CD 207_CD 49_CD 23_CD 279_CD 268_CD 73,179_CD 1,848_CD 75,295_CD 6,026_CD 12,982_CD 1,884_CD 20,892_CD 96,466_CD Bengal_NNP ._.
+._.
+._.
+._.
+._.
+13,737_CD 71_CD 70_CD 25_CD 73_CD 168_CD 139_CD 21,457_CD 176_CD 21,772_CD 6,123_CD 14,895_CD 2,229_CD 23,247_CD 45,187_CD North-West_JJ Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+1,369_CD 25_CD 166_CD 98_CD 119_CD 383_CD 30_CD 6,213_CD 1,274_CD 7,517_CD 920_CD 2,058_CD 902_CD 3,880_CD 11,780_CD Madras_NNS ._.
+._.
+._.
+._.
+._.
+..._: 38_CD 177_CD 175_CD 2_CD 354_CD ..._: 772_CD ..._: 772_CD 21_CD 2,608_CD 21_CD 2,650_CD 3,776_CD TOTAL_NN ._.
+94,899_CD 614_CD 913_CD 930_CD 336_CD 2,179_CD 1,591_CD 2,90,883_CD 6,262_CD 2,98,736_CD 32,564_CD 1,68,506_CD 12,934_CD 2,14,004_CD 5,14,919_CD (_( a_DT )_) Includes_VBZ also_RB cases_NNS treated_VBN by_IN Assistants_NNS on_IN special_JJ duty_NN and_CC Reserve_NNP Assistants_NNP ._.
+21_CD TABLE_NNP V._NNP Showing_NNP number_NN of_IN Animals_NNS treated_VBN at_IN Veterinary_NNP Hospitals_NNP and_CC Dispensaries_NNP during_IN the_DT year_NN 1910-1911_RB ._.
+PROVINES_NNP ._.
+Number_NNP of_IN Veterinary_NNP Dispensuries_NNP ._.
+Number_NNP of_IN Veterinary_NNP Assistants_NNP employed_VBD at_IN Dispensaries_NNP ._.
+IN-PATIENTS_JJ OUT-PATIENTS_NNP TOTAL_NNP NUMBER_NNP OF_NNP IN_NNP AND_NNP OUT-PATIENTS_NNP TREATED_NNP DURING_NNP THE_NNP YEAR_NNP ._.
+Receipts_NNS ._.
+Expenditure_NN ._.
+REMAINING_NN ON_CC 1ST_CD APRIL_NNP ._.
+ADMITTED_NNP DURING_NNP THE_NNP YEAR_NNP ._.
+TOTAL_NN ._.
+DISCHARGED_NNP DURING_NNP THE_NNP YEAR_NNP ._.
+BALANCE_NNP ON_NNP 31ST_CD MARCH_NNP ._.
+NUMBER_NNP TREATED_NNP DURING_NNP THE_NNP YEAR_NNP ._.
+AVERAGE_JJ DAILY_JJ ATTENDANCE_NNP ._.
+Equine_NNP Bovines_NNP ._.
+Other_JJ animals_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Other_JJ animals_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Other_JJ animals_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Other_JJ animals_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Other_JJ animals_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Other_JJ animals_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Other_JJ animals_NNS ._.
+Equines_NNS ._.
+Bovines_NNS ._.
+Other_JJ animals_NNS ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD 26_CD 27_CD 28_CD 29_CD 30_CD Punjab_NNP ._.
+._.
+102_CD 101_CD 94_CD 45_CD 19_CD 4,131_CD 2,609_CD 756_CD 4,225_CD 2,654_CD 775_CD 4,131_CD 2,617_CD 748_CD 94_CD 37_CD 27_CD 67,309_CD 116,712_CD 31,212_CD ..._: ..._: ..._: 71,440_CD 119,329_CD 31,960_CD 222,729_CD 2,13,507_CD 0_CD 0_CD 1,97,940_CD 0_CD 0_CD Eastern_JJ Bengal_NNP and_CC Assam_NNP ._.
+16_CD 16_CD 4_CD 21_CD ..._: 142_CD 323_CD 26_CD 146_CD 344_CD 26_CD 136_CD 334_CD 26_CD 10_CD 10_CD ..._: 3,010_CD 10,237_CD 2,689_CD ..._: ..._: ..._: 3,156_CD 10,581_CD 2,715_CD 16,452_CD 18,974_CD 7_CD 8_CD 17,955_CD 0_CD 11_CD Burma_NNP ._.
+._.
+(_( a_DT )_) 1_CD ..._: 3_CD (_( b_NN )_) ..._: (_( b_NN )_) ..._: 29_CD 21_CD 15_CD 32_CD 21_CD 15_CD 30_CD 20_CD 15_CD 2_CD 1_CD ..._: 127_CD 329_CD 217_CD .34_JJ .90_NNP .59_NNP 159_CD 350_CD 232_CD 741_CD ..._: 8,387_CD 0_CD 0_CD Bombay_NNP ._.
+._.
+40_CD 41_CD 46_CD 45_CD 3_CD 924_CD 1,162_CD 189_CD 970_CD 1,207_CD 192_CD 899_CD 1,148_CD 188_CD 71_CD 59_CD 4_CD 11,104_CD 52,915_CD 10,190_CD ..._: ..._: ..._: 12,074_CD 54,122_CD 10,382_CD 76,578_CD 47,684_CD 12_CD 3_CD 45,704_CD 10_CD 7_CD Central_NNP Provinces_NNPS 57_CD 55_CD 10_CD 11_CD 2_CD 273_CD 439_CD 58_CD 283_CD 450_CD 60_CD 268_CD 435_CD 56_CD 15_CD 15_CD 4_CD 12,606_CD 49,606_CD 9,473_CD 189.08_CD 555.51_CD 123.75_CD 12,889_CD 50,056_CD 9,533_CD 72,478_CD 31,456_CD 11_CD 10_CD 54,174_CD 6_CD 6_CD Sind_NNP ._.
+._.
+._.
+7_CD 8_CD 8_CD 14_CD 5_CD 480_CD 276_CD 197_CD 488_CD 290_CD 202_CD 468_CD 279_CD 201_CD 20_CD 11_CD 1_CD 4,401_CD 3,892_CD 3,130_CD ..._: ..._: ..._: 4,889_CD 4,182_CD 3,332_CD 12,403_CD 41,716_CD 9_CD 5_CD 31,803_CD 2_CD 8_CD Rajputana_NNP ._.
+._.
+2_CD 3_CD 1_CD ..._: 1_CD 67_CD 16_CD 42_CD 68_CD 16_CD 43_CD 62_CD 16_CD 43_CD 6_CD ..._: ..._: 638_CD 179_CD 501_CD ..._: ..._: ..._: 706_CD 195_CD 544_CD 1,445_CD 7,691_CD 15_CD 3_CD 3,003_CD 2_CD 9_CD United_NNP Provinces_NNPS 37_CD 37_CD 54_CD (_( b_NN )_) 13_CD (_( b_NN )_) 7_CD (_( b_NN )_) 1,953_CD 763_CD 458_CD 2,007_CD 776_CD 465_CD 1,937_CD 757_CD 455_CD 70_CD 19_CD 10_CD 13,426_CD 13,917_CD 9,845_CD 36.7_CD 38.1_CD 26.9_CD 15,433_CD 14,693_CD 10,310_CD 40,436_CD 52,678_CD 0_CD 0_CD 48,680_CD 0_CD 0_CD Bengal_NNP ._.
+._.
+26_CD 26_CD 98_CD 185_CD 16_CD 1,467_CD 2,630_CD 321_CD 1,565_CD 2,815_CD 337_CD 1,444_CD 2,629_CD 290_CD 121_CD 186_CD 47_CD 5,763_CD 9,887_CD 4,677_CD ..._: ..._: ..._: 7,328_CD 12,702_CD 5,014_CD 25,044_CD 47,330_CD 0_CD 0_CD 43,212_CD 0_CD 0_CD North-West_JJ Fron-_NNP tier_NN Provin-_NNP ce_NN and_CC North_NNP Punjab_NNP ._.
+19_CD 19_CD 32_CD 2_CD 11_CD 1,834_CD 358_CD 294_CD 1,866_CD 360_CD 305_CD 1,840_CD 357_CD 296_CD 26_CD 3_CD 9_CD 14,918_CD 16,741_CD 8,051_CD ..._: ..._: ..._: 16,752_CD 17,099_CD 8,351_CD 42,202_CD 19,920_CD 0_CD 0_CD 19,475_CD 0_CD 0_CD Madras_NNP Veteri-_NNP nary_JJ College_NNP ._.
+1_CD 1_CD 22_CD 18_CD 12_CD 454_CD 167_CD 398_CD 476_CD 185_CD 410_CD 450_CD 169_CD 392_CD 26_CD 16_CD 18_CD 312_CD 132_CD 630_CD 6.1_CD 1.7_CD 7.9_CD 788_CD 317_CD 1,040_CD 2,145_CD 11,099_CD 14_CD 6_CD 36,322_CD 10_CD 8_CD Madras_NNP Civil_NNP Veterinary_NNP De-_NNP partment_NN ._.
+19_CD 19_CD 26_CD 26_CD 27_CD 498_CD 521_CD 381_CD 524_CD 547_CD 408_CD 494_CD 515_CD 384_CD 30_CD 32_CD 24_CD 3,136_CD 9,253_CD 4,967_CD ..._: ..._: ..._: 3,660_CD 9,880_CD 5,375_CD 18,835_CD 17,505_CD 14_CD 9_CD 24,117_CD 10_CD 11_CD TOTAL_NN 327_CD 326_CD 398_CD (_( b_NN )_) 380_CD (_( c_NN )_) 103_CD 12,252_CD 9,285_CD 3,135_CD 12,650_CD 9,665_CD 3,238_CD 12,159_CD 9,276_CD 3,094_CD 491_CD 389_CD 144_CD 136,750_CD 283,800_CD 85,588_CD ..._: ..._: ..._: 149,274_CD 293,506_CD 88,788_CD 531,488_CD 509,565_CD 5_CD 8_CD 530,774_CD 12_CD 7_CD (_( a_DT )_) At_IN Insein_NNP ._.
+(_( b_NN )_) Correct_NN figures_NNS reported_VBD this_DT year_NN ._.
+22_CD TABLE_NNP VI_NNP ._.
+Abstract_JJ showing_VBG Receipts_NNP and_CC Expenditure_NNP of_IN Veterinary_NNP Dispensaries_NNP during_IN 1910-1911_JJ ._.
+PROVINCE_NNP ._.
+RECEIPTS_NNP ._.
+EXPENDITURE_NNP ._.
+Balance_NN ._.
+REMARKS_NNP ._.
+Last_JJ year_NN 's_POS balance_NN ._.
+By_IN Local_NNP Fund_NNP grants_NNS ._.
+By_IN Govern-_NNP ment_NN grants_NNS ._.
+By_IN Municipal_NNP contribu-_JJ tion_NN ._.
+By_IN fees_NNS ._.
+By_IN other_JJ sources_NNS ._.
+Total_NN ._.
+Pay_NN ._.
+Travelling_VBG allowances_NNS ._.
+Medicines_NNS ,_, instruments_NNS ,_, etc_FW ._.
+Furnitur_NNP ,_, etc_NN ._.
+Contin-_JJ gencies_NNS ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A_DT P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Punjab_NNP ._.
+._.
+..._: 43,821_CD 0_CD 0_CD 1,46,289_CD 0_CD 0_CD 1,622_CD 0_CD 0_CD 13,875_CD 0_CD 0_CD 7,900_CD 0_CD 0_CD 2,13,507_CD 0_CD 0_CD 63,749_CD 0_CD 0_CD 6,579_CD 0_CD 0_CD 23,221_CD 0_CD 0_CD 2,556_CD 0_CD 0_CD 1,01,835_CD 0_CD 0_CD 1,97,940_CD 0_CD 0_CD ..._: Eastern_NNP Bengal_NNP and_CC Assam_NNP ._.
+923_CD 7_CD 2_CD 12,485_CD 13_CD 4_CD 2,706_CD 0_CD 6_CD 2,095_CD 6_CD 5_CD 659_CD 13_CD 9_CD 103_CD 14_CD 6_CD 18,974_CD 7_CD 8_CD 8,364_CD 9_CD 4_CD 2,600_CD 4_CD 8_CD 2,169_CD 13_CD 3_CD 252_CD 13_CD 0_CD 4,567_CD 8_CD 8_CD 17,955_CD 0_CD 11_CD 1,019_CD 6_CD 9_CD Burma_NNP ._.
+._.
+._.
+.._NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: (_( a_DT )_) 8,387_CD 0_CD 0_CD ..._: ..._: 8,387_CD 0_CD 0_CD ..._: Bombay_NNP ._.
+._.
+(_( b_NN )_) 41,773_CD 5_CD 8_CD 20,583_CD 10_CD 4_CD 16,333_CD 5_CD 4_CD 4,392_CD 6_CD 8_CD 3,728_CD 7_CD 3_CD 2,646_CD 14_CD 8_CD 89,458_CD 1_CD 11_CD 12,050_CD 15_CD 2_CD 852_CD 13_CD 0_CD 14,002_CD 1_CD 4_CD 2,190_CD 3_CD 5_CD 16,608_CD 9_CD 8_CD 45,704_CD 10_CD 7_CD 43,753_CD 7_CD 4_CD Central_JJ Provinces_NNPS .._NN ._.
+17,531_CD 9_CD 6_CD 3,772_CD 10_CD 6_CD 8,629_CD 11_CD 8_CD 1,024_CD 6_CD 6_CD 498_CD 5_CD 8_CD 31,456_CD 11_CD 10_CD 27,063_CD 5_CD 1_CD 3,923_CD 8_CD 11_CD 11,955_CD 12_CD 7_CD 936_CD 11_CD 5_CD 10,295_CD 0_CD 6_CD 54,174_CD 6_CD 6_CD ..._: Baluchistan_NNP ._.
+._.
+..._: ..._: 3,197_CD 12_CD 0_CD ..._: ..._: ..._: 3,197_CD 12_CD 0_CD ..._: ..._: 1,797_CD 12_CD 0_CD 400_CD 0_CD 0_CD 1,000_CD 0_CD 0_CD 3,197_CD 12_CD 0_CD ..._: Sind_NNP ._.
+._.
+._.
+15,230_CD 2_CD 3_CD 12,643_CD 0_CD 0_CD 5,638_CD 0_CD 9_CD 3,690_CD 0_CD 0_CD 4,480_CD 2_CD 0_CD 35_CD 4_CD 5_CD 41,716_CD 9_CD 5_CD 15,983_CD 9_CD 2_CD 1,986_CD 9_CD 9_CD 5,841_CD 12_CD 8_CD 5_CD 0_CD 0_CD 7,986_CD 3_CD 1_CD 31,803_CD 2_CD 8_CD 9,913_CD 6_CD 9_CD Rajputana_NNP ._.
+._.
+(_( c_NN )_) 3,338_CD 0_CD 9_CD 640_CD 0_CD 0_CD 900_CD 0_CD 0_CD 1,542_CD 14_CD 10_CD 934_CD 15_CD 8_CD 336_CD 0_CD 0_CD 7,691_CD 15_CD 3_CD 2,194_CD 12_CD 11_CD 2_CD 1_CD 0_CD 646_CD 6_CD 0_CD ..._: 159_CD 14_CD 10_CD 3,003_CD 2_CD 9_CD 4,688_CD 12_CD 6_CD United_NNP Provinces_NNPS ._.
+2,691_CD 0_CD 0_CD 41,606_CD 0_CD 0_CD 1,370_CD 0_CD 0_CD 3,833_CD 0_CD 0_CD 1,706_CD 0_CD 0_CD 1,472_CD 0_CD 0_CD 52,678_CD 0_CD 0_CD 32,264_CD 0_CD 0_CD 2,769_CD 0_CD 0_CD 8,410_CD 0_CD 0_CD 492_CD 0_CD 0_CD 4,745_CD 0_CD 0_CD 48,680_CD 0_CD 0_CD ..._: Bengal_NNP ._.
+._.
+._.
+._.
+(_( c_NN )_) 1,214_CD 0_CD 0_CD 23,730_CD 0_CD 0_CD 4,843_CD 0_CD 0_CD 4,597_CD 0_CD 0_CD 4,108_CD 0_CD 0_CD 8,838_CD 0_CD 0_CD 47,330_CD 0_CD 0_CD 19,883_CD 0_CD 0_CD 4,154_CD 0_CD 0_CD 9,855_CD 0_CD 0_CD 2,698_CD 0_CD 0_CD 6,622_CD 0_CD 0_CD 43,212_CD 0_CD 0_CD 41,118_CD 0_CD 0_CD North-West_JJ Fron-_NNP tier_NN Province_NNP and_CC North_NNP Pun-_NNP jab_NN ._.
+..._: 8,754_CD 0_CD 0_CD 9,743_CD 0_CD 0_CD 1,421_CD 0_CD 0_CD ..._: 2_CD 0_CD 0_CD 19,920_CD 0_CD 0_CD 12,105_CD 0_CD 0_CD 1,060_CD 0_CD 0_CD 4,601_CD 0_CD 0_CD 312_CD 0_CD 0_CD 1,397_CD 0_CD 0_CD 19,475_CD 0_CD 0_CD ..._: Madras_NNP ._.
+._.
+..._: 11,942_CD 1_CD 10_CD 560_CD 0_CD 0_CD 1,508_CD 0_CD 0_CD 14,129_CD 13_CD 0_CD 2,306_CD 11_CD 9_CD 30,446_CD 10_CD 7_CD 40,241_CD 0_CD 2_CD 1,129_CD 5_CD 3_CD 11,776_CD 3_CD 4_CD 1,162_CD 12_CD 0_CD 15,608_CD 12_CD 11_CD 69,918_CD 1_CD 8_CD ..._: TOTAL_NN ._.
+65,169_CD 15_CD 10_CD 1,93,737_CD 3_CD 0_CD 1,95,352_CD 13_CD 1_CD 33,331_CD 7_CD 7_CD 44,646_CD 10_CD 2_CD 24,139_CD 3_CD 0_CD 5,56,377_CD 4_CD 8_CD 2,33,899_CD 3_CD 10_CD 25,056_CD 10_CD 7_CD 1,02,663_CD 13_CD 2_CD 11,005_CD 7_CD 10_CD 1,70,825_CD 1_CD 8_CD 5,43,450_CD 5_CD 1_CD 1,00,493_CD 1_CD 4_CD (_( a_DT )_) Includes_VBZ cost_NN of_IN drugs_NNS ,_, etc._NN ,_, supplied_VBD to_TO Veterinary_NNP Assistants_NNP and_CC Inspectors_NNPS in_IN the_DT districts_NNS ._.
+(_( b_NN )_) These_DT figures_NNS differ_VBP from_IN the_DT closing_NN balance_NN for_IN the_DT year_NN 1909-10_RB as_IN they_PRP have_VBP been_VBN subsequently_RB corrected_VBN ._.
+23_CD TABLE_NNP VII_NNP ._.
+Showing_VBG total_JJ strength_NN of_IN Subordinates_NNP Veterinary_NNP Staff_NNP employed_VBD during_IN the_DT year_NN 1910-1911_RB ._.
+PROVINCE_NNP ._.
+How_WRB occupied_JJ ._.
+Whether_NNP paid_VBD from_IN Provincial_NNP or_CC Local_JJ Funds_NNS ._.
+Veterinary_JJ Inspectors_NNS ._.
+Veterinary_JJ Assistants_NNS ._.
+Subordinate_NNP Teaching_NNP Staff_NNP ._.
+REMARKS_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD No_NN ._.
+No_DT ._.
+Punjab_NNP ._.
+._.
+._.
+In_IN Schools_NNP and_CC Colleges_NNP ._.
+..._: ..._: ..._: (_( o_PRP )_) 6_CD (_( a_DT )_) 29_CD Itinerating_VBG Veterinary_JJ Assistants_NNS ._.
+In_IN Dispensaries_NNP ._.
+._.
+._.
+..._: ..._: 101_CD (_( k_NN )_) 3_CD On_IN other_JJ work_NN ._.
+._.
+..._: 12_CD (_( a_DT )_) 43_CD ..._: Eastern_NNP Bengal_NNP and_CC Assam_NNP ._.
+Inspectors_NNS ._.
+._.
+._.
+Provincial_NNP ._.
+._.
+4_CD ..._: ..._: 5_CD Office_NNP Veterinary_NNP Assis-_NNP tants_NNS ._.
+Itinerating_VBG ._.
+._.
+._.
+Do_NNP ._.
+._.
+._.
+..._: 2_CD ..._: Itinerating_NNP and_CC reserve_NN ._.
+Do_NNP ._.
+._.
+._.
+..._: 1_CD ..._: 2_CD Tonga_NNP Line_NNP ._.
+Itinerating_VBG ._.
+._.
+._.
+Provincial_NNP and_CC Local_NNP ..._: 32_CD ..._: 7_CD Reserve_NNP ._.
+In_IN charge_NN Hospital_NNP ._.
+._.
+Do_NNP ._.
+._.
+._.
+..._: 1_CD ..._: 24_CD TABLE_NNP VIII_NNP ._.
+Return_NN of_IN Stud_NNP Bulls_NNP for_IN the_DT year_NN 1910-1911_RB ._.
+PROVINCE_NNP ._.
+PROPERTY_NN OF_JJ GOVERNMENT_NNP ._.
+PROPERTY_NN OF_NNP LOCAL_NNP BOARDS_NNP ._.
+REMARKS_NNP ._.
+Number_NNP on_IN 1st_CD April_NNP 1910_CD ._.
+OBTAINED_NNP DURING_NNP THE_NNP YEAR_NNP ._.
+Casualties_NNS during_IN the_DT year_NN ._.
+Balance_NNP remaining_VBG on_IN 31st_CD March_NNP 1911_CD ._.
+Number_NNP on_IN 1st_CD April_NNP 1910_CD ._.
+OBTAINED_NNP DURING_NNP THE_NNP YEAR_NNP ._.
+Casualties_NNS during_IN the_DT year_NN ._.
+Balance_NNP re-_JJ maining_NN on_IN 31st_CD March_NNP 1911_CD ._.
+Number_NNP ._.
+Average_JJ price_NN paid_NN ._.
+Number_NNP ._.
+Average_JJ price_NN paid_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: 472_CD 76_CD ..._: 63_CD 485_CD Eastern_JJ Bengal_NNP and_CC Assam_NNP ._.
+._.
+16_CD ..._: ..._: 3_CD 13_CD 38_CD 25_CD ..._: 3_CD 60_CD Bombay_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: 31_CD 11_CD ..._: 2_CD 40_CD Central_JJ Provinces_NNS ._.
+._.
+._.
+._.
+._.
+7_CD 1_CD ..._: 3_CD 5_CD ..._: ..._: ..._: ..._: ..._: Rajputana_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: 2_CD ..._: ..._: ..._: 2_CD United_NNP Provinces_NNPS ._.
+._.
+._.
+._.
+._.
+6_CD ..._: ..._: ..._: 6_CD 44_CD 4_CD 94_CD ..._: 48_CD Bengal_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+(_( a_DT )_) 15_CD 2_CD ..._: 2_CD 15_CD 23_CD 6_CD ..._: ..._: 29_CD North-West_JJ Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+2_CD ..._: ..._: 1_CD 1_CD 17_CD 3_CD ..._: 4_CD 16_CD Madras_NNS ._.
+._.
+._.
+._.
+._.
+._.
+._.
+17_CD 2_CD 212_CD 8_CD 0_CD 1_CD 18_CD ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+._.
+(_( a_DT )_) 63_CD 5_CD ..._: 10_CD 58_CD 627_CD 125_CD ..._: 72_CD 680_CD (_( a_DT )_) Correct_NN figures_NNS reported_VBD this_DT year_NN ._.
+25_CD TABLE_NNP IX_NNP ._.
+Showing_VBG main_JJ results_NNS of_IN the_DT working_NN of_IN Provincial_NNP Cattle_NNP Farms_NNP during_IN the_DT year_NN 1910-1911_RB ._.
+PROVINCE_NNP ._.
+Name_NN of_IN farm_NN ._.
+RECEIPTS_NNP ._.
+EXPENDITURE_NNP ._.
+VALUATION_NN OF_IN STOCK_NNP ,_, GRAIN_NNP AND_NNP FODDER_NNP REMAIN-_NNP ING_NNP AT_NNP CLOSE_NNP OF_NNP YEAR_NN AS_NNP DETAILED_NNP ON_NNP REVERSE_NNP ._.
+Sale_NNP of_IN animals_NNS ._.
+Sale_NN of_IN Produce_NNP ._.
+Other_JJ heads_NNS ._.
+Total_NN ._.
+Salaries_NNS of_IN establish-_JJ ment_NN ._.
+Feed_NN and_CC keep_NN of_IN animals_NNS ._.
+Cultivation_NN expenses_NNS ._.
+Purchase_NN of_IN animals_NNS ._.
+Other_JJ heads_NNS ._.
+Total_NN ._.
+Cattle_NNP ._.
+Grain_NN ._.
+Fodder_NN ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Punjab_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Eastern_JJ Bengal_NNP and_CC Assam_NNP ._.
+Upper_NNP Shillong_NNP Farm_NNP ._.
+654_CD 2_CD 0_CD 533_CD 9_CD 0_CD 8_CD 0_CD 0_CD 1,195_CD 11_CD 0_CD 1,366_CD 0_CD 6_CD 1,993_CD 7_CD 6_CD 355_CD 8_CD 9_CD 1,298_CD 6_CD 6_CD ..._: 5,013_CD 7_CD 3_CD 4,640_CD 0_CD 0_CD 41_CD 14_CD 8_CD 72_CD 8_CD 0_CD 4,754_CD 6_CD 8_CD Bombay_NNP ._.
+._.
+Northcote_NNP Cattle_NNP Farm_NNP ,_, Chharodi_NNP ._.
+1,768_CD 0_CD 0_CD 1,069_CD 12_CD 0_CD 8,758_CD 3_CD 4_CD 11,595_CD 15_CD 4_CD 4,602_CD 15_CD 6_CD 6,124_CD 4_CD 1_CD 2,669_CD 11_CD 3_CD 702_CD 0_CD 0_CD 7,462_CD 15_CD 3_CD 21,561_CD 14_CD 1_CD 24,135_CD 0_CD 0_CD 270_CD 15_CD 3_CD 8,831_CD 9_CD 7_CD 33,237_CD 8_CD 10_CD Central_JJ Provinces_NNS ._.
+Power_NNP Khera_NNP ._.
+564_CD 0_CD 0_CD 219_CD 12_CD 0_CD ..._: 783_CD 12_CD 0_CD 269_CD 10_CD 4_CD 1,368_CD 10_CD 4_CD ..._: ..._: 523_CD 11_CD 0_CD 2,161_CD 15_CD 8_CD 1,645_CD 0_CD 0_CD 970_CD 14_CD 0_CD 324_CD 14_CD 6_CD 2,940_CD 12_CD 6_CD Telin_NNP Kheri_NNP ._.
+4,535_CD 0_CD 0_CD 1,024_CD 0_CD 0_CD ..._: 5,559_CD 0_CD 0_CD 559_CD 0_CD 0_CD 3,068_CD 0_CD 0_CD ..._: ..._: 113_CD 0_CD 0_CD 3,740_CD 0_CD 0_CD 5,020_CD 0_CD 0_CD 923_CD 0_CD 0_CD 2,614_CD 0_CD 0_CD 8,557_CD 0_CD 0_CD United_NNP Provinces_NNPS ._.
+._.
+Manjra_NNP Bull-_NNP rearing_NN Farm_NN ..._: 280_CD 0_CD 0_CD ..._: 280_CD 0_CD 0_CD 57_CD 0_CD 0_CD 573_CD 0_CD 0_CD 344_CD 0_CD 0_CD 2,872_CD 0_CD 0_CD 3,950_CD 0_CD 0_CD 7,796_CD 0_CD 0_CD 3,936_CD 0_CD 0_CD 98_CD 0_CD 0_CD 313_CD 0_CD 0_CD 3,347_CD 0_CD 0_CD Bengal_NNP ._.
+._.
+._.
+Bethia_NNP ._.
+._.
+..._: ..._: ..._: ..._: 375_CD 0_CD 0_CD 2,123_CD 0_CD 0_CD 118_CD 0_CD 0_CD ..._: ..._: 2,616_CD 0_CD 0_CD 2,330_CD 0_CD 0_CD 100_CD 0_CD 0_CD 30_CD 0_CD 0_CD 2,460_CD 0_CD 0_CD Siripur_NNP ._.
+._.
+517_CD 0_CD 0_CD ..._: 250_CD 0_CD 0_CD 767_CD 0_CD 0_CD 503_CD 0_CD 0_CD 8,112_CD 0_CD 0_CD ..._: 60_CD 0_CD 0_CD 1,321_CD 0_CD 0_CD 9,995_CD 0_CD 0_CD 12,675_CD 0_CD 0_CD ..._: ..._: 12,675_CD 0_CD 0_CD TOTAL_NN ._.
+..._: ..._: 8,038_CD 2_CD 0_CD 3,127_CD 1_CD 0_CD 9,016_CD 3_CD 4_CD 20,181_CD 6_CD 4_CD 7,731_CD 10_CD 4_CD 23,362_CD 5_CD 11_CD 3,487_CD 4_CD 0_CD 4,932_CD 6_CD 6_CD 13,370_CD 10_CD 3_CD 52,884_CD 5_CD 0_CD 53,381_CD 0_CD 0_CD 2,404_CD 11_CD 11_CD 12,186_CD 0_CD 1_CD 67,971_CD 12_CD 0_CD 26_CD Valuation_NNP Statement_NNP of_IN Cattle_NNP ,_, Grain_NNP and_CC Fodder_NNP in_IN hand_NN at_IN close_NN of_IN the_DT year_NN 1911_CD ._.
+NUMBER_NNP OR_NNP QUANTITY_NNP ._.
+Description_NN ._.
+Rate_NN ._.
+Value_NNP ._.
+REMARKS_NNP ._.
+No_DT ._.
+Quantity_NN ._.
+UPPER_NNP SHILLONG_NNP FARM_NNP Rs_NNP ._.
+Rs_NNP ._.
+Cattle_NNP ._.
+10_CD ..._: Bulls_NNP ._.
+._.
+._.
+._.
+._.
+._.
+100_CD 1,000_CD 24_CD ..._:
+Cows_NNS ._.
+._.
+._.
+._.
+._.
+._.
+100_CD 2,400_CD 9_CD ..._:
+Male_JJ Stock_NNP ,_, 2_CD years_NNS old_JJ and_CC above_JJ ._.
+20_CD 180_CD 14_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+15_CD 210_CD 7_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+10_CD 70_CD 4_CD ..._:
+Female_NNP Stock_NNP ,_, 2_CD years_NNS old_JJ and_CC above_JJ 40_CD 160_CD 5_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+30_CD 150_CD 7_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+._.
+10_CD 70_CD 8_CD ..._: Bullocks_NNP ._.
+._.
+._.
+._.
+._.
+50_CD 400_CD 88_CD ..._: TOTAL_NN ._.
+..._: 4,640_CD Grain_NNP and_CC Fodder_NNP ._.
+Mds_NNP ._.
+s._JJ c._NN Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP 4_CD 34_CD 0_CD Oilcake_NNP ._.
+._.
+._.
+._.
+._.
+2_CD 14_CD 0_CD 13_CD 15_CD 1_CD 5_CD 11_CD 4_CD Matikalai_NNP ._.
+._.
+._.
+._.
+._.
+3_CD 15_CD 0_CD 20_CD 2_CD 0_CD 1_CD 18_CD 0_CD Rice_NNP ._.
+._.
+._.
+._.
+._.
+._.
+5_CD 0_CD 0_CD 7_CD 4_CD 0_CD 0_CD 6_CD 0_CD Salt_NNP ._.
+._.
+._.
+._.
+._.
+._.
+4_CD 0_CD 0_CD 0_CD 9_CD 7_CD 100_CD 0_CD 0_CD Silage_NN ._.
+._.
+._.
+._.
+._.
+._.
+0_CD 8_CD 0_CD 50_CD 0_CD 0_CD 30_CD 0_CD 0_CD Hay_NNP ._.
+._.
+._.
+._.
+._.
+._.
+0_CD 12_CD 0_CD 22_CD 8_CD 0_CD TOTAL_NN ._.
+..._: 114_CD 6_CD 8_CD GRAND_NNP TOTAL_NNP ._.
+..._: 4,754_CD 6_CD 8_CD NORTHCOTE_NNP CATTLE_NNP FARM_NNP ,_, CHHARODI_NNP ._.
+Cattle_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+1_CD ..._: Bull_NNP ._.
+._.
+._.
+._.
+._.
+._.
+300_CD 300_CD 3_CD ..._: Bulls_NNP ._.
+._.
+._.
+._.
+._.
+._.
+250_CD 750_CD 198_CD ..._:
+Cows_NNS ._.
+._.
+._.
+._.
+._.
+._.
+60_CD 11,880_CD 34_CD ..._: Heifers_NNP ,_, 2_CD years_NNS old_JJ ._.
+._.
+._.
+30_CD 1,020_CD 27_CD ..._: Ditto_NNP yearlings_NNS ._.
+._.
+._.
+20_CD 540_CD 8_CD ..._: Cow_NNP calves_NNS ._.
+._.
+._.
+._.
+._.
+10_CD 280_CD 9_CD ..._: Bulls_NNP 2½_CD years_NNS old_JJ ._.
+._.
+._.
+125_CD 1,125_CD 30_CD ..._: Bulls_NNP 1½_CD years_NNS old_JJ ._.
+._.
+._.
+100_CD 3,000_CD 30_CD ..._: Bulls_NNP ,_, yearlings_NNS ._.
+._.
+._.
+._.
+75_CD 2,250_CD 3_CD ..._: Bullocks_NNP 2_CD years_NNS old_JJ ._.
+._.
+._.
+100_CD 300_CD 26_CD ..._: Bull_NNP calves_NNS ._.
+._.
+._.
+._.
+40_CD 1,040_CD 11_CD ..._: Bullocks_NNP ._.
+._.
+._.
+._.
+._.
+150_CD 1,650_CD 400_CD ..._: Total_JJ cattle_NNS ._.
+..._: 24,135_CD 27_CD Valuation_NNP Statement_NNP of_IN Cattle_NNP ,_, Grain_NNP and_CC Fodder_NNP in_IN hand_NN at_IN close_NN of_IN the_DT year_NN 1910-11_CD ._.
+NUMBEROR_NNP QUANTITY_NNP ._.
+Description_NN ._.
+Rate_NN ._.
+Value_NNP ._.
+REMARKS_NNP ._.
+No_DT ._.
+Quantity_NN ._.
+Mds_NNP ._.
+Srs_NNP ._.
+Grain_NN and_CC Fodder_NNP ._.
+Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP 8_CD 0_CD Guvar_NNP crushed_VBD ._.
+._.
+._.
+._.
+1_CD 6_CD 0_CD 11_CD 0_CD 0_CD per_IN maund_NN ._.
+6_CD 27_CD Gram_NNP crushed_VBD ._.
+._.
+._.
+._.
+1_CD 10_CD 0_CD 10_CD 13_CD 6_CD per_IN maund_NN ._.
+1_CD 6_CD Bran_NNP ._.
+._.
+._.
+._.
+._.
+._.
+1_CD 6_CD 0_CD 1_CD 9_CD 3_CD per_IN maund_NN ._.
+17_CD 20_CD Oilcake_NNP ._.
+._.
+._.
+._.
+._.
+1_CD 11_CD 0_CD 29_CD 8_CD 6_CD 109_CD 0_CD Jowari_NNP for_IN seed_NN ._.
+._.
+._.
+._.
+2_CD 0_CD 0_CD 218_CD 0_CD 0_CD lbs_NN ._.
+1,338,600_CD Hay_NNP ._.
+._.
+._.
+._.
+._.
+._.
+6_CD Rs_NNP ._.
+per_IN 1,000_CD lbs_NN ._.
+8,031_CD 9_CD 7_CD 16,000_CD Jowari_NNP Kirby_NNP ._.
+._.
+._.
+._.
+5_CD Rs_NNP ._.
+per_IN 100_CD bundles_NNS ._.
+800_CD 0_CD 0_CD TOTAL_NN GRAIN_NNP ._.
+..._: 9,102_CD 8_CD 10_CD GRAND_NNP TOTAL_NNP ..._: 33,237_CD 8_CD 10_CD CATTLE_NNP BREEDING_NNP FARM_NNP ,_, PWAR_NNP KHERA_NNP ._.
+Cattle_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+4_CD ..._: Bulls_NNP ._.
+._.
+._.
+._.
+._.
+._.
+75_CD 300_CD 20_CD ..._:
+Cows_NNS ._.
+._.
+._.
+._.
+._.
+._.
+30_CD 600_CD 6_CD ..._:
+Male_JJ stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+._.
+50_CD 300_CD 9_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+._.
+20_CD 180_CD 7_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+10_CD 70_CD 2_CD ..._:
+Female_NNP stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+15_CD 30_CD 12_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+10_CD 120_CD 9_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+5_CD 45_CD 69_CD ..._: TOTAL_NN ._.
+..._: 1,645_CD Mds_NNP ._.
+Srs_NNP ._.
+Grain_NN and_CC Fodder_NNP ._.
+Rs_NNP ._.
+A._NN P._NNP 388_CD 14_CD Gram_NNP ._.
+._.
+._.
+._.
+._.
+._.
+16_CD Seers_NNS ._.
+970_CD 14_CD 0_CD 324,900_CD Hay_NNP ._.
+._.
+._.
+._.
+._.
+._.
+1,000_CD Poolas_NNP ._.
+324_CD 14_CD 6_CD Kirby_NNP ,_, etc_NN ._.
+._.
+._.
+._.
+._.
+..._: ..._: TOTAL_NNP ._.
+..._: 1,295_CD 12_CD 6_CD GRAND_NNP TOTAL_NNP ._.
+..._: 2,940_CD 12_CD 6_CD 28_CD Valuation_NNP Statement_NNP of_IN Cattl_NNP ,_, Grain_NNP and_CC Fodder_NNP in_IN hand_NN at_IN close_NN of_IN the_DT year_NN 1910-11_CD ._.
+NUMBER_NNP OR_NNP QUANTITY_NNP Description_NNP ._.
+Rate_NN ._.
+Value_NNP ._.
+REMARKS_NNP ._.
+No_DT ._.
+Quantity_NN ._.
+CATTLE_NNP BREEDING_NNP TELIN-_NNP KHERI_NNP ._.
+Cattle_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+1_CD ..._: Bull_NNP ._.
+._.
+._.
+._.
+._.
+._.
+80_CD 80_CD 40_CD ..._:
+Cows_NNS ._.
+._.
+._.
+._.
+._.
+._.
+50_CD 2,000_CD 15_CD ..._:
+Male_JJ stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+._.
+._.
+..._: 1,500_CD 8_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+._.
+50_CD 400_CD 13_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+25_CD 325_CD 11_CD ..._:
+Female_NNP stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+..._: 375_CD 8_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+20_CD 160_CD 12_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+15_CD 180_CD 108_CD ..._: TOTAL_NN ._.
+..._: 5,020_CD Grain_NNP and_CC Fodder_NNP ._.
+Concentrated_VBN food_NN ._.
+._.
+._.
+..._: 923_CD 1,307,250_CD Hay_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: 2,614_CD Kirby_NNP ,_, etc_NN ._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: 1,307,250_CD TOTAL_NN ._.
+..._: 3,537_CD GRAND_NNP TOTAL_NNP ._.
+..._: 8,557_CD MANJRA_NNP BULL-REARING_NNP FARM_NNP ,_, UNITED_NNP PROVINCES_NNP ._.
+Cattle_NNP ,_, Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+2_CD ..._:
+Working_VBG bullocks_NNS ._.
+._.
+._.
+75_CD 0_CD 0_CD each_DT 150_CD 2_CD ..._: Ditto_NNP ,_, buffaloes_NNS ._.
+._.
+._.
+._.
+16_CD 0_CD 0_CD 32_CD Male_NNP stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+..._: ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+._.
+._.
+..._: ..._: (_( a_DT )_) ..._: Ditto_NNP ,_, claves_NNS ._.
+._.
+._.
+31_CD 4_CD 8_CD 2,754_CD (_( b_NN )_) 88_CD Female_NNP stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+..._: ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+..._: ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+..._: ..._: 92_CD ..._: TOTAL_NN ._.
+..._: 2,936_CD Grain_NNP and_CC Fodder_NNP ._.
+Mds_NNP ._.
+Srs_NNP ._.
+Chs_NNP ._.
+49_CD 4_CD 12_CD Gram_NNP ._.
+._.
+._.
+._.
+._.
+20_CD seers_NNS per_IN rupee_NN 98_CD Hay_NNP ._.
+._.
+._.
+._.
+._.
+._.
+Re_NNP ._.
+1_CD per_IN maund_NN 272_CD 272_CD 0_CD 0_CD Bhusa_NNP ._.
+._.
+._.
+._.
+14_CD annas_NNS per_IN maund_NN 41_CD 47_CD 0_CD 0_CD TOTAL_NN ._.
+..._: 411_CD GRAND_NNP TOTAL_NNP ._.
+..._: 3,347_CD 29_CD Valuation_NNP Statement_NNP of_IN Cattle_NNP ,_, Grain_NNP and_CC Fodder_NNP in_IN hand_NN at_IN close_NN of_IN the_DT year_NN 1910-1911_RB ._.
+NUMBER_NNP OR_NNP QUANTITY_NNP ._.
+Description_NN ._.
+Rate_NN ._.
+Value_NNP ._.
+REMARKS_NNP ._.
+No_DT ._.
+Quantity_NN ._.
+BETHIA_NNP ._.
+Cattle_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+1_CD ..._: Bulls_NNP ._.
+._.
+._.
+._.
+._.
+150_CD 150_CD 43_CD ..._:
+Cows_NNS ._.
+._.
+._.
+._.
+._.
+..._: 1,195_CD 14_CD ..._:
+Male_JJ stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+30_CD 420_CD 10_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+._.
+15_CD 150_CD 13_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+10_CD 130_CD 5_CD ..._:
+Female_NNP stock_NN ,_, 2_CD years_NNS old_JJ ._.
+20_CD 100_CD 9_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+15_CD 135_CD 10_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+5_CD 50_CD 105_CD ..._: TOTAL_NN ._.
+..._: 2,330_CD Grain_NNP and_CC Fodder_NNP ._.
+..._: Gram_NN ._.
+._.
+._.
+._.
+._.
+..._: 100_CD ..._: Hay_NNP ._.
+._.
+._.
+._.
+._.
+._.
+..._: 30_CD ..._: Kirby_NNP ,_, etc_NN ._.
+._.
+._.
+._.
+._.
+..._: ..._: TOTAL_NNP ._.
+..._: 130_CD GRAND_NNP TOTAL_NNP ._.
+..._: 2,460_CD SIRIPUR_NNP ._.
+Cattle_NNP ._.
+3_CD ..._: Bulls_NNP ._.
+._.
+._.
+._.
+._.
+200_CD 600_CD 47_CD ..._:
+Cows_NNS ._.
+._.
+._.
+._.
+._.
+75_CD 3,525_CD 17_CD ..._:
+Male_JJ stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+200_CD 3,400_CD 28_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+._.
+100_CD 2,800_CD 22_CD ..._: Ditto_NNP ,_, calves_NNS ._.
+._.
+._.
+50_CD 1,100_CD 1_CD ..._:
+Female_NNP stock_NN ,_, 2_CD years_NNS old_JJ ._.
+._.
+100_CD 100_CD 14_CD ..._: Ditto_NNP ,_, 1_CD year_NN old_JJ ._.
+._.
+50_CD 700_CD 15_CD ..._: Ditto_NNP ,_, cavles_NNS ._.
+._.
+._.
+30_CD 450_CD 147_CD ..._: TOTAL_NN ._.
+..._: 12,675_CD Grain_NNP and_CC Fodder_NNP ._.
+Gram_NNP ._.
+._.
+._.
+._.
+._.
+..._: ..._: Hay_NNP ._.
+._.
+._.
+._.
+._.
+..._: ..._: Kirby_NNP ,_, etc_NN ._.
+._.
+._.
+._.
+..._: ..._: TOTAL_NNP ._.
+..._: ..._: GRAND_NNP TOTAL_NNP ._.
+..._: 12,675_CD 30_CD TABLE_NNP X_NN ._.
+Return_NN of_IN Horse_NNP ,_, Pony_NNP and_CC Donkey_NNP Stallions_NNP under_IN Local_NNP Bodies_NNP for_IN the_DT year_NN 1910-1911_RB ._.
+HORSE_NNP AND_NNP PONY_NNP STALLIONS_NNP UNDER_NNP LOCAL_NNP BODIES_NNP ._.
+DONKEY_NNP STALLIONS_NNP UNDER_NNP LOCAL_NNP BODIES_NNP ._.
+DETAILS_NNP ._.
+HORSES_NNP ._.
+PONIES_NNP ._.
+Total_JJ Horses_NNP and_CC Ponies_NNPS ._.
+Italian_JJ ._.
+Cyprian_JJ ._.
+Country-bred_NNP ._.
+Sicilian_JJ ._.
+Catalonian_JJ ._.
+American_NNP ._.
+Total_NN ._.
+Arab_NN ._.
+Persian_NN ._.
+Thorough-bred_JJ English_NNP ._.
+Country-bred_NNP ._.
+Australian_JJ ._.
+Total_NN ._.
+Arab_NN ._.
+Persian_NN ._.
+Country-bred_NNP ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD Balance_NN on_IN 1st_CD April_NNP 1910_CD ._.
+._.
+._.
+._.
+._.
+64_CD ..._: 2_CD 5_CD ..._: 71_CD 100_CD ..._: 5_CD ..._: ..._: 105_CD 176_CD 5_CD 14_CD 33_CD 10_CD 36_CD 2_CD 100_CD Increase_NN Purchased_VBN in_IN India_NNP ._.
+._.
+._.
+._.
+._.
+8_CD ..._: 1_CD ..._: ..._: 9_CD 7_CD ..._: ..._: ..._: ..._: 7_CD 16_CD ..._: ..._: 14_CD ..._: ..._: ..._: 14_CD Received_VBN by_IN transfer_NN ._.
+._.
+._.
+._.
+29_CD ..._: 3_CD 1_CD 1_CD 34_CD 11_CD ..._: 3_CD ..._: ..._: 14_CD 48_CD ..._: ..._: 3_CD ..._: 5_CD ..._: 8_CD TOTAL_NN ._.
+101_CD ..._: 6_CD 6_CD 1_CD 114_CD 118_CD ..._: 8_CD ..._: ..._: 126_CD 240_CD 5_CD 14_CD 50_CD 10_CD 41_CD 2_CD 122_CD Decrease_NNP Died_NNP ._.
+._.
+._.
+._.
+._.
+2_CD ..._: ..._: ..._: ..._: 2_CD 5_CD ..._: ..._: ..._: ..._: 5_CD 7_CD ..._: 1_CD 1_CD ..._: 2_CD ..._: 4_CD Sold_NNP ._.
+._.
+._.
+._.
+._.
+._.
+4_CD ..._: ..._: ..._: ..._: 4_CD 4_CD ..._: ..._: ..._: ..._: 4_CD 8_CD 2_CD ..._: 2_CD ..._: 1_CD ..._: 5_CD Desrtroyed_NNP ._.
+._.
+._.
+._.
+._.
+1_CD ..._: ..._: ..._: 1_CD 2_CD 6_CD ..._: ..._: ..._: ..._: 6_CD 8_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._:
+Transferred_VBN to_TO ._.
+._.
+._.
+._.
+._.
+25_CD ..._: 1_CD 1_CD ..._: 27_CD 2_CD ..._: ..._: ..._: ..._: 2_CD 29_CD ..._: ..._: 3_CD ..._: 5_CD ..._: 8_CD TOTAL_NNP DECREASE_NNP 32_CD ..._: 1_CD 1_CD 1_CD 35_CD 17_CD ..._: ..._: ..._: ..._: 17_CD 52_CD 2_CD 1_CD 6_CD ..._: 8_CD ..._: 17_CD Balance_NNP on_IN 31st_CD March_NNP 1911_CD ._.
+._.
+._.
+._.
+._.
+69_CD ..._: 5_CD 5_CD ..._: 79_CD 101_CD ..._: 8_CD ..._: ..._: 109_CD 188_CD 3_CD 13_CD 44_CD 10_CD 33_CD 2_CD 105_CD United_NNP Provinces_NNPS ._.
+._.
+._.
+._.
+._.
+._.
+._.
+47_CD ..._: 2_CD 2_CD ..._: 51_CD 4_CD ..._: ..._: ..._: ..._: 4_CD 55_CD ..._: ..._: 8_CD (_( a_DT )_) ..._: 8_CD 2_CD 18_CD Punjab_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+4_CD ..._: ..._: ..._: ..._: 4_CD 57_CD ..._: 4_CD ..._: ..._: 61_CD 65_CD 3_CD 12_CD 31_CD 7_CD 19_CD ..._: 72_CD North-West_JJ Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+10_CD ..._: ..._: ..._: ..._: 10_CD 8_CD ..._: ..._: ..._: ..._: 8_CD 18_CD ..._: 1_CD 5_CD 3_CD 6_CD ..._: 15_CD Bombay_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+7_CD ..._: 3_CD 3_CD ..._: 13_CD 23_CD ..._: 4_CD ..._: ..._: 27_CD 40_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: Bengal_NNP ._.
+._.
+._.
+._.
+._.
+._.
+1_CD ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: Madras_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: 9_CD ..._: ..._: ..._: ..._: 9_CD 9_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: TOTAL_NNP ._.
+69_CD ..._: 5_CD 5_CD ..._: 79_CD 101_CD ..._: 8_CD ..._: ..._: 109_CD 188_CD 3_CD 13_CD 44_CD 10_CD 33_CD 2_CD 105_CD (_( a_DT )_) 1_CD Punjab_NNP ,_, 7_CD Country-bred_JJ ._.
+31_CD TABLE_NNP XI_NN ._.
+Services_NNS and_CC Produce_NNP of_IN each_DT class_NN of_IN Horse_NNP ,_, Pony_NNP ,_, and_CC Donkey_NNP Stallions_NNP ,_, under_IN Local_JJ Bodies_NNS during_IN 1910-1911_JJ ._.
+Horse_NN ,_, Pony_NNP or_CC Donkey_NNP ._.
+Province_NN ._.
+Stallions_NNS on_IN Register_NNP on_IN 31st_CD March_NNP 1911_CD ._.
+STALLIONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_JJ NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+REMARKS_NNP ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD Horse_NN ._.
+._.
+Punjab_NNP ._.
+._.
+._.
+4_CD 5_CD 5_CD 257_CD 236_CD 51_CD 47_CD (_( a_DT )_) On_IN 31st_CD March_NNP 1910_CD ._.
+Bombay_NNP ._.
+._.
+._.
+(_( a_DT )_) 5_CD 7.93_CD 6.02_CD 369_CD 220_CD 46.53_CD 36.54_CD United_NNP Provinces_NNPS ._.
+51_CD 42_CD 42_CD 2,232_CD 2,267_CD 53.14_CD 53.9_CD Bengal_NNP ._.
+._.
+1_CD 1_CD 1_CD 8_CD ..._: 8_CD ..._: North-West_NNP Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+10_CD 9_CD 8_CD 525_CD 540_CD 58.33_CD 67.5_CD 71_CD 64.93_CD 62.02_CD 3,391_CD 3,263_CD 52.2_CD 53.5_CD Pony_NNP ._.
+._.
+Punjab_NNP ._.
+._.
+._.
+61_CD 63_CD 62_CD 3,558_CD 3,384_CD 56_CD 54_CD Burma_NNP ._.
+._.
+._.
+..._: ..._: 1_CD .._VBD 5_CD 5_CD Bombay_NNP ._.
+._.
+._.
+(_( a_DT )_) 14_CD 20.47_CD 12.85_CD 856_CD 443_CD 41.81_CD 34.47_CD United_NNP Provinces_NNPS ._.
+4_CD 4_CD 5_CD 212_CD 359_CD 53_CD 71.8_CD Bengal_NNP ._.
+._.
+._.
+..._: 1_CD ..._: ..._: ..._: ..._: North-West_JJS Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+8_CD 8_CD 9_CD 417_CD 453_CD 52.12_CD 50.33_CD Madras_NNS ._.
+._.
+._.
+9_CD 9_CD 12_CD 172_CD 277_CD 18.10_CD 23.08_CD Central_JJ Provinces_NNS ._.
+..._: ..._: 1_CD ..._: 1_CD ..._: ..._: 96_CD 105.47_CD 102.85_CD 5,215_CD 4,922_CD 49.4_CD 47.8_CD Donkey_NNP ._.
+._.
+Punjab_NNP ._.
+._.
+._.
+72_CD 67_CD 70_CD 3,066_CD 3,171_CD 45_CD 45_CD United_NNP Provinces_NNPS 18_CD 12_CD 9_CD 510_CD 417_CD 42.5_CD 46.3_CD North-West_JJ Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+15_CD 13_CD 14_CD 700_CD 714_CD 53.84_CD 51_CD TOTAL_NN ._.
+105_CD 92_CD 93_CD 4,276_CD 4,302_CD 46.5_CD 46.3_CD TABLE_NNP XII_NN ._.
+Showing_VBG average_JJ cost_NN of_IN feed_NN ,_, keep_VB ,_, attendance_NN ,_, etc._FW ,_, of_IN Horse_NNP ,_, Pony_NNP ,_, and_CC Donkey_NNP Stallions_NNP during_IN the_DT year_NN 1910-11_CD ._.
+Province_NN ._.
+HORSE_NN ._.
+PONY_NNP ._.
+DONKEY_NNP ._.
+REMARKS_NNP ._.
+Year_NN under_IN report_NN Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previou_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Punjab_NNP ._.
+._.
+._.
+291_CD 0_CD 0_CD 315_CD 0_CD 0_CD 293_CD 0_CD 0_CD 339_CD 0_CD 0_CD 178_CD 0_CD 0_CD 189_CD 0_CD 0_CD Burma_NNP ._.
+._.
+._.
+..._: ..._: ..._: 302_CD 4_CD 9_CD ..._: ..._: Bombay_NNP ._.
+._.
+._.
+..._: ..._: 434_CD 0_CD 0_CD 449_CD 0_CD 0_CD ..._: ..._: Bengal_NNP ._.
+._.
+._.
+248_CD 0_CD 0_CD 113_CD 0_CD 0_CD ..._: ..._: ..._: ..._: North-West_JJS Frontier_NNP Province_NNP and_CC North_NNP Punjab_NNP ._.
+327_CD 4_CD 3_CD 340_CD 10_CD 9_CD 328_CD 15_CD 3_CD 314_CD 8_CD 9_CD 235_CD 2_CD 1_CD 234_CD 7_CD 10_CD Madras_NNS ._.
+._.
+._.
+..._: ..._: 422_CD 7_CD 7_CD 690_CD 12_CD 11_CD ..._: ..._: 32_CD TABLE_NNP XIII_NN ._.
+Abstract_NNP of_IN particulars_NNS regarding_VBG Horse_NNP ,_, Fairs_NNP and_CC Shows_NNP hed_VBD in_IN non-selected_JJ districts_NNS during_IN the_DT year_NN 1910-1911_RB ._.
+PROVINCE_NNP ._.
+Number_NNP of_IN Horse_NNP Fairs_NNP and_CC Shows_NNP held_VBD ._.
+TOTAL_JJ NUMBER_NNP OF_NNP ANIMALS_NNP PRESENT_NNP ._.
+TOTAL_JJ NUMBER_NNP COMPETING_NNP FOR_NNP PRIZES_NNP ._.
+TOTAL_JJ NUMBER_NNP OF_NNP HORSE_NNP STOCK_NNP (_( NOT_NNP INCLUDING_NNP BRANDED_NNP MARES_NNP )_) PRESENT_NNP ._.
+NUMBER_NNP OF_NNP REMOUNTS_NNP PURCHASED_NNP ._.
+PRICE_NNP PAID_NNP FOR_NNP REMOUNTS_NNP ._.
+NUMBER_NNP OF_NNP MULES_NNP PURCHASED_NNP ._.
+PRICE_NNP PAID_NNP FOR_NNP MULES_NNP BY_NNP GOVERNMENT_NNP ._.
+Total_JJ number_NN of_IN animals_NNS sold_VBN ._.
+PRIZES_NNP AWARDED_NNP ._.
+Amount_NN sanctioned_VBN by_IN Government_NNP of_IN India_NNP for_IN next_JJ year_NN 's_POS Fair_NNP or_CC show_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Belonging_VBG to_TO breeders_NNS ._.
+Belonging_VBG to_TO dealers_NNS ._.
+For_IN Remount_NNP Department_NNP ._.
+For_IN Native_NNP Cavalry_NNP ._.
+For_IN Police_NNP ._.
+TOTAL_NN ._.
+Highest_NNP price_NN ._.
+Lowest_NNP price_NN ._.
+Average_JJ price_NN ._.
+By_IN Government_NNP ._.
+By_IN others_NNS ._.
+TOTAL_NN ._.
+Highest_NNP price_NN ._.
+Lowest_NNP price_NN ._.
+Average_JJ price_NN ._.
+From_IN Imperial_NNP Funds_NNP ._.
+From_IN Provincial_JJ Funds_NNS ._.
+From_IN Local_JJ Funds_NNS ._.
+From_IN other_JJ sources_NNS ._.
+TOTAL_NN ._.
+Amount_NNP actually_RB awarded_VBD ._.
+No_DT ._.
+of_IN medals_NNS awarded_VBN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD 26_CD 27_CD 28_CD 29_CD 30_CD Punjab_NNP ._.
+._.
+._.
+._.
+9_CD 5,517_CD 4,176_CD 881_CD 639_CD 3,362_CD 797_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 97_CD 97_CD ..._: ..._: ..._: 1,476_CD 1,500_CD ..._: 2,410_CD 30_CD 0_CD 0_CD 3,940_CD 0_CD 0_CD 2,741_CD 3_CD 600_CD Bombay_NNP ._.
+._.
+._.
+2_CD 1,105_CD 859_CD 1,105_CD 859_CD 261_CD 165_CD 4_CD ..._: 12_CD 16_CD 595_CD 425_CD 499_CD 8_CD ..._: ..._: ..._: ..._: ..._: ..._: 250_CD 1,000_CD 2,500_CD 3,500_CD 121_CD 10_CD 11_CD 7,121_CD 10_CD 11_CD 5,350_CD 2_CD 2,000_CD Rajputana_NNP ._.
+._.
+._.
+1_CD 893_CD 627_CD 127_CD 188_CD ..._: 893_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 462_CD ..._: ..._: 500_CD ..._: 500_CD 0_CD 0_CD 410_CD ..._: ..._: Bengal_NNP ._.
+._.
+10_CD 18,674_CD 10,742_CD 308_CD 213_CD ..._: 6,010_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 6,713_CD ..._: 199_CD ..._: 10_CD 0_CD 0_CD 209_CD 0_CD 0_CD 187_CD ..._: ..._: North-West_JJ Fron-_NNP tier_NN Province_NNP and_CC North_NNP Punjab_NNP ._.
+4_CD 1,162_CD 1,103_CD 808_CD 1,062_CD 803_CD ..._: ..._: ..._: 2_CD 2_CD 225_CD 175_CD 200_CD 0_CD 1_CD 1_CD 2_CD 126_CD 100_CD 113_CD 4_CD 2,680_CD ..._: 820_CD 50_CD 0_CD 0_CD 3,550_CD 0_CD 0_CD 3,161_CD 3_CD ..._: TOTAL_NNP 26_CD 27,351_CD 17,507_CD 3,229_CD 2,961_CD 4,426_CD 7,865_CD 4_CD ..._: 14_CD 18_CD 595_CD 175_CD 349_CD 12_CD 1_CD 98_CD 99_CD 126_CD 100_CD 113_CD 8,905_CD 5,180_CD 2,699_CD 7,230_CD 376_CD 10_CD 11_CD 15,320_CD 10_CD 11_CD 11,849_CD 8_CD 2,600_CD 33_CD TABLE_NNP XIV_NN ._.
+Abstract_NNP of_IN particulars_NNS regarding_VBG Cattle_NNP Fairs_NNP and_CC Shows_NNP held_VBD during_IN the_DT year_NN 1910-1911_RB ._.
+PROVINCE_NNP ._.
+Num-_JJ ber_NN of_IN Cattle_NNP Fairs_NNP and_CC Shows_NNP held_VBD ._.
+TOTAL_JJ NUMBER_NNP OF_NNP STOCK_NNP PRESENT_NNP ._.
+AVERAGE_JJ PRICE_NNP OF_NNP ANIMAL_NNP SOLD_NNP ._.
+Amouont_NNP realized_VBD in_IN fees_NNS ._.
+Total_JJ number_NN of_IN animals_NNS that_WDT competed_VBD for_IN prizes_NNS ._.
+PRIZES_NNP AWRDED_NNP ._.
+Num-_JJ ber_NN of_IN med-_JJ als_NNS awar-_RB ded_VBD ._.
+REMARKS_NNP ._.
+Bulls_NNS ._.
+Bul-_JJ locks_NNS ._.
+Cows_NNS ._.
+Young_NN stocks_NNS ._.
+Buffa-_NNP loes_NNS ._.
+Camels_NNS ._.
+Others_NNS ._.
+Bulls_NNS ._.
+Bul-_JJ locks_NNS ._.
+Cows_NNS ._.
+Buffa-_NNP loes_NNS ._.
+Camels_NNS ._.
+From_IN Impe-_NNP rial_JJ funds_NNS ._.
+From_IN Provin-_NNP cial_JJ funds_NNS From_IN Local_JJ Funds_NNS ._.
+From_IN other_JJ sour-_JJ ces_NNS Total_NNP ._.
+Amount_NNP actually_RB awar-_RB ded_JJ ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Punjab_NNP ._.
+._.
+._.
+34_CD 3,530_CD 103,935_CD 23,590_CD 42,892_CD 61,429_CD 7,233_CD 18,720_CD 223_CD 535_CD 407_CD 554_CD 1,042_CD 1,39,347_CD 0_CD 0_CD 5,018_CD 400_CD ..._: 14,230_CD 755_CD 0_CD 0_CD 15,385_CD 0_CD 0_CD 13,111_CD 0_CD 0_CD 11_CD Eastern_JJ Bengal_NNP and_CC Assam_NNP ._.
+57_CD 5,960_CD 154,466_CD 11,323_CD 11,123_CD 14,163_CD 3,925_CD 6,966_CD ..._: ..._: ..._: ..._: ..._: 1,47,389_CD 8_CD 9_CD 542_CD ..._: 93_CD 533_CD 103_CD 0_CD 0_CD 729_CD 0_CD 0_CD ..._: ..._: Burma_NNP ._.
+._.
+._.
+1_CD 35_CD 73_CD 10_CD 6_CD 133_CD ..._: 84_CD ..._: ..._: ..._: ..._: ..._: ..._: 341_CD ..._: 1,225_CD ..._: ..._: 1,225_CD 0_CD 0_CD 1,094_CD 0_CD 0_CD ..._: Bombay_NNP ._.
+._.
+._.
+5_CD 1,032_CD 4,672_CD 1,661_CD 521_CD 1,059_CD ..._: 5,142_CD ..._: ..._: ..._: ..._: ..._: 761_CD 8_CD 3_CD 1,863_CD ..._: 2,300_CD 650_CD 200_CD 0_CD 0_CD 3,150_CD 0_CD 0_CD 2,395_CD 0_CD 0_CD 9_CD Central_JJ Provinces_NNS ._.
+19_CD 957_CD 40,848_CD 14,107_CD 5,335_CD 8,166_CD 2_CD 5,374_CD 303_CD 407_CD 175_CD 293_CD 70_CD 12,398_CD 7_CD 0_CD 1,732_CD ..._: ..._: 2,594_CD 173_CD 0_CD 0_CD 2,767_CD 0_CD 0_CD 1,944_CD 0_CD 0_CD 3_CD Baluchistan_NNP ._.
+._.
+2_CD 195_CD 103_CD 51_CD 9_CD ..._: ..._: 26_CD 90_CD to_TO 115_CD 60_CD to_TO 80_CD 70_CD ..._: ..._: ..._: 325_CD 500_CD ..._: 95_CD 50_CD 0_CD 0_CD 645_CD 0_CD 0_CD 590_CD 0_CD 0_CD 2_CD Sind_NNP ._.
+._.
+._.
+1_CD 7_CD 123_CD 62_CD 5_CD 38_CD 9_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 244_CD ..._: ..._: 1,038_CD ..._: 1,038_CD 0_CD 0_CD 650_CD 0_CD 0_CD ..._: Rajputana_NNP ._.
+._.
+1_CD ..._: 5,533_CD ..._: ..._: ..._: 4,625_CD ..._: ..._: 55_CD ..._: ..._: 64_CD ..._: Bullocks_NNP 54_CD pairs_NNS ,_, camels_NNS 57_CD ._.
+..._: ..._: 110_CD ..._: 110_CD 0_CD 0_CD 110_CD 0_CD 0_CD ..._: United_NNP Provinces_NNPS ._.
+2_CD 18_CD 42_CD 67_CD 139_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 71_CD ..._: 1,000_CD ..._: ..._: 1,000_CD 0_CD 0_CD 432_CD 0_CD 0_CD ..._: Bengal_NNP ._.
+._.
+._.
+._.
+14_CD 9,297_CD 66,895_CD 7,572_CD 25,649_CD 25,408_CD 500_CD 4,468_CD 40_CD 50_CD 25_CD 35_CD 50_CD 21,690_CD 0_CD 0_CD 896_CD ..._: 150_CD 725_CD 516_CD 0_CD 0_CD 1,391_CD 0_CD 0_CD 1,391_CD 0_CD 0_CD ..._: North-West_JJ Fron-_NNP tier_NN Province_NNP and_CC North_NNP Punjab_NNP ._.
+5_CD 329_CD 465_CD 342_CD 96_CD 390_CD 61_CD 295_CD ..._: ..._: ..._: ..._: ..._: ..._: 1,619_CD 2,350_CD ..._: 670_CD 200_CD 0_CD 0_CD 3,220_CD 0_CD 0_CD 3,130_CD 0_CD 0_CD 7_CD Madras_NNS ._.
+._.
+._.
+23_CD 351_CD 88,946_CD 1,772_CD 5,233_CD 5,261_CD ..._: 236_CD ..._: ..._: ..._: ..._: ..._: ..._: 154,397_CD ..._: 3,500_CD 690_CD 771_CD 4_CD 3_CD 1,931_CD 4_CD 3_CD 2,653_CD 8_CD 0_CD 13_CD TOTAL_NN ._.
+164_CD 21,711_CD 466,101_CD 60,557_CD 91,008_CD 116_CD 047_CD 15,455_CD 41,323_CD ..._: ..._: ..._: ..._: ..._: 8,21,586_CD 3_CD 0_CD 167,105_CD +_NN 54_CD pair_NN bullocks_NNS ._.
+3,250_CD 8,263_CD 21,335_CD 2,768_CD 4_CD 3_CD 32,591_CD 4_CD 3_CD 27,500_CD 8_CD 0_CD 45_CD 34_CD TABLE_NNP XV_NN ._.
+Showing_VBG main_JJ results_NNS of_IN the_DT working_NN of_IN the_DT Bacteriological_NNP Laboratory_NNP during_IN 1910-1911_JJ ._.
+QUANTITY_NNP OF_NNP SERA_NNP OR_NNP ANTI-TOXIN_NNP PREPARED_NNP AND_NNP ISSUED_NNP ._.
+INSTRUCTION_NNP IMPARTED_NNP ._.
+FINANCIAL_NNP RESULTS_NNP ._.
+Names_NNS of_IN sera_NN or_CC anti-toxin_NN ._.
+Opening_VBG balance_NN ._.
+Prepared_NNP during_IN the_DT year_NN ._.
+Retur-_NNP ned_VBD serum_JJ re-_JJ issaed_NN ._.
+TOTAL_NNP Issued_NNP during_IN the_DT year_NN Stock_NNP in_IN hand_NN at_IN end_NN of_IN year_NN ._.
+Department_NNP or_CC Province_NNP ._.
+NUMBER_NNP ATTEND-_NNP ING_NNP CLASSES_NNP Num-_NNP ber_NN passed_VBD RECEIPTS_NNP ._.
+EXPENDITURE_NNP ._.
+Veteri-_JJ nary_JJ In-_JJ spectors_NNS and_CC Assis-_JJ tants_NNS ._.
+Sale_NNP of_IN animals_NNS ._.
+Sale_NNP of_IN sera_NN (_( both_DT for_IN cash_NN and_CC on_IN book_NN credit_NN )_) Sale_NNP of_IN garden_NN products_NNS and_CC revenue_NN from_IN reserved_JJ forests_NNS ._.
+Other_JJ mis-_JJ cellaneous_JJ receipts_NNS ._.
+TOTAL_NN ._.
+Salaries_NNS and_CC travelling_VBG allow-_JJ ances_NNS of_IN officers_NNS and_CC subordinate_JJ establishment_NN ._.
+Feed_NN and_CC keep_NN of_IN animals_NNS ._.
+Purchase_NN of_IN animals_NNS ._.
+Cost_NN of_IN chemicals_NNS and_CC apparatus_NN ._.
+Other_JJ miscellaneous_JJ expenditure_NN ._.
+TOTAL_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD C._NNP C._NNP C._NNP C._NNP C._NNP C._NNP C._NNP C._NNP C._NNP C._NNP C._NNP C._NNP Nos_NNP ._.
+Nos_NNP ._.
+Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Muktesar_NNP Laboratory_NNP ._.
+Rinderpest_NNP ._.
+3,660_CD 5,77,969_CD 2,050_CD 5,83,679_CD 5,33,779_CD 49,900_CD United_NNP Provin-_NNP ces_NNS of_IN Agra_NNP and_CC Oudh_NNP 1_CD 1_CD 2097_CD 9_CD 0_CD 214_CD 6_CD 0_CD 442_CD 9_CD 2_CD 168_CD 7_CD 0_CD 2,922_CD 15_CD 2_CD 78,531_CD 14_CD 3_CD 56,958_CD 2_CD 0_CD 27,028_CD 3_CD 0_CD 11,339_CD 0_CD 11_CD 18,567_CD 7_CD 7_CD 1,92,424_CD 11_CD 9_CD Anthrax_NNP ._.
+._.
+3,800_CD 5,415_CD 500_CD 9,715_CD 9,715_CD ..._: ..._: Hæm_NNP ._.
+Sept._NNP vaccine_NN ._.
+.._RB 50,350_CD .._VBD 50,350_CD 50,350_CD ..._: Punjab_NNP ._.
+2_CD 2_CD Hæm_NNP ._.
+Sept._NNP se-_JJ rum_NN ._.
+.._RB 1,825_CD .._VBD 1,825_CD 1,825_CD ..._: North-West_JJ Frontier_NNP Pro-_NNP vince_NN and_CC North_NNP Punjab_NNP 3_CD 3_CD Charbon_NNP Symp-_NNP tomatique_NN vac-_JJ cine_NN ._.
+.._RB 33,400_CD .._VBD 33,400_CD 19,900_CD 13,500_CD Bengal_NNP ._.
+._.
+Native_JJ State_NNP 1_CD 1_CD 1_CD 1_CD Charbon_NNP Symp-_NNP tomatique_NN se-_JJ rum_NN ._.
+536_CD .._JJ .._VBD 536_CD 536_CD ..._: ..._: ..._: ..._: Mallein_NNP ._.
+._.
+2,730_CD 12,941_CD 5.98_CD 16,269_CD 16,229_CD 40_CD ..._: ..._: ..._: Tuberculin_NNP ._.
+140_CD 209_CD .._JJ 349_CD 188_CD 161_CD ..._: ..._: ..._: Anti_NNP Strepto-_NNP cocci_NN vaccine_NN ._.
+.._RB 500_CD .._VBD 500_CD 500_CD ..._: ..._: ..._: ..._: Anti_NNP Strepto-_NNP cocci_NN serum_NN ._.
+(_( a_DT )_) 317_CD 1,829_CD .._JJ 2,146_CD 1,117_CD 1,029_CD ..._: ..._: ..._: Bareilly_NNP Depot_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: North-West_JJ Frontier_NNP Pro-_NNP vince_NN and_CC North_NNP Pun-_NNP jab_NN ._.
+3_CD 3_CD 568_CD 0_CD 0_CD ..._: 50_CD 0_CD 0_CD ..._: 618_CD 0_CD 0_CD 11,166_CD 0_CD 8_CD 6,883_CD 2_CD 1_CD 2,121_CD 3_CD 3_CD ..._: 3,500_CD 0_CD 0_CD 23,670_CD 5_CD 7_CD .._NN ..._: ..._: ..._: ..._: ..._: ..._: Bombay_NNP ._.
+5_CD 5_CD .._NN ..._: ..._: ..._: ..._: .._NN ..._: ative_JJ States_NNS 1_CD 1_CD TOTAL_NN ._.
+11,183_CD 684,438_CD 3,148_CD 698,769_CD 634,139_CD 64,630_CD TOTAL_NN ._.
+17_CD 17_CD 2,665_CD 9_CD 0_CD 214_CD 6_CD 0_CD 492_CD 9_CD 2_CD 168_CD 7_CD 0_CD 3,540_CD 15_CD 2_CD 89,697_CD 14_CD 6_CD 3,841_CD 4_CD 1_CD 29,149_CD 6_CD 3_CD 11,339_CD 0_CD 11_CD 22,067_CD 7_CD 7_CD 16,095_CD 1_CD 4_CD (_( a_DT )_) 3170_CD C._NNP C._NNP 35_CD TABLE_NNP XVI_NN ._.
+Return_NN of_IN animals_NNS for_IN 1910-11_JJ ._.
+Detail_NNP ._.
+Herd_NNP bulls_NNS ._.
+Super-_JJ numer-_JJ ary_JJ bulls_NNS ._.
+Cows_NNS ._.
+Male_JJ pro-_JJ duce_NN ._.
+Female_JJ pro-_JJ duce_NN ._.
+Castrated_VBN pro-_JJ duce_NN ._.
+Ordnance_NN bullocks_NNS ._.
+Culti-_JJ vation_NN bul-_NN locks_NNS ._.
+Mules_NNS ._.
+Pony_NNP mares_NNS for_IN mule_NN breed-_JJ ing_NN ._.
+Pony_NNP stal-_JJ lions_NNS ._.
+Camels_NNS ._.
+Donkeystal-_JJ lions_NNS Donkey_NNP colts_NNS ._.
+Donkey_NNP mares_NNS ._.
+Donkey_NNP fillies_NNS ._.
+Rams_NNP Ewes_NNP ._.
+Male_JJ lambs_NNS ._.
+Female_NNP lambs_NN ._.
+Wethers_NNS ._.
+Female_JJ goats_NNS ._.
+Female_JJ kids_NNS ._.
+Male_JJ goats_NNS and_CC kids_NNS ._.
+Pony_NNP colts_NNS ._.
+Pony_NNP filly_RB ._.
+Total_NN ._.
+REMARKS_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD 26_CD 27_CD 28_CD 29_CD Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP 1st_CD April_NNP 1910_CD ._.
+._.
+._.
+24_CD 3_CD 1,217_CD 827_CD 616_CD 97_CD ..._: 205_CD 83_CD 37_CD 1_CD 7_CD 0_CD 0_CD 6_CD 60_CD 93_CD 46_CD 8_CD 342_CD 106_CD 140_CD ..._: ..._: ..._: ..._: ..._: ..._: 3,918_CD 0_CD 0_CD Increase_NN By_IN birth_NN ._.
+._.
+..._: ..._: ..._: 429_CD 380_CD ..._: ..._: ..._: 21_CD ..._: ..._: ..._: ..._: 19_CD ..._: 17_CD ..._: ..._: 145_CD 142_CD ..._: ..._: 6_CD 5_CD 1_CD 1_CD 1,166_CD 0_CD 0_CD 36_CD TABLE_NNP XVII_NN ._.
+HISSAR_NNP FARM_NNP ._.
+Results_NNS of_IN Donkey_NNP and_CC Mule_NNP breeding_VBG during_IN 1910-11_JJ ._.
+37_CD TABLE_NNP XIX_NN ._.
+Statement_NNP showing_VBG total_JJ charges_NNS during_IN 1910-11_JJ in_IN connection_NN with_IN Civil_NNP Veterinary_NNP Department_NNP ._.
+CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 8_CD ,_, HASTINGS_NNP STREET_NNP

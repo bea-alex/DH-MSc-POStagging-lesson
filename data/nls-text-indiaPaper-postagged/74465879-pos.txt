@@ -1,0 +1,1227 @@
+THE_DT MADRAS_NNP PLAGUE_NNP REGULATIONS_NNP AND_NNP RULES_NNP FOR_IN THE_NNP CITY_NNP OF_NNP MADRAS_NNP ._.
+(_( Revised_VBN up_RB to_TO 1st_CD June_NNP 1902_CD ._. )_)
+MADRAS_NN :_: PRINTED_NN BY_IN THE_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRESS_NNP ._.
+[_JJ PRICE_NNP ,_, 4_CD annas_NNS ._. ]_NN
+1902_CD ._.
+[_$ 6_CD pence_NN ._. ]_VB
+THE_DT MADRAS_NNP PLAGUE_NNP REGULATIONS_NNP AND_NNP RULES_NNP FOR_IN THE_NNP CITY_NNP OF_NNP MADRAS_NNP ._.
+(_( Revised_VBN up_RB to_TO 1st_CD June_NNP 1902_CD ._. )_)
+MADRAS_NN :_: PRINTED_NN BY_IN THE_NNP SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRESS_NNP ,_, 1902_CD ?_. CONTENTS_NNP ._.
+CHAPTER_NN I_PRP ._.
+PAGE_NNP (_( 1_CD )_) Epidemic_NNP Diseases_NNP Act_NNP ,_, 1897_CD 5_CD (_( 2_CD )_) Government_NN of_IN India_NNP ,_, Home_NNP Department_NNP Notification_NNP ,_, No_NNP ._.
+302_CD ,_, dated_VBD 4th_CD February_NNP 1897_CD ,_, conferring_VBG powers_NNS on_IN Local_JJ Governments_NNS 7_CD (_( 3_CD )_) Regulations_NNPS for_IN the_DT City_NNP of_IN Madras_NNP 8_CD CHAPTER_NNP II_NNP ._.
+Instructions_NNS with_IN regard_NN to_TO the_DT carrying_VBG out_IN of_IN plague_NN measures_NNS and_CC with_IN regard_NN to_TO other_JJ matters_NNS connected_VBN with_IN plague-_JJ General_NNP remarks_NNS 24_CD Agency_NNP for_IN working_VBG plague_JJ regulations_NNS 25_CD Discovery_NNP of_IN plague_NN 27_CD Removal_NNP of_IN plague_NN patients_NNS to_TO hospital_VB 28_CD Segregation_NNP of_IN contacts_NNS 29_CD Evacuation_NNP 30_CD Inoculation_NNP 31_CD Disinfection_NNP 33_CD House_NNP searches_NNS 36_CD Inspection_NNP and_CC burial_NN of_IN corpses_NNS 36_CD Plague_NNP hospitals_NNS and_CC camps_NNS 38_CD Surveillance_NNP or_CC passport_NN rules_NNS 39_CD Railway_NNP Inspection_NNP 41_CD Fairs_NNP ,_, festivals_NNS and_CC pilgrimages_NNS 43_CD Destruction_NNP of_IN rats_NNS 44_CD Plague_NNP reports_NNS and_CC returns_NNS 45_CD Plague_NNP correspondence_NN 45_CD Plague_NNP regulations_NNS 46_CD Plague_NNP appointments_NNS and_CC plague_NN allowances_NNS 47_CD Plague_NNP expenditure_NN and_CC accounts_NNS 48_CD APPENDICES_NNP ._.
+APPENDIX_NNP A.-Plague_NNP passport_NN 50_CD B.-General_JJ pass_NN 51_CD C.-Subsidiary_JJ pass_NN 52_CD D.-Special_JJ pass_NN 52_CD E.-Plague_JJ inoculation_NN certificate_NN 53_CD F.-_NNP Plague_NNP report_NN 54_CD G.-Part_JJ I-Allowances_NNS of_IN officers_NNS deputed_VBN to_TO plague_VB duty_NN 55_CD G.-Part_JJ II-Salaries_NNS of_IN officers_NNS temporarily_RB entertained_VBD for_IN plague_NN duty_NN 57_CD ?_. THE_DT MADRAS_NNP PLAGUE_NNP REGULATIONS_NNP AND_NNP RULES_NNP FOR_IN THE_NNP CITY_NNP OF_NNP MADRAS_NNP ._.
+CHAPTER_NN I_PRP ._.
+(_( 1_CD )_) -EPIDEMIC_NN DISEASES_NNP ACT_NNP (_( III_NNP OF_NNP 1897_CD )_) ._.
+An_DT Act_NNP to_TO provide_VB for_IN the_DT better_JJR prevention_NN of_IN the_DT spread_NN of_IN Dangerous_NNP Epidemic_NNP Disease_NNP ._.
+WHEREAS_IN it_PRP is_VBZ expedient_JJ to_TO provide_VB for_IN the_DT better_JJR prevention_NN of_IN the_DT spread_NN of_IN dangerous_JJ epidemic_JJ disease_NN ;_: It_PRP is_VBZ hereby_RB enacted_VBN as_IN follows_VBZ :_: -_: Short_JJ title_NN ,_, extent_NN and_CC commencement_NN ._.
+1_CD ._.
+(_( 1_CD )_) This_DT Act_NNP may_MD be_VB called_VBN the_DT Epidemic_NNP Diseases_NNP Act_NNP ,_, 1897_CD ;_: (_( 2_CD )_) It_PRP extends_VBZ to_TO the_DT whole_NN of_IN the_DT British_JJ India_NNP (_( inclusive_JJ of_IN Upper_NNP Burma_NNP ,_, British_NNP Baluchistan_NNP ,_, the_DT Santal_NNP Parganas_NNP and_CC the_DT Pargana_NNP of_IN Spiti_NNP )_) ;_: and_CC (_( 3_CD )_) It_PRP shall_MD come_VB into_IN force_NN at_IN once_RB ._.
+Power_NN to_TO take_VB special_JJ measures_NNS and_CC prescribe_JJ regulations_NNS as_IN to_TO dangerous_JJ epidemic_JJ disease_NN ._.
+2_CD ._.
+(_( 1_CD )_) When_WRB at_IN any_DT time_NN the_DT Governor-General_NNP in_IN Council_NNP is_VBZ satisfied_JJ that_IN India_NNP or_CC any_DT part_NN thereof_NN is_VBZ visited_VBN by_IN ,_, or_CC threatened_VBN with_IN ,_, an_DT outbreak_NN of_IN any_DT dangerous_JJ epidemic_JJ disease_NN ,_, the_DT Governor-General_NNP in_IN Council_NNP ,_, if_IN he_PRP thinks_VBZ that_IN the_DT ordinary_JJ provisions_NNS of_IN the_DT law_NN for_IN the_DT time_NN being_VBG in_IN force_NN are_VBP insufficient_JJ for_IN the_DT purpose_NN ,_, may_MD take_VB or_CC require_VB or_CC empower_VB any_DT person_NN to_TO take_VB such_JJ measures_NNS and_CC ,_, by_IN public_JJ notice_NN ,_, prescribe_VB such_JJ temporary_JJ Regulations_NNS to_TO be_VB observed_VBN by_IN the_DT public_NN or_CC by_IN any_DT person_NN or_CC class_NN of_IN persons_NNS as_IN he_PRP shall_MD deem_VB necessary_JJ to_TO prevent_VB the_DT outbreak_NN of_IN such_JJ disease_NN or_CC the_DT spread_NN thereof_NN ,_, and_CC may_MD determine_VB in_IN what_WP manner_NN and_CC by_IN whom_WP any_DT expenses_NNS incurred_VBN (_( including_VBG compensation_NN if_IN any_DT )_) shall_MD be_VB defrayed_VBN ._.
+(_( 2_CD )_) In_IN particular_JJ and_CC without_IN prejudice_NN to_TO the_DT gene-_JJ rality_NN of_IN the_DT foregoing_NN provisions_NNS ,_, the_DT Governor-General_NNP in_IN Council_NNP may_MD take_VB measures_NNS and_CC prescribe_JJ Regulations_NNS for-_JJ (_( a_DT )_) the_DT inspection_NN of_IN any_DT ship_NN or_CC vessel_NN leaving_NN ,_, or_CC arriving_VBG at_IN ,_, any_DT port_NN in_IN British_JJ India_NNP and_CC such_JJ 6_CD [_JJ Epidemic_NNP Diseases_NNP Act_NNP ._.
+detention_NN thereof_NN ,_, or_CC of_IN any_DT person_NN intending_VBG to_TO sail_VB therein_NN ,_, or_CC arriving_VBG thereby_RB ,_, as_IN may_MD be_VB necessary_JJ ;_: and_CC (_( b_NN )_) the_DT inspection_NN of_IN persons_NNS travelling_VBG by_IN railway_NN or_CC otherwise_RB and_CC the_DT segregation_NN ,_, in_IN hospital_NN ,_, temporary_JJ accommodation_NN or_CC otherwise_RB ,_, of_IN persons_NNS suspected_VBN by_IN the_DT inspecting_VBG officer_NN of_IN being_VBG infected_VBN with_IN any_DT such_JJ disease_NN ._.
+(_( 3_CD )_) The_DT Governor-General_JJ in_IN Council_NNP may_MD ,_, by_IN general_JJ or_CC special_JJ order_NN ,_, direct_VB that_IN all_DT or_CC any_DT of_IN the_DT powers_NNS conferred_VBN by_IN this_DT Act_NNP may_MD also_RB be_VB exercised_VBN by_IN any_DT Local_JJ Government_NN with_IN respect_NN to_TO the_DT territories_NNS administered_VBN by_IN it_PRP ._.
+Penalty_NN XLVof_NN 1860_CD ._.
+3_CD ._.
+Any_DT person_NN disobeying_VBG any_DT regulation_NN or_CC order_NN made_VBN under_IN this_DT Act_NNP shall_MD be_VB deemed_VBN to_TO have_VB committed_VBN an_DT offence_NN punishable_JJ under_IN section_NN 188_CD of_IN the_DT Indian_JJ Penal_NNP Code_NNP ._.
+Protection_NN to_TO persons_NNS acting_VBG under_IN Act_NNP ._.
+4_CD ._.
+No_DT suit_NN or_CC other_JJ legal_JJ proceedings_NNS shall_MD lie_VB against_IN any_DT person_NN for_IN anything_NN done_VBN or_CC in_IN good_JJ faith_NN intended_VBN to_TO be_VB done_VBN under_IN this_DT Act_NNP ._.
+?_. 7_CD (_( 2_CD )_) -GOVERNMENT_NN OF_IN INDIA_NNP ,_, HOME_NNP DEPARTMENT_NNP NOTIFICA-_NNP TION_NNP CONFERRING_NNP POWERS_NNP ON_NNP LOCAL_NNP GOVERNMENTS_NNP (_( No_NNP ._.
+302_CD ,_, DATED_NNP 4TH_CD FEBRUARY_NNP 1897_CD )_) ._.
+WHEREAS_NNP certain_JJ parts_NNS of_IN India_NNP are_VBP visited_VBN by_IN ,_, and_CC others_NNS threatened_VBD with_IN ,_, an_DT outbreak_NN of_IN dangerous_JJ epidemic_JJ disease_NN known_VBN as_IN bubonic_JJ plague_NN ,_, the_DT Governor-General_NNP in_IN Council_NNP ,_, in_IN exercise_NN of_IN the_DT powers_NNS conferred_VBN by_IN section_NN 2_CD ,_, sub-section_NN (_( 3_CD )_) ,_, of_IN the_DT Epidemic_NNP Diseases_NNP Act_NNP ,_, 1897_CD ,_, is_VBZ pleased_JJ to_TO direct_VB that_IN the_DT powers_NNS conferred_VBN by_IN the_DT said_VBD Act_NNP may_MD be_VB exercised_VBN by_IN Local_JJ Governments_NNS with_IN regard_NN to_TO their_PRP$ respective_JJ terri-_JJ tories_NNS as_IN follows_VBZ :_: -_: (_( a_DT )_) All_PDT the_DT said_VBD powers_NNS by_IN the_DT Governors_NNS of_IN Fort_NNP St._NNP George_NNP and_CC Bombay_NNP in_IN Council_NNP ,_, the_DT Lieutenant-Governor_NNP of_IN Bengal_NNP and_CC Chief_NNP Commissioner_NNP of_IN Burma_NNP ._.
+?_. 8_CD (_( 3_CD )_) -PLAGUE_NN REGULATIONS_NNP FOR_IN THE_NNP CITY_NNP OF_NNP MADRAS_NNP ._.
+(_( Notification_NN No_NNP ._.
+172_CD published_VBN on_IN pages_NNS 53-68_CD of_IN Part_NNP I-A_NNP of_IN the_DT Fort_NNP St._NNP George_NNP Gazette_NNP ,_, dated_VBD 19th_CD February_NNP 1901_CD ._. )_)
+WHEREAS_NNP certain_JJ parts_NNS of_IN the_DT presidency_NN of_IN Madras_NNP are_VBP visited_VBN by_IN ,_, and_CC the_DT city_NN of_IN Madras_NNP is_VBZ threatened_VBN with_IN ,_, an_DT outbreak_NN of_IN a_DT dangerous_JJ epidemic_JJ disease_NN known_VBN as_IN plague_NN ,_, and_CC whereas_IN the_DT ordinary_JJ provisions_NNS of_IN the_DT law_NN for_IN the_DT time_NN being_VBG in_IN force_NN in_IN the_DT city_NN are_VBP insufficient_JJ for_IN the_DT purpose_NN of_IN preventing_VBG the_DT outbreak_NN or_CC spread_NN of_IN the_DT disease_NN :_: In_IN exercise_NN of_IN the_DT powers_NNS conferred_VBN by_IN section_NN 2_CD ,_, sub-_JJ section_NN (_( 1_CD )_) of_IN the_DT Epidemic_NNP Diseases_NNP Act_NNP ,_, 1897_CD (_( III_NNP of_IN 1897_CD )_) ,_, and_CC delegated_VBD to_TO him_PRP under_IN sub-section_NN (_( 3_CD )_) of_IN the_DT same_JJ section_NN by_IN the_DT notification_NN of_IN the_DT Government_NNP of_IN India_NNP in_IN the_DT Home_NNP Department_NNP ,_, No_NNP ._.
+302_CD ,_, of_IN the_DT 4th_CD February_NNP 1897_CD ,_, the_DT Governor_NNP of_IN Fort_NNP St._NNP George_NNP in_IN Council_NNP is_VBZ pleased_VBN to_TO prescribe_VB under_IN the_DT said_VBD Epidemic_NNP Diseases_NNP Act_NNP ,_, and_CC in_IN super-_JJ session_NN of_IN all_DT regulations_NNS previously_RB issued_VBN on_IN the_DT subject_NN ,_, the_DT following_VBG revised_JJ regulations_NNS to_TO be_VB observed_VBN in_IN the_DT city_NN Part_NNP I.-General_NNP Precautionary_NNP Measures_NNP ._.
+of_IN Madras_NNS :_: -_: Surveillance_NN or_CC passport_NN rules_NNS ._.
+Every_DT arrival_NN from_IN an_DT infected_JJ or_CC notified_JJ area_NN bound_NN to_TO obtain_VB a_DT passport_NN and_CC place_NN himself_PRP under_IN surveillance_NN for_IN ten_JJ days_NNS ._.
+1_CD ._.
+(_( 1_CD )_) Every_NNP person_NN arriving_VBG ,_, or_CC suspected_VBN of_IN having_VBG arrived_VBN ,_, from_IN any_DT place_NN declared_VBN by_IN the_DT Governor_NNP of_IN Fort_NNP St._NNP George_NNP in_IN Council_NNP or_CC by_IN the_DT Collector_NNP of_IN a_DT district_NN to_TO be_VB infected_VBN with_IN plague_NN ,_, or_CC from_IN any_DT place_NN notified_VBN by_IN the_DT Governor_NNP of_IN Fort_NNP St._NNP George_NNP in_IN Council_NNP for_IN the_DT purposes_NNS of_IN this_DT regulation_NN shall_MD ,_, unless_IN he_PRP is_VBZ exempted_VBN from_IN doing_VBG so_RB or_CC unless_IN he_PRP already_RB holds_VBZ a_DT passport_NN under_IN any_DT of_IN the_DT regu-_JJ lations_NNS issued_VBN under_IN the_DT Epidemic_NNP Diseases_NNP Act_NNP ,_, 1897_CD ,_, or_CC unless_IN he_PRP has_VBZ been_VBN detained_VBN for_IN the_DT full_JJ period_NN of_IN incubation_NN at_IN a_DT road_NN or_CC railway_NN inspection_NN station_NN or_CC in_IN a_DT plague_NN camp_NN ,_, be_VB bound_VBN to_TO appear_VB at_IN a_DT place_NN provided_VBN for_IN the_DT purpose_NN and_CC obtain_VB from_IN the_DT officer_NN referred_VBD to_TO in_IN clause_NN (_( 4_CD )_) of_IN this_DT regu-_JJ lation_NN a_DT passport_NN in_IN the_DT form_NN appended_VBD [_NNP Appendix_NNP A_NNP ]_NN to_TO these_DT regulations_NNS binding_VBG him_PRP to_TO present_VB himself_PRP for_IN inspection_NN daily_RB for_IN the_DT next_JJ ten_JJ days_NNS before_IN the_DT passport-examining_JJ officer_NN ,_, and_CC at_IN the_DT time_NN mentioned_VBN in_IN the_DT passport_NN ;_: and_CC he_PRP shall_MD be_VB bound_VBN so_RB to_TO present_VB himself_PRP ._.
+Provided_VBD that_IN ,_, where_WRB it_PRP appears_VBZ desirable_JJ ,_, the_DT President_NNP of_IN the_DT Municipal_NNP Commission_NNP or_CC the_DT Health_NNP officer_NN may_MD ,_, by_IN endorsement_NN on_IN the_DT passport_NN ,_, exempt_VB any_DT person_NN from_IN personal_JJ attendance_NN and_CC permit_NN him_PRP to_TO be_VB inspected_VBN at_IN his_PRP$ residence_NN ._.
+?_. Part_NNP I.-Regulation_NNP 1_CD ._. ]_NN
+9_CD Any_NNP person_NN refusing_VBG to_TO comply_VB with_IN ,_, or_CC attempting_VBG to_TO evade_VB ,_, this_DT rule_NN may_MD be_VB detained_VBN for_IN ten_JJ days_NNS at_IN the_DT .nearest_JJS inspection_NN station_NN or_CC other_JJ place_NN appointed_VBN by_IN the_DT President_NNP for_IN the_DT purpose_NN in_IN addition_NN to_TO being_VBG subjected_VBN to_TO the_DT penalty_NN prescribed_VBN in_IN No_DT ._.
+43_CD of_IN these_DT regulations_NNS ._.
+Incapacitated_VBN persons_NNS and_CC minors_NNS ._.
+(_( 2_CD )_) In_IN the_DT case_NN of_IN incapacitated_JJ persons_NNS and_CC persons_NNS who_WP are_VBP under_IN 12_CD years_NNS of_IN age_NN ,_, the_DT obligation_NN to_TO take_VB out_RP passports_NNS for_IN them_PRP ,_, to_TO present_VB them_PRP for_IN daily_JJ inspection_NN ,_, to_TO report_VB truly_RB their_PRP$ names_NNS and_CC addresses_NNS ,_, to_TO intimate_VB any_DT change_NN in_IN their_PRP$ residence_NN ,_, and_CC to_TO comply_VB otherwise_RB with_IN the_DT requirements_NNS of_IN this_DT regulation_NN shall_MD vest_VB in_IN their_PRP$ legal_JJ guardians_NNS or_CC persons_NNS in_IN whose_WP$ charge_NN they_PRP travel_VBP or_CC who_WP receive_VBP them_PRP at_IN the_DT railway_NN station_NN of_IN destination_NN or_CC at_IN the_DT harbour_NN ._.
+Where_WRB passports_NNS to_TO be_VB issued_VBN ._.
+(_( 3_CD )_) a_DT The_DT passports_NNS shall_MD ,_, in_IN the_DT case_NN of_IN those_DT arriving_VBG by_IN the_DT Madras_NNP Railway_NNP ,_, be_VB issued_VBN at_IN the_DT platform_NN of_IN the_DT Perambr_NNP railway_NN station_NN ,_, in_IN the_DT case_NN of_IN those_DT arriving_VBG by_IN the_DT North-East_NNP line_NN of_IN the_DT Madras_NNP Railway_NNP [_NNP East_NNP Coast_NNP Railway_NNP ]_NNP at_IN the_DT platform_NN of_IN the_DT Bitragunta_NNP railway_NN station_NN and_CC in_IN the_DT case_NN of_IN those_DT arriving_VBG by_IN sea_NN at_IN the_DT Madras_NNP Harbour_NNP ._.
+Appointment_NN of_IN officers_NNS to_TO issue_VB pass-_JJ ports_NNS and_CC to_TO inspect_VB passengers_NNS ._.
+(_( 4_CD )_) The_DT President_NNP shall_MD appoint_VB suitable_JJ persons_NNS for_IN the_DT purpose_NN of_IN issuing_VBG passports_NNS at_IN the_DT places_NNS mentioned_VBN in_IN the_DT preceding_NN clause_NN (_( 3_CD )_) ._.
+The_DT city_NN shall_MD be_VB divided_VBN into_IN conveni-_JJ ent_NN circles_NNS ,_, so_IN that_IN persons_NNS required_VBN to_TO present_VB themselves_PRP for_IN inspection_NN may_MD not_RB have_VB to_TO go_VB a_DT long_JJ distance_NN for_IN the_DT purpose_NN ,_, and_CC for_IN each_DT circle_NN ,_, the_DT President_NNP shall_MD appoint_VB one_CD or_CC more_JJR officers_NNS to_TO conduct_VB the_DT ten_JJ days_NNS '_POS inspection_NN ._.
+Duties_NNS of_IN passport-_JJ holders_NNS ._.
+(_( 5_CD )_) Every_NNP person_NN required_VBN to_TO take_VB out_RP a._NN passport_NN shall_MD declare_VB truly_RB his_PRP$ name_NN ,_, address_NN ,_, and_CC such_JJ other_JJ particulars_NNS as_IN may_MD be_VB required_VBN by_IN the_DT officer_NN issuing_VBG the_DT passport_NN ._.
+He_PRP shall_MD daily_RB present_VB himself_PRP with_IN his_PRP$ passport_NN at_IN the_DT appointed_JJ time_NN before_IN the_DT passport-examining_JJ officer_NN of_IN the_DT place_NN where_WRB he_PRP may_MD be_VB for_IN the_DT time_NN being_VBG and_CC obtain_VB that_DT officer_NN 's_POS signa-_JJ ture_NN on_IN his_PRP$ passport_NN in_IN token_NN of_IN inspection_NN ._.
+If_IN he_PRP gets_VBZ ill_RB or_CC if_IN any_DT sickness_NN occurs_VBZ in_IN the_DT house_NN in_IN which_WDT he_PRP has_VBZ been_VBN residing_VBG since_IN his_PRP$ arrival_NN from_IN an_DT infected_JJ or_CC notified_JJ place_NN ,_, he_PRP shall_MD give_VB immediate_JJ information_NN of_IN the_DT same_JJ to_TO the_DT pass-_JJ port_NN examiner_NN ._.
+He_PRP shall_MD report_VB similarly_RB any_DT change_NN in_IN his_PRP$ residence_NN occurring_VBG within_IN ten_JJ days_NNS from_IN the_DT date_NN of_IN his_PRP$ arrival_NN and_CC shall_MD ,_, before_IN departure_NN ,_, get_VB the_DT entries_NNS under_IN headings_NNS 11_CD and_CC 12_CD of_IN his_PRP$ passport_NN altered_VBN by_IN the_DT passport_NN examiner_NN ._.
+On_IN the_DT expiry_NN of_IN the_DT said_VBD period_NN of_IN ten_JJ days_NNS ,_, he_PRP a_DT As_IN amended_VBN by_IN notification_NN No_NNP ._.
+569_CD ,_, Fort_NNP St._NNP George_NNP Gazette_NNP ,_, dated_VBD 27th_CD May_NNP 1902_CD ,_, part_NN I-A_NNP ,_, page_NN 198_CD ._.
+2_CD ?_. 10_CD [_JJ Part_NNP I.-Regulation_NN 1._CD shall_MD deliver_VB up_RP his_PRP$ passport_NN to_TO the_DT passport_NN examiner_NN of_IN the_DT place_NN where_WRB he_PRP may_MD then_RB be_VB ._.
+Intimation_NN of_IN issue_NN of_IN passports_NNS ._.
+(_( 6_CD )_) (_( i_NN )_) The_DT issue_NN of_IN a_DT passport_NN shall_MD immediately_RB be_VB com-_JJ municated_VBN by_IN the_DT officer_NN issuing_VBG it_PRP to_TO the_DT passport_NN examiner_NN of_IN the_DT circle_NN to_TO which_WDT the_DT traveller_NN proceeds_NNS by_IN sending_VBG him_PRP the_DT triplicate_NN copy_NN of_IN the_DT passport_NN ._.
+(_( ii_NN )_) The_DT following_JJ procedure_NN should_MD be_VB followed_VBN in_IN respect_NN to_TO passport-holders_NNS who_WP change_VBP their_PRP$ residence_NN within_IN the_DT city_NN or_CC leave_VBP for_IN other_JJ places_NNS in_IN the_DT presidency_NN within_IN ten_JJ days_NNS of_IN their_PRP$ arrival_NN :_: -_: (_( a_DT )_) The_DT passport_NN examiner_NN of_IN the_DT original_JJ place_NN of_IN arrival_NN should_MD send_VB the_DT triplicate_NN copy_NN of_IN the_DT passport_NN to_TO the_DT passport_NN examiner_NN of_IN the_DT new_JJ place_NN of_IN destination_NN after_IN noting_VBG therein_RB the_DT number_NN of_IN days_NNS for_IN which_WDT the_DT passport-_NN holder_NN has_VBZ been_VBN observed_VBN ._.
+(_( b_NN )_) If_IN the_DT new_JJ place_NN of_IN destination_NN is_VBZ in_IN a_DT district_NN ,_, the_DT change_NN of_IN residence_NN should_MD also_RB be_VB intimated_VBN directly_RB to_TO the_DT district_NN medical_JJ and_CC sanitary_JJ officer_NN of_IN that_DT district_NN ._.
+Duties_NNS of_IN passport_NN examiner_NN ._.
+(_( 7_CD )_) The_DT passport_NN examiner_NN of_IN the_DT place_NN of_IN destination_NN shall_MD see_VB that_IN ,_, on_IN the_DT arrival_NN of_IN the_DT traveller_NN ,_, he_PRP is_VBZ observed_JJ daily_RB for_IN ten_JJ days_NNS ._.
+Any_DT case_NN of_IN illness_NN or_CC death_NN in_IN the_DT house_NN in_IN which_WDT such_JJ traveller_NN is_VBZ or_CC has_VBZ been_VBN residing_VBG shall_MD be_VB forth-_JJ with_IN reported_VBN with_IN full_JJ details_NNS to_TO the_DT nearest_JJS officer_NN of_IN the_DT medical_JJ or_CC sanitary_JJ department_NN ._.
+Particular_JJ attention_NN should_MD be_VB paid_VBN to_TO cases_NNS of_IN fever_NN accompanied_VBN with_IN acute_JJ affection_NN of_IN the_DT lungs_NNS ,_, as_IN these_DT symptoms_NNS may_MD indicate_VB the_DT existence_NN of_IN pneumonic_JJ plague_NN ._.
+The_DT appearance_NN of_IN glandular_JJ swellings_NNS attended_VBN by_IN constitutional_JJ disturbance_NN so_RB slight_JJ as_IN not_RB to_TO prevent_VB the_DT patient_NN moving_VBG about_RB ,_, the_DT occurrence_NN of_IN abortion_NN amongst_JJ women_NNS ,_, of_IN convulsions_NNS amongst_VBP children_NNS and_CC of_IN sudden_JJ death_NN in_IN the_DT aged_NN should_MD not_RB be_VB ascribed_VBN to_TO ordinary_JJ causes_NNS without_IN medical_JJ advice_NN ._.
+After_IN ten_JJ days_NNS ,_, the_DT duplicate_NN passport_NN shall_MD be_VB recovered_VBN from_IN the_DT traveller_NN and_CC sent_VBD to_TO the_DT Health_NNP officer_NN ._.
+Passport_NNP examiner_NN 's_POS register_NN ._.
+(_( 8_CD )_) A_DT register_NN ,_, which_WDT may_MD be_VB kept_VBN in_IN manuscript_NN ,_, shall_MD be_VB maintained_VBN by_IN each_DT passport_NN examiner_NN in_IN the_DT following_JJ form_NN :_: -_: (_( 1_CD )_) Date_NN of_IN receipt_NN of_IN triplicate_JJ copy_NN of_IN passport_NN or_CC other_JJ intimation_NN ._.
+(_( 2_CD )_) Name_NN of_IN traveller_NN ._.
+(_( 3_CD )_) From_IN what_WP infected_VBD or_CC notified_JJ area_NN arriving_NN ._.
+(_( 4_CD )_) Date_NN of_IN arrival_NN of_IN traveller_NN ._.
+(_( 5_CD )_) Number_NNP ,_, date_NN and_CC place_NN of_IN issue_NN of_IN passport_NN ._.
+(_( 6_CD )_) How_WRB long_JJ kept_NN under_IN observation_NN ._.
+(_( 7_CD )_) State_NNP of_IN health_NN of_IN the_DT traveller_NN and_CC other_JJ persons_NNS living_VBG in_IN the_DT house_NN in_IN which_WDT he_PRP is_VBZ or_CC has_VBZ been_VBN residing_VBG ._.
+Part_VB I.-Regulation_NNP 2_CD ._. ]_NN
+11_CD (_( 8_CD )_) Date_NN of_IN departure_NN if_IN occurring_VBG within_IN ten_JJ days_NNS ._.
+(_( 9_CD )_) Destination_NN ._.
+(_( 10_CD )_) Date_NN of_IN despatch_NN of_IN triplicate_NN passport_NN to_TO the_DT passport_NN examiner_NN of_IN the_DT place_NN of_IN destination_NN ,_, and_CC of_IN intimation_NN to_TO the_DT district_NN medical_JJ and_CC sanitary_JJ officer_NN ._.
+(_( 11_CD )_) Date_NN of_IN despatch_NN of_IN the_DT duplicate_NN passport_NN to_TO the_DT Health_NNP officer_NN ._.
+Information_NN regarding_VBG plague_NN cases_NNS and_CC arrivals_NNS from_IN infected_VBN areas_NNS ._.
+2_CD ._.
+(_( 1_CD )_) Every_DT house-holder_NN and_CC every_DT medical_JJ practitioner_NN who_WP becomes_VBZ cognizant_NN of_IN the_DT occurrence_NN in_IN his_PRP$ house_NN or_CC in_IN any_DT other_JJ public_JJ or_CC private_JJ dwelling_NN or_CC place_NN within_IN the_DT limits_NNS of_IN the_DT municipality_NN ,_, of_IN any_DT case_NN of_IN plague_NN or_CC of_IN fever_NN with_IN glandular_JJ swellings_NNS ,_, and_CC in_IN the_DT case_NN of_IN persons_NNS who_WP live_VBP within_IN an_DT area_NN that_WDT has_VBZ been_VBN notified_VBN as_IN infected_JJ or_CC who_WP have_VBP been_VBN in_IN any_DT way_NN exposed_VBN to_TO plague_VB infection_NN ,_, of_IN acute_JJ affections_NNS of_IN the_DT lung_NN ,_, of_IN convulsions_NNS in_IN children_NNS ,_, abortion_NN in_IN women_NNS and_CC sudden_JJ death_NN in_IN the_DT aged_NN ,_, shall_MD be_VB bound_VBN to_TO give_VB information_NN of_IN the_DT same_JJ ,_, with_IN the_DT least_JJS prac-_JJ ticable_JJ delay_NN ,_, to_TO the_DT Health_NNP officer_NN or_CC a_DT sanitary_JJ inspector_NN of_IN the_DT municipality_NN ._.
+(_( 2_CD )_) Every_DT house-holder_NN and_CC every_DT keeper_NN or_CC person_NN in_IN charge_NN of_IN an_DT hotel_NN ,_, chuttram_NN or_CC other_JJ place_NN of_IN public_JJ resort_NN ,_, shall_MD also_RB in_IN the_DT same_JJ manner_NN forthwith_JJ report_NN the_DT arrival_NN at_IN the_DT house_NN ,_, hotel_NN ,_, chuttram_NN or_CC other_JJ place_NN ,_, of_IN any_DT person_NN from_IN any_DT area_NN which_WDT has_VBZ been_VBN declared_VBN by_IN the_DT Governor_NNP in_IN Council_NNP or_CC the_DT Collector_NNP of_IN a_DT district_NN to_TO be_VB infected_VBN or_CC which_WDT has_VBZ been_VBN notified_VBN by_IN the_DT Governor_NNP in_IN Council_NNP for_IN the_DT purposes_NNS of_IN the_DT preceding_VBG regulation_NN 1_CD ._.
+(_( 3_CD )_) When_WRB in_IN any_DT hospital_NN a_DT case_NN of_IN plague_NN or_CC a_DT case_NN which_WDT presents_VBZ symptoms_NNS suspicious_JJ of_IN plague_NN is_VBZ received_VBN ,_, it_PRP shall_MD be_VB the_DT duty_NN of_IN the_DT chief_JJ medical_JJ officer_NN to_TO report_VB the_DT case_NN forthwith_NN for_IN the_DT information_NN of_IN the_DT Health_NNP officer_NN ,_, and_CC if_IN the_DT condition_NN of_IN the_DT patient_NN be_VB such_JJ that_IN in_IN the_DT opinion_NN of_IN the_DT chief_JJ medical_JJ officer_NN it_PRP would_MD be_VB inadvisable_JJ to_TO remove_VB such_JJ patient_NN to_TO any_DT place_NN of_IN observation_NN maintained_VBN by_IN the_DT municipality_NN ,_, he_PRP shall_MD exercise_VB sanitary_JJ care_NN to_TO the_DT satisfaction_NN of_IN the_DT Health_NNP officer_NN and_CC shall_MD furnish_VB him_PRP with_IN the_DT names_NNS of_IN all_DT persons_NNS who_WP have_VBP been_VBN in_IN contact_NN with_IN the_DT patient_NN or_CC with_IN possibly_RB infective_JJ matter_NN ._.
+The_DT Health_NNP officer_NN may_MD thereupon_VB require_VB that_IN the_DT chief_JJ medical_JJ officer_NN shall_MD furnish_VB him_PRP daily_RB with_IN a_DT certificate_NN as_IN to_TO the_DT state_NN of_IN health_NN of_IN such_JJ of_IN these_DT persons_NNS as_IN are_VBP employed_VBN under_IN the_DT medical_JJ officer_NN ,_, for_IN such_JJ period_NN as_IN the_DT circumstances_NNS of_IN the_DT case_NN may_MD seem_VB to_TO him_PRP to_TO require_VB ;_: provided_VBN it_PRP be_VB not_RB necessary_JJ in_IN the_DT judgment_NN of_IN the_DT Health_NNP officer_NN to_TO take_VB any_DT other_JJ action_NN sanctioned_VBN by_IN these_DT regulations_NNS ._.
+?_. 12_CD [_IN Part_NNP I_PRP ._.
+-_: Regulation_NN 3_CD ._.
+Special_JJ in-_JJ quiries_NNS when_WRB mortality_NN is_VBZ excessive_JJ or_CC when_WRB sns-_JJ picious_JJ cases_NNS of_IN fever_NN occur_NN ._.
+3_CD ._.
+Whenever_WRB the_DT deaths_NNS reported_VBN from_IN any_DT locality_NN are_VBP found_VBN to_TO be_VB more_RBR frequent_JJ than_IN usual_JJ ,_, or_CC when_WRB any_DT case_NN of_IN fever_NN with_IN glandular_JJ swellings_NNS is_VBZ reported_VBN ,_, the_DT Health_NNP officer_NN shall_MD at_IN once_RB make_JJ inquiries_NNS with_IN a_DT view_NN to_TO ascertain_VB whether_IN plague_NN exists_NNS in_IN the_DT city_NN ._.
+District_NNP surgeons_NNS shall_MD bring_VB to_TO his_PRP$ notice_NN promptly_RB any_DT circumstances_NNS within_IN their_PRP$ pro-_JJ fessional_JJ knowledge_NN that_WDT may_MD in_IN their_PRP$ opinion_NN aid_NN such_JJ investigation_NN ._.
+Disinfection_NN of_IN railway_NN carriages_NNS from_IN infected_VBN areas_NNS ._.
+4_CD ._.
+When_WRB any_DT carriage_NN from_IN an_DT infected_JJ area_NN is_VBZ detached_VBN from_IN a_DT train_NN at_IN any_DT railway_NN station_NN within_IN the_DT city_NN of_IN Madras_NNP ,_, it_PRP shall_MD be_VB disinfected_VBN and_CC ventilated_VBN by_IN the_DT railway_NN author-_JJ ities_NNS in_IN the_DT following_JJ manner_NN as_RB soon_RB as_IN possible_JJ and_CC before_IN it_PRP is_VBZ again_RB brought_VBN into_IN use_NN ,_, such_JJ disinfection_NN and_CC ventilation_NN being_VBG effected_VBN to_TO the_DT satisfaction_NN of_IN the_DT Health_NNP officer_NN or_CC an_DT officer_NN deputed_VBN by_IN him_PRP for_IN the_DT purpose_NN :_: -_: (_( i_NN )_) Third_NNP and_CC intermediate_JJ class_NN carriages-_NN The_DT interior_JJ wood-work_NN of_IN the_DT carriages_NNS ,_, especially_RB the_DT floors_NNS and_CC seats_NNS ,_, shall_MD be_VB thoroughly_RB washed_VBN with_IN a_DT solution_NN of_IN perchloride_NN of_IN mercury_NN (_( 1_CD in_IN 1,000_CD )_) and_CC of_IN hydrochloric_JJ acid_NN (_( 2_CD in_IN 1,000_CD )_) ;_: the_DT doors_NNS and_CC windows_NNS shall_MD be_VB opened_VBN ,_, and_CC the_DT vehicle_NN exposed_VBD to_TO the_DT air_NN ;_: the_DT sweepings_NNS shall_MD be_VB carefully_RB collected_VBN and_CC be_VB burnt_VBN ._.
+(_( ii_NN )_) First_NNP and_CC second_JJ class_NN carriages-_NN The_DT floors_NNS and_CC wood-work_NN shall_MD be_VB treated_VBN as_IN above_NN ,_, the_DT cushions_NNS being_VBG also_RB brushed_VBN and_CC thoroughly_RB cleansed_VBN and_CC exposed_VBN to_TO the_DT sun_NN for_IN not_RB less_JJR than_IN four_CD hours_NNS ._.
+Disinfection_NN of_IN railway_NN carriages_NNS in_IN which_WDT plague_NN patients_NNS have_VBP travelled_VBN ._.
+a_DT 5_CD ._.
+(_( 1_CD )_) Any_DT railway_JJ carriage_NN from_IN which_WDT a_DT passenger_NN who_WP is_VBZ suffering_VBG from_IN the_DT plague_NN has_VBZ been_VBN removed_VBN shall_MD be_VB detached_VBN at_IN the_DT nearest_JJS convenient_NN station_NN ,_, and_CC shall_MD be_VB disinfected_VBN by_IN the_DT railway_NN authorities_NNS as_IN follows_VBZ :_: -_: (_( i_NN )_) The_DT carriages_NNS ,_, after_IN being_VBG detached_VBN from_IN the_DT train_NN ,_, should_MD be_VB thoroughly_RB washed_VBN with_IN soft_JJ soap_NN ._.
+After_IN an_DT interval_NN of_IN two_CD to_TO three_CD hours_NNS ,_, this_DT should_MD be_VB washed_VBN off_RP with_IN plain_JJ water_NN ,_, and_CC then_RB the_DT following_VBG disinfecting_JJ solution_NN should_MD be_VB thoroughly_RB sprayed_VBN all_DT over_IN the_DT interior_NN as_RB well_RB as_IN the_DT exterior_NN of_IN the_DT carriages_NNS by_IN means_NNS of_IN a_DT syringe_NN :_: -_: Corrosive_JJ sublimate_NN ..._: 1/2_CD oz_NN ._.
+Hydrochloric_NNP acid_NN ..._: 1_CD ``_`` Water_NNP ..._: ..._: ..._: ..._: ..._: 3_CD gallons_NNS ._.
+This_DT solution_NN should_MD be_VB allowed_VBN to_TO dry_VB on_IN the_DT car-_JJ riages_NNS ._.
+Special_JJ care_NN must_MD be_VB taken_VBN to_TO direct_VB the_DT solution_NN into_IN all_PDT the_DT cracks_NNS and_CC crevices_NNS and_CC jilmills_NNS ._.
+a_DT As_NNP amended_VBN by_IN notification_NN No_NNP ._.
+452_CD published_VBN at_IN page_NN 821_CD of_IN part_NN I-A_NNP of_IN the_DT Fort_NNP St._NNP George_NNP Gazette_NNP ,_, dated_VBD 4th_CD June_NNP 1901_CD ._.
+Part_NN I_PRP ._.
+-_: Regulation_NN 6_CD ._. ]_NN
+13_CD (_( ii_NN )_) After_IN disinfection_NN ,_, the_DT carriages_NNS should_MD be_VB kept_VBN out_RP in_IN the_DT open_JJ for_IN 48_CD hours_NNS ._.
+They_PRP can_MD then_RB be_VB brought_VBN into_IN use_NN again_RB ._.
+(_( iii_NN )_) In_IN the_DT case_NN of_IN first_JJ and_CC second_JJ class_NN carriages_NNS ,_, which_WDT afford_VBP greater_JJR facilities_NNS than_IN third-class_JJ compartments_NNS for_IN the_DT harbouring_NN of_IN plague_NN germs_NNS ,_, it_PRP will_MD be_VB necessary_JJ ,_, if_IN the_DT carriages_NNS are_VBP contaminated_VBN ,_, to_TO burn_VB the_DT cushions_NNS and_CC to_TO disinfect_VB the_DT wood-work_NN in_IN the_DT manner_NN indicated_VBD above_IN ,_, and_CC repaint_VB the_DT interior_NN ._.
+(_( 2_CD )_) If_IN a_DT compartment_NN has_VBZ been_VBN used_VBN by_IN a_DT suspicious_JJ case_NN of_IN plague_NN ,_, it_PRP shall_MD be_VB treated_VBN as_IN directed_VBN in_IN the_DT preceding_VBG regulation_NN 4_CD ._.
+If_IN of_IN the_DT third_JJ or_CC intermediate_JJ class_NN ,_, its_PRP$ use_NN may_MD be_VB permitted_VBN as_RB soon_RB as_IN it_PRP is_VBZ thoroughly_JJ dry_JJ ;_: but_CC if_IN it_PRP be_VB of_IN the_DT first_JJ or_CC second_JJ class_NN ,_, it_PRP shall_MD ,_, after_IN such_JJ disinfection_NN ,_, be_VB kept_VBN locked_JJ and_CC unused_JJ until_IN the_DT nature_NN of_IN the_DT case_NN be_VB definitely_RB ascertained_VBN ,_, when_WRB the_DT question_NN as_IN to_TO whether_IN or_CC not_RB the_DT cushions_NNS be_VB destroyed_VBN and_CC further_JJ disinfection_NN be_VB effected_VBN ,_, shall_MD be_VB decided_VBN in_IN accordance_NN with_IN the_DT preceding_NN clause_NN (_( 1_CD )_) (_( iii_JJ )_) of_IN this_DT regulation_NN ._.
+Power_NN to_TO enter_VB any_DT building_NN or_CC place_NN for_IN the_DT purpose_NN of_IN inspecting_VBG plague_NN cases_NNS and_CC taking_VBG necessary_JJ measures_NNS ._.
+6_CD ._.
+The_DT President_NNP or_CC any_DT officer_NN authorized_VBN by_IN him_PRP for_IN this_DT purpose_NN may_MD at_IN any_DT time_NN enter_NN any_DT building_NN or_CC place_NN in_IN which_WDT plague_NN is_VBZ reputed_VBN or_CC suspected_VBN to_TO exist_VB ,_, and_CC inspect_NN and_CC ,_, if_IN necessary_JJ ,_, detain_NN or_CC remove_VB and_CC isolate_VB any_DT person_NN suffering_NN or_CC suspected_VBN to_TO be_VB suffering_VBG from_IN plague_NN ,_, or_CC to_TO have_VB so_RB lately_RB suffered_VBN from_IN plague_NN as_IN to_TO be_VB in_IN an_DT infectious_JJ state_NN ,_, or_CC likely_RB from_IN recent_JJ contact_NN with_IN plague_NN cases_NNS to_TO have_VB been_VBN infected_VBN or_CC to_TO be_VB in_IN an_DT infectious_JJ state_NN ,_, or_CC believed_VBN to_TO have_VB recently_RB arrived_VBN from_IN an_DT infected_JJ or_CC notified_JJ area_NN ._.
+Bringing_NNP of_IN susceptible_JJ articles_NNS from_IN infected_VBN areas_NNS prohibited_VBN ._.
+7_CD ._.
+The_DT bringing_NN ,_, taking_VBG ,_, sending_VBG ,_, or_CC consigning_NN ,_, by_IN sea_NN or_CC land_NN ,_, of_IN soiled_JJ linen_NN and_CC used_VBD bedding_NN (_( except_IN when_WRB carried_VBN as_IN the_DT personal_JJ baggage_NN of_IN travellers_NNS )_) ,_, rags_NNS ,_, and_CC waste_JJS paper_NN from_IN a_DT plague-infected_JJ place_NN in_IN India_NNP into_IN or_CC through_IN any_DT other_JJ part_NN of_IN India_NNP to_TO which_WDT the_DT Epidemic_NNP Diseases_NNP Act_NNP ,_, 1897_CD (_( III_NNP of_IN 1897_CD )_) applies_NNS ,_, having_VBG been_VBN prohibited_VBN by_IN the_DT Government_NNP of_IN India_NNP ,_, the_DT President_NNP shall_MD take_VB due_JJ steps_NNS to_TO make_VB the_DT prohibition_NN known_VBN and_CC to_TO enforce_VB it_PRP ._.
+Articles_NNS brought_VBN in_IN contravention_NN of_IN this_DT prohibition_NN shall_MD be_VB de-_JJ stroyed_VBN ,_, and_CC no_DT person_NN shall_MD be_VB entitled_VBN to_TO claim_VB compensation_NN on_IN account_NN of_IN such_JJ destruction_NN ._.
+Destruction_NN of_IN rats_NNS ._.
+8_CD ._.
+The_DT President_NNP shall_MD arrange_VB for_IN the_DT frequent_JJ inspec-_JJ tion_NN of_IN consignments_NNS of_IN grain_NN arriving_VBG from_IN plague-infected_JJ areas_NNS and_CC of_IN landing_VBG places_NNS ,_, railway_RB goods-sheds_NNS ,_, and_CC grain_NN bazaars_NNS ,_, and_CC for_IN the_DT killing_NN and_CC subsequent_JJ destruction_NN by_IN burning_VBG of_IN all_DT rats_NNS found_VBD therein_RB ._.
+When_WRB any_DT place_NN is_VBZ ?_. 14_CD [_IN Part_NNP I_PRP ._.
+-_: Regulation_NN 9._CD infected_VBN ,_, steps_NNS shall_MD be_VB taken_VBN to_TO destroy_VB rats_NNS in_IN it_PRP and_CC in_IN the_DT surrounding_JJ area_NN ._.
+Restrictions_NNS on_IN ._.
+festivals_NNS ,_, fairs_NNS ,_, &_CC G._NNP 9_CD ._.
+(_( 1_CD )_) When_WRB a_DT festival_NN or_CC fair_NN or_CC other_JJ public_JJ gathering_NN which_WDT is_VBZ likely_JJ to_TO be_VB attended_VBN by_IN persons_NNS from_IN plague-infected_JJ parts_NNS is_VBZ about_IN to_TO take_VB place_NN in_IN an_DT uninfected_JJ part_NN of_IN the_DT city_NN ,_, the_DT President_NNP shall_MD apply_VB to_TO Government_NNP for_IN orders_NNS to_TO pro-_JJ hibit_NN their_PRP$ attendance_NN and_CC to_TO enforce_VB the_DT prohibition_NN by_IN stopping_VBG temporarily_RB the_DT issue_NN of_IN railway_JJ tickets_NNS to_TO such_JJ persons_NNS or_CC by_IN other_JJ means_NNS ._.
+A_DT similar_JJ course_NN shall_MD be_VB adopted_VBN when_WRB a_DT festival_NN or_CC fair_NN or_CC other_JJ public_JJ gathering_NN which_WDT is_VBZ likely_JJ to_TO be_VB attended_VBN by_IN persons_NNS from_IN healthy_JJ parts_NNS is_VBZ about_IN to_TO take_VB place_NN in_IN a_DT plague-infected_JJ part_NN of_IN the_DT city_NN ._.
+(_( 2_CD )_) Should_MD any_DT inhabitant_NN of_IN the_DT city_NN be_VB ascertained_VBN to_TO have_VB attended_VBN fairs_NNS or_CC festivals_NNS beyond_IN the_DT municipal_JJ limits_NNS which_WDT Government_NNP has_VBZ notified_VBN as_IN in_IN danger_NN of_IN plague_JJ infection_NN and_CC has_VBZ therefore_RB directed_VBN shall_MD be_VB attended_VBN solely_RB by_IN local_JJ inhabitants_NNS ,_, the_DT President_NNP may_MD require_VB that_IN he_PRP shall_MD take_VB out_RP a_DT passport_NN and_CC undergo_JJ surveillance_NN for_IN a_DT period_NN of_IN ten_JJ days_NNS ._.
+Part_RB II.-Measures_VBZ to_TO be_VB adopted_VBN when_WRB the_DT city_NN is_VBZ imminently_RB threatened_VBN with_IN Plague_NNP ._.
+Declaring-_NNP the_DT city_NN to_TO be_VB under_IN observation_NN and_CC authoriz-_JJ ing_VBG the_DT President_NNP to_TO adopt_VB certain_JJ measures_NNS ._.
+10_CD ._.
+Should_MD it_PRP appear_VB that_IN plague_NN imminently_RB threatens_VBZ to_TO attack_VB the_DT city_NN of_IN Madras_NNP ,_, Government_NNP may_MD declare_VB it_PRP to_TO be_VB under_IN observation_NN and_CC may_MD authorize_VB the_DT President_NNP to_TO establish_VB frontier_JJR inspection_NN stations_NNS ,_, to_TO arrange_VB observation_NN circles_NNS ,_, to_TO organise_VB sanitary_JJ and_CC ambulance_JJ staffs_NNS ,_, to_TO provide_VB plague_NN hospitals_NNS and_CC camps_NNS ,_, and_CC to_TO take_VB such_JJ other_JJ measures_NNS as_IN may_MD seem_VB necessary_JJ ._.
+Duties_NNS of_IN the_DT observation_NN staff_NN ._.
+11_CD ._.
+The_DT observation_NN circles_VBZ shall_MD ,_, as_RB far_RB as_IN possible_JJ ,_, follow_JJ ward_NN divisions_NNS so_IN that_IN they_PRP may_MD be_VB readily_RB comprehended_VBN ._.
+They_PRP shall_MD be_VB placed_VBN in_IN the_DT charge_NN of_IN men_NNS who_WP have_VBP received_VBN a_DT special_JJ training_NN for_IN dealing_VBG with_IN plague_NN to_TO the_DT satisfaction_NN of_IN the_DT Sanitary_NNP Commissioner_NNP ._.
+The_DT duty_NN of_IN these_DT officers_NNS will_MD be_VB to_TO constantly_RB and_CC systematically_RB patrol_VB the_DT circles_NNS in_IN order_NN to_TO gain_VB the_DT earliest_JJS possible_JJ information_NN of_IN a_DT case_NN of_IN plague_NN ,_, so_IN that_DT immediate_JJ action_NN may_MD be_VB taken_VBN ,_, and_CC to_TO remove_VB with_IN the_DT aid_NN of_IN the_DT ordinary_JJ conservancy_NN establishment_NN all_DT defects_NNS in_IN sanitation_NN which_WDT would_MD favour_VB the_DT propagation_NN of_IN plague_NN ,_, such_JJ as_IN accumulations_NNS of_IN cowdung_NN ,_, manure_NN or_CC stagnant_JJ sewage_NN ,_, absence_NN of_IN perflation_NN of_IN groups_NNS of_IN buildings_NNS ,_, &_CC c._NN They_PRP should_MD also_RB check_VB the_DT possession_NN of_IN passports_NNS or_CC passes_NNS in_IN the_DT case_NN of_IN persons_NNS arriving_VBG from_IN an_DT infected_JJ locality_NN ._.
+Should_MD any_DT person_NN so_RB arrive_JJ without_IN a_DT passport_NN or_CC pass_NN ,_, or_CC ?_. Part_NNP II_NNP ._.
+-_: Regulation_NN 12_CD ._. ]_NN
+15_CD having_VBG broken_VBN its_PRP$ conditions_NNS ,_, any_DT member_NN of_IN the_DT observation_NN staff_NN may_MD detain_VB him_PRP and_CC cause_VB him_PRP to_TO be_VB dealt_VBN with_IN in_IN accordance_NN with_IN these_DT regulations_NNS ._.
+Provision_NN of_IN accommoda-_JJ tion_NN for_IN plague_NN purposes_NNS ._.
+12_CD ._.
+The_DT President_NNP ,_, if_IN he_PRP has_VBZ not_RB already_RB done_VBN so_RB ,_, shall_MD provide_VB and_CC maintain_VB in_IN such_JJ localities_NNS ,_, whether_IN within_IN or_CC without_IN the_DT municipal_JJ limits_NNS ,_, as_IN in_IN the_DT opinion_NN of_IN the_DT Health_NNP officer_NN may_MD be_VB proper_JJR for_IN the_DT purpose_NN ,_, suitable_JJ and_CC sufficient_JJ accommodation_NN to_TO the_DT satisfaction_NN of_IN such_JJ officer_NN and_CC the_DT Sanitary_NNP Commissioner_NNP for_IN Madras_NNP ,_, for_IN the_DT following_JJ purposes_NNS :_: -_: (_( a_DT )_) an_DT hospital_NN camp_NN for_IN the_DT isolation_NN and_CC treatment_NN of_IN persons_NNS suffering_VBG or_CC suspected_VBN to_TO be_VB suffering_VBG from_IN plague_NN ;_: (_( b_NN )_) a_DT suspect_JJ camp_NN for_IN the_DT detention_NN of_IN contacts_NNS ;_: (_( c_NN )_) a_DT health_NN camp_NN for_IN the_DT occupation_NN of_IN persons_NNS who_WP may_MD be_VB required_VBN to_TO vacate_VB any_DT building_NN or_CC ground_NN under_IN these_DT regulations_NNS and_CC who_WP may_MD be_VB unable_JJ to_TO procure_VB necessary_JJ accommodation_NN for_IN themselves_PRP ._.
+In_IN the_DT places_NNS so_RB provided_VBD ,_, the_DT President_NNP shall_MD furnish_VB such_JJ hospital_NN establishments_NNS ,_, equipment_NN and_CC supplies_NNS as_IN the_DT Health_NNP officer_NN and_CC the_DT Sanitary_NNP Commissioner_NNP may_MD deter-_VB mine_NN ,_, and_CC shall_MD also_RB make_VB arrangements_NNS for_IN feeding_VBG persons_NNS detained_VBN under_IN any_DT of_IN these_DT regulations_NNS on_IN payment_NN by_IN them_PRP of_IN the_DT cost_NN ;_: but_CC in_IN the_DT case_NN of_IN indigent_JJ persons_NNS ,_, the_DT President_NNP shall_MD supply_VB them_PRP with_IN food_NN free_NNS of_IN charge_NN :_: provided_VBN that_IN any_DT person_NN so_RB detained_JJ shall_MD have_VB full_JJ liberty_NN to_TO cater_VB for_IN himself_PRP subject_JJ to_TO such_JJ rules_NNS and_CC conditions_NNS as_IN the_DT medical_JJ officer_NN in_IN charge_NN may_MD prescribe_VB ._.
+Acquisition_NNP of_IN lands_NNS or_CC buildings_NNS required_VBN for_IN plague_NN ._.
+13_CD ._.
+Any_DT building_NN or_CC place_NN ,_, whether_IN within_IN or_CC without_IN the_DT municipal_JJ limits_NNS ,_, which_WDT is_VBZ required_VBN for_IN and_CC is_VBZ ,_, in_IN the_DT opinion_NN of_IN the_DT Health_NNP officer_NN ,_, suitable_JJ for_IN the_DT purpose_NN of_IN the_DT accom-_JJ modation_NN to_TO be_VB provided_VBN under_IN the_DT last_JJ preceding_NN regulation_NN ,_, may_MD be_VB entered_VBN upon_IN and_CC occupied_VBD without_IN having_VBG recourse_NN to_TO the_DT Land_NNP Acquisition_NNP Act_NNP ,_, 1894_CD (_( I_PRP of_IN 1894_CD )_) by_IN the_DT President_NNP or_CC a_DT person_NN deputed_VBN by_IN him_PRP in_IN this_DT behalf_NN (_( if_IN unoccupied_VBN without_IN any_DT notice_NN whatsoever_NN ,_, and_CC if_IN occupied_VBN after_IN twenty-_JJ four_CD hours_NNS '_POS notice_NN in_IN writing_VBG conspicuously_RB posted_VBN on_IN such_JJ house_NN or_CC building_NN )_) and_CC may_MD be_VB used_VBN for_IN the_DT purposes_NNS of_IN the_DT accommodation_NN under_IN the_DT last_JJ preceding_JJ regulation_NN ;_: and_CC the_DT owner_NN or_CC the_DT lessee_NN of_IN such_JJ building_NN or_CC place_NN shall_MD not_RB be_VB entitled_VBN to_TO anything_NN beyond_IN a_DT reasonable_JJ rent_NN as_IN fixed_VBN by_IN the_DT President_NNP for_IN the_DT period_NN during_IN which_WDT the_DT ground_NN or_CC building_NN may_MD remain_VB in_IN the_DT occupation_NN of_IN the_DT Municipal_JJ Commissioners_NNS :_: provided_VBD that_IN the_DT President_NNP shall_MD be_VB bound_VBN at_IN the_DT cost_NN of_IN the_DT municipality_NN thoroughly_RB to_TO cleanse_VB and_CC disinfect_VB the_DT ground_NN ?_. 16_CD [_NNP Part_NNP II_NNP ._.
+Regulation_NN 14._CD and_CC ,_, if_IN a_DT building_NN ,_, to_TO cleanse_VB ,_, disinfect_NN and_CC ,_, if_IN desired_VBN by_IN the_DT owner_NN ,_, whitewash_VBP it_PRP internally_RB and_CC externally_RB after_IN vacating_VBG it_PRP ._.
+Arrange-_JJ ments_NNS for_IN organizing_VBG ambulance_NN staff_NN ._.
+14_CD ._.
+The_DT President_NNP shall_MD make_VB all_DT arrangements_NNS for_IN being_VBG able_JJ to_TO concentrate_VB immediately_RB when_WRB desirable_JJ one_CD or_CC more_JJR ambulance_NN staffs_NNS together_RB with_IN such_JJ equipment_NN as_IN may_MD be_VB prescribed_VBN by_IN Government_NNP from_IN time_NN to_TO time_NN ._.
+Concentra-_JJ tion_NN of_IN ambu-_JJ lance_NN staff_NN ._.
+15_CD ._.
+When_WRB he_PRP sees_VBZ fit_JJ ,_, the_DT President_NNP may_MD concentrate_VB and_CC hold_VB in_IN readiness_NN the_DT ambulance_NN staff_NN or_CC staffs_NNS ._.
+Conveyances_NNS for_IN the_DT carriage_NN of_IN the_DT sick_JJ and_CC of_IN infected_JJ articles_NNS ._.
+16_CD ._.
+The_DT President_NNP shall_MD provide_VB suitable_JJ conveyances_NNS for_IN the_DT free_JJ carriage_NN to_TO a_DT place_NN provided_VBN under_IN No_DT ._.
+12_CD of_IN these_DT regulations_NNS ,_, or_CC other_JJ place_NN ,_, of_IN persons_NNS suffering_VBG ,_, or_CC suspected_VBN to_TO be_VB suffering_VBG ,_, from_IN the_DT plague_NN ,_, and_CC for_IN the_DT transport_NN of_IN any_DT clothing_NN ,_, bedding_NN or_CC other_JJ articles_NNS which_WDT have_VBP been_VBN exposed_VBN to_TO infection_NN ._.
+Training_VBG the_DT establish-_JJ ment_NN ._.
+17_CD ._.
+He_PRP shall_MD see_VB that_IN the_DT whole_JJ establishment_NN under_IN him_PRP knows_VBZ its_PRP$ duties_NNS ,_, both_DT while_IN the_DT city_NN is_VBZ under_IN observation_NN and_CC also_RB on_IN the_DT outbreak_NN of_IN plague_NN ._.
+He_PRP shall_MD especially_RB bring_VB Nos_NNP ._.
+1_CD ,_, 2_CD ,_, 3_CD ,_, 7_CD and_CC 18_CD of_IN these_DT regulations_NNS to_TO the_DT notice_NN of_IN his_PRP$ subordinates_NNS and_CC the_DT inhabitants_NNS ._.
+Part_RB III.-Measures_VBZ to_TO be_VB adopted_VBN on_IN the_DT occurrence_NN of_IN Plague_NNP ._.
+Report_NNP by_IN local_JJ officers_NNS of_IN occurrence_NN of_IN plague_NN and_CC isolation_NN of_IN patient_NN and_CC contacts_NNS ._.
+a_DT 18_CD ._.
+On_IN the_DT occurrence_NN of_IN a_DT suspected_JJ or_CC actual_JJ case_NN of_IN plague_NN ,_, it_PRP shall_MD be_VB the_DT duty_NN of_IN the_DT sanitary_JJ inspector_NN or_CC other_JJ local_JJ officer_NN to_TO send_VB intelligence_NN by_IN express_NN to_TO the_DT Presi-_NNP dent_NN and_CC Health_NNP officer_NN and_CC if_IN plague_JJ inspectors_NNS have_VBP been_VBN appointed_VBN to_TO the_DT nearest_JJS plague_NN inspector_NN ;_: and_CC meanwhile_VB to_TO isolate_VB the_DT patient_NN and_CC all_DT who_WP have_VBP been_VBN or_CC suspected_VBN to_TO have_VB been_VBN in_IN attendance_NN upon_IN him_PRP or_CC in_IN contact_NN with_IN him_PRP ,_, in_IN a_DT place_NN provided_VBN under_IN No_DT ._.
+12_CD of_IN these_DT regulations_NNS ,_, or_CC in_IN their_PRP$ own_JJ houses_NNS provided_VBD they_PRP are_VBP not_RB plague-infected_JJ or_CC some_DT other_JJ suitable_JJ places_NNS if_IN they_PRP can_MD there_RB be_VB segregated_VBN with_IN no_DT greater_JJR risk_NN of_IN spreading_VBG the_DT infection_NN ,_, or_CC in_IN a_DT hut_NN or_CC shed_VBN to_TO be_VB immediately_RB constructed_JJ remote_NN from_IN inhabited_VBN houses_NNS ._.
+Report_NN by_IN President_NNP and_CC the_DT action_NN to_TO be_VB taken_VBN by_IN him_PRP ._.
+19_CD ._.
+(_( 1_CD )_) (_( a_DT )_) The_DT President_NNP ,_, on_IN receiving_VBG information_NN ,_, shall_MD inform_VB Government_NNP ,_, the_DT Surgeon-General_JJ and_CC the_DT Sanitary_NNP Commissioner_NNP ._.
+(_( b_NN )_) He_PRP shall_MD enforce_VB the_DT measures_NNS mentioned_VBN in_IN the_DT preceding_NN regulation_NN ._.
+(_( c_NN )_) He_PRP shall_MD see_VB that_IN the_DT hospital_NN ,_, the_DT suspect_NN camp_NN and_CC the_DT health_NN camp_NN are_VBP properly_RB organized_VBN and_CC cordoned_VBN ._.
+a_DT As_NNP amended_VBN by_IN notification_NN No_NNP ._.
+1019_CD published_VBN at_IN page_NN 586_CD of_IN part_NN I-A_NNP of_IN the_DT Fort_NNP St._NNP George_NNP Gazette_NNP ,_, dated_VBD 3rd_CD December_NNP 1901_CD ._.
+?_. Part_NNP III.-Regulation_NNP 20_CD ._. ]_NN
+17_CD (_( d_NN )_) He_PRP shall_MD see_VB that_IN the_DT patrols_NNS and_CC guards_NNS round_VBP the_DT infected_JJ area_NN completely_RB isolate_VB it_PRP ,_, or_CC such_JJ part_NN of_IN it_PRP as_IN he_PRP deems_VBZ fit_JJ ,_, so_RB as_IN to_TO prevent_VB the_DT return_NN of_IN the_DT inhabitants_NNS without_IN his_PRP$ written_VBN permission_NN ._.
+(_( e_NN )_) He_PRP may_MD order_NN the_DT evacuation_NN and_CC disinfection_NN of_IN infected_JJ houses_NNS and_CC houses_NNS in_IN their_PRP$ neighbourhood_NN ,_, and_CC prohibit_VB their_PRP$ re-occupation_NN without_IN permission_NN ._.
+(_( f_NN )_) He_PRP may_MD require_VB the_DT evicted_JJ people_NNS to_TO reside_VB in_IN any_DT place_NN which_WDT he_PRP may_MD appoint_VB ,_, under_IN such_JJ restrictions_NNS as_IN he_PRP may_MD deem_VB necessary_JJ ,_, provided_VBN proper_JJ shelter_NN is_VBZ available_JJ ._.
+(_( 2_CD )_) When_WRB for_IN the_DT purpose_NN of_IN facilitating_VBG disinfection_NN ,_, ventilation_NN ,_, perflation_NN or_CC access_NN to_TO any_DT building_NN or_CC area_NN ,_, the_DT removal_NN of_IN any_DT building_NN ,_, part_NN of_IN a_DT building_NN ,_, wall_NN or_CC other_JJ obstruction_NN seems_VBZ to_TO the_DT President_NNP desirable_JJ ,_, on_IN giving_VBG 24_CD hours_NNS '_POS warning_NN of_IN his_PRP$ intention_NN to_TO the_DT owner_NN ,_, agent_NN or_CC tenant_NN by_IN means_NNS of_IN a_DT notice_NN ,_, placed_VBN in_IN a_DT conspicuous_JJ position_NN and_CC offering_NN due_JJ compensation_NN ,_, he_PRP may_MD demolish_VB and_CC remove_VB the_DT building_NN ,_, part_NN of_IN building_NN ,_, wall_NN or_CC other_JJ obstruction_NN ._.
+Inoculation_NN ._.
+20_CD ._.
+The_DT President_NNP shall_MD arrange_VB with_IN the_DT Sanitary_JJ Com-_NNP missioner_NN to_TO place_VB an_DT ample_JJ supply_NN of_IN Haffkine_NNP 's_POS vaccine_NN within_IN the_DT reach_NN of_IN the_DT inhabitants_NNS and_CC shall_MD afford_VB them_PRP every_DT facility_NN for_IN being_VBG inoculated_VBN ._.
+Certificates_NNS of_IN cause_NN of_IN death_NN ._.
+21_CD ._.
+(_( 1_CD )_) When_WRB he_PRP has_VBZ a_DT sufficient_JJ medical_JJ staff_NN at_IN his_PRP$ dis-_JJ posal_NN to_TO secure_VB immediate_JJ inspection_NN ,_, so_IN that_IN there_EX may_MD be_VB no_DT chance_NN of_IN funerals_NNS being_VBG delayed_VBN ,_, the_DT President_NNP may_MD with_IN the_DT previous_JJ sanction_NN of_IN Government_NNP order_NN in_IN respect_NN of_IN any_DT particular_JJ area_NN that_IN the_DT certificate_NN of_IN a_DT medical_JJ officer_NN shall_MD be_VB obtained_VBN showing_VBG the_DT cause_NN of_IN every_DT death_NN within_IN two_CD hours_NNS after_IN such_JJ death_NN ._.
+(_( 2_CD )_) After_IN the_DT issue_NN of_IN such_JJ an_DT order_NN ,_, if_IN a_DT burial_NN or_CC cremation_NN takes_VBZ place_NN without_IN such_PDT a_DT certificate_NN having_VBG been_VBN obtained_VBN ,_, the_DT death_NN may_MD be_VB presumed_VBN to_TO have_VB been_VBN due_JJ to_TO plague_VB ,_, and_CC the_DT rules_NNS regarding_VBG the_DT segregation_NN of_IN the_DT contacts_NNS and_CC the_DT disinfection_NN of_IN tlie_NNS house_NN may_MD be_VB applied_VBN ._.
+House_NNP search_NN ._.
+22_CD ._.
+With_IN the_DT previous_JJ sanction_NN of_IN Government_NNP ,_, the_DT President_NNP may_MD organize_VB search_NN parties_NNS to_TO visit_VB houses_NNS for_IN the_DT purpose_NN of_IN detecting_VBG cases_NNS of_IN plague_NN ,_, when_WRB there_EX is_VBZ reason_NN to_TO believe_VB that_IN the_DT residents_NNS are_VBP attempting_VBG to_TO conceal_VB them_PRP ._.
+Sanitary_JJ restrictions_NNS with_IN regard_NN to_TO funeral_JJ processions_NNS and_CC burials_NNS ._.
+23_CD ._.
+(_( 1_CD )_) The_DT President_NNP ,_, when_WRB and_CC to_TO the_DT extent_NN he_PRP may_MD deem_VB necessary_JJ ,_, may_MD make_VB rules-_NN (_( a_DT )_) for_IN prescribing_VBG the_DT route_NN which_WDT shall_MD be_VB taken_VBN by_IN a_DT funeral_JJ procession_NN from_IN the_DT place_NN of_IN death_NN to_TO the_DT grave-yard_NN ,_, burning_VBG ground_NN or_CC other_JJ 3_CD 18_CD [_JJ Part_NNP III_NNP ._.
+-_: Regulation_NN 24._CD place_NN for_IN final_JJ disposal_NN of_IN the_DT corpse_NN ,_, and_CC the_DT places_NNS ,_, if_IN any_DT ,_, at_IN which_WDT such_JJ procession_NN may_MD halt_VB on_IN its_PRP$ way_NN for_IN funeral_JJ prayers_NNS ,_, ceremonies_NNS or_CC other_JJ purposes_NNS ;_: (_( b_NN )_) for_IN enforcing_VBG burial_JJ in_IN certain_JJ places_NNS or_CC at_IN a_DT certain_JJ depth_NN ;_: (_( c_NN )_) for_IN requiring_VBG that_IN the_DT bathing_NN of_IN persons_NNS attend-_JJ ing_VBG the_DT funeral_JJ shall_MD be_VB conducted_VBN at_IN a_DT place_NN prescribed_VBN by_IN him_PRP ._.
+(_( 2_CD )_) He_PRP may_MD also_RB prohibit_VB the_DT burial_NN or_CC burning_NN of_IN corpses_NNS of_IN persons_NNS reasonably_RB supposed_VBD to_TO have_VB died_VBN of_IN the_DT plague_NN in_IN or_CC upon_IN ground_NN other_JJ than_IN ground_NN specially_RB assigned_VBN by_IN him_PRP for_IN such_JJ purpose_NN ._.
+(_( 3_CD )_) When_WRB a_DT person_NN dies_VBZ of_IN the_DT plague_NN elsewhere_RB than_IN within_IN the_DT limits_NNS of_IN a_DT hospital_NN ,_, no_DT one_CD shall_MD touch_VB the_DT corpse_NN except_IN those_DT who_WP undertake_VBP the_DT necessary_JJ duties_NNS of_IN preparing_VBG it_PRP for_IN the_DT funeral_JJ ._.
+Such_JJ persons_NNS shall_MD disinfect_VB themselves_PRP according_VBG to_TO the_DT orders_NNS which_WDT may_MD be_VB issued_VBN by_IN the_DT Health_NNP officer_NN in_IN this_DT behalf_NN ._.
+Persons_NNS leaving_VBG for_IN an_DT uninfectecl_JJ place_NN should_MD obtain_VB pass-_JJ ports_NNS ._.
+24_CD ._.
+(_( 1_CD )_) The_DT President_NNP may_MD require_VB that_IN all_DT persons_NNS desiring_VBG to_TO leave_VB an_DT infected_JJ quarter_NN of_IN the_DT city_NN to_TO reside_VB in_IN a_DT quarter_NN ,_, town_NN or_CC village_NN not_RB infected_JJ shall_MD ,_, before_IN doing_VBG so_RB ,_, apply_VB to_TO and_CC obtain_VB from_IN such_JJ officer_NN as_IN may_MD be_VB appointed_VBN for_IN the_DT purpose_NN passports_NNS in_IN the_DT form_NN appended_VBD [_NNP Appendix_NNP A_NNP ]_NN to_TO these_DT regulations_NNS provided_VBD that_IN no_DT passports_NNS be_VB issued_VBN to_TO persons_NNS suffering_VBG ,_, or_CC suspected_VBN to_TO be_VB suffering_VBG from_IN plague_NN ,_, or_CC to_TO have_VB so_RB lately_RB suffered_VBN from_IN plague_NN as_IN to_TO be_VB in_IN an_DT infectious_JJ state_NN or_CC likely_RB from_IN recent_JJ contact_NN with_IN plague_NN cases_NNS to_TO have_VB been_VBN infected_VBN or_CC to_TO be_VB in_IN an_DT infectious_JJ state_NN ,_, and_CC the_DT said_VBD officer_NN may_MD always_RB require_VB ,_, before_IN a_DT passport_NN is_VBZ given_VBN ,_, the_DT disinfection_NN in_IN a_DT prescribed_JJ manner_NN of_IN all_DT clothes_NNS and_CC other_JJ articles_NNS to_TO be_VB taken_VBN away_RB ._.
+Persons_NNS leaving_VBG as_IN infected_JJ place_NN to_TO at-_JJ tend_NN to_TO their_PRP$ profession_NN or_CC to_TO reside_VB temporarily_RB in_IN the_DT immediate_JJ neighbour-_JJ hood_NN should_MD obtain_VB passes_NNS ._.
+(_( 2_CD )_) Other_JJ persons_NNS desiring_VBG to_TO leave_VB the_DT infected_JJ quarter_NN of_IN the_DT city_NN may_MD be_VB required_VBN to_TO obtain_VB ,_, before_IN departure_NN ,_, passes_NNS ,_, which_WDT may_MD be_VB of_IN two_CD kinds_NNS ,_, either_RB (_( 1_CD )_) general_JJ [_NN Appendices_NNP B_NNP and_CC C_NNP ]_NNP or_CC (_( 2_CD )_) special_NN ._.
+[_JJ Appendix_NNP D._NNP ]_NNP (_( 3_CD )_) General_NNP passes_VBZ may_MD be_VB given_VBN to_TO artisans_NNS and_CC others_NNS having_VBG occasion_NN to_TO make_VB daily_JJ or_CC frequent_JJ journeys_NNS by_IN road_NN ,_, rail_NN or_CC boat_NN from_IN an_DT infected_JJ area_NN ,_, and_CC may_MD be_VB given_VBN for_IN an_DT indefinite_JJ period_NN ;_: but_CC they_PRP will_MD not_RB cover_VB residence_NN outside_IN of_IN the_DT infected_JJ area_NN ,_, and_CC will_MD not_RB cover_VB journeys_NNS by_IN rail_NN unless_IN that_DT is_VBZ expressly_RB stated_VBN on_IN them_PRP ._.
+In_IN the_DT case_NN of_IN agricul-_JJ Part_NNP III.-Regulation_NNP 25_CD ._. ]_NN
+19_CD turists_NNS ,_, where_WRB the_DT officer_NN granting_VBG the_DT pass_NN is_VBZ satisfied_JJ that_IN it_PRP is_VBZ necessary_JJ for_IN the_DT whole_JJ family_NN to_TO go_VB and_CC work_VB in_IN the_DT fields_NNS ,_, a_DT single_JJ pass_NN may_MD be_VB given_VBN for_IN the_DT family_NN ,_, but_CC there_EX must_MD be_VB a_DT separate_JJ pass_NN for_IN each_DT person_NN making_VBG a_DT railway_NN journey_NN under_IN a_DT general_JJ pass_NN ._.
+(_( 4_CD )_) Special_JJ passes_NNS shall_MD be_VB passes_NNS permitting_VBG persons_NNS to_TO leave_VB the_DT infected_JJ quarter_NN and_CC reside_VB on_IN sites_NNS approved_VBN by_IN an_DT officer_NN appointed_VBN for_IN this_DT purpose_JJ beyond_IN them_PRP ,_, and_CC may_MD be_VB granted_VBN for_IN households_NNS ,_, provided_VBD that_IN the_DT name_NN and_CC description_NN of_IN each_DT person_NN covered_VBN by_IN the_DT pass_NN is_VBZ entered_VBN therein_RB ._.
+The_DT officer_NN issuing_VBG the_DT pass_NN may_MD always_RB require_VB ,_, before_IN the_DT pass_NN is_VBZ given_VBN ,_, the_DT disinfection_NN in_IN the_DT prescribed_JJ manner_NN of_IN all_DT clothes_NNS and_CC other_JJ articles_NNS to_TO be_VB taken_VBN away_RB ._.
+Persons_NNS holding_VBG these_DT passes_NNS shall_MD not_RB be_VB allowed_VBN to_TO return_VB to_TO the_DT inhabited_JJ area_NN otherwise_RB than_IN under_IN such_JJ sanitary_JJ restric-_JJ tions_NNS as_IN the_DT said_VBD officer_NN may_MD ,_, from_IN time_NN to_TO time_NN ,_, require_NN or_CC until_IN the_DT pass_NN shall_MD have_VB been_VBN cancelled_VBN by_IN him_PRP and_CC disinfection_NN of_IN clothing_NN and_CC articles_NNS to_TO be_VB taken_VBN back_RP with_IN them_PRP be_VB effected_VBN should_MD he_PRP consider_VB such_JJ disinfection_NN necessary_JJ ._.
+(_( 5_CD )_) At_IN convenient_JJ spots_NNS within_IN ,_, or_CC in_IN the_DT proximity_NN of_IN ,_, the_DT inhabited_JJ area_NN of_IN the_DT infected_JJ quarter_NN ,_, the_DT President_NNP shall_MD establish_VB one_CD or_CC more_JJR offices_NNS for_IN the_DT issue_NN of_IN passports_NNS and_CC passes_NNS and_CC shall_MD notify_VB by_IN tom-tom_JJ the_DT locality_NN of_IN such_JJ office_NN or_CC offices_NNS at_IN such_JJ intervals_NNS as_IN shall_MD ensure_VB the_DT inhabitants_NNS being_VBG aware_JJ of_IN their_PRP$ purpose_NN and_CC position_NN ._.
+Exemption_NN from_IN rules_NNS requiring_VBG passports_NNS and_CC passes_NNS ._.
+25_CD ._.
+(_( 1_CD )_) The_DT President_NNP may_MD at_IN his_PRP$ discretion_NN exempt_NN from_IN the_DT necessity_NN of_IN taking_VBG out_RP passports_NNS persons_NNS who_WP are_VBP merely_RB returning_VBG from_IN an_DT infected_JJ area_NN to_TO their_PRP$ own_JJ village_NN after_IN bringing_VBG to_TO market_NN in_IN such_JJ area_NN articles_NNS of_IN food_NN or_CC fuel_NN ;_: provided_VBN that_IN such_JJ return_NN be_VB within_IN eight_CD hours_NNS after_IN arrival_NN and_CC not_RB after_IN sunset_VBN ,_, and_CC that_IN such_JJ exemption_NN shall_MD not_RB apply_VB to_TO any_DT such_JJ person_NN who_WP may_MD have_VB entered_VBN a_DT dwelling_NN house_NN within_IN the_DT infected_JJ area_NN ._.
+(_( 2_CD )_) The_DT President_NNP may_MD also_RB exempt_VB from_IN the_DT necessity_NN of_IN taking_VBG out_RP passports_NNS or_CC passes_VBZ any_DT person_NN with_IN regard_NN to_TO whom_WP there_EX are_VBP no_DT reasonable_JJ grounds_NNS for_IN suspicion_NN of_IN infection_NN ._.
+Infected_VBN houses_NNS not_RB to_TO be_VB let_VBN until_IN disinfected_VBN ._.
+26_CD ._.
+No_DT person_NN shall_MD let_VB ,_, or_CC show_NN for_IN the_DT purpose_NN of_IN letting_NN ,_, a_DT building_NN or_CC part_NN of_IN a_DT building_NN in_IN which_WDT he_PRP knows_VBZ ,_, or_CC has_VBZ reason_NN to_TO know_VB ,_, that_IN a_DT person_NN has_VBZ suffered_VBN or_CC is_VBZ suffering_VBG from_IN the_DT plague_NN ,_, without_IN having_VBG such_JJ building_NN or_CC part_NN thereof_NN ,_, and_CC every_DT article_NN therein_RB likely_JJ to_TO retain_VB infection_NN ,_, disinfected_VBD 20_CD [_JJ Part_NNP III.-_NNP Regulation_NNP 27._CD to_TO the_DT satisfaction_NN of_IN the_DT medical_JJ officer_NN appointed_VBN by_IN the_DT President_NNP in_IN this_DT behalf_NN ._.
+Destruction_NN of_IN infected_JJ huts_NNS or_CC sheds_NNS ._.
+27_CD ._.
+If_IN the_DT Health_NNP officer_NN is_VBZ of_IN opinion_NN that_IN the_DT destruction_NN of_IN any_DT hut_NN or_CC shed_VBN is_VBZ necessary_JJ to_TO prevent_VB the_DT spread_NN of_IN the_DT plague_NN ,_, the_DT President_NNP or_CC any_DT officer_NN generally_RB or_CC specially_RB authorized_VBN by_IN him_PRP in_IN writing_VBG in_IN this_DT behalf_NN may_MD summarily_RB take_VB measures_NNS for_IN the_DT destruction_NN of_IN such_JJ hut_NN or_CC shed_VBN and_CC the_DT materials_NNS of_IN which_WDT it_PRP is_VBZ constructed_VBN ._.
+Disuse_NN of_IN buildings_NNS unfit_JJ for_IN human_JJ habitation_NN ._.
+28_CD ._.
+If_IN it_PRP appears_VBZ to_TO the_DT Health_NNP officer_NN that_WDT ,_, in_IN view_NN of_IN the_DT prevalence_NN of_IN the_DT plague_NN within_IN his_PRP$ jurisdiction_NN ,_, any_DT building_NN within_IN such_JJ jurisdiction_NN ,_, intended_VBD or_CC used_VBN as_IN a_DT dwelling_NN ,_, is_VBZ in_IN so_RB insanitary_JJ a_DT condition_NN as_IN to_TO be_VB unfit_JJ for_IN human_JJ habitation_NN ,_, the_DT President_NNP or_CC officer_NN authorized_VBN as_IN aforesaid_NN may_MD summarily_RB cause_VB the_DT same_JJ to_TO be_VB vacated_VBN ,_, and_CC prohibit_NN ,_, by_IN a_DT written_VBN order_NN ,_, the_DT further_JJ use_NN of_IN such_JJ building_NN as_IN a_DT dwelling_NN ._.
+After_IN such_JJ prohibition_NN no_DT owner_NN or_CC occupier_JJR of_IN such_JJ building_VBG shall_MD use_VB or_CC suffer_VB the_DT same_JJ to_TO be_VB used_VBN for_IN human_JJ habitation_NN until_IN the_DT said_VBD officer_NN gives_VBZ written_VBN permission_NN in_IN this_DT behalf_NN ._.
+Abatement_NN of_IN overcrowd-_JJ ing_NN ._.
+29_CD ._.
+When_WRB any_DT building_NN or_CC place_NN is_VBZ ,_, in_IN the_DT opinion_NN of_IN the_DT Health_NNP officer_NN so_RB overcrowded_VBD as_IN to_TO make_VB the_DT inmates_NNS or_CC occupiers_NNS specially_RB liable_JJ to_TO an_DT attack_NN of_IN plague_NN ,_, the_DT President_NNP or_CC officer_NN authorized_VBN as_IN aforesaid_NN may_MD ,_, by_IN a_DT notice_NN posted_VBN on_IN some_DT conspicuous_JJ part_NN of_IN the_DT building_NN or_CC place_NN ,_, require_VBP the_DT owner_NN or_CC occupier_JJR ,_, if_IN actually_RB residing_VBG in_IN the_DT building_NN or_CC place_NN ,_, or_CC the_DT tenants_NNS or_CC the_DT actual_JJ occupants_NNS thereof_NN ,_, to_TO abate_VB ,_, as_IN prescribed_VBN in_IN the_DT notice_NN ,_, the_DT overcrowding_VBG within_IN twenty-_JJ four_CD hours_NNS by_IN reducing_VBG the_DT number_NN of_IN lodgers_NNS ,_, tenants_NNS or_CC other_JJ occupants_NNS of_IN the_DT said_VBD building_NN or_CC place_NN ,_, and_CC ,_, in_IN default_NN of_IN compliance_NN with_IN the_DT requisition_NN in_IN the_DT said_VBD notice_NN ,_, may_MD summarily_VB eject_VB all_PDT the_DT inmates_NNS or_CC occupants_NNS ,_, or_CC reduce_VB the_DT number_NN of_IN the_DT same_JJ in_IN such_JJ manner_NN and_CC to_TO such_JJ extent_NN as_IN may_MD appear_VB necessary_JJ ._.
+Abatement_NN of_IN nuisances_NNS ._.
+30_CD ._.
+The_DT President_NNP or_CC an_DT officer_NN generally_RB or_CC specially_RB authorized_VBN by_IN him_PRP in_IN writing_VBG in_IN this_DT behalf_NN may_MD ,_, when_WRB he_PRP considers_VBZ necessary_JJ ,_, enter_JJ upon_IN any_DT premises_NNS ,_, at_IN any_DT time_NN during_IN daylight_NN and_CC summarily_RB execute_VB any_DT work_NN required_VBN under_IN ,_, or_CC summarily_RB abate_VB any_DT of_IN the_DT nuisances_NNS described_VBD or_CC indicated_VBN in_IN ,_, sections_NNS 313_CD ,_, 314_CD ,_, 321_CD ,_, 322_CD ,_, 326_CD or_CC 327_CD of_IN the_DT City_NNP of_IN Madras_NNP Municipal_NNP Act_NNP ,_, 1884_CD ._.
+Closing_NN places_NNS used_VBN for_IN supply_NN ,_, preparation_NN ,_, &_CC c._NN ,_, of_IN articles_NNS of_IN food_NN and_CC drink_NN ._.
+31_CD ._.
+The_DT Health_NNP officer_NN is_VBZ empowered_VBN to_TO close_VB sheds_NNS used_VBN for_IN accommodation_NN of_IN animals_NNS whose_WP$ milk_NN or_CC milk_NN products_NNS are_VBP sold_VBN by_IN the_DT owner_NN or_CC his_PRP$ agent_NN ,_, and_CC places_NNS used_VBN for_IN the_DT supply_NN ,_, preparation_NN or_CC storage_NN of_IN articles_NNS of_IN food_NN and_CC drink_NN in_IN infected_JJ localities_NNS or_CC in_IN the_DT immediate_JJ neighbourhood_NN of_IN Part_NNP III.-Regulation_NNP 32_CD ._. ]_NN
+21_CD infected_JJ houses_NNS ,_, and_CC to_TO direct_VB the_DT removal_NN and_CC if_IN necessary_JJ ,_, the_DT destruction_NN of_IN all_DT articles_NNS of_IN food_NN and_CC drink_NN found_VBN in_IN such_JJ places_NNS ._.
+Restrictions_NNS on_IN the_DT wash-_JJ ing_NN of_IN clothes_NNS ,_, 32_CD ._.
+The_DT President_NNP may_MD prescribe_VB that_IN no_DT person_NN under-_JJ taking_NN for_IN hire_NN the_DT cleansing_NN of_IN clothing_NN or_CC other_JJ laundry_JJ process_NN within_IN an_DT infected_JJ area_NN to_TO which_WDT he_PRP may_MD extend_VB this_DT regulation_NN shall_MD store_VB or_CC wash_VB or_CC otherwise_VB prepare_JJ clothing_NN except_IN at_IN such_JJ places_NNS within_IN or_CC without_IN municipal_JJ limits_NNS and_CC under_IN such_JJ conditions_NNS as_IN he_PRP may_MD direct_VB ._.
+Dissolution_NN of_IN plague_NN hospitals_NNS and_CC camps_NNS ._.
+33_CD ._.
+No_DT hospital_NN or_CC suspect_JJ camp_NN or_CC observation_NN camp_NN shall_MD be_VB closed_VBN without_IN the_DT special_JJ orders_NNS of_IN the_DT Health_NNP officer_NN ,_, and_CC until_IN the_DT receipt_NN of_IN such_JJ orders_NNS the_DT municipality_NN shall_MD maintain_VB such_JJ places_NNS in_IN efficient_JJ repair_NN ._.
+Provided_VBN there_EX have_VBP been_VBN no_DT actual_JJ or_CC suspected_JJ case_NN of_IN plague_NN therein_NN ,_, the_DT Health_NNP officer_NN may_MD ,_, in_IN his_PRP$ discretion_NN ,_, allow_VB a_DT health_NN camp_NN to_TO be_VB closed_VBN after_IN ten_JJ days_NNS ,_, and_CC the_DT town_NN or_CC an_DT infected_JJ quarter_NN of_IN the_DT town_NN in_IN which_WDT no_DT death_NN or_CC fresh_JJ case_NN of_IN plague_NN has_VBZ taken_VBN place_NN for_IN ten_JJ days_NNS after_IN the_DT recovery_NN or_CC death_NN of_IN the_DT last_JJ case_NN to_TO be_VB re-inhabited_JJ as_RB soon_RB as_IN it_PRP has_VBZ been_VBN thoroughly_RB disinfected_VBN ._.
+Menial_JJ staff_NN entitled_VBN to_TO ,_, and_CC bound_NN to_TO give_VB ,_, one_CD month_NN 's_POS notice_NN ._.
+a_DT 34_CD ._.
+(_( 1_CD )_) In_IN the_DT absence_NN of_IN a_DT written_VBN contract_NN to_TO the_DT contrary_JJ ,_, every_DT maistri_NN ,_, peon_NN ,_, watchman_NN ,_, cooly_NN ,_, scavenger_NN or_CC other_JJ menial_JJ servant_JJ employed_VBN to_TO do_VB duty_NN in_IN connection_NN with_IN plague_NN or_CC general_JJ sanitation_NN shall_MD be_VB entitled_VBN to_TO one_CD month_NN 's_POS notice_NN before_IN discharge_NN ,_, or_CC to_TO one_CD month_NN 's_POS wages_NNS in_IN lieu_NN thereof_NN ,_, unless_IN he_PRP is_VBZ discharged_VBN for_IN misconduct_NN or_CC was_VBD engaged_VBN for_IN a_DT specified_JJ term_NN and_CC discharged_VBN at_IN the_DT end_NN of_IN it_PRP ._.
+(_( 2_CD )_) No_DT such_JJ maistri_NN ,_, peon_NN ,_, watchman_NN ,_, cooly_NN ,_, sca-_JJ venger_NN or_CC other_JJ menial_JJ servant_NN in_IN the_DT absence_NN of_IN a_DT written_VBN contract_NN authorizing_VBG him_PRP so_RB to_TO do_VB ,_, and_CC without_IN reasonable_JJ cause_NN ,_, shall_MD resign_VB his_PRP$ employment_NN ,_, or_CC absent_NN himself_PRP from_IN his_PRP$ duties_NNS without_IN giving_VBG one_CD month_NN 's_POS notice_NN or_CC neglect_NN or_CC refuse_NN to_TO perform_VB his_PRP$ duties_NNS or_CC any_DT of_IN them_PRP ._.
+Mode_NNP of_IN disinfection_NN ,_, 35_CD ._.
+Whenever_WRB disinfection_NN is_VBZ prescribed_VBN by_IN any_DT of_IN these_DT regulations_NNS ,_, it_PRP shall_MD be_VB carried_VBN out_RP in_IN accordance_NN with_IN the_DT general_JJ principles_NNS laid_VBN down_RP by_IN Government_NNP and_CC such_JJ subsi-_JJ diary_JJ instructions_NNS as_IN may_MD be_VB issued_VBN by_IN the_DT Sanitary_NNP Com-_NNP missioner_NN or_CC ,_, in_IN respect_NN to_TO management_NN of_IN hospitals_NNS ,_, by_IN the_DT Surgeon-General_JJ with_IN the_DT Government_NNP of_IN Madras_NNP ._.
+Compensa-_JJ tion_NN ._.
+36_CD ._.
+When_WRB in_IN the_DT exercise_NN of_IN the_DT powers_NNS conferred_VBN by_IN or_CC under_IN these_DT regulations_NNS ,_, any_DT damage_NN or_CC loss_NN is_VBZ caused_VBN ,_, no_DT person_NN shall_MD be_VB entitled_VBN as_IN a_DT matter_NN of_IN right_JJ to_TO claim_VB any_DT a_DT As_IN amended_VBN by_IN notification_NN No_NNP ._.
+335_CD ,_, Fort_NNP St._NNP George_NNP Gazette_NNP ,_, dated_VBD 9th_CD April_NNP 1901_CD ,_, part_NN I-A_NNP ,_, page_NN 156_CD ._.
+?_. 22_CD [_JJ Part_NNP III.-Regulation_NNP 37._CD compensation_NN ,_, but_CC the_DT President_NNP or_CC any_DT person_NN authorized_VBN by_IN him_PRP may_MD ,_, in_IN his_PRP$ discretion_NN ,_, award_JJ compensation_NN at_IN the_DT cost_NN of_IN municipal_JJ funds_NNS and_CC shall_MD do_VB so_RB when_WRB the_DT loss_NN would_MD fall_VB upon_JJ people_NNS in_IN very_RB poor_JJ circumstances_NNS ,_, to_TO whom_WP it_PRP would_MD be_VB a_DT great_JJ hardship_NN to_TO bear_VB it_PRP ,_, or_CC he_PRP may_MD ,_, in_IN such_JJ cases_NNS ,_, arrange_NN for_IN providing_VBG other_JJ necessary_JJ articles_NNS in_IN the_DT place_NN of_IN those_DT destroyed_NNS or_CC damaged_VBN ._.
+Contents_NNS of_IN certificates_NNS ,_, passes_NNS ,_, &_CC c._VBP Their_PRP$ im-_JJ proper_NN use_NN prohibited_VBD ._.
+37_CD ._.
+Any_DT certificate_NN or_CC passport_NN or_CC pass_NN granted_VBN under_IN these_DT regulations_NNS shall_MD contain_VB an_DT accurate_JJ description_NN of_IN the_DT person_NN named_VBN in_IN it_PRP to_TO prevent_VB ,_, so_RB far_RB as_IN possible_JJ ,_, its_PRP$ being_VBG used_VBN by_IN another_DT person_NN ;_: nor_CC shall_MD such_VB a_DT certificate_NN or_CC pass-_JJ port_NN or_CC pass_NN given_VBN to_TO any_DT person_NN to_TO enable_VB him_PRP to_TO go_VB from_IN one_CD place_NN to_TO another_DT or_CC for_IN any_DT purpose_JJ shall_MD be_VB used_VBN by_IN any_DT other_JJ person_NN or_CC for_IN any_DT other_JJ purpose_NN ._.
+Segregated_VBN or_CC detained_VBN persons_NNS bound_IN to_TO obey_VB directions_NNS given_VBN to_TO them_PRP ._.
+38_CD ._.
+Every_DT person_NN segregated_VBD or_CC detained_VBN under_IN any_DT of_IN these_DT regulations_NNS shall_MD obey_VB the_DT directions_NNS issued_VBN to_TO him_PRP by_IN the_DT officer_NN in_IN charge_NN of_IN the_DT place_NN of_IN segregation_NN or_CC detention_NN and_CC shall_MD not_RB leave_VB such_JJ place_NN except_IN with_IN the_DT written_VBN per-_JJ mission_NN of_IN the_DT said_VBD officer_NN ,_, who_WP may_MD take_VB such_JJ steps_NNS as_IN may_MD be_VB necessary_JJ to_TO enforce_VB this_DT prohibition_NN ._.
+Canal_JJ boats_NNS ,_, subject_JJ to_TO same_JJ regulations_NNS as_IN buildings_NNS ._.
+39_CD ._.
+(_( 1_CD )_) A_DT canal_JJ boat_NN shall_MD be_VB subject_JJ to_TO all_PDT the_DT regula-_JJ tions_NNS applicable_JJ to_TO buildings_NNS ;_: and_CC passengers_NNS by_IN a_DT canal_JJ boat_NN shall_MD be_VB subject_JJ to_TO interrogation_NN ,_, inspection_NN and_CC detention_NN in_IN the_DT same_JJ manner_NN as_IN passengers_NNS by_IN railway_NN ._.
+(_( 2_CD )_) In_IN order_NN to_TO prevent_VB the_DT spread_NN of_IN the_DT infection_NN of_IN the_DT plague_NN either_CC by_IN or_CC to_TO a_DT canal_JJ boat_NN ,_, the_DT President_NNP or_CC any_DT officer_NN generally_RB or_CC specially_RB empowered_VBN by_IN him_PRP in_IN this_DT behalf_NN may_MD require_VB such_JJ boat_NN to_TO alter_VB its_PRP$ moorings_NNS or_CC to_TO stop_VB during_IN its_PRP$ passage_NN and_CC moor_NN in_IN such_JJ position_NN as_IN such_JJ officer_NN may_MD indicate_VB ,_, or_CC direct_VBP that_IN it_PRP desist_VBZ from_IN plying_VBG until_IN such_JJ time_NN as_IN may_MD be_VB stated_VBN in_IN a_DT notice_NN placed_VBN on_IN a_DT conspicuous_JJ position_NN of_IN the_DT boat_NN ._.
+Privileges_NNS granted_VBN to_TO inoculated_JJ persons_NNS ._.
+40_CD ._.
+(_( 1_CD )_) Persons_NNPS who_WP hold_VBP certificates_NNS that_IN they_PRP have_VBP been_VBN inoculated_VBN by_IN M._NNP Haffkine_NNP 's_POS process_NN shall_MD be_VB entitled_VBN to_TO the_DT following_JJ privileges_NNS ,_, provided_VBD such_JJ certificates_NNS bear_VBP a_DT date_NN not_RB earlier_RBR than_IN six_CD months_NNS but_CC not_RB later_RB than_IN ten_VB days_NNS previously_RB :_: -_: (_( a_DT )_) Unless_IN suffering_VBG from_IN ,_, or_CC suspected_VBN to_TO be_VB suffer-_JJ ing_NN from_IN ,_, plague_NN ,_, they_PRP shall_MD not_RB be_VB liable_JJ to_TO detention_VB at_IN any_DT railway_NN or_CC road_NN observation_NN camp_NN when_WRB travelling_NN ,_, except_IN for_IN such_JJ period_NN as_IN may_MD be_VB required_VBN to_TO disinfect_VB their_PRP$ baggage_NN and_CC clothes_NNS ,_, if_IN those_DT are_VBP considered_VBN suspicious_JJ ._.
+(_( b_NN )_) They_PRP shall_MD not_RB be_VB liable_JJ to_TO take_VB out_RP passports_NNS and_CC present_JJ themselves_PRP daily_RB for_IN observation_NN for_IN ten_JJ days_NNS after_IN Part_NNP III.-Regulation_NNP 41_CD ._. ]_NN
+23_CD arrival_NN from_IN a_DT plague-infected_JJ place_NN ,_, or_CC from_IN any_DT place_NN noti-_JJ fied_VBN by_IN the_DT Governor_NNP of_IN Fort_NNP St._NNP George_NNP in_IN Council_NNP for_IN the_DT purposes_NNS of_IN No_DT ._.
+1_CD of_IN these_DT regulations_NNS ;_: but_CC they_PRP may_MD be_VB observed_VBN at_IN their_PRP$ own_JJ residence_NN and_CC shall_MD ,_, with_IN this_DT view_NN ,_, be_VB bound_VBN when_WRB required_VBN by_IN any_DT plague_JJ officer_NN to_TO give_VB their_PRP$ names_NNS and_CC addresses_NNS for_IN the_DT next_JJ ten_JJ days_NNS ._.
+(_( c_NN )_) Inoculated_VBD persons_NNS who_WP have_VBP been_VBN living_VBG in_IN an_DT infected_JJ house_NN or_CC have_VBP otherwise_RB been_VBN exposed_VBN to_TO plague_VB infection_NN shall_MD not_RB be_VB liable_JJ to_TO be_VB segregated_VBN ,_, but_CC may_MD be_VB required_VBN to_TO evacuate_VB the_DT infected_JJ house_NN and_CC to_TO have_VB their_PRP$ clothes_NNS and_CC personal_JJ effects_NNS disinfected_VBN ._.
+When_WRB ,_, however_RB ,_, all_PDT the_DT occupants_NNS of_IN a_DT house_NN have_VBP been_VBN inoculated_VBN ,_, neither_CC the_DT patients_NNS nor_CC the_DT other_JJ inmates_NNS of_IN the_DT house_NN shall_MD be_VB required_VBN to_TO be_VB segregated_VBN ,_, provided_VBN arrangements_NNS are_VBP made_VBN to_TO the_DT satisfaction_NN of_IN a_DT plague_JJ authority_NN for_IN the_DT disinfection_NN of_IN the_DT house_NN and_CC its_PRP$ contents_NNS ,_, and_CC for_IN the_DT prevention_NN of_IN the_DT spread_NN of_IN plague_NN to_TO the_DT neighbouring_JJ dwellings_NNS ._.
+(_( 2_CD )_) The_DT inoculation_NN certificate_NN shall_MD be_VB in_IN the_DT form_NN appended_VBD [_JJ Appendix_NNP E_NNP ]_NNP ._.
+But_CC when_WRB in_IN a_DT certificate_NN issued_VBN under_IN authority_NN ,_, the_DT thumb_NN impression_NN has_VBZ not_RB been_VBN taken_VBN ,_, other_JJ satisfactory_JJ evidence_NN of_IN identification_NN may_MD be_VB accepted_VBN ._.
+Inoculated_VBN persons_NNS bound_IN to_TO produce_VB their_PRP$ inocu-_JJ lation_NN ,_, certifi-_JJ cates_NNS and_CC make_VB an_DT impression_NN of_IN thumb-_JJ marks_NNS ._.
+41_CD ._.
+Every_DT inoculated_JJ person_NN (_( who_WP is_VBZ exempted_VBN from_IN segre-_JJ gation_NN ,_, detention_NN and_CC observation_NN under_IN the_DT preceding_VBG regu-_JJ lation_NN 40_CD )_) shall_MD be_VB bound_VBN ,_, when_WRB called_VBN upon_NN to_TO do_VB so_RB by_IN the_DT officer_NN mentioned_VBD in_IN clause_NN (_( 4_CD )_) of_IN No_UH ._.
+1_CD of_IN these_DT regulations_NNS ,_, to_TO produce_VB the_DT certificate_NN showing_NN that_IN he_PRP has_VBZ been_VBN inoculated_VBN by_IN M._NNP Haffkine_NNP 's_POS process_NN ,_, and_CC also_RB to_TO make_VB an_DT impression_NN of_IN his_PRP$ thumb-mark_NN for_IN the_DT purpose_NN of_IN identification_NN ._.
+42_CD ._.
+The_DT whole_NN of_IN the_DT city_NN of_IN Madras_NNP is_VBZ hereby_RB declared_VBN to_TO be_VB subject_JJ to_TO the_DT provisions_NNS of_IN section_NN 309_CD of_IN the_DT City_NNP of_IN Madras_NNP Municipal_NNP Act_NNP ,_, 1884_CD ._.
+Penalty_NN for_IN breach_NN of_IN regulations_NNS ._.
+43_CD ._.
+Any_DT person_NN disobeying_NN or_CC contravening_NN or_CC refusing_VBG to_TO submit_VB himself_PRP to_TO any_DT regulation_NN made_VBN under_IN the_DT Epidemic_NNP Diseases_NNP Act_NNP ,_, 1897_CD ,_, or_CC obstructing_VBG any_DT measure_NN which_WDT has_VBZ been_VBN taken_VBN by_IN Government_NNP ,_, or_CC which_WDT any_DT authority_NN ,_, or_CC officer_NN appointed_VBN under_IN competent_NN authority_NN to_TO carry_VB out_RP such_JJ regulation_NN ,_, has_VBZ been_VBN required_VBN or_CC empowered_VBN to_TO take_VB under_IN any_DT such_JJ regulation_NN ,_, shall_MD be_VB deemed_VBN to_TO have_VB committed_VBN an_DT offence_NN punishable_JJ under_IN section_NN 188_CD of_IN the_DT Indian_JJ Penal_NNP Code_NNP ,_, and_CC shall_MD be_VB liable_JJ ,_, on_IN conviction_NN ,_, to_TO imprisonment_NN of_IN either_DT description_NN for_IN a_DT term_NN which_WDT may_MD extend_VB to_TO six_CD months_NNS or_CC fine_JJ which_WDT may_MD extend_VB to_TO one_CD thousand_NN rupees_VBZ or_CC both_DT ._.
+?_. 24_CD CHAPTER_NN II_NNP ._.
+*_JJ INSTRUCTIONS_NNP WITH_NNP REGARD_NNP TO_NNP THE_NNP CARRYING_NNP OUT_NNP OF_NNP PLAGUE_NNP MEASURES_NNP AND_NNP WITH_NNP REGARD_NNP TO_NNP OTHER_NNP MATTERS_NNP CONNECTED_NNP WITH_NNP PLAGUE_NNP ._.
+General_NNP Remarks_NNP ._.
+A_DT combination_NN of_IN the_DT following_JJ measures_NNS is_VBZ likely_JJ to_TO produce_VB the_DT maximum_NN of_IN good_JJ :_: -_: (_( a_DT )_) The_DT prompt_JJ discovery_NN and_CC isolation_NN of_IN every_DT case_NN of_IN plague_NN ._.
+(_( b_NN )_) The_DT thorough_JJ disinfection_NN of_IN the_DT personal_JJ effects_NNS ,_, clothes_NNS ,_, and_CC houses_NNS of_IN patients_NNS ._.
+(_( c_NN )_) The_DT segregation_NN and_CC inoculation_NN of_IN contacts_NNS ._.
+(_( d_NN )_) The_DT removal_NN and_CC destruction_NN by_IN burning_VBG of_IN plague-_JJ infected_JJ rats_NNS ,_, and_CC the_DT disinfection_NN of_IN the_DT houses_NNS in_IN which_WDT they_PRP are_VBP found_VBN ._.
+Every_DT endeavour_NN should_MD be_VB made_VBN by_IN the_DT officers_NNS respons-_VBP ible_JJ to_TO apply_VB the_DT first_JJ stated_VBN measure_NN by_IN sufficiently_RB early_JJ organization_NN of_IN observation_NN staffs_NNS ._.
+._.
+._.
+and_CC by_IN frequent_JJ insistence_NN as_IN to_TO care_VB and_CC promptitude_VB in_IN effecting_VBG plague_JJ regulations_NNS by_IN all_DT authorities_NNS concerned_VBN ,_, so_RB as_IN to_TO secure_VB that_IN the_DT first_JJ imported_VBN cases_NNS are_VBP rapidly_RB and_CC effectually_RB dealt_JJ with_IN ;_: for_IN it_PRP is_VBZ only_RB at_IN the_DT commencement_NN of_IN the_DT outbreak_NN that_IN the_DT remaining_VBG three_CD measures_NNS can_MD be_VB carried_VBN out_RP with_IN success_NN and_CC within_IN reasonable_JJ expenditure_NN ,_, and_CC can_MD therefore_RB be_VB expected_VBN to_TO stamp_VB out_RP the_DT disease_NN before_RB much_JJ harm_NN is_VBZ done_VBN ._.
+But_CC when_WRB once_RB the_DT plague_NN has_VBZ been_VBN allowed_VBN to_TO obtain_VB a_DT footing_NN ._.
+._.
+._.
+it_PRP will_MD be_VB found_VBN very_RB difficult_JJ to_TO apply_VB the_DT above_JJ measures_NNS ._.
+2_CD ._.
+In_IN the_DT City_NNP of_IN Madras_NNP the_DT measures_NNS that_WDT will_MD be_VB found_VBN applicable_JJ are_VBP disinfection_NN ,_, inoculation_NN ,_, the_DT evacuation_NN of_IN specially_RB infected_JJ quarters_NNS ,_, and_CC (_( so_RB long_RB as_IN infection_NN has_VBZ not_RB spread_VBN through_IN the_DT town_NN )_) the_DT isolation_NN of_IN the_DT sick_NN ._.
+._.
+._.
+._.
+Evacuation_NN ._.
+._.
+._.
+should_MD be_VB conjoined_VBN with_IN an_DT opening_VBG up_NN of_IN houses_NNS sufficient_JJ for_IN the_DT admission_NN of_IN sunlight_NN and_CC air_NN whenever_WRB this_DT is_VBZ required_VBN ._.
+._.
+._.
+._.
+*_IN The_DT regulations_NNS contained_VBN in_IN Chapter_NN I_PRP should_MD be_VB worked_VBN subject_JJ to_TO the_DT explana-_JJ tions_NNS and_CC conditions_NNS stated_VBN in_IN this_DT chapter_NN ._.
+The_DT portions_NNS omitted_VBN in_IN this_DT reprint_NN ,_, which_WDT are_VBP indicated_VBN by_IN dots_NNS (_( ..._: )_) relate_VBP to_TO matters_NNS not_RB concerning_VBG the_DT city_NN of_IN Madras_NNP ._.
+Plague_NNP Agency_NNP ._. ]_NN
+25_CD 3_CD ._.
+Experience_NN has_VBZ shown_VBN that_IN it_PRP is_VBZ hopeless_JJ to_TO carry_VB out_RP effectively_RB any_DT system_NN of_IN plague_NN administration_NN which_WDT is_VBZ not_RB supported_VBN by_IN the_DT people_NNS ,_, and_CC in_IN a_DT wide-spread_JJ epidemic_NN ,_, the_DT resources_NNS of_IN Government_NNP in_IN the_DT matter_NN of_IN funds_NNS and_CC establish-_JJ ment_NN being_VBG limited_VBN ,_, much_JJ must_MD necessarily_RB be_VB left_VBN to_TO the_DT people_NNS themselves_PRP ._.
+Steps_NNS should_MD therefore_RB be_VB taken_VBN to_TO inform_VB them_PRP beforehand_NN of_IN the_DT measures_NNS they_PRP will_MD be_VB required_VBN to_TO submit_VB to_TO ,_, and_CC to_TO convince_VB them_PRP of_IN the_DT utility_NN of_IN the_DT parti-_JJ cular_JJ methods_NNS selected_VBN ,_, so_IN that_IN they_PRP may_MD be_VB induced_VBN to_TO carry_VB them_PRP out_RP not_RB by_IN force_NN but_CC by_IN the_DT exercise_NN of_IN their_PRP$ own_JJ free-_NN will_MD and_CC as_IN a_DT consequence_NN of_IN their_PRP$ appreciating_NN and_CC under-_JJ standing_VBG the_DT benefits_NNS to_TO be_VB anticipated_VBN therefrom_NN ._.
+The_DT measures_NNS are_VBP new_JJ to_TO the_DT people_NNS ,_, particularly_RB in_IN fresh_JJ areas_NNS of_IN infection_NN ,_, and_CC if_IN injudiciously_RB or_CC overzealously_RB pressed_VBN ,_, must_MD defeat_VB themselves_PRP by_IN exciting_VBG opposition_NN instead_RB of_IN gradually_RB winning_VBG the_DT co-operation_NN of_IN the_DT people_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, if_IN the_DT services_NNS of_IN the_DT leading_JJ inhabitants_NNS are_VBP secured_VBN to_TO assist_VB the_DT Government_NNP officials_NNS in_IN carrying_VBG out_RP measures_NNS which_WDT are_VBP clearly_RB beneficial_JJ ,_, it_PRP may_MD often_RB be_VB possible_JJ ,_, by_IN reason_NN of_IN their_PRP$ example_NN and_CC attitude_NN ,_, to_TO carry_VB out_RP with_IN good_JJ results_NNS measures_NNS which_WDT would_MD be_VB ineffectual_JJ or_CC injurious_JJ if_IN enforced_VBN by_IN definite_JJ orders_NNS upon_IN a_DT population_NN ignorant_NN of_IN their_PRP$ advantages_NNS and_CC suspicious_JJ of_IN the_DT objects_NNS with_IN which_WDT they_PRP are_VBP adopted_VBN ._.
+Agency_NN for_IN Working_VBG Plague_NNP Regulations_NNPS ._.
+4_CD ._.
+Special_JJ attention_NN should_MD be_VB directed_VBN to_TO the_DT restriction_NN ,_, so_RB far_RB as_IN possible_JJ ,_, of_IN the_DT employment_NN of_IN subordinate_JJ Govern-_NNP ment_NN officials_NNS of_IN the_DT medical_JJ and_CC police_JJ departments_NNS and_CC in_IN especial_JJ to_TO the_DT advisability_NN of_IN enlisting_VBG to_TO the_DT utmost_NN possible_JJ extent_NN volunteer_NN agency_NN to_TO assist_VB in_IN carrying_VBG out_RP plague_JJ measures_NNS ._.
+Whenever_WRB practicable_JJ private_JJ hospitals_NNS and_CC camps_NNS may_MD be_VB placed_VBN in_IN charge_NN of_IN native_JJ practitioners_NNS ._.
+Police_NNP officers_NNS should_MD hold_VB no_DT inquiry_NN into_IN suspicious_JJ cases_NNS of_IN plague_NN ._.
+Small_JJ representative_JJ committees_NNS of_IN the_DT inhabitants_NNS may_MD be_VB appointed_VBN in_IN various_JJ parts_NNS of_IN Madras_NNP to_TO co-operate_NN with_IN the_DT authorities_NNS and_CC to_TO bring_VB to_TO their_PRP$ notice_NN matters_NNS requiring_VBG attention_NN or_CC inquiry_NN ._.
+5_CD ._.
+As_RB far_RB as_IN circumstances_NNS permit_VBP ,_, Hindus_NNP should_MD be_VB employed_VBN in_IN those_DT parts_NNS ._.
+._.
+._.
+where_WRB Hindus_NNP predominate_NN ,_, and_CC Muhammadans_NNPS where_WRB Muhammadans_NNPS are_VBP in_IN a_DT majority_NN ._.
+Officers_NNS of_IN all_DT grades_NNS should_MD use_VB the_DT greatest_JJS courtesy_NN and_CC consideration_NN to_TO the_DT people_NNS ,_, and_CC should_MD interfere_VB as_RB little_JJ as_IN possible_JJ with_IN their_PRP$ habits_NNS ,_, feelings_NNS and_CC religious_JJ prejudices_NNS ._.
+4_CD ?_. 26_CD [_NNP Plague_NNP Agency_NNP ._.
+6_CD ._.
+Where_WRB subordinate_JJ native_JJ agency_NN is_VBZ used_VBN ,_, it_PRP is_VBZ abso-_JJ lutely_RB necessary_JJ that_IN Europeans_NNPS should_MD be_VB appointed_VBN as_IN supervisors_NNS over_IN small_JJ and_CC convenient_JJ units_NNS ._.
+7_CD ._.
+The_DT following_JJ procedure_NN should_MD be_VB adopted_VBN in_IN obtain-_JJ ing_VBG the_DT services_NNS of_IN military_JJ officers_NNS for_IN plague_NN duty_NN :_: -_: I_PRP ._.
+A_DT Local_JJ Government_NNP or_CC Administration_NNP requiring_VBG an_DT officer_NN or_CC officers_NNS for_IN plague_NN duty_NN will_MD apply_VB to_TO the_DT Govern-_NNP ment_NN of_IN India_NNP ,_, in_IN the_DT Home_NNP department_NN ,_, detailing_VBG the_DT number_NN of_IN officers_NNS required_VBN ,_, and_CC where_WRB and_CC when_WRB they_PRP should_MD be_VB -ordered_VBN to_TO join_VB ._.
+Such_JJ applications_NNS shall_MD always_RB be_VB accom-_JJ panied_VBN ._.
+by_IN an_DT intimation_NN whether_IN the_DT officer_NN should_MD bring_VB horses_NNS with_IN him_PRP ._.
+II_NNP ._.
+The_DT Government_NNP of_IN India_NNP will_MD then_RB address_VB the_DT Adjutant-General_JJ in_IN India_NNP ,_, who_WP will_MD issue_VB instructions_NNS under_IN the_DT orders_NNS of_IN the_DT Commander-in-Chief_NNP to_TO one_CD or_CC more_JJR Com-_JJ mands_NNS to_TO supply_VB the_DT officers_NNS wanted_VBD ,_, the_DT Government_NNP of_IN India_NNP being_VBG at_IN the_DT same_JJ time_NN informed_VBN of_IN the_DT instructions_NNS issued_VBN ._.
+III_NNP ._.
+On_IN learning_VBG from_IN the_DT Adjutant-General_NNP 's_POS depart-_JJ ment_NN from_IN what_WP Command_NNP the_DT officers_NNS asked_VBD for_IN will_MD be_VB supplied_VBN ,_, the_DT Government_NNP of_IN India_NNP will_MD inform_VB the_DT Local_JJ Government_NNP or_CC Administration_NNP concerned_VBN ,_, and_CC all_DT further_JJ correspondence_NN in_IN reference_NN to_TO the_DT individual_JJ officers_NNS detailed_VBN by_IN Commands_NNP ,_, or_CC their_PRP$ replacement_NN ,_, should_MD they_PRP for_IN any_DT reason_NN revert_NN to_TO military_JJ duty_NN ,_, will_MD be_VB conducted_VBN between_IN the_DT Local_JJ Government_NNP or_CC Administration_NNP and_CC the_DT Lieutenant-_NNP General_NNP Commanding_NNP ,_, IV_NNP ._.
+When_WRB the_DT officers_NNS selected_VBN have_VBP joined_VBN their_PRP$ appoint-_JJ ments_NNS ,_, the_DT Lieutenant-General_JJ Commanding_NNP will_MD communicate_VB their_PRP$ names_NNS to_TO the_DT Adjutant-General_NNP 's_POS department_NN ,_, and_CC their_PRP$ services_NNS will_MD then_RB be_VB placed_VBN at_IN the_DT disposal_NN of_IN the_DT Govern-_NNP ment_NN of_IN India_NNP ._.
+IV-A_NNP ._.
+It_PRP is_VBZ not_RB considered_VBN desirable_JJ that_IN a_DT military_JJ officer_NN should_MD remain_VB absent_NN from_IN his_PRP$ regiment_NN on_IN plague_NN duty_NN for_IN more_JJR than_IN a_DT year_NN at_IN a_DT time_NN ._.
+The_DT Lieutenant-_NNP General_NNP Commanding_NNP has_VBZ therefore_RB instructions_NNS to_TO arrange_VB with_IN the_DT Local_JJ Government_NNP for_IN the_DT relief_NN by_IN a_DT substitute_NN of_IN any_DT such_JJ officer_NN who_WP has_VBZ been_VBN employed_VBN on_IN plague_NN work_NN for_IN over_IN a_DT year_NN ._.
+V._NNP When_WRB an_DT officer_NN 's_POS services_NNS are_VBP no_RB longer_RB required_VBN ,_, he_PRP should_MD be_VB directed_VBN by_IN the_DT Local_JJ Government_NNP or_CC Administra-_NNP tion_NN to_TO rejoin_VB his_PRP$ regiment_NN ,_, the_DT Lieutenant-General_JJ Com-_NNP manding_NN and_CC the_DT Government_NNP of_IN India_NNP being_VBG at_IN the_DT same_JJ time_NN informed_VBN ,_, and_CC the_DT latter_NN will_MD then_RB replace_VB the_DT officer_NN at_IN the_DT Commander-in-Chief_NNP 's_POS disposal_NN ._.
+Discovery_NN of_IN Plague_NNP ._. ]_NN
+27_CD 8_CD ._.
+No_DT officers_NNS of_IN the_DT Indian_NNP Medical_NNP Service_NNP or_CC the_DT Royal_NNP Army_NNP Medical_NNP Corps_NNP lent_NN for_IN plague_NN duty_NN should_MD be_VB permitted_VBN to_TO revert_VB to_TO military_JJ duty_NN without_IN the_DT previous_JJ sanction_NN of_IN the_DT Government_NNP of_IN India_NNP ._.
+9_CD ._.
+The_DT use_NN of_IN troops_NNS for_IN plague_NN purposes_NNS should_MD be_VB avoided_VBN as_RB far_RB as_IN possible_JJ and_CC their_PRP$ employment_NN should_MD be_VB confined_VBN to_TO disinfection_VB when_WRB local_JJ labour_NN is_VBZ not_RB available_JJ ._.
+Before_IN engaging_VBG on_IN plague_NN duty_NN ,_, the_DT sepoys_NNS should_MD be_VB inoculated_VBN and_CC each_DT of_IN them_PRP should_MD be_VB supplied_VBN with_IN two_CD suits_NNS of_IN white_JJ drill_NN ,_, one_CD pair_NN of_IN boots_NNS ,_, and_CC two_CD white_JJ turbans_NNS ;_: they_PRP should_MD not_RB wear_VB military_JJ uniform_NN or_CC carry_NN arms_NNS while_IN so_RB employed_JJ ._.
+The_DT sanction_NN of_IN Government_NNP should_MD be_VB obtained_VBN before_IN requisitioning_VBG them_PRP ,_, and_CC where_WRB the_DT employment_NN of_IN troops_NNS has_VBZ once_RB been_VBN sanctioned_VBN ,_, the_DT men_NNS may_MD be_VB changed_VBN without_IN reference_NN to_TO Government_NNP ._.
+Arrangements_NNS should_MD be_VB made_VBN for_IN the_DT relieving_VBG detachment_NN to_TO be_VB inoculated_VBN before_IN arrival_NN ._.
+10_CD ._.
+..._:
+Discovery_NN of_IN Plague_NNP ._.
+11_CD ._.
+The_DT most_RBS important_JJ and_CC the_DT most_RBS difficult_JJ matter_NN in_IN all_DT operations_NNS against_IN plague_NN is_VBZ to_TO obtain_VB early_JJ information_NN regarding_VBG the_DT cases_NNS that_WDT occur_VBP ._.
+The_DT prompt_JJ discovery_NN of_IN an_DT imported_JJ case_NN of_IN plague_NN may_MD enable_VB the_DT local_JJ authorities_NNS to_TO prevent_VB a_DT local_JJ outbreak_NN ,_, and_CC even_RB where_WRB a_DT few_JJ indigenous_JJ cases_NNS have_VBP occurred_VBN ,_, early_JJ information_NN regarding_VBG each_DT new_JJ case_NN may_MD make_VB it_PRP possible_JJ to_TO prevent_VB the_DT outbreak_NN from_IN spreading_VBG beyond_IN a._NN confined_VBN area_NN ._.
+Every_DT endeavour_NN should_MD therefore_RB be_VB made_VBN to_TO obtain_VB information_NN of_IN each_DT case_NN of_IN plague_NN that_WDT occurs_VBZ ,_, as_RB soon_RB as_IN possible_JJ after_IN the_DT patient_NN has_VBZ been_VBN attacked_VBN ,_, or_CC where_WRB this_DT is_VBZ not_RB possible_JJ ,_, soon_RB after_IN death_NN ._.
+12_CD ._.
+For_IN this_DT purpose_NN ,_, the_DT surveillance_NN system_NN as_IN de-_JJ scribed_NN in_IN regulation_NN 1_CD should_MD be_VB mainly_RB relied_VBN upon_IN ,_, and_CC the_DT co-operation_NN of_IN the_DT people_NNS in_IN working_VBG it_PRP should_MD be_VB secured_VBN by_IN pointing_VBG out_RP to_TO them_PRP the_DT advantage_NN of_IN protect-_JJ ing_VBG themselves_PRP by_IN not_RB mixing_VBG with_IN persons_NNS coming_VBG from_IN infected_VBN areas_NNS and_CC by_IN giving_VBG the_DT authorities_NNS prompt_JJ notice_NN of_IN their_PRP$ arrival_NN ,_, and_CC of_IN any_DT cases_NNS of_IN plague_NN or_CC suspicious_JJ fever_NN among_IN them_PRP ._.
+._.
+._.
+._.
+One_CD or_CC more_JJR volunteers_NNS of_IN each_DT caste_NN should_MD be_VB invited_VBN to_TO assist_VB the_DT circle_NN officers_NNS in_IN prosecuting_VBG enquiries_NNS and_CC discovering_VBG plague_NN cases_NNS ._.
+The_DT risk_NN of_IN conceal-_JJ ment_NN of_IN cases_NNS is_VBZ lessened_VBN where_WRB people_NNS see_VBP that_IN their_PRP$ leaders_NNS have_VBP ranged_VBN themselves_PRP on_IN the_DT side_NN of_IN the_DT authorities_NNS ._.
+?_. 28_CD [_JJ Isolation_NNP of_IN Patients_NNPS ._.
+13_CD ._.
+Besides_IN carrying_VBG out_RP the_DT other_JJ measures_NNS prescribed_VBN in_IN part_NN I_PRP of_IN the_DT 'regulations_NNS ,_, attention_NN should_MD be_VB paid_VBN to_TO the_DT improvement_NN of_IN the_DT existing_VBG system_NN of_IN registering_VBG deaths_NNS ._.
+._.
+._.
+._.
+Special_JJ daily_JJ returns_NNS of_IN mortality_NN may_MD be_VB called_VBN for_IN and_CC checked_VBD with_IN the_DT aid_NN of_IN trustworthy_JJ subordi-_JJ nates_NNS posted_VBD at_IN burning_NN and_CC burial_JJ grounds_NNS ._.
+14_CD ._.
+The_DT employment_NN of_IN paid_JJ spies_NNS or_CC informers_NNS as_RB well_RB as_IN the_DT grant_NN of_IN rewards_NNS for_IN information_NN regarding_VBG plague_NN cases_NNS is_VBZ prohibited_VBN ._.
+Removal_NN of_IN Plague_NNP Patients_NNPS to_TO Hospital_NNP ._.
+15_CD ._.
+Plague_NN patients_NNS who_WP are_VBP left_VBN without_IN any_DT one_CD to_TO look_VB after_IN them_PRP or_CC who_WP have_VBP no_DT home_NN should_MD in_IN all_DT cases_NNS be_VB removed_VBN to_TO hospital_VB ,_, and_CC there_EX can_MD be_VB no_DT question_NN that_IN in_IN dealing_VBG with_IN imported_VBN cases_NNS ._.
+._.
+._.
+the_DT first_JJ measure_NN to_TO adopt_VB is_VBZ the_DT compulsory_JJ removal_NN of_IN the_DT sick_NN to_TO hospital_NN ._.
+In_IN dealing_VBG with_IN early_JJ indigenous_JJ cases_NNS the_DT same_JJ policy_NN may_MD be_VB advisable_JJ ._.
+But_CC if_IN this_DT policy_NN prove_VB unsuccessful_JJ ._.
+._.
+._.
+a_DT point_NN may_MD soon_RB be_VB reached_VBN where_WRB the_DT authorities_NNS will_MD not_RB succeed_VB in_IN getting_VBG the_DT bulk_NN of_IN the_DT cases_NNS ._.
+-_: When_WRB this_DT point_NN is_VBZ reached_VBN ,_, the_DT fact_NN must_MD be_VB faced_VBN that_IN the_DT evils_NNS of_IN leaving_VBG the_DT sick_NN in_IN their_PRP$ houses_NNS are_VBP being_VBG incurred_VBN and_CC that_IN the_DT attempt_NN to_TO remove_VB them_PRP to_TO hospital_VB may_MD be_VB super-adding_JJ to_TO these_DT the_DT evils_NNS that_WDT result_VBP from_IN carrying_VBG about_IN sick_JJ persons_NNS from_IN house_NN to_TO house_NN ._.
+At_IN this_DT stage_NN the_DT less_JJR the_DT sick_NN are_VBP interfered_VBN with_IN the_DT better_JJR ._.
+All_PDT that_WDT can_MD then_RB be_VB done_VBN is_VBZ to_TO endeavour_VB to_TO palliate_VB the_DT evils_NNS that_WDT result_VBP from_IN leaving_VBG people_NNS in_IN their_PRP$ houses_NNS by_IN arranging_VBG for_IN continual_JJ visitation_NN of_IN the_DT sick_NN at_IN home_NN ,_, the_DT frequent_JJ disinfection_NN of_IN the_DT infected_JJ room_NN ,_, and_CC the_DT encouragement_NN of_IN inoculation_NN among_IN persons_NNS left_VBN in_IN the_DT houses_NNS with_IN the_DT sick_NN ._.
+16_CD ._.
+Except_IN in_IN the_DT cases_NNS mentioned_VBN above_IN ,_, the_DT removal_NN of_IN patients_NNS to_TO hospital_VB should_MD not_RB be_VB made_VBN compulsory_NN ._.
+Every_DT effort_NN should_MD ,_, however_RB ,_, be_VB made_VBN to_TO induce_VB patients_NNS to_TO go_VB voluntarily_RB to_TO hospital_NN and_CC to_TO lessen_VB the_DT aversion_NN to_TO hospital_NN by_IN the_DT following_JJ means-_NN (_( 1_CD )_) by_IN encouraging_VBG the_DT establish-_JJ ment_NN of_IN private_JJ and_CC easte_NN hospitals_NNS ;_: (_( 2_CD )_) by_IN locating_VBG hospitals_NNS near_IN to_TO infected_JJ quarters_NNS ;_: (_( 3_CD )_) by_IN limiting_VBG the_DT size_NN of_IN hospitals_NNS so_IN that_IN patients_NNS may_MD receive_VB more_JJR individual_JJ attention_NN ,_, and_CC accommodation_NN may_MD be_VB more_JJR readily_RB made_VBD available_JJ for_IN their_PRP$ immediate_JJ families_NNS and_CC friends_NNS ;_: (_( 4_CD )_) by_IN arranging_VBG for_IN the_DT provision_NN of_IN an_DT adequate_JJ number_NN of_IN medical_JJ attendants_NNS and_CC ,_, nurses_NNS and_CC of_IN ample_JJ and_CC comfortable_JJ accommodation_NN for_IN ?_. Segregation_NNP of_IN Contacts_NNP ._. ]_NN
+29_CD patients_NNS ;_: (_( 5_CD )_) by_IN permitting_VBG at_IN least_JJS two_CD friends_NNS to_TO be_VB in_IN attendance_NN on_IN each_DT patient_NN so_RB that_IN the_DT patient_NN may_MD never_RB be_VB left_VBN alone_RB ;_: (_( 6_CD )_) by_IN allowing_VBG the_DT patients_NNS to_TO have_VB their_PRP$ own_JJ food_NN and_CC medicines_NNS and_CC to_TO receive_VB visits_NNS from_IN their_PRP$ relations_NNS ,_, friends_NNS and_CC religious_JJ instructors_NNS ;_: (_( 7_CD )_) by_IN taking_VBG care_NN that_IN all_DT arrangements_NNS for_IN observance_NN of_IN caste_NN customs_NNS and_CC for_IN the_DT comfort_NN and_CC convenience_NN of_IN patients_NNS and_CC their_PRP$ attendants_NNS are_VBP completed_VBN before_IN inviting_VBG admission_NN to_TO hospitals_NNS ._.
+17_CD ._.
+Moribund_NN patients_NNS should_MD never_RB be_VB removed_VBN to_TO hospital_VB except_IN at_IN the_DT express_JJ wish_NN of_IN the_DT friends_NNS or_CC relations_NNS of_IN the_DT patients_NNS ._.
+The_DT risk_NN of_IN leaving_VBG in_IN his_PRP$ house_NN a_DT patient_NN whose_WP$ case_NN is_VBZ so_RB serious_JJ that_IN the_DT medical_JJ officer_NN thinks_VBZ he_PRP has_VBZ not_RB a_DT fair_JJ chance_NN of_IN recovery_NN is_VBZ not_RB great_JJ since_IN ,_, as_IN the_DT existence_NN of_IN the_DT case_NN will_MD have_VB become_VBN known_VBN ,_, there_EX will_MD be_VB no_DT difficulty_NN in_IN carrying_VBG out_RP measures_NNS of_IN disinfection_NN during_IN the_DT progress_NN of_IN sickness_NN (_( if_IN necessary_JJ )_) ,_, or_CC after_IN death_NN ._.
+18_CD ._.
+The_DT pneumonic_JJ variety_NN of_IN plague_NN being_VBG the_DT most_RBS con-_JJ tagious_JJ ,_, persons_NNS suffering_VBG from_IN this_DT type_NN of_IN the_DT disease_NN should_MD not_RB be_VB removed_VBN to_TO the_DT general_JJ wards_NNS of_IN plague_NN hospitals_NNS ,_, but_CC should_MD be_VB isolated_VBN in_IN separate_JJ wards_NNS of_IN the_DT greatest_JJS possible_JJ air_NN space_NN ._.
+It_PRP is_VBZ further_RBR advisable_JJ that_IN such_JJ cases_NNS should_MD not_RB be_VB treated_VBN in_IN private_JJ houses_NNS ,_, unless_IN in_IN the_DT opinion_NN of_IN the_DT medical_JJ officer_NN ,_, the_DT room_NN occupied_VBN by_IN the_DT patient_NN is_VBZ suited_VBN for_IN his_PRP$ complete_JJ isolation_NN ,_, and_CC proper_JJ control_NN over_IN the_DT number_NN of_IN attendants_NNS and_CC enforcement_NN of_IN disinfection_NN could_MD be_VB had_VBN ._.
+Segregation_NN of_IN Contacts_NNS ._.
+19_CD ._.
+Persons_NNS who_WP have_VBP been_VBN in_IN immediate_JJ contact_NN with_IN plague_NN patients_NNS are_VBP known_VBN as_IN contacts_NNS ._.
+By_IN segregating_VBG them_PRP ,_, persons_NNS who_WP are_VBP likely_JJ to_TO develop_VB plague_NN are_VBP isolated_VBN and_CC cease_VB to_TO be_VB a_DT danger_NN to_TO other_JJ people_NNS ;_: the_DT plague-infected_JJ houses_NNS are_VBP emptied_VBN for_IN the_DT process_NN of_IN disinfection_NN ,_, and_CC the_DT contacts_NNS themselves_PRP are_VBP protected_VBN from_IN further_JJ risk_NN of_IN infection_NN from_IN those_DT houses_NNS ._.
+To_TO render_VB segregation_NN effective_JJ ,_, the_DT following_JJ measures_NNS are_VBP necessary_JJ :_: -_: (_( 1_CD )_) All_DT contacts_NNS should_MD be_VB diligently_RB searched_VBN for_IN and_CC be_VB detained_VBN for_IN the_DT maximum_JJ period_NN of_IN incubation_NN ,_, and_CC pre-_JJ vented_VBN from_IN mixing_VBG with_IN healthy_JJ people_NNS ;_: (_( 2_CD )_) Those_DT in_IN contact_NN with_IN each_DT successive_JJ case_NN of_IN plague_NN that_WDT occurs_VBZ in_IN the_DT segregation_NN camp_NN must_MD be_VB similarly_RB dealt_JJ with_IN ;_: (_( 3_CD )_) All_DT clothing_NN must_MD be_VB effectually_RB disinfected_VBN on_IN entry_NN into_IN the_DT camp_NN and_CC if_IN plague_JJ cases_NNS have_VBP occurred_VBN in_IN the_DT camp_NN since_IN the_DT date_NN of_IN entry_NN ,_, at_IN the_DT time_NN of_IN departure_NN also_RB ;_: and_CC 30_CD [_JJ Evacuation_NNP ._.
+(_( 4_CD )_) The_DT staff_NN employed_VBN must_MD be_VB very_RB strong_JJ relatively_RB to_TO the_DT number_NN of_IN cases_NNS that_WDT occur_VBP and_CC must_MD be_VB trustworthy_JJ ._.
+20_CD ._.
+These_DT measures_NNS are_VBP not_RB always_RB practicable_JJ and_CC the_DT Indian_NNP Plague_NNP Commission_NNP are_VBP of_IN opinion_NN that_IN the_DT facts_NNS investigated_VBN by_IN them_PRP do_VBP not_RB justify_VB the_DT conclusion_NN that_IN in_IN an_DT outbreak_NN the_DT contacts_NNS from_IN a_DT house_NN in_IN which_WDT a_DT case_NN of_IN plague_NN has_VBZ occurred_VBN must_MD be_VB regarded_VBN from_IN the_DT point_NN of_IN view_NN of_IN the_DT protection_NN of_IN the_DT rest_NN of_IN the_DT community_NN as_IN so_RB dangerous_JJ that_IN they_PRP ought_MD to_TO be_VB compulsorily_RB removed_VBN to_TO a_DT segregation_NN camp_NN ._.
+The_DT Government_NNP of_IN India_NNP have_VBP accordingly_RB ordered_VBN that_IN the_DT compulsory_JJ segregation_NN of_IN contacts_NNS should_MD be_VB aban-_JJ doned_VBN as_IN ineffective_JJ and_CC harassing_VBG except_IN when_WRB dealing_VBG with_IN imported_VBN cases_NNS or_CC when_WRB the_DT infection_NN is_VBZ confined_VBN to_TO so_RB small_JJ an_DT area_NN that_WDT contacts_NNS can_MD be_VB accurately_RB known_VBN and_CC establish-_JJ ments_NNS can_MD be_VB provided_VBN sufficient_JJ to_TO secure_VB the_DT detention_NN of_IN every_DT contact_NN ._.
+Where_WRB these_DT conditions_NNS do_VBP not_RB exist_VB ,_, it_PRP is_VBZ better_RBR to_TO subject_VB the_DT contacts_NNS to_TO mere_VB surveillance_NN at_IN their_PRP$ houses_NNS ,_, as_IN any_DT attempt_NN to_TO segregate_VB them_PRP will_MD not_RB only_RB lead_VB to_TO the_DT general_JJ concealment_NN of_IN cases_NNS but_CC also_RB tend_VBP to_TO scatter_VB the_DT people_NNS and_CC thus_RB spread_VB the_DT infection_NN to_TO distant_VB places_NNS ._.
+While_IN under_IN surveillance_NN ,_, the_DT contacts_NNS may_MD be_VB allowed_VBN to_TO pursue_VB their_PRP$ daily_JJ avocations_NNS ._.
+21_CD ._.
+An_DT officer_NN who_WP ,_, not_RB being_VBG on_IN leave_NN ,_, is_VBZ unable_JJ to_TO perform_VB his_PRP$ official_JJ duties_NNS owing_VBG to_TO a_DT short_JJ period_NN of_IN segregation_NN on_IN account_NN of_IN plague_NN may_MD be_VB treated_VBN as_IN on_IN duty_NN on_IN full_JJ pay_NN ._.
+In_IN the_DT case_NN ,_, however_RB ,_, of_IN officers_NNS who_WP are_VBP segregated_VBN while_IN returning_VBG from_IN leave_JJ and_CC thus_RB overstay_VB their_PRP$ leave_NN ,_, the_DT period_NN of_IN detention_NN may_MD be_VB treated_VBN as_IN duty_NN on_IN half-pay_NN ,_, if_IN it_PRP is_VBZ considered_VBN that_IN some_DT concession_NN is_VBZ required_VBN ,_, but_CC officers_NNS who_WP are_VBP suffering_VBG from_IN plague_NN should_MD be_VB treated_VBN in_IN accord_NN ance_NN with_IN the_DT ordinary_JJ rules_NNS ._.
+22_CD ._.
+Officers_NNS in_IN charge_NN of_IN plague_NN camps_NNS should_MD give_VB deten-_JJ tion_NN certificates_NNS to_TO all_DT persons_NNS who_WP were_VBD detained_VBN by_IN them_PRP ,_, on_IN their_PRP$ discharge_NN from_IN the_DT camps_NNS ._.
+Evacuation_NN ._.
+23_CD ._.
+By_IN evacuation_NN is_VBZ meant_VBN the_DT emptying_NN of_IN all_DT or_CC some_DT of_IN the_DT houses_NNS in_IN an_DT infected_JJ town_NN ._.
+._.
+._.
+with_IN the_DT idea_NN that_IN they_PRP should_MD not_RB be_VB occupied_VBN is_VBZ dwelling_VBG houses_NNS until_IN it_PRP is_VBZ believed_VBN that_IN they_PRP can_MD again_RB be_VB occupied_VBN without_IN risk_NN of_IN infec-_JJ tion_NN ,_, the_DT people_NNS thus_RB removed_VBD being_VBG lodged_VBN in_IN temporary_JJ camps_NNS in_IN the_DT open_JJ country_NN ._.
+To_TO make_VB it_PRP thoroughly_RB effective_JJ ,_, the_DT following_JJ conditions_NNS are_VBP required_VBN :_: (_( 1_CD )_) the_DT people_NNS should_MD ?_. Inoculation_NNP ._. ]_NN
+31_CD all_DT be_VB got_VBN out_RP promptly_RB ;_: (_( 2_CD )_) their_PRP$ effects_NNS should_MD all_DT be_VB dis-_JJ infected_VBN ;_: (_( 3_CD )_) each_DT new_JJ case_NN should_MD be_VB immediately_RB isolated_VBN ;_: (_( 4_CD )_) suitable_JJ accommodation_NN should_MD be_VB available_JJ ;_: (_( 5_CD )_) the_DT people_NNS should_MD be_VB effectually_RB prevented_VBN from_IN visiting_VBG ,_, or_CC sleep-_JJ ing_NN in_IN ,_, the_DT infected_JJ houses_NNS until_IN either_CC the_DT houses_NNS shall_MD have_VB been_VBN disinfected_VBN or_CC until_IN sufficient_JJ time_NN shall_MD have_VB elapsed_VBN for_IN the_DT infection_NN to_TO disappear_VB ;_: (_( 6_CD )_) and_CC lastly_RB they_PRP should_MD not_RB be_VB permitted_VBN to_TO scatter_VB and_CC spread_VB the_DT infection_NN in_IN the_DT neighbourhood_NN ._.
+24_CD ._.
+Evacuation_NNP provides_VBZ the_DT most_RBS effective_JJ safeguard_NN against_IN the_DT spread_NN of_IN plague_NN which_WDT has_VBZ yet_RB been_VBN discovered_VBN ._.
+Its_PRP$ advantages_NNS are_VBP self-evident_JJ and_CC it_PRP should_MD be_VB resorted_VBN to_TO wherever_VB practicable_JJ ._.
+._.
+._.
+The_DT extent_NN to_TO which_WDT it_PRP can_MD be_VB carried_VBN out_RP in_IN Madras_NNP will_MD depend_VB on_IN the_DT willingness_NN of_IN the_DT people_NNS ,_, the_DT season_NN of_IN the_DT year_NN ._.
+._.
+._.
+._.
+the_DT facilities_NNS for_IN providing_VBG camp_JJ accommodation_NN ,_, and_CC the_DT strength_NN of_IN the_DT available_JJ staff_NN ._.
+It_PRP will_MD be_VB found_VBN to_TO be_VB of_IN the_DT greatest_JJS value_NN at_IN the_DT very_RB commencement_NN of_IN the_DT outbreak_NN ,_, for_IN the_DT removal_NN of_IN the_DT small_JJ number_NN of_IN people_NNS affected_VBN will_MD not_RB present_VB any_DT great_JJ difficulties_NNS ,_, and_CC prompt_JJ evacuation_NN of_IN the_DT infected_JJ quarter_NN may_MD save_VB the_DT rest_NN of_IN the_DT town_NN ._.
+25_CD ._.
+Evacuation_NN is_VBZ ,_, however_RB ,_, likely_RB to_TO do_VB more_JJR harm_NN than_IN good_JJ in_IN the_DT following_JJ cases_NNS :_: (_( a_DT )_) During_IN the_DT rainy_NN season_NN ,_, when_WRB it_PRP is_VBZ impossible_JJ to_TO keep_VB the_DT people_NNS ,_, after_IN they_PRP have_VBP once_RB been_VBN removed_VBN from_IN their_PRP$ houses_NNS ,_, from_IN going_VBG back_RB to_TO them_PRP ._.
+In_IN such_JJ circum-_JJ stances_NNS ,_, the_DT evacuated_JJ people_NNS are_VBP exposed_VBN to_TO great_JJ incon-_JJ venience_NN and_CC misery_NN without_IN deriving_VBG any_DT countervailing_VBG advantages_NNS from_IN evacuation_NN ._.
+(_( b_NN )_) When_WRB the_DT infection_NN is_VBZ widely_RB distributed_VBN among_IN the_DT inhabitants_NNS ,_, ._.
+._.
+._.
+it_PRP is_VBZ then_RB advisable_JJ to_TO agitate_VB the_DT people_NNS as_RB little_JJ as_IN possible_JJ ,_, especially_RB when_WRB there_EX are_VBP among_IN them_PRP a_DT considerable_JJ number_NN of_IN artisans_NNS and_CC traders_NNS who_WP may_MD lose_VB their_PRP$ occupation_NN by_IN being_VBG removed_VBN from_IN the_DT town_NN and_CC are_VBP therefore_RB likely_JJ to_TO run_VB away_RB and_CC infect_VB other_JJ places_NNS ._.
+Inoculation_NN ._.
+26_CD ._.
+The_DT exhaustive_JJ inquiries_NNS made_VBN by_IN the_DT Indian_NNP Plague_NNP Commission_NNP have_VBP established_VBN the_DT fact_NN that_IN inoculation_NN with_IN haffkinine_NN lessens_VBZ the_DT liability_NN to_TO plague_VB and_CC greatly_RB in-_JJ creases_VBZ the_DT chance_NN of_IN recovery_NN from_IN an_DT attack_NN of_IN the_DT disease_NN ,_, and_CC disproved_VBD the_DT statement_NN that_IN serious_JJ ill-consequences_NNS have_VBP resulted_VBN from_IN such_JJ inoculation_NN ._.
+The_DT maximum_JJ period_NN for_IN which_WDT protection_NN is_VBZ afforded_VBN by_IN inoculation_NN has_VBZ not_RB yet_RB been_VBN ?_. 32_CD [_JJ Inoculation_NNP ._.
+determined_VBN ._.
+For_IN practical_JJ purposes_NNS ,_, it_PRP has_VBZ been_VBN fixed_VBN ,_, for_IN the_DT present_JJ ,_, at_IN six_CD months_NNS ,_, but_CC it_PRP should_MD be_VB noted_VBN that_IN inocu-_JJ lation_NN does_VBZ not_RB confer_VB any_DT great_JJ degree_NN of_IN protection_NN within_IN the_DT first_JJ few_JJ days_NNS ._.
+Recently_RB inoculated_VBN persons_NNS therefore_RB incur_VBP risk_NN of_IN infection_NN by_IN remaining_VBG in_IN infected_JJ places_NNS ._.
+27_CD ._.
+Inoculation_NN should_MD be_VB encouraged_VBN wherever_WRB possible_JJ and_CC in_IN particular_JJ among_IN disinfecting_VBG staffs_NNS and_CC the_DT attendants_NNS of_IN plague_NN hospitals_NNS ._.
+._.
+._.
+._.
+No_DT effort_NN should_MD be_VB spared_VBN to_TO explain_VB to_TO the_DT people_NNS in_IN quarters_NNS threatened_VBN with_IN a_DT visitation_NN of_IN the_DT disease_NN the_DT advantage_NN of_IN being_VBG inoculated_VBN before_IN the_DT disease_NN is_VBZ among_IN them_PRP and_CC to_TO secure_VB the_DT co-operation_NN of_IN the_DT more_RBR enlightened_JJ members_NNS of_IN the_DT communities_NNS ._.
+At_IN the_DT same_JJ time_NN ,_, no_DT compulsion_NN of_IN any_DT sort_NN ,_, direct_JJ or_CC indirect_JJ ,_, should_MD be_VB used_VBN ._.
+An_DT awkward_JJ attempt_NN at_IN persuasion_NN is_VBZ liable_JJ to_TO create_VB opposition_NN ,_, resistance_NN ,_, and_CC occasionally_RB ,_, unfounded_JJ apprehension_NN ,_, and_CC great_JJ circumspection_NN is_VBZ necessary_JJ in_IN introducing_VBG inoculation_NN in_IN places_NNS where_WRB there_EX is_VBZ no_DT demand_NN for_IN it_PRP ._.
+._.
+._.
+._.
+The_DT people_NNS should_MD be_VB distinctly_RB warned_VBN that_IN inoculation_NN is_VBZ not_RB by_IN any_DT means_NNS a_DT certain_JJ prophylactic_JJ ,_, but_CC that_IN it_PRP considerably_RB reduces_VBZ the_DT chances_NNS of_IN the_DT inoculated_JJ getting_VBG plague_NN ,_, that_IN an_DT inoculated_JJ person_NN when_WRB attacked_VBN has_VBZ increased_VBN chances_NNS of_IN recovery_NN ,_, and_CC that_IN the_DT process_NN ,_, if_IN properly_RB conducted_VBN ,_, is_VBZ harmless_JJ ._.
+28_CD ._.
+Only_RB trained_JJ and_CC reliable_JJ persons_NNS should_MD be_VB entrusted_VBN with_IN the_DT actual_JJ operation_NN of_IN inoculation_NN ,_, and_CC supervision_NN should_MD be_VB exercised_VBN over_IN them_PRP to_TO ensure_VB that_IN they_PRP use_VBP only_RB sterilized_JJ implements_NNS ._.
+To_TO remove_VB any_DT possible_JJ ground_NN for_IN distrust_NN as_IN to_TO the_DT conveyance_NN of_IN disease_NN from_IN one_CD person_NN to_TO another_DT ,_, the_DT inoculation_NN syringe_NN should_MD be_VB sterilized_VBN in_IN the_DT presence_NN of_IN the_DT person_NN about_IN to_TO be_VB inoculated_VBN ._.
+The_DT steriliza-_JJ tion_NN should_MD be_VB effected_VBN by_IN immersion_NN in_IN carbolic_JJ acid_NN ,_, or_CC preferably_RB carbolized_VBN oil_NN kept_VBD hot_JJ by_IN the_DT flame_NN of_IN a_DT spirit_NN lamp_JJ underneath_NN ._.
+After_IN a_DT bottle_NN has_VBZ once_RB been_VBN opened_VBN and_CC only_RB a_DT portion_NN of_IN its_PRP$ contents_NNS used_VBN ,_, the_DT remainder_NN should_MD invariably_RB be_VB thrown_VBN away_RB ._.
+29_CD ._.
+Inoculated_JJ persons_NNS should_MD be_VB furnished_VBN with_IN certifi-_JJ cates_NNS in_IN the_DT prescribed_JJ form_NN ._.
+The_DT certificate_NN should_MD bear_VB the_DT left_NN thumb_JJ mark_NN of_IN the_DT person_NN inoculated_VBD and_CC should_MD be_VB issued_VBN immediately_RB after_IN one_CD full_JJ dose_NN has_VBZ been_VBN given_VBN ,_, but_CC the_DT recipient_NN should_MD be_VB recommended_VBN to_TO return_VB for_IN a_DT ,_, second_JJ inoculation_NN after_IN ten_JJ days_NNS ._.
+The_DT full_JJ dose_NN should_MD always_RB be_VB given_VBN at_IN one_CD time_NN ,_, unless_IN for_IN medical_JJ reasons_NNS it_PRP is_VBZ considered_VBN advisable_JJ to_TO divide_VB it_PRP ._.
+If_IN it_PRP is_VBZ necessary_JJ to_TO do_VB this_DT ,_, a_DT certifi-_JJ cate_NN should_MD not_RB be_VB given_VBN until_IN the_DT equivalent_NN of_IN two_CD full_JJ doses_NNS has_VBZ been_VBN given_VBN ._.
+If_IN ,_, however_RB ,_, no_DT undue_JJ reaction_NN ensues_NNS Disinfection_NNP ,_, ]_VBD 33_CD after_IN the_DT first_JJ fractional_JJ dose_NN has_VBZ been_VBN taken_VBN ,_, it_PRP is_VBZ advisable-_JJ to_TO give_VB the_DT full_JJ dose_NN at_IN once_RB on_IN the_DT second_JJ occasion_NN ,_, after_IN which_WDT a_DT certificate_NN may_MD be_VB given_VBN ._.
+30_CD ._.
+The_DT privileges_NNS attached_VBN to_TO inoculation_NN are_VBP mentioned_VBN in_IN regulation_NN 40_CD ._.
+They_PRP are_VBP not_RB admissible_JJ in_IN cases_NNS of_IN persons_NNS who_WP have_VBP recovered_VBN from_IN plague_NN ._.
+As_IN a_DT further_JJ encouragement_NN the_DT Government_NNP has_VBZ authorized_VBN the_DT grant_NN of_IN three_CD days_NNS '_POS extra_JJ casual_NNS leave_VBP on_IN full_JJ pay_NN to_TO all_DT public_JJ servants_NNS for_IN the_DT purpose_NN of_IN being_VBG inoculated_VBN ._.
+Students_NNS attending_VBG Government_NNP and_CC aided_VBD schools_NNS ,_, who_WP undergo_VBP in-_JJ oculation_NN ,_, will_MD be_VB marked_VBN in_IN the_DT registers_NNS for_IN not_RB more_RBR than_IN three_CD consecutive_JJ days_NNS as_IN ``_`` under_IN inoculation_NN ,_, ''_'' and_CC such_PDT an_DT entry_NN will_MD be_VB regarded_VBN as_IN equivalent_NN to_TO attendance_NN ._.
+No_DT subsistence_NN allowance_NN can_MD be_VB granted_VBN to_TO inoculated_JJ persons_NNS for_IN the_DT period_NN during_IN which_WDT they_PRP are_VBP incapacitated_VBN for_IN work_NN owing_VBG to_TO the_DT operation_NN ._.
+31_CD ._.
+The_DT Sanitary_NNP Commissioner_NNP is_VBZ in_IN charge_NN of_IN all_DT measures_NNS connected_VBN with_IN inoculation_NN and_CC he_PRP will_MD issue_VB the_DT necessary_JJ rules_NNS as_IN to_TO the_DT conduct_NN of_IN the_DT operation_NN ,_, supply_NN of_IN haffkinine_NN and_CC inoculation_NN syringes_NNS ,_, &_CC c._NN He_PRP should_MD submit_VB to_TO Govern-_NNP ment_NN a_DT weekly_JJ return_NN showing_VBG the_DT progress_NN of_IN inoculation_NN in_IN the_DT presidency_NN ._.
+Disinfection_NN ._.
+32_CD ._.
+Chemical_NNP disinfection_NN ought_MD to_TO be_VB resorted_VBN to_TO wher-_JJ ever_RB possible_JJ ._.
+Of_IN all_DT measures_NNS of_IN disinfection_NN ,_, it_PRP is_VBZ the_DT only_JJ one_CD which_WDT ,_, when_WRB effectively_RB carried_VBD out_RP ,_, immediately_RB destroys_VBZ the_DT infective_JJ material_NN present_NN in_IN a_DT room_NN and_CC renders_VBZ the_DT room_NN at_IN once_RB practically_RB safe_JJ for_IN re-occupation_NN ._.
+It_PRP is_VBZ ,_, however_RB ,_, essential_JJ that_IN it_PRP should_MD be_VB carried_VBN out_RP by_IN a_DT trained_JJ agency_NN ,_, and_CC experience_NN shows_NNS that_WDT where_WRB such_PDT an_DT agency_NN can_MD not_RB be_VB employed_VBN ,_, it_PRP is_VBZ better_RBR to_TO rely_VB on_IN gradual_JJ desiccation_NN rather_RB than_IN on_IN a_DT process_NN of_IN disinfection_NN which_WDT is_VBZ likely_JJ to_TO be_VB in_IN complete_JJ and_CC ineffective_JJ ._.
+Imperfect_JJ disinfection_NN involves_VBZ waste_NN of_IN energy_NN and_CC material_NN ,_, brings_VBZ discredit_NN on_IN the_DT system_NN by_IN exhibiting_VBG unsuccessful_JJ results_NNS ,_, and_CC engenders_VBZ a_DT false_JJ sense_NN of_IN security_NN with_IN regard_NN to_TO localities_NNS which_WDT have_VBP been_VBN incompletely_RB disinfected_VBN and_CC still_RB contain_VB the_DT living_NN germs_NNS of_IN plague_NN ._.
+33_CD ._.
+According_VBG to_TO present_JJ knowledge_NN ,_, perchloride_NN of_IN mer-_JJ cury_NN is_VBZ the_DT most_RBS effective_JJ chemical_NN disinfectant_NN ._.
+It_PRP should_MD be_VB used_VBN in_IN a_DT strength_NN of_IN 1_CD in_IN 1,000_CD ,_, to_TO which_WDT 2_CD per_IN thousand_NN of_IN hydrochloric_JJ acid_NN and_CC a_DT little_JJ aniline_JJ blue_NN should_MD be_VB added_VBN ._.
+If_IN the_DT owners_NNS have_VBP no_DT objection_NN ,_, interiors_NNS of_IN infected_JJ houses_NNS should_MD ,_, as_IN a_DT rule_NN ,_, be_VB treated_VBN with_IN Wilkinson_NNP 's_POS coloured_VBD 5_CD 34_CD [_JJ Disinfection_NNP ,_, Solution_NNP which_WDT contains_VBZ the_DT perchloride_NN in_IN the_DT strength_NN stated_VBN above_IN ._.
+To_TO ensure_VB that_IN the_DT perchloride_NN is_VBZ free_JJ from_IN impurities_NNS ,_, it_PRP should_MD be_VB obtained_VBN from_IN the_DT Madras_NNP medical_JJ store_NN depot_NN ._.
+._.
+._.
+The_DT perchloride_NN should_MD be_VB issued_VBN in_IN the_DT form_NN of_IN a_DT concentrated_JJ solution_NN in_IN acid_NN and_CC clear_JJ instructions_NNS should_MD be_VB forwarded_VBN with_IN each_DT consignment_NN as_IN to_TO the_DT amount_NN of_IN water_NN to_TO be_VB added_VBN ._.
+With_IN a_DT view_NN to_TO securing_VBG that_IN the_DT dilutions_NNS prescribed_VBD should_MD be_VB the_DT solutions_NNS in_IN which_WDT the_DT disinfectant_NN shall_MD actually_RB be_VB employed_VBN ,_, the_DT capacity_NN of_IN the_DT vessels_NNS used_VBN for_IN measuring_VBG out_RP the_DT concentrated_JJ solution_NN shall_MD be_VB accurately_RB adjusted_VBN to_TO that_DT of_IN the_DT wooden_JJ buckets_NNS in_IN which_WDT that_DT solution_NN is_VBZ diluted_VBN for_IN use_NN ._.
+Further_RB ,_, the_DT buckets_NNS employed_VBD should_MD be_VB of_IN such_JJ capacity_NN as_IN to_TO hold_VB just_RB the_DT quantity_NN of_IN water_NN sufficient_NN to_TO dilute_VB the_DT measure_NN of_IN con-_NN centrated_VBN solution_NN to_TO the_DT desired_JJ effect_NN ._.
+The_DT perchloride_NN may_MD also_RB be_VB issued_VBN in_IN the_DT solid_JJ form_NN in_IN packets_NNS ,_, the_DT contents_NNS of_IN which_WDT are_VBP accurately_RB adjusted_VBN to_TO the_DT size_NN of_IN the_DT vessels_NNS in_IN which_WDT they_PRP are_VBP to_TO be_VB dissolved_VBN for_IN use_NN ._.
+34_CD ._.
+Steam-sterilisers_NNS ,_, unless_IN their_PRP$ working_NN is_VBZ committed_VBN to_TO skilled_VB and_CC trustworthy_JJ operators_NNS ,_, are_VBP found_VBN in_IN practice_NN to_TO be_VB quite_RB ineffective_JJ ,_, and_CC are_VBP therefore_RB not_RB suitable_JJ for_IN general_JJ application_NN ._.
+Their_PRP$ use_NN is_VBZ limited_VBN to_TO ports_NNS for_IN the_DT disinfection_NN of_IN the_DT effects_NNS of_IN native_JJ crews_NNS and_CC native_JJ ship_NN passengers_NNS bound_VBP for_IN ports_NNS out_IN of_IN India_NNP ._.
+Full_NNP instructions_NNS as_IN to_TO the_DT mode_NN of_IN working_VBG them_PRP should_MD be_VB supplied_VBN with_IN each_DT machine_NN ._.
+35_CD ._.
+In_IN cases_NNS ,_, where_WRB it_PRP is_VBZ not_RB possible_JJ to_TO carry_VB out_RP chemical_JJ disinfection_NN ,_, the_DT disinfecting_VBG agency_NN of_IN desiccation_NN should_MD be_VB relied_VBN upon_IN ._.
+For_IN this_DT purpose_NN ,_, the_DT house_NN ought_MD to_TO be_VB thoroughly_RB cleaned_VBN out_RP ;_: the_DT removal_NN from_IN the_DT house_NN of_IN cowdung_NN and_CC other_JJ moist_NN accumulations_NNS should_MD be_VB particu-_JJ larly_RB insisted_VBN upon_NN ,_, and_CC the_DT inmates_NNS of_IN the_DT house_NN should_MD be_VB induced_VBN to_TO remain_VB away_RB for_IN a_DT period_NN of_IN at_IN least_JJS two_CD months_NNS until_IN the_DT process_NN of_IN desiccation_NN is_VBZ complete_JJ ._.
+Disinfection_NN by_IN desiccation_NN can_MD not_RB ,_, however_RB ,_, be_VB relied_VBN upon_IN during_IN the_DT rains_NNS ._.
+36_CD ._.
+The_DT breaking_NN of_IN holes_NNS in_IN the_DT roof_NN or_CC walls_NNS and_CC the_DT partial_JJ untiling_NN will_MD not_RB accelerate_VB the_DT process_NN of_IN desiccation_NN to_TO such_PDT a_DT degree_NN as_IN to_TO counterbalance_VB the_DT damage_NN done_VBN to_TO the_DT house_NN ._.
+This_DT measure_NN should_MD not_RB therefore_RB be_VB adopted_VBN in_IN the_DT case_NN of_IN masonry_NN houses_NNS with_IN concrete_JJ roofs_NN ._.
+As_IN a_DT rule_NN ,_, such_JJ houses_NNS can_MD be_VB disinfected_VBN without_IN great_JJ difficulty_NN and_CC are_VBP to_TO a_DT certain_JJ extent_NN open_JJ to_TO light_JJ and_CC air_NN ._.
+._.
+._.
+._.
+37_CD ._.
+Owing_VBG to_TO the_DT risk_NN of_IN infection_NN from_IN the_DT blowing_VBG about_IN of_IN the_DT floor_NN dust_NN and_CC owing_VBG to_TO the_DT fact_NN that_IN it_PRP is_VBZ practically_RB ?_. Disinfection_NNP ._. ]_NN
+35_CD impossible_JJ to_TO secure_VB that_IN the_DT whole_JJ material_NN shall_MD be_VB carried_VBN away_RB ,_, the_DT digging_VBG up_IN of_IN floors_NNS with_IN a_DT view_NN to_TO kiln_VB burning_VBG them_PRP ought_MD not_RB to_TO be_VB resorted_VBN to_TO ._.
+38_CD ._.
+The_DT actual_JJ burning_VBG down_IN of_IN houses_NNS should_MD not_RB be_VB resorted_VBN to_TO except_VB in_IN the_DT case_NN of_IN temporary_JJ structures_NNS which_WDT are_VBP of_IN little_JJ or_CC no_DT value_NN or_CC in_IN the_DT case_NN of_IN houses_NNS which_WDT are_VBP unfit_JJ for_IN human_JJ habitation_NN ._.
+39_CD ._.
+With_IN a_DT view_NN to_TO encourage_VB people_NNS to_TO produce_VB their_PRP$ goods_NNS for_IN disinfection_NN and_CC to_TO prevent_VB them_PRP from_IN secreting_VBG them_PRP ,_, nothing_NN which_WDT could_MD by_IN any_DT possibility_NN have_VBP any_DT value_NN for_IN its_PRP$ owner_NN should_MD be_VB broken_VBN up_RP or_CC destroyed_VBN by_IN fire_NN ._.
+Liberal_JJ compensation_NN should_MD be_VB promptly_RB paid_VBN for_IN any_DT articles_NNS that_WDT may_MD be_VB necessary_JJ to_TO destroy_VB ,_, when_WRB the_DT loss_NN would_MD fall_VB upon_JJ people_NNS in_IN very_RB poor_JJ circumstances_NNS to_TO whom_WP it_PRP would_MD be_VB a_DT great_JJ hardship_NN to_TO bear_VB it_PRP ._.
+40_CD ._.
+Disinfection_NN of_IN personal_JJ effects_NNS should_MD not_RB be_VB attempted_VBN in_IN the_DT case_NN of_IN travellers_NNS by_IN road_NN or_CC railway_NN but_CC should_MD be_VB carried_VBN out_RP in_IN the_DT case_NN of-_JJ (_( a_DT )_) native_JJ crews_NNS ,_, third_JJ class_NN or_CC deck_NN passengers_NNS and_CC native_JJ servants_NNS proceeding_VBG to_TO ports_VB out_IN of_IN India_NNP ._.
+This_DT should_MD be_VB done_VBN on_IN shore_NN ;_: (_( b_NN )_) plague_NN patients_NNS and_CC contacts_NNS removed_VBN from_IN infected_JJ houses_NNS ,_, ships_NNS or_CC railway_NN carriages_NNS ;_: (_( c_NN )_) plague_NN patients_NNS discharged_VBD from_IN hospitals_NNS and_CC persons_NNS returning_VBG to_TO their_PRP$ houses_NNS from_IN health_NN or_CC suspect_NN camps_NNS ._.
+41_CD ._.
+That_IN the_DT disinfection_NN of_IN the_DT person_NN is_VBZ effective_JJ is_VBZ indubitable_JJ as_IN is_VBZ proved_VBN by_IN the_DT practice_NN of_IN washing_VBG the_DT hands_NNS with_IN disinfectants_NNS in_IN bacteriological_JJ laboratories_NNS and_CC in_IN surgical_JJ operations_NNS ._.
+The_DT measure_NN ,_, however_RB ,_, is_VBZ extremely_RB unpopular_JJ ,_, and_CC has_VBZ been_VBN ordered_VBN to_TO be_VB abandoned_VBN in_IN the_DT case_NN of_IN travellers_NNS as_IN very_RB little_JJ is_VBZ to_TO be_VB gained_VBN by_IN disinfect-_JJ ing_VBG them_PRP ._.
+It_PRP will_MD be_VB found_VBN useful_JJ in_IN the_DT case_NN of_IN persons_NNS taken_VBN out_RP from_IN plague-infected_JJ houses_NNS into_IN health_NN camps_NNS and_CC in_IN the_DT case_NN of_IN plague_NN convalescents_NNS leaving_VBG hospital_NN ._.
+42_CD ._.
+Laboratory_NN experiments_NNS and_CC practical_JJ experience_NN alike_RB tend_VBP to_TO show_VB that_DT little_JJ danger_NN is_VBZ to_TO be_VB apprehended_VBN by_IN the_DT spread_NN of_IN plague_NN by_IN ordinary_JJ articles_NNS of_IN merchandise_NN ,_, and_CC it_PRP is_VBZ neither_CC advisable_JJ nor_CC necessary_JJ to_TO take_VB any_DT steps_NNS towards_VBP their_PRP$ disinfection_NN ._.
+The_DT only_JJ restriction_NN found_VBD neces-_JJ sary_NN is_VBZ the_DT prohibition_NN against_IN the_DT importation_NN from_IN infected_JJ localities_NNS or_CC rags_NNS ,_, waste_NN paper_NN and_CC soiled_VBD linen_NN which_WDT can_MD not_RB be_VB classed_VBN with_IN ordinary_JJ merchandise_NN inasmuch_NN as_IN they_PRP are_VBP ?_. 36_CD [_JJ House-searches_NNP ._.
+very_RB likely_JJ to_TO carry_VB infection_NN ._.
+Any_DT articles_NNS brought_VBN in_IN contravention_NN of_IN this_DT prohibition_NN should_MD be_VB destroyed_VBN ._.
+Old_NNP newspapers_NNS in_IN bales_NNS and_CC paper_NN (_( whether_IN newspapers_NNS or_CC not_RB )_) used_VBN for_IN packing_NN purposes_NNS are_VBP not_RB included_VBN within_IN the_DT prohi-_JJ bition_NN ,_, but_CC washed_VBD linen_NN articles_NNS which_WDT ,_, such_JJ as_IN washed_JJ dhotis_NN ,_, are_VBP considered_VBN possibly_RB dangerous_JJ ,_, might_MD ,_, when_WRB they_PRP come_VBP to_TO notice_VB ,_, not_RB unreasonably_RB be_VB held_VBN to_TO come_VB under_IN the_DT prohibition_NN expressed_VBN in_IN the_DT term_NN ``_`` soiled_VBD ,_, ''_'' although_IN they_PRP have_VBP not_RB been_VBN worn_VBN since_IN they_PRP were_VBD last_JJ washed_JJ ._.
+Persons_NNS who_WP send_VBP parcels_NNS by_IN railway_NN or_CC post_NN from_IN plague-infected_JJ areas_NNS are_VBP required_VBN to_TO declare_VB in_IN writing_VBG that_IN the_DT parcels_NNS do_VBP not_RB contain_VB any_DT soiled_JJ linen_NN and_CC bedding_NN ,_, rags_NN or_CC waste_NN paper_NN ._.
+43_CD ._.
+Detailed_JJ instructions_NNS as_IN to_TO the_DT mode_NN of_IN disinfection_NN to_TO be_VB adopted_VBN in_IN each_DT case_NN will_MD be_VB issued_VBN by_IN the_DT Sanitary_NNP Commissioner_NNP and_CC ,_, in_IN respect_NN to_TO the_DT management_NN of_IN hospitals_NNS ,_, by_IN the_DT Surgeon-General_NNP ._.
+House-searches_NNS ._.
+44_CD ._.
+The_DT system_NN of_IN house-visitation_NN and_CC house-search_NN will_MD be_VB permitted_VBN only-_JJ (_( a_DT )_) when_WRB plague_NN exists_VBZ in_IN small_JJ and_CC well_RB defined_JJ areas_NNS ,_, such_JJ for_IN instance_NN as_IN an_DT isolated_JJ quarter_NN or_CC ward_NN ._.
+and_CC (_( b_NN )_) it_PRP is_VBZ clear_JJ that_IN it_PRP will_MD be_VB effectual_JJ in_IN saving_VBG the_DT people_NNS from_IN disaster_NN ._.
+When_WRB this_DT mode_NN of_IN discovering_VBG plague_NN is_VBZ adopted_VBN ,_, care_NN should_MD be_VB taken_VBN that_IN a_DT sufficient_JJ number_NN of_IN European_JJ officers_NNS are_VBP employed_VBN to_TO render_VB the_DT powers_NNS of_IN search_NN effective_JJ and_CC at_IN the_DT same_JJ time_NN prevent_VB the_DT subordinate_NN establishments_NNS from_IN abusing_VBG their_PRP$ authority_NN ._.
+Failing_VBG officers_NNS of_IN the_DT civil_JJ establish-_JJ ments_NNS ,_, young_JJ officers_NNS of_IN the_DT Staff_NNP Corps_NNP should_MD be_VB deputed_VBN for_IN this_DT duty_NN ._.
+Respectable_JJ inhabitants_NNS who_WP volunteer_VBP for_IN the_DT service_NN should_MD be_VB employed_VBN to_TO assist_VB in_IN searching_VBG for_IN concealed_JJ cases_NNS of_IN plague_NN ;_: as_RB far_RB as_IN possible_JJ houses_NNS should_MD be_VB allowed_VBN to_TO be_VB entered_VBN only_RB by_IN persons_NNS of_IN caste_NN or_CC of_IN the_DT same_JJ religion_NN as_IN the_DT occupants_NNS ;_: and_CC subject_VB to_TO the_DT same_JJ limitation_NN ,_, women_NNS should_MD be_VB utilized_VBN in_IN examining_VBG women_NNS and_CC in_IN searching_VBG any_DT room_NN or_CC place_NN exclusively_RB occupied_VBN by_IN them_PRP ._.
+Inspection_NN and_CC Burial_NNP of_IN Corpses_NNP ._.
+45_CD ._.
+Regulation_NN 23_CD deals_NNS with_IN the_DT mode_NN of_IN disposal_NN of_IN plague_NN corpses_NNS ._.
+It_PRP in_IN no_DT way_NN interferes_VBZ with_IN the_DT religious_JJ customs_NNS of_IN the_DT people_NNS ,_, but_CC merely_RB authorises_VBZ the_DT local_JJ ?_. Corpse_NNP inspection_NN ._. ]_NN
+37_CD authorities_NNS to_TO insist_VB on_IN certain_JJ necessary_JJ precautions_NNS as_IN to_TO the_DT routes_NNS to_TO be_VB taken_VBN by_IN funeral_JJ processions_NNS and_CC as_IN to_TO the_DT place_NN and_CC manner_NN of_IN burial_NN ._.
+Any_DT rules_NNS which_WDT the_DT President_NNP may_MD find_VB necessary_JJ to_TO frame_VB under_IN clause_NN 1_CD (_( b_NN )_) of_IN this_DT regulation_NN should_MD provide_VB that_IN when_WRB the_DT burial_NN of_IN a_DT person_NN who_WP has_VBZ died_VBN of_IN plague_NN takes_VBZ place_NN in_IN proximity_NN to_TO habitations_NNS or_CC sources_NNS of_IN water-supply_NN ,_, the_DT corpse_NN shall_MD be_VB buried_VBN six_CD feet_NNS deep_JJ ._.
+By_IN clause_NN (_( 3_CD )_) it_PRP is_VBZ not_RB intended_VBN that_IN public_JJ undertakers_NNS should_MD alone_RB touch_VB the_DT corpses_NNS ._.
+The_DT dead_JJ may_MD be_VB dressed_VBN for_IN the_DT grave_NN by_IN their_PRP$ own_JJ relations_NNS or_CC in_IN whatever_WDT manner_NN may_MD be_VB customary_JJ among_IN the_DT class_NN to_TO which_WDT the_DT deceased_VBN belonged_NN ._.
+46_CD ._.
+Under_IN the_DT first_JJ clause_NN of_IN regulation_NN 21_CD the_DT Presi-_NNP dent_NN may_MD require_VB in_IN respect_NN of_IN any_DT particular_JJ area_NN that_IN the_DT certificate_NN of_IN a_DT medical_JJ officer_NN shall_MD be_VB obtained_VBN showing_VBG the_DT cause_NN of_IN every_DT death_NN within_IN two_CD hours_NNS after_IN such_JJ death_NN ._.
+But_CC it_PRP must_MD be_VB understood_JJ that_DT medical_JJ examination_NN of_IN a_DT corpse_NN is_VBZ entirely_RB optional_JJ on_IN the_DT part_NN of_IN the_DT relations_NNS ,_, and_CC that_IN no_DT one_NN will_MD be_VB compelled_VBN to_TO allow_VB the_DT inspection_NN of_IN the_DT corpse_NN of_IN a_DT deceased_JJ relative_NN ._.
+In_IN the_DT event_NN ,_, however_RB ,_, of_IN a_DT certificate_NN not_RB being_VBG produced_VBN or_CC inspection_NN invited_VBN ,_, it_PRP may_MD be_VB presumed_VBN that_IN any_DT death_NN ,_, the_DT cause_NN of_IN which_WDT can_MD not_RB be_VB determined_VBN not_RB to_TO be_VB plague_NN ,_, has_VBZ been_VBN caused_VBN by_IN plague_NN and_CC the_DT rules_NNS regarding_VBG the_DT segregation_NN of_IN the_DT contacts_NNS and_CC the_DT disinfection_NN of_IN the_DT house_NN may_MD be_VB enforced_VBN ._.
+The_DT examination_NN of_IN the_DT corpses_NNS of_IN women_NNS by_IN men_NNS should_MD never_RB be_VB required_VBN ._.
+The_DT orders_NNS of_IN the_DT Government_NNP should_MD be_VB obtained_VBN before_IN this_DT regulation_NN is_VBZ acted_VBN upon_IN in_IN any_DT area_NN ,_, and_CC in_IN applying_VBG for_IN sanction_NN ,_, the_DT President_NNP should_MD report_VB fully_RB on_IN the_DT following_JJ points_NNS :_: -_: (_( 1_CD )_) What_WP classes_VBZ of_IN officers_NNS will_MD be_VB authorized_VBN to_TO issue_VB certificates_NNS under_IN the_DT regulation_NN ._.
+(_( 2_CD )_) Whether_NNP any_DT fee_NN will_MD be_VB required_VBN for_IN the_DT grant_NN of_IN this_DT certificate_NN ._.
+(_( 3_CD )_) Whether_JJR there_EX is_VBZ such_JJ a_DT number_NN of_IN Government_NNP medical_JJ officers_NNS ,_, male_NN and_CC female_NN ,_, at_IN the_DT station_NN as_IN will_MD be_VB sufficient_JJ to_TO carry_VB out_RP inspection_NN promptly_RB so_RB as_IN not_RB to_TO cause_VB any_DT delay_NN in_IN burials_NNS ._.
+(_( 4_CD )_) Whether_NNP there_EX has_VBZ been_VBN any_DT increase_NN in_IN the_DT rate_NN of_IN mortality_NN ._.
+(_( 5_CD )_) Whether_JJR there_EX is_VBZ any_DT reason_NN to_TO believe_VB that_IN deaths_NNS are_VBP concealed_VBN or_CC that_IN causes_NNS of_IN death_NN are_VBP not_RB correctly_RB reported_VBN ._.
+?_. 38_CD Plague_NNP Hospitals_NNP and_CC Camps_NNP ._.
+47_CD ._.
+The_DT Government_NNP will_MD ,_, whenever_RB necessary_JJ ,_, construct_NN either_CC itself_PRP or_CC through_IN the_DT municipality_NN temporary_JJ segregation_NN and_CC health_NN camps_NNS and_CC plague_NN hospitals_NNS and_CC will_MD also_RB by_IN grants_NNS of_IN money_NN help_NN private_JJ persons_NNS or_CC bodies_NNS to_TO construct_VB them_PRP on_IN sites_NNS shown_VBN to_TO them_PRP or_CC selected_VBN by_IN them_PRP and_CC approved_VBN by_IN the_DT authorities_NNS ._.
+It_PRP is_VBZ also_RB prepared_VBN to_TO place_VB private_JJ plague_NN hospitals_NNS and_CC camps_NNS in_IN charge_NN of_IN native_JJ practitioners_NNS so_RB far_RB as_IN the_DT public_NN can_MD find_VB suitable_JJ men_NNS who_WP will_MD under-_VB take_VB the_DT responsibilities_NNS and_CC can_MD be_VB trusted_VBN to_TO carry_VB out_RP the_DT prescribed_NN rules_NNS ._.
+The_DT hospitals_NNS and_CC camps_NNS will_MD ,_, however_RB ,_, be_VB under_IN the_DT general_JJ supervision_NN of_IN Government_NNP officials_NNS ,_, but_CC these_DT officials_NNS will_MD have_VB nothing_NN to_TO do_VB with_IN the_DT treatment_NN of_IN the_DT sick_JJ except_NN at_IN their_PRP$ request_NN ,_, and_CC their_PRP$ duties_NNS will_MD be_VB confined_VBN to_TO preserving_VBG order_NN ,_, preventing_VBG theft_NN and_CC keeping_VBG guard_NN ,_, and_CC attending_VBG to_TO sanitation_NN ._.
+Detailed_JJ instructions_NNS with_IN regard_NN to_TO the_DT construction_NN ,_, equipment_NN and_CC management_NN of_IN plague_NN camps_NNS will_MD be_VB issued_VBN by_IN the_DT Sanitary_NNP Commissioner_NNP and_CC of_IN plague_NN hospitals_NNS ,_, by_IN the_DT Surgeon-General_NNP ._.
+48_CD ._.
+The_DT Government_NNP has_VBZ sanctioned_VBN the_DT following_JJ rates_NNS of_IN contribution_NN towards_IN the_DT cost_NN of_IN the_DT construction_NN and_CC maintenance_NN of_IN private_JJ plague_NN hospitals_NNS and_CC segregation_NN camps_NNS in_IN places_NNS which_WDT are_VBP or_CC may_MD be_VB threatened_VBN with_IN plague_NN :_: -_: (_( a_DT )_) For_IN construction_NN ,_, half_PDT the_DT cost_NN will_MD be_VB paid_VBN by_IN Government_NNP provided_VBD the_DT charges_NNS are_VBP considered_VBN reasonable_JJ ._.
+In_IN any_DT case_NN of_IN doubt_NN or_CC dispute_VB the_DT Government_NNP will_MD have_VB the_DT right_NN to_TO estimate_VB by_IN means_NNS of_IN the_DT Public_NNP Works_NNP depart-_JJ ment_NN the_DT value_NN of_IN the_DT work_NN done_VBN ._.
+The_DT buildings_NNS shall_MD be_VB erected_VBN on_IN sites_NNS approved_VBN by_IN the_DT sanitary_JJ authorities_NNS ._.
+(_( b_NN )_) For_IN maintenance_NN ,_, grants_NNS not_RB exceeding_VBG half_PDT the_DT actual_JJ expenses_NNS will_MD be_VB sanctioned_VBN by_IN Government_NNP on_IN the_DT following_JJ conditions_NNS :_: -_: (_( 1_CD )_) The_DT arrangements_NNS for_IN the_DT sanitation_NN and_CC supply_NN of_IN food_NN must_MD meet_VB with_IN the_DT approval_NN of_IN the_DT local_JJ medical_JJ officers_NNS and_CC ._.
+._.
+._.
+the_DT Pre-_NNP sident_NN ,_, Municipal_NNP Commission_NNP ,_, Madras_NNP ._.
+._.
+._.
+(_( 2_CD )_) The_DT amounts_NNS will_MD be_VB paid_VBN ,_, month_NN by_IN month_NN ,_, in_IN arrears_NNS to_TO the_DT manager_NN or_CC managers_NNS approved_VBN by_IN ._.
+._.
+._.
+the_DT President_NNP ._.
+These_DT grants_NNS will_MD be_VB met_VBN from_IN provincial_JJ funds_NNS ._.
+The_DT sale-proceeds_NNS of_IN private_JJ hospitals_NNS to_TO which_WDT Govern-_NNP ment_NN has_VBZ made_VBN a_DT contribution_NN should_MD be_VB equally_RB divided_VBN between_IN Government_NNP and_CC the_DT Plague_NNP Committee_NNP concerned_VBD ._.
+?_. Surveillanee_NNP ._. ]_NN
+39_CD 49_CD ._.
+..._: 50_CD ._.
+It_PRP may_MD become_VB necessary_JJ at_IN any_DT moment_NN for_IN ._.
+._.
+._.
+plague_NN authorities_NNS to_TO occupy_VB buildings_NNS belonging_VBG to_TO other_JJ departments_NNS ,_, than_IN the_DT Revenue_NNP department_NN ,_, for_IN plague_JJ pur-_JJ poses_NNS ._.
+In_IN such_JJ cases_NNS the_DT earliest_JJS possible_JJ intimation_NN of_IN such_JJ occupation_NN should_MD be_VB given_VBN to_TO the_DT authorities_NNS in_IN charge_NN of_IN such_JJ buildings_NNS ._.
+Before_IN occupying_VBG them_PRP ,_, any_DT moveable_JJ articles_NNS in_IN the_DT building_NN at_IN all_DT likely_JJ to_TO retain_VB infection_NN should_MD be_VB first_JJ carefully_RB removed_VBN and_CC placed_VBN under_IN proper_JJ custody_NN ._.
+Surveillance_NN or_CC Passport_NNP Rules_NNP ._.
+51_CD ._.
+Regulation_NNP 1.-Copies_NNS of_IN this_DT regulation_NN should_MD be_VB hung_VBN up_RP at_IN railway_NN stations_NNS ._.
+The_DT regulations_NNS do_VBP not_RB apply_VB to_TO passengers_NNS from_IN a_DT non-infected_JJ area_NN ,_, who_WP pass_VBP through_IN an_DT infected_JJ station_NN without_IN breaking_VBG journey_NN at_IN that_DT station_NN ._.
+51-A_JJ ._.
+Under_IN this_DT regulation_NN and_CC mufassal_NN regulation_NN 1_CD ,_, the_DT Government_NNP or_CC the_DT Collector_NNP of_IN a_DT district_NN may_MD declare_VB any_DT place_NN to_TO be_VB infected_VBN with_IN plague_NN ._.
+As_IN a_DT rule_NN only_RB the_DT places_NNS actually_RB infected_VBN with_IN plague_NN should_MD be_VB declared_VBN as_IN such_JJ ._.
+The_DT execution_NN of_IN precautions_NNS against_IN the_DT spread_NN of_IN plague_NN is_VBZ rendered_VBN more_RBR difficult_JJ when_WRB they_PRP are_VBP directed_VBN against_IN an_DT unnecessarily_JJ wide_JJ area_NN ._.
+52_CD ._.
+Passport-issuing_JJ officers_NNS should_MD not_RB suppose_VB that_IN they_PRP have_VBP merely_RB to_TO issue_VB passports_NNS to_TO those_DT who_WP come_VBP and_CC apply_VBP for_IN them_PRP ._.
+The_DT main_JJ object_NN of_IN declaring_VBG persons_NNS from_IN in-_JJ fected_JJ parts_NNS to_TO be_VB bound_VBN to_TO take_VB out_RP passports_NNS is_VBZ to_TO punish_VB cases_NNS of_IN wilful_JJ evasion_NN of_IN the_DT rules_NNS ,_, and_CC it_PRP was_VBD never_RB the_DT in-_JJ tention_NN to_TO relieve_VB the_DT passport-issuing_JJ officers_NNS of_IN their_PRP$ duty_NN of_IN tracing_VBG out_RP such_JJ passengers_NNS and_CC not_RB allowing_VBG them_PRP to_TO go_VB away_RB without_IN passports_NNS ._.
+Passengers_NNS who_WP fail_VBP to_TO take_VB out_RP passports_NNS should_MD be_VB prosecuted_VBN at_IN the_DT discretion_NN of_IN the_DT President_NNP ,_, but_CC whether_IN prosecuted_VBD or_CC not_RB ,_, they_PRP must_MD be_VB required_VBN to_TO present_VB themselves_PRP for_IN inspection_NN for_IN ten_JJ days_NNS as_RB soon_RB as_IN their_PRP$ arrival_NN has_VBZ been_VBN detected_VBN ._.
+53_CD ._.
+Passport-issuing_JJ officers_NNS should_MD note_VB that_IN every_DT person_NN who_WP holds_VBZ a_DT ticket_NN marked_VBN in_IN the_DT manner_NN indicated_VBD in_IN rule_NN 82_CD should_MD be_VB given_VBN a_DT passport_NN ._.
+To_TO ensure_VB that_IN none_NN escapes_VBZ taking_VBG a_DT passport_NN ,_, the_DT passport-issuing_JJ officer_NN should_MD ques-_VB tion_NN passengers_NNS where_WRB they_PRP come_VBP from_IN in_IN cases_NNS where_WRB they_PRP do_VBP not_RB hold_VB specially_RB marked_JJ tickets_NNS ._.
+In_IN cases_NNS where_WRB a_DT passport_NN has_VBZ been_VBN wrongly_RB issued_VBN owing_VBG to_TO erroneous_JJ plague-_JJ marking_NN of_IN the_DT railway_NN ticket_NN ,_, or_CC otherwise_RB ,_, the_DT President_NNP or_CC ?_. 40_CD [_JJ Surveillance_NNP ._.
+the_DT Health_NNP Officer_NNP of_IN the_DT municipality_NN ._.
+._.
+._.
+is_VBZ authorized_VBN to_TO cancel_VB the_DT passport_NN on_IN satisfactory_JJ proof_NN that_IN it_PRP was_VBD wrongly_RB issued_VBN ._.
+54_CD ._.
+It_PRP is_VBZ the_DT duty_NN of_IN railway_NN authorities_NNS assisted_VBN by_IN the_DT platform_NN police_NN to_TO see_VB that_IN passengers_NNS alighting_VBG at_IN a_DT railway_NN station_NN do_VBP not_RB leave_VB the_DT premises_NNS except_IN by_IN the_DT proper_JJ exit_NN ,_, and_CC to_TO afford_VB every_DT facility_NN for_IN the_DT working_NN of_IN the_DT plague_JJ regulations_NNS ._.
+Ticket_NN collectors_NNS should_MD be_VB required_VBN to_TO stop_VB all_DT passengers_NNS holding_VBG tickets_NNS issued_VBN at_IN infected_JJ or_CC notified_JJ stations_NNS until_IN their_PRP$ names_NNS and_CC addresses_NNS are_VBP taken_VBN down_RB ,_, and_CC passports_NNS issued_VBN to_TO them_PRP either_RB by_IN the_DT plague_NN official_NN appointed_VBN for_IN the_DT purpose_NN ,_, or_CC ._.
+._.
+._.
+by_IN the_DT station_NN staff_NN ._.
+55_CD ._.
+..._: 56_CD ._.
+When_WRB a_DT large_JJ body_NN of_IN troops_NNS or_CC police_NNS or_CC coolies_NNS engaged_VBN in_IN plague_JJ operations_NNS are_VBP returning_VBG to_TO a_DT healthy_JJ district_NN ,_, previous_JJ intimation_NN of_IN their_PRP$ departure_NN should_MD be_VB given_VBN to_TO the_DT local_JJ authorities_NNS of_IN the_DT place_NN of_IN destination_NN ._.
+Before_IN starting_VBG ,_, they_PRP should_MD be_VB carefully_RB examined_VBN and_CC disinfected_VBN ,_, and_CC on_IN arrival_NN at_IN their_PRP$ destination_NN ,_, they_PRP should_MD be_VB given_VBN passports_NNS according_VBG to_TO the_DT rules_NNS ._.
+With_IN regard_NN to_TO troops_NNS and_CC their_PRP$ families_NNS and_CC followers_NNS leaving_VBG infected_JJ areas_NNS ,_, the_DT orders_NNS issued_VBN by_IN the_DT military_JJ authorities_NNS require_VBP (_( a_DT )_) that_IN they_PRP should_MD be_VB inspected_VBN and_CC disinfected_VBN before_IN departure_NN ,_, (_( b_NN )_) that_IN they_PRP should_MD also_RB be_VB disinfected_VBN on_IN arrival_NN at_IN their_PRP$ military_JJ stations_NNS ,_, and_CC (_( c_NN )_) that_WDT where_WRB possible_JJ regimental_JJ arrangements_NNS should_MD be_VB made_VBN to_TO house_NN them_PRP separately_RB for_IN from_IN ten_NN to_TO twelve_VB days_NNS ._.
+57_CD ._.
+..._: 58_CD ._.
+As_RB long_RB as_IN the_DT disease_NN is_VBZ confined_VBN to_TO narrow_VB limits_NNS ,_, an_DT infected_JJ place_NN must_MD be_VB regarded_VBN as_RB requiring_VBG as_IN much_JJ protection_NN as_IN any_DT other_JJ place_NN against_IN fresh_JJ importations_NNS of_IN infection_NN ,_, and_CC all_DT persons_NNS who_WP may_MD come_VB from_IN a_DT second_JJ centre_NN of_IN contamination_NN ,_, or_CC from_IN a_DT railway_NN station_NN which_WDT in_IN conse-_JJ quence_NN of_IN its_PRP$ proximity_NN to_TO such_PDT a_DT second_JJ centre_NN has_VBZ been_VBN notified_VBN by_IN the_DT local_JJ Government_NNP ,_, should_MD be_VB furnished_VBN with_IN passports_NNS and_CC be_VB kept_VBN under_IN surveillance_NN ._.
+But_CC a_DT person_NN who_WP comes_VBZ to_TO an_DT infected_JJ place_NN from_IN a_DT railway_NN station_NN which_WDT has_VBZ been_VBN notified_VBN in_IN consequence_NN of_IN its_PRP$ proximity_NN to_TO that_DT place_NN does_VBZ not_RB require_VB a_DT passport_NN ._.
+On_IN the_DT other_JJ hand_NN ,_, a_DT person_NN who_WP proceeds_VBZ to_TO such_VB a_DT railway_NN station_NN from_IN the_DT place_NN which_WDT is_VBZ infected_VBN must_MD take_VB out_RP a_DT passport_NN though_IN if_IN he_PRP returns_VBZ to_TO the_DT infected_JJ place_NN within_IN ten_JJ days_NNS the_DT passport_NN may_MD be_VB given_VBN up_RP on_IN his_PRP$ return_NN and_CC further_JJ inspection_NN is_VBZ unnecessary_JJ ._.
+?_. Railway_NNP Inspection_NNP ._. ]_NN
+41_CD 59_CD ._.
+With_IN a_DT view_NN to_TO facilitate_VB the_DT working_NN of_IN the_DT passport_NN rules_NNS ,_, railway_NN employs_VBZ holding_VBG periodical_JJ railway_NN passes_NNS and_CC Government_NNP officials_NNS holding_VBG standing_VBG passes_NNS should_MD be_VB required_VBN to_TO provide_VB themselves_PRP before_IN departure_NN with_IN cer-_JJ tificates_NNS signed_VBN by_IN the_DT stationmasters_NNS concerned_JJ showing_VBG the_DT places_NNS from_IN which_WDT they_PRP start_VBP ._.
+60_CD ._.
+..._: 60-A_NN ._.
+The_DT passport_NN rules_NNS should_MD be_VB worked_VBN in_IN such_JJ a_DT manner_NN as_IN to_TO cause_VB the_DT minimum_NN of_IN inconvenience_NN to_TO gosha_VB women_NNS ,_, and_CC persons_NNS belonging_VBG to_TO that_DT class_NN should_MD ,_, whenever_VB it_PRP is_VBZ possible_JJ to_TO do_VB so_RB ,_, be_VB exempted_VBN from_IN attendance_NN on_IN the_DT local_JJ authority_NN at_IN the_DT hospital_NN or_CC elsewhere_RB and_CC be_VB inspected_VBN at_IN their_PRP$ own_JJ houses_NNS ._.
+The_DT examination_NN of_IN gosha_JJ women_NNS should_MD always_RB be_VB conducted_VBN by_IN females_NNS ,_, who_WP ,_, when_WRB not_RB trained_VBN or_CC duly_RB qualified_JJ ,_, should_MD work_VB under_IN the_DT instructions_NNS of_IN medical_JJ officer_NN ._.
+61_CD ._.
+..._: 62_CD ._.
+..._: 63_CD ._.
+..._: 64_CD ._.
+..._: 65_CD ._.
+..._: 66_CD ._.
+..._: 67_CD ._.
+..._: 68_CD ._.
+Regulation_NN No_DT ._.
+2_CD should_MD be_VB strictly_RB carried_VBN out_RP as_IN a_DT check_NN on_IN the_DT working_NN of_IN city_NN and_CC mufassal_JJ regulations_NNS 1_CD and_CC prosecution_NN should_MD be_VB resorted_VBN to_TO in_IN places_NNS where_WRB the_DT duty_NN of_IN reporting_VBG arrivals_NNS from_IN plague-infected_JJ parts_NNS is_VBZ neglected_VBN in_IN spite_NN of_IN repeated_JJ warnings_NNS ._.
+If_IN ._.
+._.
+._.
+the_DT exist-_JJ ing_NN sanitary_JJ staff_NN is_VBZ unequal_JJ to_TO the_DT task_NN of_IN properly_RB carrying_VBG out_RP the_DT system_NN of_IN observation_NN ,_, it_PRP should_MD be_VB strengthened_VBN ._.
+Railway_NNP Inspection_NNP ._.
+69._CD ._.
+._.
+._.
+Plague_NN officers_NNS ._.
+._.
+._.
+employed_VBN at_IN ._.
+._.
+._.
+Perambur_NNP ,_, should_MD always_RB carry_VB with_IN them_PRP a_DT note-book_NN of_IN a_DT special_JJ conspicuous_JJ colour_NN with_IN the_DT words_NNS ``_`` Government_NNP of_IN Madras_NNP Plague_NNP officials_NNS '_POS note-book_NN ''_'' printed_VBN on_IN the_DT back_NN ._.
+A_DT copy_NN of_IN the_DT appointment_NN order_NN should_MD be_VB attached_VBN to_TO the_DT note-_JJ book_NN ._.
+Copies_NNS of_IN the_DT book_NN may_MD be_VB obtained_VBN from_IN the_DT Superin-_NNP tendent_NN ,_, Government_NNP Press_NNP ,_, through_IN the_DT Surgeon-General_NNP ._.
+70_CD ._.
+Railway_NNP Administrations_NNS are_VBP requested_VBN to_TO instruct_VB their_PRP$ staff_NN to_TO give_VB every_DT assistance_NN to_TO the_DT medical_JJ officers_NNS conducting_VBG the_DT inspection_NN in_IN order_NN to_TO minimise_VB the_DT detention_NN of_IN the_DT trains_NNS ,_, and_CC to_TO detain_VB the_DT trains_NNS until_IN the_DT medical_JJ 6_CD ?_. 42_CD [_JJ Railway_NNP Inspection_NNP ._.
+inspection_NN is_VBZ over_IN ._.
+Railway_NNP ticket_NN collectors_NNS may_MD be_VB allowed_VBN to_TO accompany_VB the_DT plague_NN inspecting_VBG officers_NNS ,_, if_IN this_DT course_NN is_VBZ found_VBN to_TO economize_VB time_NN ._.
+._.
+._.
+._.
+71_CD ._.
+..._: 72_CD ._.
+..._: 73_CD ._.
+..._: 74_CD ._.
+..._: 75_CD ._.
+..._: 76_CD ._.
+If_IN a_DT detained_JJ person_NN has_VBZ plague_NN when_WRB removed_VBN from_IN the_DT train_NN ,_, all_DT who_WP have_VBP travelled_VBN with_IN him_PRP in_IN the_DT same_JJ compartment_NN are_VBP ``_`` contacts_NNS ''_'' and_CC must_MD also_RB be_VB detained_VBN unless_IN they_PRP have_VBP been_VBN inoculated_VBN ._.
+77._CD ._.
+._.
+._.
+78._CD ._.
+._.
+._.
+79_CD ._.
+..._: 80_CD ._.
+Any_DT expenditure_NN incurred_VBN in_IN providing_VBG inspection_NN sheds_NNS on_IN railway_NN platforms_NNS in_IN cases_NNS where_WRB there_EX are_VBP no_DT proper_JJ facilities_NNS in_IN the_DT railway_NN station_NN for_IN the_DT examination_NN of_IN pass-_JJ engers_NNS in_IN accordance_NN with_IN the_DT plague_JJ regulations_NNS or_CC in_IN the_DT supply_NN of_IN punches_NNS or_CC scissors_NNS for_IN marking_VBG railway_JJ tickets_NNS should_MD be_VB borne_VBN by_IN the_DT civil_JJ department_NN and_CC not_RB by_IN the_DT railway_NN administrations_NNS ._.
+81_CD ._.
+..._: 82_CD ._.
+The_DT mark_NN used_VBN at_IN inspection_NN stations_NNS is_VBZ a_DT hole_JJ four-_JJ tenths_NNS of_IN an_DT inch_NN square_NN punched_VBN in_IN the_DT long_JJ side_NN of_IN railway_NN tickets_NNS ._.
+It_PRP should_MD be_VB made_VBN only_RB on_IN the_DT tickets_NNS of_IN those_DT pass-_JJ engers_NNS who_WP come_VBP ,_, or_CC are_VBP suspected_VBN to_TO come_VB ,_, from_IN plague-_JJ infected_JJ areas_NNS or_CC from_IN places_NNS notified_VBN by_IN Government_NNP for_IN the_DT purposes_NNS of_IN the_DT passport_NN rules_NNS ._.
+The_DT special_JJ mark_NN should_MD be_VB made_VBN at_IN the_DT first_JJ inspection_NN station_NN at_IN which_WDT the_DT passenger_NN arrives_VBZ ._.
+It_PRP is_VBZ not_RB necessary_JJ to_TO punch_VB his_PRP$ ticket_NN again_RB at_IN any_DT subsequent_JJ inspection_NN station_NN through_IN which_WDT he_PRP may_MD pass_VB ,_, but_CC he_PRP must_MD be_VB medically_RB examined_JJ nevertheless_RB ._.
+Tickets_NNS of_IN persons_NNS who_WP come_VBP from_IN an_DT uninfected_JJ area_NN ,_, or_CC who_WP ,_, though_IN coming_VBG from_IN an_DT infected_JJ area_NN ,_, have_VBP been_VBN detained_VBN for_IN ten_JJ days_NNS at_IN one_CD of_IN the_DT observation_NN camps_NNS established_VBN in_IN the_DT Madras_NNP presidency_NN ,_, need_MD not_RB be_VB so_RB marked_JJ ._.
+83._CD ._.
+._.
+._.
+84_CD ._.
+..._: 84-A_NN ._.
+..._: 85_CD ._.
+..._: 86_CD ._.
+..._: ?_. 43_CD Fairs_NNPS ,_, Festivals_NNS and_CC Pilgrimages_NNP ._.
+86-A_JJ ._.
+When_WRB a_DT festival_NN or_CC fair_NN or_CC other_JJ public_JJ gathering_NN which_WDT is_VBZ likely_JJ to_TO be_VB attended_VBN by_IN persons_NNS from_IN plague-infected_JJ parts_NNS is_VBZ about_IN to_TO take_VB place_NN ._.
+._.
+._.
+the_DT President_NNP may_MD apply_VB to_TO Government_NNP for_IN orders_NNS to_TO prohibit_VB their_PRP$ attendance_NN and_CC to_TO enforce_VB the_DT prohibition_NN by_IN stopping_VBG temporarily_RB the_DT issue_NN of_IN railway_JJ tickets_NNS to_TO such_JJ persons_NNS or_CC by_IN other_JJ means_NNS ._.
+If_IN there_EX is_VBZ plague_NN in_IN the_DT city_NN a_DT similar_JJ course_NN should_MD be_VB adopted_VBN when_WRB a_DT festival_NN or_CC fair_NN or_CC other_JJ public_JJ gathering_NN which_WDT is_VBZ likely_JJ to_TO be_VB attended_VBN by_IN persons_NNS from_IN healthy_JJ parts_NNS is_VBZ about_IN to_TO take_VB place_NN ._.
+._.
+._.
+87_CD ._.
+Proposals_NNS submitted_VBN under_IN the_DT preceding_NN rule_NN should_MD be_VB forwarded_VBN through_IN the_DT Sanitary_NNP Commissioner_NNP so_RB as_IN to_TO reach_VB Government_NNP a_DT month_NN and-a-half_RB previous_JJ to_TO the_DT holding_NN of_IN the_DT fairs_NNS and_CC festivals_NNS ._.
+Proposals_NNS submitted_VBN at_IN later_RB dates_NNS do_VBP not_RB allow_VB proper_JJ measures_NNS being_VBG taken_VBN to_TO enforce_VB them_PRP ._.
+..._: 88_CD ._.
+..._: 89_CD ._.
+..._: 90_CD ._.
+..._: 91_CD ._.
+..._: 92_CD ._.
+As_IN regards_NNS pilgrimage_NN to_TO the_DT Hedjaz_NNP ,_, the_DT Government_NNP of_IN India_NNP annually_RB issue_VBZ orders_NNS either_RB prohibiting_VBG it_PRP altogether_RB or_CC allowing_VBG it_PRP under_IN certain_JJ conditions_NNS from_IN uninfected_JJ parts_NNS only_RB ._.
+In_IN the_DT latter_JJ case_NN ,_, the_DT intending_NN pilgrims_NNS are_VBP collected_VBN at_IN convenient_JJ observation_NN camps_NNS ,_, they_PRP are_VBP not_RB allowed_VBN to_TO purchase_VB passage_JJ tickets_NNS to_TO the_DT Hedjaz_NNP except_NN at_IN those_DT observation_NN camps_NNS ,_, and_CC after_IN they_PRP have_VBP been_VBN detained_VBN for_IN the_DT prescribed_JJ period_NN and_CC certified_VBD to_TO be_VB free_JJ from_IN infection_NN ,_, they_PRP are_VBP sent_VBN in_IN special_JJ trains_NNS or_CC carriages_NNS to_TO the_DT selected_VBN ports_NNS for_IN embarkation_NN ._.
+Pilgrims_NNS returning_VBG from_IN the_DT Hedjaz_NNP in_IN healthy_JJ vessels_NNS are_VBP ,_, after_IN disinfection_NN of_IN their_PRP$ clothing_NN and_CC baggage_NN ,_, sent_VBD at_IN once_RB to_TO their_PRP$ destination_NN without_IN being_VBG allowed_VBN to_TO mix_VB with_IN the_DT population_NN of_IN the_DT port_NN of_IN landing_NN ._.
+Those_DT returning_VBG in_IN a_DT plague-infected_JJ vessel_NN are_VBP subjected_VBN to_TO ten_VB days_NNS '_POS observation_NN in_IN a_DT camp_NN before_IN being_VBG ._.
+sent_NN to_TO their_PRP$ homes_NNS ._.
+The_DT authorities_NNS of_IN the_DT port_NN of_IN landing_VBG are_VBP required_VBN to_TO send_VB nominal_JJ rolls_NNS of_IN the_DT pilgrims_NNS to_TO the_DT officers_NNS concerned_VBN ,_, and_CC to_TO give_VB previous_JJ intimation_NN of_IN their_PRP$ departure_NN ,_, in_IN order_NN that_IN they_PRP may_MD be_VB watched_VBN for_IN a_DT few_JJ days_NNS after_IN arrival_NN at_IN their_PRP$ destination_NN ._.
+?_. 44_CD Destruction_NN of_IN Rats_NNP ._.
+93_CD ._.
+Regulation_NNP 8.-There_EX is_VBZ a_DT general_JJ belief_NN ,_, supported_VBN by_IN medical_JJ opinion_NN ,_, that_IN rats_NNS are_VBP peculiarly_RB susceptible_JJ to_TO the_DT infection_NN of_IN the_DT bubonic_JJ plague_NN and_CC are_VBP active_JJ agents_NNS in_IN its_PRP$ dissemination_NN ._.
+Granaries_NNS are_VBP the_DT favourite_JJ haunts_NNS of_IN rats_NNS ,_, and_CC grain_NN bags_NNS arriving_VBG from_IN any_DT place_NN suspected_VBN to_TO be_VB affected_VBN by_IN the_DT plague_NN should_MD be_VB very_RB carefully_RB examined_VBN ,_, and_CC any_DT rats_NNS found_VBN with_IN them_PRP at_IN once_RB destroyed_VBN and_CC their_PRP$ bodies_NNS consumed_VBN by_IN fire_NN ._.
+Infection_NN once_RB brought_VBD into_IN a_DT granary_JJ spreads_NNS rapidly_RB among_IN the_DT healthy_JJ rats_NNS ,_, and_CC thence_NN in_IN time_NN to_TO human_JJ beings_NNS living_VBG in_IN the_DT neighbourhood_NN ._.
+._.
+._.
+Attention_NN ._.
+._.
+._.
+is_VBZ therefore_RB drawn_VBN to_TO the_DT necessity_NN of_IN taking_VBG special_JJ precautions_NNS to_TO prevent_VB the_DT danger_NN of_IN infection_NN from_IN this_DT source_NN ._.
+Arrangements_NNS should_MD be_VB made_VBN for_IN the_DT constant_JJ inspection_NN of_IN granaries_NNS and_CC grain_NN bazaars_NNS and_CC care_NN taken_VBN to_TO keep_VB them_PRP clean_JJ and_CC disinfected_JJ and_CC to_TO have_VB the_DT rats_NNS destroyed_VBD ._.
+In_IN inspecting_VBG these_DT granaries_NNS particular_VBP inquiries_NNS should_MD be_VB made_VBN whether_IN any_DT dead_JJ or_CC sick_JJ rats_NNS have_VBP been_VBN observed_VBN ._.
+Rats_NNS sick_VBP with_IN the_DT plague_NN seem_VBP careless_NN in_IN the_DT presence_NN of_IN men_NNS and_CC run_VB about_RB in_IN a_DT dazed_JJ way_NN with_IN a_DT peculiar_JJ limping_NN gait_NN in_IN the_DT hind_NN legs_VBZ owing_VBG to_TO painful_VB glands_NNS in_IN the_DT groin_NN ._.
+The_DT port_NN and_CC sea_NN customs_NNS authorities_NNS should_MD be_VB instructed_VBN to_TO see_VB that_IN no_DT rats_NNS are_VBP landed_VBN with_IN goods_NNS ._.
+and_CC that_DT rats_VBZ found_VBN in_IN ships_NNS are_VBP destroyed_VBN forthwith_NN ._.
+94_CD ._.
+The_DT Traffic_NNP Manager_NNP ,_, South_NNP Indian_NNP Railway_NNP ,_, has_VBZ issued_VBN the_DT following_VBG circular_NN to_TO his_PRP$ subordinates_NNS :_: -_: ''_'' Station-_JJ masters_NNS and_CC their_PRP$ staff_NN should_MD carefully_RB inspect_VB consignments_NNS of_IN grain_NN from_IN plague-infected_JJ areas_NNS to_TO see_VB that_IN any_DT rats_NNS that_WDT may_MD arrive_VB concealed_VBN in_IN the_DT grain_NN are_VBP destroyed_VBN ;_: should_MD also_RB destroy_VB bandicoots_NNS ,_, rats_NNS and_CC mice_NN where_WRB grain_NN is_VBZ deposited_VBN on_IN railway_NN premises_NNS in_IN case_NN they_PRP may_MD have_VB eaten_VBN of_IN the_DT grain_NN and_CC so_RB become_JJ infected_JJ ._.
+This_DT vermin_NN should_MD be_VB tracked_VBN and_CC exterminated_VBN by_IN all_DT possible_JJ methods_NNS ,_, the_DT dead_JJ bodies_NNS being_VBG consumed_VBN by_IN fire_NN at_IN once_RB ._.
+Stationmasters_NNS and_CC others_NNS of_IN the_DT staff_NN concerned_VBN with_IN these_DT instructions_NNS should_MD make_VB a_DT special_JJ report_NN to_TO this_DT office_NN ,_, if_IN they_PRP destroy_VBP 20_CD or_CC more_JJR of_IN these_DT rodents_NNS in_IN any_DT one_CD week_NN ,_, and_CC if_IN a_DT rat_NN trap_NN is_VBZ wanted_VBN they_PRP should_MD send_VB an_DT indent_NN for_IN one_NN ._. ''_''
+Other_JJ Railway_NNP Adminis-_NNP trations_NNS have_VBP been_VBN requested_VBN to_TO issue_VB similar_JJ instructions_NNS to_TO their_PRP$ staff_NN ._.
+._.
+._.
+._.
+95_CD ._.
+It_PRP has_VBZ been_VBN ruled_VBN that_IN ordinarily_RB the_DT destruction_NN of_IN rats_NNS should_MD be_VB confined_VBN to-_JJ (_( a_DT )_) infected_JJ places_NNS and_CC the_DT surrounding_VBG area_NN within_IN a_DT radius_NN of_IN ten_JJ miles_NNS round_VBP it_PRP ;_: Plague_NNP reports_NNS ._. ]_NNS
+45_CD (_( b_NN )_) landing_NN places_NNS and_CC railway_NN goods-sheds_NNS ,_, where_WRB rats_NNS from_IN infected_JJ places_NNS are_VBP likely_JJ to_TO be_VB imported_VBN with_IN goods_NNS brought_VBN by_IN sea_NN or_CC railway_NN ._.
+In_IN the_DT case_NN of_IN (_( a_DT )_) ,_, rewards_NNS may_MD be_VB necessary_JJ but_CC the_DT maximum_JJ rate_NN should_MD not_RB exceed_VB three_CD pies_NNS ._.
+In_IN other_JJ cases_NNS ,_, the_DT port_NN or_CC railway_NN authorities_NNS are_VBP expected_VBN to_TO do_VB all_DT that_WDT is_VBZ required_VBN without_IN the_DT reward_NN system_NN ._.
+96_CD ._.
+The_DT charges_NNS incurred_VBN in_IN the_DT destruction_NN of_IN rats_NNS should_MD be_VB debited_VBN to_TO ..._: municipal_JJ funds_NNS ._.
+Plague_NNP Reports_NNS and_CC Returns_NNS ._.
+97_CD ._.
+When_WRB a_DT case_NN of_IN plague_NN ,_, genuine_NN or_CC suspected_VBN ,_, is_VBZ first_RB discovered_VBN the_DT President_NNP ._.
+._.
+._.
+should_MD immediately_RB intimate_VB the_DT fact_NN to_TO the_DT Secretary_NNP to_TO Government_NNP ,_, Local_NNP and_CC Municipal_NNP department_NN ,_, to_TO the_DT Sanitary_NNP Commissioner_NNP and_CC to_TO the_DT Surgeon-General_JJ ,_, stating_VBG how_WRB the_DT case_NN was_VBD discovered_VBN ,_, whether_IN it_PRP was_VBD indigenous_JJ or_CC imported_VBN ,_, and_CC in_IN the_DT latter_JJ case_NN ,_, whence_NN it_PRP was_VBD imported_VBN ,_, and_CC such_JJ further_JJ particulars_NNS with_IN dates_NNS as_IN may_MD be_VB thought_VBN necessary_JJ ._.
+Cases_NNS of_IN plague_NN among_IN 'contacts_NNS '_POS who_WP have_VBP not_RB within_IN a_DT fortnight_JJ been_VBN in_IN an_DT infected_JJ place_NN should_MD be_VB treated_VBN as_IN indigenous_JJ and_CC not_RB imported_VBN ._.
+Further_RB details_NNS should_MD be_VB furnished_VBN ._.
+._.
+._.
+if_IN possible_JJ within_IN 48_CD hours_NNS ._.
+This_DT report_NN should_MD be_VB in_IN the_DT form_NN prescribed_VBD [_JJ Appendix_NNP F_NNP ]_NNP ._.
+98_CD ._.
+All_DT attacks_NNS and_CC deaths_NNS should_MD be_VB intimated_VBN daily_JJ to_TO Government_VB the_DT Sanitary_NNP Commissioner_NNP and_CC the_DT Surgeon-General_NNP ._.
+._.
+._.
+The_DT President_NNP should_MD also_RB send_VB daily_JJ telegraphic_JJ reports_NNS of_IN plague_NN to_TO the_DT medical_JJ officer_NN of_IN the_DT Ceylon_NNP Government_NNP stationed_VBD at_IN Tuticorin_NNP whenever_WRB plague_NN cases_NNS occur_VBP in_IN Madras_NNP ._.
+The_DT cost_NN of_IN these_DT telegrams_NNS will_MD be_VB debited_VBN to_TO the_DT Ceylon_NNP Government_NNP by_IN the_DT Accountant-General_NNP ._.
+99_CD ._.
+..._: 100_CD ._.
+..._: 100-A_NN ._.
+..._: 101_CD ._.
+..._: Plague_NN Correspondence_NNP ._.
+102_CD ._.
+All_DT correspondence_NN about_IN plague_NN should_MD be_VB addressed_VBN to_TO the_DT Secretary_NNP to_TO Government_NNP ,_, Local_NNP and_CC Municipal_NNP depart-_JJ ment_NN ,_, and_CC should_MD be_VB marked_VBN with_IN the_DT word_NN 'Plague_NN '_'' in_IN red_JJ ink_NN on_IN the_DT outside_JJ covers_NNS and_CC on_IN the_DT left-hand_JJ corner_NN of_IN the_DT ?_. 46_CD [_NNP Plague_NNP regulations_NNS ._.
+papers_NNS ._.
+Telegrams_NNP should_MD be_VB addressed_VBN to_TO ``_`` Madras_NNP ,_, Plague_NNP ._. ''_''
+All_DT communications_NNS ,_, except_IN reports_NNS or_CC returns_NNS on_IN printed_JJ forms_NNS ,_, should_MD be_VB forwarded_VBN with_IN a_DT docket_NN sheet_NN ,_, copies_NNS of_IN which_WDT are_VBP supplied_VBN by_IN the_DT Superintendent_NNP ,_, Government_NNP Press_NNP ._.
+103_CD ._.
+All_DT references_NNS regarding_VBG account_NN matters_NNS should_MD be_VB addressed_VBN to_TO ,_, or_CC forwarded_VBD through_IN ,_, the_DT Accountant-General_NNP ._.
+104._CD ._.
+._.
+._.
+105._CD ._.
+._.
+._.
+106_CD ._.
+Copies_NNS of_IN all_DT important_JJ orders_NNS passed_VBN by_IN the_DT Govern-_NNP ment_NN in_IN regard_NN to_TO the_DT prevention_NN and_CC suppression_NN of_IN plague_NN will_MD be_VB supplied_VBN from_IN the_DT Government_NNP office_NN to_TO the_DT Deputy_NNP Adjutant-General_NNP ,_, Madras_NNP Command_NNP ,_, and_CC the_DT General_NNP officers_NNPS Commanding_NNP Districts_NNPS ,_, who_WP should_MD also_RB be_VB furnished_VBN by_IN ._.
+the_DT President_NNP ,_, Municipal_NNP Commission_NNP ,_, Madras_NNP ,_, with_IN similar_JJ orders_NNS issued_VBN by_IN himself_PRP ._.
+107._CD ._.
+._.
+._.
+Plague_JJ Regulations_NNS ._.
+108._CD ._.
+._.
+._.
+109_CD ._.
+110_CD ._.
+The_DT regulations_NNS apply_VBP to_TO all_DT alike_RB without_IN distinction_NN of_IN class_NN or_CC rank_NN but_CC should_MD be_VB enforced_VBN only_RB against_IN persons_NNS with_IN regard_NN to_TO whom_WP there_EX are_VBP reasonable_JJ grounds_NNS of_IN suspi-_JJ cion_NN ._.
+Due_JJ notice_NN will_MD be_VB given_VBN by_IN Government_NNP as_RB soon_RB as_IN it_PRP is_VBZ considered_VBN safe_JJ to_TO relax_VB any_DT of_IN the_DT restrictions_NNS now_RB imposed_VBN on_IN trade_NN and_CC on_IN the_DT movement_NN of_IN passengers_NNS ._.
+Until_IN then_RB ,_, they_PRP should_MD be_VB carefully_RB observed_VBN ._.
+111_CD ._.
+..._: 112_CD ._.
+By_IN Command_NNP Order_NNP ,_, No_NNP ._.
+687_CD ,_, dated_VBD 18th_CD November_NNP 1898_CD ,_, all_DT ranks_NNS in_IN the_DT Madras_NNP Command_NNP are_VBP directed_VBN to_TO obey_VB the_DT plague_NN regulations_NNS ,_, and_CC any_DT infringement_NN of_IN them_PRP is_VBZ punishable_JJ as_IN a_DT military_JJ offence_NN ._.
+Military_JJ pensioners_NNS have_VBP been_VBN warned_VBN (_( Superintendent_NNP 's_POS circular_JJ No_NNP ._.
+II_NNP ,_, dated_VBD 14th_CD December_NNP 1898_CD )_) that_IN any_DT disobedience_NN or_CC wilful_JJ neglect_NN of_IN the_DT regulations_NNS or_CC obstruction_NN to_TO any_DT official_NN on_IN plague_NN duty_NN will_MD be_VB treated_VBN as_IN a_DT breach_NN of_IN the_DT good_JJ conduct_NN required_VBN by_IN Gov-_NNP ernment_NN as_IN a_DT condition_NN of_IN the_DT continuation_NN of_IN their_PRP$ pensions_NNS ,_, and_CC that_IN any_DT pensioner_NN being_VBG guilty_JJ thereof_NN will_MD be_VB liable_JJ to_TO have_VB his_PRP$ pension_NN stopped_VBD forthwith_NN ,_, and_CC the_DT same_JJ reduced_VBD or_CC permanently_RB withdrawn_VBN ._.
+113_CD ._.
+The_DT plague_NN regulations_NNS being_VBG orders_NNS promulgated_VBN ,_, i.e._FW ,_, formally_RB made_VBN and_CC issued_VBN ,_, by_IN Government_NNP under_IN the_DT Epi-_NNP demic_JJ Diseases_NNP Act_NNP and_CC not_RB by_IN any_DT public_JJ servant_NN ,_, no_DT sanction_NN ?_. Appointments_NNS and_CC allowances_NNS ._. ]_NN
+47_CD is_VBZ required_VBN as_IN a_DT condition_NN precedent_NN to_TO prosecution_NN for_IN disobey-_JJ ing_VBG them_PRP (_( Judgment_NNP of_IN the_DT High_NNP Court_NNP in_IN Criminal_NNP Appeal_NNP No_NNP ._.
+551_CD of_IN 1899_CD )_) ._.
+114_CD ._.
+If_IN the_DT Police_NNP are_VBP informed_VBN that_IN a_DT person_NN is_VBZ evading_VBG the_DT plague_NN regulations_NNS by_IN giving_VBG a_DT false_JJ name_NN or_CC a_DT wrong_JJ address_NN ,_, they_PRP can_MD act_VB under_IN section_NN 57_CD of_IN the_DT Criminal_NNP Procedure_NNP Code_NNP ,_, and_CC detain_VB the_DT person_NN until_IN satisfied_VBD that_IN they_PRP have_VBP got_VBN his_PRP$ true_JJ name_NN and_CC address_NN ._.
+Failing_VBG information_NN as_IN to_TO true_JJ name_NN and_CC address_NN or_CC the_DT execution_NN of_IN a_DT bond_NN ,_, the_DT Police_NNP can_MD forward_VB the_DT person_NN to_TO a_DT magistrate_NN ._.
+Plague_NN Appointments_NNS and_CC Plague_NNP Allowances_NNP ._.
+114-A_JJ ._.
+..._: ._. 114-B_JJ ._.
+115_CD ._.
+All_DT appointments_NNS on_IN account_NN of_IN plague_NN require_VBP the_DT sanction_NN of_IN Government_NNP ._.
+._.
+._.
+._.
+Appointments_NNS sanctioned_VBD without_IN reference_NN to_TO limit_VB of_IN time_NN require_VBP renewal_NN of_IN sanction_NN every_DT six_CD months_NNS ._.
+116_CD ._.
+117_CD ._.
+..._:
+The_DT President_NNP ,_, Municipal_NNP Commission_NNP ,_, Madras_NNP ,_, should_MD prepare_VB every_DT month_NN printed_VBD list_NN of_IN officers_NNS of_IN all_DT classes_NNS ,_, including_VBG troops_NNS ,_, employed_VBN on_IN plague_NN duty_NN ,_, in_IN accordance_NN with_IN the_DT instructions_NNS contained_VBN in_IN Plague_NNP Com-_NNP missioner_NN 's_POS Proceedings_NNP ,_, No_NNP ._.
+762_CD ,_, dated_VBD 22nd_CD November_NNP 1898_CD ,_, No_DT ._.
+1047_CD ,_, dated_VBD 28th_CD December_NNP 1898_CD ,_, and_CC G.O._NNP ,_, No_NNP ._.
+1504-P._JJ ,_, dated_VBD 17th_CD October_NNP 1899_CD ,_, and_CC No_DT ._.
+656_CD ,_, dated_VBD 7th_CD March_NNP 1899_CD ._.
+The_DT ._.
+._.
+._.
+Commissioner_NNP of_IN Police_NNP ,_, Madras_NNP ,_, should_MD prepare_VB similar_JJ lists_NNS of_IN all_DT police_NNS engaged_VBN in_IN plague_NN work_NN ,_, and_CC the_DT Surgeon-General_NNP should_MD also_RB submit_VB a_DT return_NN showing_VBG all_DT medical_JJ officers_NNS on_IN plague_NN duty_NN and_CC all_DT temporary_JJ doctors_NNS obtained_VBD from_IN England_NNP ,_, with_IN their_PRP$ stations_NNS ,_, pay_NN and_CC allow-_JJ ances_NNS ._.
+The_DT lists_NNS should_MD be_VB submitted_VBN not_RB later_RBR than_IN the_DT 5th_CD of_IN each_DT month_NN and_CC should_MD be_VB distributed_VBN as_IN follows_VBZ :_: -_: Three_CD copies_NNS to_TO the_DT Chief_NNP Secretary_NNP to_TO Government_NNP ,_, Financial_NNP department_NN ._.
+Four_CD copies_NNS to_TO the_DT Secretary_NNP to_TO Government_NNP ,_, Local_NNP and_CC Municipal_NNP department_NN ._.
+Two_CD copies_NNS to_TO the_DT Accountant-General_NNP ._.
+118_CD ._.
+The_DT charge_NN of_IN plague_JJ operations_NNS in_IN an_DT infected_JJ district_NN must_MD be_VB regarded_VBN as_IN part_NN of_IN the_DT general_JJ duty_NN of_IN an_DT executive_JJ officer_NN ._.
+No_DT encouragement_NN should_MD be_VB given_VBN to_TO an_DT impression_NN that_WDT duty_NN connected_VBN with_IN the_DT plague_NN involves_VBZ greater_JJR risks_NNS or_CC is_VBZ deserving_VBG of_IN more_RBR favourable_JJ treatment_NN ?_. 48_CD [_NNP Plague_NNP Expenditure_NNP and_CC Accounts_NNP ._.
+than_IN attendance_NN in_IN the_DT infectious_JJ wards_NNS of_IN a_DT hospital_NN or_CC in_IN a_DT camp_NN afflicted_VBN with_IN cholera_NN ,_, which_WDT is_VBZ accepted_VBN as_IN part_NN of_IN the_DT officer_NN 's_POS ordinary_JJ duty_NN ._.
+Save_NNP in_IN exceptional_JJ cases_NNS no_DT recom-_JJ mendation_NN should_MD be_VB made_VBN for_IN the_DT grant_NN of_IN special_JJ salary_JJ allowance_NN or_CC pension_NN for_IN plague_NN duty_NN ._.
+The_DT Government_NNP of_IN India_NNP has_VBZ ,_, however_RB ,_, authorised_VBD the_DT grant_NN of_IN special_JJ allowances_NNS to_TO medical_JJ officers_NNS for_IN plague_NN duty_NN performed_VBN in_IN addition_NN to_TO their_PRP$ ordinary_JJ work_NN in_IN cases_NNS where_WRB it_PRP is_VBZ sufficiently_RB arduous_JJ to_TO deserve_VB special_JJ remuneration_NN ._.
+The_DT Local_JJ Government_NNP may_MD also_RB sanction_VB local_JJ allowances_NNS under_IN article_NN 187_CD of_IN the_DT Civil_NNP Service_NNP Regulations_NNPS to_TO officers_NNS of_IN other_JJ classes_NNS provided_VBD their_PRP$ plague_NN duty_NN lies_VBZ entirely_RB outside_IN the_DT ordinary_JJ and_CC legitimate_JJ duties_NNS of_IN their_PRP$ offices_NNS ._.
+The_DT Secretary_NNP of_IN State_NNP has_VBZ also_RB sanctioned_VBN the_DT grant_NN of_IN extraordinary_JJ pension_NN to_TO the_DT families_NNS of_IN police_NNS men_NNS who_WP die_VBP of_IN plague_NN contracted_VBN in_IN the_DT execution_NN of_IN their_PRP$ duties_NNS in_IN plague-stricken_JJ localities_NNS ,_, provided_VBD such_JJ duties_NNS entail_VBP imminent_JJ risk_NN from_IN plague_NN ._.
+119_CD ._.
+The_DT special_JJ allowances_NNS given_VBN to_TO certain_JJ classes_NNS of_IN officers_NNS for_IN plague_NN duty_NN and_CC the_DT salaries_NNS attached_VBN to_TO special_JJ temporary_JJ appointments_NNS created_VBN on_IN account_NN of_IN the_DT plague_NN are_VBP given_VBN in_IN Appendix_NNP G._NNP All_NNP questions_NNS relating_VBG to_TO the_DT grant_NN of_IN such_JJ allowances_NNS should_MD be_VB referred_VBN for_IN the_DT orders_NNS of_IN Government_NNP ._.
+Plague_NNP Expenditure_NNP and_CC Accounts_NNP ._.
+120_CD ._.
+..._: 121_CD ._.
+The_DT President_NNP ,_, Municipal_NNP Commission_NNP ,_, Madras_NNP ,_, is_VBZ required_VBN to_TO submit_VB quarterly_JJ estimates_NNS of_IN plague_JJ expenditure_NN ._.
+These_DT estimates_NNS should_MD be_VB forwarded_VBN direct_JJ to_TO the_DT Financial_NNP department_NN ,_, so_RB as_IN to_TO reach_VB their_PRP$ destination_NN not_RB later_RB than_IN the_DT fifth_NN of_IN the_DT first_JJ month_NN of_IN each_DT quarter_NN ._.
+The_DT estimate_NN submitted_VBN by_IN the_DT Surgeon-General_JJ includes_VBZ provision_NN for_IN all_DT medical_JJ officers_NNS ,_, nurses_NNS ,_, &_CC c._NN ,_, who_WP have_VBP been_VBN sent_VBN out_RP by_IN the_DT Secretary_NNP of_IN State_NNP and_CC are_VBP temporarily_RB attached_VBN to_TO hospitals_NNS ,_, &_CC c._NN ,_, in_IN Madras_NNP prior_RB to_TO their_PRP$ being_VBG posted_VBN to_TO duties_NNS in_IN connec-_JJ tion_NN with_IN plague_JJ work_NN ._.
+122_CD ._.
+..._:
+The_DT estimate_NN for_IN the_DT third_JJ quarter_NN shall_MD be_VB submitted_VBN so_RB as_IN to_TO reach_VB its_PRP$ destination_NN on_IN the_DT 5th_JJ November_NNP instead_RB of_IN the_DT 5th_JJ October_NNP and_CC shall_MD show_VB (_( 1_CD )_) actual_JJ expendi-_JJ ture_NN up_IN to_TO the_DT 31st_CD October_NNP ,_, (_( 2_CD )_) estimate_NN for_IN November_NNP and_CC December_NNP ,_, (_( 3_CD )_) estimate_NN for_IN the_DT last_JJ quarter_NN of_IN the_DT official_JJ year_NN ,_, and_CC (_( 4_CD )_) total_JJ estimate_NN for_IN the_DT year_NN ._.
+This_DT estimate_NN shall_MD be_VB accompanied_VBN by_IN an_DT estimate_NN for_IN the_DT ensuing_VBG official_JJ year_NN based_VBN Plague_NNP Expenditure_NNP and_CC Accounts_NNP ._. ]_NN
+49_CD on_IN the_DT conditions_NNS existing_VBG at_IN the_DT time_NN of_IN framing_VBG the_DT estimate_NN ._.
+This_DT latter_JJ estimate_NN need_MD not_RB provide_VB for_IN each_DT quarter_NN of_IN the_DT year_NN separately_RB ._.
+123._CD ._.
+._.
+._.
+124._CD ._.
+._.
+._.
+125._CD ._.
+._.
+._.
+126_CD ._.
+Forms_NNS of_IN the_DT estimates_NNS will_MD be_VB printed_VBN and_CC supplied_VBN by_IN the_DT Accountant-General_NNP ._.
+No_DT changes_NNS shall_MD be_VB made_VBN in_IN the_DT form_NN without_IN the_DT approval_NN of_IN the_DT Financial_NNP department_NN ._.
+..._: 127._CD ._.
+._.
+._.
+128._CD ._.
+._.
+._.
+128-A_JJ ._.
+The_DT clothing_NN specified_VBN in_IN rule_NN 9_CD will_MD be_VB supplied_VBN to_TO the_DT troops_NNS regimentally_RB ;_: and_CC as_RB soon_RB as_IN it_PRP has_VBZ been_VBN issued_VBN ,_, and_CC the_DT bill_NN countersigned_VBN by_IN ._.
+._.
+._.
+the_DT President_NNP ,_, Muni-_NNP cipal_JJ Commission_NNP ,_, Madras_NNP ,_, ._.
+._.
+._.
+the_DT military_JJ department_NN will_MD debit_VB the_DT cost_NN to_TO the_DT civil_JJ department_NN in_IN the_DT exchange_NN account_NN rendered_VBN by_IN the_DT Controller_NNP of_IN Military_JJ Accounts_NNS to_TO the_DT Accountant-General_NNP ,_, who_WP will_MD make_VB the_DT necessary_JJ adjustments_NNS and_CC recover_VB the_DT amount_NN from_IN the_DT municipality_NN ._.
+129_CD ._.
+..._: 130._CD ._.
+._.
+._.
+131_CD ._.
+Fines_NNS recovered_VBN in_IN prosecutions_NNS under_IN the_DT plague_JJ regulations_NNS should_MD be_VB credited_VBN to_TO fines_NNS under_IN Law_NNP and_CC Justice_NNP ._.
+132._CD ._.
+._.
+._.
+?_. 50_CD APPENDIX_NNP A._NN PLAGUE_NNP PASSPORT_NNP ._.
+[_NNS See_NNP regulation_NN 1_CD on_IN page_NN 8_CD ._. ]_NN
+(_( To_TO be_VB printed_VBN in_IN diglott_NN ._. )_)
+1_CD ._.
+No_DT ._.
+of_IN passport_NN ._.
+2_CD ._.
+District_NNP ._.
+3_CD ._.
+Station_NN of_IN issue_NN ._.
+4_CD ._.
+Date_NNP of_IN arrival_NN ._.
+5_CD ._.
+Name_NN of_IN person_NN (_( in_IN full_JJ )_) ._.
+6_CD ._.
+Father_NNP 's_POS name_NN ._.
+*_RB 7_CD Caste_NNP and_CC occupation_NN ._.
+8_CD ._.
+Age_NNP ._.
+9_CD ._.
+Sex_NN ._.
+*_RB 10_CD ._.
+Whence_NN coming_VBG (_( give_JJ district_NN ,_, taluq_NN and_CC village_NN )_) ._.
+11_CD ._.
+Destination_NN and_CC residence_NN during_IN the_DT next_JJ ten_NN days_NNS (_( give_JJ district_NN ,_, taluq_NN ,_, village_JJ street_NN and_CC number_NN or_CC name_NN of_IN the_DT owner_NN of_IN the_DT house_NN )_) ._.
+12_CD ._.
+To_TO whom_WP the_DT triplicate_NN copy_NN of_IN the_DT passport_NN sent_VBD and_CC when_WRB ._.
+I_PRP declare_VBP the_DT information_NN set_VBN forth_NN above_IN under_IN headings_NNS 5_CD to_TO 11_CD to_TO be_VB correct_JJ ,_, and_CC I_PRP do_VBP hereby_RB bind_VB myself_PRP (_( a_DT )_) to_TO appear/present_VB the_DT above_NN mentioned_VBD person_NN for_IN inspection_NN ,_, daily_RB ,_, between_IN the_DT hours_NNS of_IN ________NN for_IN the_DT next_JJ ten_NN days_NNS ,_, before_IN the_DT passport-examining_JJ officer_NN of_IN the_DT place_NN where_WRB I_PRP may_MD be_VB for_IN the_DT time_NN being_VBG ,_, (_( b_NN )_) to_TO report_VB to_TO the_DT said_VBD officer_NN before_IN departure_NN any_DT change_NN in_IN my_PRP$ residence/the_JJ residence_NN of_IN the_DT above_NN mentioned_VBD person_NN within_IN the_DT said_VBD period_NN of_IN ten_JJ days_NNS ,_, and_CC (_( c_NN )_) to_TO deliver_VB to_TO the_DT said_VBD officer_NN this_DT passport_NN on_IN the_DT expiry_NN of_IN the_DT said_VBD period_NN ._.
+Date_NNP Signature_NN or_CC mark_NN of_IN the_DT traveller_NN or_CC person_NN in_IN change_NN of_IN him_PRP ._.
+Declared_NNP and_CC signed_VBD before_IN me_PRP ._.
+Date_NNP Signature_NNP and_CC designation_NN of_IN officer_NN issuing_VBG the_DT passport_NN ._.
+*_NN May_NNP be_VB omitted_VBN when_WRB clearly_RB not_RB required_VBN for_IN identification_NN ._.
+For_IN village_NN in_IN Malabar_NNP ,_, give_VB the_DT names_NNS of_IN amsam_NN and_CC desam_NN ._.
+Date_NNP ._.
+Signature_NN ._.
+INSTRUCTIONS_NNP ._.
+1st_CD day_NN 1_CD ._.
+This_DT passport_NN should_MD be_VB prepared_VBN in_IN triplicate_NN ._.
+The_DT original_JJ should_MD be_VB retained_VBN for_IN record_NN ,_, the_DT duplicate_NN 2nd_CD delivered_VBN to_TO the_DT traveller_NN ,_, and_CC the_DT triplicate_NN sent_VBD without_IN delay_NN to_TO the_DT officer_NN who_WP has_VBZ to_TO examine_VB him_PRP 3rd_CD for_IN ten_JJ days_NNS ._.
+The_DT full_JJ designation_NN and_CC address_NN of_IN this_DT officer_NN should_MD be_VB entered_VBN under_IN heading_VBG 12_CD ._.
+One_CD pass-_JJ 4th_CD port_NN form_NN should_MD not_RB be_VB used_VBN for_IN more_JJR than_IN one_CD individual_NN ._.
+Only_JJ persons_NNS coming_VBG from_IN infected_VBN or_CC 5th_CD notified_JJ places_NNS can_MD be_VB required_VBN to_TO take_VB out_RP passports_NNS ._.
+2_CD ._.
+The_DT passport-issuing_JJ officer_NN should_MD explain_VB to_TO the_DT 6th_CD traveller_NN or_CC his_PRP$ guardian_JJ the_DT terms_NNS of_IN the_DT passport_NN and_CC warn_VB him_PRP that_IN any_DT breach_NN of_IN its_PRP$ terms_NNS will_MD entail_VB 7th_CD prosecution_NN and_CC punishment_NN with_IN imprisonment_NN for_IN a_DT term_NN which_WDT may_MD extend_VB to_TO six_CD months_NNS or_CC fine_JJ which_WDT 8th_CD may_MD extend_VB to_TO Us_NNP ._.
+1,000_CD or_CC both_DT ._.
+3_CD ._.
+The_DT passport-holder_NN should_MD ,_, unless_IN exempted_VBN by_IN 9th_CD a_DT written_VBN order_NN endorsed_VBN on_IN the_DT passport_NN ,_, appear_VBP daily_RB for_IN ten_JJ days_NNS with_IN his_PRP$ passport_NN before_IN the_DT passport-_JJ 10th_JJ examining_VBG officer_NN and_CC obtain_VB that_DT officer_NN 's_POS signature_NN on_IN the_DT margin_NN of_IN his_PRP$ passport_NN in_IN token_NN of_IN inspection_NN ._.
+4_CD ._.
+The_DT passport-holder_NN is_VBZ not_RB obliged_VBN to_TO remain_VB at_IN a_DT place_NN for_IN ten_JJ days_NNS by_IN reason_NN of_IN his_PRP$ passport_NN ,_, but_CC should_MD he_PRP desire_VB to_TO change_VB his_PRP$ residence_NN within_IN that_DT period_NN ,_, he_PRP Forwarded_VBD to_TO the_DT Health_NNP officer_NN should_MD give_VB due_JJ intimation_NN to_TO the_DT passport-examining_VBG the_DT traveller_NN having_VBG been_VBN duly_RB observed_VBN ._.
+officer_NN and_CC get_VB the_DT entries_NNS under_IN headings_NNS 11_CD and_CC 12_CD altered_VBD before_IN departure_NN ._.
+On_IN the_DT tenth_JJ day_NN he_PRP should_MD deliver_VB his_PRP$ passport_NN to_TO the_DT passport-examining_JJ officer_NN ._.
+5_CD ._.
+The_DT passport-examining_JJ officer_NN should_MD satisfy_VB himself_PRP that_IN the_DT person_NN presenting_VBG the_DT passport_NN is_VBZ the_DT person_NN described_VBD therein_RB ._.
+He_PRP should_MD ascertain_VB from_IN Signature_NN and_CC Designation_NNP of_IN the_DT traveller_NN whether_IN there_EX is_VBZ any_DT sickness_NN or_CC death_NN in_IN Passport-examining_JJ officer_NN ._.
+his_PRP$ house_NN ._.
+If_IN the_DT traveller_NN exhibits_VBZ any_DT symptoms_NNS of_IN plague_NN or_CC if_IN any_DT sickness_NN or_CC death_NN is_VBZ reported_VBN in_IN his_PRP$ house_NN or_CC if_IN he_PRP fails_VBZ to_TO appear_VB for_IN inspection_NN ,_, the_DT said_VBD officer_NN should_MD take_VB immediate_JJ steps_NNS for_IN detaining_VBG him_PRP or_CC for_IN making_VBG the_DT necessary_JJ inquiries_NNS as_IN to_TO the_DT cause_NN of_IN sickness_NN ,_, death_NN or_CC absence_NN ._.
+Date_NNP 6_CD ._.
+For_IN further_JJ particulars_NNS ,_, see_VBP city_NN plague_NN regula-_JJ tions_NNS when_WRB residing_VBG in_IN Madras_NNP or_CC mufassal_VB plague_JJ Station_NNP ._.
+regulations_NNS when_WRB residing_VBG elsewhere_RB ._.
+51_CD APPENDIX_NNP B_NNP ._.
+GENERAL_NNP PASS_NNP ._.
+[_NNS See_NNP regulation_NN 24_CD (_( 3_CD )_) on_IN page_NN 18_CD ._. ]_NN
+(_( To_TO be_VB issued_VBN for_IN daily_JJ or_CC frequent_JJ journeys_NNS by_IN road_NN or_CC boat_NN from_IN an_DT infected_JJ area_NN ._. )_)
+No_DT ._.
+District_NNP ,_, Station_NNP of_IN issue_NN ._.
+Name_NN of_IN person_NN ._.
+Father_NNP 's_POS name_NN ._.
+Caste_NN ._.
+Age_NNP ._.
+Ordinary_JJ residence_NN ._.
+Journey_NNP covered_VBN by_IN this_DT pass_NN ._.
+This_DT pass_NN protects_VBZ the_DT person_NN named_VBN above_IN and_CC the_DT members_NNS of_IN his_PRP$ family_NN mentioned_VBD on_IN the_DT reverse_NN ,_, but_CC it_PRP does_VBZ not_RB authorize_VB journey_NN by_IN rail_NN ,_, for_IN which_WDT a_DT separate_JJ pass_NN shall_MD be_VB obtained_VBN by_IN each_DT individual_NN requiring_VBG it_PRP ,_, nor_CC does_VBZ it_PRP cover_VB residence_NN outside_IN It_PRP will_MD be_VB in_IN force_NN until_IN revoked_VBN ._.
+Signature_NN ._.
+Designation_NN ._.
+Date_NNP ._.
+(_( Reverse_NNP of_IN Form_NNP ._. )_)
+Name_NNP How_NNP related_JJ to_TO pass-holder_JJ Signature_NN ._.
+Designation_NN ._.
+Date_NNP ._.
+?_. 52_CD APPENDIX_NNP C._NNP GENERAL_NNP PASS_NNP ._.
+Subsidiary_JJ pass_NN for_IN railway_NN journey_NN only_RB ._.
+[_NNS See_NNP regulation_NN 24_CD (_( 3_CD )_) on_IN page_NN 18_CD ._. ]_NN
+(_( To_TO be_VB issued_VBN for_IN daily_JJ or_CC frequent_JJ journeys_NNS by_IN rail_NN from_IN an_DT infected_JJ area_NN ._. )_)
+No_DT ._.
+District_NNP ._.
+Station_NN of_IN issue_NN ._.
+Name_NN of_IN person_NN ._.
+Father_NNP 's_POS name_NN ._.
+Caste_NN ._.
+Age_NNP ._.
+Ordinary_JJ residence_NN ._.
+Journey_NNP covered_VBN by_IN this_DT pass_NN ._.
+Signature_NN ._.
+Designation_NN ._.
+Date_NNP ._.
+APPENDIX_NNP D._NNP SPECIAL_NNP PASS_NNP ._.
+[_NNS See_NNP regulation_NN 24_CD (_( 4_CD )_) on_IN page_NN 19_CD ._. ]_NN
+(_( To_TO be_VB issued_VBN to_TO persons_NNS leaving_VBG an_DT inhabited_VBN infected_JJ area_NN to_TO reside_VB in_IN its_PRP$ neighbourhood_NN ._. )_)
+No_DT ._.
+District_NNP ,_, Station_NNP of_IN issue_NN ._.
+Number_NNP of_IN office_NN of_IN issue_NN ._.
+*_JJ Name_NN of_IN person_NN ._.
+Father_NNP 's_POS name_NN ._.
+Caste_NN ._.
+Occupation_NN ._.
+Age_NNP ._.
+Ordinary_JJ residence_NN ._.
+The_DT above-named_JJ person_NN (_( and_CC his_PRP$ family_NN consisting_NN of_IN males_NNS and_CC females_NNS as_IN per_IN reverse_NN )_) is/are_NN permitted_VBN to_TO reside_VB temporarily_RB at_IN (_( name_NN of_IN site_NN or_CC number_NN of_IN field_NN )_) on_IN his_PRP$ producing_VBG this_DT pass_NN ,_, with_IN the_DT accompanying_VBG certificate_NN duly_NN filled_VBN in_IN by_IN the_DT officer_NN responsible_JJ for_IN disinfection_NN ._.
+Date_NNP Signature_NNP and_CC designation_NN ._.
+*_NN To_TO be_VB entered_VBN when_WRB there_EX is_VBZ more_JJR than_IN one_CD office_NN of_IN issue_NN in_IN the_DT town_NN ._.
+If_IN the_DT family_NN leaves_VBZ a_DT healthy_JJ area_NN of_IN the_DT town_NN or_CC a_DT house_NN that_WDT has_VBZ not_RB been_VBN infected_VBN ,_, this_DT part_NN of_IN the_DT certificate_NN may_MD be_VB dispensed_VBN with_IN at_IN the_DT discretion_NN of_IN the_DT issuing_JJ officer_NN ._.
+Appendix_NNP E._NNP ]_VBZ 53_CD (_( Reverse_NNP of_IN Form_NNP ._. )_)
+Name_NN ._.
+How_WRB related_JJ to_TO pass-holder_NN ._.
+Signature_NN ._.
+Designation_NN ._.
+Date_NNP ._.
+Disinfection_NN Certificate_NNP ._.
+I_PRP hereby_VBP certify_VB that_IN having_VBG satisfied_VBN myself_PRP that_IN arrangements_NNS for_IN residence_NN at_IN the_DT site_NN named_VBN by_IN the_DT above_JJ described_NN person_NN (_( and_CC his_PRP$ family_NN )_) were_VBD complete_JJ ,_, I_PRP immediately_RB before_IN his/their_JJ departure_NN carefully_RB disinfected_VBD all_DT clothing_NN and_CC property_NN removed_VBN by_IN him/them_NN Date_NNP Signature_NNP of_IN officer_NN in_IN charge_NN of_IN disinfection_NN ._.
+APPENDIX_NNP E._NNP [_NNP See_NNP Regulation_NNP 40_CD (_( 2_CD )_) on_IN page_NN 23_CD ._. ]_NN
+[_JJ COUNTERFOIL_NNP ._. ]_NN
+No_DT ._.
+Name_NN Father_NNP 's_POS name_NN Street/_NNP Village_NNP Town/_NNP Taluq_NNP District_NNP Date_NNP Initials_NNP of_IN operator_NN ._.
+Plague_NNP Inoculation_NNP Certificate_NNP ._.
+No_DT ._.
+CERTIFIED_NN that_IN ,_, son_NN of_IN ,_, resident_NN of_IN ,_, street/_JJ village_NN town/_NN '_'' taluq_NN '_'' district_NN ,_, has_VBZ been_VBN inoculated_VBN by_IN me_PRP ,_, and_CC that_IN his_PRP$ thumb-mark_NN was_VBD at_IN the_DT time_NN impressed_JJ before_IN me_PRP ._.
+Space_NN for_IN left_JJ thumb-mark_NN ._.
+Signature_NN and_CC designation_NN ._.
+Dated_VBN NOTE_NNP ._.
+Unless_IN suffering_VBG from_IN ,_, or_CC suspected_VBN to_TO be_VB suffering_VBG from_IN ,_, plague_NN ,_, the_DT holder_NN of_IN the_DT certificate_NN is_VBZ exempted_VBN from_IN segregation_NN ,_, from_IN detention_NN when_WRB travelling_NN ,_, and_CC from_IN ten_JJ days_NNS observation_NN under_IN the_DT passport_NN rules_NNS ._.
+It_PRP does_VBZ not_RB ,_, however_RB ,_, exempt_JJ him_PRP from_IN liability_NN to_TO evacuate_VB an_DT infected_JJ house_NN ,_, except_IN in_IN the_DT case_NN where_WRB all_PDT the_DT occupants_NNS of_IN the_DT house_NN have_VBP been_VBN inoculated_VBN ,_, or_CC to_TO have_VB his_PRP$ clothes_NNS disinfected_VBD when_WRB travelling_NN ._.
+The_DT certificate_NN is_VBZ valid_JJ for_IN a_DT period_NN of_IN six_CD months_NNS ._.
+8_CD ?_. 54_CD APPENDIX_NNP F._NNP Plague_NNP Report_NNP ._.
+[_NNS See_NNP Rule_NNP 97_CD on_IN page_NN 45_CD ._. ]_NN
+Plague_NNP Report_NNP Date_NNP No_NNP ._.
+1_CD ._.
+Name_NN of_IN division_NN -_: ._.
+2_CD ._.
+Population-_NNP ._.
+Imported_VBN ._.
+Indigenous_NNP ._.
+3_CD ._.
+Plague_NN cases_NNS up_RB to_TO date_NN of_IN last_JJ report_NN Number_NNP of_IN seizures_NNS -_: ._.
+Number_NNP of_IN deaths_NNS -_: ._.
+Date_NNP of_IN last_JJ report_NN -_: ._.
+4_CD ._.
+Date_NNP of_IN present_JJ attack-_NN ._.
+5_CD ._.
+When_WRB reported_VBN by_IN telegram-_NN ?_.
+6_CD ._.
+Imported_VBN or_CC indigenous-_JJ ?_.
+7_CD ._.
+Brief_JJ history_NN of_IN case-_NN ._.
+8_CD ._.
+If_IN imported_VBN ,_, had_VBD patient_NN a_DT passport_NN on_IN arrival_NN ?_.
+If_IN not_RB ,_, was_VBD he_PRP supplied_VBD with_IN one_CD and_CC kept_VB under_IN surveillance_NN ?_.
+9_CD ._.
+Steps_NNS taken_VBN to_TO isolate_VB and_CC treat_VB the_DT patient-_NN ._.
+10_CD ._.
+Steps_NNS taken_VBN towards_VBP the_DT segregation_NN of_IN contacts-_NN ._.
+11_CD ._.
+Steps_NNS taken_VBN towards_VBP the_DT evacuation_NN and_CC disinfection_NN of_IN the_DT infected_JJ house_NN ._.
+12_CD ._.
+Was_NNP there_EX any_DT opposition_NN on_IN the_DT part_NN of_IN the_DT inmates_NNS of_IN the_DT infected_JJ house_NN or_CC of_IN the_DT people_NNS to_TO the_DT plague_NN measures_NNS ?_.
+13_CD ._.
+Remarks_NNS ._.
+?_. 55_CD APPENDIX_NNP ._.
+G._NNP PART_NNP I.-Allowances_NNP of_IN Officers_NNP deputed_VBD to_TO Plague_NNP Duty_NNP ._.
+[_NNS See_NNP Rule_NNP 119_CD on_IN page_NN 48_CD ._. ]_NN
+Class_NN of_IN officers_NNS ._.
+Particulars_NNS ._.
+Allowances_NNS ._.
+A_DT ._.
+Military_JJ officers_NNS (_( a_DT )_) When_WRB employed_VBN on_IN Nil_NNP ._.
+and_CC troops_NNS ._.
+guard_NN duty_NN ._.
+*_NN (_( b_NN )_) When_WRB employed_VBN on_IN sani-_JJ tary_JJ duty_NN ,_, such_JJ as_IN search-_JJ ing_NN ,_, disinfecting_VBG ,_, superin-_JJ tending_NN ,_, scavengering_VBG ,_, &_CC c._SYM -_: (_( i_NN )_) Combatant_NNP Bri-_NNP Rs_NNP ._.
+300_CD a_DT month_NN ._.
+tish_JJ Commis-_NNP sioned_VBD officers_NNS of_IN over_IN 5_CD years_NNS '_POS service_NN ._.
+(_( ii_NN )_) Combatant.Bri-_NNP Rs_NNP ._.
+200_CD a_DT month_NN ._.
+tish_JJ Commis-_NNP sioned_VBD officers_NNS under_IN 5_CD years_NNS '_POS service_NN ._.
+(_( iii_NN )_) British_JJ non-com-_JJ Rs_NNP ._.
+1_CD +_JJ annas_NNS 6_CD extra_JJ ration_NN missioned_VBD offi-_JJ money_NN per_IN diem_NN ._.
+cers_NNS ._.
+(_( iv_NN )_) British_JJ privates_NNS ._.
+Annas_$ 12_CD +_NNP annas_VBD 6_CD extra_JJ ration_NN money_NN per_IN diem_NN ._.
+(_( v_NN )_) Native_NNP officers_NNS Rs_NNP ._.
+1-8-0_JJ a_DT day_NN ._.
+(_( vi_NN )_) Native_NNP non-com-_JJ Annas_NNP 12_CD a_DT day_NN ._.
+missioned_VBN offi-_JJ cers_NNS ._.
+(_( vii_NN )_) Sepoys_NNP Annas_NNP 8_CD a_DT day_NN ._.
+I_PRP +_VBP +_JJ B_NNP ._.
+Medical_NNP (_( i_NN )_) Commissioned_VBD officers_NNS Same_NNP as_IN in_IN ._.
+the_DT case_NN of_IN British_JJ officers_NNS -wholly_RB transferred_VBN from_IN regi-_JJ commissioned_JJ military_JJ officers_NNS ._.
+employed_VBN on_IN mental_NN or_CC purely_RB mili-_JJ plague_NN duty_NN ._.
+tary_JJ duty_NN ._.
+(_( ii_NN )_) Commissioned_VBD officers_NNS Rs_NNP ._.
+5_CD a_DT day_NN ._.
+in_IN civil_JJ employ_NN ._.
+(_( iii_NN )_) Senior_NNP military_JJ assist-_JJ Rs_NNP ._.
+5_CD a_DT day_NN ._.
+ant_JJ surgeons_NNS with_IN the_DT honorary_JJ rank_NN of_IN Cap-_NNP tain_NN or_CC Lieutenant_NNP ._.
+*_NN When_WRB the_DT troops_NNS employed_VBN on_IN plague_NN duty_NN have_VBP been_VBN performing_VBG guard_NN and_CC sanitary_JJ duties_NNS in_IN the_DT same_JJ place_NN together_RB ,_, that_DT is_VBZ to_TO say_VB ,_, when_WRB some_DT of_IN the_DT party_NN have_VBP been_VBN employed_VBN on_IN sanitary_JJ duties_NNS while_IN others_NNS have_VBP been_VBN doing_VBG guard_JJ duty_NN ,_, the_DT duties_NNS being_VBG interchangeable_JJ ,_, all_PDT the_DT troops_NNS should_MD be_VB paid_VBN allowances_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, where_WRB the_DT duties_NNS assigned_VBN to_TO any_DT one_CD body_NN of_IN troops_NNS have_VBP been_VBN exclusively_RB of_IN the_DT nature_NN of_IN guard_JJ duties_NNS no_DT allowances_NNS should_MD be_VB granted_VBN ._.
+The_DT allowances_NNS shall_MD be_VB paid_VBN only_RB for_IN the_DT days_NNS on_IN which_WDT the_DT troops_NNS are_VBP actually_RB employed_VBN on_IN plague_NN duty_NN ._.
+All_DT doubtful_JJ cases_NNS should_MD be_VB referred_VBN for_IN the_DT special_JJ orders_NNS of_IN Government_NNP ._.
+Medical_JJ officers_NNS whose_WP$ sole_JJ duty_NN is_VBZ the_DT inspection_NN of_IN ships_NNS for_IN plague_NN purposes_NNS are_VBP not_RB entitled_VBN to_TO any_DT special_JJ fee_NN for_IN conducting_VBG inspection_NN in_IN bad_JJ weather_NN ._.
+Port_NNP health_NN officers_NNS who_WP inspect_VBP vessels_NNS from_IN plague-infected_JJ ports_NNS on_IN Sundays_NNP and_CC closed_VBD holidays_NNS will_MD be_VB granted_VBN a_DT special_JJ fee_NN of_IN Rs_NNP ._.
+16_CD for_IN each_DT inspection_NN ,_, but_CC not_RB more_RBR than_IN double_JJ fee_NN in_IN respect_NN to_TO the_DT same_JJ vessel_NN inspected_VBD more_JJR than_IN once_RB on_IN the_DT same_JJ day_NN ._.
+No_DT port_NN health_NN officer_NN shall_MD in_IN any_DT one_CD month_NN receive_NN fees_NNS aggregating_VBG more_JJR than_IN ,_, one-fifth_JJ of_IN his_PRP$ salary_NN ._.
+?_. 56_CD [_JJ Appendix_NNP G._NNP PART_NNP I.-Allowances_NNP of_IN Officers_NNP deputed_VBD ,_, to_TO Plague_NNP Duty-cont_NNP ._.
+Class_NN of_IN officers_NNS ._.
+Particulars_NNS ._.
+Allowances_NNS ._.
+B_NNP ._.
+Medical_JJ officers_NNS (_( iv_NN )_) Military_NNP assistant_NN sur-_JJ Rs_NNP ._.
+3_CD a_DT day_NN ._.
+In_IN addition_NN to_TO any_DT acting_NN ,_, charge_NN or_CC house_NN allowance_IN they_PRP may_MD have_VB been_VBN drawing_VBG at_IN the_DT time_NN of_IN their_PRP$ deputation_NN to_TO plague_VB duty_NN and_CC which_WDT they_PRP would_MD have_VB continued_VBN todraw_JJ draw_NNS but_CC for_IN such_JJ deputation_NN ._.
+wholly_RB em-_JJ geons_NNS in_IN civil_JJ or_CC ployed_VBN on_IN military_JJ employ_NN ,_, on_IN plague_JJ duty-_JJ pay_NN exceeding_VBG Rs_NNP ._.
+cont_NN ._.
+150_CD (_( v_NN )_) Military_NNP assistant_NN sur-_JJ Rs_NNP ._.
+2_CD a_DT day_NN ._.
+geons_NNS in_IN civil_JJ or_CC military_JJ employ_NN ,_, on_IN pay_NN not_RB exceeding_VBG Rs_NNP ._.
+150_CD (_( vi_NN )_) Civil_NNP assistant_NN surgeons_NNS ._.
+Rs_NNP ._.
+2_CD a_DT day_NN ._.
+(_( vii_NN )_) Civil_NNP apothecaries_VBZ Rs_NNP ._.
+25_CD a_DT month_NN ,_, or_CC in_IN the_DT case_NN of_IN men_NNS ,_, who_WP ,_, at_IN the_DT time_NN of_IN their_PRP$ deputation_NN ,_, were_VBD in_IN independent_JJ charge_NN ,_, the_DT full_JJ charge_NN allowance_NN of_IN their_PRP$ grades_NNS ._.
+(_( viii_NN )_) Hospital_NN assistants_NNS Annas_VBP 8_CD a_DT day_NN ._.
+In_IN addition_NN to_TO hous-rent_NN or_CC free_JJ quarters_NNS ,_, but_CC in_IN lien_NN of_IN charge_NN allowance_NN ._.
+engaged_VBN on_IN plague_NN duty_NN involving_VBG personal_JJ risk_NN ,_, such_JJ as_IN attend-_JJ ing_NN on_IN plague_JJ pa-_JJ tients_NNS ._.
+(_( ix_NN )_) Hospital_NN assistants_NNS en-_JJ Rs_NNP ._.
+10_CD a_DT month_NN ._.
+gaged_VBN on_IN light_JJ plague_NN duty_NN ,_, such_JJ as_IN inspection_NN of_IN passen-_JJ gers_NNS ._.
+C._NNP Medical_NNP officers_NNS ,_, (_( 1_CD )_) *_NN Commissioned_VBD Such_JJ local_JJ allowance_NN ,_, not_RB exceeding_VBG one-fifth_NN of_IN the_DT salary_JJ ,_, as_IN may_MD be_VB fixed_VBN in_IN each_DT case_NN by_IN Government_NNP ._.
+The_DT allowance_NN should_MD be_VB given_VBN only_RB to_TO officers_NNS whose_WP$ additional_JJ plague_NN work_NN ,_, such_JJ as_IN that_DT of_IN medical_JJ inspection_NN of_IN passengers_NNS by_IN road_NN or_CC railway_NN ,_, is_VBZ entirely_RB separate_JJ from_IN ,_, and_CC outside_IN the_DT sphere_NN of_IN ,_, their_PRP$ ordinary_JJ duties_NNS and_CC not_RB to_TO officers_NNS whose_WP$ ordinary_JJ and_CC legitimate_JJ work_NN ,_, such_JJ as_IN that_DT of_IN attending_VBG on_IN the_DT sick_NN in_IN hospital_NN ,_, has_VBZ been_VBN increased_VBN owing_VBG to_TO the_DT occurrence_NN of_IN plague_NN ._.
+doing_VBG plague_NN officers_NNS ._.
+work_NN in_IN addi-_JJ tion_NN to_TO their_PRP$ ordinary_JJ duties_NNS ._.
+(_( 2_CD )_) *_NNP Medical_NNP subordinates_NNS ._.
+(_( 3_CD )_) Nurses_NNPS or_CC midwives_NNS *_VBP A_DT special_JJ fee_NN of_IN Rs_NNP ._.
+15_CD will_MD be_VB paid_VBN for_IN every_DT inspection_NN of_IN vessels_NNS conducted_VBN in_IN bad_JJ weather_NN when_WRB it_PRP involves_VBZ extraordinary_JJ risk_NN ._.
+See_NNP note_NN on_IN the_DT previous_JJ page_NN ._.
+When_WRB the_DT out-door_JJ plague_NN work_NN of_IN a_DT medical_JJ subordinate_NN is_VBZ so_RB heavy_JJ as_IN to_TO necessitate_VB the_DT use_NN of_IN a_DT conveyance_NN ,_, carts_NNS or_CC jutkas_NN may_MD be_VB provided_VBN for_IN him_PRP by_IN the_DT local_JJ body_NN concerned_VBN ._.
+The_DT actual_JJ charges_NNS incurred_VBN in_IN the_DT payment_NN of_IN hire_NN should_MD be_VB debited_VBN to_TO 'Contingencies_NNS ._. '_''
+?_. 57_CD Appendix_NNP G._NNP ]_NNP PART_NNP I.-Allowances_NNP of_IN Officers_NNP deputed_VBD to_TO Plague_NNP Duty-cont_NNP ._.
+Class_NN of_IN officers_NNS ._.
+Particulars_NNS ._.
+Allowances_NNS ._.
+D._NNP Plague_NNP supervisors_NNS Allowance_NNP of_IN 25_CD per_IN cent_NN ,_, of_IN belonging_VBG to_TO the_DT Salt_NNP ,_, the_DT salary_JJ +_NN Rs_NNP ._.
+15_CD horse_NN allowance_NN ,_, Abkri_NNP and_CC other_JJ provided_VBD the_DT permanent_JJ pay_NN +_$ 25_CD departments_NNS ._.
+per_IN cent_NN ,_, thereof_NN does_VBZ not_RB fall_VB below_IN Rs_NNP ._.
+80_CD ._.
+E._NNP PART_NNP II.-Salaries_NNP of_IN Officers_NNP temporarily_RB entertained_VBD for_IN Plague_NNP Duty_NNP ._.
+Designation_NN ._.
+Salary_NNP ._.
+Remarks_NNS ._.
+A_DT ._.
+Retired_NNP commissioned_VBD medical_JJ officers_NNS ._.
+Rs_NNP ._.
+500_CD a_DT month_NN (_( in_IN addition_NN to_TO their_PRP$ pensions_NNS which_WDT will_MD continue_VB to_TO be_VB a_DT military_JJ charge_NN )_) ._.
+The_DT officer_NN must_MD have_VB retired_VBN before_IN the_DT 1st_CD April_NNP 1898_CD ,_, and_CC his_PRP$ re-employment_NN must_MD be_VB either_CC on_IN plague_NN duty_NN or_CC in_IN a_DT post_NN which_WDT can_MD not_RB be_VB filled_VBN in_IN the_DT ordinary_JJ way_NN by_IN reason_NN of_IN the_DT officers_NNS ,_, who_WP would_MD ,_, in_IN ordinary_JJ course_NN ,_, be_VB available_JJ for_IN it_PRP being_VBG required_VBN for_IN plague_NN duty_NN ._.
+The_DT appointment_JJ re-_JJ quires_NNS the_DT previous_JJ sanction_NN of_IN the_DT Government_NNP of_IN India_NNP ._.
+*_NN B_NNP ._.
+Temporary_JJ English_JJ doctors_NNS ._.
+Rs_NNP ._.
+500_CD a_DT month_NN or_CC such_JJ salary_JJ as_IN may_MD be_VB fixed_VBN in_IN their_PRP$ agreements_NNS with_IN the_DT Secretary_NNP of_IN State_NNP ._.
+C._NNP Retired_NNP military_JJ assistant_NN surgeons_NNS ,_, Pay_NNP of_IN their_PRP$ grade_NN at_IN the_DT time_NN of_IN retirement_NN +_NN Rs_NNP ._.
+100_CD allowance_NN subject_NN to_TO a_DT maximum_NN of_IN Rs_NNP ._.
+350_CD a_DT mouth_NN ._.
+In_IN special_JJ cases_NNS the_DT Local_JJ Government_NNP may_MD raise_VB the_DT limit_NN to_TO Rs_NNP ._.
+500_CD ._.
+A_DT retired_JJ hono-_JJ rary_NN commissioned_VBD officer_NN of_IN the_DT Indian_JJ Subordinate_NNP Medical_NNP Department_NNP is_VBZ entitled_VBN to_TO double_VB first-_JJ class_NN travelling_VBG allowance_NN by_IN rail_NN ,_, and_CC eight_CD annas_NNS a_DT mile_NN by_IN road_NN ._.
+The_DT officers_NNS should_MD bo_VB required_VBN to_TO produce_VB certificates_NNS of_IN phy-_JJ sical_JJ fitness_NN ,_, and_CC their_PRP$ appoint-_JJ ments_NNS should_MD ,_, in_IN the_DT first_JJ instance_NN ,_, be_VB made_VBN for_IN periods_NNS not_RB exceeding_VBG six_CD months_NNS ._.
+*_IN The_DT Secretary_NNP of_IN State_NNP has_VBZ ._.
+._.
+._.
+laid_JJ stress_NN on_IN the_DT need_NN for_IN showing_VBG consider-_JJ ation_NN towards_NNS doctors_NNS and_CC nurses_NNS sent_VBD from_IN England_NNP for_IN plague_NN duty_NN in_IN this_DT country_NN ,_, and_CC the_DT Government_NNP of_IN India_NNP have_VBP decided_VBN that_IN some_DT liberality_NN should_MD be_VB exercised_VBN in_IN the_DT grant_NN of_IN allowances_NNS to_TO nurses_NNS to_TO defray_VB such_JJ expenses_NNS as_IN they_PRP may_MD be_VB called_VBN upon_IN to_TO incur_VB in_IN the_DT discharge_NN of_IN their_PRP$ duties_NNS ,_, and_CC that_IN they_PRP should_MD not_RB be_VB expected_VBN to_TO defray_VB the_DT cost_NN of_IN carriage_NN from_IN their_PRP$ salary_NN ._.
+58_CD [_JJ Appendix_NNP G._NNP PART_NNP II.-_NNP Salaries_NNP of_IN Officers_NNP temporarily_RB entertained_VBD for_IN Plague_NNP Duty-cont_NNP ._.
+Designation_NN ._.
+Salary_NNP ._.
+Remarks_NNS ._.
+D._NNP Uncovenanted_NNP medical_JJ officers_NNS ._.
+Such_JJ pay_NN not_RB exceeding_VBG Rs_NNP ._.
+350_CD a_DT month_NN as_IN the_DT Sur-_NNP geon-General_JJ may_MD find_VB necessary_JJ ,_, with_IN travelling_VBG allowances_NNS to_TO and_CC from_IN the_DT places_NNS to_TO which_WDT they_PRP are_VBP posted_VBN at_IN the_DT rates_NNS of_IN double_JJ second-class_JJ fares_NNS for_IN journeys_NNS by_IN rail_NN and_CC annas_$ 4_CD a_DT mile_NN for_IN journeys_NNS by_IN road_NN ._.
+The_DT term_NN of_IN employment_NN may_MD ,_, subject_VB to_TO their_PRP$ good_JJ conduct_NN and_CC efficiency_NN ,_, be_VB for_IN a_DT period_NN of_IN three_CD months_NNS ;_: the_DT engage-_JJ ment_NN being_VBG terminable_JJ after_IN the_DT expiry_NN of_IN the_DT first_JJ two_CD months_NNS by_IN a_DT written_VBN notice_NN given_VBN by_IN either_CC the_DT Government_NNP or_CC the_DT officer_NN ._.
+E._NNP Temporary_NNP civil_JJ assistant_NN sur-_JJ geons_NNS ._.
+Pay_NNP Rs_NNP ._.
+100_CD a_DT month_NN +_JJ allowance_NN of_IN Rs_NNP ._.
+2_CD a_DT day_NN ,_, with_IN travelling_VBG allowance_NN to_TO and_CC from_IN the_DT place_NN to_TO which_WDT they_PRP are_VBP appointed_VBN ._.
+..._: ..._: F._NNP Private_NNP hospital_NN assistants_NNS ._.
+Pay_NN assigned_VBN to_TO the_DT corre-_JJ sponding_NN grades_NNS of_IN hospital_NN assistants_NNS in_IN Government_NNP service_NN +_VBD 50_CD per_IN cent_NN ._.
+thereof_NN with_IN compensation_NN for_IN quarters_NNS ._.
+..._: ..._: F1_NNP ._.
+Retired_NNP hospital_NN assistants_NNS ._.
+Pay_NN of_IN their_PRP$ grade_NN at_IN the_DT time_NN of_IN retirement_NN (_( in_IN addition_NN to_TO their_PRP$ pension_NN )_) ._.
+*_JJ G._NNP Lady_NNP nurses_NNS obtained_VBD from_IN England_NNP ._.
+(_( a_DT )_) Rs_NNP ._.
+175_CD a_DT month_NN in_IN addition_NN to_TO free_VB quar-_JJ ters_NNS ,_, fuel_NN ,_, lights_NNS and_CC punkahpullers_NNS ,_, com-_JJ mencing_NN from_IN date_NN of_IN embarkation_NN to_TO India_NNP ;_: If_IN free_JJ quarters_NNS are_VBP not_RB provided_VBN ,_, an_DT allowance_NN of_IN Rs_NNP ._.
+3_CD a_DT day_NN should_MD be_VB paid_VBN ._.
+(_( b_NN )_) double_JJ first-class_NN fare_NN by_IN rail_NN when_WRB travelling_VBG on_IN duty_NN ;_: (_( c_VB )_) first-class_NN passage_NN when_WRB proceeding_NN by_IN steamer_NN from_IN one_CD part_NN of_IN India_NNP to_TO another_DT on_IN duty_NN ._.
+H._NNP Qualified_NNP Euro-_NNP pean_NN ,_, Eurasian_JJ or_CC Native_JJ nurses_NNS locally_RB recruit-_JJ ed_NN ._.
+Such_JJ pay_NN not_RB ordinarily_RB exceeding_VBG Rs_NNP ._.
+75_CD a_DT month_NN with_IN free_JJ quarters_NNS or_CC Rs_NNP ._.
+10_CD for_IN house_NN rent_NN ._.
+When_WRB the_DT nurses_NNS attend_VBP on_IN plague_NN patients_NNS ,_, a_DT boarding_VBG allowance_NN of_IN Rs_NNP ._.
+1-8-0_JJ a_DT day_NN in_IN the_DT case_NN of_IN Europeans_NNPS and_CC Eurasians_NNPS ,_, or_CC one_CD rupee_NN in_IN the_DT case_NN of_IN natives_NNS should_MD be_VB paid_VBN ._.
+When_WRB employed_VBN on_IN duties_NNS en-_JJ tailing_VBG a_DT considerable_JJ amount_NN of_IN moving_VBG about_IN within_IN a_DT limited_JJ area_NN and_CC necessitating_VBG the_DT frequent_JJ hiring_NN of_IN vehicles_NNS ,_, they_PRP may_MD be_VB paid_VBN actual_JJ con-_JJ veyance_NN allowances_NNS irrespective_NN of_IN the_DT five_CD miles_NNS limit_RB pres-_JJ cribed_NN in_IN article_NN 1157_CD of_IN the_DT Civil_NNP Service_NNP Regulations_NNP ._.
+For_IN terms_NNS on_IN which_WDT caste_NN native_JJ nurses_NNS may_MD be_VB trained_VBN ,_, see_VBP G.O._NNP ,_, No_NNP ._.
+1835-P._JJ ,_, dated_VBD 23rd_CD December_NNP 1899_CD ._.
+*_JJ See_NNP note_NN *_NN on_IN the_DT previous_JJ page_NN ._.
+?_. 59_CD Appendix_NNP G-_NNP ._. ]_NN
+PART_NNP II.-Salaries_NNS of_IN Officers_NNP temporarily_RB entertained_VBD for_IN Plague_NNP Duty-cont_NNP ._.
+Designation_NN ._.
+Salary_NNP ._.
+Remarks_NNS ._.
+J._NNP private_JJ persons_NNS appointed_VBN as_IN plague_NN supervisors_NNS Rs_NNP ._.
+2_CD a_DT day_NN +_NNP Rs_NNP ._.
+15_CD ,_, horse_NN allowance_NN ._.
+Such_JJ supervisors_NNS should_MD usually_RB be_VB Europeans_NNPS or_CC Eurasians_NNPS ._.
+They_PRP need_VBP not_RB be_VB appointed_VBN unless_IN the_DT outbreak_NN of_IN plague_NN requires_VBZ a_DT special_JJ organization_NN to_TO deal_VB with_IN it_PRP ._.
+K_NNP ..._: ..._: ..._: ..._: L._NNP ..._: ..._: ..._: ..._: M_NNP ..._: ..._: ..._: ..._: N._NNP Other_JJ temporary_JJ subordinates_NNS including_VBG menial_JJ servants_NNS ._.
+Such_JJ rates_NNS as_IN would_MD be_VB sufficient_JJ to_TO induce_VB persons_NNS to_TO take_VB up_RP the_DT appointments_NNS ._.
+Menial_JJ servants_NNS are_VBP not_RB eligible_JJ for_IN any_DT allowances_NNS ,_, and_CC should_MD be_VB conveyed_VBN from_IN place_NN to_TO place_NN at_IN the_DT cost_NN of_IN Government_NNP ._.

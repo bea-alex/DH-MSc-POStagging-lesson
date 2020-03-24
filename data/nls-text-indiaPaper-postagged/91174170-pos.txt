@@ -1,0 +1,49 @@
+ANNUAL_NNP REPORT_NNP ON_NNP VACCINATION_NNP IN_NNP MYSORE_NNP ,_, 1879-80_JJ ._.
+(_( WITH_IN THE_DT CHIEF_NNP COMMISSIONER_NNP 'S_POS REVIEW_NNP THEREON_NNP ._. )_)
+Proceedings_NNS of_IN the_DT Chief_NNP Commissioner_NNP of_IN Mysore_NNP in_IN the_DT General_NNP Department_NNP ,_, (_( General_NNP )_) ,_, ANNUAL_NNP REPORT_NNP ON_NNP VACCINATION_NNP IN_NNP MYSORE_NNP FOR_NNP 18792_CD 8_CD ._.
+As_IN regards_NNS the_DT sex_NN of_IN children_NNS vaccinated_VBN ,_, males_NNS predominate_VBP ._.
+The_DT total_JJ num-_JJ ber_NN 88,785_CD is_VBZ made_VBN up_IN of_IN 51,598_CD males_NNS and_CC 37,187_CD females_NNS ._.
+9_CD ._.
+The_DT births_NNS registered_VBN in_IN Mysore_NNP during_IN the_DT year_NN 1879_CD amount_NN to_TO 49,666_CD ._.
+The_DT number_NN of_IN infants_NNS under_IN one_CD year_NN successfully_RB vaccinated_VBN is_VBZ nearly_RB 14,000_CD or_CC 28.2_CD per_IN cent_NN of_IN births_NNS registered_VBN in_IN 1879_CD ,_, and_CC the_DT total_JJ number_NN vaccinated_VBN is_VBZ about_IN twice_RB the_DT number_NN born_VBN during_IN that_DT period_NN ._.
+Children_NNP above_IN 6_CD years_NNS of_IN age_NN form_NN the_DT majority_NN ,_, acircumstance_NN which_WDT proves_VBZ that_IN the_DT operation_NN is_VBZ not_RB had_VBN recourse_VBN to_TO sufficiently_RB early_RB ._.
+10_CD ._.
+One_CD thousand_CD one_CD hundred_CD and_CC four_CD re-vaccination_NN operations_NNS are_VBP reported_VBN ,_, of_IN which_WDT 831_CD or_CC 75.2_CD per_IN cent_NN are_VBP said_VBD to_TO have_VB succeeded_VBN ._.
+11_CD ._.
+The_DT total_JJ cost_NN of_IN the_DT Department_NNP amounted_VBD to_TO Rs_NNP ._.
+10,0653_CD These_DT results_NNS are_VBP reliable_JJ and_CC the_DT fact_NN that_IN 42_CD per_IN cent_NN of_IN the_DT children_NNS examined_VBN were_VBD protected_VBN is_VBZ in_IN itself_PRP an_DT indication_NN that_WDT vaccination_NN in_IN the_DT Province_NNP is_VBZ attended_VBN with_IN a_DT fair_JJ amount_NN of_IN success_NN ._.
+16_CD ._.
+District_NNP Officers_NNP while_IN on_IN circuit_NN in_IN the_DT Province_NNP have_VBP frequent_JJ opportunities_NNS of_IN acquainting_VBG themselves_PRP with_IN the_DT state_NN of_IN vaccination_NN ._.
+The_DT Deputy_NNP Commissioners_NNP of_IN Bangalore_NNP ,_, Kolar_NNP and_CC Túmkúr_NNP give_VBP the_DT general_JJ result_NN of_IN their_PRP$ inspection_NN as_IN follows:5_NN A_NNP ._.
+VACCINE_NNP DEPARTMENT_NNP ._.
+Statement_JJ No_NNP ._.
+I_PRP shewing_VBG Particulars_NNS of_IN Vaccination_NNP in_IN the_DT Province_NNP of_IN Mysore_NNP during_IN the_DT year_NN 18796_CD Statement_NNP No_NNP ._.
+I7_NNP Statement_NNP No_NNP ._.
+II_NNP shewing_VBG the_DT Cost_NN of_IN the_DT Department_NNP in_IN the_DT Province_NNP of_IN Mysore_NNP during_IN the_DT year_NN 18798_CD B._NNP DISPENSARY_NNP VACCINATION_NNP ._.
+Statement_JJ No_NNP ._.
+III_NNP shewing_VBG Dispensary_NNP Vaccination_NNP in_IN the_DT Province_NNP of_IN Mysore_NNP during_IN the_DT year_NN 18799_CD COMPARATIVE_NNP STATEMENT_NNP NO_NNP ._.
+IV_NNP ._.
+Shewing_VBG the_DT number_NN of_IN Persons_NNP primarily_RB vaccinated_VBD and_CC the_DT number_NN of_IN those_DT Persons_NNS who_WP were_VBD successfully_RB vaccinated_VBN in_IN the_DT Province_NNP of_IN Mysore_NNP in_IN each_DT of_IN the_DT undermentioned_JJ official_JJ years_NNS ._.
+Establishments_NNS ._.
+Persons_NNS primarily_RB vaccinated_VBN ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Total_JJ Number_NNP ._.
+Number_NNP successfully_RB vaccinated_VBD ._.
+Years_NNS ended_VBD 31st_CD March_NNP

@@ -1,0 +1,910 @@
+REPORT_NNP ON_NNP SANITATION_NNP ,_, DISPENSARIES_NNP ,_, AND_NNP JAILS_NNP IN_NNP RAJPUTANA_NNP FOR_NNP 1914_CD ,_, AND_CC ON_NNP VACCINATION_NNP FOR_IN THE_NNP YEAR_NNP 1914-1915_CD ._.
+Published_VBN by_IN Authority_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1915_CD Price_NNP Rs_NNP ._.
+2_CD or_CC 3s_CD ._.
+REPORT_NNP ON_NNP SANITATION_NNP ,_, DISPENSARIES_NNP ,_, AND_NNP JAILS_NNP IN_NNP RAJPUTANA_NNP FOR_NNP 1914_CD ,_, AND_CC ON_NNP VACCINATION_NNP FOR_IN THE_NNP YEAR_NNP 1914-1915_CD ._.
+Published_VBN by_IN Authority_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP CALCUTTA_NNP SUPERINTENDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP 1915_CD REPORT_NNP ON_NNP SANITATION_NNP ,_, DISPENSARIES_NNP ,_, AND_NNP JAILS_NNP IN_NNP RAJPUTANA_NNP FOR_NNP 1914_CD ,_, AND_CC ON_NNP VACCINATION_NNP FOR_IN THE_NNP YEAR_NNP 1914-1915_CD ._.
+SECTION_NN I.2_NNP VITAL_NNP STATISTICS_NNP IN_NNP AJMER-MERWARA_NNP ._.
+Number_NNP of_IN Cholera_NNP cases_NNS and_CC deaths_NNS reported_VBN in_IN Ajmer_NNP Merwara_NNP and_CC in_IN Rajputana_NNP during_IN the_DT year_NN 1914_CD ._.
+Name_NN of_IN District_NNP or_CC State_NNP ._.
+MARCH_NNP ._.
+APRIL_NNP ._.
+MAY_NNP ._.
+JUNE_NNP ._.
+JULY_NNP ._.
+AUGUST_NNP ._.
+SEPTEMBER_NNP ._.
+OCTOBER_NNP ._.
+TOTAL_NN ._.
+Percentage_NN of_IN deaths_NNS to_TO cases_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Ajmer-Merwara_NNP ._.
+8_CD 7_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD 2_CD ..._: ..._: ..._: ..._: 10_CD 9_CD 90.00_CD TOTAL_NN ._.
+8_CD 7_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD 2_CD ..._: ..._: ..._: ..._: 10_CD 9_CD 90.00_CD Tonk_NNP City_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 194_CD 79_CD 109_CD 37_CD ..._: ..._: 303_CD 116_CD 38.28_CD Tonk_NNP State_NNP ._.
+..._: ..._: 136_CD 74_CD 5_CD 5_CD 36_CD 14_CD 11_CD 8_CD ..._: ..._: ..._: ..._: ..._: ..._: 188_CD 101_CD 53.72_CD Bikaner_NNP City_NNP ._.
+..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 0.00_CD Rajputana_NNP Bikaner_NNP State_NNP ._.
+..._: ..._: ..._: ..._: 139_CD 58_CD 30_CD 19_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 169_CD 77_CD 45.56_CD Kotah_NNP City_NNP ._.
+._.
+..._: ..._: ..._: ..._: 566_CD 298_CD 92_CD 42_CD 29_CD 13_CD ..._: ..._: ..._: ..._: ..._: ..._: 687_CD 353_CD 51.38_CD Kotah_NNP State_NNP ._.
+..._: ..._: ..._: ..._: 307_CD 170_CD 506_CD 300_CD 30_CD 15_CD 410_CD 163_CD 56_CD 26_CD 3_CD 3_CD 1,312_CD 677_CD 51.60_CD Jhulrapatan_NNP City_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 67_CD 37_CD 4_CD 2_CD ..._: ..._: ..._: ..._: 71_CD 39_CD 54.93_CD Jhalawar_NNP State_NNP ._.
+..._: ..._: ..._: ..._: 10_CD 5_CD ..._: ..._: 222_CD 98_CD 57_CD 32_CD 3_CD 2_CD ..._: ..._: 292_CD 137_CD 46.92_CD Marwar_NNP State_NNP ._.
+..._: ..._: ..._: ..._: 3_CD 2_CD 7_CD 5_CD ..._: ..._: 98_CD 70_CD 3_CD 2_CD ..._: ..._: 111_CD 79_CD 71.17_CD Bharatpur_NNP City_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 0.00_CD Bharatpur_NNP State_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: 13_CD 8_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 13_CD 8_CD 61.54_CD Jaipur_NNP State_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: 10_CD 8_CD 26_CD 23_CD ..._: ..._: ..._: ..._: ..._: ..._: 36_CD 31_CD 86.11_CD Alwar_NNP City_NNP ._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ._. ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 0.00_CD TOTAL_NN ._.
+..._: ..._: 137_CD 74_CD 1,030_CD 538_CD 694_CD 396_CD 386_CD 194_CD 764_CD 346_CD 171_CD 67_CD 3_CD 3_CD 3,185_CD 1,618_CD 50.80_CD GRAND_NNP TOTAL_NNP ._.
+8_CD 7_CD 137_CD 74_CD 1,030_CD 538_CD 694_CD 396_CD 386_CD 194_CD 766_CD 348_CD 171_CD 67_CD 3_CD 3_CD 3,195_CD 1,627_CD 50.92_CD VITAL_NNP STATISTICS_NNPS AND_NNP SANITATION_NNP IN_NNP RAJPUTANA_NNP ._.
+3_CD Ajmer-Merwara_JJ ._.
+7_CD ._.
+Only_RB 10_CD cases_NNS of_IN Cholera_NNP were_VBD reported_VBN in_IN Ajmer-Merwara_NNP ,_, of_IN which_WDT 9proved_CD fatal_NN ._.
+Of_IN these_DT 8_CD cases_NNS and_CC 7_CD deaths_NNS occurred_VBD in_IN March_NNP and_CC 2_CD cases_NNS and_CC 2_CD deaths_NNS in_IN August_NNP 1914_CD against_IN nil_NN in_IN 1913_CD ._.
+Native_JJ States_NNS ._.
+8_CD ._.
+During_IN the_DT year_NN 3,185_CD cases_NNS of_IN Cholera_NNP were_VBD reported_VBN from_IN the_DT NativeStates_NNP of_IN Rajputana_NNP ,_, of_IN which_WDT 1,618_CD proved_VBD fatal_JJ against_IN 6,533_CD cases_NNS and_CC 4,085_CD deaths_NNS in_IN the_DT previous_JJ year_NN ._.
+9_CD ._.
+In_IN April_NNP Cholera_NNP broke_VBD out_RP in_IN Tonk_NNP and_CC Bikaner_NNP about_IN the_DT same_JJ time_NN and_CC extended_VBD to_TO Kotah_NNP ,_, Jhalawar_NNP ,_, Marwar_NNP ,_, Bharatpur_NNP ,_, Jaipur_NNP and_CC Alwar_NNP ._.
+10_CD ._.
+In_IN Kotah_NNP 1,999_CD attacks_NNS and_CC 1,030_CD deaths_NNS were_VBD reported_VBN from_IN 7th_CD May_NNP to_TO 4th_CD October_NNP ,_, of_IN these_DT 687_CD seizures_NNS and_CC 353_CD deaths_NNS occurred_VBD in_IN Kotah_NNP city_NN ;_: in_IN Tonk_NNP 491_CD cases_NNS and_CC 217_CD deaths_NNS from_IN April_NNP to_TO September_NNP ,_, of_IN these_DT 303_CD cases_NNS and_CC 116_CD deaths_NNS occurred_VBD in_IN Tonk_NNP city_NN ;_: in_IN Jhalawar_NNP 363_CD cases_NNS and_CC 176_CD deaths_NNS and_CC in_IN Bikaner_NNP 170_CD cases_NNS and_CC 77_CD deaths_NNS ,_, 11_CD ._.
+Usual_JJ measures_NNS for_IN its_PRP$ eradication_NN were_VBD taken_VBN ._.
+12_CD ._.
+No_DT Cholera_NNP map_NN is_VBZ necessary_JJ ._.
+SANITATION_NNP ._.
+Ajmer_NNP City_NNP ._.
+13_CD ._.
+The_DT scheme_NN for_IN the_DT supplemental_JJ water_NN supply_NN in_IN the_DT City_NNP of_IN Ajmerfrom_NNP Bhaonta_NNP is_VBZ nearly_RB completed_VBN ._.
+The_DT pumping_NN is_VBZ expected_VBN to_TO begin_VB with_IN effectfrom_PDT the_DT 1st_CD April_NNP 1915_CD ._.
+The_DT question_NN regarding_VBG acquisition_NN of_IN land_NN is_VBZ being_VBG dealt_VBN with_IN by_IN the_DT authorities_NNS concerned_VBN ._.
+14_CD ._.
+The_DT steam_NN tramway_RB now_RB performs_VBZ valuable_JJ work_NN for_IN all_DT conservancy_NN purposes_NNS from_IN the_DT conservancy_NN tramway_NN station_NN to_TO the_DT trenching_NN ground_NN ._.
+15_CD ._.
+Three_CD incinerators_NNS are_VBP still_RB in_IN use_NN and_CC sanction_NN for_IN the_DT construction_NN of_IN several_JJ more_JJR has_VBZ been_VBN accorded_VBN but_CC they_PRP have_VBP not_RB yet_RB been_VBN erected_VBN ._.
+16_CD ._.
+One_CD two_CD seated_VBN galvanized_VBD iron_NN latrine_NN ,_, one_CD four_CD seated_VBN and_CC two_CD two_CD seated_VBN urinals_NNS have_VBP been_VBN provided_VBN in_IN the_DT Suburbs_NNP and_CC one_CD one_CD seated_VBN urinal_JJ in_IN the_DT City_NNP ._.
+17_CD ._.
+The_DT Sanitary_JJ arrangements_NNS are_VBP insufficient_JJ and_CC very_RB backward_RB and_CC required_VBN special_JJ attention_NN of_IN the_DT Municipal_NNP Department_NNP ._.
+18_CD ._.
+Beawar.4_NNP VITAL_NNP STATISTICS_NNP IN_NNP NATIVE_NNP STATES_NNPS ._.
+24_CD ._.
+Bikaner.VACCINATION_NNP AND_NNP DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+5_CD and_CC successful_JJ vaccination_NN seen_VBN by_IN Residency_NNP or_CC Agency_NNP Surgeons_NNP in_IN Native_NNP States:6_NNP DISPENSARIES_NNP IN_NNP RAJPTJTANA_NNP ._.
+45_CD ._.
+Kotah.DISPENSARIES_NNP AND_NNP PLAGUE_NNP IN_NNP RAJPUTANA_NNP ._.
+7_CD Scurvy_NNP ._.
+55_CD ._.
+933_CD cases_NNS of_IN scurvy_NN were_VBD treated_VBN against_IN 939_CD in_IN 1913_CD and_CC 955_CD in_IN 1912_CD ._.
+Leprosy_NNP ._.
+56_CD ._.
+513_CD Lepers_NNS received_VBD treatment_NN as_IN compared_VBN with_IN 454_CD in_IN 1913_CD and_CC 487_CD in_IN 1912_CD ._.
+No_DT special_JJ reports_NNS on_IN the_DT use_NN of_IN Nestin_NNP have_VBP been_VBN received_VBN ._.
+Lieutenant-Colonel_NNP J._NNP Fisher_NNP ,_, D.S.O._NNP ,_, I.M.S._NNP ,_, Residency_NNP Surgeon_NNP ,_, Jaipur_NNP ,_, reports_VBZ that_IN 22_CD lepers_NNS were_VBD treated_VBN with_IN William_NNP 's_POS Leproline_NNP ._.
+57_CD ._.
+The_DT Agency_NNP Surgeon_NNP ,_, Eastern_NNP Rajputana_NNP States_NNPS ,_, reports_NNS that_IN out_IN of_IN the_DT 50_CD lepers_NNS treated_VBN in_IN the_DT Bharatpur_NNP State_NNP ,_, 13_CD received_VBD treatment_NN in_IN the_DT Victoria_NNP Hospital_NNP with_IN William_NNP 's_POS Leproline_NNP ,_, of_IN these_DT 2_CD were_VBD practically_RB cured_VBN while_IN the_DT others_NNS did_VBD not_RB stay_VB long_RB enough_RB for_IN treatment_NN ._.
+58_CD ._.
+At_IN Jodhpur_NNP lepers_NNS are_VBP segregated_VBN at_IN the_DT Leper_NNP Asylum_NNP at_IN Nimba_NNP Nimri_NNP 8_CD miles_NNS from_IN the_DT Jodhpur_NNP City_NNP ._.
+The_DT sick_NN are_VBP attended_VBN to_TO by_IN a_DT Compoun-_JJ der_NN under_IN the_DT supervision_NN of_IN the_DT Sanitary_NNP Sub-Assistant_NNP Surgeon_NNP who_WP pays_VBZ periodical_JJ visits_NNS to_TO the_DT Asylum_NNP ._.
+Plague_NN ._.
+59_CD ._.
+During_IN the_DT year_NN from_IN 1st_CD April_NNP 1914_CD to_TO 31st_CD March_NNP 1915_CD ,_, 570_CD cases_NNS of_IN plague_NN and_CC 458_CD deaths_NNS were_VBD reported_VBN in_IN 44_CD towns_NNS and_CC villages_NNS infected_VBN in_IN the_DT Native_NNP States_NNPS in_IN Rajputana_NNP against_IN 2,286_CD seizures_NNS and_CC 1,885_CD deaths_NNS in_IN 103_CD towns_NNS and_CC villages_NNS in_IN 1913-14_CD ._.
+The_DT District_NNP of_IN Ajmer-_NNP Merwara_NNP remained_VBD free_JJ from_IN the_DT disease_NN throughout_IN the_DT year_NN ._.
+The_DT percentage_NN of_IN total_JJ plague_JJ deaths_NNS to_TO population_NN was_VBD 1.38_CD as_IN compared_VBN with_IN 1.37_CD in_IN the_DT previous_JJ year_NN (_( vide_IN table_NN attached_VBN )_) ._.
+Native_JJ States_NNS ._.
+60_CD ._.
+The_DT disease_NN lingered_VBD from_IN the_DT preceding_VBG year_NN until_IN May_NNP ,_, 1914_CD re-_NN appeared_VBD in_IN November_NNP and_CC is_VBZ still_RB in_IN existence_NN ._.
+The_DT epidemic_JJ affected_VBD 5_CD Native_JJ States_NNPS as_IN compared_VBN with_IN seven_CD States_NNS in_IN the_DT previous_JJ year_NN ._.
+61_CD ._.
+Jaipur.8_NNP DISPENSARIES_NNP AND_NNP PLAGUE_NNP IN_NNP RAJPUTANA_NNP ._.
+Compounders_NNS were_VBD opened_VBN on_IN the_DT roads_NNS leading_VBG from_IN Malakhera_NNP when_WRB plague_NN broke_VBD out_RP ._.
+The_DT train_NN Inspection_NN at_IN Alwar_NNP and_CC Rajgarh_NNP Stations_NNP continued_VBD throughout_IN ._.
+68_CD ._.
+Practically_RB the_DT whole_NN of_IN the_DT male_JJ population_NN of_IN the_DT town_NN were_VBD in-_JJ oculated_VBN by_IN the_DT State_NNP Surgeon_NNP as_RB well_RB as_IN some_DT 50_CD females_NNS by_IN a_DT Female_NNP Sub-_NNP Assistant_NNP Surgeon_NNP ._.
+The_DT Capital_NNP remained_VBD free_JJ ._.
+69_CD ._.
+In_IN Marwar_NNP posts_NNS of_IN plague_JJ inspection_NN were_VBD re-opened_VBN at_IN Jodhpur_NNP ,_, Barmer_NNP ,_, Kuchaman_NNP Road_NNP ,_, and_CC Marwar_NNP Junction_NNP in_IN February_NNP having_VBG formerly_RB been_VBN abolished_VBN by_IN the_DT orders_NNS of_IN the_DT Council_NNP of_IN Regency_NNP ._.
+70_CD ._.
+Evacuation_NN has_VBZ been_VBN very_RB readily_RB carried_VBN out_RP in_IN infected_JJ towns_NNS and_CC villages_NNS which_WDT is_VBZ appreciated_VBN by_IN the_DT villagers_NNS themselves_PRP ._.
+71_CD ._.
+As_IN the_DT plague_NN out-break_NN in_IN Rajputana_NNP was_VBD comparatively_RB slight_JJ ,_, no_DT map_NN has_VBZ been_VBN attached_VBN with_IN this_DT report_NN ._.
+Snake_NNP poisoning_NN ._.
+72_CD ._.
+Calmette_NNP 's_POS Anti-venine_NN is_VBZ kept_VBN in_IN stock_NN in_IN most_JJS of_IN the_DT main_JJ dispen-_JJ saries_NNS and_CC used_VBN for_IN the_DT treatment_NN of_IN snake_NN poisoning_NN when_WRB opportunity_NN offers_NNS ._.
+STATEMENT_NNP F._NNP Class_NNP and_CC sex_NN of_IN patients_NNS ._.
+73_CD ._.
+From_IN this_DT statement_NN it_PRP will_MD be_VB seen_VBN that_IN 1,900_CD Europeans_NNPS and_CC Eura-_NNP sians_NNS ,_, 1,024,444_CD Hindus_NNP ,_, 406,035_CD Muhammadans_NNPS and_CC 88,406_CD patients_NNS of_IN other_JJ classes_NNS were_VBD treated_VBN in_IN the_DT dispen-_JJ saries_NNS of_IN Ajmer-Merwara_NNP and_CC of_IN Native_NNP States_NNPS in_IN Rajputana_NNP as_IN compared_VBN with_IN 1,727_CD ,_, 988,788_CD ,_, 390,893_CD ,_, and_CC 89,075_CD respectively_RB in_IN 1913_CD ._.
+STATEMENT_NNP G._NNP 74_CD ._.
+The_DT number_NN of_IN surgical_JJ operations_NNS performed_VBD during_IN the_DT year_NN in_IN Ajmer-Merwara_NNP and_CC in_IN Native_NNP States_NNP was_VBD 75,416_CD against_IN 72,193_CD ,_, or_CC an_DT increase_NN of_IN 3,223_CD ._.
+The_DT number_NN of_IN patients_NNS operated_VBN on_IN was_VBD 75,181_CD as_IN compared_VBN with_IN 71,792_CD in_IN 1913_CD ._.
+Of_IN these_DT the_DT cures_NNS amounted_VBD to_TO 74,047_CD ,_, the_DT number_NN relieved_VBD 524_CD ,_, discharged_VBD otherwise_RB 230_CD ,_, and_CC died_VBD 121_CD ;_: against_IN 70,490_CD ,_, 587_CD ,_, 290_CD ,_, and_CC 114_CD in_IN the_DT previous_JJ year_NN ,_, while_IN 259_CD remained_VBD under_IN treatment_NN at_IN the_DT end_NN of_IN the_DT year_NN ._.
+75_CD ._.
+Of_IN the_DT operations_NNS performed_VBD 2,387_CD were_VBD extractions_NNS of_IN the_DT lens_NNS for_IN Cataract_NNP of_IN which_WDT 2,125_CD or_CC 89.02_CD per_IN cent_NN ._.
+proved_VBN successful_JJ ,_, 54_CD Lithotomies_NNS ,_, 193_CD Litholapaxies_NNS and_CC 173_CD Amputations_NNS against_IN 2,315_CD extractions_NNS of_IN the_DT lens_NNS for_IN Cataract_NNP ,_, 68_CD Lithotomies_NNS ,_, 168_CD Litholapaxies_NNS and_CC 201_CD Amputations_NNS in_IN 1913_CD ._.
+76_CD ._.
+445_CD abdominal_JJ operations_NNS were_VBD done_VBN of_IN which_WDT 34_CD proved_VBD fatal_JJ ._.
+Of_IN these_DT 363_CD were_VBD Paracentesis_NNP of_IN Abdomen_NNP ,_, with_IN 18_CD deaths_NNS ,_, and_CC 7_CD Abscess_NNP of_IN the_DT Liver_NNP with_IN no_DT deaths_NNS ._.
+77_CD ._.
+1,920_CD operations_NNS were_VBD performed_VBN at_IN the_DT Victoria_NNP Hospital_NNP ,_, Ajmer_NNP ,_, with_IN 6_CD deaths_NNS as_IN compared_VBN with_IN 1,809_CD operations_NNS with_IN 4_CD deaths_NNS in_IN the_DT previous_JJ year_NN of_IN these_DT 64_CD were_VBD Extraction_NNP of_IN the_DT lens_NNS for_IN Cataract_NNP ,_, 43_CD Iridectomies_NNS 15_CD Litholapaxies_NNS ,_, 3_CD Radical_JJ cure_NN of_IN Hernia_NNP ,_, 13_CD Excision_NN of_IN Cysts_NNS ,_, 1_CD Laparotomy_NNP and_CC 8_CD Amputations_NNS ._.
+78_CD ._.
+2,011_CD operations_NNS of_IN all_DT kinds_NNS were_VBD performed_VBN at_IN the_DT Mayo_NNP Hospital_NNP ,_, Jaipur_NNP ,_, with_IN 20_CD deaths_NNS against_IN 2,171_CD operations_NNS with_IN 23_CD deaths_NNS in_IN the_DT previous_JJ year_NN ,_, of_IN these_DT 437_CD were_VBD extraction_NN of_IN the_DT lens_NNS for_IN Cataract_NNP ._.
+Lieutenant-Colonel_NNP J._NNP Fisher_NNP ,_, D.S.O._NNP ,_, I.M.S._NNP ,_, operated_VBD on_IN 357_CD ,_, Rai_NNP Bahadur_NNP Assistant_NNP Surgeon_NNP Daljang_NNP Singh_NNP Khanka_NNP on_IN 77_CD and_CC Dr._NNP Panna_NNP Lal_NNP Dass_NNP on_IN 3_CD Cataract_JJ cases_NNS ._.
+79_CD ._.
+56_CD operations_NNS were_VBD performed_VBN for_IN vesical_JJ stone_NN by_IN litholapaxy_NN with_IN 4_CD deaths_NNS ._.
+The_DT largest_JJS stone_NN weighed_VBD 760_CD grains_NNS and_CC was_VBD composed_VBN of_IN Phosphates_NNS ._.
+80_CD ._.
+One_CD Lateral_NNP Lithotomy_NNP was_VBD performed_VBN the_DT case_NN died_VBD ._.
+81_CD ._.
+Lieutenant-Colonel_NNP J._NNP Fisher_NNP ,_, D.S.O._NNP ,_, I.M.S._NNP ,_, Residency_NNP Surgeon_NNP ,_, Jaipur_NNP ,_, testifies_VBZ to_TO the_DT excellent_JJ work_NN done_VBN by_IN Rai_NNP Bahadur_NNP Senior_NNP Assistant_NNP DISPENSARIES_NNP AND_NNP PLAGUE_NNP IN_NNP RAJPUTANA_NNP 9_CD Surgeon_NNP Daljang_NNP Sing_NNP Khanka_NNP ,_, M.B._NNP ,_, House_NNP Surgeon_NNP of_IN the_DT Mayo_NNP Hospital_NNP ,_, Jaipur_NNP ._.
+His_PRP$ services_NNS are_VBP invaluable_JJ ._.
+82_CD ._.
+Third_JJ grade_VBD Sub-Assistant_JJ Surgeou_NNP Chhagan_NNP Nath_NNP is_VBZ a_DT very_RB capable_JJ and_CC industrious_JJ assistant_NN and_CC deserves_VBZ all_DT credit_NN for_IN his_PRP$ good_JJ work_NN ._.
+83_CD ._.
+Fourth_NNP grade_VBD Sub-Assistant_JJ Surgeons_NNP Sarup_NNP Narain_NNP and_CC Tula_NNP Ram_NNP have_VBP also_RB worked_VBN satisfactorily_RB ._.
+84_CD ._.
+The_DT Residency_NNP Surgeon_NNP ,_, Jaipur_NNP ,_, states_VBZ that_IN Tuberculosis_NNP continued_VBD to_TO play_VB the_DT same_JJ role_NN as_IN before_RB ._.
+Dr._NNP Lankester_NNP on_IN special_JJ duty_NN with_IN the_DT Gov-_NNP ernment_NN of_IN India_NNP for_IN Tuberculosis_NNP enquiry_NN visited_VBD Jaipur_NNP to_TO make_VB investiga-_JJ tions_NNS about_IN the_DT epidemiology_NN of_IN Tuberculosis_NNP ._.
+85_CD ._.
+There_EX were_VBD in_IN all_DT 6,703_CD surgical_JJ operations_NNS done_VBN in_IN Bharatpur_NNP State_NNP institutions_NNS ,_, of_IN these_DT 803_CD were_VBD extraction_NN of_IN lens_NNS for_IN cataract_NN ,_, 5_CD Lithotomies_NNS ,_, 11_CD Litholapaxies_NNS and_CC 17_CD Amputations_NNS as_IN compared_VBN with_IN 669_CD extractions_NNS of_IN lens_NNS for_IN cataract_NN ,_, 2_CD Lithotomies_NNS ,_, 13_CD Litholapaxies_NNS and_CC 16_CD Aumputations_NNS in_IN 1913_CD ._.
+86_CD ._.
+The_DT following_JJ special_JJ treatments_NNS were_VBD reported_VBN by_IN the_DT Agency_NNP Surgeon_NNP ,_, Eastern_NNP Rajputana_NNP States_NNPS :10_NNP DISPENSARIES_NNP AND_NNP PLAGUE_NNP IN_NNP RAJPUTANA_NNP ._.
+the_DT invested_JJ capital_NN of_IN the_DT dispensaries_NNS in_IN this_DT Division_NNP remained_VBD the_DT same_JJ as_IN in_IN 1913_CD ._.
+95_CD ._.
+In_IN Ajmer-Merwara_NNP the_DT total_JJ expenditure_NN rose_VBD from_IN R17,980_NNP in_IN 1913_CD to_TO R19,895_NNP in_IN 1914_CD ,_, chiefly_NN under_IN heads_NNS diets_NNS ,_, miscellaneous_JJ and_CC buildings_NNS and_CC repairs_NNS ._.
+96_CD ._.
+Native_NNP States.JAILS_NNP AND_NNP NATIVE_NNP STATES_NNPS IN_NNP RAJPUTANA_NNP ._.
+11_CD Bombay_NNP ,_, Baroda_NNP and_CC Central_NNP India_NNP Bailway_NNP within_IN the_DT limits_NNS of_IN Rajputana_NNP as_IN per_IN detail_NN below_IN :12_NNP JAILS_NNP AND_NNP MEDICAL_NNP STAFF_NNP IN_NNP RAJPUTANA_NNP ._.
+District_NNP Jail.JAILS_NNP AND_NNP MEDICAL_NNP STAFF_NNP IN_NNP RAJPUTANA_NNP ._.
+13_CD Major_JJ W._NNP R._NNP Battye_NNP ,_, I.M.S._NNP ,_, Residency_NNP Surgeon_NNP ,_, Mewar_NNP ._.
+1st_CD November_NNP 1914_CD ._.
+Major_NNP deVere_RB Condon_NNP ,_, I.M.S._NNP ,_, Agency_NNP Surgeon_NNP ,_, Kotah_NNP and_CC Jhalawar_NNP ._.
+21st_CD November_NNP 1914_CD ._.
+Major_JJ W._NNP Lethbridge_NNP ,_, I.M.S._NNP ,_, Agency_NNP Surgeon_NNP ,_, Eastern_NNP Rajputana_NNP States_NNPS ._.
+9th_CD December_NNP 1914_CD ._.
+121_CD ._.
+Lieutenant-Colonel_NNP R._NNP C._NNP MacWatt_NNP ,_, I.M.S._NNP ,_, Agency_NNP Surgeon_NNP ,_, Eastern_NNP Rajputana_NNP States_NNPS ,_, was_VBD appointed_VBN on_IN the_DT reversion_NN of_IN Lieutenant-Colonel_NNP W._NNP H._NNP B._NNP Robinson_NNP ,_, I.M.S._NNP ,_, to_TO Military_NNP duty_NN to_TO officiate_VB as_IN Civil_NNP Surgeon_NNP ,_, Ajmer_NNP ,_, and_CC Chief_NNP Medical_NNP Officer_NNP in_IN Rajputana_NNP from_IN the_DT 21st_CD September_NNP 1914_CD ._.
+122_CD ._.
+Major_JJ W._NNP Lethbridge_NNP ,_, I.M.S._NNP ,_, on_IN return_NN from_IN leave_NN was_VBD posted_VBN as_IN Agency_NNP Surgeon_NNP ,_, Eastern_NNP Rajputana_NNP States_NNPS ,_, from_IN the_DT 26th_CD September_NNP 1914_CD ._.
+123_CD ._.
+Major_JJ T._NNP S._NNP B._NNP Williams_NNP ,_, I.M.S._NNP ,_, was_VBD appointed_VBN as_IN Director_NNP ,_, Medical_NNP Department_NNP ,_, Bikaner_NNP State_NNP ,_, from_IN the_DT 21st_CD August_NNP 1914_CD ._.
+124_CD ._.
+On_IN the_DT transfer_NN of_IN Major_NNP MacPherson_NNP ,_, I.M.S_NNP ,_, to_TO Bushire_NNP ,_, Major_NNP F._NNP E._NNP Wilson_NNP ,_, I.M.S._NNP ,_, was_VBD appointed_VBN as_IN Agency_NNP Surgeon_NNP ,_, Kherwara_NNP ,_, from_IN the_DT 30th_CD September_NNP 1914_CD ._.
+125_CD ._.
+The_DT following_JJ officers_NNS of_IN the_DT Indian_NNP Medical_NNP Service_NNP were_VBD appointed_VBN temporarily_RB to_TO hold_VB visiting_VBG charge_NN of_IN the_DT Agency_NNP Surgeoncy_NNP mentioned_VBD against_IN their_PRP$ names_NNS with_IN dates_NNS in_IN addition_NN to_TO their_PRP$ own_JJ duties_NNS till_IN the_DT end_NN of_IN the_DT year:14_NN JAILS_NNP AND_NNP MEDICAL_NNP STAFF_NNP IN_NNP RAJPUTANA_NNP ._.
+rarily_RB transferred_VBN to_TO Military_NNP duty_NN on_IN account_NN of_IN the_DT war_NN against_IN 171_CD in_IN the_DT previous_JJ year_NN ._.
+Out_IN of_IN 171_CD Sub-Assistant_JJ Surgeons_NNS eight_CD were_VBD trans-_RB ferred_VBN to_TO the_DT United_NNP Provinces_NNPS of_IN Agra_NNP and_CC Oudh_NNP ,_, one_CD to_TO Bihar_NNP and_CC Orissa_NNP ,_, one_CD died_VBD ,_, one_CD resigned_VBD ,_, and_CC four_CD retired_VBN on_IN pension_NN during_IN the_DT year_NN ._.
+Lady_JJ Doctors_NNS 131_CD ._.
+There_EX were_VBD five_CD Lady_JJ Doctors_NNPS employed_VBN in_IN the_DT following_JJ NativeStates_NNP against_IN four_CD in_IN 1913_CD ._.
+Miss_NNP C._NNP M._NNP Peake_NNP ,_, M.D._NNP ,_, B.Sc_NNP ._.
+(_( London_NNP )_) ,_, was_VBD appointed_VBN to_TO the_DT charge_NN of_IN the_DT Zenana_NNP Hospital_NNP newly_RB opened_VBD at_IN Bikaner_NNP in_IN February_NNP 1914_CD ._.
+Kotah_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Jodhpur_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Tonk_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Jaipur_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Bikaner_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Female_JJ Sub-Assistant_JJ Surgeons_NNS ._.
+132_CD ._.
+There_EX were_VBD 8_CD Female_NNP Sub-Assistant_JJ Surgeons_NNS attached_VBN to_TO the_DT FemaleHospitals_NNS and_CC women_NNS 's_POS wards_NNS at_IN the_DT following_JJ places_NNS as_IN in_IN 1913_CD ._.
+Mrs._NNP Elizabeth_NNP Moji_NNP Ram_NNP attached_VBD to_TO the_DT Female_NNP wards_NNS of_IN the_DT Bhagwan_NNP Das_NNP Hospital_NNP ,_, Bikaner_NNP ,_, resigned_VBD her_PRP$ appointment_NN in_IN February_NNP 1914_CD ._.
+Female_JJ Sub-_NNP Assistant_NNP Surgeon_NNP Mrs._NNP Patwardhan_NNP was_VBD appointed_VBN to_TO the_DT charge_NN of_IN the_DT Female_NNP Hospital_NNP ,_, Bharatpur_NNP ,_, on_IN the_DT 8th_CD November_NNP 1914_CD ._.
+Alwar_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+2_CD Jodhpur_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+2_CD Kotah_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Tonk_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Bharatpur_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD Beawar_NNP ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1_CD FEMALE_NNP HOSPITALS_NNP AND_NNP DAI_NNP CLASS_NNP ._.
+133_CD ._.
+Ajmer.DISPENSARIES_NNP AND_NNP PLAGUE_NNP IN_NNP RAJPUTANA_NNP ._.
+15_CD 138_CD ._.
+A_DT Dai_NNP Class_NNP has_VBZ again_RB been_VBN started_VBN since_IN the_DT 16th_CD November_NNP ,_, 1914_CD with_IN an_DT admission_NN of_IN 5_CD pupils_NNS ,_, 3_CD are_VBP from_IN the_DT districts_NNS and_CC 2_CD from_IN Kotah_NNP City_NNP ,_, They_PRP appear_VBP to_TO he_PRP promising_VBG ._.
+139_CD ._.
+Miss_NNP K._NNP Reed_NNP ,_, L.R.C.P_NNP ._.
+&_CC .S_NNP ._.
+(_( Edinburgh_NNP )_) ,_, L.F.P.S_NNP ._.
+(_( Glasgow_NNP )_) and_CC L.M.R.C.P_NNP ._.
+&_CC S._NNP (_( Ireland_NNP )_) ,_, was_VBD in_IN charge_NN of_IN the_DT Walter_NNP Zenana_NNP Hospital_NNP at_IN Tonk_NNP up_RB to_TO the_DT 10th_JJ October_NNP 1914_CD when_WRB she_PRP went_VBD on_IN leave_NN and_CC since_IN then_RB Female_NNP Sub-Assistant_NNP Surgeon_NNP Miss_NNP Blanche_NNP Karimullah_NNP has_VBZ been_VBN in_IN sole_JJ charge_NN of_IN the_DT Hospital_NNP under_IN the_DT supervision_NN of_IN the_DT Male_NNP Assistant_NNP Surgeon_NNP at_IN Tonk_NNP ,_, 222_CD in_IN and_CC 7,074_CD out-door_JJ patients_NNS were_VBD treated_VBN as_IN compared_VBN with_IN 230_CD in_IN and_CC 6,936_CD out-patients_NNS in_IN the_DT previous_JJ year_NN ._.
+140_CD ._.
+Jaipur.16_NNP DISPENSARIES_NNP AND_NNP PLAGUE_NNP IN_NNP RAJPUTANA_NNP ._.
+well_RB equipped_VBN ;_: they_PRP are_VBP under_IN the_DT medical_JJ charge_NN of_IN Military_JJ Sub-Assistant_JJ Surgeons_NNP except_IN those_DT at_IN Jodhpur_NNP which_WDT are_VBP under_IN the_DT medical_JJ charge_NN of_IN State_NNP enlisted_VBD Assistant_NNP Surgeons_NNP ._.
+The_DT Mewar_NNP Imperial_NNP Service_NNP Squadron_NNP at_IN Udaipur_NNP has_VBZ been_VBN placed_VBN under_IN the_DT medical_JJ charge_NN of_IN the_DT Civil_NNP Sub-Assistant_NNP Surgeon_NNP in_IN charge_NN Jail_NNP Hospital_NNP ._.
+154_CD ._.
+The_DT Imperial_NNP Service_NNP Infantry_NNP at_IN Alwar_NNP and_CC Bhartpur_NNP ,_, Camel_NNP Corps_NNP at_IN Bikaner_NNP and_CC Imperial_NNP Service_NNP Transport_NNP Corps_NNP at_IN Jaipur_NNP and_CC Bharatpur_NNP proceeded_VBD on_IN Field_NNP service_NN on_IN account_NN of_IN the_DT war_NN ._.
+Military_JJ Sub-Assistant_JJ Surgeons_NNS accompanied_VBD them_PRP ._.
+LUNATICS_NNP ._.
+155_CD ._.
+Ajmer.Table_JJ showing_VBG the_DT severity_NN of_IN the_DT epidemics_NNS in_IN certain_JJ Native_NNP States_NNPS and_CC Ajmer-Merwara_NNP District_NNP as_RB well_RB as_IN the_DT rapidity_NN of_IN its_PRP$ spread_NN in_IN recent_JJ years_NNS and_CC the_DT percentage_NN of_IN total_JJ plague_JJ deaths_NNS to_TO population_NN since_IN 1896_CD ._.
+18_CD PLAGUE_NNP IN_NNP RAJPUTANA_NNP ._.
+Table_JJ showing_VBG the_DT scuerity_NN of_IN the_DT epidemics_NNS in_IN certain_JJ Native_NNP States_NNPS and_CC Ajmer-Merwara_NNP District_NNP as_RB well_RB as_IN the_DT rapidity_NN of_IN its_PRP$ spread_NN in_IN recent_JJ years_NNS and_CC the_DT percentage_NN of_IN total_JJ plague_JJ deaths_NNS to_TO population_NN since_IN 1896_CD ._.
+Serial_JJ Number_NNP Name_NNP of_IN District_NNP or_CC State_NNP ._.
+PARTICULARS_NNP REGARDING_NNP EPIDEMIC_NNP UP_NNP TO_NNP 31ST_CD MARCH_NNP 1913_CD ._.
+OUTBREAK_NNP OF_NNP TOTAL_NNP NUMBER_NNP OF_NNP PLAGUE_NNP CASES_NNP AND_NNP DEATHS_NNP ._.
+Population_NN according_VBG to_TO the_DT census_NN of_IN 1911_CD ._.
+Percentage_NN of_IN total_JJ plague_JJ deaths_NNS to_TO population_NN ._.
+Years_NNS in_IN which_WDT infected_VBD ._.
+TOTAL_JJ NUMBER_NNP OF_NNP PLAGUE_NNP CASES_NNP AND_NNP DEATHS_NNP REPORTED_NNP ._.
+Number_NNP of_IN villages_NNS and_CC towns_NNS infected_VBN ._.
+1913-14_NN ._.
+Number_NNP of_IN villages_NNS and_CC towns_NNS infected_VBN ._.
+1914-16_JJ ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+Cases_NNS ._.
+Deaths_NNS ._.
+1_CD Kotah_NNP ._.
+._.
+._.
+._.
+._.
+1904-07_JJ and_CC 1911-13_JJ 452_CD 324_CD 1_CD 25_CD 24_CD ..._: ..._: ..._: 477_CD 348_CD 639,089_CD 0.05_CD 2_CD Jhalawar_NNP ._.
+._.
+._.
+._.
+._.
+1903-06_JJ and_CC 1910-12_JJ 1,062_CD 827_CD ..._: ..._: ..._: ..._: ..._: ..._: 1,062_CD 827_CD 96,271_CD 0.86_CD 3_CD Mewar_NNP ._.
+._.
+._.
+._.
+._.
+1898-1900_JJ and_CC 1901-13_JJ 24,264_CD 18,083_CD ..._: ..._: ..._: ..._: ..._: ..._: 24,264_CD 18,083_CD 1,293,776_CD 1.40_CD 4_CD Banawara_NNP ._.
+._.
+._.
+._.
+._.
+1902-08_JJ 958_CD 774_CD ..._: ..._: ..._: ..._: ..._: ..._: 958_CD 774_CD 165,463_CD 0.47_CD 5_CD Partabgarh_NNP ._.
+._.
+._.
+._.
+1899-1900_JJ ,_, 1903-08_JJ and_CC 1910-11_JJ ._.
+2,526_CD 2,125_CD ..._: ..._: ..._: ..._: ..._: ..._: 2,526_CD 2,125_CD 62,704_CD 3.39_CD 6_CD Dungarpur_NNP ._.
+._.
+._.
+._.
+1906-07_JJ and_CC 1911-12_JJ 2_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: 2_CD 2_CD 159,192_CD 0.00_CD 7_CD Sirohi_NNP ._.
+._.
+._.
+._.
+._.
+1896-1912_JJ 1,172_CD 940_CD 1_CD 4_CD 1_CD 1_CD 6_CD 1_CD 1,182_CD 942_CD 189,127_CD 0.50_CD 8_CD Marwar_NNP ._.
+._.
+._.
+._.
+._.
+1896-1913_JJ 10,940_CD 8,899_CD 5_CD 14_CD 13_CD 5_CD 6_CD 4_CD 10,960_CD 8,916_CD 2,057,553_CD 0.43_CD 9_CD Ajmer-Merwara_NN ._.
+._.
+._.
+._.
+1896-98_JJ ,_, 1899-1900_JJ and_CC 1901-13_JJ ._.
+13,943_CD 11,970_CD ..._: ..._: ..._: ..._: ..._: ..._: 13,943_CD 11,970_CD 501,395_CD 2.38_CD 10_CD Shahpura_NNP ._.
+._.
+._.
+._.
+._.
+1903-08_JJ and_CC 1910-12_JJ 1,883_CD 1,255_CD ..._: ..._: ..._: ..._: ..._: ..._: 1,883_CD 1,255_CD 47,397_CD 2.65_CD 11_CD Tonk_NNP ._.
+._.
+._.
+._.
+._.
+1902-12_JJ 7,245_CD 5,658_CD ..._: ..._: ..._: ..._: ..._: ..._: 7,245_CD 5,658_CD 303,181_CD 1.87_CD 12_CD Kishangarh_NNP ._.
+._.
+._.
+._.
+1903-04_JJ and_CC 1909-11_JJ 75_CD 66_CD ..._: ..._: ..._: ..._: ..._: ..._: 75_CD 66_CD 87,191_CD 0.08_CD 13_CD Jaipur_NNP ._.
+._.
+._.
+._.
+1896-98,1899-1900_JJ ,_, and_CC 1901-13_NNS ._.
+47,817_CD 44,733_CD 26_CD 674_CD 619_CD 10_CD 227_CD 222_CD 48,718_CD 45,574_CD 2,636,647_CD 1.72_CD 14_CD Bikaner_NNP ._.
+._.
+._.
+._.
+1901-02_JJ 1903-11_CD ,_, and_CC 1912-13_NNS ._.
+193_CD 144_CD ..._: ..._: ..._: ..._: ..._: ..._: 193_CD 144_CD 700,983_CD 0.02_CD 15_CD Alwar_NNP ._.
+._.
+._.
+._.
+._.
+1901-13_JJ 28,579_CD 22,523_CD 17_CD 603_CD 475_CD 12_CD 133_CD 109_CD 29,315_CD 23,107_CD 791,688_CD 2.92_CD 16_CD Bharatpur_NNP ._.
+._.
+._.
+._.
+._.
+1896-98_JJ and_CC 1903-13_JJ 30,156_CD 26,167_CD 52_CD 965_CD 752_CD 16_CD 198_CD 122_CD 31,319_CD 27,041_CD 558,785_CD 4.84_CD 17_CD Karauli_NNP ._.
+._.
+._.
+._.
+1904-06_JJ ,_, 1908-11_JJ and_CC 1912-18_JJ 395_CD 339_CD 1_CD 1_CD 1_CD ..._: ..._: ..._: 396_CD 340_CD 146,587_CD 0.23_CD 18_CD Dholpur_NNP ._.
+._.
+._.
+._.
+._.
+1904-06_JJ and_CC 1910-12_JJ 604_CD 457_CD ..._: ..._: ..._: ..._: ..._: ..._: 604_CD 457_CD 263,188_CD 0.17_CD 19_CD Deoli_NNP ._.
+._.
+._.
+._.
+._.
+1907-08_JJ and_CC 1909-11_JJ 112_CD 52_CD ..._: ..._: ..._: ..._: ..._: ..._: 112_CD 52_CD 5,205_CD 0.00_CD TOTAL_NN ._.
+..._: 172,378_CD 145,338_CD 103_CD 2,286_CD 1,885_CD 44_CD 570_CD 458_CD 175,234_CD 147,681_CD 10,705,422_CD 1.38_CD AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+19_CD APPENDIX_NNP A_NNP ._.
+Review_NN of_IN the_DT Ajmer_NNP Jail_NNP Report_NNP for_IN the_DT year_NN 1914_CD ._.
+Charge.20_NNP AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+other_JJ jails_NNS ,_, the_DT remaining_VBG 742_CD convicts_NNS admitted_VBN in_IN the_DT jail_NN are_VBP classified_VBN as_IN follows_VBZ :_: AJMER_JJ CENTRAL_NNP JAIL_NNP ._.
+21_CD 8_CD ._.
+Conduct_NN of_IN prisoners.22_JJ AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+GENERAL_NNP SUMMARY_NNP ._.
+Showing_VBG the_DT Distribution_NN of_IN the_DT Prisoners_NNS of_IN all_DT classes_NNS confined_VBN in_IN the_DT Ajmer_NNP Central_NNP Jail_NNP during_IN the_DT year_NN 1914_CD ._.
+Vide_NNP Instructions_NNP issued_VBD with_IN Jail_NNP Department_NNP Circular_NNP No_NNP ._.
+42_CD of_IN 1885_CD ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD Serial_JJ No_NNP ._.
+Station_NN ._.
+Place_NN of_IN confinement_NN ._.
+*_JJ Classes_NNS of_IN prisoners_NNS ._.
+REMAINED_NN AT_NNP THE_NNP COMMENCEMENT_NNP OF_IN THE_NNP YEAR_NNP ._.
+RECEIVED_NNP DURING_VBZ THE_DT YEAR_NN ._.
+TOTAL_NN ._.
+DISCHARGED_NN FROM_NNP ALL_NNP CAUSES_NNP ._.
+REMAINING_NN AT_NNP THE_NNP END_NNP OF_IN THE_NNP YEAR_NNP ._.
+DAILY_JJ AVERAGE_NNP NUMBER_NNP OF_NNP EACH_NNP CLASS_NNP ._.
+TOTAL_JJ DAILY_NNP AVERAGE_NNP OF_NNP WHOLE_NNP JAIL_NNP ._.
+Male_NN ._.
+Female_NNP Total_NNP ._.
+Male_NN ._.
+Female_NNP ._.
+Total_NN ._.
+Male_NN ._.
+Female_NNP ._.
+Total_NN ._.
+Male_NN ._.
+Female_NNP ._.
+Total_NN ._.
+Male_JJ Female_NNP ._.
+Total_NN ._.
+Male_NN ._.
+Female_NNP ._.
+Total_NN ._.
+Male_NN ._.
+Female_NNP ._.
+Total_NN ._.
+1_CD Ajmer_NNP ._.
+._.
+Central_JJ Jail_NNP ,_, Ajmer_NNP ._.
+Convicts_NNS ._.
+._.
+._.
+279_CD 8_CD 287_CD 757_CD 32_CD 789_CD 1,036_CD 40_CD 1,076_CD 719_CD 24_CD 743_CD 317_CD 16_CD 333_CD 295.63_CD 8.68_CD 304.21_CD 330.95_CD 12.25_CD 343.20_CD Under-trial_JJ ._.
+._.
+._.
+46_CD ..._: 46_CD 660_CD 38_CD 698_CD 706_CD 38_CD 744_CD 658_CD 35_CD 693_CD 48_CD 3_CD 51_CD 34.89_CD 3.57_CD 38.46_CD Civil_NNP ._.
+._.
+._.
+._.
+..._: ..._: ..._: 3_CD ..._: 3_CD 3_CD ..._: 3_CD 3_CD ..._: 3_CD ..._: ..._: ..._: 0.53_CD ..._: 0.53_CD TOTAL_NN ._.
+325_CD 8_CD 333_CD 1,420_CD 70_CD 1,490_CD 1,745_CD 78_CD 1,823_CD 1,380_CD 59_CD 1,439_CD 365_CD 10_CD 384_CD 330.95_CD 12.25_CD 343.20_CD *_NN Whether_NNP a_DT Central_NNP Prison_NNP ,_, District_NNP Jail_NNP or_CC Subsidiary_NNP Jail_NNP ._.
+NOTE.AJMER_JJ CENTRAL_NNP JAIL_NNP ._.
+23_CD STATEMENT_NNP No_NNP ._.
+II.24_NNP AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+STATEMENT_NNP No_NNP ._.
+IV.AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+25_CD STATEMENT_NNP No_NNP ._.
+VIII.26_NNP AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+STATEMENT_NNP No_NNP ._.
+X_NN (_( FINANCIL_NNP )_) .AJMER_VBZ CENTRAL_NNP JAIL_NNP ._.
+27_CD STATEMENT_NNP No_NNP ._.
+XIII.28_JJ AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+STATEMENT_NNP No_NNP ._.
+XVI_NN (_( VITAL_NNP )_) .AJMER_VBZ CENTRAL_NNP JAIL_NNP ._.
+29_CD STATEMENT_NNP No_NNP ._.
+XVIII_NN (_( VITAL_NNP )_) .30_VBP AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+STATEMENT_NNP No_NNP ._.
+A.Statement_JJ showing_VBG the_DT nature_NN of_IN the_DT crimes_NNS for_IN which_WDT convicts_NNS were_VBD imprisoned_VBN in_IN the_DT Central_NNP Jail_NNP at_IN Ajmer_NNP during_IN the_DT year_NN 1914_CD ._.
+32_CD AJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+Statement_JJ showing_VBG the_DT nature_NN of_IN the_DT crimes_NNS for_IN which_WDT convicts_NNS were_VBD imprisoned_VBN in_IN the_DT Central_NNP Jail_NNP at_IN Ajmer_NNP during_IN the_DT year_NN 1914_CD ._.
+The_DT Female_NNP Column_NNP to_TO be_VB filled_VBN in_IN italics_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD Serial_JJ number_NN ._.
+Chapter_NN of_IN Penal_NNP Code_NNP ._.
+SECTIONS_NNP ._.
+NATURE_NNP OF_NNP OFFENCES_NNP ._.
+CONVICTS_NNP ADMITTED_NNP TO_NNP JAIL_NNP DURING_NNP THE_NNP YEAR_NN 1913_CD UNDER_NNP SENTENCE_NNP NOT_NNP EXCEEDINGAJMER_NNP CENTRAL_NNP JAIL_NNP ._.
+33_CD 24_CD 34_CD BIRTHS_NNP AND_NNP DEATHS_NNP IN_NNP AJMER-MERWARA_NNP ._.
+ANNUAL_NNP FROM_NNP No_NNP ._.
+I.DEATHS_NNP IN_NNP AJMER-MERWARA_NNP ._.
+35_CD ANNUAL_NNP FORM_NNP No_NNP ._.
+III.36_NNP DEATHS_NNP IN_NNP AJMER-MERWARA_NNP ._.
+ANNUAL_NNP FROM_NNP No_NNP ._.
+V.DEATHS_NNP IN_NNP AJMER-MERWARA_NNP ._.
+37_CD ANNUAL_NNP FORM_NNP No_NNP ._.
+VII.38_NNP DEATHS_NNP IN_NNP AJMER-MERWARA_NNP ._.
+ANNUAL_NNP FORM_NNP No_NNP ._.
+IX.DEATHS_NNP IN_NNP AJMER-MERWARA_NNP ._.
+39_CD ANNUAL_NNP FORM_NNP No_NNP ._.
+XI.40_JJ VACCINATION_NNP IN_NNP RAJPUTANA_NNP STATEMENT_NNP No_NNP ._.
+I_PRP VACCINATION_VBP IN_NNP RAJPUTANA_NNP ._.
+41_CD No_DT ._.
+NAME_NN OF_NNP STATE_NNP ._.
+COST_NN ._.
+PAID_VBN FROM_NNP Number_NNP of_IN all_DT successful_JJ vac-_JJ cinations_NNS and_CC re-vaccinations_NNS ._.
+Average_JJ cost_NN of_IN each_DT successful_JJ case_NN ._.
+European_JJ Supervising_NNP Officers_NNP ._.
+*_JJ Pay_NNP ._.
+Native_JJ Supervising_VBG Officers_NNS ._.
+Pay_NN ._.
+Vaccinators_NNS ._.
+Pay_NN ._.
+Clerks_NNS ._.
+Pay_NN ._.
+Peons_NNS ,_, etc_FW ._.
+Pay_NN ._.
+Total_JJ pay_NN of_IN establish-_JJ ment_NN ._.
+Travelling_VBG allowance_NN ._.
+Contingencies_NNS ._.
+Total_JJ cost_NN ._.
+Imperial_JJ Fund_NNP ._.
+Provincial_JJ Fund_NNP ._.
+Local_JJ Fund_NNP ._.
+Municipalities_NNS ._.
+Native_JJ States_NNS ._.
+Total_NN ._.
+R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN R_NNP a._NN p._NN Pies_NNP ._.
+1_CD Ajmer-_JJ Merwara_NNP Ajmer_NNP ._.
+._.
+1_CD ..._: 1_CD 300_CD 0_CD 0_CD 11_CD 1,416_CD 3_CD 3_CD 1_CD 149_CD 0_CD 0_CD 4_CD 220_CD 6_CD 9_CD 2,085_CD 10_CD 0_CD 56_CD 8_CD 0_CD 213_CD 15_CD 4_CD 2,356_CD 1_CD 4_CD 664_CD 7_CD 0_CD ..._: 716_CD 6_CD 7_CD 975_CD 3_CD 9_CD ..._: 2,356_CD 1_CD 4_CD 11,379_CD 40_CD 2_CD Merwara_NNP ._.
+240_CD 0_CD 0_CD 4_CD 509_CD 14_CD 0_CD 1_CD 100_CD 0_CD 0_CD 1_CD 90_CD 0_CD 0_CD 939_CD 14_CD 0_CD 25_CD 0_CD 0_CD 109_CD 0_CD 3_CD 1,073_CD 14_CD 3_CD 499_CD 0_CD 0_CD ..._: 107_CD 0_CD 0_CD 467_CD 14_CD 3_CD ..._: 1,073_CD 14_CD 3_CD 3,568_CD 58_CD TOTAL_NN ._.
+1_CD ..._: 1_CD 540_CD 0_CD 0_CD 15_CD 1,926_CD 1_CD 3_CD 2_CD 249_CD 0_CD 0_CD 5_CD 310_CD 6_CD 9_CD 3,025_CD 8_CD 0_CD 81_CD 8_CD 0_CD 322_CD 15_CD 7_CD 3,429_CD 15_CD 7_CD 1,163_CD 7_CD 0_CD ..._: 823_CD 6_CD 7_CD 1,443_CD 2_CD 0_CD ..._: 3,429_CD 15_CD 7_CD 14,947_CD 44_CD 3_CD NATIVE_NNP STATES_NNPS ._.
+Jaipur_NNP and_CC Khetri_NNP ._.
+1_CD ..._: 2_CD 780_CD 0_CD 0_CD 40_CD 5,055_CD 11_CD 9_CD ..._: ..._: ..._: ..._: 5,835_CD 11_CD 9_CD 3,806_CD 11_CD 9_CD 362_CD 11_CD 3_CD 10,005_CD 2_CD 9_CD ..._: ..._: ..._: ..._: 10,005_CD 2_CD 9_CD 10,005_CD 2_CD 9_CD 61,282_CD 31_CD 4_CD Kishangarh_NNP ._.
+._.
+..._: ..._: ..._: ..._: 2_CD 134_CD 8_CD 6_CD ..._: ..._: ..._: ..._: 134_CD 8_CD 6_CD 25_CD 10_CD 0_CD 67_CD 15_CD 0_CD 228_CD 1_CD 6_CD ..._: ..._: ..._: ..._: 228_CD 1_CD 6_CD 228_CD 1_CD 6_CD 2,403_CD 18_CD 5_CD Marwar_NNP ._.
+._.
+._.
+1_CD ..._: 3_CD 712_CD 8_CD 1_CD 23_CD 2,242_CD 10_CD 11_CD ..._: ..._: ..._: ..._: 2,955_CD 3_CD 0_CD 2,412_CD 10_CD 0_CD 60_CD 8_CD 0_CD 5,428_CD 5_CD 0_CD ..._: ..._: ..._: ..._: 5,428_CD 5_CD 0_CD 5,428_CD 5_CD 0_CD 61,713_CD 17_CD 6_CD Bikaner_NNP ._.
+._.
+._.
+1_CD ..._: 2_CD 402_CD 0_CD 0_CD 10_CD 1,343_CD 14_CD 2_CD 1_CD 228_CD 0_CD 0_CD 1_CD 2_CD 6_CD 9_CD 1,976_CD 4_CD 11_CD 1,037_CD 5_CD 3_CD 95_CD 0_CD 0_CD 3,108_CD 10_CD 2_CD ..._: ..._: ..._: ..._: 3,108_CD 10_CD 2_CD 3,108_CD 10_CD 2_CD 27,528_CD 22_CD 7_CD Jaisalmer_NNP ._.
+._.
+._.
+..._: ..._: 1_CD 240_CD 0_CD 0_CD 2_CD 194_CD 13_CD 0_CD ..._: ..._: ..._: ..._: 434_CD 13_CD 0_CD ..._: ..._: 434_CD 13_CD 0_CD ..._: ..._: ..._: ..._: 434_CD 13_CD 0_CD 434_CD 13_CD 0_CD 696_CD 120_CD 8_CD Sirohi_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: 2_CD 336_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 336_CD 0_CD 0_CD ..._: 2_CD 2_CD 0_CD 338_CD 2_CD 0_CD ..._: ..._: ..._: ..._: 338_CD 2_CD 0_CD 338_CD 2_CD 0_CD 6,852_CD 9_CD 9_CD Bharatpur_NNP ._.
+._.
+1_CD ..._: 1_CD 360_CD 0_CD 0_CD 16_CD 1,932_CD 0_CD 0_CD ..._: ..._: 4_CD 288_CD 0_CD 0_CD 2,580_CD 0_CD 0_CD 80_CD 0_CD 0_CD 125_CD 6_CD 0_CD 2,785_CD 6_CD 0_CD ..._: ..._: ..._: ..._: 2,785_CD 6_CD 0_CD 2,785_CD 6_CD 0_CD 21,017_CD 25_CD 10_CD Alwar_NNP ._.
+._.
+._.
+..._: ..._: 1_CD 465_CD 0_CD 0_CD 14_CD 1,634_CD 12_CD 0_CD ..._: ..._: 1_CD 84_CD 0_CD 0_CD 2,183_CD 12_CD 0_CD 56_CD 3_CD 5_CD 62_CD 2_CD 6_CD 2,302_CD 6_CD 11_CD ..._: ..._: ..._: ..._: 2,302_CD 6_CD 11_CD 2,302_CD 6_CD 11_CD 26,212_CD 17_CD 11_CD Dholpur_NNP ._.
+._.
+._.
+..._: ..._: 1_CD 360_CD 0_CD 0_CD 7_CD 766_CD 10_CD 8_CD ..._: ..._: ..._: ..._: 1126_CD 10_CD 8_CD ..._: 50_CD 3_CD 0_CD 1,176_CD 13_CD 8_CD ..._: ..._: ..._: ..._: 1,176_CD 13_CD 8_CD 1,176_CD 13_CD 8_CD 9,901_CD 23_CD 12_CD Karauli_NNP ._.
+._.
+._.
+..._: ..._: 1_CD 300_CD 0_CD 0_CD 4_CD 468_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 768_CD 0_CD 0_CD 46_CD 0_CD 0_CD 51_CD 2_CD 1_CD 865_CD 2_CD 1_CD ..._: ..._: ..._: ..._: 865_CD 2_CD 1_CD 865_CD 2_CD 1_CD 4,656_CD 36_CD 13_CD Tonk_NNP ._.
+._.
+._.
+..._: ..._: 1_CD ..._: 2_CD 252_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 252_CD 0_CD 0_CD 25_CD 11_CD 0_CD 41_CD 0_CD 0_CD 318_CD 11_CD 0_CD ..._: ..._: ..._: ..._: 318_CD 11_CD 0_CD 318_CD 11_CD 0_CD 1,605_CD 38_CD 14_CD Shahpura_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: 1_CD 144_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 144_CD 0_CD 0_CD 10_CD 8_CD 0_CD 4_CD 2_CD 0_CD 158_CD 10_CD 0_CD ..._: ..._: ..._: ..._: 158_CD 10_CD 0_CD 158_CD 10_CD 0_CD 996_CD 31_CD 15_CD Kotah_NNP ._.
+._.
+._.
+1_CD ..._: 1_CD 106_CD 8_CD 0_CD 6_CD 481_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 587_CD 8_CD 0_CD 48_CD 14_CD 0_CD 791_CD 1_CD 0_CD 1,427_CD 7_CD 0_CD ..._: ..._: ..._: ..._: 1,427_CD 7_CD 0_CD 1,427_CD 7_CD 0_CD 18,074_CD 15_CD 16_CD Jhalawar_NNP ._.
+._.
+._.
+..._: ..._: 1_CD 25_CD 8_CD 0_CD 1_CD 72_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 97_CD 8_CD 0_CD ..._: 103_CD 13_CD 0_CD 201_CD 5_CD 0_CD ..._: ..._: ..._: ..._: 201_CD 5_CD 0_CD 201_CD 5_CD 0_CD 1,815_CD 21_CD 17_CD Mewar_NNP ._.
+._.
+._.
+1_CD ..._: 1_CD 360_CD 0_CD 0_CD 19_CD 1,664_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 2,024_CD 0_CD 0_CD ..._: 360_CD 12_CD 3_CD 2,384_CD 12_CD 3_CD ..._: ..._: ..._: ..._: 2,384_CD 12_CD 3_CD 2,384_CD 12_CD 3_CD 14,107_CD 32_CD 18_CD Partabgarh_NNP ._.
+._.
+..._: ..._: ..._: ..._: 1_CD 82_CD 8_CD 0_CD ..._: ..._: ..._: ..._: 82_CD 8_CD 0_CD ..._: 3_CD 0_CD 0_CD 85_CD 8_CD 0_CD ..._: ..._: ..._: ..._: 85_CD 8_CD 0_CD 85_CD 8_CD 0_CD 910_CD 18_CD 19_CD Banswara_NNP ._.
+._.
+..._: ..._: 1_CD 48_CD 0_CD 0_CD 3_CD 221_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 269_CD 0_CD 0_CD ..._: ..._: 269_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 269_CD 0_CD 0_CD 269_CD 0_CD 0_CD 2,167_CD 24_CD 20_CD Kushalgarh_NNP ._.
+._.
+..._: ..._: ..._: ..._: 1_CD 98_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 98_CD 0_CD 0_CD ..._: 34_CD 0_CD 0_CD 132_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 132_CD 0_CD 0_CD 132_CD 0_CD 0_CD 722_CD 35_CD 21_CD Dungarpur_NNP ._.
+._.
+1_CD ..._: ..._: ..._: 3_CD 160_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 160_CD 0_CD 0_CD 30_CD 0_CD 0_CD 6_CD 4_CD 0_CD 196_CD 4_CD 0_CD ..._: ..._: ..._: ..._: 196_CD 4_CD 0_CD 196_CD 4_CD 0_CD 1,647_CD 23_CD 22_CD Bundi_NNP ._.
+._.
+..._: ..._: ..._: ..._: 2_CD 90_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 90_CD 0_CD 0_CD 12_CD 0_CD 0_CD 12_CD 0_CD 0_CD 114_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 114_CD 0_CD 0_CD 114_CD 0_CD 0_CD 397_CD 55_CD 23_CD Abu_NNP ._.
+._.
+._.
+._.
+..._: ..._: ..._: ..._: 1_CD 192_CD 0_CD 0_CD ..._: ..._: ..._: ..._: 192_CD 0_CD 0_CD ..._: 3_CD 5_CD 6_CD 195_CD 5_CD 6_CD 3_CD 5_CD 6_CD ..._: 96_CD 0_CD 0_CD 96_CD 0_CD 0_CD ..._: 195_CD 5_CD 6_CD 1,666_CD 22_CD 24_CD Deoli_NNP ._.
+._.
+._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 4_CD 10_CD 0_CD 4_CD 10_CD 0_CD ..._: ..._: 4_CD 10_CD 0_CD ..._: ..._: 4_CD 10_CD 0_CD 68_CD 13_CD TOTAL_NNP NATIVE_NNP STATES_NNPS ._.
+7_CD ..._: 17_CD 4,159_CD 8_CD 1_CD 160_CD 17,565_CD 9_CD 0_CD 1_CD 228_CD 0_CD 0_CD 6_CD 374_CD 6_CD 9_CD 22,327_CD 7_CD 10_CD 7,591_CD 14_CD 5_CD 2,241_CD 1_CD 7_CD 32,160_CD 7_CD 10_CD 3_CD 5_CD 6_CD ..._: 100_CD 10_CD 0_CD 96_CD 0_CD 0_CD 31,960_CD 8_CD 4_CD 32,160_CD 7_CD 10_CD 266,438_CD 23_CD GRAND_NNP TOTAL_NNP ._.
+8_CD ..._: 18_CD 4,699_CD 8_CD 1_CD 175_CD 19,491_CD 10_CD 3_CD 3_CD 477_CD 0_CD 0_CD 11_CD 684_CD 13_CD 6_CD 25,352_CD 15_CD 10_CD 7,673_CD 6_CD 5_CD 2,564_CD 1_CD 2_CD 35,590_CD 7_CD 5_CD 1,166_CD 12_CD 6_CD ..._: 924_CD 0_CD 7_CD 1,539_CD 2_CD 0_CD 31,960_CD 8_CD 4_CD 35,590_CD 7_CD 5_CD 281,385_CD 24_CD *_IN The_DT European_JJ Supervising_NNP Officers_NNS are_VBP the_DT Agency_NNP Surgeons_NNP of_IN the_DT different_JJ States_NNS and_CC the_DT Civil_NNP Surgeon_NNP ,_, Ajmer_NNP ._.
+42_CD VACCINATION_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP No_NNP ._.
+III.VACCINATION_NNP IN_NNP RAJPUTANA_NNP ._.
+43_CD STATEMENT_NNP No_NNP ._.
+V.44_NNP DEATHS_NNP FROM_NNP SMALL-POX_NNP AND_NNP VACCINATION_NNP IN_NNP AJMER-MERWARA_NNP ._.
+Comparative_JJ Statement_NNP of_IN Deaths_NNP registered_VBD from_IN Small-pox_NNP with_IN Vaccination_NNP done_VBN in_IN Ajmer-_NNP Merwara_NNP during_IN 1914-15_JJ ._.
+No_DT ._.
+CIRCLES_NNP OF_NNP REGISTRATION_NNP ._.
+Population_NN ._.
+DEATHS_NNS FROM_IN SMALL-POX_NNP DURING_NNP 1914_CD ._.
+VACCINATION_NNP FOR_NNP 1914-15_CD ._.
+Male_NN ._.
+Female_NNP ._.
+Total_NN ._.
+Ratio_NNP per_IN 1,000_CD for_IN 1914_CD ._.
+Mean_NNP ratio_NN per_IN 1,000_CD of_IN previ-_JJ ous_JJ five_CD years_NNS ._.
+Male_NN ._.
+Female_NNP ._.
+Total_NN ._.
+1_CD Ajmer_NNP ._.
+._.
+._.
+._.
+._.
+380,384_CD 8_CD 7_CD 15_CD .04_JJ 1.82_CD 6,554_CD 5,594_CD 12,148_CD 2_CD Merwara_NNP ._.
+._.
+._.
+._.
+._.
+121,011_CD 5_CD 3_CD 8_CD .07_JJ 1.88_CD 1,967_CD 1,791_CD 3,758_CD TOTAL_JJ AJMER-MERWARA_NNP ._.
+501,395_CD 13_CD 10_CD 23_CD .05_JJ 1.83_CD 8,521_CD 7,385_CD 15,906_CD STATEMENT_NNP A.46_NNP DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP B.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+47_CD State_NNP ,_, Public_NNP ,_, Local_NNP Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 1914_CD ._.
+PATIENTS_NNS ._.
+OUT-DOOR_JJ PATIENTS_NNP ._.
+Total_JJ number_NN of_IN patients_NNS treated_VBN ,_, both_DT in-door_JJ and_CC out-door_JJ ._.
+AVERAGE_JJ NUMBER_NNP ._.
+NUMBER_NNP TREATED_NNP ._.
+AVERAGE_JJ DAILY_JJ ATTENDANCE_NNP ._.
+Woman_NNP ._.
+Children_NNP ._.
+Total_NN ._.
+Attended_NNP personally_RB ._.
+Repre-_NNP sented_VBN by_IN friends_NNS ._.
+Total_JJ treated_VBD ._.
+Male_NN ._.
+Fe-_JJ male_NN ._.
+Men_NN ._.
+Women_NNS ._.
+Children_NNP ._.
+Total_NN ._.
+Men_NN ._.
+Women_NNS ._.
+Children_NNP ._.
+Total_NN ._.
+Male_NN ._.
+Female_NNP ._.
+Male_NN ._.
+Female_NNP ._.
+17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD 26_CD 27_CD 28_CD 29_CD 30_CD 31_CD 32_CD 33_CD 7.41_CD 1.70_CD 0.35_CD 33.57_CD 24,925_CD 2,467_CD 14,733_CD 3,953_CD 5,038_CD 3,668_CD 27,392_CD 115.46_CD 34.84_CD 40.39_CD 30.12_CD 220.31_CD 28,254_CD 0.07_CD 0.02_CD 0.03_CD 0.92_CD 6,104_CD 775_CD 2,998_CD 1,042_CD 1,729_CD 1,110_CD 6,879_CD 22.51_CD 7.71_CD 13.46_CD 8.67_CD 52.35_CD 6,908_CD ..._: ..._: ..._: ..._: 5,364_CD 676_CD 3,103_CD 1,024_CD 1,179_CD 734_CD 6,040_CD 16.47_CD 5.83_CD 6.26_CD 3.65_CD 32.21_CD 6,040_CD ..._: ..._: ..._: ..._: 1,970_CD 170_CD 816_CD 401_CD 590_CD 333_CD 2,140_CD 5.65_CD 2.78_CD 4.42_CD 2.75_CD 15.60_CD 2,140_CD 3.28_CD 0.17_CD 0.10_CD 10.18_CD 25,126_CD 4,327_CD 13,673_CD 6,382_CD 5,218_CD 4,180_CD 29,453_CD 81.34_CD 41.24_CD 37.32_CD 28.74_CD 188.64_CD 29,753_CD 0.06_CD 0.03_CD 0.01_CD 1.22_CD 2,615_CD 1,187_CD 1,592_CD 622_CD 976_CD 612_CD 3,802_CD 9.92_CD 3.35_CD 7.55_CD 4.76_CD 25.58_CD 3,847_CD 10.82_CD 1.92_CD 0.69_CD 45.89_CD 66,104_CD 9,602_CD 36,915_CD 13,424_CD 14,730_CD 10,637_CD 75,706_CD 251.35_CD 95.75_CD 109.40_CD 78.69_CD 535.19_CD 76,942_CD ..._: ..._: ..._: ..._: 1,939_CD 482_CD 1,578_CD 404_CD 233_CD 206_CD 2,421_CD 14.13_CD 4.48_CD 2.54_CD 2.68_CD 23.81_CD 2,421_CD ..._: ..._: ..._: ..._: 7,443_CD 342_CD 5,223_CD 1,266_CD 826_CD 470_CD 7,785_CD 37.74_CD 8.68_CD 6.04_CD 3.45_CD 55.91_CD 7,785_CD ..._: 0.11_CD ..._: 0.70_CD 3,193_CD 753_CD 2,122_CD 698_CD 700_CD 426_CD 3,946_CD 19.27_CD 6.68_CD 6.96_CD 5.44_CD 38.35_CD 3,973_CD ..._: ..._: ..._: ..._: 184_CD 83_CD 145_CD 49_CD 54_CD 19_CD 267_CD 1.47_CD .34_JJ .33_NNP .11_NNP 2.25_CD 267_CD 0.88_CD 0.52_CD 0.32_CD 5.04_CD 1,503_CD 130_CD 888_CD 304_CD 254_CD 187_CD 1,633_CD 5.36_CD 2.23_CD 1.53_CD 1.04_CD 10.16_CD 1,745_CD ..._: ..._: ..._: 14.16_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 400_CD ..._: ..._: ..._: 11.91_CD 1,317_CD 277_CD 992_CD 163_CD 221_CD 218_CD 1,594_CD 16.29_CD 2.72_CD 4.16_CD 3.60_CD 26.77_CD 1,754_CD ..._: ..._: ..._: 2.31_CD 642_CD 59_CD 454_CD 88_CD 98_CD 61_CD 701_CD 4.12_CD 0.96_CD 0.74_CD 0.58_CD 6.40_CD 749_CD ..._: ..._: ..._: ..._: 536_CD 71_CD 446_CD 77_CD 37_CD 47_CD 607_CD 9.83_CD 1.80_CD 0.80_CD 0.78_CD 13.21_CD 607_CD ..._: 0.12_CD ..._: 0.77_CD 1,801_CD 185_CD 1,081_CD 299_CD 400_CD 206_CD 1,986_CD 8.29_CD 2.36_CD 3.57_CD 1.56_CD 15.78_CD 1,997_CD 0.88_CD 0.75_CD 0.32_CD 34.89_CD 18,558_CD 2,382_CD 12,929_CD 3,348_CD 2,823_CD 1,840_CD 20,940_CD 116.50_CD 30.25_CD 26.67_CD 19.22_CD 192.64_CD 21,698_CD 0.37_CD ..._: ..._: 8.29_CD 3,972_CD 258_CD 1,731_CD 860_CD 990_CD 640_CD 4,230_CD 19.97_CD 12.01_CD 11.66_CD 6.85_CD 56.49_CD 4,297_CD 0.01_CD ..._: 0.01_CD 0.18_CD 1,958_CD 586_CD 1,741_CD 371_CD 285_CD 147_CD 2,544_CD 12.18_CD 3.72_CD 2.29_CD 1.29_CD 19.48_CD 2,583_CD ..._: ..._: ..._: 0.03_CD 275_CD 24_CD 239_CD 56_CD 2_CD 2_CD 299_CD 0.64_CD 0.13_CD ..._: 0.01_CD 0.78_CD 308_CD 0.38_CD ..._: 0.01_CD 3.50_CD 6,205_CD 868_CD 3,711_CD 1,287_CD 1,277_CD 798_CD 7,073_CD 32.79_CD 15.86_CD 13.95_CD 8.15_CD 70.75_CD 7,188_CD 1.26_CD 0.75_CD 0.33_CD 38.39_CD 24,763_CD 3,250_CD 16,640_CD 4,635_CD 4,100_CD 2,638_CD 28,013_CD 149.29_CD 46.11_CD 40.62_CD 27.37_CD 263.39_CD 28,886_CD 31.39_CD 5.06_CD 2.60_CD 123.00_CD 29,522_CD 1,324_CD 16,607_CD 7,338_CD 3,819_CD 3,082_CD 30,846_CD 123.40_CD 61.04_CD 30.09_CD 24.16_CD 238.69_CD 33,574_CD ..._: ..._: ..._: ..._: 14,561_CD 1,815_CD 6,269_CD 3,736_CD 3,890_CD 2,481_CD 16,376_CD 73.83_CD 39.08_CD 38.20_CD 26.02_CD 177.13_CD 18,376_CD ..._: ..._: ..._: ..._: 19,742_CD 1,858_CD 8,225_CD 4,083_CD 5,058_CD 4,234_CD 21,600_CD 74.83_CD 39.64_CD 41.87_CD 39.39_CD 195.73_CD 21,600_CD 0.10_CD ..._: ..._: 1.11_CD 3,983_CD 843_CD 2,327_CD 1,150_CD 737_CD 612_CD 4,826_CD 17.79_CD 8.50_CD 6.08_CD 5.46_CD 37.83_CD 4,860_CD 0.05_CD ..._: ..._: 0.88_CD 7,190_CD 363_CD 3,390_CD 1,212_CD 1,897_CD 1,054_CD 7,553_CD 25.13_CD 8.39_CD 13.81_CD 7.57_CD 54.90_CD 7,585_CD 0.22_CD ..._: 0.07_CD 1.58_CD 8,851_CD 469_CD 4,896_CD 1,917_CD 1,492_CD 1,015_CD 9,320_CD 37.97_CD 14.33_CD 11.04_CD 7.49_CD 70.89_CD 9,354_CD 0.11_CD ..._: ..._: 1.59_CD 8,422_CD 795_CD 4,234_CD 1,511_CD 2,117_CD 1,355_CD 9,217_CD 43.11_CD 15.07_CD 22.46_CD 12.90_CD 93.54_CD 9,255_CD ..._: ..._: ..._: 0.61_CD 4,915_CD 414_CD 2,193_CD 1,111_CD 1,138_CD 887_CD 5,329_CD 17.75_CD 8.43_CD 10.19_CD 7.45_CD 43.82_CD 5,355_CD 0.03_CD ..._: ..._: 0.37_CD 7,562_CD 559_CD 2,766_CD 1,644_CD 2,170_CD 1,541_CD 8,121_CD 21.44_CD 11.23_CD 15.35_CD 10.90_CD 58.92_CD 8,134_CD ..._: ..._: ..._: 0.03_CD 2,929_CD 379_CD 1,606_CD 658_CD 602_CD 442_CD 3,308_CD 5.99_CD 2.59_CD 2.35_CD 1.93_CD 12.86_CD 3,320_CD 1.15_CD 0.03_CD 0.01_CD 2.68_CD 7,821_CD 1,072_CD 4,206_CD 1,655_CD 1,815_CD 1,217_CD 8,893_CD 39.59_CD 17.51_CD 11.24_CD 15.86_CD 84.20_CD 8,959_CD 2.30_CD 0.07_CD ..._: 8.93_CD 7,072_CD 2,288_CD 5,050_CD 1,875_CD 1,403_CD 1,032_CD 9,360_CD 57.35_CD 20.04_CD 14.06_CD 11.41_CD 102.86_CD 9,575_CD 0.33_CD 0.09_CD 0.03_CD 1.32_CD 2,320_CD 401_CD 1,521_CD 524_CD 401_CD 275_CD 2,721_CD 10.71_CD 3.52_CD 3.02_CD 2.66_CD 19.91_CD 2,762_CD 0.47_CD 0.02_CD 0.08_CD 2.81_CD 7,188_CD 611_CD 3,409_CD 1,373_CD 1,792_CD 1,225_CD 7,799_CD 21.71_CD 10.11_CD 13.22_CD 9.64_CD 54.68_CD 7,867_CD 1.09_CD ..._: ..._: 5.17_CD 6,669_CD 676_CD 3,821_CD 1,419_CD 1,274_CD 831_CD 7,345_CD 38.79_CD 15.58_CD 14.25_CD 10.24_CD 78.86_CD 7,482_CD ..._: ..._: ..._: ..._: 7,987_CD 1,405_CD 5,891_CD 1,417_CD 1,362_CD 722_CD 9,392_CD 35.75_CD 7.70_CD 7.24_CD 3.53_CD 54.22_CD 9,392_CD 0.03_CD ..._: ..._: 0.74_CD 3,451_CD 301_CD 1,805_CD 604_CD 873_CD 470_CD 3,752_CD 17.18_CD 5.45_CD 8.67_CD 6.08_CD 37.38_CD 3,775_CD ..._: ..._: ..._: 0.38_CD 4,524_CD 534_CD 3,134_CD 763_CD 770_CD 391_CD 5,058_CD 19.31_CD 5.67_CD 5.22_CD 3.23_CD 33.43_CD 5,078_CD 0.24_CD 0.06_CD 0.06_CD 1.17_CD 9,255_CD 872_CD 5,766_CD 1,344_CD 1,979_CD 1,038_CD 10,127_CD 41.31_CD 8.33_CD 11.75_CD 6.63_CD 68.02_CD 10,166_CD 0.12_CD 0.01_CD ..._: 0.50_CD 3,963_CD 592_CD 2,351_CD 821_CD 810_CD 573_CD 4,555_CD 23.26_CD 8.23_CD 5.33_CD 4.98_CD 41.80_CD 4,587_CD 0.03_CD ..._: ..._: 0.03_CD 1,991_CD 686_CD 1,214_CD 473_CD 583_CD 407_CD 2,677_CD 25.17_CD 5.01_CD 8.27_CD 5.67_CD 44.12_CD 2,678_CD 0.67_CD 0.30_CD ..._: 2.61_CD 4,474_CD 438_CD 2,424_CD 910_CD 916_CD 662_CD 4,912_CD 20.31_CD 8.24_CD 7.62_CD 5.85_CD 42.02_CD 4,977_CD 0.03_CD ..._: ..._: 0.87_CD 8,040_CD 747_CD 3,699_CD 2,102_CD 1,578_CD 1,408_CD 8,787_CD 25.49_CD 13.73_CD 12.15_CD 9.84_CD 61.21_CD 8,817_CD 0.09_CD ..._: ..._: 3.09_CD 5,160_CD 493_CD 3,684_CD 877_CD 700_CD 392_CD 5,653_CD 27.60_CD 8.86_CD 6.00_CD 3.65_CD 46.11_CD 5,719_CD 0.04_CD ..._: ..._: 1.35_CD 4,304_CD 285_CD 2,210_CD 763_CD 982_CD 634_CD 4,589_CD 16.12_CD 5.87_CD 7.26_CD 4.35_CD 33.60_CD 4,606_CD ..._: ..._: ..._: 0.61_CD 4,906_CD 137_CD 2,299_CD 961_CD 1,006_CD 777_CD 5,043_CD 17.82_CD 7.99_CD 10.51_CD 7.50_CD 43.82_CD 5,054_CD 0.05_CD ..._: ..._: 1.22_CD 3,265_CD 296_CD 1,659_CD 695_CD 667_CD 540_CD 3,561_CD 41.80_CD 16.20_CD 16.72_CD 11.14_CD 85.86_CD 3,570_CD 38.54_CD 5.64_CD 2.85_CD 162.65_CD 200,067_CD 20,653_CD 106,656_CD 42,936_CD 41,831_CD 29,297_CD 220,720_CD 920.51_CD 376.34_CD 353.97_CD 265.53_CD 1,916.35_CD 224,477_CD .42_NN ..._: ..._: 1.80_CD 8,933_CD 1,218_CD 4,620_CD 1,800_CD 2,248_CD 1,483_CD 10,151_CD 41.98_CD 14.94_CD 19.37_CD 11.83_CD 88.12_CD 10,194_CD 48_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP B.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+49_CD State_NNP ,_, Public_NNP ,_, Local_NNP Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191450_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP B.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+51_CD State_NNP ,_, Public_NNP ,_, Local_NNP Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191452_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP B.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+53_CD State_NNP ,_, Public_NNP ,_, Local_NNP Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191454_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+55_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 1914_CD ._.
+OTHER_NNP GENERAL_NNP DISEASES_NNP ._.
+SYSTEMIC_NNP DISEASES_NNP ._.
+Small-_JJ pox_NN ._.
+Syphilis_NNP (_( Primary_NNP and_CC Second-_NNP ary_NN )_) ._.
+Tubercle_NN of_IN the_DT lung_NN ._.
+Other_JJ tubercular_JJ diseases_NNS ._.
+All_DT other_JJ infective_JJ diseases_NNS ._.
+Anæmia_NNP ._.
+Diabetes_NNS ._.
+Scurvy_NNP ._.
+New_NNP Growth_NNP ._.
+All_DT other_JJ general_JJ diseases_NNS ._.
+Diseases_NNS of_IN the_DT nervous_JJ system_NN ._.
+Diseases_NNS of_IN the_DT eye_NN ._.
+Diseases_NNS of_IN the_DT ear_NN ._.
+Diseases_NNS of_IN the_DT nose_NN ._.
+Non-ma-_JJ lignant_NN ._.
+Malig-_JJ nant_NN ._.
+14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD 26_CD 27_CD 28_CD Total_NN treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+Total_JJ treated_VBD ._.
+Deaths_NNS ._.
+1_CD 1_CD 38_CD 2_CD 21_CD 5_CD 19_CD ..._: 7_CD ..._: 9_CD ..._: 5_CD ..._: ..._: ..._: 13_CD ..._: 6_CD 2_CD 1_CD ..._: 25_CD 6_CD 143_CD ..._: 2_CD ..._: 10_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3_CD ..._: 1_CD ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: .._NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 15_CD ..._: 2_CD 1_CD 2_CD ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 7_CD ..._: 2_CD ..._: 1_CD ..._: 6_CD 1_CD 58_CD ..._: ..._: ..._: 6_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 1_CD ..._: ..._: ..._: 1_CD ..._: 1_CD 1_CD 53_CD 2_CD 23_CD 6_CD 22_CD ..._: 8_CD 1_CD 10_CD ..._: 5_CD ..._: ..._: ..._: 20_CD ..._: 8_CD 2_CD 2_CD ..._: 36_CD 7_CD 203_CD ..._: 2_CD ..._: 18_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 5_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 4_CD ..._: 3_CD ..._: 5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 8_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 18_CD ..._: 1_CD 1_CD ..._: ..._: 4_CD ..._: 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 9_CD ..._: 17_CD ..._: 9_CD ..._: 3_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3_CD ..._: 4_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 23_CD ..._: 8_CD ..._: 12_CD ..._: ..._: ..._: 1_CD ..._: 2_CD ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: ..._: ..._: ..._: ..._: 6_CD ..._: 21_CD ..._: 7_CD 1_CD ..._: ..._: 8_CD 1_CD 6_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 28_CD ..._: 21_CD ..._: 40_CD ..._: 9_CD ..._: 4_CD ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 5_CD ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 1_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 4_CD ..._: 6_CD ..._: 1_CD ..._: ..._: ..._: 8_CD ..._: 28_CD 7_CD i_NN ..._: ..._: 8_CD 1_CD 8_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: 28_CD ..._: 25_CD ..._: 46_CD ..._: 10_CD ..._: 4_CD ..._: 56_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+57_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191458_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+59_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191460_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+61_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191462_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+63_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191464_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+65_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191466_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+67_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191468_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+69_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191470_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+71_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191372_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+73_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191474_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+75_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191476_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( I_PRP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+77_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191378_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( II_NNP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+79_CD Local_JJ Fund_NNP and_CC private_JJ non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 1914_CD ._.
+SYSTEMIC-DISEASES_NNP ._.
+GENERAL_NNP AND_NNP LOCAL_NNP ._.
+Total_JJ number_NN of_IN Out-door_JJ patients_NNS ._.
+Operations_NNS Diseases_NNS of_IN the_DT nervous_JJ system_NN ._.
+Diseases_NNS of_IN the_DT eye_NN ._.
+Diseases_NNS of_IN the_DT ear_NN ._.
+Diseases_NNS of_IN the_DT nose_NN ._.
+Diseases_NNS of_IN the_DT circulatory_NN system_NN ._.
+All_DT diseases_NNS of_IN the_DT respiratory_NN system_NN except_IN Pneumonia_NNP an_DT Tubercle_NNP of_IN the_DT lungs_NNS ._.
+Dyspepsia_NNP ._.
+Diarrh80_NNP DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( II_NNP )_) DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+81_CD Local_JJ Fund_NNP and_CC private_JJ non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191482_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP C_NNP (_( II_NNP )_) .DISPENSARIES_VBP IN_NNP RAJPUTANA_NNP ._.
+83_CD Local_JJ Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP during_IN the_DT year_NN 191484_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP F.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+85_CD sex_NN ,_, treated_VBN in_IN the_DT State_NNP ,_, Public_NNP ,_, Local_NNP Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP year_NN 1914_CD ._.
+DUS_NNP ._.
+MOHAMMADANS_NNS ._.
+OTHERS_NNS ._.
+TOTAL_NN TREATED_NNP ._.
+DREN_NNP ._.
+ADULTS_NNP ._.
+CHILDREN_NNP ._.
+ADULTS_NNP ._.
+CHILDREN_NNP ._.
+Female_NNP ._.
+Male_NN ._.
+Female_NNP ._.
+Male_NN ._.
+Female_NNP ._.
+Male_NN ._.
+Female_NNP ._.
+Male_NN ._.
+Female_NNP ._.
+10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 1,919_CD 5,984_CD 1,514_CD 2,068_CD 1,543_CD 370_CD 136_CD 134_CD 149_CD 28,254_CD 666_CD 770_CD 310_CD 533_CD 434_CD 48_CD 22_CD 16_CD 11_CD 6,908_CD 394_CD 712_CD 317_CD 471_CD 241_CD 342_CD 116_CD 98_CD 99_CD 6,040_CD 124_CD 272_CD 123_CD 187_CD 123_CD 74_CD 68_CD 86_CD 86_CD 2,140_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3,173_CD 1,939_CD 905_CD 819_CD 720_CD 427_CD 405_CD 288_CD 291_CD 29,753_CD 402_CD 169_CD 50_CD 72_CD 52_CD 260_CD 109_CD 257_CD 159_CD 3,847_CD 6,678_CD 9,846_CD 3,219_CD 4,150_CD 3,113_CD 1,521_CD 856_CD 879_CD 795_CD 76,942_CD 115_CD 300_CD 84_CD 35_CD 55_CD 257_CD 73_CD 58_CD 32_CD 2,421_CD 261_CD 1,282_CD 339_CD 354_CD 200_CD 38_CD 15_CD 5_CD 6_CD 7,785_CD 209_CD 889_CD 390_CD 369_CD 160_CD 136_CD 36_CD 31_CD 55_CD 3,973_CD 5_CD 76_CD 43_CD 24_CD 13_CD 19_CD 2_CD 10_CD 1_CD 267_CD 29_CD 216_CD 69_CD 50_CD 26_CD 510_CD 177_CD 145_CD 137_CD 1,745_CD ..._: 174_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 400_CD 164_CD 125_CD 41_CD 43_CD 48_CD 10_CD 6_CD 5_CD 6_CD 1,754_CD 13_CD 70_CD 20_CD 46_CD 16_CD 371_CD 48_CD 36_CD 32_CD 749_CD 40_CD 85_CD 6_CD 6_CD 4_CD 104_CD 4_CD 1_CD 3_CD 607_CD 113_CD 362_CD 111_CD 118_CD 59_CD 50_CD 24_CD 34_CD 34_CD 1,997_CD 949_CD 3,579_CD 1,103_CD 1,045_CD 581_CD 1,495_CD 385_CD 325_CD 306_CD 21,698_CD 381_CD 655_CD 256_CD 335_CD 227_CD 51_CD 29_CD 49_CD 33_CD 4,297_CD 98_CD 528_CD 58_CD 56_CD 13_CD 239_CD 121_CD 74_CD 39_CD 2,583_CD ..._: 140_CD 19_CD 1_CD 1_CD 9_CD 24_CD 1_CD 1_CD 308_CD 479_CD 1,323_CD 333_CD 442_CD 241_CD 299_CD 174_CD 124_CD 73_CD 7,188_CD 1,428_CD 4,902_CD 1,436_CD 1,487_CD 822_CD 1,794_CD 559_CD 449_CD 379_CD 28,886_CD 1,901_CD 4,919_CD 2,621_CD 1,347_CD 1,213_CD 10_CD 30_CD 34_CD 8_CD 33,574_CD 1,829_CD 1,348_CD 826_CD 794_CD 551_CD 121_CD 142_CD 97_CD 101_CD 16,376_CD 1,685_CD 4,359_CD 2,076_CD 2,923_CD 2,549_CD 1_CD ..._: ..._: ..._: 21,600_CD 369_CD 567_CD 478_CD 222_CD 242_CD 32_CD 6_CD 3_CD 1_CD 4,860_CD 784_CD 913_CD 396_CD 394_CD 245_CD 76_CD 16_CD 57_CD 25_CD 7,585_CD 667_CD 1,284_CD 555_CD 400_CD 344_CD 47_CD 19_CD 8_CD 5_CD 9,354_CD 796_CD 1,411_CD 588_CD 751_CD 551_CD 29_CD 15_CD 9_CD 8_CD 9,255_CD 667_CD 250_CD 155_CD 188_CD 216_CD 27_CD 2_CD 11_CD 4_CD 5,355_CD 693_CD 1,016_CD 596_CD 871_CD 604_CD 356_CD 301_CD 277_CD 244_CD 8,134_CD 198_CD 526_CD 294_CD 287_CD 173_CD 108_CD 51_CD 47_CD 51_CD 3,320_CD 739_CD 1,637_CD 639_CD 678_CD 479_CD ..._: ..._: ..._: ..._: 8,959_CD 710_CD 1,310_CD 559_CD 468_CD 322_CD ..._: ..._: ..._: ..._: 9,575_CD 208_CD 327_CD 148_CD 128_CD 69_CD 5_CD 1_CD ..._: 1_CD 2,762_CD 807_CD 810_CD 538_CD 627_CD 420_CD ..._: ..._: ..._: ..._: 7,867_CD 552_CD 1,283_CD 411_CD 394_CD 243_CD 70_CD 33_CD 38_CD 36_CD 7,432_CD 599_CD 1,026_CD 216_CD 244_CD 120_CD 39_CD 3_CD 5_CD 3_CD 9,392_CD 223_CD 674_CD 223_CD 419_CD 221_CD 66_CD 26_CD 39_CD 26_CD 3,775_CD 247_CD 570_CD 148_CD 185_CD 110_CD 90_CD 41_CD 33_CD 34_CD 5,078_CD 748_CD 633_CD 203_CD 311_CD 237_CD 171_CD 61_CD 96_CD 55_CD 10,166_CD 427_CD 282_CD 101_CD 113_CD 45_CD 178_CD 119_CD 72_CD 101_CD 4,587_CD 240_CD 267_CD 130_CD 186_CD 114_CD 102_CD 49_CD 80_CD 53_CD 2,678_CD 332_CD 611_CD 216_CD 217_CD 245_CD 176_CD 104_CD 66_CD 82_CD 4,977_CD 1,144_CD 460_CD 332_CD 278_CD 116_CD 89_CD 51_CD 35_CD 48_CD 8,817_CD 193_CD 872_CD 210_CD 229_CD 130_CD 206_CD 170_CD 64_CD 69_CD 5,719_CD 484_CD 447_CD 162_CD 236_CD 119_CD 50_CD 25_CD 20_CD 31_CD 4,606_CD 609_CD 414_CD 138_CD 215_CD 159_CD 21_CD 11_CD 13_CD 8_CD 5,054_CD 471_CD 313_CD 172_CD 165_CD 66_CD 2_CD 1_CD ..._: 3_CD 3,570_CD 18,322_CD 28,529_CD 13,111_CD 13,265_CD 10,023_CD 2,072_CD 1,277_CD 1,107_CD 997_CD 224,477_CD 1,048_CD 1,168_CD 435_CD 713_CD 421_CD 10_CD 12_CD 17_CD 14_CD 10,194_CD 86_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP F.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+87_CD sex_NN ,_, treated_VBN in_IN the_DT State_NNP ,_, Public_NNP ,_, Local_NNP Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP 191488_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP F.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+89_CD sex_NN ,_, treated_VBN in_IN the_DT State_NNP ,_, Public_NNP ,_, Local_NNP Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP 191490_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP F.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+91_CD sex_NN ,_, treated_VBN in_IN the_DT State_NNP ,_, Public_NNP ,_, Local_NNP Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP 191492_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP G.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+93_CD Local_JJ Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS in_IN Rajputana_NNP during_IN the_DT year_NN 1914_CD ._.
+PROVINCE_NNP ._.
+NATIVE_NNP STATES_NNPS ._.
+RESULT_NNP OF_NNP OPERATIONS_NNP ON_NNP PATIENTS_NNP ._.
+Number_NNP of_IN patients_NNS remaining_VBG at_IN close_NN of_IN the_DT year_NN ._.
+Number_NNP of_IN patients_NNS remaining_VBG from_IN last_JJ year_NN ._.
+NUMBER_NN OF_IN OPERATIONS_NNP PER-_NNP FORMED_NNP DURING_NNP THE_NNP YEAR_NNP ._.
+Number_NNP of_IN patients_NNS operated_VBN on_IN in_IN columns_NN 4_CD to_TO 6_CD ._.
+RESULT_NNP OF_NNP OPERATIONS_NNP ON_NNP PATIENTS_NNP ._.
+Number_NNP of_IN patients_NNS remaining_VBG at_IN close_NN of_IN the_DT year_NN ._.
+REMARKS_NNP ._.
+Cured_NNP ._.
+Relieved_VBN ._.
+Discharged_VBN otherwise_RB ._.
+Died_NNP ._.
+Principal_NNP ._.
+Secondary_NNP ._.
+Total_NN ._.
+Cured_NNP ._.
+Relieved_VBN ._.
+Discharged_VBN otherwise_RB ._.
+Died_NNP ._.
+8_CD 9_CD 10_CD 11_CD 12_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 25_CD ..._: ..._: ..._: ..._: 15_CD 519_CD ..._: 519_CD 517_CD 515_CD 6_CD 4_CD 3_CD 4_CD 21_CD ..._: ..._: ..._: 1_CD 3_CD 162_CD ..._: 162_CD 162_CD 161_CD 1_CD 1_CD 1_CD 1_CD 1,290_CD 1_CD 1_CD ..._: 3_CD 33_CD 28,946_CD 2_CD 28,948_CD 28,886_CD 28,753_CD 75_CD 27_CD 7_CD 57_CD 61_CD ..._: ..._: ..._: ..._: ..._: 967_CD ..._: 967_CD 967_CD 966_CD 1_CD ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 11_CD ..._: 11_CD 11_CD 10_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD 1_CD 1_CD ..._: ..._: ..._: ..._: 4_CD ..._: ..._: ..._: ..._: ..._: 4_CD 1_CD 5_CD 4_CD 3_CD ..._: 1_CD ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: 3_CD ..._: 3_CD 3_CD 3_CD ..._: ..._: ..._: ..._: 11_CD ..._: ..._: ..._: 1_CD 2_CD 66_CD ..._: 66_CD 65_CD 58_CD 4_CD ..._: 1_CD 4_CD ..._: ..._: ..._: ..._: ..._: 1_CD 171_CD ..._: 171_CD 171_CD 172_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 2_CD 2_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 2_CD 2_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 6_CD ..._: 6_CD 6_CD 6_CD ..._: ..._: ..._: ..._: 29_CD ..._: ..._: ..._: ..._: 1_CD 553_CD ..._: 553_CD 553_CD 546_CD 2_CD ..._: 1_CD 5_CD ..._: ..._: ..._: ..._: ..._: ..._: 13_CD ..._: 13_CD 13_CD 11_CD 1_CD ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: 3_CD ..._: 3_CD 3_CD 1_CD ..._: 2_CD ..._: ..._: 339_CD ..._: ..._: ..._: 3_CD 16_CD 7,278_CD ..._: 7,278_CD 7,276_CD 7,255_CD 19_CD 4_CD 1_CD 13_CD 105_CD 1_CD ..._: ..._: ..._: 5_CD 555_CD ..._: 555_CD 553_CD 549_CD 7_CD ..._: 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: 177_CD ..._: 177_CD 177_CD 177_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD 23_CD ..._: 22_CD 22_CD 23_CD ..._: 1_CD ..._: ..._: 2_CD ..._: ..._: ..._: ..._: 1_CD 94_CD ..._: 94_CD 94_CD 94_CD 1_CD ..._: ..._: ..._: 65_CD ..._: ..._: ..._: 4_CD ..._: 8_CD ..._: 8_CD 8_CD 6_CD ..._: 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 9_CD 30_CD ..._: 30_CD 29_CD 35_CD 2_CD ..._: 1_CD ..._: 9_CD ..._: ..._: ..._: 1_CD 24_CD 290_CD 1_CD 291_CD 290_CD 287_CD 13_CD 2_CD 1_CD 11_CD 6_CD 2_CD 1_CD ..._: ..._: ..._: 1,112_CD 2_CD 1,114_CD 1,111_CD 1,029_CD 30_CD 26_CD 10_CD 16_CD 6_CD ..._: ..._: ..._: 1_CD 1_CD 44_CD ..._: 44_CD 43_CD 39_CD 2_CD ..._: 1_CD 2_CD 48_CD 2_CD 1_CD ..._: 3_CD 1_CD 519_CD ..._: 519_CD 519_CD 505_CD 12_CD 2_CD ..._: 1_CD 2_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 28_CD ..._: 28_CD 27_CD 19_CD 5_CD 3_CD ..._: ..._: 1_CD ..._: ..._: ..._: 1_CD ..._: 4_CD ..._: 4_CD 4_CD 3_CD ..._: ..._: ..._: 1_CD 2_CD ..._: ..._: ..._: ..._: 1_CD 18_CD ..._: 18_CD 18_CD 16_CD 1_CD 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 5_CD ..._: 5_CD 5_CD 5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 14_CD 4_CD 18_CD 14_CD 9_CD 3_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD 7_CD ..._: 7_CD 7_CD 5_CD ..._: 1_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3_CD ..._: 3_CD 3_CD 1_CD 1_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 4_CD ..._: 4_CD 4_CD 3_CD ..._: ..._: 1_CD ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 2_CD 2_CD 2_CD ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 6_CD ..._: 6_CD 6_CD 6_CD ..._: ..._: ..._: ..._: 6_CD ..._: ..._: ..._: ..._: 1_CD 6_CD ..._: 6_CD 6_CD 7_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: 1_CD 1_CD 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD 1_CD ..._: 1_CD 1_CD 3_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 6_CD ..._: 6_CD 6_CD 2_CD ..._: 2_CD 2_CD ..._: 2_CD ..._: ..._: ..._: 1_CD ..._: 7_CD ..._: 7_CD 7_CD 4_CD ..._: ..._: 2_CD 1_CD ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: 3_CD ..._: ..._: ..._: ..._: ..._: 3_CD ..._: 3_CD 2_CD 2_CD ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: 2_CD ..._: 2_CD 2_CD 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 5_CD ..._: 5_CD 5_CD 5_CD ..._: ..._: ..._: ..._: 2,041_CD 7_CD 3_CD ..._: 19_CD 121_CD 41,685_CD 10_CD 41,695_CD 41,613_CD 41,310_CD 187_CD 82_CD 37_CD 118_CD 94_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP G.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+95_CD Local_JJ Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS in_IN Rajputana_NNP during_IN the_DT year_NN 191496_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP G.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+97_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS in_IN Rajputana_NNP during_IN the_DT year_NN 191498_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP G.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+99_CD Local_JJ Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS in_IN Rajputana_NNP during_IN the_DT year_NN 1914100_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP H.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+101_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP for_IN the_DT year_NN 1914_CD ._.
+EXPENDITURE_NNP ._.
+Miscellaneous_JJ receipts_NNS (_( to_TO include_VB sale_NN of_IN securities_NNS )_) ._.
+Total_JJ receipts_NNS ._.
+SALARIES_NNP ._.
+MEDICINES_NNP ._.
+Diet_NNP ._.
+Miscel-_NNP laneous_JJ charges_NNS ._.
+Buildings_NNS or_CC Repairs_NNS ._.
+Invest-_JJ mente_NN ._.
+Total_JJ Ex-_JJ penditure_NN ._.
+Closing_NN Balances_NNS ._.
+Medical_JJ officers_NNS ._.
+Nurses_NNS ._.
+Inferior_JJ servants_NNS ._.
+European_JJ ._.
+Bazaar_NNP ._.
+11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD ..._: 13,057_CD 3,779_CD ..._: 1,371_CD 2,320_CD 269_CD 1,222_CD 2,419_CD 1,556_CD ..._: 12,935_CD 122_CD ..._: 2,048_CD 460_CD ..._: 148_CD 241_CD 21_CD ..._: 109_CD 26_CD ..._: 1,005_CD 1,043_CD ..._: 1,226_CD 457_CD ..._: 134_CD 122_CD 10_CD ..._: 101_CD ..._: ..._: 824_CD 402_CD ..._: 1,649_CD 689_CD ..._: 134_CD 151_CD 10_CD ..._: 104_CD 39_CD ..._: 1,127_CD 522_CD ..._: 3,890_CD 1,106_CD ..._: 708_CD 571_CD 47_CD 266_CD 533_CD 3_CD ..._: 3,234_CD 656_CD ..._: 770_CD 404_CD ..._: 129_CD 125_CD 14_CD ..._: 98_CD ..._: ..._: 770_CD ..._: ..._: 22,640_CD 6,395_CD ..._: 2,624_CD 3,530_CD 371_CD 1,488_CD 3,364_CD 1,623_CD ..._: 19,895_CD 2,745_CD ..._: ..._: 540_CD ..._: 132_CD 195_CD 5_CD ..._: 148_CD ..._: ..._: 1,020_CD ..._: ..._: ._.
+._.
+._.
+720_CD ..._: 300_CD 230_CD 11_CD ..._: 116_CD ..._: ..._: 1,377_CD ..._: ..._: ..._: 800_CD ._.
+._.
+._.
+336_CD 263_CD 14_CD 19_CD 172_CD ..._: ..._: 1,604_CD ..._: ..._: ..._: 360_CD ._.
+._.
+._.
+218_CD 178_CD 3_CD ..._: 50_CD ..._: ..._: 809_CD ..._: ..._: ..._: 960_CD ..._: 24_CD 35_CD 17_CD 33_CD 22_CD ..._: ..._: 1,031_CD ..._: ..._: 343_CD ..._: ..._: ..._: 227_CD 18_CD ..._: 100_CD ..._: ..._: 343_CD |_NN ..._: ..._: 1,380_CD ..._: 456_CD 606_CD 11_CD 85_CD 374_CD ..._: ..._: 2,812_CD ..._: ..._: ..._: 780_CD ..._: 274_CD 103_CD 17_CD ..._: 32_CD ..._: ..._: 1,206_CD !_.
+..._: ..._: ..._: 540_CD ..._: 245_CD 296_CD |_NN 30_CD ..._: 189_CD ..._: ..._: 1,300_CD ..._: ..._: ..._: 315_CD ..._: 99_CD 213_CD |_NN 20_CD ..._: 27_CD ..._: ..._: 674_CD ..._: ..._: 843_CD 6,335_CD ..._: 2,084_CD 2,246_CD 144_CD 137_CD 1,280_CD ..._: 12,176_CD '_'' ..._: ..._: 4,143_CD ..._: 524_CD 363_CD 54_CD 110_CD 121_CD ..._: 6,315_CD ..._: ..._: 540_CD ..._: 365_CD 178_CD 21_CD 34_CD 95_CD ..._: ..._: 1,233_CD ..._: ..._: ..._: 540_CD ..._: 207_CD 136_CD 2_CD ..._: 1_CD ..._: ..._: 885_CD ..._: ..._: ..._: 5,223_CD ..._: 1,096_CD 676_CD 77_CD 144_CD 217_CD ..._: ..._: 7,433_CD ..._: ..._: 343_CD 11,558_CD ..._: 8,180_CD 2,922_CD 221_CD 281_CD 1,447_CD ..._: ..._: 19,609_CD ..._: ..._: ..._: 7,967_CD 797_CD 3,538_CD 11,519_CD 162_CD 7,877_CD 6,817_CD 5,298_CD ..._: 43,975_CD ..._: ..._: ..._: 1,081_CD ..._: 320_CD 608_CD 191_CD ..._: 101_CD 11_CD ..._: 2,312_CD ..._: ..._: ..._: 804_CD ..._: 253_CD 741_CD 194_CD ..._: 55_CD 32_CD ..._: 2,079_CD ..._: ..._: ..._: 660_CD ..._: 162_CD 138_CD 46_CD 4_CD 85_CD 62_CD ..._: 1,157_CD ..._: ..._: ..._: 601_CD ..._: 138_CD 209_CD 117_CD 24_CD 69_CD ..._: ..._: 1,148_CD ..._: ..._: ..._: 851_CD ..._: 116_CD 181_CD 57_CD 20_CD 74_CD 148_CD ..._: 1,147_CD ..._: ..._: ..._: 1,188_CD ..._: 150_CD 184_CD 76_CD 9_CD 63_CD ..._: ..._: 1,670_CD ..._: ..._: ..._: 563_CD ..._: 144_CD 217_CD 99_CD 8_CD 99_CD 222_CD ..._: 1,352_CD ..._: ..._: ..._: 780_CD ..._: 186_CD 226_CD 45_CD 12_CD 8O_CD ..._: ..._: 1,328_CD ..._: ..._: ..._: 646_CD ..._: 119_CD 188_CD 3_CD 10_CD 53_CD 70_CD ..._: 1,089_CD ..._: ..._: ..._: 780_CD ..._: 163_CD 186_CD 121_CD 144_CD 97_CD 27_CD ..._: 1,518_CD ..._: ..._: ..._: 3,000_CD ..._: 540_CD 379_CD 133_CD 607_CD 186_CD ..._: ..._: 4_CD 845_CD ..._: ..._: ..._: 534_CD ..._: 192_CD 291_CD 37_CD 30_CD 69_CD ..._: ..._: 1,153_CD ..._: ..._: ..._: 480_CD ..._: 192_CD 286_CD 4_CD 57_CD 81_CD ..._: ..._: 1,100_CD ..._: ..._: ..._: 1,040_CD ..._: 375_CD 320_CD 27_CD 271_CD 45_CD ..._: ..._: 2,018_CD ..._: ..._: ..._: 2,260_CD ..._: 612_CD 1,303_CD 6_CD ..._: 110_CD ..._: ..._: 4,372_CD ..._: ..._: ..._: 459_CD ..._: 156_CD 200_CD 33_CD 14_CD 60_CD 148_CD ..._: 1,090_CD ..._: ..._: ..._: 720_CD ..._: 125_CD 178_CD 28_CD 15_CD 89_CD ..._: ..._: 1,155_CD ..._: ..._: ..._: 827_CD ..._: 151_CD 206_CD 78_CD 32_CD 97_CD 110_CD ..._: 1,501_CD ..._: ..._: ..._: 660_CD ..._: 162_CD 206_CD 81_CD 36_CD 71_CD 122_CD ..._: 1,338_CD ..._: ..._: ..._: 420_CD ..._: 119_CD 149_CD 7_CD ..._: 21_CD ..._: ..._: 716_CD ..._: ..._: ..._: 720_CD ..._: 126_CD 215_CD 51_CD 41_CD 64_CD 682_CD ..._: l,889_NN ..._: ..._: ..._: 545_CD ..._: 114_CD 195_CD 2_CD ..._: 44_CD ..._: ..._: 900_CD ..._: ..._: ..._: 480_CD ..._: 180_CD 207_CD 100_CD 36_CD 134_CD 477_CD ..._: 1,614_CD ..._: ..._: ..._: 1,756_CD ..._: 958_CD 1,964_CD 68_CD ..._: 126_CD 305_CD ..._: 5,167_CD ..._: ..._: ..._: 480_CD ..._: 144_CD 189_CD 6_CD 4_CD 62_CD ..._: ..._: 885_CD ..._: ..._: ..._: 302_CD ..._: 72_CD 842_CD 72_CD 2_CD 221_CD ..._: ..._: 1,511_CD ..._: ..._: ..._: 30,624_CD 797_CD 9,507_CD 21,526_CD 1,889_CD 9,263_CD 9,089_CD 7,714_CD ..._: 90,399_CD ..._: ..._: ..._: 1,230_CD ..._: 870_CD 638_CD 84_CD 107_CD 178_CD ..._: ..._: 3,007_CD ..._: diseased_VBN to_TO R1,057_NNP during_IN the_DT year_NN 1914_CD ._.
+102_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP H.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+103_CD Fund_NNP and_CC '_POS Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP for_IN the_DT year_NN 1914104_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP H.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+105_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP for_IN the_DT year_NN 1914106_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP H.DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+107_CD Fund_NNP and_CC Private_NNP non-aided_JJ Dispensaries_NNS of_IN Rajputana_NNP for_IN the_DT year_NN 1914108_CD DISPENSARIES_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP J.110_NNP JAILS_NNP AND_NNP SUBSIDIARY_NNP JAILS_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP No_NNP ._.
+XIV_NN (_( VITAL_NNP )_) .JAILS_NN AND_CC SUBSIDIARY_NNP JAILS_NNP IN_NNP RAJPUTANA_NNP ._.
+111_CD all_DT classes_NNS in_IN the_DT Jails_NNP and_CC Subsidiary_NNP Jails_NNP of_IN Rajputana_NNP during_IN the_DT year_NN 1914_CD ._.
+8_CD 9_CD 10_CD Daily_JJ average_JJ number_NN of_IN sick_JJ ._.
+Number_NNP of_IN deaths_NNS in_IN and_CC out_IN of_IN Hospital_NNP ._.
+RATIO_NNP PER_NNP MILLS_NNP OF_NNP AVERAGE_NNP STRENGTH_NNP ._.
+A_DT B_NNP C_NNP D_NNP Of_IN admission_NN into_IN Hospital_NNP ._.
+Of_IN daily_JJ average_JJ number_NN of_IN sick_JJ ._.
+Of_IN deaths_NNS from_IN all_DT causes_NNS ,_, except_IN cholera_NN ._.
+Of_IN deaths_NNS from_IN all_DT causes_NNS both_DT in_IN and_CC out_IN of_IN Hospital_NNP ._.
+M._NNP F._NNP Total_NNP ._.
+M._NNP F._NNP Total_NNP ._.
+M._NNP F._NNP Total_NNP ._.
+M._NNP F._NNP Total_NNP ._.
+M._NNP F._NNP Total_NNP ._.
+M._NNP F._NNP Total_NNP ._.
+6.38_CD 0.26_CD 6.64_CD 3_CD 1_CD 4_CD 585.39_CD 345.62_CD 578.55_CD 21.59_CD 29.59_CD 21.83_CD 10.15_CD 115.21_CD 13.15_CD 10.15_CD 115.21_CD 13.15_CD 0.46_CD 0.01_CD 0.47_CD ..._: ..._: ..._: 302.52_CD 280.11_CD 754.03_CD 13.18_CD 2.80_CD 12.32_CD ..._: ..._: ..._: ..._: ..._: ..._: 0.16_CD ..._: 0.16_CD ..._: ..._: ..._: 1,886.79_CD ..._: 1,886.79_CD 301.89_CD ..._: 301.89_CD ..._: ..._: ..._: ..._: ..._: ..._: 7.00_CD 0.27_CD 7.27_CD 3_CD 1_CD 4_CD 610.36_CD 326.53_CD 600.23_CD 21.15_CD 22.04_CD 21.18_CD 9.07_CD 81.63_CD 11.66_CD 9.07_CD 81.63_CD 11.66_CD 4.11_CD 0.39_CD 4.50_CD 1_CD 1_CD 2_CD 196.81_CD 161.15_CD 193.37_CD 7.85_CD 6.98_CD 7.77_CD 1.91_CD 17.91_CD 3.45_CD 1.91_CD 17.91_CD 3.45_CD 0.29_CD ..._: 0.29_CD 1_CD ..._: 1_CD 1,500.00_CD ..._: 434.15_CD 145.00_CD ..._: 41.97_CD 500.00_CD ..._: 144.72_CD 500.00_CD ..._: 144.72_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 4.40_CD 0.39_CD 4.79_CD 2_CD 1_CD 3_CD 201.77_CD 148.12_CD 196.21_CD 8.38_CD 6.42_CD 8.17_CD 3.81_CD 16.46_CD 5.12_CD 3.81_CD 16.46_CD 5.12_CD 2.22_CD ..._: 2.22_CD 3_CD ..._: 3_CD 189.05_CD ..._: 189.05_CD 10.24_CD ..._: 10.24_CD 13.83_CD ..._: 13.83_CD 13.83_CD ..._: 12.83_CD 124_CD ..._: 1.24_CD 3_CD ..._: 3_CD 194.17_CD ..._: 194.17_CD 18.54_CD ..._: 18.52_CD 44.80_CD ..._: 44.80_CD 44.80_CD ..._: 44.80_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3.46_CD ..._: 3.46_CD 6_CD ..._: 6_CD 189.16_CD ..._: 189.16_CD 12.12_CD ..._: 12.12_CD 21.02_CD ..._: 21.02_CD 21.02_CD ..._: 21.02_CD 0.62_CD ..._: 0.62_CD 2_CD ..._: 2_CD 192.62_CD ..._: 173.81_CD 19.90_CD ..._: 17.96_CD 64.21_CD ..._: 57.94_CD 64.21_CD ..._: 57.94_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 0.62_CD ..._: 0.62_CD 2_CD ..._: 2_CD 141.38_CD ..._: 126.26_CD 14.61_CD ..._: 13.08_CD 47.13_CD ..._: 42.19_CD 47.13_CD ..._: 42.19_CD 6.53_CD ..._: 6.53_CD 2_CD ..._: 2_CD 403.83_CD ..._: 377.34_CD 16.48_CD ..._: 15.40_CD 5.05_CD ..._: 4.72_CD 5.05_CD ..._: 4.72_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 6.53_CD ..._: 6.53_CD 2_CD ..._: 2_CD 380.71_CD ..._: 355.07_CD 15.54_CD ..._: 14.49_CD 4.76_CD ..._: 4.44_CD 4.76_CD ..._: 4.44_CD 3.50_CD ..._: 3.50_CD 2_CD ..._: 2_CD 206.31_CD ..._: 198.42_CD 13.13_CD ..._: 12.62_CD 7.50_CD ..._: 7.22_CD 7.50_CD ..._: 7.22_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3.50_CD ..._: 3.50_CD 2_CD ..._: 2_CD 193.53_CD ..._: 184.79_CD 12.32_CD ..._: 11.76_CD 7.04_CD ..._: 6.72_CD 7.04_CD ..._: 6.72_CD 3.96_CD ..._: 3.96_CD 3_CD ..._: 3_CD 657.39_CD ..._: 632.68_CD 51.04_CD ..._: 49.13_CD 38.67_CD ..._: 37.22_CD 38.67_CD ..._: 37.22_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3.96_CD ..._: 3.96_CD 3_CD ..._: 3_CD 531.36_CD ..._: 505.70_CD 41.26_CD ..._: 39.27_CD 31.26_CD ..._: 29.75_CD 31.26_CD ..._: 29.75_CD 5.90_CD ..._: 5.90_CD 5_CD 2_CD 7_CD 768.66_CD ..._: 729.01_CD 25.91_CD ..._: 24.58_CD 21.96_CD 161.55_CD 29.16_CD 21.96_CD 161.25_CD 29.16_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 5.90_CD ..._: 5.90_CD 5_CD 2_CD 7_CD 758.40_CD ..._: 719.78_CD 25.57_CD ..._: 24.27_CD 21.67_CD 161.55_CD 28.75_CD 21.67_CD 161.55_CD 28.75_CD 8.04_CD ..._: 8.04_CD 6_CD ..._: 6_CD 644.54_CD ..._: 630.72_CD 18.38_CD ..._: 17.98_CD 13.71_CD ..._: 13.42_CD 13.71_CD ..._: 13.42_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 8.04_CD ..._: 8.04_CD 6_CD ..._: 6_CD 521.12_CD ..._: 507.05_CD 14.86_CD ..._: 14.46_CD 11.09_CD ..._: 10.79_CD 11.09_CD ..._: 10.79_CD 0.43_CD ..._: 0.43_CD 4_CD ..._: 4_CD 75.95_CD ..._: 74.92_CD 2.72_CD ..._: 2.68_CD 25.32_CD ..._: 24.97_CD 25.32_CD ..._: 24.97_CD 0.17_CD ..._: 0.17_CD ..._: ..._: ..._: 143.06_CD ..._: 137.13_CD 6.08_CD ..._: 5.83_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 0.60_CD ..._: 0.60_CD 4_CD ..._: 4_CD 86.03_CD ..._: 84.49_CD 3.23_CD ..._: 3.17_CD 21.51_CD ..._: 21.12_CD 21.51_CD ..._: 21.12_CD 1.51_CD 0.05_CD 1.56_CD 2_CD ..._: 2_CD 398.19_CD 382.65_CD 397.32_CD 20.77_CD 6.38_CD 19.37_CD 27.51_CD ..._: ..._: ..._: ..._: 24.83_CD 0.05_CD ..._: 0.05_CD 1_CD ..._: 1_CD 95.24_CD ..._: 91.41_CD 4.76_CD ..._: 4.57_CD 95.24_CD ..._: 91.41_CD 95.24_CD ..._: 91.41_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1.56_CD 0.05_CD 1.61_CD 3_CD ..._: 3_CD 360.58_CD 362.32_CD 360.73_CD 18.75_CD 6.04_CD 17.60_CD 36.06_CD ..._: 32.79_CD 36.06_CD ..._: 32.79_CD 112_CD JAILS_NNP AND_NNP SUBSIDIARY_NNP JAILS_NNP IN_NNP RAJPUTANA_NNP ._.
+STATEMENT_NNP No_NNP ._.
+XIV_NN (_( VITAL_NNP )_) .JAILS_NN AND_CC SUBSIDIARY_NNP JAILS_NNP IN_NNP RAJPUTANA_NNP ._.
+113_CD all_DT classes_NNS in_IN the_DT Jails_NNP and_CC Subsidiary_NNP Jails_NNP of_IN Rajputana_NNP during_IN the_DT year_NN 1914CALCUTTA_CD SUPERIENTEDENT_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ._.
+8_CD ,_, HASTINGS_NNP STREET_NNP

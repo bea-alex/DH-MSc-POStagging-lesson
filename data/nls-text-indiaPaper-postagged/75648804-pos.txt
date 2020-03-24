@@ -1,0 +1,443 @@
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP ANNUAL_NNP ADMINISTRATION_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, SIND_NNP ,_, FOR_IN THE_DT YEAR_NNP 1942-43_CD ._.
+KARACHI_NNS :_: PRINTED_NN AT_IN THE_NNP GOVERNMENT_NNP PRESS_NNP 1947_CD Below_NNP Annual_NNP Administration_NNP Report_NNP of_IN the_DT Civil_NNP Veterinary_NNP Department_NNP ,_, Sind_NNP ,_, for_IN the_DT year_NN 1942-43_RB ._.
+No_DT ._.
+5817/G.-IV-3_CD of_IN 1943-44_NNS ._.
+OFFICE_NN OF_IN THE_NNP DIRECTOR_NNP OF_NNP VETERINARY_NNP SERVICES_NNP ,_, SIND_NNP ._.
+Karachi_NNP ,_, dated_VBD 30th_CD September_NNP 1943_CD ._.
+Forwarded_VBN with_IN compliments_NNS to_TO the_DT Secretary_NNP to_TO the_DT Government_NNP of_IN Sind_NNP ,_, General_NNP Department_NNP ._.
+2_CD ._.
+Mr._NNP Bachan_NNP Singh_NNP ,_, M.R.C.V.S._NNP ,_, J.P._NNP ,_, held_VBD the_DT charge_NN of_IN the_DT depart-_JJ ment_NN throughout_IN the_DT year_NN ._.
+3_CD ._.
+The_DT total_JJ mortality_NN from_IN contagious_JJ ,_, infectious_JJ and_CC parasitic_JJ diseases_NNS was_VBD 7,377_CD as_IN against_IN 6,365_CD in_IN the_DT preceding_JJ year_NN ._.
+4_CD ._.
+One_CD Itinerating_NNP Veterinary_NNP Dispensary_NNP and_CC two_CD grant-in-aid_JJ dispensaries_NNS were_VBD opened_VBN during_IN the_DT year_NN thus_RB bringing_VBG the_DT total_NN to_TO 35_CD as_IN against_IN 32_CD Veterinary_JJ Dispensaries_NNPS working_VBG last_JJ year_NN ._.
+47,499_CD cases_NNS were_VBD ''_'' treated_VBN at_IN these_DT dispensaries_NNS during_IN the_DT year_NN as_IN against_IN 43,572_CD cases_NNS treated_VBD during_IN the_DT previous_JJ year_NN ._.
+5,517_CD castrations_NNS were_VBD performed_VBN this_DT year_NN as_IN against_IN 5,250_CD last_JJ year_NN ._.
+5_CD ._.
+The_DT Veterinary_NNP Assistant_NNP Surgeons_NNP and_CC Veterinary_NNP Field_NNP Com-_NNP pounders_NNS during_IN the_DT course_NN of_IN their_PRP$ tours_NNS treated_VBD 69,454_CD cases_NNS for_IN contagious_JJ and_CC parasitic_JJ diseases_NNS ,_, 7,918_CD cases_NNS for_IN non-contagious_JJ diseases_NNS and_CC castrated_VBD 3,318_CD animals_NNS in_IN 2,831_CD villages_NNS during_IN the_DT year_NN as_IN against_IN 70,448_CD cases_NNS for_IN contagious_JJ and_CC parasitic_JJ diseases_NNS ,_, 7,299_CD for_IN non-contagious_JJ diseases_NNS treated_VBD and_CC 2,428_CD castrations_NNS performed_VBN in_IN 2,635_CD villages_NNS during_IN the_DT year_NN preceding_NN ._.
+6_CD ._.
+The_DT District_NNP Local_NNP Board_NNP ,_, Upper_NNP Sind_NNP Frontier_NNP ,_, held_VBD their_PRP$ Horse_NN Show_NNP at_IN Jacobabad_NNP as_IN usual_JJ and_CC Government_NNP contributed_VBD Rs_NNP ._.
+500_CD and_CC a_DT silver_NN medal_VBZ The_DT Karachi_NNP Race_NNP and_CC Riding_NNP Club_NNP ,_, Ltd._NNP ,_, also_RB contributed_VBD Rs_NNP ._.
+500_CD in_IN cash_NN ._.
+7_CD ._.
+The_DT total_JJ expenditure_NN of_IN the_DT department_NN during_IN the_DT year_NN was_VBD Rs_NNP ._.
+1,83,262_CD as_IN against_IN Rs_NNP ._.
+1,65,134_CD last_JJ year_NN ._.
+BACHAN_NNP SINGH_NNP ,_, Director_NNP of_IN Veterinary_NNP Services_NNPS ,_, Sind_NNP ._.
+L_NNP (_( iv_NN )_) 1826Annual_CD Administration_NNP Report_NNP of_IN the_DT Civil_NNP Veterinary_NNP Department_NNP ,_, Sind_NNP ,_, for_IN the_DT year_NN 1942-43_RB ._.
+GENERAL_NNP ADMINISTRATION_NNP ._.
+Mr._NNP Bachan_NNP Singh_NNP ,_, M.R.C.V.S._NNP ,_, J.P._NNP ,_, held_VBD charge_NN of_IN the_DT Civil_NNP Veterinary_NNP Department_NNP ,_, Sind_NNP ,_, throughout_IN the_DT year_NN under_IN report_NN ._.
+He_PRP was_VBD on_IN tour_NN for_IN 74_CD days_NNS during_IN which_WDT period_NN he_PRP attended_VBD outbreaks_NNS of_IN contagious_JJ disease_NN whenever_WRB possible_JJ and_CC inspected_JJ 15_CD Veterinary_JJ Dispensaries_NNS ._.
+He_PRP attended_VBD the_DT meetings_NNS of_IN the_DT Advisory_NNP Board_NNP and_CC the_DT Animal_NNP Husbandry_NNP Wing_NNP of_IN the_DT Imperial_NNP Council_NNP of_IN Agricultural_NNP Research_NNP at_IN Delhi_NNP ._.
+He_PRP also_RB inspected_VBD different_JJ Panjrapoles_NNP and_CC slaughter_NN houses_NNS in_IN the_DT Province_NNP and_CC attended_VBD the_DT Jacobabad_NNP Horse_NNP and_CC Pony_NNP Show_NNP ._.
+2_CD ._.
+Mr._NNP Abdul_NNP Majid_NNP continued_VBD to_TO remain_VB in_IN charge_NN of_IN the_DT Goat_NNP Virus_NNP Producing_NNP Station_NNP ,_, Karachi_NNP ,_, throughout_IN the_DT year_NN except_IN for_IN the_DT period_NN 20th_CD April_NNP to_TO 19th_CD May_NNP 1942_CD when_WRB he_PRP was_VBD on_IN leave_NN ._.
+No_DT acting_VBG arrangement_NN was_VBD made_VBN during_IN his_PRP$ absence_NN as_IN the_DT Director_NNP supervised_VBD the_DT work_NN of_IN the_DT Goat_NNP Virus_NNP Producing_NNP Station_NNP ._.
+The_DT Goat_NNP Virus_NNP Producing_NNP Station_NNP continued_VBD to_TO do_VB useful_JJ work_NN in_IN promptly_RB supplying_VBG goat_NN tissue_NN virus_NN when_WRB required_VBN ._.
+3_CD ._.
+Mr._NNP H._NNP S._NNP Bawa_NNP ,_, ._.
+M.R.C.V.S._NNP ,_, remained_VBD as_IN Veterinary_NNP Investigation_NNP Officer_NNP ,_, Sind_NNP ,_, throughout_IN the_DT year_NN under_IN report_NN ._.
+He_PRP was_VBD on_IN tour_NN in_IN Sind_NNP for_IN 91_CD days_NNS travelling_VBG 7,072_CD miles_NNS by_IN rail_NN and_CC 937_CD miles_NNS by_IN road_NN as_IN compared_VBN with_IN 95_CD days_NNS spent_VBN on_IN tour_NN and_CC 7,373_CD miles_NNS by_IN rail_NN and_CC 683_CD miles_NNS by_IN road_NN travelled_VBN in_IN 1941-42_JJ ._.
+I.2_NNP (_( ii_NN )_) BOVINE_NNP CONTAGIOUS_NNP DISEASES_NNP ._.
+(_( a_DT )_) Cattle_NNP ._.
+8_CD ._.
+Rinderpest.3_NNP 22_CD ._.
+Pleuro-pneumonia.4_NNP (_( iv_NN )_) PREVENTIVE_NNP INOCULATION_NNP ._.
+36_CD ._.
+The_DT Goat_NNP Virus_NNP Producing_NNP Station_NNP continued_VBD to_TO supply_VB tissue_NN virus_NN to_TO the_DT district_NN staff_NN whenever_WDT required_VBN very_RB promptly_RB and_CC thus_RB was_VBD instru-_JJ mental_NN in_IN preventing_VBG the_DT spread_NN of_IN Rinderpest_NNP and_CC saving_VBG mortality_NN ._.
+The_DT expenditure_NN on_IN this_DT station_NN was_VBD Rs_NNP ._.
+5,219_CD as_IN against_IN 4,638_CD in_IN the_DT previous_JJ year_NN ._.
+37_CD ._.
+Table_JJ II.5_NNP (_( vi_NN )_) LABORATORY_NNP AND_NNP INVESTIGATION_NNP WORK_NNP 45_CD ._.
+788_CD (_( seven_CD hundred_CD and_CC eighty-eight_JJ specimens_NNS of_IN blood_NN smears_NNS ,_, scrapings_NNS ,_, fæces_NNS and_CC morbid_JJ material_NN ,_, etc._FW ,_, from_IN cases_NNS of_IN Surra_NNP ,_, Piroplasmosis_NNP ,_, Anthrax_NNP ,_, Hæmorrhagic_NNP Septicæmia_NNP ,_, Mange_NNP ,_, Coccidiosis_NNP ,_, Strangles_NNP ,_, etc._NN ,_, were_VBD received_VBN from_IN the_DT subordinate_JJ staff_NN and_CC examined_VBD ._.
+460_CD of_IN these_DT were_VBD found_VBN positive_JJ ._.
+Last_JJ year_NN the_DT specimens_NNS examined_VBN were_VBD 480_CD with_IN 247_CD positive_JJ for_IN various_JJ organisms_NNS ._.
+46_CD ._.
+A_DT brief_JJ summary_NN of_IN work_NN done_VBN by_IN the_DT Veterinary_NNP Investigation_NNP Officer_NNP ,_, Sind_NNP ,_, is_VBZ given_VBN below_IN :6_NNP III.7_NNP 54_CD ._.
+There_EX were_VBD eight_CD Veterinary_NNP Field_NNP Compounders_NNP working_VBG in_IN the_DT department_NN ._.
+Of_IN theses_NNS six_CD were_VBD placed_VBN in_IN charge_NN of_IN Itinerating_NNP Veterinary_NNP Dispensaries_NNP and_CC 2_CD were_VBD working_VBG under_IN the_DT Veterinary_NNP Assistant_NNP Surgeons_NNP ._.
+They_PRP attended_VBD ,_, as_IN usual_JJ ,_, minor_JJ ailments_NNS of_IN animals_NNS such_JJ as_IN Liver_NNP Fluke_NNP ,_, Parasitic_NNP gastritis_NN ,_, Foot-and-Mouth_NNP disease_NN ,_, Mange_NNP ,_, etc_NN ._.
+They_PRP also_RB carried_VBD out_IN castra-_JJ tions_NNS of_IN bulls_NNS by_IN Burdizzo_NNP method_NN ._.
+This_DT cadre_NN has_VBZ been_VBN found_VBN to_TO be_VB very_RB cheap_JJ and_CC useful_JJ agency_NN to_TO supplement_VB the_DT Veterinary_NNP work_NN in_IN the_DT district_NN and_CC it_PRP has_VBZ been_VBN keenly_RB felt_VBD that_IN the_DT cadre_NN should_MD be_VB expanded_VBN and_CC in_IN this_DT connection_NN the_DT proposals_NNS have_VBP been_VBN submitted_VBN to_TO Government_NNP which_WDT are_VBP awaiting_VBG their_PRP$ decision_NN ._.
+55_CD ._.
+The_DT clerical_JJ establishment_NN worked_VBD very_RB satisfactorily_RB and_CC ungrudgingly_RB during_IN the_DT year_NN in_IN spite_NN of_IN a_DT great_JJ pressure_NN of_IN work_NN ._.
+Mr._NNP P._NNP J._NNP Mankodi_NNP ,_, head_NN clerk_NN ,_, retired_VBN after_IN rendering_VBG 31_CD years_NNS service_NN and_CC Mr._NNP J._NNP L._NNP Anjaria_NNP the_DT second_JJ clerk_NN was_VBD appointed_VBN in_IN his_PRP$ place_NN from_IN 13th_CD February_NNP 1943_CD ._.
+Proposals_NNS to_TO increase_VB the_DT number_NN and_CC prospects_NNS of_IN this_DT cadre_NN have_VBP been_VBN submitted_VBN to_TO Government_NNP for_IN sanction_NN ._.
+V.TABLE_NNP I_PRP ._.
+Statistics_NNS of_IN mortality_NN from_IN contagious_JJ diseases_NNS and_CC other_JJ causes_NNS among_IN Live-stock_NNP in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+Name_NN of_IN District_NNP ._.
+EQINES_NNP ._.
+CATTLE_NNP ._.
+BUFFALOES_NNP ._.
+Glanders_NNS Surra_NNP ._.
+Rabis_NNP ._.
+Strangles_NNS ._.
+Other_JJ contagious_JJ and_CC parasitic_JJ diseases_NNS ._.
+Total_NN ._.
+Other_JJ causes_NNS ._.
+Rinderpest_NNP ._.
+Hæmorrhagic_NNP Septi-_NNP caemia_NN ._.
+Foot-and-Mouth_NNP ._.
+Black_NNP Quarter_NNP ._.
+Anthrax_NNP ._.
+Rabies_NNS ._.
+Other_JJ contagious_JJ and_CC parasitic_JJ diseases_NNS ._.
+Total_NN ._.
+Other_JJ causes_NNS ._.
+Rinderpest_NNP ._.
+Hæmorrhagic_NNP Septi-_NNP caemia_NN ._.
+Foot-and-Mouth_NNP ._.
+Black_NNP quarter_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD Sind_NN ..._: ..._: ..._: 34_CD 7_CD 3_CD 5_CD 49_CD 26_CD 197_CD 227_CD 55_CD 1_CD 26_CD 5_CD 430_CD 941_CD 41_CD 108_CD 774_CD 33_CD ..._: Total_NN ..._: ..._: 34_CD 7_CD 3_CD 5_CD 49_CD 26_CD 197_CD 227_CD 55_CD 1_CD 26_CD 5_CD 430_CD 941_CD 41_CD 108_CD 774_CD 33_CD ..._: *Total_NN for_IN 1941-43_JJ ..._: 1_CD 7_CD ..._: ..._: 8_CD 16_CD 16_CD 338_CD 123_CD 30_CD 18_CD 2_CD ..._: 521_CD 1,032_CD 31_CD 318_CD 413_CD 13_CD ..._: *Total_NN for_IN 1940-41_JJ ..._: ..._: 217_CD ..._: ..._: 6_CD 223_CD 221_CD 105_CD 80_CD 25_CD ..._: ..._: ..._: 758_CD 968_CD 20_CD 169_CD 247_CD 11_CD ..._: *Give_JJ figures_NNS for_IN two_CD previous_JJ years_NNS ._.
+N.B.2_NNP TABLE_NNP I.3_NNP TABLE_NNP I4_NNP TABLE_NNP II_NNP ._.
+Summary_NNP of_IN results_NNS of_IN Preventive_JJ Inoculations_NNS in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+Name_NN of_IN District_NNP ._.
+Name_NN of_IN disease_NN against_IN which_WDT inocula-_JJ tion_NN was_VBD undertaken_VBN ._.
+Method_NNP of_IN inoculation_NN ._.
+Source_NN of_IN Product_NNP ._.
+Number_NNP of_IN outbreaks_NNS in_IN which_WDT inoculation_NN was_VBD undertaken_VBN ._.
+Number_NNP of_IN villages_NNS affected_VBN in_IN these_DT out-_JJ breaks_NNS ._.
+Bovine_NNP population_NN of_IN affected_JJ villages_NNS ._.
+Number_NNP of_IN animals_NNS which_WDT died_VBD uninoculated_JJ in_IN course_NN of_IN outbreaks_NNS ._.
+Number_NNP of_IN animals_NNS inoculated_VBN ._.
+Number_NNP of_IN inoculated_JJ animals_NNS which_WDT died_VBD of_IN the_DT disease_NN ._.
+Bovi-_JJ nes_NNS ._.
+Equi-_JJ nes_NNS ._.
+Others_NNS ._.
+Bovi-_JJ nes_NNS ._.
+Equi-_JJ nes_NNS ._.
+Others_NNS ._.
+Bovi-_JJ nes_NNS ._.
+Equi-_JJ nes_NNS ._.
+Others_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD Sind_NN ..._: Rinderpest_JJS ..._:
+Goat_NNP Tissue_NNP Virus_NNP alone_RB ._.
+Goat_NNP Virus_NNP Produc-_NNP ing_VBG Station_NNP ,_, Kara-_NNP chi_NN ._.
+35_CD 35_CD 5.099_CD 371_CD ..._: 3_CD 4,681_CD ..._: 134_CD 24_CD ..._: ..._: Hæmorrhagic_NNP Septicaemia_NNP ._.
+Serum_NNP Alone_NNP ..._: Imperial_NNP Veterinary_NNP Research_NNP Insti-_NNP tute_NN ,_, Izatnagar_NNP ._.
+35_CD 34_CD 7,334_CD 398_CD ..._: ..._: 3,284_CD ..._: ..._: 7_CD ..._: ..._: Do_VBP ._.
+.._NN
+Vaccine_NNP alone_RB ..._: Do_NNP ._.
+.._RB 2_CD 2_CD 250_CD ..._: ..._: ..._: 104_CD ..._: ..._: 5_CD ..._: ..._: Do_VBP ._.
+.._JJ Serum_NNP and_CC vac-_JJ cine_NN both_DT ._.
+Do_NNP ._.
+..._: 1_CD 1_CD 150_CD 7_CD ..._: ..._: 60_CD ..._: ..._: ..._: ..._: ..._: Anthrax_NN ..._: Serum_NNP alone_RB ..._: Do_NNP ._.
+..._: 8_CD 6_CD 11,193_CD 22_CD ..._: 165_CD 605_CD ..._: 452_CD 1_CD ..._: ..._: Contagious_JJ Ple_NNP uro_JJ Pneumo-_NNP nia_NN ._.
+Vaccination_NN with_IN forma-_JJ lized_JJ lung_NN tissue_NN ._.
+Locally_RB prepared_JJ ..._: 52_CD 52_CD 7,719_CD ..._: 864_CD ..._: ..._: 6,45o_CD ..._: ..._: 74_CD Sheep_NNP Pox_NNP ..._: Sheep-Pox_JJ Vac-_JJ cine_NN alone_RB ._.
+Mysore_RB Serum_NNP Ins-_NNP titute_NN Bangalore_NNP ._.
+1_CD 2_CD ..._: ..._: ..._: 43_CD ..._: ..._: 243_CD ..._: ..._: ..._: Rabies_NNPS .._VBP Anti_NNP rabic_JJ Vac-_NNP cine_NN alone_RB ._.
+Haffkine_NNP Institute_NNP ,_, Bombay_NNP ._.
+12_CD 3_CD ..._: ..._: ..._: 1_CD 1_CD ..._: 32_CD ..._: ..._: ..._: Kasauli_NNP Institute_NNP ..._: ..._: ..._: ..._: 1_CD 1_CD 21_CD ..._: ..._: 1_CD ..._: ..._: ..._: Malford_NNP U._NNP S._NNP A_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 12_CD ..._: ..._: ..._: Fowl_NNP Pox_NNP ..._: Fowl_NNP Pox_NNP Vac-_NNP cine_NN alone_RB ._.
+Imperial_NNP Veterinary_NNP Research_NNP Institute_NNP ,_, Muteteswar_NNP ._.
+2_CD 2_CD ..._: ..._: ..._: 28_CD ..._: ..._: 55_CD ..._: ..._: ..._: Total_VBP ..._: 148_CD 137_CD 31,745_CD 699_CD 1_CD 1,130_CD 8,795_CD ..._: 7,379_CD 37_CD ..._: 74_CD 5_CD TABLE_NNP III_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN animals_NNS treated_VBN and_CC castrated_VBN at_IN the_DT Veterinary_NNP Hospitals_NNP and_CC Dispensaries_NNPS in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+District_NNP ._.
+Number_NNP of_IN Veterinary_NNP Institutions_NNP ._.
+Number_NNP of_IN Veterinary_NNP Assistant_NNP Surgeons_NNP employed_VBD ._.
+Number_NNP of_IN in-patients_NNS treated_VBN during_IN the_DT year_NN ._.
+Number_NNP of_IN out-patients_NNS treated_VBN during_IN the_DT year_NN ._.
+Grand_NNP total_NN of_IN in_IN and_CC out-patients_NNS treated_VBN during_IN the_DT year_NN ._.
+Total_JJ number_NN of_IN cases_NNS supplied_VBN with_IN medi-_JJ cines_NNS but_CC not_RB brought_VBD to_TO institutions_NNS ._.
+Castrations_NNS performed_VBD ._.
+Receipts_NNS ._.
+Expenditure_NN ._.
+Bovines_NNS ._.
+Equines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Bovines_NNS ._.
+Equines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Bovines_NNS ._.
+Equines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 18_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD Rs_NNP ._.
+a._NN p._NN Rs_NNP ._.
+a._NN p._NN SIND_NNP ..._: ..._: 35_CD 23_CD 335_CD 590_CD 551_CD 1,476_CD 15,100_CD 11,881_CD 19,042_CD 46,023_CD 47,499_CD 11,994_CD 4,751_CD 183_CD 583_CD 5,517_CD 66,225_CD 11_CD 1_CD 55.506_CD 10_CD 3_CD Total_NN ..._: 35_CD 28_CD 335_CD 590_CD 551_CD 1,476_CD 15,100_CD 11,881_CD 19,042_CD 46,023_CD 47,499_CD 11,994_CD 4,751_CD 183_CD 583_CD 5,517_CD 66,225_CD 11_CD 1_CD 55,506_CD 10_CD 3_CD *_JJ Total_NN in_IN 1941-43_JJ ..._: 32_CD 25_CD 300_CD 612_CD 431_CD 1,343_CD 14,092_CD 11,055_CD 17,092_CD 42,229_CD 43,572_CD 9,099_CD 4,306_CD 162_CD 782_CD 5,250_CD 58,112_CD 14_CD 10_CD 51,174_CD 9_CD 6_CD *Total_JJ in_IN 1940-41_JJ ..._: 17_CD 25_CD 322_CD 551_CD 418_CD 1,291_CD 13,668_CD 10,250_CD 16,436_CD 40,354_CD 41,645_CD 12,483_CD 3,596_CD 191_CD 844_CD 4,631_CD 51,333_CD 44,701_CD *Total_NN for_IN previous_JJ two_CD years_NNS ._.
+6_CD TABLE_NNP IV_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN animals_NNS treated_VBN and_CC castrated_VBN by_IN Veterinary_NNP Assistant_NNP Surgeons_NNP on_IN tour_NN in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+District_NNP ._.
+Number_NNP of_IN Veterinary_NNP Assistant_NNP Surgeons_NNP employed_VBD ._.
+Number_NNP of_IN villages_NNS visited_VBN ._.
+Castrations_NNS performed_VBD ._.
+Treated_VBN for_IN contagious_JJ diseases_NNS ._.
+Treated_VBN for_IN non-contagious_JJ diseases_NNS ._.
+Total_JJ number_NN of_IN periormed_JJ and_CC cases_NNS treated_VBN ._.
+Bovines_NNS ._.
+Equines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Bovines_NNS ._.
+Equines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Bovines_NNS ._.
+Equines_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD SIND_NN ..._: ..._: 28_CD 2,831_CD 3,029_CD 233_CD 55_CD 3,318_CD 24,733_CD 68_CD 44,653_CD 69,454_CD 3.186_CD 1,850_CD 2.882_CD 7,918_CD £0.640_JJ Total_NN ..._: 28_CD 2,831_CD 3,029_CD 233_CD 56_CD 3,318_CD 24,733_CD 68_CD 44,653_CD 69.454_CD 3,186_CD 1,850_CD 2,832_CD 7.918_CD 80,640_CD *Total_JJ in_IN 1941-42_JJ ..._: 25_CD 2,635_CD 2,225_CD 61_CD 142_CD 2,428_CD 27,456_CD 47_CD 42,945_CD 10,448_CD 2.933_CD 2,193_CD 2,173_CD 7,299_CD 80.175_CD *_JJ Total_NN in_IN 1940-41_JJ ..._: 25_CD 2,334_CD 1,603_CD 38_CD 43_CD 1,684_CD 25,141_CD 13_CD 43.991_CD 69.145_CD 2,361_CD 1,496_CD 1,933_CD 5,790_CD 78,619_CD *_JJ Total_NNP of_IN previous_JJ two_CD years_NNS ._.
+TABLE_DT VI-A_NNP ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN approved_JJ bulls_NNS at_IN stud_NN in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+Name_NN of_IN district_NN Number_NNP of_IN approved_JJ Bulls_NNP at_IN stud_NN ._.
+Balance_NN in_IN hand_NN on_IN 31st_CD March_NNP Net_NNP cost_NN for_IN the_DT year_NN for_IN the_DT issue_NN and_CC maintenance_NN of_IN stud_NN bulls_NNS ._.
+Population_NN of_IN cows_NNS over_IN 3_CD years_NNS according_VBG to_TO census_NN ._.
+Number_NNP of_IN bulls_NNS ._.
+Number_NNP of_IN cows_NNS covered_VBN during_IN the_DT year_NN ._.
+Present_NNP on_IN 1st_CD April_NNP 1941_CD ._.
+Obtained_VBN during_IN the_DT year_NN ._.
+Casualties_NNS during_IN the_DT year_NN ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Required_VBN to_TO he_PRP maintain-_JJ ed_NN at_IN one_CD per_NN hundred_VBD cows_NNS ._.
+Short_NNP of_IN requirements_NNS ._.
+Property_NN of_IN Govern-_NNP ment_NN ._.
+Property_NN of_IN Local_JJ Bodies_NNS ._.
+Property_NN of_IN others_NNS ._.
+Number_NNP ._.
+Average_JJ price_NN paid_VBN per_IN head_NN ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD Sind_NN ..._: ..._: 152_CD ..._: ..._: 33_CD ..._: ..._: ..._: ..._: ..._: 24_CD ..._: ..._: 161_CD ..._: ..._: 161_CD 527_CD ..._: ..._: 527_CD ..._: ..._: ..._: 14,811_CD Total_NN ..._: 152_CD ..._: ..._: 33_CD ..._: ..._: ..._: ..._: ..._: 24_CD ..._: ..._: 161_CD ..._: ..._: 161_CD 527_CD ..._: ..._: 527_CD ..._: ..._: ..._: 14,811_CD *Total_JJ for_IN 1941-42_JJ ..._: 147_CD ..._: ..._: 12_CD ..._: ..._: ..._: ..._: ..._: 15_CD ..._: ..._: 144_CD ..._: ..._: 114_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 9,693_CD *Total_JJ for_IN 1940-41_JJ ..._: 161_CD ..._: ..._: 2_CD ..._: ..._: ..._: ..._: ..._: 8_CD ..._: ..._: 155_CD ..._: ..._: 155_CD 4.474_CD ..._: 1,757_CD 6,231_CD ..._: ..._: ..._: 4,000_CD *Totals_NNS of_IN previous_JJ two_CD years_NNS ._.
+7_CD TABLE_NNP VI-B_NNP ._.
+Statement_JJ showing_VBG the_DT numbers_NNS of_IN approved_JJ male_NN buffaloes_NNS at_IN stud_NN in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ Name_NN of_IN district_NN ._.
+Number_NNP of_IN approved_JJ Bulls_NNP at_IN stud_NN ._.
+Net_JJ cost_NN for_IN the_DT year_NN for_IN the_DT issue_NN and_CC maintenance_NN of_IN stud_NN bulls_NNS ._.
+Population_NN of_IN she-buffaloes_NNS over_IN 3_CD years_NNS according_VBG to_TO census_NN ._.
+Number_NNP of_IN bulls_NNS ._.
+Number_NNP of_IN she-buffaloes_JJ cover-_JJ ed_NN during_IN the_DT year_NN ._.
+Present_NNP on_IN 1st_CD April_NNP ._.
+Obtained_VBN during_IN the_DT year_NN ._.
+Casualties_NNS during_IN the_DT year_NN ._.
+Balance_NN in_IN hand_NN on_IN 31st_CD March_NNP ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Required_VBN to_TO be_VB maintain-_JJ ed_NN at_IN one_CD per_IN hundred_VBN she-buffaloes_NNS ._.
+Short_NNP of_IN requirements_NNS ._.
+Property_NN of_IN Gov-_NNP ernment_NN ._.
+Property_NN of_IN Local_JJ Bodies_NNS ._.
+Property_NN of_IN others_NNS ._.
+Number_NNP ._.
+Average_JJ price_NN paid_VBN per_IN head_NN ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNP Others_NNP ._.
+Total_NN ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD Sind_NN ..._: ..._: 5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 5_CD ..._: ..._: 5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 128_CD Total_NN ..._: 5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 5_CD ..._: ..._: 5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 128_CD Total_NN for_IN 1941-42_JJ ..._: 5_CD ..._: .._NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 5_CD ..._: ..._: 5_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 162_CD *Total_JJ for_IN 1940-41_JJ ..._: 3_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3_CD ..._: ..._: 3_CD 192_CD ..._: ..._: 192_CD 26_CD ..._: ..._: 71_CD TABLE_NNP VI-C_NNP ._.
+Statement_JJ showing_VBG numbers_NNS of_IN approved_JJ horse_NN and_CC donkey_JJ stallions_NNS at_IN stud_NN in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+Name_NN of_IN district_NN ._.
+Number_NNP on_IN 1st_CD April_NNP 1943_CD ._.
+Obtained_VBN during_IN the_DT year_NN ._.
+Casualties_NNS during_IN the_DT year_NN ._.
+Balance_NN on_IN 31st_CD March_NNP 1943_CD Number_NNP of_IN mares_NNS covered_VBN ._.
+Population_NN of_IN mares_NNS ._.
+Horses_NNS ._.
+Donkeys_NNS ._.
+Horses_NNS ._.
+Donkeys_NNS ._.
+Horses_NNS ._.
+Donkeys_NNS ._.
+Horses_NNS ._.
+Donkeys_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Others_NNS ._.
+Horses_NNS ._.
+Donkeys_NNS ._.
+Horses_NNS ._.
+Donkeys_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD 26_CD 27_CD 28_CD 29_CD Jacobabad_NNP Upper_NNP Sind_NNP Frontier_NNP ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: 17_CD ..._: 500_CD ..._: Dadu_NN ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: ..._: ..._: 30_CD ..._: ..._: Total_NN ..._: ..._: 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: ..._: ..._: ..._: 47_CD ..._: 500_CD ..._: *_JJ Total_NNP for_IN 1941-42_JJ ..._: ..._: 2_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 2_CD ..._: ..._: ..._: ..._: 75_CD ..._: 500_CD ..._: *_JJ Total_NNP for_IN 1940-41_JJ ..._: ..._: 3_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 3_CD ..._: ..._: ..._: ..._: 103_CD ..._: 4,500_CD ..._: *_NN Totals_NNS for_IN previous_JJ two_CD years_NNS ._.
+8_CD TABLE_NNP VII_NNP ._.
+Abstract_NNP of_IN particulars_NNS regarding_VBG cattle_NNS fairs_NNS and_CC shows_NNS held_VBN in_IN the_DT Province_NNP of_IN Sind_NNP during_IN the_DT year_NN 1942-43_RB ._.
+Name_NN of_IN district_NN ._.
+Number_NNP of_IN cattle_JJ fairs_NNS and_CC shows_NNS held_VBD ._.
+Total_JJ number_NN of_IN slock_JJ present_NN ._.
+Average_JJ price_NN of_IN animals_NNS sold_VBN ._.
+Amount_NN realised_VBD in_IN fees_NNS ._.
+Total_JJ number_NN of_IN animals_NNS that_WDT competed_VBD for_IN prizes_NNS ._.
+Prize_VB money_NN provided_VBN ._.
+Bulls_NNS ._.
+Bullocks_NNS ._.
+Cows_NNS ._.
+Young_NNP stock_NN ._.
+Buffaloes_NNS ._.
+Camels_NNS ._.
+Others_NNS ._.
+Bulls_NNS ._.
+Bullocks_NNS ._.
+Cows_NNS ._.
+Buffaloes_NNS ._.
+Camels_NNS ._.
+From_IN Provincial_JJ Funds_NNS ._.
+From_IN Local_JJ Funds_NNS ._.
+From_IN other_JJ sources_NNS ._.
+Total_NN ._.
+Amount_NNP actually_RB awarded_VBD ._.
+Number_NNP of_IN medals_NNS awarded_VBN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD Sind_NN ..._: ..._: ..._: 6_CD 35_CD 400_CD 400_CD 230_CD 108_CD ..._: 546_CD ..._: ..._: ..._: ..._: ..._: ..._: 1,269_CD 94_CD ..._: 1,406_CD 1,510_CD 1,510_CD 166_CD Total_NN ..._: 6_CD 35_CD 400_CD 400_CD 230_CD 108_CD ..._: 546_CD ..._: ..._: ..._: ..._: ..._: ..._: 1,269_CD 94_CD ..._: 1,406_CD 1,510_CD 1,510_CD 166_CD *_JJ Total_NNP for_IN 1941-42_JJ ..._: 21_CD 71_CD 640_CD 1,532_CD 502_CD 206_CD 261_CD 1,180_CD ..._: ..._: ..._: ..._: ..._: ..._: 4,481_CD 312_CD 414_CD ..._: 726_CD 726_CD 2_CD *_JJ Total_NNP for_IN 1940-41_JJ ..._: ..._: 98_CD 358_CD 645_CD 508_CD 158_CD 10_CD 828_CD ..._: ..._: ..._: ..._: ..._: ..._: 2,796_CD 276_CD 500_CD ..._: 776_CD 776_CD ..._: TABLE_NNP VIII_NNP ._.
+Statistics_NNS of_IN live-stock_NN slaughtered_VBN in_IN recognised_JJ slaughter_NN houses_NNS in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+Name_NN of_IN district_NN ._.
+Number_NNP of_IN recognised_JJ slaughter_NN houses_NNS for_IN Number_NNP of_IN unlicensed_JJ slaughter_NN houses_NNS ._.
+Number_NNP of_IN animals_NNS slaughtered_VBN ._.
+Slaughter_NNP fee_NN per_IN head_NN ._.
+Cattle_NNP and_CC buffaloes_NNS ._.
+Sheep_NNP and_CC goats_NNS ._.
+Pigs_NNS ._.
+Others_NNS ._.
+Cows_NNS ._.
+Bulls_NNS and_CC bullocks_NNS ._.
+Calves_NNS ._.
+Buffaloes_NNS ._.
+Sheep_NNP ._.
+Goats_NNS ._.
+Pigs_NNS ._.
+Other_JJ animals_NNS ._.
+Cattle_NNP ._.
+Buffaloes_NNS ._.
+Sheep_NNP and_CC goats_NNS ._.
+Pigs_NNS ._.
+Others_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+Government_NN ._.
+Local_JJ Bodies_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD Rs_NNP ._.
+a._NN p._NN Rs_NNP ._.
+a._NN p._NN Rs_NNP ._.
+a._NN p._NN Sind_NNP ..._: ..._: ..._: 9_CD ..._: 25_CD ..._: ..._: ..._: ..._: ..._: 5,225_CD 9,281_CD 7,257_CD 2,210_CD 1,01,116_CD 3,57,454_CD ..._: 2.667_CD -/2/-_NN to_TO 1/8_CD -/-/6_NNS to_TO -/3/-_VB ..._: Total_NN ..._: ..._: 9_CD ..._: 25_CD ..._: ..._: ..._: ..._: ..._: 5,225_CD 9,281_CD 7.257_CD 2.210_CD 1,01,116_CD 3,57,454_CD ..._: 2,667_CD -/2/-_NN to_TO 1/8_CD -/_NNS /6_VBP to_TO -/3/-_VB ..._: *Total_JJ for_IN 1941-42_JJ ..._: ..._: 12_CD ..._: 28_CD ..._: ..._: ..._: ..._: ..._: 5,381_CD 5,935_CD 6,394_CD 1,985_CD 76,652_CD 4,13,853_CD ..._: ..._: -/1/-_VBZ to_TO 1/8_CD -/-/3_NNS to_TO -/3/3_VB ..._: *Total_JJ for_IN 1940-41_JJ ..._: ..._: 12_CD 1_CD 28_CD ..._: ..._: ..._: 1_CD ..._: 2,254_CD 5,673_CD 5,154_CD 1,163_CD 87,213_CD 4,02,627_CD ..._: 6_CD -/1/-_NN to_TO 1/8_CD -/-/3_NNS to_TO -/3/3_VB ..._: *Totals_NNS for_IN previous_JJ two_CD years_NNS ._.
+9_CD TABLE_NNP IX_NNP ._.
+Showing_VBG cost_NN of_IN Civil_NNP Veterinary_NNP Department_NNP in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+Major_JJ Heads_NNS ._.
+Amount_NN ._.
+Provincial_NNP ._.
+Local_NNP ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+1_CD ._.
+Superintendence_NN ..._: ..._: 32,545_CD ..._: 32,545_CD 2_CD ._.
+Veterinary_JJ Instruction_NNP (_( Scholarships_NNP )_) 1,904_CD ..._: 1,904_CD 3_CD ._.
+Subordinates_NNS establishment_VBP ..._: 60,053_CD ..._: 60,053_CD 4_CD ._.
+Hospitals_NNS and_CC dispensaries_NNS ..._: 13,050_CD 55,507_CD 68,557_CD 5_CD ._.
+Breeding_VBG operations_NNS ..._: ..._: 600_CD 3,881_CD 4,481_CD 6_CD ._.
+Fairs_NNS and_CC shows_NNS ..._: ..._: ..._: 665_CD 665_CD 7_CD ._.
+Prizes_NNS ..._: ..._: ..._: 500_CD 510_CD 1,010_CD 8_CD ._.
+Goat_NNP Virus_NNP Producing_NNP Station_NNP ..._: 5,288_CD ..._: 5,288_CD 9_CD ._.
+Veterinary_JJ Investigation_NN of_IN disease_NN ._.
+8,759_CD ..._: 8,759_CD Total_NN ..._: 1,22,699_CD 60,563_CD 1,83,262_CD *Total_JJ for_IN 1941-42_JJ ..._: 1,21,963_CD 43_CD ,_, 171_CD 1,65,134_CD *Total_JJ for_IN 1940-41_JJ ..._: 1,15,289_CD 37,252_CD 1,53,041_CD *Totals_NNS for_IN previous_JJ two_CD years_NNS ._.
+L_NNP (_( xv_NNP )_) 150810_CD TABLE_NNP X_NN ._.
+Showing_VBG strength_NN of_IN Subordinate_NNP Veterinary_NNP staff_NN employed_VBN in_IN the_DT Province_NNP of_IN Sind_NNP during_IN 1942-43_JJ ._.
+How_WRB occupied_JJ ._.
+Whether_NNP paid_VBD from_IN Provincial_NNP or_CC Local_JJ Funds_NNS ._.
+Veterinary_JJ Investigation_NNP Officer_NNP ._.
+Officer-in-_JJ charge_NN ,_, Goat_NNP Virus_NNP Produc-_NNP ing_VBG Station_NNP ._.
+Veterinary_NNP Inspector_NNP ._.
+Veterinary_NNP Assistant_NNP Surgeons_NNP ._.
+Veterinary_JJ Field_NNP Compounders_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD In_IN schools_NNS and_CC colleges_NNS .._VBP ..._: ._. .._VB .._NN ..._: ..._: ..._: ..._: ..._:
+In_IN Dispensaries_NNP .._NNP .._NNP .._NNP .._NN
+Provincial_JJ .._NNP .._NN ..._: ..._: 2_CD 28_CD 6_CD Do_NNP .._NNP .._NNP .._NNP .._NNP Local_NNP .._NNP .._NN ..._: ..._: ..._: ..._: 3_CD Field_NNP work_NN .._NNP .._NNP .._NNP .._NNP .._NN
+Provincial_JJ .._NNP .._NN ..._: ..._: ..._: ..._: 2_CD Investigation_NN of_IN Diseases_NNP .._NNP .._NNP .._NNP .._NNP Do_NNP ._.
+(_( a_DT )_) .._NN 1*_CD ..._: ..._: ..._: ..._:
+Goat_NNP Virus_NNP Station_NNP .._NNP .._NNP .._NNP .._NNP Do_NNP ._.
+.._JJ .._NN ..._: 1*_CD ..._: ..._: ..._: Total_JJ .._JJ .._NN .._NNP .._VBD 1_CD 1_CD 2_CD 28_CD 11_CD *_NN Gazetted_VBN posts_NNS ._.
+(_( a_DT )_) Cost_NN borne_NN by_IN the_DT Imperial_NNP Council_NNP of_IN Agricultural_NNP Research_NNP and_CC Sind_NNP Government_NNP on_IN 50:50_CD basis_NN ._.
+TABLE_NNP XII_NNP ._.
+Abstract_NNP of_IN particulars_NNS regarding_VBG horse_NN fairs_NN and_CC shows_VBZ held_VBN in_IN the_DT Province_NNP of_IN Sind_NNP during_IN the_DT year_NN 1942-43_RB ._.
+Province_NN ._.
+Number_NNP of_IN horse_NN fairs_NNS and_CC shows_NNS held_VBD ._.
+Total_JJ num-_JJ ber_NN of_IN animals_NNS present_JJ ._.
+Total_JJ number_NN competing_VBG for_IN prizes_NNS ._.
+Total_JJ num-_JJ ber_NN of_IN horse_NN stock_NN (_( not_RB including_VBG branded_VBN mares_NNS )_) present_NN ._.
+Number_NNP of_IN remounts_NNS purchased_VBN ._.
+Price_NNP paid_VBD for_IN remounts_NNS ._.
+Number_NNP of_IN mules_NNS purchased_VBN ._.
+Price_NNP paid_VBD for_IN mules_NNS by_IN Government_NNP ._.
+Total_JJ number_NN of_IN animals_NNS sold_VBN ._.
+Prizes_NNP awarded_VBD ._.
+Amount_NN sanctioned_VBN by_IN Government_NNP lor_NN next_IN year_NN 's_POS fair_NN or_CC show_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Belonging_VBG to_TO Belonging_NNP to_TO dealers_NNS ._.
+For_IN Remount_NNP Department_NNP ._.
+For_IN Native_NNP Cavalry_NNP ._.
+For_IN Police_NNP ._.
+Total_NN ._.
+Highest_NNP price_NN ._.
+Lowest_NNP price_NN ._.
+Average_JJ price_NN ._.
+By_IN Government_NNP ._.
+By_IN others_NNS ._.
+Total_NN ._.
+Highest_NNP price_NN ._.
+Lowest_NNP price_NN ._.
+Average_JJ price_NN ._.
+From_IN Imperial_NNP funds_NNS ._.
+From_IN Provincial_JJ funds_NNS ._.
+From_IN Local_JJ funds_NNS ._.
+From_IN other_JJ sources_NNS ._.
+Total_NN ._.
+Amount_NNP actualy_RB awarded_VBD ._.
+Number_NNP of_IN medals_NNS awarded_VBN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD 25_CD 26_CD 27_CD 28_CD 29_CD 30_CD Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Sind_NN ..._: 1_CD 300_CD 178_CD 171_CD 155_CD 130_CD 100_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 500_CD and_CC silver_VB medal_JJR 675_CD 500_CD 1_CD ,_, .675_NNP and_CC silver_RB medal_NN ._.
+1,010_CD 1_CD 500_CD and_CC silver_VB medal_JJ Total_NNP ..._: 1_CD 300_CD 178_CD 171_CD 155_CD 130_CD 100_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 500_CD 675_CD 500_CD 1,675_CD 1,010_CD 1_CD 500_CD KARACHI_NNS :_: FRINTED_NN AT_IN THE_NNP GOVERNMENT_NNP PRESS_NNP ._.

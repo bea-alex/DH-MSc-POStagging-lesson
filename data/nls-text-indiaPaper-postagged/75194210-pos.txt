@@ -1,0 +1,2620 @@
+SURRA_NNP REPORT_NNP APPENDICES_NNP INCLUDING_NNP RECORDS_NNP OF_NNP CASES_NNP CHARTS_NNP AND_NNP ILLUSTRATIONS_NNP BY_NNP ALFRED_NNP LINGARD_NNP ,_, Bachelor_NNP of_IN Medicine_NNP and_CC Master_NNP of_IN Surgery_NNP ,_, Dunelm_NNP :_: Diplomate_NN in_IN ._.
+Public_NNP Health_NNP ,_, Cambridge_NNP 5_CD Fellow_NNP of_IN the_DT Bombay_NNP University_NNP :_: Professor_NNP of_IN Bacteriology_NNP and_CC Comparative_NNP Pathology_NNP ,_, Civil_NNP Veterinary_NNP Dopartmont_NNP ,_, India-_NNP VOL_NNP ._.
+II_NNP ,_, PART_NNP II_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Bombay_NNP :_: PRINTED_NN AT_IN THE_DT GOVERNMENT_NNP CENTRAL_NNP PRESS_NNP 1898_CD ._.
+SURRA_NNP REPORT_NNP APPENDICES_NNP INCLUDING_NNP RECORDS_NNP OF_NNP CASES_NNP CHARTS_NNP AND_NNP ILLUSTRATIONS_NNP BY_NNP ALFRED_NNP LINGARD_NNP ,_, Bachelor_NNP of_IN Medicine_NNP and_CC Master_NNP of_IN Surgery_NNP ,_, Dunelm_NNP :_: Diplomate_NN in_IN ._.
+Public_NNP Health_NNP ,_, Cambridge_NNP 5_CD Fellow_NNP of_IN the_DT Bombay_NNP University_NNP :_: Professor_NNP of_IN Bacteriology_NNP and_CC Comparative_NNP Pathology_NNP ,_, Civil_NNP Veterinary_NNP Dopartmont_NNP ,_, India-_NNP VOL_NNP ._.
+II_NNP ,_, PART_NNP II_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Bombay_NNP :_: PRINTED_NN AT_IN THE_DT GOVERNMENT_NNP CENTRAL_NNP PRESS_NNP 1898_CD ._.
+CONTENTS_NNS OF_IN APPENDICES_NNP ._.
+A.ii_NNP Guinea_NNP Pig_NNP No_NNP ._.
+i_NN ..._: 134_CD A_NNP ._.
+HORSE_NNP SURRA_NNP APPENDIX_NNP I_PRP ._.
+NATURALLY_NNP CONTRACTED_NNP SURRA_NNP CASES_NNP ._.
+HORSES_NNP ._.
+Nos_NNP ._.
+CIV_NNP ,_, OVII_NNP ,_, CVIII_NNP ,_, CIX_NNP ,_, CX_NNP ,_, CXI_NNP ,_, CXII_NNP ,_, CXIII_NNP ,_, CXIV_NNP ,_, CXV_NNP (_( CURED_NNP )_) ,_, CXVI_NNP ,_, CXVII_NNP ,_, CXVIII_NNP ,_, CXIX_NNP ,_, CXX_NNP ,_, CXXI_NNP ,_, CXXII_NNP CXXIII_NNP ,_, CXXIV_NNP ,_, CXXV_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ HORSE_NNP No_NNP ._.
+CIV_NNP ._.
+Bay_NNP Mare_NNP ,_, New_NNP Zealand_NNP ,_, aged_VBD 11_CD years_NNS ,_, belonging_VBG to_TO the_DT Bombay_NNP Tramway_NNP Company_NNP ,_, was_VBD purchased_VBN in_IN March_NNP 1888_CD and_CC has_VBZ since_IN done_VBN excellent_JJ work_NN ._.
+On_IN August_NNP 9th_CD ,_, 1894_CD ,_, she_PRP was_VBD relieved_VBN from_IN work_NN as_IN she_PRP was_VBD looking_VBG thin_JJ and_CC out_IN of_IN sorts_NNS ._.
+On_IN August_NNP 11th_CD ,_, the_DT animal_NN was_VBD suffering_VBG from_IN fever_NN ._.
+Temp_NNP ._.
+40.4°C_CD ._.
+Pulse_RB 72_CD ._.
+On_IN microscopical_JJ examination_NN of_IN the_DT blood_NN ,_, numerous_JJ Surra_NNP hæmatozoa_NN were_VBD discovered_VBN ._.
+August_NNP 13th_CD ,_, 1894_CD ,_, S_NNP A.M.2_NNP Month_NNP and_CC Date_NNP ._.
+Temperature°C_NNP ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP ._.
+in_IN Blood_NNP ._.
+Medicine_NNP idminister-_JJ ed_NN ._.
+REMAKES_NNP ._.
+1894_CD ._.
+A.M_NNP ._.
+P.M._NNP Grs_NNP ._.
+Grs_NNP ._.
+Sept._NNP 6_CD ..._: 39.1_CD 39.4_CD 39.4_CD 53_CD 60_CD 35_CD 34_CD Absent_NN ..._: ..._: ..._: Eruption_NN continues_VBZ ,_, conjunctivæ_NN clear_JJ ,_, but_CC yellow_UH ._.
+3_CD The_DT animal_NN was_VBD ordered_VBN Liq_NNP ._.
+Arsenicalis_$ 3i_CD ._.
+night_NN and_CC morning_NN ._.
+Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP Medicine_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1P.M_CD ._.
+5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP 1894_CD ._.
+Arsenic_JJ Grains_NNS ._.
+Sept._NNP 25_CD ..._: 38.5_CD 38.8_CD 38.4_CD 52_CD 52_CD 34_CD 28_CD Few_JJ ..._: ..._: ..._: iv_JJ Conjunctivæ_NNP clear_JJ ,_, slight_JJ 4_CD refusing_VBG its_PRP$ ration_NN of_IN corn_NN ,_, but_CC eats_VBZ lucerne_JJ and_CC a_DT little_JJ hay_NN ._.
+The_DT sphincter_NN ani_NN is_VBZ relaxed_VBN and_CC a_DT glairy_NN fluid_NN ,_, tinged_VBN with_IN blood_NN ,_, exudes_VBZ from_IN the_DT bowel_NN ._.
+The_DT hæmatozoon_NN is_VBZ absent_JJ from_IN the_DT blood_NN ._.
+Month_NNP and_CC Date_NNP ._.
+Temperature_NN *C_NN Pulse_NNP ._.
+Respiration_NN ._.
+Hæmato-_NNP zoa_NN in_IN Blood_NNP ._.
+Medicine_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD ._.
+P.M._NNP 5_CD ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP 1894_CD ._.
+Arse-_NNP nic_NN ._.
+Arse-_NNP nic_NN ._.
+Sept._NNP 25_CD ..._: 38.2_CD 38.8_CD 38.6_CD 50_CD 56_CD 28_CD 30_CD Absent_NN ._.
+..._: ..._: ..._: Conjunctivæ_NNP orange_NN and_CC pete-_NN chiated_VBN ,_, fetlocks_NNS swollen_VBP ,_, anus_JJ patent_NN ._.
+26_CD ..._: 38.7_CD 39.5_CD 39.1_CD 56_CD 62_CD 36_CD 26_CD Few_JJ ..._: ..._: ..._:
+Slight_NNP urticarial_JJ eruption_NN ._.
+Testicles_NNP swollen_NN ._.
+27_CD ..._: 39.3_CD 40.1_CD 40.5_CD 65_CD 76_CD 64_CD 50_CD Numer-_JJ ous_JJ ._.
+Grs_NNP ._.
+iv_NN ..._: Grs_NNP ._.
+v_NN Swelling_NNP of_IN testicles_NNS increased_VBN ._.
+Conjunctivæ_NNP unchanged_JJ ._.
+28_CD ..._: 40.1_CD 40.3_CD 40.5_CD 76_CD 84_CD 62_CD 50_CD Do_NNPS ._.
+vss_NN ..._: vss_NN Hind_NNP limbs_NN and_CC testicles_NNS swollen_VBN ,_, fetlocks_VBZ weak_JJ ._.
+29_CD ..._: 38.5_CD 38.2_CD 37.6_CD 72_CD 66_CD 46_CD 50_CD Absent_NN ._.
+vi_NN ..._: vi_JJ Condition_NNP unchanged_JJ ._.
+30_CD ..._: 38.1_CD 39.2_CD 38.1_CD 76_CD 76_CD 46_CD 36_CD 5_CD Month_NNP and_CC Date_NNP ._.
+Temperature°C_NNP ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 3_CD ._.
+P.M._NNP 5_CD ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M._RB 1_CD ._.
+P.M._NNP 5_CD ._.
+P.M._NN 1894_CD ._.
+Arse-_NNP nic_NN ._.
+Arse-_NNP nic_NN ._.
+Arse-_NNP nic_NN ._.
+November_NNP 3_CD ..._: 39.2_CD 40.1_CD 40.3_CD 76_CD 76_CD 16_CD 48_CD Absent_NN ._.
+Grs_NNP ._.
+iv_NN ..._: Grs_NNP ._.
+iii_RB Right_NNP conjunctiva_NN clear_JJ ,_, lower_JJR eyelid_JJ swollen_NN ,_, discharge_NN continues_VBZ ._.
+6_CD swelling_NN and_CC 7_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP ._.
+Sulphate_NNP of_IN Iron_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Drachms_NNP ._.
+1894_CD ._.
+Arsenic_NNP ._.
+(_( Grains_NNP ._. )_)
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP December_NNP 24.._CD 38.2_CD 38.8_CD 39.0_CD 40_CD 52_CD 24_CD 48_CD Absent_NN ._.
+..._: ..._: i_NN i_VBP Right_NNP conjunctiva_NN clear_JJ ,_, left_VBD ,_, slightly_RB petechiated_VBN ,_, abscess_NN on_IN the_DT neck_NN increased_VBD ._.
+Do_NNP ._.
+do_NN ._.
+8_CD State_NNP on_IN admission.9_JJ Month_NNP and_CC Date_NNP ._.
+Temperature°C_NNP ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+Arsenic_NNP (_( grains_NNS ._. )_)
+A.M_NNP ._.
+P.M._NNP December_NNP 18_CD 38.5_CD 38.6_CD 39.3_CD 48_CD 60_CD 8_CD 12_CD Absent_NN ._.
+Liq_NNP ._.
+opti_NN ._.
+sed_VBN ._.
+Right_RB conjunctiva_NN yellow_JJ ,_, left_VBD ,_, petechiated_VBN ._.
+Milk_NN ,_, mutton_NN broth_NN ,_, and_CC crushed_VBD linseed_NN given_VBN ._.
+10_CD Month_NNP and_CC Date_NNP Temperature_NNP °C_NNP ._.
+Pulse_NNP ._.
+Respiration_NNP Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( grains_NNS ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP A._NNP M._NNP P.M._NNP 1894_CD ._.
+November_NNP 12_CD ._.
+37.6_CD 38.2_CD 38.4_CD 44_CD 48_CD 12_CD 16_CD Absent_NN ._.
+vii_NN vii_NN Conjunctivæ_NNP clear_JJ ._.
+Urticarial_JJ eruption_NN on_IN right_JJ side._NN ``_``
+13_CD ..._: 37.7_CD 38.4_CD 38.5_CD 40_CD 44_CD 8_CD 16_CD ``_`` vii_JJ vii_NN Conjunctivas_NNP slightly_RB injected._VBZ ``_``
+14_CD ..._: 38.0_CD 38.3_CD 38.5_CD 48_CD 48_CD 16_CD 12_CD ``_`` vii_JJ vii_NN Do_NNP ._.
+do._NN ``_``
+15_CD ..._: 37.5_CD 37.8_CD 38.2_CD 44_CD 56_CD 16_CD 12_CD ``_`` vi_JJ vi_NN Do_NNP ._.
+do._NN ``_``
+16_CD ..._: 37.8_CD 37.8_CD 38.3_CD 40_CD 48_CD 12_CD 32_CD ``_`` vi_JJ vi_NN Do_NNP ._.
+do._NN ``_``
+17_CD ..._: 37.4_CD 37.7_CD 38.3_CD 44_CD 52_CD 12_CD 28_CD ``_`` vi_JJ v_NN Eight_NNP conjunctiva_NN injected_VBD ,_, left_VBD ,_, clear._VB ``_``
+18_CD ..._: 37.6_CD 38.0_CD 38.5_CD 44_CD 44_CD 12_CD 28_CD ``_`` V_NNP v_NN Conjunctivas_NNP clearer._NN ``_``
+19_CD ..._: 37.8_CD 38-3_JJ 38.4_CD 44_CD 52_CD 20_CD 36_CD ``_`` V_NNP v_NN Do_NNP ._.
+injected._NN ``_``
+20_CD ..._: 37.6_CD 38.1_CD 38.3_CD ._.
+40_CD 48_CD 12_CD 44_CD '_'' iv_NN iv_NN Do_NNP ._.
+clear._NN ``_``
+21_CD ..._: 37.7_CD 380_CD 38.2_CD 40_CD 44_CD 12_CD 24_CD ``_`` iv_JJ iv_NN Do._NNP ``_``
+22_CD ..._: 38.4_CD 38.1_CD 38.2_CD 48_CD 48_CD 16_CD 20_CD ``_`` iv_JJ iv_NN Do_NNP ._.
+Corn_NNP refused._VBZ ``_``
+23_CD ..._: 37.6_CD 37.6_CD 38.2_CD 40_CD ._.
+40_CD 8_CD 16_CD ``_`` V_NNP V_NNP Do._NNP ``_``
+24_CD ..._: 37.8_CD 38.0_CD 38.3_CD 44_CD 48_CD 12_CD 20_CD ``_`` V_NNP ..._: Do._NNP ``_``
+25.._CD 37.7_CD 38.0_CD 38.4_CD 44_CD 40_CD 12_CD 16_CD ``_`` V_NNP ..._: Do._NNP ``_``
+26_CD ..._: 38.1_CD 38.2_CD 38.3_CD 40_CD 44_CD 16_CD 16_CD ``_`` ..._: V_NNP Do._NNP ``_``
+27_CD ..._: 38.1_CD 38.1_CD 38.2_CD 40_CD 44_CD 24_CD 20_CD ``_`` ..._: ..._: Do._VBZ ``_``
+28_CD ..._: 37.7_CD 38.4_CD 38.5_CD 40_CD 48_CD 16_CD 32_CD ``_`` ..._: V_NNP Do_NNP ._.
+Animal_NNP bright._NN ``_``
+29_CD ..._: 37.8_CD 38.1_CD 38.6_CD 48_CD 48_CD 12_CD 24_CD ``_`` ..._: V_NNP Condition_NNP unchanged._IN ``_``
+30_CD ..._: 38.2_CD 38.3_CD 38.4_CD 44_CD 54_CD 16_CD 24_CD ``_`` V_NNP V_NNP Do_NNP ._.
+December_NNP 1_CD ..._: 38.2_CD 38.4_CD 38.5_CD 44_CD 48_CD 12_CD 24_CD ``_`` V_NNP V_NNP Do_NNP ._.
+2_CD ..._: 39.1_CD 38.3_CD 38.3_CD 40_CD 44_CD 24_CD 32_CD ``_`` ..._: V_NNP Do._NNP ``_``
+3_CD ..._: 38.3_CD 38.5_CD 38.6_CD 48_CD 48_CD 12_CD 40_CD ``_`` ..._: V_NNP Do._NNP ``_``
+4_CD ..._: 38.5_CD 38.3_CD 38.4_CD 40_CD 36_CD 20_CD 12_CD ``_`` V_NNP V_NNP Do._NNP ``_``
+5_CD ..._: 38.1_CD 38.4_CD 39.0_CD 40_CD 44_CD 12_CD 28_CD ``_`` V_NNP V_NNP Do._NNP ``_``
+6_CD ..._: 38.5_CD 38.7_CD 39.0_CD 40_CD 44_CD 12_CD 36_CD ``_`` V_NNP V_NNP Conjunctival_NNP membranes_NNS somewhat_RB in-_JJ jected_VBN ,_, no_DT petechias._NN ``_``
+7_CD ..._: 38.5_CD 39.1_CD 38.8_CD 40_CD 44_CD 16_CD 16_CD ``_`` ..._: V_NNP Do_NNP ._.
+do_NN ._.
+do._NN ``_``
+8_CD ..._: 39.4_CD 39.6_CD 40.0_CD 40_CD 40_CD 12_CD 24_CD Few_JJ ..._: ..._: vii_NN Do_NNP ._.
+do_NN ._.
+do._NN ``_``
+9_CD ..._: 39.7_CD 38.4_CD ._.
+38.2_CD 44_CD 40_CD 32_CD 24_CD Absent_NN ._.
+vii_NN vii_NN Do_NNP ._.
+do_NN ._.
+somewhat_RB granular_JJ and_CC yellow_JJ ._.
+Do._NNP ``_``
+10_CD ..._: 38.0_CD 38.2_CD 38.6_CD 40_CD 40_CD 12_CD 16_CD ``_`` iii_JJ vii_NN Slight_NNP eruption_NN on_IN under-surface_NN of_IN abdomen_NNS ,_, conjunctivæ_NN injected_VBD ;_: some_DT lacrymation._VBP ``_``
+11_CD ..._: 38.1_CD 38.2_CD 38.4_CD 44_CD 40_CD 28_CD 28_CD ``_`` vii_JJ vii_NN The_DT eruption_NN has_VBZ disappeared._VBN ``_``
+12_CD ..._: 38.1_CD 38.0_CD 38.2_CD 36_CD 44_CD 12_CD 28_CD ``_`` vii_JJ vii_NN Condition_NNP unchanged_JJ ._. '_'' ''_''
+13_CD ..._: 37.8_CD 37.8_CD 38.3_CD 40_CD 44_CD 12_CD 16_CD ``_`` vii_JJ vii_NN Right_NNP conjunctiva_NN slightly_RB injected_VBN ,_, left_VBD ,_, much_JJ injected._NN ``_``
+14_CD ..._: 37.7_CD 38.1_CD 38.4_CD 40_CD 44_CD 12_CD 20_CD ``_`` vii_JJ vii_NN Do_NNP ._.
+do._NN ``_``
+15.._CD 38.1_CD 38.1_CD 38.8_CD 40_CD 44_CD 12_CD 32_CD ``_`` vii_JJ vii_NN Conjunctivas_NNP clearer._NN ``_``
+16_CD ..._: 38.2_CD 38.3_CD 38.4_CD 36_CD 44_CD 12_CD 12_CD ``_`` vii_JJ vii_NN Do._NNP ``_``
+17.._CD 38.2_CD 38.2_CD 38.4_CD 44_CD 44_CD 12_CD 24_CD ``_`` vii_NN ..._: Do_NNP ._.
+Slight_JJ discharge_NN from_IN both_DT eyes._FW ``_``
+18.._CD 377_CD 38.5_CD 38.4_CD 44_CD 48_CD 12_CD 28_CD ``_`` ..._: iii_JJ Conjunctivas_NNP clear_JJ ,_, discharge_VB continues._NN ``_``
+]_RB 9.._CD 38.1_CD 38.4_CD 38.7_CD 44_CD 44_CD 12_CD 28_CD ``_`` iii_JJ iii_NN Do_NNP ._.
+do._NN ``_``
+20.._CD 38.3_CD 38.7_CD 38.6_CD 48_CD 52_CD 16_CD 32_CD ``_`` iii_JJ iii_NN Do_NNP ._.
+do._NN ``_``
+21.._CD 38.3_CD 38.4_CD 38.4_CD 44_CD 44_CD 24_CD 24_CD ``_`` iii_JJ iii_NN Do_NNP ._.
+do._NN ``_``
+22.._CD 38.3_CD 33.5_CD 38.4_CD 44_CD 48_CD 16_CD 20_CD ``_`` iii_JJ iii_NN Conjunctivas_NNP slightly_RB injected._VBZ ``_``
+23.._CD 38.5_CD 38.5_CD 383_CD 44_CD 36_CD 24_CD 32_CD ``_`` ..._: ..._: Loss_NNP of_IN power_NN in_IN hind_NN quarters_NNS ._.
+Animal_NNP put_VBD in_IN slings._NN ``_``
+24.._CD 38.3_CD 39.2_CD 39.0_CD 44_CD 72_CD 20_CD 52_CD ``_`` ..._: ..._: Conjunctivas_NNP clear_JJ ,_, animal_JJ down_RP ,_, in_IN pro-_JJ fuse_NN perspiration._NN ``_``
+25.._CD 38.7_CD 39.3_CD 39.6_CD 68_CD 88_CD 32_CD 52_CD ``_`` ..._: ..._:
+Paralysis_NN of_IN back_RB ,_, left_VBD conjunctiva_JJ petechiated._NN ``_``
+26.._CD 38.5_CD 39.2_CD 40.0_CD 96_CD Death_NN 108_CD at_IN 28_CD 2_CD 40_CD A.M._NNP ``_`` ..._: ..._: Conjunctivas_NNP petechiated_VBD ._.
+26th_CD December_NNP 1894.11_CD Liver_NNP weighs_VBZ 13_CD lbs_NN ._.
+3½_CD ozs_NN ._.
+There_EX are_VBP numerous_JJ calcareous_JJ nodules_NNS dotted_VBN about_IN on_IN the_DT anterior_NN and_CC posterior_JJ surfaces_NNS of_IN the_DT organ_NN ,_, numerous_JJ lymphatic_JJ vessels_NNS are_VBP mapped_VBN out_RP on_IN the_DT convex_NN surface_NN ,_, and_CC there_EX are_VBP signs_NNS of_IN old_JJ perihepatitis_NN present_NN ._.
+On_IN Section_NNP the_DT tissues_NNS are_VBP of_IN a_DT deep_JJ red_JJ colour_NN ,_, and_CC a_DT few_JJ yellowish_NN coloured_VBN nodules_NNS are_VBP dotted_VBN over_IN the_DT cut_NN surfaces_NNS ._.
+Stomach.12_NNP Month_NNP and_CC Date_NNP ._.
+-_: Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP ._.
+REMARKS_NNP ._.
+Sulphate_NNP of_IN Iron_NNP (_( Drachm_NNP )_) ._.
+Arsenic_NNP (_( Grains_NNP )_) ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP December_NNP 1_CD ..._: 37.8_CD 38.1_CD 38.2_CD 52_CD 52_CD 8_CD 12_CD Absent_NN ._.
+v_NN v_NN Conjunctivae_NNP slightly_RB injected_VBD ._.
+13_CD 23rdJanuary_CD 1895.14_CD The_DT abdominal_JJ cavity_NN is_VBZ free_JJ from_IN fluid_NN ._.
+Liver_NNP weighs_VBZ 16_CD lbs_NN ._.
+15½_CD ozs_NN ._.
+and_CC is_VBZ considerably_RB enlarged_VBN ._.
+The_DT anterior_JJ surface_NN presents_NNS marked_VBD signs_NNS of_IN old_JJ inflammation_NN ._.
+On_IN section_NN ,_, there_EX are_VBP no_DT calcareous_JJ nodules_NNS ._.
+Sjpleen_JJ ``_`` weighs_VBZ 2_CD lbs_NN ._.
+4½_CD ozs_NN ._.
+Both_DT surfaces_NNS of_IN the_DT organ_NN are_VBP covered_VBN with_IN dilated_JJ and_CC varicosed_JJ lymphatics_NNS ,_, small_JJ yellow_JJ masses_NNS being_VBG visible_JJ in_IN their_PRP$ course_NN ._.
+On_IN section_NN ,_, the_DT tissues_NNS are_VBP firm_JJ and_CC appear_JJ healthy_JJ ,_, but_CC caseous_JJ pus_NN exudes_NNS from_IN the_DT blocked_JJ vessels_NNS ._.
+Several_JJ enlarged_VBD glands_NNS occupy_IN the_DT hilum_NN of_IN the_DT organ_NN ,_, which_WDT on_IN section_NN were_VBD found_VBN to_TO be_VB caseous_JJ ._.
+Kidneys.PLATE_NNP III_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ HORSE_NNP No_NNP ._.
+CXV_NNP ._.
+Taken_VBN during_IN treatment_NN ,_, which_WDT terminated_VBD successfully_RB ,_, 15_CD 13th_CD December_NNP 1894.16_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP )_) ._.
+REMARKS_NNP ._.
+A.M._RB 1P.M_CD ._.
+A._NN M._NNP P.M._NNP A._NNP M._NNP P.M._NNP 1894_CD ._.
+A.M_NNP ._.
+P.M._NNP December_NNP 8_CD ..._: 38.0_CD 38.4_CD 38.4_CD 40_CD 40_CD 12_CD 20_CD Absent_NN ._.
+vi_NN vi_NN Conjunctivæ_NNP injected_VBD ,_, no_DT ._.
+petechia._NN ``_``
+9_CD ..._: 88.1_CD 38.3_CD 38.4_CD 40_CD 56_CD 12_CD 20_CD ``_`` iii_JJ vi_NN Do_NNP ._.
+do._NN ``_``
+10_CD ..._: 38.0_CD 38.4_CD 38.5_CD 40_CD ._.
+48_CD 16_CD 40_CD ``_`` vi_JJ vi_NN Animal_NNP very_RB dull_RB ,_, conjunctivae_NNS unchanged_JJ ._.
+Corn_NNP eaten._VBZ ``_``
+11_CD ..._: 38.2_CD 38.3_CD 38.4_CD 44_CD 44_CD 16_CD 20_CD ``_`` vi_JJ vi_NN Animal_NNP brighter_NN do._NN ``_``
+12_CD ..._: 38.1_CD 38.3_CD 38.3_CD 40_CD 44_CD 12_CD 24_CD ``_`` vi_JJ vi_NN Do_NNP do._VBZ ``_``
+18_CD ..._: 37.8_CD 38.1_CD 38.3_CD 40_CD 40_CD 16_CD 12_CD ``_`` vi_JJ vi_NN Conjunctiæ_NNP slightly_RB injected_VBD ,_, discharge_NN from_IN both_DT eyes._FW ``_``
+14_CD ..._: 38.0_CD 38.1_CD 38.0_CD 40_CD 44_CD 16_CD 16_CD ``_`` vi_JJ vi_NN Do_NNP ._.
+do._NN ``_``
+15_CD ..._: 37.7_CD 38.3_CD 38.6_CD 44_CD 44_CD 16_CD 32_CD ``_`` vi_JJ vi_NN Do_NNP ._.
+do._NN ``_``
+16_CD ..._: S7.7_NNP 38.6_CD 38.7_CD 44_CD 48_CD 12_CD 24_CD ``_`` vi_JJ vi_NN Do_NNP ._.
+do._NN ``_``
+17_CD ..._: 38.3_CD 38.6_CD 39.0_CD 44_CD 48_CD 20_CD 36_CD ``_`` vi_JJ vi_NN Do_NNP ._.
+do._NN ``_``
+18_CD ..._: 38.5_CD 39.3_CD 39.6_CD 44_CD 52_CD 12_CD 48_CD ``_`` vi_JJ iii_NN Do_NNP ._.
+animal_JJ brighter._NN ``_``
+19_CD ..._: 38.2_CD 38.6_CD 38.6_CD 48_CD 56_CD 12_CD 44_CD ``_`` iii_JJ iii_NN Do_NNP ._.
+do._NN ``_``
+20_CD ..._: 37.8_CD 38.3_CD 38.3_CD 48_CD 52_CD 12_CD 44_CD ``_`` iii_JJ iii_NN Do_NNP ._.
+swelling_VBG beneath_NN abdomen_NNS and_CC sheath._NN ``_``
+21_CD ..._: 37.8_CD 38.4_CD 38.9_CD 60_CD 52_CD 12_CD 40_CD ``_`` iii_JJ iii_JJ Condition_NNP unchanged._NN ``_``
+22_CD ..._: 38.0_CD 38.3_CD 38.6_CD 48_CD 56_CD 12_CD 40_CD ``_`` iii_JJ iii_NN Do_NNP ._.
+do._NN ``_``
+23_CD ..._: 38.1_CD 38.4_CD 38.6_CD 52_CD 48_CD 16_CD 48_CD ``_`` iii_JJ iii_NN Do_NNP ._.
+do._NN ``_``
+24_CD ..._: 38.0_CD 38.1_CD 38.5_CD 44_CD 40_CD 16_CD 36_CD ``_`` iii_JJ iii_NN Conjunctivæ_NNP dirty_NN and_CC injected._NN ``_``
+25_CD ..._: 37.7_CD 38.2_CD 38.6_CD 40_CD 44_CD 12_CD 36_CD ``_`` iii_JJ iii_NN Do_NNP ._.
+do._NN ``_``
+26_CD ..._: 37.8_CD 38.1_CD 38.4_CD 36_CD 44_CD 12_CD 28_CD ``_`` iii_JJ iii_NN Conjunctivæ_NNP less_JJR injected._JJ ``_``
+27_CD ..._: 37.8_CD 38.3_CD 38.4_CD 36_CD 40_CD 20_CD 24_CD ``_`` iii_JJ iv_NN Conjunctivæ_NNP clear._NN ``_``
+28_CD ..._: 38.2_CD 38.2_CD 38.4_CD 36_CD 40_CD 12_CD 24_CD ``_`` iv_JJ iv_NN Do_NNP ._.
+slightly_RB injected_VBN and_CC pete-_JJ chiated._NN ``_``
+29_CD ..._: 37.8_CD 38.1_CD 38.3_CD 44_CD 36_CD 16_CD 24_CD ``_`` iv_JJ iv_NN Do_NNP ._.
+do._NN ``_``
+30_CD ..._: 37.8_CD 38.1_CD 38.1_CD 40_CD 40_CD 12_CD 24_CD ``_`` iv_JJ iv_NN Do_NNP ._.
+do._NN ``_``
+81_CD ..._: 38.1_CD 38.1_CD 38.6_CD 40_CD 40_CD 12_CD 20_CD ``_`` iv_JJ iv_NN Do_NNP ._.
+do_NN ._.
+1895_CD ._.
+January_NNP 1_CD ..._: 38.0_CD 38.2_CD 38.6_CD 36_CD 40_CD ,_, 12_CD 20_CD ``_`` ._.
+iv_NN iv_NN Conjunctivæinjected._NNP ``_``
+2_CD ..._: 38.0_CD 38.0_CD 38.4_CD 36_CD 40_CD 12_CD 20_CD ``_`` ._.
+iv_NN iv_NN Do._NNP ``_``
+3_CD ..._: 38.0_CD 38.1_CD 38.3_CD 36_CD 36_CD 12_CD 16_CD ``_`` iv_JJ iv_NN Do._NNP ``_``
+4_CD ..._: 37.7_CD 38.0_CD 38.4_CD 40_CD 40_CD 12_CD 16_CD ``_`` iv_JJ iv_NN Do._NNP ``_``
+5_CD ..._: 37.7_CD 38.1_CD 38.2_CD 36_CD 40_CD 12_CD 12_CD ``_`` iv_JJ iv_NN Conjunctivæ_NNP nearly_RB clear._VBD ``_``
+6_CD ..._: 37.8_CD 38.1_CD 88.5_CD 44_CD 36_CD 12_CD 16_CD ``_`` iv_JJ iv_NN Do._NNP ``_``
+7_CD ..._: 38.1_CD 38.3_CD 38.3_CD 36_CD 36_CD 12_CD 24_CD ``_`` iv_JJ iv_NN Do._NNP ``_``
+8_CD ..._: 38.1_CD 38.1_CD 38.2_CD 32_CD 36_CD 12_CD 20_CD ``_`` iv_JJ iv_NN Do._NNP ``_``
+9_CD ..._: 38.0_CD 37.7_CD 38.1_CD 32_CD 36_CD 16_CD 20_CD ``_`` iv_JJ iv_NN Right_NNP conjunctivæ_NN one_CD extravasation_NN ,_, left_VBD clear._NN ``_``
+10_CD ..._: 38.0_CD 37.8_CD 38.3_CD 36_CD 36_CD 20_CD 16_CD ``_`` iv_JJ iv_NN Do_NNP ._.
+do._NN ``_``
+11_CD ..._: 37.9_CD 37.8_CD 37.9_CD 28_CD 36_CD 8_CD 12_CD ``_`` iv_JJ iv_NN Conjunctivæ_NNP slightly_RB injected._VBZ ``_``
+12_CD ..._: 37.9_CD 38.0_CD 38.2_CD 27_CD 36_CD 8_CD 20_CD ``_`` iv_JJ iv_NN Do_NNP ._.
+do._NN ``_``
+13_CD ..._: 37.9_CD 38.2_CD 3S.2_CD 32_CD 34_CD 13_CD 20_CD ``_`` iv_JJ iv_NN Conjunctivæ_NNP clear._NN ``_``
+14_CD ..._: 38.1_CD 38.1_CD 38.1_CD 36_CD 34_CD 10_CD 12_CD ``_`` iv_JJ iii_NN Do._NNP ``_``
+15_CD ..._: 38.0_CD 38.0_CD ._.
+38.6_CD 36_CD 34_CD 12_CD 18_CD ``_`` iii_JJ iii_NN Do._NNP ``_``
+16_CD ..._: 37.8_CD 38.0_CD ._.
+38.2_CD 28_CD 32_CD 12_CD 18_CD ``_`` iii_JJ iii_NN Do._NNP ``_``
+17_CD ..._: 38.0_CD 38.1_CD 38.1_CD 36_CD 36_CD 12_CD 16_CD ``_`` iii_JJ iii_NN Do._NNP ``_``
+18_CD ..._: 37.5_CD 37.5_CD 38.4_CD 26_CD 32_CD 12_CD 20_CD ``_`` iii_JJ iii_NN Do._NNP ``_``
+19_CD .._JJ 37.8_CD 37.5_CD 38.2_CD 36_CD 40_CD 12_CD 20_CD ``_`` iii_JJ iii_NN Do._NNP ``_``
+20_CD .._JJ 37.5_CD 38.4_CD 38.6_CD 40_CD 40_CD 12_CD 28_CD ``_`` iii_JJ ii_NN Conjunctivæ_NNP pale_NN ,_, slightly_RB yellow._VBZ ``_``
+21_CD .._JJ 37.7_CD 38.2_CD 38.4_CD 52_CD 48_CD 12_CD 16_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do._NN ``_``
+22_CD .._JJ 37.9_CD 37.9_CD 38.0_CD 86_CD 40_CD 12_CD 12_CD ``_`` ii_JJ ii_NN Conjunctivæ_NNP slightly_RB injected._VBZ ``_``
+23_CD .._JJ 37.6_CD 37.7_CD 38.2_CD 36_CD 36_CD 12_CD 12_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do._NN ``_``
+24_CD .._JJ 37.7_CD 37.8_CD 38.1_CD 44_CD 44_CD 12_CD 16_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do._NN ``_``
+25_CD .._JJ 37.6_CD 38.2_CD 38.2_CD 32_CD 40_CD 8_CD 12_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do._NN ``_``
+26_CD .._JJ 38.2_CD 37.9_CD 38.2_CD 36_CD 36_CD 20_CD 20_CD ``_`` ii_JJ ii_NN Dp_NNP ._.
+do._NN ``_``
+27_CD .._JJ 37.5_CD 38.0_CD 38.2_CD 28_CD 32_CD 12_CD 24_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do._NN ``_``
+28_CD .._JJ 37.8_CD 38.2_CD 38.0_CD 32_CD 44_CD 12_CD 24_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do._NN ``_``
+29_CD .._JJ 37.7_CD 37.8_CD 38.3_CD 40_CD 36_CD 12_CD 20_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do_NN ._.
+Sodium_NNP Iodide_NNP ,_, drachtos._VBZ ``_``
+30_CD .._JJ 37.2_CD 37.7_CD 38.2_CD 28_CD 24_CD 8_CD 14_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do._NN ``_``
+31_CD .._JJ 37.7_CD 38.1_CD 37.8_CD 28_CD 36_CD 24_CD 12_CD ``_`` ii_JJ ii_NN Do_NNP ._.
+do_NN ._.
+February_NNP 1_CD ._.
+37.9_CD 38.2_CD 38.5_CD 36_CD 36_CD 12_CD 20_CD ``_`` ii_JJ ii_NN Conjunctivæ_NNP clear._NN ``_``
+2_CD ._.
+37.9_CD 37.8_CD 38.4_CD 32_CD 40_CD 12_CD 16_CD ``_`` ii_JJ ii_NN Do._NNP ``_``
+3_CD ..._: 37.4_CD 38.1_CD 40.5_CD 28_CD 36_CD 12_CD 16_CD ``_`` ii_NN ..._: Do._NNP ``_``
+4_CD ._.
+37.5_CD 37.6_CD 38.2_CD 28_CD 32_CD 12_CD 12_CD ``_`` ,_, ..._: .._VBZ Do._NNP ``_``
+5.._CD ._.
+37.4_CD 37.6_CD 38.1_CD 28_CD 32_CD 12_CD 12_CD ``_`` ..._: ..._: Conjunctivæ_NNP slightly_RB injected_VBD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ 17_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN ._.
+°C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN blood_NN ._.
+Medicine_NNP Arsenic_NNP (_( grains_NNS ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1895_CD ._.
+A.M_NNP ._.
+P.M._NNP February_NNP 6_CD ..._: 37.3_CD 37.6_CD 38.1_CD 28_CD 32_CD 12_CD 12_CD Absent_NN ._.
+..._: ..._:
+Right_RB conjunctiva_NN yellow_JJ ,_, left_VBD ,_, pale_NN ._.
+13_CD Date_NNP ._.
+Hay_NNP ._.
+Lucerne_NNP ._.
+Gram_NNP ._.
+Bran_NNP ._.
+Linseed_NNP ._.
+1_CD Rise_NNP ._.
+Remarks_NNS ._.
+Date_NNP ._.
+Hay_NNP ._.
+Lucerne_NNP ._.
+Barley_NNP ._.
+Bran_NNP ._.
+Linseed_NNP ._.
+Rice_NNP ._.
+Remarks_NNS ._.
+1896_CD ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+1885_CD ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+Lbs_NNP ._.
+January_NNP 23_CD ..._: 6_CD 10_CD 6_CD 3_CD 1.5_CD 1.0_CD February_NNP 16_CD ..._: 10.5_CD 10_CD 6_CD 3_CD 1.5_CD 1_CD 24_CD ..._: 14.5_CD 19_CD Month_NNP and_CC Pate_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN blood_NN ._.
+Medicine_NNP Arsenic_NNP (_( grains_NNS )_) ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M._NNP P.M_NNP ,_, 1894_CD ._.
+A.M_NNP ._.
+P.M._NNP December_NNP 8_CD ..._: 37.7_CD 37.6_CD 38.4_CD 48_CD 60_CD 12_CD 12_CD Absent_NN ..._: vi_NN vi_NN Conjunctivae_NNP pale_NN ,_, mouth_NN sore_NN ;_: the_DT animal_NN is_VBZ unable_JJ to_TO eat_VB ._.
+20_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN blood_NN ._.
+Medicine_NNP Arsenic_NNP (_( grains_NNS )_) ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+A.M_NNP ._.
+P.M._NNP Decembers_NNP ..._: 37.7_CD 38.7_CD 38.1_CD 48_CD 48_CD 12_CD 12_CD Absent_NN ..._: v_NN v_NN Conjunctivæ_NNP pale_NN yellow_NN ._.
+Sul-_JJ phate_NN of_IN Iron_NNP ,_, one_CD drachm_NN morning_NN and_CC evening_NN ._.
+21_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ,_, Respiration_NNP ._.
+Hæmatozoa_NNP In_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( grains_NNS ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP A.M_NNP ,_, P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+A.M_NNP ._.
+P.M._NNP December_NNP 5_CD ..._: 38.7_CD 41.6_CD 41.9_CD 66_CD 84_CD 24_CD Ah_NNP Very_RB numerous_JJ ._.
+..._: iiss_NN Animal_NNP dull_NN ._.
+Conjunctivae_NNP yellow_NN with_IN ,_, claret-coloured_JJ petechias_NN ._.
+Sheath_NN and_CC hind_NN limbs_JJ swollen_NN ._.
+22_CD The_DT peritoneal_JJ cavity_NN is_VBZ free_JJ from_IN ,_, fluid_NN ._.
+Liver_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ 23_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN ._.
+Pulse_NNP ._.
+Respiration_NN ,_, Hæmatozoa_NNP in_IN Blood_NNP ,_, Medicine_NNP Arsenic_NNP (_( grains_NNS ._. )_)
+REMARKS_NNP ._.
+A._NN M._NNP 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1895_CD ._.
+A.M_NNP ._.
+P.M._NNP January_NNP 1_CD ..._: 37.2_CD 38.5_CD 38.3_CD 40_CD 44_CD 12_CD 20_CD Absent_NNP vii_NN vii_NN Conjunctivæ_NNP dirty_NN yellow_NN ._.
+No_DT petechiæ_NN ._.
+2_CD ..._: 37.4_CD 38.1_CD 38.5_CD 36_CD 48_CD 12_CD 44_CD vii_NN vii_NN Do_NNP ._.
+do_NN ._.
+24_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( grains_NNS ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 6_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1895_CD ._.
+A.M_NNP ._.
+P.M._NNP February_NNP 25_CD .._VBD 37.3_CD 37.7_CD 38.5_CD 32_CD 40_CD 12_CD 36_CD Absent_NNP vii_NN vii_NN Right_NNP conjunctiva_NN slightly_RB petechiated_VBN ._.
+left_NN ,_, yellow_NN ._.
+25_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M._NNP P._NNP M_NNP 1895_CD ._.
+A.M_NNP ._.
+P.M._NNP April_NNP 28_CD ..._: 37.6_CD 37.8_CD 37.9_CD 36_CD 36_CD 32_CD 32_CD Absent_NN ._.
+vii_NN viii_NN 26_CD July_NNP 3rd_CD 1895.27_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP ._. )_)
+REMARKS_NNP ._.
+A._NN M._NNP 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1895_CD ._.
+January_NNP 1_CD ..._: 37.7_CD 37.8_CD 38.8_CD 52_CD 52_CD 12_CD 16_CD Absent_NN ._.
+iv_NN iv_NN Conjunctivæ_NNP injected_VBD ._.
+28_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP ._. )_)
+REMARKS_NNP ._.
+A.M._NNP l_VBD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+A.M_NNP ._.
+P.M._NNP Decern_NNP ._.
+16_CD ..._: 37.3_CD 38.1_CD 38.8_CD 44_CD 60_CD 8_CD 24_CD Absent_NN ._.
+..._: vii_NN Conjunctivæ_NNP pale_NN ._.
+No_DT petechi29_JJ Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+Decern_NNP ._.
+24_CD ..._: 38.0_CD 38.1_CD 38.4_CD 40_CD 44_CD 12_CD 16_CD Absent_NN ._.
+..._: ..._:
+Right_RB conjunctiva_NN orange_NN and_CC injected_VBD ;_: swelling_VBG beneath_IN abdomen_NNS ._.
+30_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1895_CD ._.
+Febry_NNP ._.
+18_CD ..._: 39.6_CD 39.9_CD 40.0_CD 48_CD 52_CD 12_CD 40_CD Absent_NNP vi_NN vii_NN Conjunctivæ_NNP injected_VBD ,_, yellow_JJ discharge_NN from_IN the_DT left_NN nostril_NN ._.
+31_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Haematozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1895_CD ._.
+April_NNP 14_CD 32_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Haematozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP ._. )_)
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+A.M_NNP ._.
+P.M._NNP Decern_NNP ._.
+23_CD ..._: ..._: 40.8_CD 40.8_CD ..._: 72_CD ..._: 32_CD Very_RB nu-_JJ merous_JJ ._.
+..._: v_NN Conjunctivæ_NNP orange_NN coloured_VBD ,_, injected_VBN and_CC petechiated_VBN ._.
+33_CD Month_NNP and_CC Date_NNP ._.
+Temperature°_NNP C._NNP Pulse_NNP ._.
+Respiration_NN ._.
+Haenmatozoa_NNP in_IN Blood_NNP ._.
+Medicine_NNP Arsenic_NNP (_( Grains_NNP ._. )_)
+REMARKS_NNP ._.
+A.M_NNP ._.
+P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP A..M._NNP P.M._NNP 1895_CD ._.
+A.M_NNP ._.
+P.M._NNP February_NNP 19_CD ..._: 37.5_CD 37.8_CD 38.0_CD 40_CD 36_CD 12_CD 28_CD Absent_NN ._.
+vi_NN vi_NN Rightconjunctiva_NNP clearer_NN ,_, left_VBD unchanged_JJ ._.
+34_CD At_IN the_DT latter_JJ stables_VBZ the_DT horse_NN was_VBD observed_VBN to_TO be_VB ailing_VBG and_CC was_VBD removed_VBN to_TO Parel_NNP Veterinary_NNP Hospital_NNP ,_, where_WRB the_DT hæmatozoon_NN of_IN Surra_NNP was_VBD discovered_VBN in_IN its_PRP$ blood_NN ._.
+December_NNP 23rd_CD ,_, 1894.35_CD 9th_CD February_NNP 1895.A_CD ._.
+HORSE_NNP SURRA_NNP APPENDIX_NNP II_NNP ._.
+TREATMENT_NNP OF_NNP ANIMALS_NNP INOCULATED_NNP BY_NNP GASTRIC_NNP INGESTION_NNP OF_NNP SOILED_NNP BLOOD_NNP ._.
+HORSES_NNP Nos_NNP ._.
+LXXXIX_NNP (_( CURED_NNP )_) ,_, XCVI_NNP ._.
+39_CD HORSE_NNP No_NNP ._.
+LXXXIX_NNP ._.
+Australian_JJ Gelding_NNP ,_, aged_VBD ._.
+This_DT animal_NN was_VBD a_DT caster_NN on_IN account_NN of_IN lameness_NN ,_, but_CC was_VBD otherwise_RB in_IN good_JJ health_NN and_CC condition_NN ._.
+This_DT experiment_NN was_VBD undertaken_VBN with_IN a_DT view_NN to_TO determine_VB :_: 40_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1893_CD Decern_NNP ._.
+26_CD ..._: 36.0_CD 36.8_CD 37.3_CD 44_CD 30_CD 20_CD 14_CD 26_CD Absent_NN ._.
+27_CD ..._: 36.1_CD 36.9_CD 37.6_CD 34_CD 35_CD 18_CD 20_CD 27_CD 41_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozon_NNP in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+February_NNP 9_CD ..._: 37.4_CD 37.3_CD 37.8_CD 44_CD 56_CD 8_CD 16_CD 71_CD Absent_NN ._.
+42_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæma-_NNP tozoa_NN in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1P.M_CD ._.
+5_CD P.M_NNP ._.
+A.M._NNP P.M_NNP A.M_NNP ._.
+P.M._NN 1894_CD ._.
+March_NNP 20_CD ..._: 37.8_CD 37.6_CD 37.5_CD 47_CD 53_CD 13_CD 16_CD 110_CD Absent_JJ 20th.43_CD Date_NNP ._.
+Temperature°_NNP C._NNP Palse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæma_NNP ._.
+tozoa_NN in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+April_NNP 30_CD ..._: 37.3_CD 38.0_CD 37.6_CD 40_CD 42_CD 8_CD 21_CD 151_CD Absent_JJ 30th44_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Haema_NNP ._.
+tozoa_NN in_IN the_DT blood_NN ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+June_NNP 12_CD ..._: 38.0_CD 37.7_CD 37.7_CD 39_CD 41_CD 10_CD 14_CD 194_CD Absent_JJ 12th45_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæma_NNP tozoa_NN in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1P.M_CD ._.
+5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+August_NNP 6_CD ..._: 38.5_CD 39.2_CD 38.3_CD 49_CD 54_CD 17_CD 24_CD 249_CD Absent_JJ 6th.46_CD Date_NNP ._.
+Temperature_NN °C_NN ,_, Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+._.
+Hæma_NNP ._.
+tozoa_NN in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A..M._$ 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+Sept._NNP 17_CD ..._: 38.4_CD 37.8_CD 38.1_CD 50_CD 50_CD 20_CD 24_CD 291_CD Absent_JJ 17th.47_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæma_NNP tozoa_NN in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 6_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP A..M._NNP P.M._NNP 1894_CD ._.
+Novem_NNP ._.
+14_CD ..._: 38.1_CD 38.1_CD 38.0_CD 40_CD 52_CD 20_CD 20_CD 349_CD Absent_JJ 14th.48_CD TABLE_NNP Showing_VBG the_DT daily_JJ fodder_NN ration_NN of_IN Horse_NNP No_NNP ._.
+LXXX1X_NNP from_IN November_NNP 19th_CD ,_, 1893_CD ,_, and_CC the_DT daily_JJ quantity_NN of_IN dung_NN passed_VBN from_IN ,_, June_NNP 4th_CD ,_, 1894_CD ,_, to_TO January_NNP 1st_CD ,_, 1895_CD ,_, From_NNP November_NNP 19th_CD ,_, 1893_CD ,_, to_TO July_NNP 3rd_CD ,_, 1894_CD ,_, the_DT fodder_NN given_VBN daily_RB was_VBD 20_CD lbs_NN ._.
+of_IN hay_NN and_CC 10_CD lbs_NN ._.
+of_IN lucerne_NN ._.
+Three_CD pounds_NNS of_IN gram_NN were_VBD also_RB given_VBN daily_RB from_IN the_DT 19_CD ,_, th_JJ November_NNP to_TO December_NNP 1st_CD ,_, 1893_CD ,_, after_IN which_WDT date_NN ,_, until_IN Febru-_NNP ary_JJ 14th_CD ,_, 1894_CD ,_, the_DT ration_NN was_VBD 6_CD lbs_NN ._.
+of_IN gram_NN and_CC 1_CD 1/2_CD ounces_NNS of_IN salt_NN ._.
+From_IN the_DT 15th_CD February_NNP to_TO 20th_CD March_NNP 1894_CD ,_, 1_CD lb_NN ._.
+of_IN bran_NN and_CC 3_CD lbs_NN ._.
+of_IN linseed_NN were_VBD given_VBN daily_RB in_IN addition_NN ._.
+Date_NNP ._.
+Hay_NNP Lbs_NNP ._.
+Lucerne_NNP Lbs_NNP ._.
+Salt_NNP Oz_NNP ._.
+Gram_NNP Lbs_NNP ._.
+Wheat_NNP Lbs_NNP ._.
+Bran_NNP Lbs_NNP ._.
+Liusead_NNP Lbs_NNP ._.
+Exercise_NN Daily_NNP Miles_NNP ._.
+Date_NNP Hay_NNP Lbs_NNP ._.
+Lucerne_NNP Lbs_NNP ._.
+Salt_NNP Oz_NNP ._.
+Barley_NNP Lbs_NNP ._.
+Bran_NNP Lbs_NNP ._.
+Exer-_JJ cise_NN Miles_NNP ._.
+Dung_NNP Lbs_NNP Medicine_NNP ._.
+1894_CD ._.
+1894_CD ._.
+March_NNP 21_CD ..._: 20_CD 10_CD 2_CD 4_CD ..._: 0.6_CD 2_CD 6_CD June_NNP 8_CD ..._: 20_CD 10_CD 3_CD :_: o_NN rs_VBZ 5_CD ..._: ..._: 49_CD Date_NNP 1894_CD ._.
+Hay_NNP Lbs_NNP ._.
+Lucerne_NNP Lbs_NNP ._.
+Salt_NNP Oz_NNP ._.
+Barley_NNP Lbs_NNP ._.
+Bran_NNP Lbs_NNP ._.
+Exer-_JJ cise_NN miles_NNS ._.
+Dung_NNP Lbs_NNP ._.
+Medicine_NNP ._.
+Date_NNP ._.
+Hay_NNP Lbs_NNP ._.
+Lucerne_NNP Lbs_NNP ._.
+Salt_NNP Oz_NNP ._.
+Barley_NNP Lbs_NNP ._.
+Bran_NNP LDS_NNP ._.
+Exer_NNP ._.
+cise_NN Miles_NNP ._.
+Dung_NNP Lbs_NNP ._.
+Medicine_NNP ._.
+1894_CD ._.
+1894_CD ._.
+August_NNP 17_CD ..._: 23_CD 10_CD 3_CD 2_CD 8_CD 32.0_CD ..._: October_NNP 29_CD ..._: 22_CD 19_CD 10_CD 1.5_CD 4.0_CD 6_CD 6_CD 54.0_CD ..._: 50_CD Date_NNP ._.
+Quantity_NN collected_VBN ._.
+Specific_JJ Gravity_NNP ._.
+Albumen_NNS ._.
+Total_JJ Hip_NNP ._.
+puric_JJ Acid_NNP excreted_VBD in_IN the_DT nvine_NN during_IN 24_CD hours_NNS ._.
+Granmes_NNS ._.
+Urea_NNP ,_, Grammes_NNP perlOUc.c_NN ._.
+Total_JJ Urea_NNP excreted_VBD in_IN the_DT urine_NN during_IN 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Water_NNP drunk_NN during_IN 24_CD hours_NNS ._.
+Litres_NNS ._.
+TEMPERATURE_NN IN_NNP SHADE_NNP °F_NNP ._.
+Humi-_JJ dity_NN ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+Maximum_NNP ._.
+Minimum_NNP ._.
+1893_CD ._.
+November_NNP 19_CD ..._: 1,630_CD 1,054_CD Nil_NNP ._.
+27.71_CD 1.60_CD 26.08_CD 11.40_CD 85.5_CD 64.4_CD 76_CD Health_NNP ._.
+51_CD Date_NNP ._.
+Quantity_NN collected_VBN ._.
+Specific_JJ Gravity_NNP ._.
+Albumen_NNS ._.
+Total_JJ Hip-_NNP puric_NN Acid_NNP excrcted_VBD in_IN the_DT Urine_NNP during_IN 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Urea_NNP ,_, Grammes_NNP per_IN 100_CD c.c_NN ._.
+Total_JJ Urea_NNP excreted_VBD in_IN the_DT Urine_NNP during_IN 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Water_NNP drunk_NN during_IN 24_CD hours_NNS ._.
+Litres_NNS ._.
+TEPERATURE_NNP IN_NNP SHADE_NNP Humi-_NNP dity_NN ._.
+Hæniatozoa_NNP in_IN the_DT Blood_NNP ._.
+Maximum_NNP ._.
+Minimum_NNP ._.
+1894_CD ._.
+February_NNP 11_CD ..._: 3,150_CD 1,050_CD Nil_NNP ._.
+3.30_CD 1.95_CD 61.42_CD 20.52_CD 92.5_CD 59.9_CD 55_CD Absent_NN ._.
+12_CD ..._: 1,800_CD 1,053_CD 52_CD Date_NNP ._.
+Q_NNP c_VBP uantity_NN ollected_VBN ._.
+Specific_JJ Gravity_NNP ._.
+Albumen_NNS ._.
+Total_JJ Hip-_NNP puric_NN Acid_NNP xcreted_VBD in_IN the_DT Urine_NNP during_IN 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Urea_NNP ._.
+Grammes_NNP per_IN 100_CD c.c_NN ._.
+Total_JJ Urea_NNP aviated_VBD in_IN the_DT Urine_NNP Grammes_NNP ._.
+Water_NNP drunk_NN during_IN 24_CD hours_NNS litres_NNS ._.
+TEMPERATURE_NN IN_NNP SHADE_NNP F._NNP Humi-_NNP dity_NN ._.
+Hætnatozoa_NNP in_IN the_DT Blood_NNP ._.
+Maximum_NNP ._.
+M_NNP inimum_NN ._.
+1894_CD May_NNP 8_CD ..._: 5,030_CD 1,040_CD Nil_NNP ._.
+Nil_NNP ._.
+1.90_CD 95.57_CD 14.82_CD 97.5_CD 69.4_CD 50_CD Absent_NN ._.
+53_CD Date_NNP ._.
+Quantity_NN collected_VBN ._.
+Specific_JJ Gravity_NNP ._.
+Albumen_NNS ._.
+Total_JJ Hip-_NNP puric_NN Acid_NNP excreted_VBD in_IN the_DT urine_NN during_IN 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Urea_NNP ._.
+Grumes_NNP per_IN 100_CD c.c_NN ._.
+Total_JJ Urea_NNP excreted_VBD in_IN the_DT Urine_NNP during_IN 24_CD Grammes_NNS ._.
+Water_NNP drunk_NN during_IN 24_CD hours_NNS ._.
+Litres_NNS ._.
+TEMPERATURE_NN IN_NNP SHADE_NNP °F_NNP ._.
+Humi-_JJ dity_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Maximum_NNP ._.
+Minimum_NNP ._.
+1894_CD ._.
+August_NNP 3_CD ..._: 7,580_CD 1,032_CD Nil_NNP ._.
+Nil_NNP ._.
+1.32_CD 101.05_CD 15.39_CD 84.5_CD 70.4_CD 86_CD Absent_NN ._.
+64_CD Date_NNP ._.
+Quantity_NN collected_VBN ._.
+Specific_JJ Gravity_NNP ._.
+Albumen_NNS ._.
+Total_JJ Hip-_NNP puric_NN Acid_NNP excreted_VBD in_IN the_DT Urine_NNP during_IN 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Urea_NNP ._.
+Grammes_NNP per_IN 100_CD c.c_NN ._.
+Total_JJ Urea_NNP excreted_VBD in_IN Urine_NNP during_IN 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Water_NNP drunk_VBD daily_JJ liters_NNS TEMPERATURE_VBP IN_NNP SHADE_NNP °F_NNP ._.
+Humi-_JJ dity_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Maximum_NNP ._.
+Minimum_NNP ._.
+1894_CD October_NNP 29_CD ..._: 4,300_CD 1,050_CD Nil_NNP ._.
+Nil_NNP ._.
+3.05_CD 131.15_CD 20.52_CD 87.5_CD 66.4_CD 74_CD Absent_NN ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NN RECORDS_NNP OF_NNP TEMPERATURE_NNP ,_, WATER_NNP TAKEN_NNP ,_, URINE_NNP PASSED_NNP AND_NNP TOTAL_NNP UREA_NNP EXCRETED_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 55_CD ._.
+TABLE_NN Showing_VBG the_DT average_JJ daily_JJ Urea_NNP ,_, Urine_NNP ,_, and_CC Water_NNP drunk_NN ,_, with_IN the_DT ratio_NN of_IN Urea_NNP to_TO Urine_NNP ,_, and_CC Urine_NNP to_TO Water_NNP in_IN periods_NNS of_IN 7_CD days_NNS during_IN health_NN ,_, disease_NN ,_, treatment_NN ,_, and_CC after_IN cure_NN ._.
+Periods_NNS of_IN Health_NNP and_CC Disease_NNP ._.
+Average_JJ daily_JJ Urea_NNP ._.
+Average_JJ daily_JJ Urea_NNP ._.
+Average_JJ daily_JJ W_NNP a_DT ter_NN drunk_NN ._.
+Ratio_NNP of_IN Urea_NNP to_TO Urine_NNP Ratio_NNP of_IN Urine_NNP to_TO Water_NNP ._.
+Average_JJ daily_JJ Dung_NNP ._.
+Periods_NNS of_IN Health_NNP and_CC Discase_NNP ._.
+Average_JJ daily_JJ Average_JJ daily_JJ Urine_NNP ._.
+Average_JJ daily_JJ Water_NNP drunk_NN ._.
+Ratio_NNP of_IN Urea_NNP to_TO Urine_NNP ._.
+Ratio_NN of_IN Urine_NNP to_TO Water_NNP ._.
+Average_JJ daily_JJ Dung_NNP ._.
+Grammes_NNS ._.
+Litres_NNS ._.
+Litres_NNS ._.
+Kilo-_NNP grammes_NNS ._.
+Intermission_NN weeks_NNS ._.
+Grammes_NNS ._.
+Litres_NNS ._.
+Litres_NNS ._.
+Kilo-_NNP grammes_NNS ._.
+Days_NNP Health_NNP ._.
+6_CD days_NNS ..._: ..._: 21.42_CD 255_CD 14.44_CD 1_CD :_: 58.50_CD 1_CD :_: 11.50_CD Days_NNS ._.
+226_CD period_NN of_IN non-_JJ treatment_NN 28°_CD ..._: 91.04_CD 4.949_CD 5.46_CD 1_CD :_: 54.36_CD 1_CD :_: 1.10_CD ..._: 29°_CD ..._: 81.09_CD 4.681_CD 13.59_CD 1_CD :_: 57.30_CD 1_CD :_: 2.90_CD ..._:
+Latent_JJ Period_NNP ._.
+6_CD days_NNS ..._: 19.71_CD 1.364_CD 13.87_CD 1_CD :_: 69.22_CD 1_CD :_: 10.16_CD ..._: 30°_CD ..._: 88.82_CD 6.214_CD 13.84_CD 1_CD :_: 69.96_CD 1_CD :_: 2.23_CD ..._: 31°_CD ..._: 50.94_CD 6.110_CD 6.59_CD 1_CD :_: 107.30_CD 1_CD :_: 1.08_CD 15.45_CD 32°_CD ..._: 68.90_CD 6.609_CD 11.08_CD 1_CD :_: 95.90_CD 1_CD :_: 1.68_CD 18.47_CD Paroxysm_NNP ._.
+5_CD days_NNS ..._: ..._: 52.90_CD 1.892_CD 15.96_CD 1_CD :_: 35.80_CD 1_CD :_: 8.43_CD ..._: 33°_CD ..._: 84.90_CD 6.388_CD 15.39_CD 1_CD :_: 75.24_CD 1_CD :_: 2.41_CD 21.37_CD 34°_CD ..._: 84.28_CD 8.043_CD 13.35_CD 1_CD :_: 95.43_CD 1_CD :_: 1.66_CD 19.77_CD 35°_CD ..._: 103.93_CD 7.908_CD 16.37_CD 1_CD :_: 76.08_CD 1_CD :_: 2.07_CD 17.40_CD 39.18_CD Intermission_NN weeks_NNS ._.
+36°_CD .._JJ 84.52_CD 6.580_CD 17.26_CD 1_CD :_: 77.85_CD 1_CD :_: 2.62_CD Days_NNS ._.
+60_CD {_( 454grains_CD of_IN Arsenic_NNP administered_VBD ._.
+1°_CD ..._: 33.61_CD 1.070_CD 16.04_CD 1_CD :_: 31.80_CD 1_CD :_: 34.98_CD ..._: 37°_CD ..._: 146..46_CD 6.739_CD 15.39_CD 1_CD :_: 45.92_CD 1_CD :_: 2.28_CD 16.20_CD 2°_CD ..._: 30.89_CD 1.443_CD 20.03_CD 1_CD :_: 46.40_CD 1_CD :_: 13.98_CD ..._: 38°_CD ..._: 96.53_CD 5.344_CD 19.29_CD 1_CD :_: 55.36_CD 1_CD :_: 3.61_CD 18.24_CD 3°_CD ..._: 36.43_CD 1.801_CD 21.66_CD 1_CD :_: 49.40_CD 1_CD :_: 12.02_CD 39°_CD ..._: 81.59_CD 6.451_CD 20.76_CD 1_CD :_: 79.07_CD 1_CD :_: 3.22_CD 19.35_CD 4°_CD ..._: 29.99_CD 1.797_CD 14.66_CD 1_CD :_: 59.92_CD 1_CD 8.16_CD 40°_CD ..._: 82.97_CD 5.371_CD 24.35_CD 1_CD :_: 70.77_CD 1_CD :_: 4.15_CD 21.65_CD 5°_CD ..._: 20.98_CD 1.418_CD 16.77_CD 1_CD :_: 67.60_CD 1_CD :_: 11.83_CD 41°_CD ..._: 75.93_CD 6.111_CD 20.52_CD 1_CD :_: 80.49_CD 1_CD :_: 3.36_CD 20.64_CD 6°_CD ..._: 21.86_CD 1.630_CD 18.08_CD 1_CD :_: 74.60_CD 1_CD :_: 11.09_CD 42°_CD 79.54_CD 6.479_CD 22.31_CD 1_CD :_: 81.45_CD 1_CD :_: 3.44_CD 22.31_CD 7°_CD ..._: 23_CD ._.
+57_CD 1.692_CD 12.29_CD 1_CD :_: 71.78_CD 1_CD :_: 7.28_CD ..._: 43°_CD ..._: 92.37_CD 8.000_CD 22.67_CD 1_CD :_: 86.60_CD 1_CD :_: 2.83_CD 25.36_CD 8°_CD ..._: 23.31_CD 1.336_CD 16.29_CD 1_CD :_: 57.30_CD 1_CD :_: 12.19_CD ..._: 44°_CD ..._: 89.41_CD 7.200_CD 24.18_CD 1_CD :_: 80.53_CD 1_CD :_: 3.36_CD 23.32_CD 4_CD 9°_CD ..._: 44.51_CD 1.842_CD 20.09_CD 1_CD :_: 41.36_CD 1_CD :_: 10.90_CD 45°_CD ..._: 101.56_CD 7.757_CD 27.19_CD 1_CD :_: 76.38_CD 1_CD :_: 3.50_CD 22.69_CD {_( 1822.75_CD c.c_NN ._.
+of_IN Iodides_NNP of_IN Arsenic_NNP and_CC Merry_NNP administered_VBD ._.
+46°_CD ..._: 107.52_CD 7.650_CD 20.34_CD 1._CD :_: 71.15_CD 1_CD :_: 2.66_CD 24.63_CD 3_CD 47°_CD ..._: 117.18_CD 5.976_CD 21.90_CD 1_CD :_: 50.99_CD 1_CD :_: 3.66_CD 23.18_CD 36.00_CD 1.573_CD 20.33_CD 1_CD :_: 43.70_CD 1_CD :_: ._.
+12.92_CD ..._: 48°_CD ..._: 112.46_CD 4.843_CD 23-84_JJ 1_CD :_: 43.06_CD 1_CD :_: 4.92_CD 22.84_CD 10°_CD ..._: 50.45_CD 2.7l_CD 20.68_CD 1_CD :_: 43.04_CD 1_CD :_: 9.52_CD 49°_CD ..._: 90.90_CD 5.263_CD 27.18_CD 1_CD :_: 58.41_CD 1_CD :_: 5.16_CD 24.83_CD 11°_CD ..._: 56.27_CD 1.966_CD 19.38_CD 1_CD :_: 34.93_CD 1_CD :_: 9.85_CD ..._: 50°_CD ..._: 102.79_CD 5.937_CD 92.45_CD 1_CD :_: 57.76_CD 1_CD :_: 3.78_CD 22.24_CD 32°_CD ..._: 121.12_CD 3.030_CD 18.24_CD 1_CD :_: 25.01_CD 1_CD :_: 6.02_CD 51°_CD .._JJ 123.72_CD 5.606_CD 19.38_CD 1_CD :_: 46.31_CD 1_CD :_: 3.43_CD 20.61_CD 13°_CD ..._: 103.69_CD 2.596_CD 20.52_CD 1_CD :_: 25.04_CD 1_CD 7.90_CD ..._: 52°_CD ..._: 115.89_CD 4.726_CD 22.47_CD 1_CD :_: 40.77_CD 1_CD :_: 4.75_CD 21.98_CD 14_CD ..._: 73.77_CD 2.523_CD 18.40_CD 1_CD :_: 34.20_CD 1_CD :_: 7.29_CD ..._: 53°_CD ..._: 102.84_CD 5.093_CD 26.95_CD 1_CD :_: 49.53_CD 1_CD ;_: 5.29_CD 23.91_CD 15°_CD ..._: 65.69_CD 3.065_CD 22.31_CD 1_CD :_: 46.70_CD 1_CD :_: 7.28_CD ..._: 54°_CD ..._: 102.02_CD 5.174_CD 21.90_CD 1_CD :_: 50.71_CD 1_CD :_: 4.23_CD 24.18_CD Days_NNPS ,_, 106_CD 16°_CD ..._: 73.09_CD 3.523_CD 23.21_CD 1_CD :_: 48.20_CD 1_CD :_: 6.59_CD 55°_CD ..._: 119_CD ._.
+2_CD 5.834_CD 24.43_CD 1_CD :_: 48.98_CD 1_CD :_: 4.l8_CD 22.74_CD 17°_CD ..._: 109.33_CD 4.376_CD 22.15_CD 1_CD ;_: 40.02_CD 1_CD :_: 6.06_CD 56°_CD ..._: 100.08_CD 5.664_CD 22.07_CD 1_CD :_: 56.59_CD 1_CD :_: 3.89_CD 23.03_CD 1S°_CD ..._: 113.45_CD 111.45_CD 4.617_CD 4.357_CD 23.53_CD 1_CD :40.69_JJ 1_CD :_: 5.09_CD 4_CD :_: 3.57_CD ..._: During_IN administration_NN of_IN Arsenic_NNP ..._: During_IN administration_NN 28.71_CD 1.543_CD 17.18_CD 1_CD :_: 53.76_CD 1_CD :_: 11.13_CD 19°_CD ..._: 15.55_CD 1_CD :_: 39.10_CD ..._: 20°_CD ..._: 84.07_CD 3.517_CD 14.25_CD 1_CD :4l.80_JJ 1_CD :_: 4.05_CD 21°_CD 91.51_CD 3.447_CD 11.24_CD 1_CD :_: 37.70_CD 1_CD :_: 3.26_CD 22°_CD ..._: 81.76_CD 4.011_CD 14.58_CD 1_CD :_: 49_CD .00_$ 1_CD :_: 3.63_CD of_IN Iodides_NNP of_IN Arsenin_NNP and_CC Mercury_NNP 86.53_CD 3.162_CD 18.06_CD 1_CD :_: 36.54_CD 1_CD :_: 5.71_CD 23°_CD ..._: 92.69_CD 5.106_CD 13.52_CD 1_CD :_: 56.00_CD 1_CD :_: 2.37_CD 5_CD 2_CD }_) 24°_CD ..._: 93.08_CD 4.456_CD 10.15_CD 1_CD :45.60_JJ 1_CD :_: 2.28_CD ..._: 99.62_CD 3.785_CD 7.69_CD 1_CD :_: 56.72_CD 1_CD :_: 2.03_CD During_IN period_NN with_IN out_JJ Treatment_NNP 94.91_CD 6.026_CD 18.78_CD 1_CD :_: 63.49_CD 1_CD :_: 3.12_CD 21.36_CD 25°_CD .._JJ 90.01_CD 5.106_CD 13.68_CD 1_CD :_: 48.72_CD 1_CD :_: 2.68_CD 26°_CD ..._: 88.08_CD 4.291_CD 15.06_CD 1_CD :_: 48.75_CD 1_CD :_: 3.51_CD During_IN the_DT whole_JJ period_NN ..._: .._VBZ 80.33_CD 4.437_CD 38.19_CD 1_CD :_: 55.23_CD 51_CD :_: 4.09_CD 27°_CD ..._: 73.99_CD 4.873_CD 12.91_CD 1_CD :_: 65.90_CD 1_CD :_: 2_CD 64_CD Remarks:56_NNPS The_DT average_JJ amount_NN of_IN urea_JJ and_CC urine_JJ excreted_VBN daily_RB for_IN the_DT whole_JJ period_NN of_IN health_NN and_CC disease_NN ,_, viz._NN ,_, 409_CD days_NNS ,_, corresponds_NNS closely_RB with_IN that_DT given_VBN as_IN the_DT average_NN for_IN horses_NNS at_IN work_NN ,_, in_IN England_NNP ,_, viz._NN ,_, 80.33_CD grammes_NNS urea_JJ ,_, and_CC 4.437_CD litres_NNS urine_JJ ._.
+HORSE_NNP No_NNP ._.
+XCVI_NN ._.
+Entire_NNP C._NNP B._NNP ,_, aged_VBD ,_, in_IN somewhat_RB poor_JJ condition_NN ._.
+The_DT animal_NN is_VBZ now_RB free_JJ from_IN disease_NN ,_, though_IN it_PRP had_VBD a_DT few_JJ weeks_NNS previously_RB been_VBN suffering_VBG from_IN slight_JJ fever_NN ,_, accompanied_VBN by_IN the_DT ordinary_JJ symptoms_NNS ._.
+The_DT appetite_NN is_VBZ good_JJ and_CC the_DT excreta_NN normal_JJ in_IN appearance_NN ._.
+The_DT following_JJ experiment_NN was_VBD undertaken_VBN with_IN a_DT view_NN to_TO determine_VB as_IN in_IN the_DT previous_JJ case_NN No_NNP ._.
+LXXXIX_NN :_: [_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 57_CD Table_NNP showing_VBG the_DT amount_NN and_CC constituents_NNS of_IN the_DT daily_JJ urine_NN throughout_IN the_DT different_JJ periods_NNS of_IN Disease_NNP and_CC Treatment_NNP ._.
+Date_NNP ._.
+Quan-_JJ tity_NN of_IN urine_JJ collect-_JJ ed_NN c._NN c._NN Reaction_NNP ._.
+Specific_JJ Gra-_NNP vlry_NN ._.
+Albu-_JJ men_NNS ,_, Phos-_NNP phates_NNS ._.
+Hippuric_NNP Acid_NNP Grammes_NNP ._.
+Urea_NNP ._.
+Grammes_NNP per_IN 100.c.c_CD ._.
+Total_JJ Urea_NNP excreted_VBD in_IN the_DT Urine_NNP during_IN 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Water_NNP drunk_VBD daily_RB 12_CD to_TO 12_CD (_( noon_NN )_) ._.
+Ratio_NN of_IN Urine_NNP passed_VBD to_TO Water_NNP drunk_JJ daily_RB ._.
+Average_JJ in_IN Periods_NNP of_IN Health_NNP and_CC Discase_NNP ,_, Temperature_NNP in_IN Shade_NNP °P_NNP ._.
+Hu-_JJ mi-_JJ dity_NN ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+Maxi-_JJ mum_NN ._.
+Mini-_NNP mum_NN ,_, 1893_CD Pints_NNS ._.
+Litres_NNS ._.
+October_NNP ,_, 18_CD ..._: ..._: ..._: ..._: ..._: .._NN ..._: ..._: ..._: ..._: ..._: ..._: ..._:
+Blood_NNP healthy_JJ ._.
+*_RB 19_CD ..._: 1_CD ,_, 800_CD Alkaline_NNP ._.
+1,054_CD Nil_NNP Nil_NNP ..._: 20.6_CD 4.80_CD 86.40_CD 34=19.04_CD 1_CD :_: 10.57_CD }_) 1_CD :_: 9_CD 54_CD 89.5_CD 60.4_CD 54_CD Absent_NN ._.
+20_CD ..._: 720_CD A_NNP ._.
+HORSE_NNP SURRA_NNP APPENDIX_NNP III_NNP ._.
+PRELIMINARY_NNP TREATMENT-SUBSEQUENT_NNP INOCULATION_NNP ._.
+A_DT RSE_NNP NIC_NNP (_( Liquor_NNP Arsenicalis_NNP ._. )_)
+HORSE_NNP No_NNP ._.
+XCVIII_NN ._.
+DOUBLE_NNP IODIDE_NNP OF_NNP ARSENIC_NNP AND_NNP MERCURY_NNP ._.
+HORSES_NNP Nos_NNP ._.
+XCIX_NN AND_CC CIII_NNP ._.
+61_CD HORSE_NNP No_NNP ._.
+XCVIII_NN ._.
+Bay_NNP Australian_NNP Mare_NNP ,_, aged_VBD ,_, cast_VBD on_IN account_NN of_IN age_NN ._.
+State_NN on_IN admission.62_NN Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respi-_JJ ration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+April_NNP 22_CD ..._: ..._: 38.0_CD ..._: 38.1_CD 38_CD 31_CD 33_CD 37_CD ..._: ..._: 22nd.63_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respi-_JJ ration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP A_NNP .M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+June_NNP 10_CD ..._: ..._: 38.2_CD 37.8_CD 38.0_CD 42_CD 36_CD 27_CD 16_CD 15_CD Few_NNP ._.
+10th.64_CD July_NNP 16th_CD ,_, 1894-_JJ [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 65_CD Date_NNP ._.
+Quanti-_JJ ty_NN ._.
+Colour_NNP ._.
+Reac-_JJ tion_NN ._.
+Specific_JJ Gravity_NNP ._.
+Albu-_JJ men_NNS ._.
+Total_JJ Hip-_NNP puric_NN Acid_NNP ,_, excreted_VBD in_IN Urine_NNP daring_VBG 24_CD hours_NNS ._.
+Grammes_NNS ._.
+Urea_JJ Gram-_NNP mes_NNS por_VBP 100_CD c.c_NN ._.
+Total_JJ Urea_NNP excreted_VBD in_IN Urine_NNP during_IN twenty-_JJ four_CD hours_NNS ._.
+Grammes_NNS ._.
+Water_NNP taken_VBN during_IN 24_CD hours_NNS ._.
+Ratio_NN of_IN Urine_NNP passed_VBD to_TO water_NN taken_VBN daily_RB ._.
+Ratio_NN of_IN Urine_NNP passed_VBD to_TO Water_NNP drunk_NN during_IN Periods_NNS of_IN Health_NNP and_CC Disease_NNP ._.
+Temperature_NN in_IN shade_JJ Humi-_NNP dity_NN ._.
+Arsenic_NNP administered_VBD doily_RB ._.
+Condi-_JJ tion_NN of_IN Blood_NNP ._.
+Maxi-_JJ mum_NN ._.
+Mini-_JJ mum_NN ._.
+1894_CD ._.
+Pts_NNP ._.
+Lits_NNS ._.
+May_NNP 17_CD 3,630_CD Turbid_NNP Alka-_NNP line_NN ._.
+66_CD Remarks.67_NNP Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M.._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+April_NNP 24_CD ..._: 37.7_CD 37.6_CD 35_CD 33_CD 25_CD 31_CD Both_DT conjunctivæ_NN clear_JJ ._.
+68_CD Date_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 69_CD Date_NNP ._.
+Temperature_NN ºC_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 3_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+July_NNP 7_CD ..._: 38.4_CD 39.3_CD 38.1_CD 62_CD 56_CD 13_CD 11_CD 43_CD Absent_NN ._.
+General_NNP condition_NN unchanged_JJ ._.
+Sphincter_NNP ani_NN relaxed_NN and_CC ori-_JJ fice_NN patent_NN ._.
+70_CD TABLE_NN OF_NNP URINE_NNP AND_NNP WATER-HORSE_NNP XCIX_NNP ._.
+Date_NNP ._.
+Quanti-_JJ ty_NN ._.
+Colour_NNP ._.
+Reac-_JJ tion_NN ._.
+Specific_JJ Gravity_NNP ._.
+Albu-_JJ men_NNS ._.
+Phos-_JJ phates_NNS ._.
+Hip-_NNP puric_JJ Acid_NNP ._.
+Urea_NNP ._.
+Gram-_JJ mes_NNS ._.
+per_IN 100_CD c._NN c._NN Total_NNP Urea_NNP execret-_JJ ed_NN in_IN Urine_NNP during_IN twenty-_JJ four_CD hours_NNS ._.
+Water_NNP taken_VBN during_IN 24_CD hours_NNS ._.
+Ratio_NN of_IN Urine_NNP passed_VBD to_TO Water_NNP taken_VBN daily_RB ._.
+Ratio_NN of_IN Urine_NNP passed_VBD to_TO Water_NNP drunk_NN during_IN period_NN of_IN health_NN and_CC Disease_NNP ._.
+Temperature_NN in_IN shade_JJ °_NNP F._NNP Humi-_NNP dity_NN ._.
+Donovan_NNP 's_POS Solution_NNP administered_VBD daily_RB ._.
+c._JJ c._NN Condi-_NNP tion_NN of_IN Blood_NNP ._.
+Maxi-_JJ mum_NN ._.
+Mini-_JJ mum_NN ._.
+1894_CD ._.
+Gram-_JJ mes_NNS ._.
+Gram-_JJ mes_NNS ._.
+Gram-_JJ mes_NNS ._.
+Pints_NNS ._.
+Lit_NNP ._.
+March_NNP 29_CD 3,055_CD Turbid_NNP Alka-_NNP line_NN ._.
+1,042_CD Nil_NNP ._.
+Nil_NNP ._.
+3.05_CD 1.40_CD 42.77_CD ..._: ..._: ..._: .._VBZ 97.5_CD 68.4_CD 57_CD ..._: Heal-_NNP thy_NN ._.
+71_CD Date_NNP ._.
+Quan-_JJ tity_NN ._.
+Colour_NNP ._.
+Reaction_NN ._.
+Specific_JJ Gravity_NNP ._.
+Albu-_JJ men_NNS ._.
+Phos-_JJ phates_NNS ._.
+Hip_NNP ._.
+puric_JJ Acid_NNP ._.
+Urea_NNP ._.
+Gram-_JJ mes_NNS per_IN 100_CD c.c_NN ._.
+Total_JJ Urea_NNP excreted_VBD in_IN Urine_NNP during_IN twenty-_JJ four_CD hours_NNS ._.
+Water_NNP taken_VBN during_IN twenty-four_JJ hours_NNS ._.
+Ratio_NN of_IN Urine_NNP passed_VBD to_TO Water_NNP taken_VBN daily_RB ._.
+Ratio_NN of_IN Urine_NNP passed_VBD to_TO Water_NNP drunk_NN during_IN periods_NNS of_IN Health_NNP and_CC Disease_NNP ._.
+TEMPERATURE_NN IN_NNP SHADE_NNP °F_NNP ._.
+Humi-_JJ dity_NN ._.
+Donovan_NNP 's_POS Solution_NNP adminis-_NN tered_VBD daily_JJ c._NNS c._JJ Condition_NNP of_IN Blood_NNP ._.
+Maxi-_JJ mum_NN ._.
+Mini-_JJ mum_NN ._.
+1894_CD ._.
+Gram-_JJ mes_NNS ._.
+Gram-_JJ mes_NNS ._.
+Gram-_JJ mes_NNS ._.
+Pints.Litres_NNS ._.
+June_NNP 9_CD ..._: 6,090_CD Turbid_NNP Faintly_NNP Acid_NNP ._.
+1,025_CD Slightly_RB turbid_NN ._.
+Nil_NN ..._: Nil_NNP ..._: 1.20_CD 73.08_CD 20=11.36_CD 1_CD :_: 1.86_CD }_) 1_CD :_: 1.08_CD 89.5_CD 73.8_CD 72_CD c.c_NN ._.
+xxx_JJ Few_NNP ._.
+72_CD Average_JJ daily_JJ Urine_NNP ._.
+Average_JJ daily_JJ Urea_NNP ._.
+Average_JJ daily_JJ Water_NNP drunk_NN ._.
+Ratio_NNP of_IN Urea_NNP to_TO Urine_NNP ._.
+c.c_NN ._.
+Grammes_NNS ._.
+Litres_NNS ._.
+Health_NNP 2,721_CD 38.89_CD 30.78_CD 1_CD :_: 69.9_CD Preliminary_NNP Treatment_NNP ..._: 3,666_CD 75.09_CD 15.70_CD 1_CD :_: 44.8_CD Latent_NNP Period_NNP 4,107_CD 82.05_CD 14.53_CD 1_CD :_: 50.0_CD Paroxysms_NNS ..._: 8,510_CD 156.82_CD 9.59_CD 1_CD :_: 64.2_CD Intermissions_NNS 8,430_CD 124.95_CD 8.94_CD 1_CD :_: 67.4_CD Whole_JJ Period_NN 5,938_CD 102.07_CD 13.12_CD 1_CD :_: 58.2_CD HORSE_NNP No_NNP ._.
+CIII_NNP ._.
+Grey_NNP Entire_NNP ,_, Country-Bred_NNP ,_, brought_VBD from_IN Wai_NNP ,_, a_DT village_NN beneath_IN the_DT Panchgani_NNP Gháts_NNP ,_, well_RB known_VBN as_IN a_DT fever_NN locality_NN and_CC liable_JJ to_TO inundation_NN during_IN the_DT rains_NNS ,_, and_CC therefore_RB probably_RB a_DT Surra_NNP centre_NN also_RB ._.
+June_NNP 29th_CD ,_, 1894_CD ,_, State_NNP on_IN Admission.73_NNP Month_NNP and_CC Date_NNP ._.
+Temperature_NN ºC_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Condi-_JJ tion_NN of_IN Blood_NNP ._.
+Medicine_NNP administered_VBD ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+Double_JJ Iodide_NNP of_IN Arsenic_NNP and_CC Mercury_NNP -_: contd_NN ._.
+cc_NN cc_NN July_NNP 31_CD ..._: 39.2_CD 40.4_CD 39.0_CD 38_CD 51_CD 14_CD 48_CD 3_CD Very_RB nume-_JJ rous_JJ ._.
+..._: ..._: conjunctival_JJ mem-_JJ branes_NNS unchang-_JJ ed_NN ,_, limbs_NNS and_CC sheath_NN swollen_NN ;_: eruption_CC conti-_JJ nues_NNS ._.
+August_NNP 1_CD ..._: ..._: ..._: Death_NNP at_IN 3_CD P.M._NNP ..._: 4_CD ..._: ..._: ..._: August_NNP 1st_CD ,_, 1894_CD ,_, Autopsy_NNP seven_CD hours_NNS after_IN death_NN ._.
+The_DT abdomen_NNS is_VBZ considerably_RB distended_VBN with_IN gas_NN ,_, and_CC there_EX is_VBZ a_DT slight_JJ discharge_NN of_IN a_DT yellow_JJ coloured_VBN fluid_NN from_IN the_DT left_NN nostril_NN ._.
+There_EX is_VBZ an_DT absence_NN of_IN swelling_VBG and_CC B._NNP RAT_NNP SURRA_NNP APPENDIX_NNP I._NNP SUBCUTANEOUS_NNP INOCULATION_NNP WITH_NNP SOILED_NNP RAT_NNP 'S_POS BLOOD_NNP ._.
+RESULTS_NNP POSITIVE_NNP ._.
+HORSES_NNP Nos_NNP ._.
+IX_NNP ,_, XXVIII_NNP ,_, XLII_NNP ,_, LXII_NNP ._.
+77_CD HORSE_NNP No_NNP ._.
+IX_NNP ._.
+Subcutaneous_JJ inoculation_NN with_IN soiled_JJ rat_NN 's_POS blood_NN ._.
+Maximum_JJ swelling_VBG at_IN seat_NN of_IN inoculation_NN ,_, 11th_CD day_NN ,_, appearance_NN of_IN hæmatozoon_NN after_IN latent_JJ period_NN of_IN 18_CD days_NNS ._.
+General_NNP urticarial_JJ eruption_NN on_IN the_DT 3rd_CD day_NN of_IN disease_NN ._.
+Death_NN on_IN the_DT 19th_CD day_NN ._.
+Marked_NNP pathological_JJ changes_NNS post_VBP mortem_NN ._.
+Australian_JJ gelding_NN ,_, bay_NN ,_, aged_VBD 15_CD years_NNS ,_, healthy_JJ ,_, in_IN fair_JJ condition_NN ._.
+Month_NNP and_CC Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1890_CD ._.
+Dec._NNP 28_CD ..._: ..._: 37.0_CD 37.4_CD 38.0_CD 40_CD 52_CD 16_CD 20_CD Healthy_NNP ._.
+28th.78_CD Autopsy_NNP at_IN 11.30_CD A.M_NNP ._.
+Body_NN is_VBZ fairly_RB well_RB nourished_VBN ._.
+There_EX is_VBZ [_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 79_CD HORSE_NNP No_NNP ._.
+XXVIII_NN ._.
+Chestnut_NNP ,_, country-bred_JJ ,_, aged_VBN ,_, healthy_JJ and_CC in_IN good_JJ condition_NN ._.
+Subcutaneous_JJ inoculation_NN with_IN soiled_JJ rat_NN 's_POS blood_NN ;_: swelling_VBG and_CC 80_CD RAT_NNP SURRA_NNP Thorax_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 81_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN ºC_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Re-action_NN ._.
+Albn_NNP ._.
+Hippuric_NNP Acid_NNP ._.
+1891_CD ._.
+Large_JJ quantity_NN of_IN crystals_NNS ,_, caco_VBP 3_CD in_IN the_DT form_NN of_IN striated_JJ spheres_NNS ,_, large_JJ and_CC small_JJ custard_NN apple-_NN shaped_VBD and_CC numerous_JJ small_JJ crystals_NNS of_IN phosphates_NNS of_IN lime_NN and_CC magnesia_NN ._.
+Septem_NN ._.
+22_CD ..._: ..._: 35.7_CD 36.4_CD 37.5_CD 40_CD 36_CD 16_CD 14_CD Absent_NN ._.
+Turbid_NN ._.
+1,013_CD Strongly_RB alkaline_JJ ._.
+Nil_NNP There_EX is_VBZ some_DT swelling_VBG at_IN the_DT two_CD seats_NNS of_IN inoculation_NN ._.
+82_CD Stomach.83_NNP Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN ºC_NN ._.
+Pulse_NNP ._.
+Respira-_JJ tion_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1892_CD ._.
+June_NNP 12_CD ..._: 37.6_CD 38.5_CD 38.6_CD 40_CD 40_CD 30_CD 32_CD Absent_NN ._.
+Chart_NNP I._NNP RAT_NNP SURRA_NNP 84_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN C°_NNP ._.
+Pulse_NNP ._.
+Respira-_JJ tion_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1892_CD ._.
+July_NNP 20_CD ..._: 5_CD 37.4_CD 40.3_CD 40.3_CD 68_CD 80_CD 24_CD 28_CD Very_RB nume-_JJ rous_JJ ._.
+20th_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP B._NNP RAT_NNP SURRA_NNP ._.
+APPENDIX_NNP II_NNP ._.
+SUBCUTANEOUS_NNP INOCULATION_NNP WITH_NNP BLOOD_NNP DERIVED_NNP FROM_NNP POSITIVE_NNP CASES_NNP ._.
+RESULTS_NNP POSITIVE_NNP ._.
+HORSES_NNP Nos_NNP ._.
+XXXV_NN ,_, XXXVI_NNP ,_, XLV_NNP ,_, LXVII_NNP ,_, XXXVII_NNP ._.
+B_NNP 2236-_JJ 22_CD ap_NN [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 87_CD HORSE_NNP No_NNP ._.
+XXXV_NN ._.
+Subcutaneous_JJ inoculation_NN with_IN soiled_JJ blood_NN of_IN rat_NN previously_RB passed_VBN through_IN one_CD horse_NN ._.
+Maximum_JJ swelling_VBG at_IN seat_NN of_IN inoculation_NN on_IN the_DT 5th_JJ day_NN ._.
+Appearance_NN of_IN the_DT hæmatozoon_NN after_IN a_DT latent_JJ period_NN of_IN 6_CD days_NNS ,_, or_CC 23_CD days_NNS less_JJR than_IN in_IN the_DT case_NN of_IN the_DT direct_JJ rat_NN inoculation_NN ._.
+Death_NN on_IN the_DT 2nd_CD day_NN of_IN the_DT disease_NN ._.
+Chestnut_NNP Country-Bred_NNP ,_, aged_VBN ,_, but_CC apparently_RB healthy_JJ and_CC in_IN fair_JJ condition_NN ._.
+Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1891_CD ._.
+July_NNP 26_CD ..._: ..._: 38.6_CD 38.6_CD 38.7_CD 30_CD 33_CD 12_CD 14_CD Healthy_JJ 88_CD Liver_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 89_CD The_DT left_NN auricle_NN contains_VBZ a_DT small_JJ amount_NN of_IN semi-fluid_JJ blood_NN ,_, and_CC the_DT lining_NN membrane_NN is_VBZ blood-stained_JJ ._.
+The_DT left_JJ ventricle_NN contains_VBZ some_DT dark_JJ semi-fluid_JJ blood_NN ,_, but_CC little_JJ or_CC no_DT decolourized_JJ clots_NNS ._.
+There_EX are_VBP a_DT few_JJ sub-endocardial_JJ ex-_JJ travasations_NNS about_IN the_DT size_NN of_IN a_DT two-anna_JJ piece_NN ,_, involving_VBG for_IN the_DT most_JJS part_NN the_DT raised_JJ portions_NNS of_IN the_DT musculi_NN papillares_NNS ._.
+Valves_NNS healthy_JJ ._.
+Liver.90_NNP Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1891_CD ._.
+October_NNP 25_CD ..._: 4_CD 38.4_CD 40.3_CD 40.2_CD 50_CD 56_CD 12_CD 36_CD Swarming_VBG [_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_VBD 91_CD 54_CD days_NNS less_JJR than_IN in_IN the_DT case_NN of_IN the_DT direct_JJ inoculation_NN of_IN rat_NN 's_POS blood_NN ._.
+Hæmatozoa_NNP present_NN in_IN blood-stained_JJ discharge_NN from_IN the_DT eyes_NNS ._.
+Death_NN on_IN the_DT 2nd_CD day_NN of_IN the_DT disease_NN ._.
+Marked_NNP pathological_JJ lesions_NNS of_IN the_DT organs_NNS ._.
+Grey_NNP country-bred_JJ horse_NN ,_, aged_VBN ,_, healthy_JJ and_CC in_IN fair_JJ condition_NN ._.
+Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albn_NNP ._.
+Hip_NNP ._.
+Acid_NNP ._.
+Phos_NNP ._.
+1892_CD ._.
+July_NNP 18_CD ..._: ..._: 36.7_CD 36.8_CD 36.7_CD 72_CD 36_CD 16_CD 17_CD Healthy_NNP ._.
+Turbid_NN ._.
+1,028_CD Alkaline_NNP ._.
+Nil_NNP Nil_NNP Nil_NNP 92_CD Heart_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 93_CD ally_RB decreasing_VBG ._.
+With_IN the_DT exception_NN of_IN numerous_JJ petechiæ_NN on_IN the_DT membranæ_NN nictitantes_NNS ,_, which_WDT appeared_VBD on_IN the_DT 24th_CD ,_, and_CC the_DT rise_NN of_IN temperature_NN on_IN the_DT 26th_CD ,_, which_WDT became_VBD slightly_RB above_IN normal_JJ ,_, and_CC continued_VBD on_IN the_DT 27th_CD ,_, 28th_CD and_CC 29th_CD ,_, there_EX was_VBD no_DT noticeable_JJ symptom_NN of_IN disease_NN ,_, and_CC the_DT blood_NN remained_VBD free_JJ from_IN hæmatozoa_NN ._.
+On_IN the_DT 30th_CD ,_, the_DT swelling_VBG at_IN the_DT seat_NN of_IN inoculation_NN suddenly_RB diminished_VBN in_IN size_NN ,_, and_CC a_DT few_JJ hæmatozoa_NN were_VBD detected_VBN in_IN the_DT blood_NN ._.
+On_IN the_DT 31st_CD ,_, symptoms_NNS of_IN Surra_NNP appeared_VBD ;_: the_DT animal_NN became_VBD weak_JJ ,_, and_CC both_DT fore_RB and_CC hind_VB limbs_JJ 94_CD Thorax_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP B._NNP RAT_NNP SURRA_NNP APPENDIX_NNP III_NNP ._.
+SUBCUTANEOUS_NNP INOCULATION_NNP WITH_NNP SOILED_NNP RAT_NNP 'S_POS BLOOD_NNP ._.
+RESULTS_NNP NEGATIVE_NNP ._.
+HORSES_NNP Nos_NNP ._.
+LVII_NNP ,_, LII_NNP ,_, XLIV_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 97_CD HORSE_NNP No_NNP ._.
+LVII_NNP ._.
+Brown_NNP country-bred_JJ ,_, aged_VBN ,_, in_IN fair_JJ condition_NN ._.
+Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1892_CD ._.
+January_NNP 11_CD ..._: ..._: ..._: ..._: 37.8_CD ..._: ..._:
+Healthy_NNP ..._: 98_CD Remarks_NNPS ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 99_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP 1891_CD ._.
+November_NNP 19_CD ..._: ..._: ._. 37.2_CD 38.7_CD 38.6_CD Absent_NN ..._: 19th.100_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP 1891_CD ._.
+October_NNP 5_CD 36.1_CD 37.2_CD 36.8_CD Absent_NN ..._:
+There_EX is_VBZ no_DT swelling_VBG or_CC [_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP B._NNP RAT_NNP SURRA_NNP APPENDIX_NNP IV_NNP ._.
+SUBCUTANEOUS_NNP INOCULATION_NNP AND_NNP RE-INOCULATION_NNP AT_NNP A_NNP LATER_NNP PERIOD_NNP WITH_NNP SOILED_NNP RAT_NNP 'S_POS BLOOD_NNP WITH_NNP NEGATIVE_NNP RESULTS_NNP ;_: FURTHER_NNP INOCULATION_NNP OF_IN THE_NNP SAME_NNP ANIMAL_NNP WITH_NNP SOILED_NNP HORSE_NNP SURRA_NNP BLOOD_NNP ._.
+RESULTS_NNP POSITIVE_NNP (_( A_NNP )_) DIRECTLY_NNP INTO_NNP THE_NNP JUGULAR_NNP VEIN-_NNP HORSE_NNP No_NNP ._.
+XIII_NN ._.
+(_( B_NNP )_) SUBCUTANEOUSLY_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 103_CD HORSE_NNP No_NNP ._.
+XIII_NN ._.
+Direct_JJ inoculation_NN into_IN jugular_JJ vein_NN of_IN rat_NN 's_POS blood_NN containing_VBG the_DT hæmatozoon_NN ,_, followed_VBN in_IN twenty-one_JJ days_NNS by_IN re-inoculation_NN subcutaneously_RB ._.
+Results_NNS negative_JJ ._.
+Seventy-six_JJ days_NNS after_IN second_JJ injection_NN ,_, inoculation_NN with_IN Horse-Surra_NNP blood_NN ._.
+Period_NN of_IN incubation_NN 8_CD days_NNS ._.
+Death_NN on_IN the_DT 36th_CD day_NN of_IN disease_NN ._.
+A_DT Bay_NNP ,_, entire_JJ pony_NN ,_, lame_NN ,_, but_CC strong_JJ and_CC in_IN good_JJ health_NN ._.
+January_NNP 22nd_CD ,_, 1891.104_CD 7th_CD June_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_VBD 105_CD 6th_CD April_NNP 1891.106_CD HORSE_NNP No_NNP ._.
+XLVIII_NN ._.
+Subcutaneous_JJ inoculation_NN on_IN two_CD occasions_NNS with_IN soiled_JJ rat_NN 's_POS (_( Mus_NNP decumanus_NN )_) blood_NN ._.
+Results_NNS negative_JJ ._.
+Inoculation_NN with_IN Horse-Surra_NNP blood_NN 13_CD days_NNS after_IN second_JJ inoculation_NN ._.
+Period_NN of_IN incubation_NN 10_CD days_NNS ._.
+Death_NN on_IN the_DT 2nd_CD day_NN of_IN disease_NN ._.
+White_NNP country-bred_JJ gelding_NN ,_, aged_VBN ,_, in_IN fair_JJ condition_NN ._.
+1891_CD ,_, October_NNP 9th_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 107_CD Left_NNP Auricle.108_NNP Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Hæma-_NNP tozoa_NN in_IN Blood_NNP ._.
+Urine_NN ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NNP Albu-_NNP men_NNS ._.
+Phos-_JJ phates_NNS ._.
+1891_CD ._.
+October_NNP 26_CD ..._: ..._: 36.7_CD 38.0_CD 38.0_CD Absent_NNP Turbid_NNP ._.
+1,028_CD Alka-_JJ Nil_NNP ._.
+Trace_NN ._.
+26th_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 109_CD Date_NNP ._.
+Day_NNP of_IN Disease.._NNP
+Temperature_NN °C_NN ._.
+Hæma-_NNP tozoa_NN in_IN Blood_NNP ._.
+Urine_NN ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albu-_JJ men_NNS ._.
+Phos-_JJ phates_NNS ._.
+1891_CD ._.
+December_NNP 4_CD ..._: 37.2_CD 38.5_CD 39.3_CD Swarm-_JJ ing_NN ._.
+Clear_JJ ._.
+1,042_CD Slight-_JJ ly_JJ alka-_JJ line_NN ._.
+Nil_NNP ._.
+Nil_NNP ._.
+4th.110_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respira-_JJ tion_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M._NNP P._NNP M._NNP A.M_NNP ._.
+P.M._NN 1892_CD ._.
+February_NNP 19_CD ..._: ..._: 36.2_CD 37.6_CD 37.5_CD 28_CD 30_CD 20_CD 23_CD Absent_JJ 19th.111_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respira-_JJ tion_NN ._.
+Hæmatnzoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1892_CD April_NNP 4_CD ..._: ..._: 39.8_CD 40.1_CD 39.6_CD 68_CD 52_CD 36_CD 30_CD Absent_NN ..._: 4th.112_CD Autopsy_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NN B_NNP RAT_NNP SURRA_NNP APPENDIX_NNP V._NNP SUBCUTANEOUS_NNP INOCULATION_NNP OF_NNP ANIMALS_NNP OTHER_NNP THAN_NNP HORSES_NNP WITH_NNP SOILED_NNP RAT_NNP 'S_POS BLOOD_NNP ._.
+RESULTS_NNP POSITIVE_NNP ._.
+(_( A_DT )_) BULL_NNP IV115_NNP BULL_NNP No_NNP ._.
+IV_NNP ._.
+Deccani_NNP ,_, aged_VBD 2_CD years_NNS ,_, healthy_JJ and_CC in_IN good_JJ condition_NN ._.
+Inoculated_VBN with_IN rat_NN 's_POS (_( Mus_NNP decumanus_NN )_) blood_NN containing_VBG hæmatozoa_NN ._.
+Urticarial_JJ eruption_NN appeared_VBD on_IN the_DT 44th_CD and_CC 76th_CD days_NNS ,_, and_CC the_DT hæmatozoon_NN on_IN the_DT 76th_CD day_NN ,_, the_DT paroxysm_NN lasting_VBG 24_CD hours_NNS ._.
+Re-inoculation_NN with_IN soiled_JJ Horse-Surra_NNP blood_NN after_IN absence_NN of_IN the_DT organism_NN for_IN 121_CD days_NNS ._.
+Period_NN of_IN incubation_NN 80_CD days_NNS ._.
+Two_CD further_JJ paroxysms_NNS of_IN 48_CD and_CC 24_CD hours_NNS respectively_RB ,_, with_IN intermission_NN of_IN 77_CD days_NNS ._.
+Absence_NN of_IN the_DT hæmatozoa_NN for_IN a_DT further_JJ period_NN of_IN 195_CD days_NNS ,_, when_WRB death_NN occurred_VBD from_IN injury_NN ._.
+Date_NNP Temperature_NNP °C_NNP Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP URINE_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS Hippuric_NNP Acid_NNP ._.
+Phos-_JJ phates_NNS ._.
+1892_CD ._.
+July_NNP 24_CD ..._: ..._: ..._: 39.4_CD ..._: ..._: ..._: ..._:
+Healthy_NNP ._.
+..._: ..._: ..._: ..._: ..._: ..._: 116_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNP H._NNP Acid_NNP ._.
+Phosphates_NNS ._.
+1892_CD ._.
+September_NNP 1.._CD 39.3_CD 38.6_CD 39.3_CD 60_CD 52_CD 20_CD 12_CD Absent_NN ._.
+Clear_JJ ..._: 1,046_CD Alkaline_NNP ..._: Nil_NNP ._.
+Nil_NNP ._.
+Trace_NN ._.
+117_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+H._NNP Acid_NNP ._.
+Phosphates_NNS ._.
+1892_CD ._.
+Oct._NNP 26_CD ..._: 38.5_CD 38.6_CD 39.0_CD 64_CD 64_CD 20_CD 20_CD Absent_NN ._.
+Clear_JJ ..._: 1,034_CD Alkaline.._NNP Nil_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+118_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M_NNP ._.
+P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+H.Acid_NNP ._.
+Phosphates_NNS ._.
+1893_CD ._.
+Jan._NNP 1_CD ..._: 37.4_CD 38.6_CD 39.5_CD 52_CD 56_CD 12_CD 16_CD Absent_NN ._.
+Clear_JJ ..._: 1,035_CD Alkaline_NNP ..._: Nil_NNP ._.
+Nil_NNP Nil_NNP ._.
+119_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+H._NNP Acid_NNP ._.
+Phosphates_NNS ._.
+1893_CD ._.
+Feb._NNP 23_CD ..._: 38.2_CD 37.6_CD 39.2_CD 56_CD 60_CD 16_CD 16_CD Absent_NN ._.
+Clear_JJ ..._: 1,022_CD Alkaline_NNP ..._: Nil_NNP Nil_NNP Nil_NNP 120_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP -_: in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1P.M_CD ._.
+5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+H._NNP Acid_NNP ._.
+Phosphates_NNS ._.
+1893_CD ._.
+May_NNP 6_CD ..._: 37.8_CD 38.0_CD 39.1_CD 48_CD 60_CD 16_CD 20_CD Absent_NN ._.
+Turbid_NN ._.
+1,020_CD Neutral_JJ ..._: Nil_RB 1/15_CD Nil_NNP 121_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A._NN M._NNP 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+July_NNP 11_CD ..._: 37.2_CD 37.4_CD 38.3_CD 48_CD 48_CD 12_CD 16_CD Absent_NN ._.
+Turbid_NN ._.
+1,048_CD Alkaline_NNP ._.
+Nil.._NNP 1/17_CD 122_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+Septem_NN ._.
+20_CD ..._: 38.4_CD 39.4_CD 40.1_CD 68_CD 52_CD 16_CD 24_CD Absent_NN ._.
+Clear_JJ ._.
+1018_CD Alkaline_NNP ._.
+Trace_NN ._.
+Nil_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 123_CD Temperature_NNP °C_NNP ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Urine_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Date_NNP ._.
+A.M._RB 1_CD P.M._NNP 3_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp.Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+November18_NNP ._.
+38.3_CD 38.3_CD 39.1_CD 56_CD 56_CD 12_CD 12_CD Absent_NN ._.
+Clear_JJ ._.
+1,026_CD Alkaline_NNP ._.
+Nil_NNP ._.
+1/9_CD 124_CD Date_NNP ._.
+Temperature_NN °_NNP C._NNP Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 3_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M._NNP P._NNP M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1894_CD ._.
+January_NNP 14_CD ..._: 37.7_CD 38.2_CD 38.4_CD 44_CD 52_CD 12_CD 16_CD Absent_NN ._.
+Clear_JJ ._.
+1,027_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Trace_NN ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 125_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ,_, REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1893_CD ._.
+March_NNP 29_CD ..._: 4_CD 38.2_CD 38.8_CD 39.2_CD 52_CD 68_CD 36_CD 56_CD Absent_NN ._.
+126_CD Date_NNP ._.
+Condition_NN of_IN Blood_NNP ._.
+No_DT ._.
+I_PRP ._.
+Condition_NN of_IN Blood_NNP ._.
+No_DT ._.
+II_NNP ._.
+Date_NNP ._.
+Condition_NN of_IN Blood_NNP ,_, No_NNP ._.
+III_NNP ._.
+Condition_NN of_IN Blood_NNP ._.
+No_DT ._.
+IV_NNP ._.
+1891127_CD DONKEY_NNP No_NNP ._.
+III_NNP ._.
+Subcutaneous_JJ inoculation_NN with_IN soiled_JJ rat_NN 's_POS blood_NN ._.
+Maximum_NNP local_JJ manifestations_NNS appeared_VBD on_IN the_DT 3rd_CD day_NN ._.
+Death_NN due_JJ to_TO enormous_JJ numbers_NNS of_IN nematodes_NNS ,_, &_CC c._NN ,_, in_IN stomach_NN and_CC intestines_NNS ._.
+Result_NNP negative_JJ ._.
+Aged_VBN ,_, but_CC apparently_RB healthy_JJ ._.
+Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ,_, Albu-_NNP men_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+March_NNP 1_CD ..._: ..._: 38.3_CD 38.8_CD 38.7_CD 52_CD 52_CD 12_CD 40_CD Healthy_NNP ._.
+Turbid_NN ._.
+1,040_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+2_CD ..._: ..._: 37.7_CD 39.0_CD 39.2_CD 44_CD 56_CD 16_CD 16_CD 128_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1P.M_CD ._.
+5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albu-_JJ men_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+April_NNP 23_CD 35.3_CD 37.8_CD 37.8_CD 40_CD 48_CD 12_CD 16_CD Absent_NN ._.
+Turbid_NN ._.
+1,048_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+129_CD August_NNP 20_CD ._.
+Temperature_NN A.M._NNP 38.4°C_CD ._.
+P.M._NNP 39.2°C_CD ._.
+No_DT hæmatozoa_NN in_IN the_DT blood_NN ._.
+130_CD CAT_NNP No_NNP ._.
+II_NNP Inoculated_NNP with_IN 0.5_CD c.c_NNS ._.
+of_IN blood_NN ,_, containing_VBG numerous_JJ hæmatozoa_NN ,_, taken_VBN from_IN the_DT Rat_NNP (_( Mus_NNP decumanus_NN )_) immedi-_NN ately_RB after_IN death_NN ._.
+Result_NNP negative_JJ ._.
+Re-inoculation_NN with_IN 0.5_CD c.c_NNS ._.
+of_IN blood_NN taken_VBN 8_CD hours_NNS post_JJ mortem_NN but_CC containing_VBG swarms_NNS of_IN hæmatozoa_NN previous_JJ to_TO death_NN ._.
+Result_NNP negative_JJ ._.
+Date_NNP ._.
+Temperature_NN °C_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+Date_NNP ._.
+Temperature_NN °c_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M._RB 1_CD P.M._NNP 6_CD P.M._NNP 1893_CD ._.
+1893_CD ._.
+January_NNP 14_CD ..._: ..._: ..._: 38.4_CD Hæmatozoa_NNP absent_NN ._.
+March_NNP 16_CD ..._: 39.4_CD 39.6_CD 39.5_CD Hæmatozoa_NNP absenh_NN ._.
+131_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+Date_NNP ._.
+Temperature_NN °C_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP 1893_CD ._.
+1893_CD ._.
+October_NNP 15_CD ..._: 39.2_CD 40.0_CD 39.6_CD Hæmatozoa_NNP absent_NN ._.
+October_NNP 30_CD ..._: 37.8_CD 38.0_CD 38.4_CD Hæmatozoa_NNP absent_NN ._.
+132_CD December_NNP 23_CD ..._:
+..._: Temperature_NN A.M._NNP 39.8_CD °C_NN ._.
+P.M._NNP 39.6_CD °C_NN ._.
+No_DT hæmatozoa_NN in_IN the_DT blood_NN ._.
+133_CD April_NNP 28th.134_CD 25th.135_CD 17th.136_CD FOWLS_NNP ._.
+28th_CD January_NNP 1891_CD ,_, 3_CD P.M.-Inoculated_JJ subcutaneously_RB two_CD fowls_NNS (_( Gallus_NNP domesticus_NN )_) each_DT with_IN 0.3_CD c._NNS c._NN of_IN blood_NN containing_VBG numerous_JJ hæmatozoa_NNS taken_VBN from_IN the_DT heart_NN of_IN a_DT rat_NN (_( Mus_NNP decumanus_NN )_) immediately_RB after_IN death_NN ._.
+No_DT ._.
+I_PRP ._.
+No_DT ._.
+II_NNP Month_NNP and_CC Date_NNP ._.
+Condition_NN of_IN Blood_NNP ._.
+Temperature_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+Temperature_NN ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP January_NNP 28_CD ..._: Inoculated_VBD ..._: ..._: 42.0_CD °C_NN ._.
+42.2_CD °C_NN ._.
+Inoculated_VBN ..._: ..._: 42.2_CD °C_NN ._.
+42.5_CD °C_NN ._.
+B._NNP RAT_NNP SURRA_NNP APPENDIX_NNP VI_NNP ._.
+SUBCUTANEOUS_NNP INOCULATION_NNP WITH_NNP THE_NNP BLOOD_NNP OF_NNP DIFFERENT_NNP ANIMALS_NNP ,_, WHICH_NNP HAD_NNP BEEN_NNP PREVIOUSLY_NNP INOCULATED_NNP FROM_NNP THE_NNP RAT_NNP ._.
+(_( A_DT )_) 139_CD BULL_NNP No_NNP ._.
+III_NNP ._.
+Deccani_NNP ,_, aged_VBD 4_CD years_NNS ,_, black_JJ and_CC white_JJ ,_, healthy_JJ ,_, and_CC in_IN good_JJ condition_NN ._.
+Inoculated_VBN with_IN rat_NN 's_POS blood_NN previously_RB passed_VBN through_IN Horses_NNP Nos_NNP ._.
+LXII_NNP and_CC LXVII_NNP ._.
+Appearance_NN of_IN the_DT hæmato-_JJ zoon_NN on_IN the_DT 4th_JJ day_NN ._.
+Three_CD paroxysms_NNS of_IN 7_CD ,_, 2_CD ,_, and_CC 1_CD days_NNS ,_, with_IN two_CD intermissions_NNS of_IN 13_CD and_CC 9_CD days_NNS respectively_RB ._.
+Re-inoculation_NN with_IN Horse-Surra_NNP blood_NN after_IN absence_NN of_IN hæmatozoon_NN for_IN 159_CD days_NNS ._.
+Period_NN of_IN incubation_NN 49_CD days_NNS ._.
+Three_CD paroxysms_NNS of_IN 1_CD ,_, 3_CD and_CC 3_CD days_NNS with_IN two_CD intermissions_NNS of_IN 109_CD and_CC 9_CD days_NNS respectively_RB ._.
+Death_NNP (_( from_IN rinderpest_NN )_) occurred_VBD 58_CD days_NNS after_IN the_DT last_JJ paroxysm_NN ._.
+Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M_NNP ._.
+P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1892_CD ._.
+July_NNP 24_CD ..._: ..._: ..._: 39.6_CD ..._: ..._: ..._: ..._:
+Healthy_NNP ._.
+..._: ..._: ..._: ..._: ..._: 140_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN -_: Blood_NN ._.
+Urine_NN ._.
+A.M._RB 1P.M_CD ._.
+5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1892_CD ._.
+Aug._NNP 24_CD ..._: 39.0_CD 39.7_CD 40.0_CD 64_CD 64_CD 14_CD 20_CD Few_NNP ._.
+Clear_JJ ._.
+1,022_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+The_DT muzzle_NN is_VBZ moist_JJ ,_, horns_NNS and_CC skin_JJ cool_NN ,_, hut_JJ micturition_NN is_VBZ more_RBR frequent_JJ ._.
+141_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1892_CD ._.
+Oct._NNP 10_CD ..._: 38.3_CD 39.0_CD 39.3_CD 64_CD 60_CD 20_CD 16_CD Absent_NN ._.
+Clear_JJ ._.
+1,027_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+142_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1P.M_CD ._.
+5P.M_CD ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1892_CD ._.
+Dec._NNP 19_CD ..._: 37.2_CD 38.4_CD 39.4_CD 48_CD 56_CD 12_CD 16_CD Absent_NN ._.
+Clear_JJ ._.
+..._: Alkaline_NN ._.
+..._: Nil_NN ._.
+143_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+Feb._NNP 14_CD ..._: 37.7_CD 37.8_CD 39.7_CD 36_CD 52_CD 12_CD 12_CD Absent_NN ._.
+Clear_JJ ._.
+1,026_CD Alkaline_NNP ._.
+Trace_NN ._.
+Nil_NNP ._.
+144_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1P.M_CD ._.
+5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+April_NNP 26_CD ..._: 37.5_CD 38.1_CD 38.8_CD 36_CD 40_CD 12_CD 14_CD Absent_NN ._.
+Turbid_NN ._.
+1,036_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Trace_NN ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ 145_CD Month_NNP and_CC Date_NNP Temperature_NNP °C_NNP ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1P.M_CD ._.
+5P.M_CD ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS Hippuric_NNP Acid_NNP ._.
+1894_CD ._.
+July_NNP 1_CD ..._: 38.0_CD 38.0_CD 38.4_CD 56_CD 60_CD 12_CD 12_CD Absent_NN ._.
+Clear_JJ ._.
+1,020_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+146_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1894_CD ._.
+Sept._NNP 7_CD ..._: 37.6_CD 38.3_CD 38.0_CD 44_CD 48_CD 12_CD 12_CD Absent_NN ._.
+Clear_JJ ._.
+1,034_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+147_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NNP Hæmatozoa_NNP in_IN Blood_NNP ._.
+URINE_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+1892_CD ._.
+August_NNP 6_CD ..._: 3_CD 40.8_CD 41.4_CD 41.0_CD 66_CD 64_CD 21_CD 24_CD Swarming_NN ._.
+Turbid_NN ._.
+1,036_CD Strongly_RB Alkaline_NNP ._.
+Nil_NNP ._.
+The_DT animal_NN is_VBZ dull_JJ ,_, there_EX is_VBZ some_DT loss_NN of_IN appetite_NN ,_, and_CC the_DT pulse_NN is_VBZ frequent_JJ and_CC weak_JJ ._.
+148_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+URINE_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+1892_CD ._.
+September_NNP 12_CD ..._: 40_CD 38.0_CD 39.3_CD 41.3_CD 67_CD 68_CD 24_CD 24_CD Absent_NN ..._: Turbid_NNP 1,040_CD Alkaline_NNP ..._:
+Trace_NN ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 149_CD Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A._NN M._NNP 1_CD P.M._NNP 5_CD P._NNP M._NNP A._NNP M._NNP P.M_NNP ._.
+A.M._NNP P._NNP M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+1892_CD ._.
+November_NNP 5_CD ..._: 94_CD 38.7_CD 40.1_CD 40.6_CD 72_CD 60_CD 20_CD 33_CD Absent_NN ._.
+Trurbid_NN ._.
+1,020_CD Alkaline_NNP ._.
+1/10_CD 150_CD Autopsy.151_NNP Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1892_CD ._.
+August_NNP 29_CD ..._: 39.1_CD 39.3_CD 39.3_CD 64_CD 60_CD 21_CD 20_CD Absent_NN ._.
+..._:
+There_EX is_VBZ no_DT swelling_VBG at_IN the_DT seat_NN of_IN inoculation_NN ._.
+152_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1892_CD October_NNP 13_CD ..._: 38.5_CD 39.2_CD 39.1_CD 52_CD 60_CD 24_CD 24_CD Absent_NN ._.
+Clear_JJ ._.
+1,042_CD Alkaline_NNP ._.
+Trace_NN ._.
+Nil_NNP ._.
+153_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmtozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M._NNP A_NNP M._NNP P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1892_CD ._.
+December_NNP 18_CD ..._: 37.8_CD 38.6_CD 39.0_CD 52_CD 72_CD 16_CD 20_CD Abaent_NN ._.
+Clear_JJ ._.
+1,048_CD Alkaline_NNP ._.
+1/30_CD Nil_NNP ._.
+154_CD Date_NNP Temperature_NNP °C_NNP ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP 1893_CD ._.
+February_NNP 19_CD ..._: 37.1_CD 38.4_CD 39.5_CD 48_CD 68_CD 12_CD 20_CD Absent_NN ._.
+Turbid_NN ..._: 1,028_CD Alkaline_NNP ._.
+Trace_NN ._.
+Absent_NN ._.
+155_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+May_NNP 1_CD ..._: ..._: 38.0_CD 38.7_CD 38.7_CD 52_CD 60_CD 16_CD 32_CD Absent_NN ._.
+Turbid_NN ._.
+1,014_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Nil_NNP ._.
+156_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Hæmatozoa_NNP in_IN Blood_NNP ._.
+Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+July_NNP 6_CD ..._: 37.8_CD 38.4_CD 38.0_CD 52_CD 72_CD 12_CD 12_CD Absent_JJ Clear_NNP ._.
+1,043_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Trace_NN ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 157_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+September_NNP 14_CD 38.0_CD 38.8_CD 38.3_CD 52_CD 60_CD 16_CD 24_CD Absent_NN ._.
+Clear_JJ ._.
+1,034_CD Alkaline_NNP ._.
+Trace_NN ._.
+Nil_NNP ._.
+158_CD GUINEA_NNP PIG_NNP ._.
+28th_CD October_NNP 1893_CD ._.
+Inoculated_VBN subcutaneously_RB ,_, at_IN 1.30_CD P.M._NNP with_IN 0.3_CD c.c_NNS ._.
+of_IN blood_NN containing_VBG few_JJ hæmatozoa_NN ,_, taken_VBN from_IN the_DT Cow_NNP No_NNP ._.
+1_CD ._.
+Month_NNP and_CC Date_NNP ._.
+Examination_NN of_IN Blood_NNP ._.
+Temperature_NN °C_NN ._.
+Month_NNP and_CC Date_NNP ._.
+Examination_NN of_IN Blood_NNP ._.
+Temperature_NN °C_NN ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1893_CD ._.
+1893_CD ._.
+October_NNP 28_CD ..._: Inoculated_VBD ..._: ..._: ..._: 39.0_CD December_NNP 8_CD ..._: Hæmatozoa_NNP numerous_JJ ..._: 38.2_CD 38.8_CD 159_CD CAT_NNP No_NNP ._.
+1_CD ._.
+Date_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M_NNP ._.
+P.M._NN 1892_CD ._.
+August_NNP 18_CD ..._: ..._: ..._: 39.0_CD Healthy_NNP ..._: 160_CD Date_NNP ._.
+Date_NNP of_IN Disease_NNP ._.
+Temperature_NN °C_NN ._.
+Hæatozoa_NNP in_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M_NNP ._.
+P.M._NN 1892_CD ._.
+October_NNP 4_CD 33_CD 40.8_CD 40.2_CD Few_JJ [_NNS NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 161_CD appear_NN on_IN the_DT left_NN ,_, accompanied_VBN by_IN swelling_VBG and_CC 162_CD Autopsy_NNP at_IN 9_CD A.M._NNP ,_, 27th_CD September_NNP 1892_CD ._.
+The_DT body_NN is_VBZ well_RB nourished_VBN ,_, the_DT right_JJ cornea_NN presents_VBZ a_DT milky_JJ appearance_NN ,_, and_CC the_DT left_NN is_VBZ not_RB perfectly_RB clear_JJ ._.
+There_EX is_VBZ no_DT swelling_VBG or_CC [_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 163_CD Date_NNP ._.
+Temperature_NN ºC_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ,_, A.M._NNP 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Re-action_NN ,_, Albumen_NNP ._.
+1892_CD September_NNP 12_CD ._.
+39.1_CD 39.8_CD 40.3_CD 63_CD 66_CD 28_CD 26_CD Swarming_NN ._.
+Turbid_NN ._.
+1,029_CD Alkaline_NNP ._.
+Nil_NNP ._.
+Swelling_VBG of_IN limbs_NNS increased_VBN ,_, especially_RB of_IN near_JJ fore_NN ._.
+164_CD after_IN the_DT first_JJ appearance_NN of_IN the_DT hæmatozoon_NN in_IN the_DT blood_NN ,_, and_CC nineteen_RB after_IN inoculation_NN ._.
+At_IN the_DT Autopsy_NNP ,_, extensive_JJ pathological_JJ lesions_NNS were_VBD found_VBN involving_VBG the_DT heart_NN ,_, kidney_NN ,_, liver_NN and_CC spleen_NN ,_, and_CC the_DT two_CD latter_NN were_VBD also_RB found_VBN to_TO be_VB very_RB considerably_RB enlarged_VBN ._.
+EXPERIMENT_NNP No_NNP ._.
+II.-RABBIT_JJ II_NNP ._.
+21st_CD ,_, July_NNP 1892_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 165_CD EXPERIMENT_NNP No_NNP ._.
+I_PRP ._.
+RABBIT_NNP INOCULATED_NNP WITH_NNP BLOOD_NNP DERIVED_NNP FROM_NNP THE_NNP RAT_NNP PREVIOUSLY_NNP PASSED_NNP THROUGH_IN THE_NNP HORSE_NNP ._.
+21st_CD ,_, July_NNP 1892_CD ._.
+5-20_JJ P.M._NNP B._NNP RAT_NNP SURRA_NNP ._.
+APPENDIX_NNP VII_NNP ._.
+PROLONGED_NNP GASTRIC_NNP INGESTION_NNP OF_NNP RAT_NNP 'S_POS EXCREMENT_NNP MIXED_NNP WITH_NNP CORN_NNP ._.
+IN_NNP POONA_NNP ,_, RESULT_NNP NEGATIVE_NNP ,_, HORSE_NNP No_NNP ._.
+LXXV_NNP ._.
+IN_NNP BOMBAY_NNP ,_, 169_CD PROLONGED_NNP GASTRIC_NNP INGESTION_NNP OF_NNP RAT_NNP 'S_POS (_( MUS_NNP DECUMANUS_NNP )_) EXCREMENT_NNP MIXED_NNP WITH_NNP CORN_NNP ._.
+Horse_NNP Surra_NNP is_VBZ enzootic_JJ in_IN Bombay_NNP with_IN an_DT average_JJ rainfall_NN of_IN 72.7_CD inches_NNS ,_, and_CC mean_VB yearly_JJ humidity_NN of_IN 81_CD per_IN cent_NN ._.
+of_IN saturation_NN ;_: but_CC the_DT reverse_NN is_VBZ the_DT case_NN in_IN Poona_NNP ,_, on_IN the_DT Deccan_NNP plateau_NN at_IN an_DT elevation_NN of_IN 1,857_CD feet_NNS with_IN an_DT average_JJ rainfall_NN of_IN 27.6_CD inches_NNS ,_, and_CC mean_VB yearly_JJ humidity_NN of_IN 53_CD per_IN cent_NN of_IN saturation_NN ._.
+The_DT following_JJ experiments_NNS were_VBD undertaken_VBN with_IN a_DT view_NN to_TO ascertain_VB whether_IN the_DT excreta_NN of_IN rats170_NN Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Quantity_NN of_IN excre-_JJ ment_NN of_IN rats_NNS given_VBN daily_RB ._.
+Hæmatozoa_NNP in_IN blood_NN ._.
+Urine_NN ._.
+Temperature_NN in_IN shade_JJ ºF_JJ Hu-_NNP mi-_NN dity_NN ._.
+Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Re-action_NN ._.
+Albumen_NNS ._.
+Maxi-_JJ mum_NN ._.
+Mini-_JJ mum_NN ._.
+1893_CD ._.
+Grammes_NNS ._.
+January_NNP 2_CD ..._: 37.6_CD 38.0_CD 38.0_CD 32_CD 28_CD 16_CD 16_CD x_NN [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 171_CD The_DT left_NN ventricle_NN is_VBZ contracted_VBN ._.
+The_DT muscular_JJ tissue_NN of_IN the_DT wall_NN measures_VBZ at_IN its_PRP$ greatest_JJS width_NN 1.8_CD inches_NNS and_CC its_PRP$ cavity_NN is_VBZ almost_RB empty_JJ ._.
+The_DT internal_JJ surface_NN presents_NNS numerous_JJ sub-endocardial_JJ extravasations_NNS ,_, somewhat_RB extensive_JJ in_IN certain_JJ situations_NNS ,_, especially_RB involving_VBG the_DT tissues_NNS lying_VBG behind_IN the_DT posterior_JJ segment_NN of_IN the_DT mitral_JJ valve_NN and_CC the_DT upper_JJ por-_JJ tions_NNS of_IN the_DT musculi-papillares_NNS ,_, and_CC there_EX are_VBP smaller_JJR ones_NNS studded_VBD over_IN the_DT muscular_JJ surface_NN of_IN the_DT cavity_NN ._.
+The_DT valves_NNS are_VBP healthy_JJ ._.
+The_DT abdominal_JJ cavity_NN contains_VBZ a_DT few_JJ ounces_NNS of_IN a_DT turbid_NN ,_, orange_NN fluid_NN ._.
+The_DT Liver_NNP is_VBZ small_JJ and_CC dark_JJ in_IN colour_NN ._.
+It_PRP weighs_VBZ 7_CD lbs_NN 6½_CD ozs_NN ._.
+The_DT convex_JJ surface_NN of_IN both_DT lobes_JJ shows_VBZ signs_NNS of_IN old_JJ perihepatitis_NN ._.
+On_IN section_NN ,_, the_DT tissue_NN is_VBZ dark_JJ in_IN colour_NN ,_, and_CC dark_JJ fluid_NN blood_NN exudes_NNS from_IN the_DT cut_NN ends_VBZ of_IN the_DT vessels_NNS ._.
+The_DT Spleen_NNP is_VBZ normal_JJ in_IN size_NN ;_: the_DT surfaces_NNS are_VBP studded_VBN with_IN numerous_JJ brick-red_JJ sub-capsular_JJ petechiæ_NN ,_, which_WDT present_VBD an_DT almost_RB confluent_JJ appearance_NN at_IN the_DT free_JJ borders_NNS ._.
+On_IN section_NN ,_, the_DT tissues_NNS present_VBP a_DT dark_JJ purple-red_JJ colour_NN ._.
+Follicles_NNS normal_JJ in_IN size_NN ._.
+The_DT Kidneys.172_NNP HORSE_NNP No_NNP ._.
+XCI_NN ._.
+POSITIVE_NNP RESULT_NNP ._.
+Australian_JJ Gelding_NNP ,_, aged_VBD ,_, in_IN very_RB fine_JJ condition_NN ,_, was_VBD cast_VBN on_IN account_NN of_IN lameness_NN ._.
+The_DT question_NN as_IN to_TO how_WRB rats_NNS could_MD cause_VB the_DT disease_NN in_IN horses_NNS was_VBD raised_VBN ;_: for_IN the_DT food_NN would_MD rarely_RB ,_, if_IN ever_RB ,_, be_VB soiled_VBN with_IN the_DT blood_NN of_IN these_DT animals_NNS ._.
+It_PRP therefore_RB only_RB remained_VBD to_TO be_VB tried_VBN whether_IN the_DT excreta_NN of_IN rats_NNS ,_, in_IN whose_WP$ blood_NN the_DT infusorian_NN was_VBD present_JJ at_IN the_DT time_NN of_IN its_PRP$ collection_NN ,_, could_MD cause_VB the_DT disease_NN when_WRB mixed_JJ with_IN grain_NN ._.
+An_DT experiment_NN with_IN this_DT end_NN in_IN view_NN had_VBD already_RB been_VBN undertaken_VBN at_IN Poona_NNP ,_, on_IN the_DT Deccan_NNP plateau_NN ,_, where_WRB the_DT disease_NN is_VBZ not_RB enzootic_JJ ,_, and_CC where_WRB the_DT difficulty_NN of_IN producing_VBG it_PRP was_VBD fully_RB recognised_VBN ,_, owing_VBG to_TO the_DT dryness_NN of_IN the_DT situation_NN at_IN that_DT period_NN of_IN the_DT year_NN (_( December_NNP to_TO February_NNP )_) ._.
+These_DT experiments_NNS as_IN expected_VBN proved_VBD negative_JJ ._.
+Consequently_RB it_PRP was_VBD deemed_VBN advisable_JJ to_TO make_VB further_JJ experiments_NNS with_IN the_DT same_JJ end_NN in_IN view_NN in_IN Bombay_NNP ,_, where_WRB the_DT climate_NN is_VBZ favourable_JJ from_IN its_PRP$ humidity_NN ,_, and_CC the_DT disease_NN is_VBZ enzootic_JJ ._.
+Two_CD horses_NNS (_( Nos_NNP ._.
+LXXXIX_NNP and_CC XCI_NNP )_) were_VBD therefore_RB transported_VBN on_IN May_NNP 6th_CD ,_, 1893_CD ,_, to_TO Bombay_NNP and_CC through_IN the_DT courtesy_NN of_IN Major_NNP J_NNP ._.
+Mills_NNS were_VBD located_VBN at_IN the_DT Veterinary_NNP College_NNP Hospital_NNP ._.
+A_DT regular_JJ supply_NN of_IN rats_NNS was_VBD main-_JJ tained_JJ ,_, principally_RB from_IN the_DT Bandora_NNP Kennels_NNP ,_, and_CC their_PRP$ blood_NN was_VBD examined_VBN daily_RB ._.
+The_DT rats_NNS ,_, in_IN the_DT blood_NN of_IN which_WDT the_DT hæmatozoon_NN was_VBD discovered_VBN ,_, were_VBD placed_VBN in_IN wire_NN cages_NNS over_IN a_DT metal_NN plate_NN ,_, so_IN that_IN the_DT excrement_NN would_MD fall_VB through_IN into_IN the_DT receptacle_NN and_CC be_VB forthcoming_VBG when_WRB required_VBN ._.
+Morning_VBG and_CC evening_VBG the_DT excrement_NN was_VBD collected_VBN ,_, weighed_VBN ,_, and_CC a_DT known_JJ quantity_NN mixed_NN with_IN the_DT ration_NN of_IN corn_NN previous_JJ to_TO its_PRP$ being_VBG given_VBN to_TO the_DT animals_NNS under_IN experiment_NN ._.
+The_DT results_NNS of_IN the_DT experiment_NN in_IN the_DT case_NN of_IN Horse_NNP No_NNP ._.
+LXXXIX_NNP proved_VBD negative_JJ ._.
+Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Temperature_NN in_IN Shade_NNP °F_NNP ._.
+Humidity_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+Maximum_NNP ._.
+Minimum_NNP ._.
+1893_CD ._.
+May_NNP 6_CD 38.1_CD 37.8_CD 37_CD 38_CD 20_CD 19_CD 88.9_CD 80.0_CD 72_CD Healthy_NNP ._.
+173_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Temperature_NN in_IN Shade_NNP °F_NNP ._.
+Humidity_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+Maximum_NNP ._.
+Minimum_NNP ._.
+1893_CD ._.
+June_NNP 25_CD ..._: 37.7_CD 38.0_CD 33_CD 42_CD 18_CD 21_CD 85.4_CD 79.0_CD 87_CD Healthy_NNP ._.
+174_CD Month_NNP and_CC Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Temperature_NN in_IN Shade_NNP °F_NNP ._.
+Humidity_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+Maximum.._NN
+Minimum_NNP ._.
+1893_CD ._.
+September_NNP 5_CD 37.7_CD ..._: 36_CD ..._: 16_CD ..._: 85.5_CD 75.0_CD 91_CD Healthy_NNP ._.
+175_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1893_CD ._.
+October_NNP 12_CD ..._: 37.3_CD 37.4_CD 37.7_CD 40_CD 36_CD 20_CD 28_CD 16_CD Absent_NN ._.
+13th.176_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1893_CD ._.
+December_NNP 1_CD ..._: 37.1_CD 37.4_CD 38.1_CD 20_CD 21_CD 12_CD 36_CD 66_CD Absent_NN ._.
+1st_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_VBD 177_CD 16th_CD January_NNP 1894.B_CD ._.
+RAT_NNP SURRA_NNP APPENDIX_NNP VIII_NNP ._.
+SUBCUTANEOUS_NNP INOCULATION_NNP WITH_NNP THE_NNP BLOOD_NNP OF_NNP DIFFERENT_NNP ANIMALS_NNP WHICH_NNP HAD_VBD BEEN_NNP PRIMARILY_NNP INOCULATED_NNP FROM_NNP HORSE_NNP No_NNP ._.
+XCI_NN ._.
+(_( RAT_NNP EXCREMENT_NNP INGESTION_NNP ._. )_)
+HORSE_NNP No_NNP ._.
+XCV.181_NN APPENDIX_NNP VIII_NNP ._.
+SUBCUTANEOUS_NNP INOCULATION_NNP WITH_NNP BLOOD_NNP OF_NNP DIFFERENT_NNP ANIMALS_NNP WHICH_NNP HAD_VBD BEEN_NNP PRIMARILY_NNP INOCULATED_NNP FROM_NNP HORSE_NNP No_NNP ._.
+XCI_NN (_( RAT_NNP EXCREMENT_NNP ._. )_)
+HORSE_NNP No_NNP ._.
+XCV_NN ._.
+A_DT brown_JJ gelding_NN ,_, in_IN fair_JJ health_NN and_CC condition_NN ._.
+Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP ._.
+in_IN Blood_NNP ._.
+Day_NNP of_IN Disease_NNP ._.
+REMARKS_NNP ._.
+A.M_NNP ._.
+NOON_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1893_CD ._.
+October_NNP 5_CD ..._: ..._: ..._: 37.0_CD ..._: 56_CD ..._: 32_CD Healthy_NNP ._.
+..._: 182_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+Date_NNP ._.
+Temperature_NN °C_NN ._.
+Condition_NN of_IN Blood_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1894_CD ._.
+1894_CD ._.
+July_NNP 19_CD ..._: 39.0_CD 39.2_CD Hæmatozoa_NNP Absent_NNP ._.
+September_NNP 22_CD ..._: 39.3_CD 39.6_CD Hæmatozoa_NNP Absent_NNP ._.
+183_CD GUINEA_NNP PIG_NNP No_NNP ._.
+XXIII_NN ._.
+June_NNP 30th_CD ,_, 1894.RAT_CD SURRA_NNP ._.
+APPENDIX_NNP IX_NNP ._.
+TRANSMISSION_NN OF_IN THE_NNP HÆMATOZOON_NNP FROM_NNP THE_NNP MOTHER_NNP TO_NNP THE_NNP OFFSPRING_NNP THROUGH_NNP SUCKLING_NNP ._.
+CALF_NNP No_NNP I_PRP ._.
+B_NNP 2236187_CD CALF_NNP No_NNP ._.
+I._NN Calf_NNP ._.
+Deccani_NNP ,_, aged_VBD 3_CD weeks_NNS ,_, Fawn_NNP colour_NN ,_, healthy_JJ and_CC in_IN good_JJ condition_NN ._.
+Disease_NNP contracted_VBN by_IN offspring_VBG through_IN milk_NN of_IN mother_NN ._.
+Calf_NNP ,_, 3_CD weeks_NNS old_JJ ,_, suckling_VBG mother_NN ._.
+Mother_NNP inoculated_VBD with_IN Rat-Surra_NNP blood_NN ,_, previously_RB passed_VBN through_IN Horses_NNP Nos_NNP ._.
+LXII_NNP and_CC LXVII_NNP ,_, and_CC Donkey_NNP No_NNP ._.
+II_NNP ._.
+Hæmatozoon_NN appeared_VBD in_IN calf_NN for_IN 24_CD hours_NNS only_RB ,_, 42_CD days_NNS after_IN inoculation_NN of_IN cow_NN ._.
+Inoculation_NNP subcutaneously_RB 123_CD days_NNS after_IN paroxysm_NN ._.
+Hæmatozoa_NNP appeared_VBD on_IN 4th_CD day_NN ._.
+Three_CD paroxysms_NNS of_IN 2_CD ,_, 1_CD and_CC 1_CD days_NNS ,_, with_IN two_CD intermissions_NNS of_IN 3_CD and_CC 123_CD days_NNS ,_, respectively_RB ._.
+Death_NN from_IN rinderpest_NN occurred_VBD 100_CD days_NNS after_IN last_JJ paroxysm_NN ._.
+Date_NNP ._.
+Temperature°C_NNP ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albn_NNP ._.
+Hip_NNP ._.
+Acid_NNP ._.
+1892_CD ._.
+August_NNP 24_CD ..._: ..._: ..._: 39.3_CD 61_CD 60_CD 16_CD ..._:
+The_DT calf_NN sucks_VBZ its_PRP$ mother_NN 3_CD times_NNS daily_RB ,_, at_IN 7_CD A.M._NNP ,_, 1_CD P.M._NNP ,_, and_CC 6_CD P.M._NNP 188_CD Date_NNP ._.
+Temperature°_NNP C._NNP Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hip_NNP ._.
+Acid_NNP ._.
+1892_CD ._.
+October_NNP 14_CD ..._: 38.5_CD 39.1_CD 39.3_CD 56_CD 64_CD 20_CD 16_CD Absent_NN ..._: Clear_JJ ..._: 1,022_CD Alkaline_NN ..._:
+Trace_NN ..._: Nil_NNP ._.
+189_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hip_NNP ._.
+Acid_NNP ._.
+1892_CD ._.
+December_NNP 22_CD ..._: 37.0_CD 37.6_CD 39.6_CD 48_CD 72_CD 16_CD 16_CD Absent_NN ._.
+Clear_JJ 1,024_CD Alkaline_NNP ..._: Nil_NNP ._.
+Nil_NNP ._.
+190_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hip_NNP ._.
+Acid_NNP ._.
+1893_CD ._.
+February_NNP 24_CD ..._: 38.3_CD 39.6_CD 39.6_CD 76_CD 64_CD 20_CD 12_CD Absent_NN ._.
+Turbid_NN ..._: 1,032_CD Alkaline_NN ..._:
+Trace_NN ._.
+Nil_NNP ._.
+191_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Colour_NNP ._.
+Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hip_NNP ._.
+Acid_NNP ._.
+1893_CD ._.
+May_NNP 1_CD ..._: 37.5_CD 38.0_CD 39.3_CD 52_CD 64_CD 12_CD 30_CD Absent_NN ._.
+Clear_JJ ..._: 1,012_CD Alkaline_NNP ..._: Nil_NNP ._.
+Nil_NNP ._.
+192_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Colour_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Sp_NNP ._.
+Gr_NNP ._.
+Reaction_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+July_NNP 9_CD ..._: 38.4_CD 38.8_CD 39.2_CD 48_CD 52_CD 12_CD 12_CD Absent_NN ._.
+Turbid_NN ..._: 1,022_CD Alkaline_NNP ..._: Nil_NNP ._.
+Nil_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 193_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Hæmatozoa_NNP in_IN Blood_NNP ._.
+Colour_NNP ._.
+Urine_NN ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NNP Sp_NNP ._.
+Gr_NNP ._.
+Re-action_NN ._.
+Albumen_NNS ._.
+Hippuric_NNP Acid_NNP ._.
+1893_CD ._.
+Sept._NNP 18_CD ..._: 39.6_CD 39.0_CD 39.4_CD 72_CD 68_CD 24_CD 32_CD Absent_NN Clear_NNP ..._: 1,032_CD Alkaline_NNP ..._: Nil_NNP ._.
+RAT_NNP SURRA_NNP ._.
+APPENDIX_NNP X._NNP SUBCUTANEOUS_NNP INOCULATION_NNP OF_NNP GUINEA_NNP PIGS_NNP WITH_NNP URINE_NNP PASSED_NNP BY_NNP ANIMALS_NNP DURING_NNP A_NNP PAROXYSM_NNP OF_NNP SURRA_NNP ._.
+RESULTS_NNP NEGATIVE-_JJ GUINEA_NNP PIGS_NNP (_( BULL_NNP No_NNP ._.
+III_NNP )_) ._.
+197_CD GUINEA_NNP PIGS_NNP INOCULATED_NNP WITH_NNP URINE_NNP FROM_NNP THE_NNP BULL_NNP ._.
+August_NNP 8th,1892.198_CD GUINEA_NNP PIGS_NNP INOCULATED_NNP WITH_NNP URINE_NNP FROM_NNP THE_NNP DONKEY_NNP ._.
+August_NNP 8th_CD ,_, 1892.C_CD ._.
+BANDICOOT_NNP SURRA_NNP ._.
+APPENDIX_NNP No_NNP ._.
+I._NNP INOCULATION_NNP OF_IN ANIMALS_NNP WITH_NNP SOILED_NNP BANDICOOT_NNP 'S_POS BLOOD_NNP ._.
+RESULTS_NNP POSITIVE_NNP ._.
+(_( A_DT )_) .201_CD INOCULATION_NNP OF_IN ANIMALS_NNP WITH_NNP SOILED_NNP BANDICOOT_NNP 'S_POS BLOOD_NNP ._.
+(_( A_DT )_) 202_CD Rabbit_NNP II.203_NNP Rabbit_NNP IV.204_NNP Rabbit_NNP II.205_NNP Guinea_NNP Pig_NNP I.D_NNP ._.
+DOG_NNP SURRA_NNP APPENDIX_NNP I_PRP ._.
+NATURALLY_RB CONTRACTED_NNP CASES_NNP ._.
+DOG_NNP No_NNP ._.
+VI_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 209_CD DOG_NNP SURRA_NNP ._.
+APPENDIX_NNP I_PRP ._.
+This_DT disease_NN in_IN dogs_NNS was_VBD unrecognized_VBN as_IN Surra_NNP until_IN the_DT outbreak_NN of_IN 1893_CD ._.
+The_DT first_JJ records_NNS of_IN heavy_JJ mortality_NN in_IN imported_VBN Fox_NNP Hounds_NNP are_VBP those_DT of_IN the_DT Ootacamund_NNP Kennels_NNP in_IN 1869-70_CD ._.
+From_IN 1870D_CD ._.
+DOG_NNP SURRA_NNP APPENDIX_NNP II_NNP ._.
+INOCULATION_NNP OF_NNP ANIMALS_NNP WITH_NNP SOILED_NNP DOG_NNP 'S_POS BLOOD_NN :_: HORSE_NNP No_NNP ._.
+XCIII_NN ,_, GUINEA_NNP PIGS_NNP Nos_NNP ._.
+I_PRP ,_, II_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_$ 213_CD HORSE_NNP No_NNP ._.
+XCIII_NN ._.
+Bay_NNP Australian_NNP Gelding_NNP ,_, aged_VBD ,_, lame_NN ,_, otherwise_RB healthy_JJ and_CC in_IN good_JJ condition_NN ._.
+Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1893_CD ._.
+July_NNP 25_CD ..._: ..._: ..._: 37.2_CD ..._: 36_CD ..._: 12_CD ..._: Inoculated_VBN ._.
+25th.214_CD Date_NNP ._.
+Temperature_NN °C_NN ._.
+Pulse_NNP ._.
+Respiration_NN ._.
+Day_NNP of_IN Disease_NNP ._.
+Hæmatozoa_NNP in_IN the_DT Blood_NNP ._.
+REMARKS_NNP ._.
+A.M._RB 1_CD P.M._NNP 5_CD P.M_NNP ._.
+A.M_NNP ._.
+P.M_NNP ._.
+A.M_NNP ._.
+P.M._NN 1893_CD ._.
+August_NNP 29_CD ..._: 37.3_CD 38.0_CD 37.4_CD 44_CD 52_CD 16_CD 20_CD 26_CD Absent_NN ..._: 29th.215_CD Guinea_NNP Pig_NNP No_NNP ._.
+ID_NNP ._.
+DOG_NNP SURRA_NNP ._.
+APPENDIX_NNP III_NNP ._.
+SUBCUTANEOUS_NNP INOCULATION_NNP WITH_NNP THE_NNP BLOOD_NNP OF_NNP DIFFERENT_NNP ANIMALS_NNP ,_, WHICH_NNP HAD_NNP BEEN_NNP PREVIOUSLY_NNP INOCULATED_NNP FROM_NNP THE_NNP DOG_NNP ._.
+GUINEA_NNP PIGS_NNP NOS_NNP ._.
+I_PRP ,_, II_NNP ;_: CAT_NNP No_NNP ._.
+II_NNP ._.
+B_NNP 2236219_CD Guinea_NNP Pig_NNP I.E_NNP ._.
+FISH_NN ._.
+APPENDIX_NNP I._NNP SUBCUTANEOUS_NNP INOCULATION_NNP OF_IN ANIMALS_NNP WITH_NNP SOILED_NNP FISH_NNP BLOOD_NNP ._.
+HORSES_NNP Nos_NNP ._.
+XXXIX_NN ,_, XLIII_NNP ._.
+B_NNP 2236223_CD SUBCUTANEOUS_NNP INOCULATION_NNP OF_IN ANIMALS_NNP WITH_NNP SOILED_NNP FISH_NNP BLOOD_NNP ._.
+HORSE_NNP No_NNP ._.
+XXXIX_NN ._.
+Grey_NNP country-bred_JJ horse_NN ,_, aged_VBN ._.
+10th_JJ August_NNP 1891.224_CD jelly-like_JJ exudation_NN of_IN a_DT light_JJ yellow_JJ colour_NN ._.
+On_IN Section_NN ,_, this_DT portion_NN of_IN the_DT organ_JJ presents_VBZ a_DT dark-red_JJ colour_NN and_CC is_VBZ the_DT seat_NN of_IN consolidation_NN ,_, and_CC as_IN in_IN the_DT case_NN of_IN Horse_NNP No_NNP ._.
+XLIX_VB the_DT jelly-like_JJ material_NN dips_NNS down_RP from_IN the_DT superior_JJ surface_NN of_IN the_DT lung_NN between_IN the_DT lobules_NNS ,_, distinctly_RB isolating_VBG one_CD lobule_NN from_IN another_DT ,_, with_IN a_DT layer_NN of_IN exudation_NN varying_VBG in_IN thickness_NN from_IN one-twelfth_JJ to_TO one-fifth_JJ inch_NN ._.
+The_DT greater_JJR portion_NN of_IN this_DT organ_NN is_VBZ well_RB filled_VBN with_IN air_NN and_CC is_VBZ apparently_RB healthy_JJ ._.
+The_DT left_NN lung_NN presents_VBZ a_DT dark_JJ purple_NN colour_NNS due_JJ to_TO hypostatic_JJ congestion_NN ._.
+There_EX is_VBZ localized_JJ emphysema_NN at_IN the_DT apex_NN ,_, and_CC on_IN careful_JJ examination_NN only_RB a_DT few_JJ sub-pleural_JJ extravasations_NNS can_MD be_VB observed_VBN ._.
+On_IN Section_NNP and_CC gentle_JJ pressure_NN dark_NN coloured_VBD blood_NN exudes_NNS from_IN the_DT cut_NN surfaces_NNS ,_, but_CC the_DT tissue_NN presents_VBZ a_DT healthy_JJ appearance_NN ._.
+The_DT cavity_NN of_IN the_DT pericardium_NN contains_VBZ 1½_CD ozs_NN ._.
+of_IN a_DT turbid_NN ,_, yellow-coloured_JJ fluid_NN ,_, but_CC on_IN microscopical_JJ examination_NN no_DT hæmatozoa_NN are_VBP found_VBN ._.
+Heart.FISH_NNP ._.
+APPENDIX_NNP II_NNP ._.
+SUBCUTANEOUS_NNP INOCULATION_NNP AND_NNP RE-INOCULATION_NNP WITH_NNP SOILED_NNP FISH_NNP BLOOD_NNP ._.
+RESULT_NNP NEGATIVE_NNP ._.
+HORSE_NNP No_NNP ._.
+XLIX_NN ._.
+(_( A_DT )_) SUBCUTANEOUS_NNP INOCULATION_NNP AND_NNP RE-INOCULATION_NNP ON_NNP TWO_NNP SUBSEQUENT_NNP OCCASIONS_NNP WITH_NNP SOILED_NNP FISH_NNP BLOOD_NNP ._.
+RESULTS_NNP NEGATIVE_NNP ._.
+(_( B_NNP )_) FURTHER_NNP INOCULATION_NNP OF_IN THE_NNP SAME_NNP ANIMAL_NNP WITH_NNP HORSE-SURRA_NNP BLOOD_NNP ._.
+RESULTS_NNP POSITIVE_NNP ._.
+HORSE_NNP No_NNP ._.
+XLVII_NN ._.
+B_NNP 2236227_CD SUBCUTANEOUS_NNP INOCULATION_NNP AND_NNP RE-INOCULATION_NNP WITH_NNP SOILED_NNP FISH_NNP BLOOD_NNP ._.
+RESULT_NNP NEGATIVE_NNP ._.
+HORSE_NNP No_NNP ._.
+XLIX_NN ._.
+Black_NNP mare_NN ,_, aged_VBN ,_, in_IN fair_JJ condition_NN and_CC apparently_RB healthy_JJ ._.
+15th_CD October_NNP 1891.28_CD blood_NN extravasations_NNS ,_, which_WDT are_VBP found_VBN only_RB to_TO invade_VB the_DT muscular_NN structure_NN to_TO a_DT limited_JJ extent_NN ._.
+On_IN section_NN ,_, the_DT right_JJ side_NN of_IN the_DT heart_NN is_VBZ found_VBN to_TO contain_VB a_DT large_JJ quantity_NN of_IN clots_NNS varying_VBG in_IN colour_NN from_IN a_DT light_JJ yellow_NN through_IN orange_NN red_VBN to_TO a_DT dark_NN green_NN ._.
+The_DT Right_NNP Auricle_NNP presents_VBZ no_DT pathological_JJ changes_NNS ,_, but_CC the_DT Right_NNP Ventricle_NNP is_VBZ the_DT seat_NN of_IN a_DT large_JJ number_NN of_IN sub-endocardial_JJ extravasations_NNS ,_, the_DT musculi_NN papillares_VBZ in_IN this_DT case_NN being_VBG free_JJ ._.
+The_DT Left_NNP Auricle_NNP presents_VBZ a_DT healthy_JJ appearance_NN ._.
+The_DT walls_NNS of_IN the_DT Left_NNP Ventricle_NNP are_VBP hypertrophied_VBN ,_, and_CC the_DT cavity_NN contains_VBZ a_DT few_JJ dark_JJ clots_NNS ._.
+There_EX are_VBP a_DT few_JJ extravasations_NNS lying_VBG under_IN the_DT endocardial_JJ lining_NN ._.
+Liver.229_NNP 2nd.230_CD 27th_CD ._.

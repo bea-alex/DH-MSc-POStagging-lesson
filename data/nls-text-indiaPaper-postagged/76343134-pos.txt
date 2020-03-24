@@ -1,0 +1,369 @@
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP ,_, AND_NNP OF_IN THE_NNP BENGAL_NNP VETERINARY_NNP COLLEGE_NNP ,_, FOR_NNP THE-YEAR_NNP 1902-1903_JJ ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: PRINTED_NN AT_IN THE_NNP BENGAL_NNP SECRETARIAT_NNP PRESS_NNP ._.
+1903_CD ._.
+[_JJ PriceANNUAL_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP ,_, AND_NNP OF_IN THE_NNP BENGAL_NNP VETERINARY_NNP COLLEGE_NNP FOR_IN THE_NNP YEAR_NNP 1902-1903_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Calcutta_NNP :_: PRINTED_NN AT_IN THE_NNP BENGAL_NNP SECRETARIAT_NNP PRESS_NNP ._.
+1903_CD ._.
+Published_VBN at_IN the_DT BENGAL_NNP SECRETARIAT_NNP BOOK_NNP DEPÔT_NNP ,_, Writers_NNP '_POS Buildings_NNS ,_, Calcutta_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP OFFICIAL_NNP AGENTS_NNP ._.
+In_IN IndiaStable_NNP Overseer_NNP ASAF_NNP KHAN_NNP Mr._NNP S._NNP K._NNP MITTER_NNP Mr_NNP E._NNP BURKE_NNP Asst_NNP ._.
+Principal_NNP ._.
+Mr._NNP E._NNP H._NNP BRAND_NNP Mr._NNP D._NNP K._NNP DEY_NNP Reding_NNP Master_NNP DABI_NNP SINGH_NNP [_NNP NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_VBP The_DT Staff_NNP and_CC some_DT Students_NNS of_IN the_DT Bengal_NNP Veterinary_NNP College_NNP ._.
+[_JJ Maximum_NNP limit_NN ,_, 15_CD pages_NNS ._. ]_NN
+CONTENTS_NNS ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP PAGE_NNP ._.
+Veterinary_JJ Dispensaries_NNS ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: .._VBZ 1ANNUAL_CD REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP ,_, For_IN the_DT year_NN 1902-1903_RB ._.
+1_CD ._.
+The_DT work_NN of_IN the_DT department_NN made_VBD steady_JJ progress_NN during_IN the_DT year_NN ._.
+Two_CD new_JJ dispensaries_NNS were_VBD opened_VBN in_IN Ranchi_NNP and_CC Palamau_NNP with_IN a_DT Veterinary_NNP Assistant_NNP in_IN charge_NN of_IN each_DT ,_, and_CC seven_CD more_JJR itinerant_JJ Veterinary_JJ Assistants_NNS were_VBD appointed_VBN ,_, one_CD in_IN each_DT of_IN the_DT districts_NNS of_IN Bankura_NNP ,_, Rajshahi_NNP ,_, Jalpaiguri_NNP ,_, Mymensingh_NNP and_CC Pabna_NNP ,_, and_CC two_CD in_IN Backergunge_NNP ._.
+Veterinary_JJ Assistants_NNS were_VBD also_RB required_VBN in_IN Bhagalpur_NNP ,_, Noakhali_NNP ,_, Khurda_NNP ,_, Dumka_NNP and_CC Angul_NNP ,_, but_CC could_MD not_RB be_VB supplied_VBN during_IN the_DT year_NN for_IN want_NN of_IN men_NNS ._.
+Table_JJ XXIV_NN shows_VBZ that_IN the_DT strength_NN of_IN the_DT subordinate_JJ veterinary_JJ staff_NN employed_VBN during_IN the_DT year_NN was_VBD 43_CD against_IN 34_CD during_IN last_JJ year_NN ._.
+2_CD ._.
+The_DT number_NN of_IN in-patients_NNS treated_VBN in_IN the_DT dispensaries_NNS was_VBD 903_CD ,_, as_IN compared_VBN with_IN 737_CD last_JJ year_NN ._.
+Twenty-four_CD thousand_CD nine_CD hundred_VBN and_CC eleven_VBN (_( 24,911_CD )_) cases_NNS were_VBD treated_VBN as_IN out-patients_NNS against_IN 8,892_CD in_IN 1901-1902_JJ ._.
+The_DT number_NN of_IN cases_NNS treated_VBN by_IN the_DT itinerating_NN Veterinary_JJ Assistants_NNS in_IN the_DT villages_NNS was_VBD 21,439_CD in_IN 1902-1903_JJ against_IN 7,346_CD in_IN 1901-1902_JJ ._.
+VETERINARY_NNP DISPENSARIES_NNP ._.
+3_CD ._.
+Table_JJ XIX_NN shows_VBZ details_NNS regarding_VBG each_DT dispensary_NN ._.
+All_PDT the_DT Pro-_NNP vincial_JJ Veterinary_NNP Dispensaries_NNPS ,_, except_IN two_CD ,_, were_VBD inspected_VBN by_IN me_PRP at_IN least_JJS once_RB and_CC were_VBD repeatedly_RB visited_VBN and_CC reported_VBN on_IN by_IN the_DT Inspectors_NNS ._.
+I_PRP was_VBD unable_JJ to_TO get_VB to_TO Daltonganj_NNP ,_, and_CC Sitamarhi_NNP ,_, owing_VBG to_TO the_DT disastrous_JJ floods_NNS at_IN the_DT time_NN of_IN my_PRP$ tour_NN in_IN that_DT neighbourhood_NN ,_, could_MD not_RB he_PRP inspected_VBD ._.
+4_CD ._.
+Sitamarhi_NNP ._.
+(_( 2_CD )_) 8_CD ._.
+Muzaffarpur_NNP ._.
+(_( 3_CD )_) Veterinary_NNP Assistant_NNP ._.
+He_PRP performed_VBD post-mortem_JJ examinations_NNS and_CC examined_JJ animals_NNS seized_VBN under_IN the_DT Cruelty_NNP Act_NNP ._.
+Fifty-four_JJ operations_NNS were_VBD performed_VBN by_IN him_PRP with_IN good_JJ results_NNS ._.
+The_DT Veterinary_NNP Assistant_NNP ,_, on_IN the_DT whole_NN ,_, did_VBD his_PRP$ work_NN satisfactorily_RB ._.
+16_CD ._.
+Tippera_NN ._.
+(_( 4_CD )_) The_DT chief_JJ work_NN of_IN the_DT Veterinary_NNP Assistant_NNP is_VBZ of_IN an_DT itinerant_JJ nature_NN ._.
+He_PRP inspects_VBZ all_PDT the_DT Raj_NNP villages_NNS in_IN rotation_NN ,_, both_DT with_IN a_DT view_NN to_TO treat_VB ordinary_JJ cases_NNS and_CC especially_RB to_TO deal_VB with_IN outbreaks_NNS of_IN infectious_JJ diseases_NNS ._.
+22_CD ._.
+.Palamau_NN ._.
+(_( 5_CD )_) There_EX was_VBD no_DT friction_NN nor_CC misunderstanding_NN of_IN any_DT kind_NN between_IN the_DT operators_NNS and_CC the_DT owners_NNS ._.
+CATTLE_NNP PAIRS_NNP AND_NNP SHOWS_NNP ._.
+32_CD ._.
+I_PRP attended_VBD the_DT Sonepore_NNP ,_, Barrahpur_NNP and_CC Suri_NNP fairs_NNS ,_, and_CC the_DT Assistant_NNP Superintendent_NNP attended_VBD the_DT Sitamarhi_NNP fair_NN ._.
+No_DT one_NN from_IN this_DT Department_NNP could_MD visit_VB the_DT Kalimpong_NNP fair_NN ,_, as_IN all_DT my_PRP$ staff_NN was_VBD engaged_VBN at_IN the_DT time_NN ._.
+The_DT allotment_NN of_IN Rs_NNP ._.
+250_CD for_IN mule-stock_NN at_IN Kalimpong_NNP ,_, which_WDT ,_, I_PRP recommended_VBD ,_, should_MD not_RB be_VB given_VBN any_DT more_JJR ,_, as_IN it_PRP had_VBD served_VBN its_PRP$ purpose_NN ,_, was_VBD discontinued_VBN by_IN the_DT Inspector-General_NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ._.
+CATTLE_NNP BREEDING_NNP ._.
+33_CD ._.
+The_DT Inspector-General_NNP of_IN the_DT Civil_NNP Veterinary_NNP Department_NNP and_CC the_DT Inspector-General_NNP of_IN Agriculture_NNP in_IN India_NNP have_VBP visited_VBN Bengal_NNP and_CC made_VBD certain_JJ recommendations_NNS about_IN cattle_NNS breeding_VBG ,_, which_WDT ,_, no_DT doubt_NN ,_, will_MD be_VB carried_VBN out_RP when_WRB the_DT money_NN is_VBZ available_JJ and_CC the_DT necessary_JJ orders_NNS have_VBP been_VBN passed_VBN ._.
+HORSE_NNP AND_NNP PONY_NNP BREEDING_NNP ._.
+34_CD ._.
+Hathwa_NNP ._.
+ANNUAL_NNP REPORT_NNP OF_IN THE_NNP BENGAL_NNP VETERINARY_NNP COLLEGE_NNP For_IN the_DT year_NN 1902-1903_RB ._.
+THE_DT STUDENTS_NNP ._.
+1_CD ._.
+Class_NN A_DT ._.
+(_( 8_CD )_) 1,171_CD and_CC 787_CD ,_, respectively_RB ,_, in_IN 1901-1902_JJ (_( Appendix_NNP A_NNP )_) ._.
+Though_IN there_EX is_VBZ a_DT decrease_NN in_IN the_DT total_JJ number_NN of_IN in-patients_NNS ,_, the_DT horse_NN and_CC cattle_JJ patients_NNS were_VBD practically_RB double_JJ the_DT number_NN of_IN the_DT previous_JJ year_NN (_( 1,014_CD against_IN 526_CD ,_, which_WDT was_VBD due_JJ to_TO increased_JJ popularity_NN of_IN the_DT infirmary_JJ with_IN the_DT poorer_NN people_NNS owing_VBG to_TO the_DT reduction_NN of_IN fees_NNS ._.
+In_IN previous_JJ years_NNS ,_, when_WRB there_EX were_VBD no_DT fees_NNS charged_VBN for_IN the_DT treatment_NN of_IN dogs_NNS ,_, sheep_NN and_CC goats_NNS ,_, the_DT in-and-out-patients_NNS were_VBD regis-_JJ tered_VBN together_RB and_CC shown_VBN under_IN the_DT heading_NN of_IN free_JJ in-patients_NNS ,_, but_CC since_IN it_PRP has_VBZ been_VBN ruled_VBN that_IN they_PRP should_MD be_VB charged_VBN for_IN ,_, they_PRP have_VBP been_VBN shown_VBN as_IN either_DT in-_JJ or_CC out-patients_NNS according_VBG to_TO the_DT department_NN in_IN which_WDT they_PRP were_VBD treated_VBN to_TO facilitate_VB accounts_NNS ._.
+Hence_RB the_DT apparent_JJ decrease_NN of_IN in-patients_NNS ._.
+Had_NNP all_PDT the_DT dogs_NNS ,_, sheep_NN ,_, and_CC goats_NNS been_VBN shown_VBN under_IN in-patients_NNS as_IN in_IN previous_JJ years_NNS ,_, the_DT total_JJ number_NN of_IN in-patients_NNS would_MD have_VB been_VBN 1,582_CD in-_JJ stead_NN of_IN 1,052_CD ._.
+The_DT percentage_NN of_IN deaths_NNS was_VBD 5.53_CD against_IN 3.21_CD last_JJ year_NN ._.
+The_DT higher_JJR mortality_NN was_VBD chiefly_JJ owing_VBG to_TO a_DT larger_JJR number_NN of_IN rinder-_JJ pest_NN cases_NNS having_VBG been_VBN admitted_VBN this_DT year_NN (_( viz._NN ,_, 90_CD admissions_NNS and_CC 54_CD deaths_NNS against_IN 1_CD admission_NN and_CC 1_CD death_NN )_) ._.
+Six_CD hundred_CD and_CC twenty-three_JJ operations_NNS were_VBD performed_VBN against_IN 473_CD last_JJ year_NN ._.
+The_DT number_NN of_IN horses_NNS shod_VBP at_IN the_DT forge_NN was_VBD 336_CD in_IN 1902-1903_JJ against_IN 433_CD of_IN the_DT previous_JJ year_NN ._.
+No_DT animals_NNS were_VBD received_VBN from_IN the_DT Dum-Dum_NNP Cantonment_NNP since_IN the_DT reduction_NN of_IN the_DT garrison_NN ._.
+This_DT explains_VBZ the_DT decrease_NN under_IN this_DT head_NN ._.
+9_CD ._.
+The_DT accommodation_NN in_IN the_DT hospital_NN having_VBG been_VBN found_VBN insufficient_NN for_IN the_DT number_NN of_IN patients_NNS ,_, Sir_NNP John_NNP Woodburn_NNP ,_, a_DT few_JJ days_NNS before_IN his_PRP$ death_NN ,_, sanctioned_VBN ,_, on_IN the_DT recommendation_NN of_IN the_DT Hon'ble_NNP Mr._NNP W._NNP C._NNP Macpherson_NNP ,_, a_DT special_JJ grant_NN of_IN Rs_NNP ._.
+29,765_CD for_IN sheds_NNS ,_, hospital_NN necessaries_NNS ,_, food_NN and_CC servants_NNS ._.
+The_DT additional_JJ accommodation_NN will_MD be_VB for_IN 150_CD head_NN of_IN cattle_NNS ._.
+A_DT special_JJ operating_NN theatre_NN will_MD be_VB constructed_VBN ,_, and_CC a_DT suitable_JJ water-supply_NN will_MD be_VB laid_VBN on_IN ._.
+The_DT new_JJ buildings_NNS are_VBP under_IN construction_NN in_IN the_DT Annexe_NNP ._.
+This_DT Annexe_NNP has_VBZ hitherto_VBN been_VBN held_VBN on_IN a_DT 15-year_JJ lease_NN ,_, but_CC steps_NNS are_VBP being_VBG taken_VBN to_TO acquire_VB it_PRP ._.
+FINANCIAL_NNP ._.
+10_CD ._.
+The_DT fees_NNS for_IN the_DT treatment_NN ,_, shoeing_NN ,_, &_CC c._NN ,_, amount_NN to_TO Rs_NNP ._.
+8,890-12-4_JJ against_IN Rs_NNP ._.
+11,621-12-9_JJ in_IN 1901-1902_JJ ._.
+They_PRP would_MD have_VB amounted_VBN to_TO Rs_NNP ._.
+8,957-2-4_JJ ,_, had_VBD the_DT fees_NNS for_IN Government_NNP animals_NNS been_VBN charged_VBN ._.
+The_DT cost_NN of_IN feeding_VBG the_DT patients_NNS was_VBD Rs_NNP ._.
+15,636-15-2_JJ ,_, against_IN Rs_NNP ._.
+7,889-8-8_JJ in_IN 1901-1902_JJ ._.
+The_DT decrease_NN in_IN fees_NNS and_CC the_DT increase_NN in_IN cost_NN of_IN feeding_NN was_VBD owing_VBG to_TO a_DT larger_JJR number_NN of_IN animals_NNS (_( chiefly_JJ horses_NNS and_CC cattle_NNS )_) being_VBG admitted_VBN at_IN lower_JJR rates_NNS ._.
+11_CD ._.
+The_DT statement_NN showing_VBG the_DT Provincial_JJ cost_NN of_IN the_DT department_NN is_VBZ appended_VBN (_( Table_NNP XVIII_NNP )_) ._.
+OUTSTANDING_NN ACCOUNTS_NNP ._.
+12_CD ._.
+Of_IN the_DT sum_NN of_IN Rs_NNP ._.
+54-14_JJ shown_VBN in_IN the_DT reports_NNS of_IN the_DT two_CD preceding_VBG years_NNS as_IN due_JJ from_IN two_CD old_JJ defaulters_NNS ,_, Rs_NNP ._.
+15_CD were_VBD realised_VBN during_IN the_DT year_NN ,_, and_CC ._.
+the_DT balance_NN ,_, Rs_NNP ._.
+39-14_CD ,_, being_VBG irrecoverable_JJ ,_, has_VBZ been_VBN written_VBN off_RP with_IN the_DT sanction_NN of_IN Government_NNP ._.
+The_DT fees_NNS due_JJ for_IN the_DT year_NN under_IN report_NN amount_NN to_TO Rs_NNP ._.
+150-2-0_JJ ._.
+But_CC ,_, as_IN more_JJR than_IN half_PDT this_DT amount_NN is_VBZ due_JJ from_IN the_DT Calcutta_NNP and_CC Cossipore-Chitpur_NNP Municipalities_NNP ,_, the_DT outstanding_JJ amount_NN is_VBZ expected_VBN to_TO be_VB shortly_RB recovered_VBN ._.
+THE_DT HOSTEL_NNP ._.
+13_CD ._.
+All_PDT the_DT students_NNS lived_VBD in_IN the_DT hostel_NN and_CC their_PRP$ general_JJ health_NN was_VBD good_JJ ._.
+INSTRUCTION_NNP TO_NNP OTHERS_NNP THAN_NNP VETERINARY_NNP STUDENTS_NNP ._.
+14_CD ._.
+The_DT usual_JJ course_NN of_IN lectures_NNS on_IN Veterinary_NNP hygiene_NN and_CC Cattle_NNP Breeding_NNP and_CC Rearing_NNP was_VBD delivered_VBN to_TO six_CD students_NNS of_IN the_DT Agricultural_NNP class_NN of_IN the_DT Civil_NNP Engineering_NNP College_NNP ._.
+15_CD ._.
+Twenty-nine_JJ petty_NN officers_NNS and_CC drivers_NNS of_IN the_DT Supply_NNP and_CC Transport_NNP Corps_NNP were_VBD instructed_VBN in_IN nursing_VBG sick_JJ animals_NNS ._.
+These_DT men_NNS did_VBD well_RB ,_, TEACHING_NNP STAFF_NNP ._.
+16_CD ._.
+I_PRP have_VBP recommended_VBN ,_, and_CC Government_NNP has_VBZ sanctioned_VBN ,_, a_DT well-deserved_JJ increment_NN of_IN pay_NN to_TO Mr._NNP E._NNP Burke_NNP ,_, Assistant_NNP Principal_NNP ,_, which_WDT will_MD take_VB effect_NN from_IN 1st_CD April_NNP 1903_CD ._.
+One_CD of_IN the_DT lecturers_NNS ,_, Mr._NNP Charles_NNP Engel_NNP ,_, resigned_VBD his_PRP$ appointment_NN in_IN September_NNP ,_, and_CC was_VBD replaced_VBN by_IN the_DT promotion_NN of_IN Mr._NNP D._NNP K._NNP Dey_NNP ,_, who_WP was_VBD 3rd_CD Lecturer_NNP ._.
+Mr._NNP S._NNP K._NNP Mitter_NNP ,_, who_WP was_VBD 1st_CD Veterinary_NNP Inspector_NNP ,_, was_VBD promoted_VBN to_TO 3rd_CD Lectureship_NNP ,_, on_IN probation_NN ._.
+The_DT results_NNS of_IN the_DT examina-_JJ tions_NNS indicate_VBP that_IN these_DT changes_NNS have_VBP been_VBN beneficial_JJ to_TO the_DT College_NNP ._.
+APPENDICES_NNS ._.
+(_( 10_CD )_) TABLE_NN V._NNP PROVINCIAL_NNP ._.
+Showing_VBG the_DT services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN pony_NN stallions_NNS ,_, the_DT property_NN of_IN Courts_NNS of_IN Ward_NNP ,_, during_IN 1902-1903_JJ ._.
+HORSE_NN OR_NNP PONY_NNP ._.
+CLASS_NN ._.
+COURTS_NNS OF_NNP WARD_NNP ._.
+Stallions_NNS on_IN register_NN ._.
+Stallions_NNS actually_RB employed_VBN at_IN stud_NN ._.
+Number_NNP of_IN mares_NNS covered_VBN ._.
+Average_NN of_IN mares_NNS covered_VBN per_IN stallion_NN employed_VBN at_IN stud_NN ._.
+Result_NN of_IN previous_JJ year_NN 's_POS coverings_NNS ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN produce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD Pony_NN ..._: .._JJ Arab_NN ..._: ..._: (_( Myore_NNP )_) 1_CD 1_CD 1_CD ..._: 1_CD ..._: 1_CD 1_CD ..._: ..._: TABLE_NNP VII_NNP ._.
+PROVINCIAL_NNP ._.
+Showing_VBG the_DT services_NNS and_CC produce_NN of_IN each_DT class_NN of_IN donkey_JJ stallions_NNS ,_, the_DT property_NN of_IN Government_NNP ,_, during_IN 1902-1903_JJ ._.
+CLASS_NN OF_NNP DONKEY_NNP STALLION_NNP ._.
+Stallions_NNS on_IN register_NN ._.
+GOVERNMENT_NNP ._.
+DONKEY_NNP STALLI-_NNP ONS_NNP ACTUALLY_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+NUMBER_NNP OF_NNP MARES_NNP COVERED_NNP ._.
+AVERAGE_NN OF_JJ MARES_NNP COVERED_NNP PER_NNP STALLION_NNP EMPLOYED_NNP AT_NNP STUD_NNP ._.
+RESULT_NNP OF_NNP PREVIOUS_NNP YEAR_NNP 'S_POS COVERINGS_NNP ._.
+For_IN mule-breed-_JJ ing_NN ._.
+Pony_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Pony_NNP mares_NNS ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Year_NN under_IN report_NN ._.
+Previous_JJ year_NN ._.
+Number_NNP of_IN mule_JJ pro-_JJ duce_NN ._.
+Number_NNP not_RB held_VBD ._.
+Number_NNP not_RB known_VBN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD Cyprian_JJ 1_CD 1_CD 1_CD 8_CD 3_CD 8_CD 3_CD 3_CD ..._: TABLE_NNP IX_NNP ._.
+PROVINCIAL_NNP ._.
+Showing_VBG the_DT cost_NN of_IN feed_NN ,_, keep_VB ,_, attendants_NNS ,_, &_CC c._NN ,_, of_IN pony_NN stallions_NNS ,_, the_DT property_NN of_IN Courts_NNS of_IN Ward_NNP ,_, during_IN 1902-1903_JJ ._.
+PROVINCE_NNP ._.
+DISTRICT_NNP ._.
+NUMBER_NNP OF_NNP STALLIONS_NNP ._.
+TOTAL_JJ ANNUAL_NNP COST_NNP ._.
+AVERAGE_JJ COST_NNP PER_NNP STALLION_NNP ._.
+Pony_NN ._.
+Pony_NN ._.
+Pony_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Bengal_NNP ..._: Saran_NNP (_( Court_NNP of_IN Ward_NNP ?_. )_)
+..._: 1_CD 241_CD 8_CD 0_CD 241_CD 8_CD 0_CD (_( 11_CD )_) TABLE_NN XII_NN ._.
+PROVINCIAL_NNP ._.
+Showing_VBG the_DT cost_NN of_IN feed_NN ,_, keep_VB ,_, attendants_NNS ,_, &_CC c._NN ,_, of_IN donkey_JJ stallions_NNS ,_, the_DT property_NN of_IN Government_NNP ,_, during_IN 1902-1903_JJ ._.
+PROVINCE_NNP ._.
+District_NNP ._.
+Number_NNP of_IN donkey_JJ stallions_NNS ._.
+Total_JJ annual_JJ cost_NN ._.
+Average_JJ per_IN donkey_NN ._.
+REMARKS_NNP ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Bengal_NNP ..._: Shahabad_NNP (_( Buxar_NNP )_) ..._: 1_CD 202_CD 1_CD 10_CD 202_CD 1_CD 10_CD This_DT includes_VBZ the_DT cost_NN of_IN transfer_NN of_IN the_DT donkey_JJ stallion_NN from_IN Buxar_NNP to_TO Babugarh_NNP ._.
+TABLE_NNP XVIII_NNP ._.
+Statement_JJ showing_VBG Provincial_JJ cost_NN of_IN the_DT Civil_NNP Veterinary_NNP Department_NNP during_IN the_DT official_JJ year_NN 1902-1903_CD ._.
+HEADS_NNP ._.
+Superintendent_NN ,_, Bengal_NNP ._.
+REMARKS_NNP ._.
+1_CD 2_CD 3_CD Rs_NNP ._.
+A._NN p_NN ._.
+I_PRP ._.
+(_( 12_CD )_) TABLE_NN XIX_NN ._.
+PROVINCIAL_NNP ._.
+Showing_VBG number_NN of_IN animals_NNS treated_VBN by_IN Veterinary_JJ Assistants_NNS during_IN the_DT year_NN 1902-1903_RB ._.
+PROVINCE_NNP ._.
+Number_NNP of_IN Veterinary_NNP Dis-_NNP pensaries_NNS ._.
+Number_NNP of_IN Veterinary_NNP Assist-_NNP ants_NNS employed_VBN at_IN dispen-_JJ saries_NNS ._.
+IN-PATIENTS_NNS ._.
+OUT-PATIENTS_NN ._.
+Remaining_VBG on_IN 1st_CD April_NNP ._.
+Admitted_VBN during_IN the_DT year_NN ._.
+Total_NN ._.
+Discharged_VBN during_IN the_DT year_NN ._.
+Balance_NN on_IN 31st_CD March_NNP ._.
+Number_NNP of_IN cases_NNS treated_VBN during_IN the_DT year_NN ._.
+Average_JJ daily_JJ attendance_NN ._.
+Horses_NNS and_CC ponies_NNS ._.
+Cattle_NNP ._.
+Other_JJ animals_NNS ._.
+Horses_NNS and_CC ponies_NNS ._.
+Cattle_NNP ._.
+Other_JJ animals_NNS ._.
+Horses_NNS and_CC ponies_NNS ._.
+Cattle_NNP ._.
+Other_JJ animals_NNS ._.
+Horses_NNS and_CC ponies_NNS ._.
+Cattle_NNP ._.
+Other_JJ animals_NNS ._.
+Horses_NNS and_CC ponies_NNS ._.
+Cattle_NNP ._.
+Other_JJ animals_NNS ._.
+|_JJ Horses_NNP and_CC ponies_NNS ._.
+Cattle_NNP ._.
+Other_JJ animals_NNS ._.
+Horses_NNS and_CC ponies_NNS ._.
+Cattle_NNP ._.
+Other_JJ animals_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD 24_CD Bengal_NNP (_( 13_CD )_) TABLE_NN XX_NN ._.
+PROVINCIAL_NNP ._.
+Showing_VBG districts_NNS where_WRB outbreaks_NNS of_IN cattle_NNS disease_NN occurred_VBD during_IN 1902-1903_CD ._.
+Province_NN ._.
+DISTRICT_NNP ._.
+RINDERPEST_NN ._.
+Anthrax_NNP FOOT-AND-MOUTH_NNP DISEASE_NNP ._.
+PLEURO-_NNP PNEUMONIA_NNP ._.
+CHARBON_NNP SYMPTOMATIQUE_NNP ._.
+OTHER_NNP DISEASES_NNP ._.
+TOTAL_NN ._.
+Number_NNP at-_JJ tacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP at-_JJ tacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP at-_JJ tacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP at-_JJ tacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP at-_JJ tacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP at-_JJ tacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+Number_NNP attacked_VBD ._.
+Number_NNP died_VBD ._.
+Percentage_NN of_IN deaths_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD 23_CD Burdwan_NNP ..._: 25_CD 23_CD 92_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 52_CD 38_CD 73.84_CD 77_CD 61_CD 79.22_CD Birbhum_NNP ..._: 1,501_CD 638_CD 42.50_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1501_CD 638_CD 42.50_CD Bankura_NNP ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Midnapore_NN ..._: 66_CD 14_CD 21.21_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 27_CD l5_VBD 55.55_CD 93_CD 29_CD 31.18_CD Hooghly_NNP ..._: 36_CD 26_CD 7222_CD ..._: ..._: ._. ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 12_CD 11_CD 91.66_CD 48_CD 37_CD 77.08_CD Howrah_NNP ..._: 24-Parganas_JJ ..._: 427_CD 325_CD 76.11_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 6_CD 2_CD 33.33_CD ``_`` 433_CD ``_`` 327_CD 75.51_CD Nadia_NNP ..._: 922_CD 285_CD 30.91_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ._. ..._: ..._: ..._: ..._: ..._: 922_CD 285_CD 30.91_CD Murshidabad_NNP ..._: 17_CD 5_CD 29.41_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 29_CD 9_CD 31.03_CD 46_CD 14_CD 30.43_CD Jessore_NN ..._: 1,624_CD 1,484_CD 91.38_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 54_CD 42_CD 77.77_CD 1,678_CD 1,526_CD 90.94_CD Khulna_NNP ..._: 4,386_CD 4,149_CD 94.59_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 184_CD 162_CD 88.04_CD 4,570_CD 4,311_CD 94.33_CD Rajshahi_NNP ..._: 58_CD 36_CD 62.06_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 58_CD 36_CD 62.06_CD Dinajpur_NNP ..._: 765_CD 513_CD 67.05_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 61_CD 37_CD 60.65_CD 82C_CD 550_CD 66.58_CD Jalpaiguri_NNP ..._: 115_CD 66_CD 57.39_CD ..._: ..._: ..._: 113_CD 50_CD 44.24_CD ..._: ..._: ..._: ..._: ..._: ..._: 368_CD 30_CD 8.15_CD 590_CD 146_CD 24.49_CD Darjeeling_NN ..._: 143_CD 129_CD 90.20_CD ..._: ..._: ..._: 138_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 58_CD 1_CD 1.72_CD 339_CD 130_CD 38.34_CD Rangpur_NNP ..._: 606_CD 460_CD 75.90_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 63_CD 37_CD 58.73_CD 669_CD 497_CD 74.28_CD Bogia_NNP ..._: 51_CD 24_CD 47.06_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 51_CD 24_CD 47.05_CD Pabna_NNP ..._: 15_CD 2_CD 13.33_CD ..._: ..._: :_: :_: :_: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 36_CD 32_CD 88.88_CD 51_CD 34_CD 66.66_CD Dacca_NNP ..._: 32_CD 26_CD 81.25_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: .._NN ..._: ..._: ..._: 32_CD 26_CD 81.25_CD Mymensingh_NNP ..._: 64_CD 50_CD 78.12_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 30_CD ``_`` 30_CD 100_CD 94_CD 80_CD 85.10_CD Faridpur_NNP ..._: 271_CD 186_CD 68'63_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ._. ..._: ..._: 11_CD 11_CD 100_CD 282_CD 197_CD 69.85_CD Packergunge_NN ..._: 4,367_CD 1,836_CD 42.04_CD ..._: ..._: ..._: 182_CD 8_CD 4.89_CD ..._: ..._: ..._: ..._: ..._: 122_CD 89_CD 72.95_CD 4,671_CD 1,933_CD 41.38_CD Tippera_NN ..._: 10_CD 2_CD 20_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 172_CD 129_CD 75_CD 182_CD 131_CD 71.97_CD Neakhali_NNP ..._: 89_CD 32_CD 82.05_CD 23_CD 17_CD 73.91_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 14_CD 12_CD 85.70_CD 76_CD 61_CD 80.26_CD Chittagong_NNPS ..._: 641_CD 539_CD 84.08_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: C41_NNP 539_CD 84.08_CD Patna_NNP ..._: 18_CD 5_CD 27.77_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 29_CD 20_CD 68.96_CD 47_CD 25_CD 53.19_CD Gaya_NNP ..._: 616_CD 77_CD 12.44_CD ..._: ..._: ..._: 3194_CD 16_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: 87_CD 12_CD 13.79_CD 3,897_CD 105_CD 2.06_CD Shahabad_NNP ..._: 189_CD 23_CD 12.16_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 9_CD 9_CD 100_CD 198_CD 32_CD 16.16_CD Saran_NN ..._: 19_CD 4_CD 21.05_CD 16_CD 11_CD 68.75_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 12_CD 1_CD 8.33_CD 47_CD 16_CD 34.04_CD Champaran_NNP ..._: 448_CD 115_CD 25.66_CD 167_CD 122_CD 73.05_CD 7_CD 5_CD 71.42_CD ..._: ..._: ..._: ..._: ..._: ..._: 35_CD 16_CD 45.71_CD 657_CD 258_CD 39.26_CD Muzaffarpur_NNP ..._: 31_CD 19_CD 61.29_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 31_CD 19_CD 61.29_CD Darbhanga_NNP ..._: 801_CD 473_CD 59.05_CD 122_CD 72_CD 59.01_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 180_CD 114_CD 63.33_CD 1,103_CD 659_CD 59.74_CD Mongbyr_NNP ..._: 569_CD 120_CD 21.08_CD ..._: ..._: ..._: 24_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 15_CD 8_CD 53.33_CD 608_CD 128_CD 21.05_CD Bhagalpur_NNP ..._: 48_CD 14_CD 29.16_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 48_CD 14_CD 29.16_CD Purnea_NN ..._: 72_CD 52_CD 72.22_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 13_CD 8_CD 61.53_CD 85_CD 60_CD 70.58_CD Malda_NN ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: Senthal_NNP Parganas_NNP 780_CD 264_CD 33.84_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ``_`` 47_CD ``_`` 16_CD 34.04_CD ``_`` 827_CD 280_CD 33.85_CD Cuttack_NN ..._: 47_CD 47_CD 10c_CD ..._: ..._: ..._: 386_CD 110_CD 28.49_CD ..._: ..._: ..._: ..._: ..._: ..._: 507_CD 138_CD 27.21_CD 940_CD 29E_CD 31.42_CD Balasore_NN ..._: 479_CD 374_CD 78.07_CD ..._: ..._: ..._: 137_CD 16_CD 11.67_CD ..._: ..._: ..._: ..._: ..._: ..._: 11_CD ..._: ..._: 627_CD 390_CD 62.20_CD Angul_NNP ..._: Puri_NNP ..._: 172_CD 56_CD 32.56_CD ..._: ..._: ..._: 1,546_CD 6_CD .39_NN ..._: ..._: ..._: ..._: ..._: ..._: 2,201_CD 85_CD 3.86_CD 3,919_CD 147_CD 3.75_CD Hazaribagh_NNP ..._: 134_CD 70_CD 52.23_CD 13_CD 8_CD 61.53_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 161_CD ``_`` 82_CD 50.93_CD ``_`` 308_CD 160_CD 51.94_CD Ranchi_NNP ..._: 97_CD 12_CD 12.37_CD 385_CD 136_CD 35.2_CD 1,065_CD 158_CD 14.83_CD ..._: :_: :_: ._.
+..._: ..._: ..._: ..._: 349_CD 75_CD 21.48_CD 1,896_CD 38_CD 20.09_CD Palamau_NNP ..._: 5,565_CD 1,406_CD 25.26_CD ..._: ..._: ..._: 1,644_CD 98_CD 596_CD ..._: ..._: ..._: ..._: ..._: ..._: 355_CD 73_CD 20.56_CD 7,564_CD 1,57_CD 7_CD 20.84_CD Manbhum_NNP ..._: 236_CD 103_CD 43.64_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 165_CD 105_CD 63.63_CD 401_CD 20_CD 3_CD 51.87_CD Singhbhum_NNP ..._: 1_CD ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: ..._: 1_CD ..._: ..._: Total_JJ 26,503_CD 14,084_CD 53.14_CD 726_CD 366_CD 50.41_CD 8,436_CD 467_CD 5.53_CD ..._: ..._: ..._: ..._: ..._: ..._: 5,475_CD 1,449_CD 26.46_CD 41,140_CD 10,36_CD 6_CD 39.78_CD Total_NN for_IN 1901-1902_JJ 32,591_CD 17,405_CD 53.40_CD 853_CD 497_CD 58.26_CD 4,150_CD 922_CD 22.21_CD 11_CD 11_CD 100_CD ..._: ..._: ..._: 4,736_CD 1,843_CD J_NNP 38.90_CD 42,341_CD 20,67_CD 8_CD 48.83_CD (_( 14_CD )_) TABLE_NN XXI_NN ._.
+PROVINCIAL_NNP ._.
+Showing_VBG the_DT number_NN of_IN animals_NNS treated_VBN by_IN Veterinary_JJ Assistants_NNS in_IN villages_NNS during_IN the_DT year_NN 1902-1903_RB ._.
+PROVINCE_NNP ._.
+Number_NNP of_IN villages_NNS visited_VBN ._.
+Number_NNP of_IN Veterinary_NNP assis-_JJ tants_NNS employed_VBN ._.
+NUMBER_NNP OF_NNP ANIMALS_NNP TREATED_NNP AND_NNP CLASSED_NNP ACCORDING_NNP TO_NNP PRINCIPAL_NNP DISEASES_NNP ._.
+Total_NN ._.
+REMARKS_NNP ._.
+Horses_NNS and_CC ponies_NNS ._.
+Cattle_NNP ._.
+Other_JJ animals_NNS ._.
+Glanders_NNS ._.
+Anthrax_NNP ._.
+Surra_NNP ._.
+Other_JJ diseases_NNS ._.
+Rinderpest_NNP ._.
+foot-and-mouth_JJ disease_NN ._.
+Anthrax_NNP ._.
+Other_JJ diseases_NNS ._.
+Rinderpest_NNP ._.
+Foot-and-mouth_JJ disease_NN ._.
+Rabies_NNS ._.
+Other_JJ diseases_NNS ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD Bengal_NNP (_( 15_CD )_) TABLE_NN XXIV_NN ._.
+PROVINCIAL_NNP ._.
+Showing_VBG total_JJ strength_NN of_IN Subordinate_NNP Veterinary_NNP Staff_NNP ,_, employed_VBN in_IN the_DT Civil_NNP Veterinary_NNP Department_NNP ,_, Bengal_NNP ,_, during_IN 1902-1903_JJ ._.
+Province_NN ._.
+Paid_VBN from_IN Pro-_NNP vincial_NN ,_, or_CC Dis-_NNP trict_JJ Funds_NNS ._.
+Number_NNP of_IN Veterinary_NNP In-_NNP spectors_NNS ._.
+NUMBER_NNP OF_NNP VeTERINARY_NNP ASSISTANTS_NNP ._.
+Grand_NNP total_NN ._.
+REMARKS_NNP ._.
+Employed_VBN in_IN Veteri-_NNP nary_JJ dispensaries_NNS ._.
+Employed_VBN in_IN work_NN connected_VBN with_IN cat-_JJ tle_NN breeding_NN and_CC cattle_JJ diseases_NNS ._.
+Total_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD Bengal_NNP ..._:
+Provincial_NNP ..._: 2_CD ..._: 7_CD 7_CD 9_CD District_NNP ..._: ..._: 15_CD 13_CD 28_CD 28_CD 15_CD 20_CD 35_CD 37_CD Raj_NNP Funds_NNS ..._: ..._: 3_CD ..._: 3_CD 3_CD Local_JJ Society_NNP or_CC Committee_NNP Funds_NNS ..._: ..._: 2_CD 1_CD 3_CD 3_CD Total_NN ..._: 2_CD 20_CD 21_CD 41_CD 43_CD *_IN The_DT Provincial_JJ Government_NNP also_RB contributes_VBZ towards_IN the_DT pay_NN and_CC allowances_NNS of_IN some_DT of_IN these_DT Veterinary_NNP Assistants_NNS ._.
+TABLE_NNP XXV_NNP ._.
+PROVINCIAL_NNP REPORT_NNP ._.
+Showing_VBG the_DT main_JJ results_NNS of_IN the_DT Bengal_NNP Veterinary_NNP College_NNP during_IN the_DT year_NN 1902-1903_RB ._.
+VETERINARY_NNP COLLEGES_NNP AND_NNP SCHOOLS_NNP ._.
+Name_NN of_IN course_NN of_IN instruction_NN ,_, if_IN more_JJR than_IN one_CD course_NN followed_VBD ._.
+NUMBER_NNP OF_NNP STUDENTS_NNP ._.
+STUDENTS_NNS AD-_JJ MITTED_NNP DURING_NNP THE_NNP YEAR_NNP CLASSED_NNP BY_NNP EDUCATIONAL_NNP QUALIFICATIONS_NNP ._.
+RECEIPTS_NNP ._.
+EXPENDITURE_NNP ._.
+EMPLOYMENT_NNP OF_NNP STUD-_NNP ENTS_NNP WHO_NNP PASSED_VBD OUT_NNP DURING_NNP THE_NNP THREE_NNP YEARS_NNP PRECEDING_NNP ._.
+REMARKS_NNP ._.
+Admitted_VBN during_IN year_NN ._.
+Passed_VBN out_RP during_IN the_DT year_NN ._.
+Failed_VBN to_TO pass_VB out_RP ._.
+Remaining_VBG under_IN ins-_JJ truction_NN at_IN end_NN of_IN year_NN ._.
+Scholarship_NNP holders_NNS ._.
+Paying_VBG students_NNS ._.
+In_IN ordinary_JJ course_NN ._.
+Instruction_NN prolonged_VBN by_IN reason_NN of_IN failure_NN to_TO pass_NN ._.
+Matriculates_NNS or_CC with_IN higher_JJR qualifications_NNS ._.
+Knowing_VBG some_DT English_NNP but_CC not_RB matriculated_VBN ._.
+Knowing_VBG no_DT English_NNP or_CC very_RB little_JJ English_NNP ._.
+From_IN fees_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Instructing_VBG stall_NN and_CC their_PRP$ salaries_NNS ._.
+Others_NNS ._.
+Total_NN ._.
+Total_JJ number_NN passed_VBN ._.
+Number_NNP employed_VBN ._.
+In_IN service_NN of_IN Govern-_NNP ment_NN or_CC Local_JJ Boards_NNS ._.
+In_IN service_NN of_IN other_JJ local_JJ committees_NNS or_CC institutions_NNS ._.
+In_IN private_JJ practice_NN ._.
+Unemployed_VBN in_IN veter-_JJ inary_JJ work_NN ._.
+1_CD 2_CD 3_CD 4_CD 5_CD 6_CD 7_CD 8_CD 9_CD 10_CD 11_CD 12_CD 13_CD 14_CD 15_CD 16_CD 17_CD 18_CD 19_CD 20_CD 21_CD 22_CD No_NN ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+No_DT ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NN P._NNP Rs_NNP ._.
+A._NNP P._NNP No_NNP ._.
+No_DT ._.
+No_DT No_NNP ._.
+No_DT ._.
+Veterinary_NNP College_NNP ,_, Bengal_NNP ._.
+Three_CD years_NNS '_POS course_NN in_IN English_NNP ,_, 16_CD Nil_NNP 8_CD Nil_NNP 22+_CD 1_CD 2_CD 14_CD Nil_NNP ..._: 9,638_CD 15_CD 5_CD 1,741_CD 2_CD 11_CD 11,380_CD 2_CD 4_CD 37_CD 31_CD 4*_CD 2_CD Nil_NNP Details_NNP ._.
+Details_NNS ._.
+1_CD Assistant_JJ Prin-_NNP cipal_NN 's_POS salary_NN (_( 16_CD )_) A_DT ._.
+Statement_JJ showing_VBG the_DT number_NN of_IN cases_NNS treated_VBN at_IN the_DT Bengal_NNP Veterinary_NNP College_NNP Hospital_NNP during_IN the_DT year_NN 1902-1903_RB ._.
+Serial_JJ number_NN ._.
+DISEASE_NNP ._.
+IN-PATIENTSREVENUE_NNP DEPARTMENT_NNP ._.
+AGRICULTURE_NNP ._.
+CALCUTTA_NNP ,_, THE_NNP 8TH_CD AUGUST_NNP ,_, 1903_CD ._.
+RESOLUTION_NNP (_( 2_CD )_) between_IN the_DT operators_NNS and_CC the_DT owners_NNS of_IN the_DT cattle_NNS immunised_VBD ._.
+Instruction_NN in_IN rinderpest_JJ inoculation_NN was_VBD given_VBN during_IN the_DT year_NN at_IN Muktesar_NNP to_TO 23_CD Veterinary_JJ Assistants_NNS ,_, who_WP were_VBD all_DT passed_VBN by_IN the_DT Imperial_NNP Bacteriologist_NNP as_IN duly_RB qualified_VBN ._.
+5_CD ._.
+Improvement_NN of_IN Stock.ANNUAL_NNP REPORT_NNP OF_IN THE_NNP CIVIL_NNP VETERINARY_NNP DEPARTMENT_NNP ,_, BENGAL_NNP ,_, AND_NNP OF_IN THE_NNP BENGAL_NNP VETERINARY_NNP COLLEGE_NNP ,_, FOR_IN THE_DT YEAR_NNP 1902-1903_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ CALCUTTA_NNP :_: PRINTED_NN AT_IN THE_NNP BENGAL_NNP SECRETARIAT_NNP PRESS_NNP ._.
+1903_CD ._.
+[_JJ Price_NNP

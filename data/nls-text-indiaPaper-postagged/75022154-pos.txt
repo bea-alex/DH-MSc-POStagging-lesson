@@ -1,0 +1,272 @@
+IP/QB.10_NNP No_NNP ._.
+I_PRP ._.
+(_( NEW_JJ SERIES_NNP ._. )_)
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+STANDARDISATION_NN OF_NNP CALMETTE_NNP 'S_POS ANTI-VENOMOUS_JJ SERUM_NNP WITH_NNP PURE_NNP COBRA_NNP VENOM_NNP :_: THE_DT DETERIORATION_NNP OF_IN THIS_NNP SERUM_NNP THROUGH_NNP KEEPING_NNP IN_NNP INDIA_NNP ._.
+BY_NNP G._NNP LAMB_NNP ,_, M.B._NNP ,_, CAPTAIN_NNP ,_, I.M.S._NNP ,_, AND_NNP WM_NNP ._.
+HANNA_NNP ,_, ESQ._NNP ,_, M.B._NNP ,_, ETC_NNP ._.
+(_( FROM_IN THE_NNP PLAGUE_NNP RESEARCH_NNP LABORATORY_NNP ,_, BOMBAY_NNP ._. )_)
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75022196.tif_CD ]_JJ CALCUTTA_NNP :_: OFFICE_NN OF_IN THE_NNP SUPERINTENDENT_NNP OF_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ._.
+1902_CD ._.
+Price_NN 3_CD annas_NN or_CC 4d_CD ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75022196.tif_CD ]_JJ No_NNP ._.
+1_CD ._.
+(_( NEW_JJ SERIES_NNP ._. )_)
+SCIENTIFIC_NNP MEMOIRS_NNP BY_NNP OFFICERS_NNP OF_IN THE_NNP MEDICAL_NNP AND_NNP SANITARY_NNP DEPARTMENTS_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ._.
+STANDARDISATION_NN OF_NNP CALMETTE_NNP 'S_POS ANTI-VENOMOUS_JJ SERUM_NNP WITH_NNP ,_, PURE_NNP COBRA_NNP VENOM_NNP :_: THE_DT DETERIORATION_NNP OF_IN THIS_NNP SERUM_NNP THROUGH_NNP KEEPING_NNP IN_NNP INDIA_NNP ._.
+BY_NNP G._NNP LAMB_NNP ,_, M.B._NNP ,_, CAPTAIN_NNP ,_, I.M.S._NNP ,_, AND_NNP WM_NNP ._.
+HANNA_NNP ,_, ESQ._NNP ,_, M.B._NNP ,_, ETC_NNP ._.
+(_( FROM_IN THE_NNP PLAGUE_NNP RESEARCH_NNP LABORATORY_NNP ,_, BOMBAY_NNP ._. )_)
+ISSUED_NNP UNDER_NNP THE_NNP AUTHORITY_NNP OF_IN THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP BY_NNP THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ,_, SIMLA_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN 75022211.tif_CD ]_JJ CALCUTTA_NNP :_: OFFICE_NN OF_IN THE_NNP SUPERINTENDENT_NNP OF_NNP GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ._.
+1902_CD ._.
+IN_NN 1884_CD ,_, the_DT publication_NN of_IN the_DT Scientific_NNP Memoirs_NNP by_IN Medical_NNP Officers_NNP of_IN the_DT Army_NNP of_IN India_NNP was_VBD begun_VBN ._.
+The_DT series_NN was_VBD intended_VBN to_TO furnish_VB a_DT convenient_NN medium_NN for_IN the_DT circula-_JJ tionof_NN selected_VBN original_JJ papers_NNS on_IN scientific_JJ subjects_NNS ,_, which_WDT it_PRP had_VBD been_VBN the_DT custom_NN to_TO include_VB in_IN the_DT Annual_NNP Report_NNP of_IN the_DT Sanitary_NNP Commissioner_NNP with_IN the_DT Government_NNP of_IN India_NNP ._.
+Twelve_NNP parts_NNS of_IN the_DT Scientific_NNP Memoirs_NNP have_VBP been_VBN published_VBN ,_, the_DT last_JJ in_IN 1901_CD ._.
+The_DT collection_NN of_IN scientific_JJ papers_NNS in_IN a_DT volume_NN ,_, appearing_VBG periodically_RB at_IN considerable_JJ intervals_NNS of_IN time_NN ,_, presents_VBZ a_DT serious_JJ disadvantage_NN ,_, since_IN considerable_JJ delay_NN may_MD occur_VB between_IN the_DT publication_NN of_IN some_DT of_IN the_DT papers_NNS and_CC the_DT completion_NN of_IN the_DT work_NN which_WDT they_PRP describe_VBP ._.
+To_TO obviate_VB this_DT ,_, it_PRP has_VBZ been_VBN decided_VBN that_IN in_IN future_JJ the_DT papers_NNS will_MD be_VB published_VBN as_RB soon_RB as_IN possible_JJ after_IN they_PRP are_VBP received_VBN ;_: and_CC the_DT opportunity_NN afforded_VBN by_IN this_DT change_NN is_VBZ taken_VBN to_TO modify_VB the_DT title_NN of_IN the_DT series_NN ,_, so_IN that_DT original_JJ papers_NNS on_IN scientific_JJ subjects_NNS by_IN all_DT officers_NNS of_IN the_DT Medical_NNP and_CC Sanitary_NNP Departments_NNP of_IN the_DT Government_NNP of_IN India_NNP may_MD be_VB included_VBN ._.
+B._NNP FRANKLIN_NNP ,_, Surgeon-General_NNP ,_, I.M.S._NNP OFFICE_NNP OF_IN THE_NNP SANITARY_NNP COMMISSIONER_NNP WITH_NNP THE_NNP GOVERNMENT_NNP OF_NNP INDIA_NNP ;_: Simla_NNP ,_, June_NNP 30_CD ,_, 1902_CD ._.
+STANDARDISATION_NN OF_NNP CALMETTE_NNP 'S_POS ANTI-VENOMOUS_JJ SERUM_NNP WITH_NNP PURE_NNP COBRA_NNP VENOM_NNP :_: The_DT Deterioration_NN of_IN this_DT Serum_NNP through_IN keeping_VBG in_IN India_NNP ._.
+THE_DT standardisation_NN of_IN an_DT anti-venomous_JJ serum_NN is_VBZ of_IN great_JJ practical_JJ as_RB well_RB as_IN theoretical_JJ importance_NN ._.
+It_PRP is_VBZ the_DT practical_JJ side_NN of_IN the_DT question_NN to_TO which_WDT we_PRP propose_VBP to_TO confine_VB our-_JJ selves_NNS in_IN this_DT paper_NN ._.
+The_DT snake_NN venom_NN which_WDT M._NNP Calmette_NNP 1_CD employs_NN ,_, both_DT for_IN the_DT purpose_NN of_IN the_DT immunisation_NN of_IN his_PRP$ horses_NNS and_CC for_IN the_DT purpose_NN of_IN the_DT standardisation_NN of_IN the_DT serum_NN recovered_VBD from_IN those_DT immune_JJ horses_NNS ,_, is_VBZ a_DT mixture_NN of_IN colubrine_NN and_CC viperine_NN poisons_NNS ,_, the_DT former_JJ making_NN up_RP about_RB 80_CD per_IN cent_NN ._.
+of_IN the_DT mixture_NN ._.
+A_DT solution_NN of_IN this_DT mixture_NN is_VBZ heated_VBN at_IN about_RB 73°_CD C._NNP for_IN half_PDT an_DT hour_NN and_CC then_RB filtered_VBD ._.
+It_PRP is_VBZ this_DT mixed_JJ and_CC heated_VBD poison_NN which_WDT is_VBZ employed_VBN at_IN Lille_NNP for_IN both_DT the_DT purposes_NNS above_IN mentioned_VBN ._.
+Myers_NNS 2_CD has_VBZ correctly_RB pointed_VBN out_RP that_IN as_IN we_PRP have_VBP in_IN all_DT cases_NNS clinically_RB to_TO deal_VB with_IN intoxication_NN by_IN a_DT pure_NN venom_NN ,_, either_DT colubrine_NN or_CC viperine_NN ,_, and_CC also_RB by_IN an_DT unheated_JJ venom_NN ,_, it_PRP is_VBZ preferable_JJ ,_, if_IN the_DT true_JJ value_NN of_IN this_DT serum_NN as_IN a_DT curative_JJ agent_NN against_IN snake-bite_JJ is_VBZ to_TO be_VB determined_VBN ,_, to_TO use_VB a_DT pure_NN unheated_JJ poison_NN for_IN its_PRP$ standardisation_NN ._.
+The_DT object_JJ then_RB of_IN our_PRP$ investigation_NN was_VBD to_TO ascertain_VB ,_, as_RB exactly_RB as_IN possible_JJ ,_, the_DT neutralising_VBG power_NN of_IN Calmette_NNP 's_POS anti-venomous_JJ serum_NN when_WRB tested_VBN with_IN pure_NN ,_, fresh_JJ and_CC carefully_RB dried_VBN cobra_NN poison_NN ._.
+Further_RB ,_, in_IN con-_JJ sequence_NN of_IN the_DT observations_NNS made_VBN by_IN us_PRP in_IN a_DT recent_JJ case_NN of_IN cobra_NN intoxication,3*_NN we_PRP have_VBP extended_VBN our_PRP$ investigations_NNS so_RB as_IN to_TO ascertain_VB if_IN any_DT deterioration_NN of_IN the_DT serum_NN takes_VBZ place_NN through_IN keeping_VBG in_IN this_DT country_NN ._.
+In_IN another_DT communication_NN we_PRP hope_VBP to_TO be_VB able_JJ to_TO record_VB the_DT results_NNS of_IN similar_JJ experiments_NNS made_VBN with_IN the_DT venom_NN of_IN Russell_NNP 's_POS Viper_NNP (_( Daboia_NNP Russellii_NNP )_) ._.
+The_DT method_NN of_IN standardisation_NN of_IN the_DT anti-venomous_JJ serum_NN which_WDT we_PRP adopted_VBD in_IN our_PRP$ experiments_NNS was_VBD the_DT method_NN now_RB recognised_VBN as_IN giving_VBG the_DT most_RBS accurate_JJ results_NNS ._.
+It_PRP is_VBZ based_VBN on_IN the_DT almost_RB generally_RB acknowledged_VBN fact_NN ,_, that_WDT snake_VBP poison_NN toxin_NN and_CC its_PRP$ anti-toxin_JJ interact_NN directly_RB ,_, and_CC that_IN this_DT neutralisation_NN is_VBZ ,_, so_RB far_RB as_IN our_PRP$ knowledge_NN goes_VBZ ,_, independent_JJ of_IN vital_JJ activity_NN ._.
+The_DT evolution_NN of_IN this_DT method_NN is_VBZ ,_, briefly_NN stated_VBD ,_, as_IN follows_VBZ ._.
+The_DT method_NN which_WDT M._NNP Calmette4_NNP recommends_NNS and_CC still_RB practises_VBZ is_VBZ the_DT following_JJ :2_NNP heated_VBD )_) ,_, which_WDT will_MD kill_VB a_DT rabbit_NN of_IN 2_CD kilos_NNS in_IN weight_NN in_IN from_IN 15_CD to_TO 20_CD minutes_NNS when_WRB injected_VBN into_IN the_DT marginal_JJ vein_NN of_IN the_DT ear_NN ,_, is_VBZ determined_VBN ;_: then_RB the_DT minimum_JJ amount_NN of_IN serum_NN ,_, which_WDT will_MD prevent_VB death_NN when_WRB injected_VBN intravenously_RB five_CD minutes_NNS before_IN this_DT dose_NN ,_, is_VBZ ascertained_VBN :_: this_DT is_VBZ done_VBN by_IN experimenting_VBG with_IN varying_VBG quantities_NNS of_IN serum_NN ._.
+If_IN one_CD cubic_JJ centimetre_NN is_VBZ able_JJ to_TO accomplish_VB this_DT ,_, M._NNP Calmette_NNP says_VBZ that_IN the_DT serum_NN contains_VBZ 2,000_CD immunity_NN units_NNS per_IN cubic_JJ centi-_JJ metre_NN or_CC 20,000_CD per_IN 10_CD cubic_JJ centimetres_NNS ._.
+Martin_NNP of_IN Melbourne_NNP 5_CD was_VBD the_DT first_JJ to_TO use_VB the_DT method_NN of_IN mixing_VBG the_DT venom_NN and_CC serum_NN in_IN vitro_NN before_IN injection_NN ._.
+In_IN some_DT early_JJ experiments_NNS with_IN the_DT poison_NN of_IN the_DT Australian_JJ tiger_NN snake_NN (_( Hoplocephalus_NNP curtus_NN )_) he_PRP used_VBD only_RB a_DT single_JJ lethal_NN dose_NN in_IN estimating_VBG the_DT curative_JJ value_NN of_IN Calmette_NNP 's_POS serum_NN ._.
+However_RB ,_, in_IN some_DT later_JJ researches_NNS he_PRP recognised_VBD that_IN this_DT method_NN was_VBD fallacious_JJ ,_, inasmuch_JJ as_IN if_IN the_DT amount_NN of_IN serum_NN was_VBD able_JJ to_TO neutralise_VB even_RB a_DT mere_JJ fraction_NN of_IN the_DT single_JJ lethal_NN dose_VBD the_DT animal_NN would_MD recover_VB ,_, even_RB though_IN the_DT larger_JJR part_NN of_IN the_DT poison_NN remained_VBD unneutralised_JJ ._.
+He_PRP therefore_RB recommended_VBD the_DT employment_NN of_IN at_IN least_JJS ten_JJ lethal_JJ doses_NNS ._.
+Along_IN with_IN one_CD of_IN us_PRP ,_, Major_NNP D._NNP Semple_NNP ,_, R.A.M.C.,6_NNP has_VBZ pointed_VBN out_RP that_IN the_DT following_JJ objections_NNS could_MD be_VB taken_VBN to_TO Calmette_NNP 's_POS method:3_NN Calmette_NNP '_POS method_NN as_IN unscientific_JJ ,_, in_IN as_RB much_JJ as_IN by_IN injecting_VBG the_DT serum_NN before_IN the_DT venom_NN the_DT completion_NN of_IN the_DT reaction_NN between_IN these_DT two_CD bodies_NNS does_VBZ not_RB take_VB place_NN before_IN they_PRP enter_VBP the_DT blood_NN stream_NN ._.
+He_PRP showed_VBD that_IN much_RB more_JJR accurate_JJ results_NNS are_VBP attained_VBN when_WRB the_DT poison_NN and_CC serum_NN are_VBP mixed_VBN in_IN vitro_NN than_IN by_IN Calmette_NNP 's_POS method_NN ._.
+Finally_RB ,_, he_PRP recognised_VBD the_DT necessity_NN of_IN using_VBG as_IN the_DT test_NN dose_VBD a_DT multiple_NN ,_, and_CC ,_, if_IN possible_JJ ,_, a_DT large_JJ multiple_NN of_IN the_DT minimum_JJ lethal_NN dose_NN ._.
+In_IN the_DT series_NN of_IN experiments_NNS which_WDT we_PRP have_VBP now_RB to_TO present_VB ,_, these_DT various_JJ points_NNS were_VBD kept_VBN carefully_RB in_IN view_NN ._.
+We_PRP may_MD preface_VB the_DT protocols_NNS by_IN giving_VBG a_DT short_JJ account_NN of_IN the_DT method_NN employed_VBD and_CC of_IN the_DT general_JJ results_NNS obtained_VBD ._.
+The_DT animals_NNS we_PRP used_VBD were_VBD rats_NNS from_IN 115_CD to_TO 120_CD grammes_NNS in_IN weight_NN ._.
+These_DT animals_NNS fulfil_VBP all_PDT the_DT conditions_NNS indicated_VBN by_IN Myers_NNS ._.
+They_PRP are_VBP cheap_JJ and_CC the_DT supply_NN is_VBZ abundant_JJ ,_, while_IN with_IN care_NN no_DT difficulty_NN is_VBZ experienced_VBN in_IN handling_VBG them_PRP ._.
+At_IN the_DT same_JJ time_NN they_PRP are_VBP extremely_RB susceptible_JJ to_TO cobra_VB poison_NN ,_, as_RB susceptible_JJ as_IN ,_, if_IN not_RB more_RBR so_RB than_IN ,_, any_DT of_IN the_DT other_JJ laboratory_NN animals_NNS ._.
+Thus_RB for_IN a_DT mouse_NN of_IN 15_CD grammes_NNS Myers8_NNP states_VBZ the_DT minimum_JJ lethal_JJ dose_NN of_IN cobra_NN venom_NN to_TO be_VB 0.012_CD mgrm_NN ._.
+or_CC in_IN other_JJ words_NNS 0.8_CD mgrm_NN ._.
+per_IN kilo_NN ._.
+For_IN rabbits_NNS Elliot9_NNP has_VBZ found_VBN that_IN a_DT certain_JJ lethal_JJ dose_NN of_IN pure_NN cobra_NN poison_NN injected_VBD subcutaneously_RB is_VBZ 0.7_CD mgrm_NN ,_, per_IN kilo_NN ._.
+In_IN our_PRP$ experiments_NNS we_PRP found_VBD the_DT minimum_JJ lethal_JJ dose_NN of_IN this_DT poison_NN for_IN a_DT rat_NN of_IN about_IN 120_CD grammes_NNS was_VBD 0.04_CD or_CC at_IN the_DT rate_NN of_IN 0.33_CD mgrm_NN ._.
+per_IN kilo_NN ._.
+Another_DT reason_NN for_IN selecting_VBG rats_NNS was_VBD that_IN horses_NNS '_POS serum_NN ,_, even_RB in_IN large_JJ doses_NNS has_VBZ no_DT lethal_JJ action_NN on_IN them_PRP as_IN it_PRP has_VBZ on_IN mice_NNS ._.
+As_IN in_IN the_DT course_NN of_IN our_PRP$ experi-_JJ ments_NNS large_JJ doses_NNS of_IN serum_NN had_VBD to_TO be_VB given_VBN ,_, this_DT was_VBD an_DT important_JJ point_NN ._.
+Great_NNP care_NN was_VBD taken_VBN in_IN choosing_VBG rats_NNS of_IN one_CD size_NN for_IN all_DT experiments_NNS ,_, viz._NNS ,_, of_IN about_IN the_DT weight_NN mentioned_VBN above_IN ._.
+The_DT venom_NN used_VBN was_VBD pure_JJ ,_, fresh_JJ ,_, unheated_JJ cobra_NN poison_NN ._.
+This_DT was_VBD collected_VBN from_IN a_DT number_NN of_IN living_NN ,_, full-sized_JJ ,_, healthy_JJ cobras_NN by_IN ``_`` milking_VBG ''_'' the_DT glands_NNS after_IN the_DT method_NN practised_VBN by_IN M._NNP Calmette_NNP ._.
+The_DT poison_NN was_VBD then_RB thoroughly_RB dried_VBN over_IN lime_NN and_CC kept_NN ,_, till_NN used_VBN ,_, in_IN an_DT air-tight_JJ tube_NN away_RB from_IN light_NN ._.
+Before_IN weigh-_JJ ing_VBG it_PRP was_VBD pounded_VBN in_IN a_DT mortar_NN and_CC then_RB again_RB dried_VBN over_IN sulphuric_JJ acid_NN ._.
+A_DT solution_NN of_IN this_DT powdered_JJ venom_NN in_IN normal_JJ salt_JJ solution_NN was_VBD made_VBN ._.
+The_DT strength_NN of_IN this_DT solution_NN was_VBD 0.1_CD per_IN cent_NN ._.
+When_WRB necessary_JJ a_DT tenfold_JJ dilution_NN of_IN this_DT material_NN was_VBD employed_VBN ._.
+All_PDT the_DT solutions_NNS were_VBD freshly_RB made_VBN as_IN required_JJ ,_, so_IN that_IN no_DT deterioration_NN of_IN the_DT poison_NN was_VBD possible_JJ through_IN keeping_VBG in_IN solution_NN ._.
+All_DT injections_NNS were_VBD made_VBN in_IN the_DT inner_JJ side_NN of_IN the_DT thigh_NN ._.
+Series_NNP No_NNP ._.
+I_PRP was_VBD undertaken_VBN to_TO determine_VB the_DT minimum_JJ lethal_NN dose_NN for_IN a_DT rat_NN of_IN 115_CD to_TO 120_CD grammes_NNS in_IN weight_NN ._.
+A_DT certain_JJ lethal_NN dose_NN was_VBD found_VBN to_TO be_VB 0.04_CD mgrm._NN ,_, and_CC the_DT maximum_JJ non-_JJ lethal_NN dose_NN was_VBD found_VBN to_TO be_VB 0.035_CD mgrm_NN ._.
+The_DT remaining_VBG series_NN of_IN experiments_NNS were_VBD undertaken_VBN with_IN a_DT view_NN of_IN 4_CD determining_VBG the_DT neutralising_VBG power_NN of_IN various_JJ samples_NNS of_IN anti-venomous_JJ serum_NN ._.
+These_DT samples_NNS were_VBD of_IN different_JJ ages_NNS and_CC had_VBD been_VBN in_IN India_NNP for_IN varying_VBG periods_NNS of_IN time_NN ._.
+They_PRP had_VBD been_VBN stored_VBN in_IN different_JJ places_NNS and_CC had_VBD therefore_RB been_VBN exposed_VBN to_TO different_JJ degrees_NNS of_IN heat_NN ._.
+The_DT test_NN dose_NN of_IN venom_NN which_WDT was_VBD used_VBN in_IN all_DT cases_NNS consisted_VBN of_IN ten_JJ times_NNS the_DT minimum_JJ lethal_NN dose_NN ,_, i.e._NN ,_, 0.4_CD mgrm_NN ._.
+This_DT quantity_NN was_VBD mixed_JJ in_IN vitro_NN with_IN varying_VBG amounts_NNS of_IN the_DT serum_NN to_TO be_VB tested_VBN ._.
+The_DT mixture_NN was_VBD allowed_VBN to_TO stand_VB at_IN laboratory_JJ temperature_NN (_( about_IN 25°_CD C._NNP )_) for_IN at_IN least_JJS half_PDT an_DT hour_NN ._.
+All_DT injections_NNS were_VBD made_VBN ,_, as_IN in_IN the_DT experiments_NNS detailed_VBN in_IN series_NN No_NNP ._.
+I_PRP ,_, subcutaneously_RB in_IN the_DT inner_JJ side_NN of_IN the_DT thigh_NN ._.
+In_IN calculating_VBG the_DT amount_NN of_IN venom_NN which_WDT the_DT serum_NN had_VBD been_VBN able_JJ to_TO neutralise_VB ,_, or_CC had_VBD failed_VBN to_TO neutralise_VB ,_, the_DT maximum_JJ non-lethal_JJ dose5_NN It_PRP will_MD be_VB seen_VBN therefore_RB that_IN this_DT serum_NN had_VBD been_VBN in_IN Bombay_NNP for_IN about_RB three_CD months_NNS ._.
+One_CD of_IN these_DT months_NNS ,_, October_NNP ,_, is_VBZ one_CD of_IN the_DT hottest_JJS months_NNS of_IN the_DT year_NN ._.
+A_DT reference_NN to_TO the_DT protocols_NNS will_MD show_VB that_IN 0.6_CD C._NNP Cm_NNP ._.
+was_VBD able_JJ to_TO prevent_VB death_NN ,_, while_IN 0.5_CD C._NNP Cm_NNP ._.
+could_MD not_RB accomplish_VB this_DT ._.
+It_PRP is_VBZ evident_JJ therefore_RB that_IN 1_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN was_VBD able_JJ to_TO neutralise_VB 0.61_CD mgrm_NN ._.
+This_DT result_NN would_MD appear_VB to_TO point_VB to_TO a_DT slight_JJ deterioration_NN of_IN the_DT serum_NN having_VBG taken_VBN place_NN through_IN keeping_VBG in_IN Bombay_NNP ,_, even_RB for_IN the_DT short_JJ time_NN mentioned_VBN above_IN ._.
+The_DT serum_NN used_VBN in_IN series_NN No_NNP ._.
+IV_NN of_IN our_PRP$ experiments_NNS was_VBD obtained_VBN from_IN the_DT Natural_NNP History_NNP Society_NNP of_IN Bombay_NNP ._.
+We_PRP take_VBP this_DT opportunity_NN of_IN thanking_VBG Mr._NNP Phipson_NNP ,_, the_DT Honorary_NNP Secretary_NNP of_IN this_DT Society_NNP ,_, for_IN his_PRP$ kindness_NN in_IN placing_VBG it_PRP at_IN our_PRP$ disposal_NN ._.
+This_DT sample_NN of_IN serum_NN was_VBD not_RB dated_VBN ._.
+Mr._NNP Phipson_NNP ,_, however_RB ,_, thought_VBD that_IN it_PRP had_VBD been_VBN in_IN his_PRP$ possession_NN for_IN about_IN four_CD years_NNS ._.
+On_IN reference_NN to_TO Lille_NNP ,_, M._NNP Calmette_NNP informed_VBD us_PRP that_IN he_PRP did_VBD not_RB know_VB the_DT exact_JJ age_NN of_IN the_DT serum_NN ,_, but_CC that_IN it_PRP was_VBD at_IN least_JJS more_JJR than_IN three_CD years_NNS old_JJ ._.
+From_IN the_DT protocols_NNS it_PRP will_MD be_VB seen_VBN that_IN although_IN one_CD rat_NN ,_, which_WDT received_VBD 0.75_CD C._NNP Cm_NNP ._.
+of_IN serum_NN ,_, recovered_VBD after_IN being_VBG very_RB ill_RB ,_, the_DT quantity_NN of_IN serum_NN necessary_JJ to_TO prevent_VB a_DT fatal_JJ result_NN with_IN certainty_NN was_VBD 1.25_CD C._NNP Cm_NNP ._.
+It_PRP is_VBZ evident_JJ therefore_RB that_IN 1_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN was_VBD able_JJ to_TO neutralise_VB only_RB 0.29_CD mgrm_NNS ._.
+of_IN pure_JJ cobra_NN venom_NN ._.
+The_DT fifth_JJ series_NN of_IN experiments_NNS detailed_VBN in_IN the_DT protocols_NN was_VBD made_VBN with_IN serum_NN which_WDT was_VBD sent_VBN to_TO us_PRP by_IN Captain_NNP Mitchell_NNP of_IN Nasik_NNP ._.
+In_IN view_NN of_IN the_DT results_NNS obtained_VBD ,_, the_DT history_NN of_IN this_DT sample_NN of_IN serum_NN is_VBZ interesting_JJ ._.
+It_PRP was_VBD originally_RB the_DT property_NN of_IN the_DT Bombay_NNP Natural_NNP History_NNP Society_NNP ,_, and_CC was_VBD got_VBN from_IN Europe_NNP at_IN the_DT same_JJ time_NN as_IN the_DT serum_NN used_VBN in_IN series_NN No_NNP ._.
+IV_NN of_IN our_PRP$ experiments_NNS ;_: it_PRP was_VBD therefore_RB more_JJR than_IN three_CD years_NNS old_JJ ._.
+Soon_RB after_IN its_PRP$ arrival_NN in_IN Bombay_NNP it_PRP was_VBD sent_VBN to_TO Nasik_NNP ._.
+It_PRP was_VBD kept_VBN there_RB till_JJ Captain_NNP Mitchell_NNP sent_VBD it_PRP to_TO us_PRP in_IN October_NNP ,_, 1900_CD ._.
+Our_PRP$ experiments_NNS with_IN this_DT serum_NN were_VBD made_VBN between_IN the_DT 16th_CD October_NNP and_CC 1st_CD November_NNP 1900_CD ._.
+A_DT reference_NN to_TO the_DT protocols_NNS will_MD show_VB that_IN 0.8_CD C._NNP Cm_NNP ._.
+was_VBD able_JJ to_TO prevent_VB death_NN when_WRB our_PRP$ test_NN dose_NN was_VBD employed_VBN ._.
+In_IN other_JJ words_NNS 1_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN was_VBD able_JJ to_TO neutralise_VB with_IN certainty_NN 0.46_CD mgrm_NN ._.
+of_IN pure_JJ cobra_NN poison_NN ._.
+For_IN series_NN No_NNP ._.
+VI_NNP of_IN our_PRP$ experiments_NNS the_DT sample_NN of_IN serum_NN was_VBD obtained_VBN from_IN Lieutenant-Colonel_NNP G._NNP H._NNP D._NNP Gimlette_NNP ,_, I.M.S._NNP ,_, then_RB Residency_NNP Surgeon_NNP ,_, Indore_NNP ._.
+This_DT sample_NN was_VBD dated_VBN 17th_CD October_NNP 1896_CD ._.
+Its_PRP$ history_NN was_VBD as_IN follows_VBZ :6_NN between_IN the_DT 29th_CD November_NNP and_CC 3rd_CD December_NNP ._.
+It_PRP will_MD be_VB seen_VBN ,_, therefore_RB ,_, that_IN for_IN over_IN a_DT year_NN it_PRP lay_VBD at_IN Indore_NNP and_CC was_VBD thus_RB subjected_VBN to_TO the_DT great_JJ heat_NN of_IN that_DT place_NN during_IN one_CD hot_JJ season_NN ._.
+A_DT reference_NN to_TO the_DT protocols_NNS will_MD show_VB that_IN 1.7_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN failed_VBD to_TO neutralise_VB the_DT test_NN dose_NN ,_, while_IN 2_CD C._NNP Cm_NNP ._.
+were_VBD able_JJ to_TO accomplish_VB this_DT ._.
+The_DT rat_NN which_WDT received_VBD this_DT latter_JJ quantity_NN was_VBD ill_VBN for_IN a_DT short_JJ time_NN ._.
+We_PRP may_MD take_VB it_PRP ,_, therefore_RB ,_, that_IN 2_CD C._NNP Cm_NNP ._.
+was_VBD the_DT amount_NN which_WDT could_MD neutralise_VB just_RB over_IN nine_CD lethal_JJ doses_NNS (_( 0.365_CD mgrm_NN ._.
+)_) ,_, or_CC in_IN other_JJ words_NNS that_IN 1_CD C._NNP Cm_NNP ._.
+was_VBD able_JJ to_TO neutralise_VB only_RB 0.18_CD mgrm_NNS ._.
+of_IN venom_NN ._.
+The_DT experiments_NNS detailed_VBN in_IN series_NN No_NNP ._.
+VII_NNP of_IN the_DT protocols_NNS were_VBD made_VBN with_IN a_DT serum_NN received_VBN from_IN Mr._NNP Hankin_NNP of_IN Agra_NNP ._.
+This_DT sample_NN bore_VBD the_DT date_NN 17th_CD September_NNP 1895_CD ._.
+It_PRP had_VBD been_VBN stored_VBN in_IN Agra_NNP for_IN over_IN four_CD years_NNS ._.
+It_PRP was_VBD received_VBN in_IN Bombay_NNP on_IN the_DT 17th_CD October_NNP 1900_CD ,_, and_CC our_PRP$ experiments_NNS with_IN it_PRP were_VBD completed_VBN between_IN the_DT 27th_JJ November_NNP and_CC 10th_JJ December_NNP ._.
+A_DT glance_NN at_IN the_DT protocols_NNS will_MD show_VB that_IN 2.5_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN ,_, i.e._NN ,_, the_DT largest_JJS amount_NN used_VBN ,_, were_VBD not_RB able_JJ to_TO prevent_VB death_NN when_WRB our_PRP$ test_NN dose_NN of_IN ten_JJ lethal_JJ doses_NNS was_VBD employed_VBN ._.
+From_IN this_DT it_PRP is_VBZ evident_JJ that_IN 1_CD C._NNP Cm_NNP ._.
+of_IN this_DT Agra_NNP serum_NN could_MD not_RB neutralise_VB even_RB 0.14_CD mgrm_NNS ._.
+of_IN poison_NN ._.
+The_DT serum_NN can_MD ,_, therefore_RB ,_, be_VB said_VBD to_TO have_VB lost_VBN all_DT neutralising_VBG power_NN for_IN practical_JJ purposes_NNS ._.
+The_DT serum_NN employed_VBN in_IN the_DT eighth_NN and_CC last_JJ series_NN of_IN experiments_NNS detailed_VBN in_IN the_DT protocols_NN was_VBD received_VBN from_IN Lieutenant_NNP W._NNP G._NNP Liston_NNP ,_, I.M_NNP S._NNP ,_, Civil_NNP Surgeon_NNP ,_, Ellichpur_NNP ,_, Berar_NNP ._.
+It_PRP was_VBD dated_VBN 7th_CD November_NNP 1896_CD ._.
+Lieutenant_JJ Liston_NNP had_VBD purchased_VBN it_PRP from_IN Lille_NNP in_IN September_NNP 1898_CD ,_, and_CC had_VBD brought_VBN it_PRP with_IN him_PRP to_TO India_NNP the_DT following_VBG month_NN ._.
+During_IN the_DT hot_JJ seasons_NNS of_IN 1899_CD and_CC 1900_CD the_DT serum_NN had_VBD been_VBN subjected_VBN to_TO the_DT heat_NN of_IN Berar_NNP at_IN two_CD stations_NNS ,_, viz._NN ,_, Hingoli_NNP and_CC Ellichpur_NNP ._.
+It_PRP was_VBD sent_VBN to_TO Bombay_NNP in_IN December_NNP 1900_CD ._.
+The_DT experiments_NNS made_VBN by_IN us_PRP were_VBD completed_VBN between_IN the_DT 10th_CD and_CC 14th_CD December_NNP ._.
+From_IN the_DT protocols_NNS it_PRP will_MD be_VB seen_VBN that_IN 2_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN failed_VBD to_TO neutralise_VB the_DT test_NN dose_NN ._.
+We_PRP can_MD therefore_VB conclude_NN that_IN 1_CD C._NNP Cm_NNP ._.
+was_VBD not_RB able_JJ to_TO neutra-_JJ lise_NN 0.18_CD mgrm_NN ._.
+of_IN venom_NN ._.
+It_PRP is_VBZ unfortunate_JJ that_IN no_DT more_JJR serum_NN was_VBD available_JJ to_TO complete_VB this_DT series_NN ._.
+It_PRP is_VBZ ,_, however_RB ,_, evident_JJ that_IN ,_, like_IN the_DT Agra_NNP serum_NN ,_, it_PRP had_VBD lost_VBN for_IN all_DT therapeutical_JJ purposes_NNS its_PRP$ power_NN to_TO neutralise_VB pure_NN cobra_NN poison_NN ._.
+We_PRP may_MD now_RB pass_VB on_IN to_TO consider_VB some_DT of_IN the_DT practical_JJ bearings_NNS which_WDT the_DT data_NN collated_VBN above_IN and_CC detailed_VBN in_IN the_DT protocols_NNS have_VBP on_IN the_DT standardisation_NN of_IN anti-venomous_JJ serum_NN and_CC on_IN the_DT therapeutics_NNS of_IN cobra-poisoning_NN ._.
+Firstly_RB ,_, our_PRP$ experiments_NNS conclusively_RB prove_VBP Myers_NNP 's_POS statement_NN that_IN it_PRP is_VBZ necessary_JJ in_IN standardising_VBG this_DT serum_NN to_TO use_VB a_DT pure_NN unheated_JJ poison_NN ._.
+Both_DT in_IN Calmette_NNP 's_POS method_NN of_IN standardisation_NN and_CC in_IN the_DT method_NN followed_VBN by_IN Semple_NNP and_CC one_CD of_IN us_PRP ,_, a_DT mixed_JJ venom_NN containing_VBG about_IN 80_CD per_IN cent_NN ,_, of_IN colubrine_NN poison_NN was_VBD em-_JJ ployed.The_JJ solution_NN of_IN this_DT mixture_NN was_VBD heated_VBN at_IN 73°_CD C._NNP for_IN half_PDT an_DT hour_NN and_CC then_RB ._.
+7_CD filtered_VBN ._.
+The_DT conclusion_NN arrived_VBD at_IN in_IN both_DT cases_NNS was_VBD the_DT same_JJ ,_, viz._NN ,_, that_IN 1_CD C._NNP Cm_NNP ._.
+of_IN serum_NN was_VBD able_JJ to_TO neutralise_VB 1.5_CD mgrm_NN ._.
+of_IN this_DT venom_NN ._.
+As_IN this_DT mixture_NN contained_VBD only_RB a_DT fifth_JJ part_NN of_IN viperine_NN poison_NN it_PRP appeared_VBD justifiable_JJ to_TO conclude_VB that_DT 1_CD C._NNP Cm_NNP ._.
+of_IN serum_NN would_MD be_VB able_JJ to_TO neutralise_VB at_IN least_JJS about_IN 1.2_CD mgrm_NNS ._.
+of_IN pure_JJ cobra_NN poison_NN ._.
+Our_PRP$ experiments_NNS ,_, however_RB ,_, have_VBP shown_VBN that_IN such_PDT a_DT hypothesis_NN is_VBZ not_RB borne_VBN out_RP by_IN fact_NN ,_, and_CC that_IN 1_CD C._NNP Cm_NNP ._.
+of_IN serum_NN can_MD only_RB neutralise_VB about_RB 0.7_CD mgrm_NNS ._.
+of_IN pure_JJ cobra_NN venom_NN ._.
+*_NN Secondly_RB ,_, it_PRP is_VBZ evident_JJ that_IN any_DT attempt_NN to_TO calculate_VB the_DT therapeutic_JJ dose_NN of_IN the_DT serum_NN can_MD only_RB be_VB made_VBN when_WRB the_DT exact_JJ measure_NN of_IN its_PRP$ power_NN of_IN neutralising_VBG a_DT natural_JJ poison_NN has_VBZ been_VBN ascertained_VBN ._.
+Let_VB us_PRP consider_VB this_DT point_NN in_IN some_DT detail_NN ._.
+Calmett8_NNP Now_RB ,_, basing_VBG the_DT calculation_NN on_IN this_DT fact_NN ,_, viz._NN ,_, that_IN 1_CD C._NNP Cm_NNP ._.
+of_IN serum_NN can_MD neutralise_VB from_IN 0.6_CD to_TO 0.7_CD mgrms_NNS ._.
+of_IN cobra_NN venom_NN ,_, and_CC on_IN the_DT first_JJ two_CD assumptions_NNS stated_VBN above_RB ,_, we_PRP arrive_VBP at_IN the_DT conclusion_NN that_IN instead_RB of_IN 15_CD C._NNP Cm_NNP ._.
+of_IN serum_NN ,_, a_DT dose_NN of_IN from_IN 22_CD to_TO 25_CD C._NNP Cm_NNP ._.
+would_MD have_VB to_TO be_VB given_VBN to_TO prevent_VB death_NN from_IN the_DT bite_NN of_IN a_DT full-sized_JJ cobra_NN ._.
+As_IN we_PRP have_VBP already_RB stated_VBN ,_, one_CD of_IN the_DT assumptions_NNS on_IN which_WDT the_DT above_IN cal-_NN culationis_NN founded_VBN is_VBZ ,_, that_IN the_DT minimum_JJ lethal_JJ dose_NN of_IN cobra_NN venom_NN for_IN a_DT man_NN is_VBZ as_RB much_JJ as_IN 31_CD milligrammes_NNS ._.
+This_DT assumption_NN is_VBZ based_VBN partly_RB on_IN the_DT fact_NN ,_, experimentally_RB shown_VBN by_IN Calmette15_NNP and_CC other_JJ observers_NNS ,_, that_IN for_IN such_JJ animals_NNS as_IN the_DT guinea-pig_NN ,_, the_DT rabbit_NN ,_, the_DT dog_NN ,_, the_DT monkey_NN and_CC the_DT ass_NN ,_, the_DT larger_JJR the_DT animal_NN the_DT greater_JJR is_VBZ the_DT amount_NN of_IN cobra_NN venom_NN ,_, weight_NN for_IN weight_NN ,_, required_VBN to_TO cause_VB death_NN ._.
+This_DT rule_NN ,_, however_RB ,_, does_VBZ not_RB hold_VB good_JJ for_IN all_DT species_NNS of_IN animals_NNS ._.
+Thus_RB Myers16_NNP has_VBZ shown_VBN that_IN the_DT minimum_JJ lethal_JJ dose_NN of_IN cobra_NN poison_NN for_IN a_DT mouse_NN of_IN 15_CD grammes_NNS in_IN weight_NN is_VBZ 0.012_CD mgrms_NNS ._.
+If_IN the_DT rat_NN were_VBD as_RB susceptible_JJ to_TO this_DT poison_NN as_IN is_VBZ the_DT mouse_NN ,_, the_DT lethal_NN dose_NN for_IN a_DT rat_NN of_IN 120_CD grammes_NNS in_IN weight_NN would_MD be_VB 0.096_CD mgrms_NNS ._.
+We_PRP have_VBP ,_, however_RB ,_, seen_VBN above_IN that_IN the_DT minimal_JJ lethal_NN dose_NN for_IN a_DT rat_NN of_IN this_DT size_NN is_VBZ only_RB 0.04_CD mgrms._NNS ,_, namely_RB ,_, that_IN the_DT rat_NN is_VBZ at_IN least_JJS twice_RB as_RB susceptible_JJ to_TO cobra_VB venom_NN as_IN is_VBZ the_DT mouse_NN ._.
+In_IN view_NN of_IN this_DT fact_NN it_PRP would_MD seem_VB expedient_NN ,_, in_IN estimating_VBG the_DT dose_NN of_IN anti-_JJ venomous_JJ serum_NN to_TO be_VB given_VBN in_IN a_DT case_NN of_IN cobra_NN bite_NN ,_, to_TO base_VB our_PRP$ calculations_NNS on_IN the_DT assumption_NN that_IN man_NN is_VBZ at_IN least_JJS as_RB susceptible_JJ as_IN the_DT most_RBS susceptible_JJ animal_NN with_IN which_WDT experiments_NNS have_VBP been_VBN made_VBN ,_, viz._NN ,_, the_DT rat_NN ._.
+Assuming_VBG then_RB that_DT man_NN is_VBZ as_RB susceptible_JJ as_IN the_DT rat_NN ,_, it_PRP is_VBZ evident_JJ that_IN the_DT minimum_JJ lethal_NN dose_NN for_IN a_DT man_NN of_IN 60_CD kilos_NNS weight_NN would_MD be_VB about_IN 20_CD mgrms._NNS ,_, and_CC the_DT maximum_NN dose_NN which_WDT he_PRP may_MD naturally_RB be_VB able_JJ to_TO resist_VB ,_, say_VB 19_CD mgrms_NNS ._.
+We_PRP can_MD therefore_VB calculate_NN that_IN if_IN a_DT cobra_NN had_VBD injected_VBN the_DT maximum_JJ amount_NN of_IN venom_NN possible_JJ ,_, viz._NN ,_, 45_CD mgrms_NNS ._.
+(_( an_DT assump-_NN tion_NN which_WDT it_PRP would_MD be_VB necessary_JJ to_TO make_VB in_IN every_DT case_NN of_IN snake_NNP bite_NN )_) ,_, the_DT quantity_NN of_IN serum_NN required_VBN to_TO merely_RB save_VB the_DT life_NN of_IN any_DT one_CD receiving_NN this_DT injec-_JJ tion_NN would_MD be_VB the_DT amount_NN which_WDT was_VBD capable_JJ of_IN neutralising_VBG at_IN least_JJS 459_CD anti-venomous_JJ serum_NN ._.
+Immediately_RB after_IN the_DT accident_NN 18_CD C._NNP Cm_NNP ._.
+of_IN old_JJ serum_NN were_VBD injected_VBN ._.
+This_DT was_VBD the_DT serum_NN obtained_VBN from_IN the_DT Bombay_NNP Natural_NNP History_NNP Society_NNP ,_, the_DT neutralising_VBG power_NN of_IN which_WDT was_VBD tested_VBN in_IN the_DT experiments_NNS detailed_VBN in_IN series_NN No_NNP ._.
+IV_NNP of_IN the_DT protocols_NNS ._.
+From_IN a_DT reference_NN to_TO the_DT protocols_NNS it_PRP will_MD be_VB seen_VBN that_IN 1_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN was_VBD able_JJ to_TO neutralise_VB 0.29_CD mgrm_NN ._.
+of_IN pure_JJ cobra_NN venom_NN ._.
+It_PRP follows_VBZ ,_, then_RB ,_, that_IN 18_CD C._NNP Cm_NNP ._.
+of_IN such_JJ serum_NN was_VBD equivalent_JJ to_TO 7.5_CD C._NNP Cm_NNP ._.
+of_IN fresh_JJ serum_NN ,_, that_WDT is_VBZ ,_, of_IN serum_JJ 1_CD C._NNP Cm_NNP ._.
+of_IN which_WDT was_VBD capable_JJ of_IN neutralising_VBG 0.7_CD mgrm_NN ._.
+of_IN venom_NN ._.
+Our_PRP$ patient_NN ,_, therefore_RB ,_, received_VBD as_IN a_DT preliminary_JJ dose_NN a_DT quantity_NN of_IN serum_JJ equivalent_NN to_TO 7.5_CD C._NNP Cm_NNP ._.
+of_IN a_DT prefectly_RB fresh_JJ serum_NN ._.
+In_IN spite_NN of_IN this_DT injection_NN ,_, well-marked_JJ general_JJ symptoms_NNS referable_JJ to_TO the_DT central_JJ nervous_JJ system_NN set_VBN in_IN about_RB 2½_CD to_TO 3_CD hours_NNS after_IN the_DT accident_NN ._.
+The_DT case_NN in_IN all_DT probability_NN would_MD have_VB had_VBD a_DT fatal_JJ ending_VBG had_VBD not_RB a_DT second_JJ injection_NN of_IN fresh_JJ serum_NN been_VBN given_VBN before_IN the_DT symptoms_NNS had_VBD progressed_VBN too_RB far_RB ._.
+Now_RB in_IN this_DT case_NN the_DT poison_NN from_IN one_CD gland_NN only_RB was_VBD injected_VBN ._.
+We_PRP can_MD there-_VB fore_RB conclude_NN that_IN 15_CD C._NNP Cm_NNP ._.
+of_IN fresh_JJ serum_NN would_MD have_VB been_VBN quite_RB inadequate_JJ to_TO have_VB prevented_VBN the_DT onset_NN of_IN symptoms_NNS of_IN intoxication_NN and_CC probably_RB would_MD not_RB have_VB prevented_VBN death_NN had_VBD the_DT patient_NN received_VBD the_DT quantity_NN of_IN poison_NN con-_NN tained_VBN in_IN both_DT glands_NNS ._.
+Shortly_RB after_IN the_DT onset_NN of_IN symptoms_NNS 10_CD C._NNP Cm_NNP ._.
+of_IN comparatively_RB fresh_JJ serum_NN were_VBD injected_VBN ._.
+This_DT was_VBD serum_JJ got_VBD from_IN Messrs._NNP Phillips_NNP &_CC Co._NNP ,_, vide_IN series_NN No_NNP ._.
+III_NNP in_IN protocols_NNS ._.
+We_PRP have_VBP seen_VBN that_IN 1_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN was_VBD capable_JJ of_IN neutralising_VBG 0.61_CD mgrm_NN ._.
+of_IN cobra_NN poison_NN ._.
+The_DT dose_NN which_WDT was_VBD injected_VBN was_VBD therefore_RB ,_, equivalent_JJ to_TO 8.7_CD C._NNP Cm_NNP ._.
+of_IN perfectly_RB fresh_JJ serum_NN ,_, such_JJ as_IN was_VBD used_VBN in_IN the_DT experiments_NNS detailed_VBN in_IN series_NN No_NNP ._.
+II_NNP of_IN the_DT protocols_NNS ._.
+Our_PRP$ patient_NN ,_, therefore_RB ,_, received_VBN in_IN all_PDT a_DT quantity_NN of_IN serum_JJ equivalent_NN to_TO 16_CD C._NNP Cm_NNP ._.
+of_IN perfectly_RB fresh_JJ material_NN ._.
+All_DT symptoms_NNS in_IN this_DT case_NN ,_, in_IN which_WDT the_DT bite_NN was_VBD inflicted_VBN by_IN only_RB one_CD fang_NN ,_, soon_RB passed_VBD off_RP after_IN the_DT second_JJ injection_NN of_IN serum_NN ._.
+Since_IN ,_, however_RB ,_, the_DT second_JJ dose_NN was_VBD given_VBN after_IN some_DT of_IN the_DT poison_NN had_VBD already_RB joined_VBN on_IN to_TO the_DT central_JJ nervous_JJ system_NN ,_, it_PRP is_VBZ for_IN à_JJ priori_JJ reasons_NNS necessary_JJ to_TO conclude_VB that_IN a_DT smaller_JJR dose_NN would_MD have_VB sufficed_VBN ,_, if_IN the_DT whole_JJ quantity_NN had_VBD been_VBN injected_VBN before_IN the_DT onset_NN of_IN any_DT symptoms_NNS ._.
+On_IN the_DT other_JJ hand_NN ,_, it_PRP must_MD be_VB remembered_VBN that_IN the_DT cobra_NN which_WDT inflicted_VBD this_DT bite_NN had_VBD been_VBN in_IN captivity_NN for_IN some_DT months_NNS and_CC would_MD not_RB conse-_VB quendy_JJ yield_NN as_RB much_JJ poison_NN as_IN an_DT ordinary_JJ snake_NN in_IN nature_NN would_MD do_VB ._.
+For_IN it_PRP is_VBZ an_DT observation_NN of_IN common_JJ occurrence_NN in_IN this_DT laboratory_NN that_IN a_DT cobra_JJ newly_RB caught_VBN will_MD yield_VB from_IN 20_CD to_TO 30_CD large_JJ drops_NNS of_IN poison_NN ,_, while_IN after_IN he_PRP has_VBZ been_VBN a_DT captive_NN for_IN some_DT time_NN this_DT quantity_NN will_MD have_VB diminished_VBN to_TO from_IN 6_CD to_TO 10_CD drops_NNS and_CC in_IN time_NN to_TO nil_VB ._.
+From_IN what_WP we_PRP have_VBP stated_VBN above_IN it_PRP is_VBZ evident_JJ that_IN the_DT question_NN of_IN the_DT dose_NN of_IN serum_NN to_TO be_VB injected_VBN in_IN cases_NNS of_IN cobra_NN bite_NN turns_VBZ upon_IN factors_NNS which_WDT can_MD not_RB be_VB 10_CD directly_RB experimentally_RB determined11_JJ place_NN from_IN keeping_VBG the_DT serum_NN in_IN India_NNP ._.
+Thus_RB it_PRP will_MD be_VB noticed_VBN ,_, on_IN the_DT one_CD hand_NN ,_, that_WDT while_IN the_DT serum_NN which_WDT was_VBD seven_CD months_NNS old_JJ and_CC had_VBD been_VBN in_IN India_NNP for_IN only_RB three_CD months_NNS (_( No_DT ._.
+III_NNP )_) already_RB showed_VBD a_DT slight_JJ diminution_NN in_IN its_PRP$ neutralising_JJ power_NN ;_: on_IN the_DT other_JJ hand_NN ,_, the_DT sera_NN which_WDT had_VBD been_VBN kept_VBN for_IN some_DT years_NNS in_IN the_DT Berars_NNP (_( Hingoli_NNP and_CC Ellichpur_NNP )_) ,_, i.e._FW ,_, No_DT ._.
+VIII_NNP ,_, and_CC in_IN Agra_NNP ,_, i.e._NN ,_, No_NNP ._.
+VII_NNP ,_, had_VBD practically_RB lost_VBN all_DT neutralising_VBG power_NN ,_, and_CC the_DT sera_NN which_WDT had_VBD been_VBN stored_VBN at_IN Indore_NNP ,_, Bombay_NNP ,_, and_CC Nasik_NNP had_VBD deteriorated_VBN to_TO a_DT considerable_JJ extent_NN ,_, but_CC had_VBD not_RB completely_RB lost_VBN all_DT neutralising_VBG power_NN ._.
+Let_VB us_PRP consider_VB for_IN a_DT moment_NN the_DT climatic_JJ conditions_NNS as_IN regards_NNS temperature_NN which_WDT prevail_VBP at_IN these_DT different_JJ places_NNS ._.
+In_IN the_DT cold_JJ season_NN Agra_NNP and_CC the_DT Berars_NNP have_VBP a_DT comparatively_RB low_JJ temperature_NN ;_: but_CC for_IN three_CD or_CC four_CD months_NNS of_IN the_DT year_NN the_DT heat_NN in_IN these_DT districts_NNS is_VBZ excessive_JJ ,_, the_DT maximum_JJ temperature_NN in_IN the_DT shade_NN being_VBG seldom_VBN below_IN 105°_CD F._NNP and_CC often_RB reaching_VBG 110°_CD F._NNP and_CC over_RB ._.
+Indore_NNP also_RB has_VBZ a_DT severe_JJ hot_JJ weather_NN and_CC a_DT comparatively_RB cool_JJ cold_NN season_NN ,_, a_DT similar_JJ climate_NN in_IN fact_NN to_TO that_DT of_IN Berar_NNP ,_, although_IN ,_, perhaps_RB ,_, the_DT maximum_JJ temperature_NN does_VBZ not_RB reach_VB so_RB high_JJ as_IN in_IN the_DT other_JJ two_CD cases_NNS ._.
+The_DT greater_JJR neutralising_JJ power_NN of_IN the_DT serum_NN which_WDT had_VBD been_VBN kept_VBN at_IN Indore_NNP compared_VBN with_IN the_DT Berar_NNP and_CC Agra_NNP samples_NNS ,_, can_MD be_VB accounted_VBN for_IN by_IN the_DT fact_NN that_IN the_DT former_JJ sample_NN had_VBD been_VBN subjected_VBN to_TO this_DT great_JJ heat_NN for_IN only_RB one_CD hot_JJ season_NN ,_, while_IN the_DT Berar_NNP and_CC Agra_NNP sera_NN had_VBD been_VBN stored_VBN in_IN these_DT districts_NNS during_IN two_CD and_CC four_CD hot_JJ weathers_NNS ,_, respectively_RB ._.
+The_DT results_NNS obtained_VBD with_IN sera_NN Nos_NNP ._.
+IV_NNP and_CC V_NNP are_VBP especially_RB interesting_JJ ._.
+Both_DT these_DT sera_NNS were_VBD of_IN the_DT same_JJ age_NN and_CC were_VBD imported_VBN to_TO Bombay_NNP at_IN the_DT same_JJ time_NN ._.
+One_CD sample_NN ,_, viz._NN ,_, No_NNP ._.
+V_NNP ,_, had_VBD been_VBN stored_VBN for_IN a_DT considerable_JJ time_NN at_IN Nasik_NNP after_IN Bombay_NNP ._.
+Now_RB the_DT temperature_NN of_IN Nasik_NNP during_IN the_DT cool_JJ season_NN of_IN the_DT year_NN is_VBZ much_RB lower_JJR than_IN that_DT of_IN Bombay_NNP ._.
+On_IN the_DT other_JJ hand_NN ,_, during_IN the_DT hot_JJ months_NNS ,_, March_NNP to_TO May_NNP inclusive_NN ,_, the_DT maximum_JJ shade_JJ temperature_NN of_IN Nasik_NNP is_VBZ only_RB slightly_RB lower_JJR than_IN that_DT of_IN Bombay_NNP ,_, while_IN the_DT minimum_JJ temperature_NN is_VBZ much_RB lower_JJR ._.
+On_IN the_DT whole_NN ,_, therefore_RB ,_, we_PRP may_MD take_VB it_PRP that_IN the_DT serum_NN which_WDT had_VBD been_VBN kept_VBN at_IN Nasik_NNP had_VBD not_RB been_VBN subjected_VBN to_TO nearly_RB such_JJ a_DT high_JJ mean_JJ temperature_NN during_IN the_DT year_NN as_IN had_VBD that_IN serum_NN which_WDT had_VBD been_VBN stored_VBN in_IN Bombay_NNP ._.
+In_IN consequence_NN ,_, the_DT neutralising_VBG power_NN of_IN the_DT former_JJ was_VBD more_JJR than_IN a_DT half_NN greater_JJR than_IN the_DT neutralising_JJ power_NN of_IN the_DT latter_NN ._.
+*_IN We_PRP may_MD conclude_VB then_RB from_IN these_DT data_NNS that_IN anti-venomous_JJ serum_NN undergoes_VBZ a_DT progressive_JJ and_CC fairly_RB rapid_JJ deterioration_NN when_WRB stored_VBN in_IN hot_JJ climates_NNS ,_, and_CC that_IN this_DT deterioration_NN is_VBZ greater_JJR and_CC more_RBR rapid_JJ the_DT higher_JJR the_DT mean_JJ temperature_NN to_TO which_WDT it_PRP is_VBZ subjected_VBN ._.
+*_JJ Experiments_NNS are_VBP at_IN present_JJ in_IN progress_NN in_IN this_DT Laboratory_NN to_TO ascertain_VB ,_, if_IN possible_JJ ,_, the_DT causes_NNS of_IN this_DT difference,12_VBZ The_DT practical_JJ bearings_NNS of_IN the_DT results_NNS of_IN these_DT observations_NNS are_VBP so_RB patent_JJ as_IN to_TO require_VB no_DT further_JJ discussion_NN ._.
+Protocols_NNS ._.
+SERIES_NNP No_NNP ._.
+1.13_CD side_NN of_IN the_DT thigh_NN ._.
+Carefully_RB selected_VBN rats_NNS of_IN about_IN 118_CD grammes_NNS weight_WDT were_VBD used_VBN in_IN all_DT cases_NNS ._.
+In_IN calculating_VBG the_DT amount_NN of_IN venom_NN which_WDT the_DT serum_NN had_VBD been_VBN able_JJ to_TO neutralise_VB or_CC had_VBD failed_VBN to_TO neutralise_VB ,_, the_DT maximum_JJ non-lethal_JJ dose_NN 14_CD SERIES_NNP No_NNP ._.
+111.15_CD From_IN the_DT above_JJ series_NN of_IN experiments_NNS we_PRP can_MD conclude_VB that_DT 1.15_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN failed_VBD to_TO completely_RB neutralise_VB 0.4_CD 0.035_CD mgrm.=0.365_NN mgrm._NN ,_, while_IN 1.25_CD C._NNP Cm_NNP ._.
+did_VBD neutralise_RB this_DT amount_NN at_IN least_JJS ._.
+Therefore_RB ,_, 1_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN was_VBD able_JJ to_TO neutralise_VB 0.29_CD mgrm_NN ._.
+SERIES_NNP No_NNP ._.
+V.16_NN From_IN the_DT above_JJ series_NN of_IN experiments_NNS we_PRP can_MD conclude_VB that_DT 0.75_CD C._NNP Cm_NNP ._.
+of_IN this_DT serum_NN did_VBD not_RB completely_RB neutralise_JJ 0.4_CD 17_CD SERIES_NN No_NNP ._.
+VII.18_NNP SERIES_NNP No_NNP ._.
+VIII.19_NNP (_( 10_CD )_) Loc_NNP ._.
+Cit_NNP ._.
+In_IN this_DT investigation_NN the_DT serum_NN was_VBD tested_VBN both_DT by_IN mixing_VBG the_DT serum_NN and_CC poison_NN in_IN vitro_NN before_IN injection_NN ,_, and_CC by_IN injecting_VBG the_DT serum_NN before_IN the_DT venom_NN ._.
+Practically_RB identical_JJ results_NNS were_VBD got_VBN in_IN each_DT case_NN ._.
+(_( 11_CD )_) Loc_NNP ._.
+Cit_NNP ._.
+(_( 12_CD )_) British_NNP Medical_NNP Journal_NNP ,_, April_NNP 18th_CD ,_, 1896_CD ,_, p._VBD 957_CD ._.
+(_( 13_CD )_) Calmette_NNP ,_, 'Le_NNP Venin_NNP des_VBZ Serpents_NNP ,_, '_'' 1896_CD ._.
+(_( 14_CD )_) Loc_NNP ._.
+Cit_NNP ._.
+(_( 15_CD )_) Loc_NNP ._.
+Cit_NNP ._.
+(_( 16_CD )_) Loc_NNP ._.
+Cit_NNP ._.
+(_( 17_CD )_) Loc_NNP ._.
+Cit_NNP ._.
+(_( 18_CD )_) Lancet_NNP ,_, January_NNP 5th_CD ,_, 1901_CD ,_, p._VBD 25_CD ._.

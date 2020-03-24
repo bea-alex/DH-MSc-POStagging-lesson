@@ -1,0 +1,449 @@
+FOR_IN ADVOCATES_NNP '_POS LIBRARY_NNP ._.
+EDINBURGH_NNP ._.
+ARMY_NNP REGULATIONS_NNP INDIA_NNP VOLUME_NNP VIII_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ VETERINARY_NNP ARMY_NNP REGULATIONS_NNP ,_, INDIA_NNP VOLUME_NNP VIII_NNP ._.
+VETERINARY_NNP ._.
+Agents_NNS for_IN the_DT Sale_NNP of_IN Books_NNP published_VBN by_IN the_DT Superintendent_NNP of_IN Government_NNP Printing_NNP ,_, India_NNP ,_, Calcutta_NNP ._.
+IN_NNP ENGLAND_NNP ._.
+E._NNP A._NN ARNOLD_NNP ,_, 37_CD ,_, Bedford_NNP Street_NNP ,_, Strand_NNP ,_, London_NNP ,_, W._NNP C._NNP CONSTABLE_NNP &_CC Co._NNP ,_, 2_CD ,_, Whitehall_NNP Gardens_NNP ,_, London_NNP ,_, S._NNP W._NNP SAMPSON_NNP ,_, LOW_NNP ,_, MARTSON_NNP &_CC Co._NNP ,_, St._NNP Duns-_NNP tan_NN 's_POS House_NNP ._.
+Fetter_NNP Lane_NNP ,_, London_NNP ,_, E._NNP C._NNP P._NNP S._NNP KING_NNP &_CC SON_NNP ,_, 2_CD &_CC 4_CD ,_, Great_NNP Smith_NNP Street_NNP ,_, Westminster_NNP ,_, London_NNP ,_, S._NNP W._NNP KEGAN_NNP PAUL_NNP ,_, TRENCH_NNP ,_, TRÜBNER_NNP &_CC Co._NNP ,_, Charing_NNP Cross_NNP Road_NNP ,_, London_NNP ,_, W._NNP C._NNP BERNARD_NNP QUARITCH_NNP ,_, 15_CD ,_, Piccadilly_NNP ,_, London_NNP ,_, W._NNP C._NNP WILLIAMS_NNP and_CC NORGATE_NNP ,_, Oxford_NNP ._.
+DEIGHTON_NNP BELL_NNP &_CC Co._NNP ,_, Cambridge_NNP ._.
+ON_IN THE_DT CONTINENT_NNP ._.
+R._NNP FRIEDLANDER_NNP &_CC SOHN_NNP ,_, 11_CD ,_, Carlstrasse_NNP ,_, Berlin_NNP ,_, N._NNP W._NNP OTTO_NNP HARRASSOWITZ_NNP ,_, Leipzig_NNP ._.
+KARL_NNP W._NNP HIERSEMANN_NNP ,_, Leipzig_NNP ._.
+ERNEST_NNP LEROUX_NNP ,_, 28_CD ,_, Rné_NNP Bonaparte_NNP ,_, Paris_NNP ._.
+MARTINUS_NNP NIJHOFF_NNP ,_, The_DT Hague_NNP ,_, Holland_NNP ._.
+IN_NNP INDIA_NNP ._.
+THACKER_NNP ,_, SPINK_NNP &_CC Co._NNP ,_, Calcutta_NNP and_CC Simla_NNP ._.
+NEWMAN_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+N._NNP K._NNP LAHIRI_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+R._NNP CAMBRAY_NNP &_CC Co._NNP ,_, Calcutta_NNP ._.
+HIGGINBOTHAM_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+V._NNP KALYANARAMA_NNP IYER_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+G._NNP A._NNP NATESAN_NNP &_CC Co._NNP ,_, Madras_NNP ._.
+THACKER_NNP &_CC Co._NNP ,_, LD._NNP ,_, Bombay_NNP ._.
+A._NN J._NNP COMBRIDGE_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+D._NNP B._NNP TARAPOREVALA_NNP ,_, SONS_NNP &_CC Co._NNP ,_, Bombay_NNP ._.
+RADHABAI_NNP ATMARAM_NNP SAGOON_NNP ,_, Bombay_NNP ._.
+N._NNP B._NNP MATHUR_NNP ,_, Superintendent_NNP ,_, Nazair_NNP Kanum_NNP Hind_NNP Press_NNP ,_, Allahabad_NNP ._.
+RAI_NNP SAHIB_NNP M._NNP GULAB_NNP SINGH_NNP AND_NNP SONS_NNP ,_, Mufid-i-Am_NNP Press_NNP ,_, Lahore_NNP ._.
+SUPERINTENDENT_NNP ,_, AMERICAN_NNP BAPTIST_NNP MISSION_NNP PRESS_NNP ,_, Rangoon_NNP ._.
+ARMY_NNP REGULATIONS_NNP ,_, INDIA_NNP ._.
+VOLUME_NNP VIII_NNP ._.
+VETERINARY_NNP ._.
+[_JJ NLS_NNP note_NN :_: a_DT graphic_JJ appears_VBZ here_RB -_: see_VBP image_NN of_IN page_NN ]_JJ Government_NNP of_IN India_NNP Army_NNP Department_NNP ,_, 1909_CD ._.
+CALCUTTA_NN :_: SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ,_, 1909_CD ._.
+Price_NNP Ten_NNP Annas_NNP ,_, or_CC One_CD Shilling_NN ._.
+SUPERINTENDENT_NNP ,_, GOVERNMENT_NNP PRINTING_NNP ,_, INDIA_NNP ,_, 8_CD ,_, HASTINGS_NNP STREET_NNP ._.
+PREFACE_NNP ._.
+THIS_NNP volume_NN contains_VBZ the_DT orders_NNS of_IN the_DT Government_NNP of_IN India_NNP on_IN veterinary_JJ matters_NNS and_CC is_VBZ intended_VBN principally_RB for_IN the_DT use_NN of_IN officers_NNS of_IN the_DT veterinary_JJ service_NN ._.
+Such_JJ subsidiary_NN instructions_NNS as_IN may_MD be_VB necessary_JJ will_MD be_VB issued_VBN in_IN pursuance_NN of_IN these_DT orders_NNS under_IN the_DT orders_NNS of_IN the_DT Commander-in-Chief_NNP ._.
+Officers_NNS are_VBP expected_VBN to_TO interpret_VB these_DT regulations_NNS reasonably_RB and_CC intelligently_RB with_IN due_JJ regard_NN to_TO the_DT interests_NNS of_IN the_DT service_NN ._.
+No_DT attempt_NN has_VBZ been_VBN made_VBN to_TO prescribe_VB for_IN necessary_JJ and_CC self-evident_JJ exceptions_NNS ,_, nor_CC for_IN such_JJ matters_NNS of_IN detail_NN as_IN should_MD be_VB provided_VBN for_IN by_IN local_JJ authorities_NNS ._.
+The_DT other_JJ volumes_NNS of_IN regulations_NNS with_IN which_WDT the_DT veterinary_JJ service_NN is_VBZ con-_JJ cerned_JJ areCONTENTS_NNS ._.
+PARAS_NNP Establishments_NNS ._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+._.
+1Abbreviations_NNS ._.
+A._NN F._NNP ._.
+._.
+Army_NNP Form_NNP ._.
+Appx_NNP ._.
+._.
+._.
+._.
+Appendix_NNP ._.
+A._NN R._NNP I._NNP ._.
+._.
+Army_NNP Regulations_NNP ,_, India_NNP ._.
+A._NN V._NNP C._NNP ._.
+._.
+Army_NNP Veterinary_NNP Corps_NNP ._.
+A._NN V._NNP S._NNP Army_NNP Veterinary_NNP Service_NNP ._.
+Bde_NNP ._.
+Comdr_NNP ._.
+._.
+._.
+General_JJ Officer_NNP Commanding_NNP Brigade_NNP ._.
+C.-in-C._NNP ._.
+._.
+Commander-in-Chief_NN ._.
+D._NNP A_NNP ._.
+A._NN G._NNP ._.
+._.
+Deputy_NN Assistant_NNP Adjutant_NNP General_NNP ._.
+Dn_NNP ._.
+._.
+._.
+Division_NN ._.
+Dy_NNP ._.
+P._NNP V._NNP O._NNP India_NNP Deputy_NNP Principal_NNP Veterinary_NNP Officer_NNP in_IN India_NNP Dvl_NNP ._.
+Comdr_NNP ._.
+._.
+General_JJ Officer_NNP Commanding_NNP Division_NNP ._.
+F._NNP R._NNP C._NNP V._NNP S._NNP ._.
+Fellow_NNP ,_, Royal_NNP College_NNP of_IN Veterinary_NNP Surgeons_NNP ._.
+G._NNP O._NNP C._NNP ._.
+._.
+General_JJ Officer_NNP Commanding_NNP ._.
+G._NNP S._NNP ._.
+._.
+._.
+General_NNP Service_NNP ._.
+gr_NN ._.
+._.
+._.
+._.
+Grains_NNS ._.
+Hd_NNP ._.
+Qrs_NNP ._.
+._.
+._.
+Head_NN Quarters_NNS ._.
+I_PRP ._.
+A._NN F._NNP India_NNP Army_NNP Form_NNP ._.
+I._NNP G._NNP ._.
+._.
+._.
+Inspector_NNP General_NNP ._.
+I._NNP P._NNP ._.
+._.
+._.
+Indian_JJ pattern_NN ._.
+lbs_NN ._.
+._.
+._.
+._.
+Pounds_NNS ._.
+M._NNP C._NNP ._.
+._.
+._.
+Medical_JJ certificate_NN ._.
+Medl_NNP ._.
+Store_NN Dept_NNP ._.
+._.
+Medical_JJ Store_NNP Department_NNP ._.
+M._NNP W._NNP S._NNP ._.
+._.
+Military_JJ Works_NNP Services_NNPS ._.
+N._NNP C._NNP O._NNP ._.
+._.
+Non-commissioned_JJ officer_NN ._.
+O._NNP C._NNP ._.
+._.
+._.
+Officer_NNP Commanding_NNP ozs_NN ._.
+._.
+._.
+._.
+Ounces_NNS ._.
+P._NNP M._NNP E._NNP Post-mortem_NNP examination_NN ._.
+pr_NN ._.
+._.
+._.
+._.
+Pair_NN ._.
+P._NNP V._NNP O._NNP ,_, India_NNP ._.
+Principal_NNP Veterinary_NNP Officer_NNP inIndia_NNP P._NNP W._NNP D._NNP Public_NNP Works_NNP Department_NNP ._.
+qr_NN ._.
+._.
+._.
+Quire_NN ._.
+Q._NNP M._NNP G._NNP India_NNP ._.
+Quarter-master_JJ General_NNP in_IN India_NNP ._.
+R._NNP P._NNP ._.
+._.
+Roorkee_NNP pattern_NN ._.
+S._NNP and_CC T._NNP Supply_NNP and_CC Transport_NNP ._.
+S._NNP of_IN S._NNP Secretary_NNP of_IN State_NNP for_IN India_NNP ._.
+S._NNP V._NNP H._NNP Station_NNP Veterinary_NNP Hospital_NNP ._.
+S._NNP V._NNP O_NNP ._.
+Senior_JJ Veterinary_NNP Officer_NNP of_IN Division_NNP U._NNP L._NNP ._.
+._.
+._.
+Unattached_JJ list_NN ._.
+V._NNP H._NNP S._NNP ._.
+._.
+Veterinary_JJ History_NNP Sheet_NNP ._.
+ARMY_NNP REGULATIONS_NNP ,_, INDIA_NNP ._.
+VOLUME_NNP VIII.Officers_NNP ._.
+2_CD Officers_NNS ._.
+Military_JJ control_NN ._.
+4_CD ,_, The_DT relations_NNS between_IN the_DT P._NNP V._NNP O._NNP ,_, India_NNP ,_, S._NNP V._NNP Os_NNP ._.
+and_CC executive_NN veterinary_JJ officers_NNS are_VBP purely_RB departmental_JJ ._.
+In_IN all_DT other_JJ respects_NNS these_DT officers_NNS are_VBP subject_JJ to_TO military_JJ control_NN in_IN the_DT usual_JJ way_NN ._.
+Administra-_JJ tive_JJ appoint-_JJ ments_NNS ._.
+5_CD ._.
+The_DT administrative_JJ appointments_NNS of_IN P._NNP V._NNP O._NNP ,_, India_NNP ,_, Dy_NNP ._.
+P._NNP V._NNP O._NNP ,_, India_NNP ,_, and_CC two_CD S._NNP V._NNP Os_NNP ._.
+will_MD be_VB held_VBN by_IN selected_VBN officers_NNS not_RB under_IN the_DT rank_NN of_IN lieutenant-colonel_NN ,_, who_WP have_VBP served_VBN at_IN least_JJS three_CD years_NNS in_IN India_NNP as_IN executive_NN officers_NNS These_DT officers_NNS are_VBP nominated_VBN by_IN the_DT S._NNP of_IN S._NNP for_IN War_NNP ,_, appointed_VBN by_IN the_DT S_NNP of_IN S._NNP for_IN India_NNP ,_, and_CC posted_VBN by_IN the_DT C.-in-C_NNP ._.
+The_DT tenure_NN of_IN the_DT appointment_NN of_IN P._NNP V._NNP O._NNP ,_, India_NNP ,_, is_VBZ for_IN five_CD years_NNS ._.
+The_DT tour_NN of_IN service_NN abroad_RB of_IN Dy_NNP ._.
+P._NNP V._NNP O._NNP ,_, India_NNP ,_, and_CC the_DT two_CD S._NNP V._NNP O.s_NNP above_IN mentioned_VBN is_VBZ for_IN five_CD years_NNS ._.
+Tour_CD of_IN executive_NN officers_NNS ._.
+6_CD ._.
+Executive_JJ officers_NNS of_IN the_DT A.V.C_NNP ._.
+are_VBP detailed_VBN by_IN the_DT War_NNP Office_NNP for_IN a_DT tour_NN of_IN five_CD years_NNS '_POS service_NN abroad_RB ,_, which_WDT commences_VBZ from_IN the_DT date_NN of_IN em-_JJ barkation_NN ._.
+This_DT period_NN is_VBZ subject_JJ to_TO extension_NN in_IN the_DT interests_NNS of_IN the_DT service_NN ._.
+Any_DT period_NN spent_VBN out_IN of_IN India_NNP (_( a_DT )_) on_IN general_JJ or_CC privilege_NN leave_VBP ,_, (_( b_NN on_IN M._NNP C._NNP leave_VBP up_RB to_TO 12_CD months_NNS ,_, (_( c_NN )_) on_IN duty_NN at_IN another_DT foreign_JJ station_NN be-_JJ tween_JJ original_JJ embarkation_NN and_CC arrival_NN in_IN India_NNP will_MD count_VB towards_NNS the_DT completion_NN of_IN a_DT tour_NN ._.
+Reliefs_NNP during_IN a_DT trooping_VBG reason_NN will_MD be_VB arranged_VBN for_IN those_DT officers_NNS whose_WP$ tours_NNS expire_VBP on_IN or_CC before_IN the_DT 30th_JJ June_NNP following_NN ._.
+Exchanges_NNS ._.
+7_CD ._.
+Exchanges_NNS between_IN executive_NN officers_NNS in_IN India_NNP and_CC at_IN home_NN or_CC in_IN the_DT colonies_NNS are_VBP permitted_VBN without_IN expense_NN to_TO the_DT State_NNP if_IN the_DT officer_NN exchang-_JJ ing_NN to_TO India_NNP is_VBZ pronounced_VBN medically_RB fit_JJ for_IN service_NN in_IN that_DT country_NN ._.
+Duties_NNS of_IN P._NNP V._NNP O_NNP ._.
+8_CD ._.
+The_DT P_NNP ._.
+V.O._NNP ,_, India_NNP ,_, will_MD ,_, under_IN the_DT orders_NNS of_IN the_DT Q._NNP M._NNP G._NNP ,_, India_NNP ,_, administer_VBP the_DT veterinary_JJ service_NN of_IN the_DT army_NN ._.
+He_PRP will_MD direct_VB and_CC super-_JJ intend_VBP the_DT professional_JJ and_CC departmental_JJ duties_NNS of_IN all_DT officers_NNS of_IN the_DT A._NNP V._NNP S._NNP in_IN military_JJ employ_NN in_IN India_NNP and_CC exercise_VB a_DT general_JJ control_NN over_IN army_JJ veterinary_JJ schools_NNS and_CC stores_NNS ._.
+He_PRP will_MD issue_VB such_JJ departmental_JJ instructions_NNS as_IN may_MD be_VB necessary_JJ ._.
+All_DT correspondence_NN ,_, returns_NNS and_CC reports_NNS for_IN transmission_NN to_TO the_DT Director-General_NNP ,_, A._NNP V._NNP S._NNP ,_, will_MD be_VB submitted_VBN through_IN him_PRP ._.
+He_PRP will_MD correspond_VB direct_JJ with_IN the_DT I._NNP G._NNP ,_, Civil_NNP Veterinary_NNP Department_NNP ,_, on_IN professional_JJ subjects_NNS ._.
+Duties_NNS of_IN S._NNP V._NNP O_NNP ._.
+9_CD ._.
+The_DT S._NNP V._NNP O._NNP is_VBZ on_IN the_DT staff_NN of_IN the_DT G._NNP O._NNP C._NNP Dn_NNP ._.
+He_PRP will_MD ,_, render_VB him_PRP advice_VB on_IN all_DT veterinary_JJ subjects_NNS and_CC keep_VB him_PRP informed_VBN on_IN all_DT matters_NNS connected_VBN with_IN the_DT A._NNP V._NNP S._NNP in_IN the_DT Dn_NNP ._.
+When_WRB holding_VBG the_DT rank_NN of_IN Colonel_NNP or_CC Lieutenant_NNP Colonel_NNP his_PRP$ duties_NNS will_MD be_VB entirely_RB admininis-_JJ trative_NN ,_, below_IN the_DT latter_JJ rank_NN he_PRP will_MD be_VB an_DT executive_JJ officer_NN ,_, personally_RB supervising_VBG the_DT S._NNP V._NNP H._NNP at_IN Divisional_NNP Head_NNP Quarters_NNP ,_, and_CC will_MD ,_, in_IN addi-_JJ tion_NN ,_, carry_VBP out_RP administrative_JJ duties_NNS ._.
+Inspection_NN ._.
+10_CD ._.
+The_DT S._NNP V._NNP O._NNP will_MD inspect_VB public_JJ animals_NNS of_IN British_JJ units_NNS in_IN his_PRP$ Dn_NNP quarterly_NN and_CC all_DT public_JJ animals_NNS employed_VBN in_IN the_DT military_JJ service_NN in_IN the_DT Dn_NNP ._.
+at_IN least_JJS once_RB yearly_RB ._.
+He_PRP will_MD enquire_VB into_IN all_DT matters_NNS relating_VBG to_TO the_DT preservation_NN of_IN their_PRP$ health_NN ._.
+He_PRP will_MD satisfy_VB himself_PRP that_IN hospitals_NNS ,_, including_VBG those_DT of_IN remount_NN depôts_NN ,_, are_VBP efficiently_RB managed_VBN ;_: that_IN instruments_NNS and_CC stores_NNS are_VBP properly_RB looked_VBN after_IN ;_: that_IN the_DT latter_NN are_VBP economically_RB expended_VBN ;_: that_IN poisons_NNS are_VBP locked_VBN up_RP ;_: and_CC that_IN books_NNS ,_, regis-_JJ ters_NNS ,_, and_CC records_NNS are_VBP correctly_RB kept_VBN ._.
+He_PRP will_MD see_VB that_IN the_DT mobilization_NN veterinary_JJ equipment_NN is_VBZ complete_JJ ,_, serviceable_JJ ,_, and_CC properly_RB arranged_VBN ._.
+He_PRP will_MD satisfy_VB himself_PRP that_IN the_DT forge_NN and_CC appliances_NNS are_VBP in_IN good_JJ order_NN ._.
+He_PRP will_MD inspect_VB the_DT shoeing_NN ,_, ascertain_VBP that_IN the_DT regimental_JJ farrier_JJR estab-_JJ lishment_NN is_VBZ efficient_JJ ,_, and_CC that_DT instruction_NN is_VBZ given_VBN in_IN the_DT treatment_NN of_IN minor_JJ cases_NNS of_IN sickness_NN and_CC in_IN shoe_NN and_CC nail_NN making_NN ._.
+He_PRP will_MD state_NN his_PRP$ opinion_NN as_IN to_TO the_DT soundness_NN and_CC condition_NN of_IN the_DT remounts_NNS ._.
+He_PRP will_MD satisfy_VB himself_PRP that_IN the_DT animals_NNS of_IN military_JJ dairy_NN farms_NNS are_VBP healthy_JJ and_CC kept_VBD in_IN sanitary_JJ surroundings_NNS ._.
+He_PRP will_MD submit_VB quarterly_JJ report_NN on_IN I_PRP ._.
+A._NN F._NNP V._NNP 1759_CD and_CC annual_JJ report_NN in_IN I_PRP ._.
+A._NN F._NNP I-1137_NNP ._.
+Duties_NNS of_IN V._NNP O._NNP in_IN charge_NN of_IN a_DT station_NN ._.
+11_CD ._.
+The_DT V._NNP O._NNP in_IN a_DT station_NN (_( the_DT senior_JJ where_WRB there_EX is_VBZ more_JJR than_IN one_CD )_) is_VBZ on_IN the_DT staff_NN of_IN the_DT O._NNP C._NNP the_DT station_NN and_CC issues_NNS the_DT orders_NNS of_IN the_DT latter_NN on_IN veterinary_JJ matters_NNS ._.
+He_PRP is_VBZ responsible_JJ for_IN the_DT efficient_JJ perform-_JJ ance_NN of_IN the_DT veterinary_JJ duties_NNS of_IN the_DT station_NN and_CC that_IN prompt_JJ measures_NNS are_VBP 3_CD Officers_NNS ._.
+taken_VBN for_IN the_DT suppression_NN of_IN an_DT outbreak_NN of_IN contagious_JJ or_CC infections_NNS disease_VBP among_IN animals_NNS employed_VBN in_IN the_DT military_JJ service_NN ._.
+He_PRP is_VBZ respon-_JJ sible_JJ for_IN the_DT hospital_NN stores_NNS ._.
+He_PRP corresponds_VBZ direct_JJ with_IN Os_NNP ._.
+C._NNP corps_NN on_IN subjects_NNS concerning_VBG the_DT health_NN of_IN animals_NNS ._.
+Appoint-_JJ ment_NN of_IN V._NNP O_NNP ._.
+Weekly_JJ inspection_NN ._.
+12_CD ._.
+Veterinary_JJ Officers_NNS will_MD be_VB appointed_VBN to_TO the_DT charge_NN of_IN S._NNP V_NNP ._.
+Hs_NNP ._.
+British_JJ mounted_VBD units_NNS will_MD be_VB placed_VBN in_IN the_DT professional_JJ charge_NN of_IN Veterinary_JJ Officers_NNS in_IN the_DT station_NN in_IN which_WDT they_PRP are_VBP quartered_VBN ._.
+They_PRP will_MD ,_, in_IN communication_NN with_IN Os_NNP ._.
+C._NNP corps_NN ,_, inspect_NN ,_, at_IN least_JJS once_RB weekly_JJ ,_, all_DT animals_NNS under_IN their_PRP$ charge_NN ._.
+They_PRP will_MD carefully_RB look_VB into_IN matters_NNS connected_VBN with_IN the_DT health_NN and_CC efficiency_NN of_IN the_DT animals_NNS and_CC will_MD see_VB that_IN the_DT principles_NNS of_IN shoeing_VBG are_VBP observed_VBN ._.
+They_PRP will_MD satisfy_VB themselves_PRP that_IN the_DT veterinary_JJ wallets_NNS are_VBP fit_JJ for_IN immediate_JJ use_NN ._.
+Arrival_NN and_CC departure_NN reports_NNS of_IN horses_NNS ._.
+13_CD ._.
+Arrival_NN and_CC departure_NN reports_NNS of_IN animals_NNS will_MD be_VB sent_VBN by_IN the_DT O._NNP C._NNP the_DT corps_NN to_TO the_DT officer_NN in_IN charge_NN S._NNP V._NNP H._NNP Treatment_NNP of_IN govt_NN ._.
+stallions_NNS ._.
+14_CD ._.
+Veterinary_JJ officers_NNS will_MD ,_, if_IN their_PRP$ services_NNS can_MD be_VB spared_VBN ,_, treat_NN without_IN extra_JJ remuneration_NN ,_, government_NN stallions_NNS under_IN the_DT army_JJ re-_JJ mount_NN department_NN located_VBN on_IN the_DT line_NN of_IN railway_NN and_CC animals_NNS under_IN the_DT civil_JJ veterinary_JJ department_NN when_WRB called_VBN on_IN to_TO do_VB so_RB ._.
+Pocket_NN cases_NNS ._.
+15_CD ._.
+Every_DT Veterinary_JJ Officer_NNP will_MD provide_VB ,_, and_CC keep_VB up_RP at_IN his_PRP$ own_JJ expense_NN ,_, a_DT pocket-case_NN of_IN instruments_NNS of_IN the_DT sealed_JJ pattern_NN ._.
+Mobilization_NNP Veterinary_NNP equipment_NN to_TO be_VB kept_VBN ready_JJ for_IN use_NN ._.
+16_CD ._.
+The_DT Officer_NNP in_IN charge_NN of_IN a_DT S._NNP V._NNP H._NNP is_VBZ responsible_JJ that_IN the_DT mobilization_NN veterinary_JJ equipment_NN kept_VBD in_IN the_DT hospital_NN in_IN order_NN to_TO admit_NN of_IN the_DT turn-over_NN of_IN perishable_JJ articles_NNS ,_, is_VBZ at_IN all_DT times_NNS complete_JJ ,_, serviceable_JJ and_CC ready_JJ for_IN use_NN ._.
+Veterinary_JJ universal_JJ chests_NNS will_MD not_RB be_VB used_VBN in_IN peace_NN time_NN ,_, except_IN on_IN manHospitals_NNS ._.
+4_CD out_RP investigations_NNS into_IN disease_NN under_IN the_DT guidance_NN of_IN the_DT Imperial_NNP Bacteriologist_NNP ._.
+Applications_NNS to_TO attend_VB may_MD be_VB submitted_VBN through_IN S._NNP V._NNP O._NNP to_TO Q._NNP M._NNP G._NNP ,_, India_NNP ._.
+Hospitals_NNS ._.
+Hospital_NNP establish-_JJ ments_NNS ._.
+26_CD ._.
+Station_NNP veterinary_JJ hospitals_NNS are_VBP classed_VBN I_PRP and_CC II_NNP ._.
+Their_PRP$ subordi-_JJ nate_NN establishments_NNS are_VBP as_IN follows_VBZ :5_NNP Contagious_NNP and_CC infectious_JJ diseases_NNS ._.
+its_PRP$ surroundings_NNS ._.
+The_DT cleaning_NN of_IN surface-drains_NNS and_CC the_DT removal_NN of_IN rank_NN vegetation_NN in_IN the_DT vicinity_NN of_IN a_DT hospital_NN will_MD be_VB effected_VBN by_IN the_DT conser-_JJ vancy_NN establishment_NN of_IN corps_NN under_IN the_DT orders_NNS of_IN the_DT O._NNP C._NNP the_DT station_NN ._.
+Contagious_JJ and_CC infectious_JJ diseases_NNS ._.
+Outbreak_NN of_IN disease_NN to_TO be_VB reported_VBN ._.
+35_CD ._.
+The_DT detection_NN of_IN contagious_JJ disease_NN in_IN its_PRP$ early_JJ stages_NNS is_VBZ most_RBS important_JJ and_CC demands_VBZ the_DT utmost_JJ vigilence_NN on_IN the_DT part_NN of_IN Veterinary_NNP Officers_NNP ._.
+The_DT duties_NNS of_IN a_DT Veterinary_JJ Officer_NN on_IN the_DT outbreak_NN of_IN disease_NN are_VBP laid_VBN down_RP in_IN para_NN ._.
+11_CD ._.
+He_PRP will_MD at_IN once_RB report_VB the_DT occurrence_NN to_TO the_DT O._NNP C._NNP unit_NN concerned_JJ and_CC O._NNP C._NNP station_NN ,_, who_WP will_MD take_VB action_NN in_IN accordance_NN with_IN I_PRP ._.
+A._NN F._NNP Z_NNP ._.
+2000_CD ._.
+The_DT Veterinary_NNP Officer_NNP will_MD keep_VB the_DT S._NNP V._NNP O._NNP informed_NN of_IN the_DT course_NN of_IN the_DT disease_NN and_CC of_IN the_DT measures_NNS adopted_VBN for_IN its_PRP$ suppression_NN ,_, and_CC will_MD also_RB submit_VB a_DT fortnightly_RB report_NN (_( I_PRP ._.
+A._NN F._NNP V._NNP 1756_CD )_) or_CC oftener_UH ,_, if_IN necessary_JJ ,_, as_IN directed_VBN in_IN I_PRP ._.
+A._NN F._NNP Z_NNP ._.
+2000_CD ._.
+Report_NN by_IN civil_JJ author-_JJ ities_NNS ._.
+36_CD ._.
+When_WRB a_DT contagious_JJ or_CC infectious_JJ disease_NN appears_VBZ among_IN animals_NNS at_IN a_DT fair_JJ ,_, or_CC in_IN the_DT neighbourhood_NN of_IN a_DT cantonment_NN ,_, or_CC of_IN a_DT road_NN used_VBN by_IN troops_NNS ,_, the_DT civil_JJ officer_NN of_IN the_DT locality_NN is_VBZ enjoined_VBN to_TO report_VB the_DT matter_NN at_IN once_RB to_TO the_DT nearest_JJS military_JJ officer_NN ,_, who_WP will_MD inform_VB any_DT concerned_JJ ,_, including_VBG S._NNP V._NNP O_NNP ._.
+Inspection_NN of_IN animals_NNS joining_VBG ._.
+Isolation_NN ,_, disinfection_NN ,_, etc_FW ._.
+37_CD ._.
+Horses_NNS joining_VBG a_DT unit_NN should_MD not_RB be_VB admitted_VBN into_IN the_DT lines_NNS until_IN passed_VBN by_IN the_DT Officer_NNP in_IN veterinary_JJ charge_NN ._.
+38_CD ._.
+Instructions_NNS regarding_VBG the_DT isolation_NN of_IN animals_NNS shewing_VBG symptoms_NNS of_IN any_DT contagious_JJ or_CC infectious_JJ disease_NN ,_, their_PRP$ destruction_NN in_IN order_NN to_TO prevent_VB the_DT spread_NN of_IN disease_NN ,_, the_DT disinfection_NN of_IN stalls_NNS ,_, stable_JJ appliances_NNS and_CC gear_NN ,_, and_CC attendants_NNS '_POS clothing_NN ,_, and_CC the_DT disposal_NN of_IN carcasses_NNS of_IN infected_JJ animals_NNS are_VBP laid_VBN down_RP in_IN A._NNP R._NNP I._NNP ,_, Vol_NNP ._.
+II_NNP ._.
+Confirma-_JJ tion_NN of_IN anthrax_NN ._.
+39_CD ._.
+The_DT diagnosis_NN of_IN a_DT case_NN of_IN anthrax_NN should_MD be_VB confirmed_VBN by_IN microscopical_JJ examination_NN and_CC ,_, in_IN exceptional_JJ circumstances_NNS ,_, by_IN inocu-_JJ lation_NN ._.
+Destruction_NN of_IN animals_NNS glanders-_JJ farcy_NN ._.
+40_CD ._.
+Animals_NNS shewing_VBG clinical_JJ symptoms_NNS of_IN glanders-farcy_NN will_MD be_VB destroyed_VBN ._.
+In_IN all_DT outbreaks_NNS ,_, or_CC on_IN the_DT occurrence_NN of_IN suspicious_JJ cases_NNS ,_, the_DT mallein_JJ test_NN will_MD be_VB applied_VBN ._.
+Animals_NNS reacting_VBG to_TO the_DT test_NN will_MD be_VB destroyed_VBN ._.
+Those_DT shewing_VBG a_DT doubtful_JJ reaction_NN will_MD be_VB retested_VBN at_IN in-_JJ tervals_NNS of_IN not_RB less_JJR than_IN fourteen_JJ days_NNS ,_, if_IN facilities_NNS exist_VBP for_IN isolation_NN ._.
+Should_MD any_DT subsequent_JJ reaction_NN be_VB typical_JJ ,_, the_DT animal_NN will_MD be_VB destroyed_VBN ._.
+Animals_NNS which_WDT on_IN retesting_VBG shew_PDT a_DT diminished_JJ reaction_NN will_MD be_VB continued_VBN in_IN isolation_NN until_IN they_PRP either_DT cease_NN to_TO react_VB ,_, when_WRB they_PRP may_MD be_VB considered_VBN safe_JJ and_CC returned_VBN to_TO their_PRP$ unit_NN ,_, or_CC be_VB destroyed_VBN if_IN no_DT change_NN for_IN the_DT better_JJR in_IN the_DT reaction_NN occurs_VBZ ._.
+The_DT result_NN of_IN all_DT mallein_NN tests_NNS will_MD be_VB reported_VBN to_TO the_DT S._NNP V._NNP O_NNP ._.
+Precaution_NN after_IN glanders_NNS ._.
+41_CD ._.
+A_DT detachment_NN can_MD not_RB be_VB considered_VBN free_JJ from_IN glanders_NNS or_CC farcy_NN until_IN all_DT animals_NNS in_IN contact_NN have_VBP been_VBN tested_VBN with_IN mallein_NN ,_, or_CC until_IN four_CD months_NNS have_VBP elapsed_VBN since_IN the_DT last_JJ animal_NN was_VBD destroyed_VBN ._.
+Supply_NN of_IN mallein_NN ._.
+42_CD ._.
+Mallein_NNP or_CC other_JJ serum_NN ,_, when_WRB required_VBN ,_, will_MD be_VB supplied_VBN by_IN the_DT Muktesar_NNP Laboratory_NNP on_IN indent_NN ,_, or_CC telegram_VB direct_JJ from_IN the_DT Veterinary_NNP Officer_NNP in_IN charge_NN ._.
+Inspection_NN under_IN the_DT Glanders_NNP and_CC Farcy_NNP Act_NNP ._.
+43_CD ._.
+The_DT operations_NNS of_IN an_DT officer_NN of_IN the_DT A._NNP V._NNP C._NNP as_IN an_DT inspector_NN under_IN the_DT provisions_NNS of_IN the_DT Glanders_NNP and_CC Farcy_NNP Act_NNP (_( see_VB Appx_NNP ._.
+I_PRP )_) are_VBP confined_VBN to_TO the_DT area_NN within_IN a_DT radius_NN of_IN five_CD miles_NNS from_IN the_DT station_NN or_CC stations_NNS in_IN his_PRP$ charge_NN ._.
+Rinderpest_NNP lymphan-_JJ gitis_NN ._.
+44_CD ._.
+A_DT diagnosed_JJ case_NN of_IN rinderpest_NN and_CC an_DT incurable_JJ case_NN of_IN epizootic_JJ lymphangitis_NN should_MD ,_, as_IN a_DT rule_NN ,_, be_VB destroyed_VBN ._.
+Precaution_NN after_IN lym-_JJ phangitis_NN ._.
+45_CD ._.
+As_IN epizootic_JJ lymphangitis_NN is_VBZ liable_JJ to_TO recur_VB ,_, an_DT animal_NN must_MD be_VB regarded_VBN with_IN suspicion_NN and_CC treated_VBD accordingly_RB for_IN a_DT year_NN after_IN recover-_JJ ing_NN from_IN an_DT attack_NN ._.
+Movements_NNS of_IN troops_NNS ._.
+46_CD ._.
+All_DT horses_NNS of_IN a_DT unit_NN should_MD ,_, if_IN possible_JJ ,_, accompany_JJ it_PRP on_IN the_DT march_NN ._.
+For_IN veterinary_JJ documents_NNS accompanying_VBG units_NNS or_CC animals_NNS see_VBP para_NN ._.
+77_CD ._.
+Movements_NNS of_IN troops_NNS ._.
+6_CD Marching_NNP inspections_NNS ._.
+47_CD ._.
+The_DT V._NNP O._NNP in_IN a_DT station_NN (_( the_DT senior_JJ where_WRB there_EX is_VBZ more_JJR than_IN one_CD )_) will_MD ,_, under_IN the_DT orders_NNS of_IN the_DT O._NNP C._NNP the_DT station_NN ,_, inspect_JJ and_CC report_NN (_( see_VB I_PRP ._.
+A._NN F._NNP V._NNP 1755_CD )_) on_IN the_DT sick_JJ animals_NNS of_IN British_JJ and_CC non-silladar_JJ mounted_VBN corps_NN and_CC heavy_JJ batteries_NNS on_IN their_PRP$ leaving_NN ,_, passing_VBG through_IN if_IN unaccom-_JJ panied_VBN by_IN a_DT Veterinary_JJ Officer_NNP ,_, and_CC arrival_NN at_IN a_DT station_NN by_IN route_NN march_NN ._.
+Instruments_NNS ,_, etc._FW ,_, march-_JJ ing_VBG scale_NN ._.
+48_CD ._.
+The_DT scale_NN of_IN instruments_NNS and_CC necessaries_NNS for_IN units_NNS on_IN the_DT march_NN is_VBZ laid_VBN down_RB in_IN Appx_NNP ._.
+VI_NNP ,_, Table_NNP IV_NNP ._.
+The_DT Officer_NNP in_IN veterinary_JJ charge_NN of_IN a_DT hospital_NN is_VBZ responsible_JJ that_IN any_DT body_NN of_IN British_JJ or_CC non-silladar_JJ mounted_JJ troops_NNS leaving_VBG the_DT station_NN is_VBZ supplied_VBN with_IN a_DT proper_JJ proportion_NN of_IN instruments_NNS and_CC medicines_NNS ,_, and_CC ,_, if_IN necessary_JJ ,_, with_IN written_VBN instructions_NNS for_IN the_DT use_NN of_IN the_DT latter_NN ._.
+They_PRP will_MD be_VB packed_VBN in_IN veterinary_JJ camp_NN boxes_NNS ,_, which_WDT will_MD be_VB handed_VBN over_IN to_TO the_DT S._NNP V._NNP H._NNP at_IN destination_NN and_CC brought_NN on_IN charge_NN together_RB with_IN unexpended_JJ medicines_NNS and_CC consumable_JJ necessaries_NNS ._.
+When_WRB British_JJ mounted_VBD units_NNS or_CC non-silladar_JJ cavalry_NN are_VBP about_IN to_TO move_VB from_IN a_DT station_NN where_WRB no_DT Veterinary_NNP Officer_NNP is_VBZ located_VBN ,_, the_DT O._NNP C._NNP a_DT unit_NN will_MD take_VB steps_NNS to_TO ensure_VB being_VBG provided_VBN with_IN the_DT necessary_JJ medicines_NNS and_CC instruments_NNS ._.
+Veterinary_JJ report_NN on_IN conclusion_NN of_IN a_DT march_NN ._.
+49_CD ._.
+On_IN the_DT termination_NN of_IN a_DT march_NN the_DT Veterinary_JJ Officer_NNP accompany-_NN ing_VBG the_DT troops_NNS will_MD submit_VB a_DT report_NN to_TO the_DT S._NNP V._NNP O._NNP with_IN remarks_NNS on_IN the_DT quality_NN of_IN the_DT forage_NN and_CC water_NN on_IN the_DT march_NN ,_, and_CC as_IN to_TO any_DT improve-_JJ ment_NN that_WDT may_MD be_VB desirable_JJ in_IN veterinary_JJ arrangements_NNS ,_, equipments_NNS ,_, etc_FW ._.
+Attendance_NN on_IN chargers_NNS ._.
+Free_JJ at-_JJ tendance_NN on_IN chargers_NNS ._.
+50_CD ._.
+If_IN a_DT Veterinary_JJ Officer_NNP is_VBZ present_JJ at_IN a_DT station_NN on_IN duty_NN ,_, he_PRP will_MD ,_, within_IN the_DT limits_NNS of_IN the_DT station_NN ,_, when_WRB requested_VBN ,_, treat_NN ,_, supply_NN medicine_NN to_TO ,_, and_CC advise_RB regarding_VBG bonâ_NN fide_RB registered_VBD sick_JJ chargers_NNS of_IN officers_NNS of_IN any_DT corps_NN or_CC branch_NN of_IN the_DT service_NN ._.
+It_PRP rests_VBZ with_IN him_PRP to_TO decide_VB whether_IN an_DT animal_NN should_MD be_VB sent_VBN to_TO the_DT S._NNP V._NNP H._NNP He_PRP will_MD only_RB attend_VB a_DT charger_NN outside_IN the_DT station_NN in_IN a_DT case_NN of_IN urgency_NN and_CC if_IN his_PRP$ travelling_NN expenses_NNS are_VBP defrayed_VBN by_IN the_DT owner_NN ._.
+No_DT animal_NN ,_, the_DT property_NN of_IN an_DT officer_NN ,_, other_JJ than_IN a_DT bonâ_JJ fide_NN registered_VBD charger_NN ,_, will_MD be_VB admitted_VBN into_IN a_DT hospital_NN or_CC supplied_VBN with_IN government_NN medicines_NNS ._.
+Veterinary_JJ opinion_NN with-_NN out_IN fees_NNS on_IN proposed_VBN charger_NN ._.
+51_CD ._.
+The_DT Officer_NNP in_IN veterinary_JJ charge_NN of_IN a_DT remount_NN depôt_NN will_MD furnish_VB an_DT officer_NN selecting_VBG a_DT charger_NN therefrom_NN with_IN a_DT written_VBN opinion_NN on_IN its_PRP$ soundness_NN ._.
+In_IN other_JJ cases_NNS the_DT officer_NN purchasing_VBG a_DT horse_NN for_IN use_NN as_IN a_DT bonâ_NN fide_NN registered_VBD charger_NN may_MD send_VB it_PRP to_TO a_DT S._NNP V._NNP H._NNP for_IN the_DT written_VBN opinion_NN of_IN the_DT Veterinary_NNP Officer_NNP in_IN charge_NN ._.
+Instruction_NN ._.
+Training_NN of_IN regimental_JJ establishments_NNS ._.
+Veterinary_JJ training_NN of_IN farriers_NNS ._.
+52_CD ._.
+In_IN order_NN that_IN the_DT forge_NN establishments_NNS of_IN British_NNP mounted_VBD corps_NN may_MD be_VB instructed_VBN and_CC practised_VBN in_IN practical_JJ hospital_NN matters_NNS ,_, the_DT O._NNP C._NNP a_DT station_NN at_IN which_WDT there_EX is_VBZ a_DT Veterinary_JJ Officer_NNP will_MD bring_VB them_PRP on_IN a_DT roster_NN for_IN weekly_JJ duty_NN in_IN the_DT S._NNP V._NNP H._NNP as_IN hospital_NN orderlies_NNS ._.
+During_IN a_DT tour_NN of_IN duty_NN they_PRP will_MD be_VB under_IN the_DT orders_NNS of_IN the_DT Officer_NNP in_IN charge_NN S._NNP V._NNP H._NNP Veterinary_NNP instruction_NN of_IN officers_NNS and_CC others_NNS ._.
+53_CD ._.
+The_DT officers_NNS (_( including_VBG attached_VBN officers_NNS )_) and_CC forge_VB establish-_JJ ments_NNS of_IN corps_NN in_IN charge_NN of_IN a_DT Veterinary_JJ Officer_NNP will_MD receive_VB elementary_JJ instruction_NN from_IN the_DT latter_NN in_IN first-aid_JJ treatment_NN of_IN simple_JJ injuries_NNS and_CC diseases_NNS of_IN horses_NNS ._.
+Veterinary_NNP pupils_NNS ._.
+54_CD ._.
+Four_CD European_JJ or_CC East_JJ Indian_JJ lads_NNS ,_, preferably_RB the_DT sons_NNS of_IN soldiers_NNS ,_, who_WP are_VBP between_IN fifteen_JJ and_CC seventeen_JJ years_NNS of_IN age_NN ,_, medically_RB fit_JJ ,_, able_JJ to_TO read_VB and_CC write_VB English_NNP ,_, work_NN simple_NN sums_NNS and_CC speak_JJ Hindustani_NNP will_MD be_VB enrolled_VBN as_IN farrier_JJR pupils_NNS in_IN the_DT 26th_CD ,_, 27th_CD and_CC 28th_CD Light_NNP Cavalry_NNP ,_, respectively_RB ._.
+They_PRP will_MD ,_, for_IN the_DT first_JJ two_CD years_NNS ,_, be_VB placed_VBN under_IN the_DT orders_NNS of_IN the_DT Veterinary_NNP Officer_NNP ,_, who_WP will_MD instruct_VB them_PRP and_CC examine_VB them_PRP half-yearly_RB ._.
+A_DT pupil_NN of_IN undesirable_JJ character_NN will_MD be_VB brought_VBN before_IN the_DT 7_CD Army_NNP Veterinary_NNP Schools_NNP ._.
+G._NNP O._NNP C._NNP for_IN discharge_NN at_IN any_DT time_NN during_IN the_DT first_JJ two_CD years_NNS ._.
+Similar_JJ measures_NNS will_MD be_VB taken_VBN for_IN the_DT discharge_NN of_IN a_DT pupil_NN who_WP ,_, on_IN completion_NN of_IN two_CD years_NNS '_POS service_NN ,_, is_VBZ not_RB competent_JJ to_TO perform_VB the_DT duties_NNS of_IN a_DT farrier_NN ._.
+Army_NNP Veterinary_NNP Schools_NNP ._.
+Poona_NNP School_NNP ._.
+55_CD ._.
+Managing_VBG committee_NN ._.
+Organiza-_JJ tion_NN ._.
+The_DT G.O.C._NNP ,_, Poona_NNP division_NN ._.
+President_NNP ._.
+(_( Officer_NNP superintending_VBG the_DT school_NN )_) .Army_NN Veterinary_NNP Schools_NNP ._.
+8_CD Course_NNP ._.
+64_CD ._.
+The_DT syllabus_NN of_IN the_DT course_NN of_IN instruction_NN is_VBZ laid_VBN down_RB in_IN Appx_NNP ._.
+III_NNP ._.
+Discipline_NN of_IN classes_NNS ._.
+65_CD ._.
+Questions_NNS of_IN discipline_NN will_MD be_VB referred_VBN by_IN the_DT Principal_NNP of_IN the_DT school_NN to_TO the_DT G._NNP O._NNP C._NNP ,_, Poona_NNP Dn_NNP ._.
+or_CC Sirhind_NNP Bde_NNP ._.
+The_DT appli-_JJ cation_NN of_IN a_DT member_NN to_TO withdraw_VB from_IN the_DT school_NN will_MD also_RB be_VB referred_VBN to_TO the_DT above_JJ authorities_NNS ._.
+Examina-_JJ tion_NN of_IN candidates_NNS ._.
+66_CD ._.
+On_IN the_DT completion_NN of_IN the_DT course_NN ,_, an_DT examination_NN will_MD be_VB held_VBN by_IN a_DT Board_NNP of_IN Veterinary_NNP Officers_NNP convened_VBN by_IN the_DT S._NNP V._NNP O_NNP ._.
+If_IN a_DT sufficient_JJ number_NN of_IN Veterinary_JJ Officers_NNS are_VBP not_RB available_JJ for_IN the_DT examination_NN of_IN the_DT native_JJ classes_NNS in_IN the_DT vernacular_NN ,_, reference_NN will_MD be_VB made_VBN to_TO the_DT Q._NNP M._NNP G._NNP ,_, India_NNP ._.
+For_IN a_DT pass_NN 50/40_CD per_IN cent_NN ._.
+of_IN the_DT marks_NNS in_IN the_DT theoretical_JJ subjects_NNS ,_, 60/50_CD per_IN cent_NN ._.
+in_IN the_DT practical_JJ examination_NN ,_, and_CC 60/50_CD per_IN cent_NN ._.
+in_IN the_DT aggregate_NN are_VBP required_VBN for_IN an_DT officer/a_NN soldier_NN ._.
+Seventy-_JJ five_CD per_IN cent_NN ._.
+of_IN the_DT aggregate_NN constitutes_VBZ a_DT pass_NN with_IN credit_NN ._.
+The_DT names_NNS of_IN Officers_NNS who_WP qualify_VBP will_MD be_VB included_VBN in_IN a_DT printed_JJ circular_NN ,_, a_DT copy_NN of_IN which_WDT will_MD be_VB furnished_VBN to_TO each_DT individual_NN whose_WP$ name_NN appears_VBZ therein_RB ._.
+In_IN the_DT case_NN of_IN a_DT British_JJ soldier_NN ,_, an_DT entry_NN will_MD be_VB made_VBN in_IN the_DT pocket_NN ledger_NN by_IN the_DT President_NNP of_IN the_DT Board_NNP ._.
+As_IN regards_NNS Native_NNP soldiers_VBZ the_DT result_NN will_MD be_VB communicated_VBN to_TO their_PRP$ O._NNP C._NNP Report_NNP ._.
+67_CD ._.
+An_DT annual_JJ report_NN on_IN the_DT working_NN of_IN the_DT Poona_NNP School_NNP will_MD be_VB submitted_VBN by_IN the_DT Principal_NNP of_IN the_DT school_NN on_IN the_DT 1st_CD October_NNP to_TO the_DT committee_NN and_CC the_DT Q._NNP M._NNP G._NNP in_IN India_NNP ,_, through_IN the_DT G._NNP O._NNP C._NNP ,_, Poona_NNP Dn._NNP ,_, and_CC that_IN of_IN the_DT Ambala_NNP School_NNP by_IN the_DT Principal_NNP to_TO the_DT Q._NNP M._NNP G._NNP ,_, India_NNP ,_, through_IN the_DT G._NNP O._NNP C._NNP ,_, Lahore_NNP Dn._NNP ,_, on_IN the_DT same_JJ date_NN ._.
+The_DT Punjab_NNP Veterinary_NNP College_NNP ._.
+Military_JJ students_NNS ._.
+68_CD ._.
+Twenty-six_JJ soldiers_NNS from_IN silladar_JJ cavalry_NN regiments_NNS ,_, four_CD from_IN Indian_JJ mountain_NN batteries_NNS and_CC one_CD stand_NN jemadar_NN from_IN the_DT Jhelum_NNP Canal_NNP Colony_NNP Circle_NNP are_VBP admitted_VBN annually_RB to_TO this_DT institution_NN ,_, which_WDT is_VBZ under_IN the_DT Punjab_NNP Government_NNP ._.
+If_IN accommodation_NN exists_NNS ,_, dressers_NNS of_IN the_DT remount_NN department_NN may_MD also_RB be_VB admitted_VBN ._.
+Qualifica-_JJ tion_NN for_IN admission_NN ._.
+69_CD ._.
+A_DT candidate_NN must_MD be_VB a_DT smart_JJ man_NN and_CC have_VBP a_DT taste_NN for_IN veterinary_JJ work_NN ,_, be_VB of_IN good_JJ character_NN ,_, of_IN strong_JJ constitution_NN ,_, with_IN good_JJ eye-sight_NN ;_: not_RB over_IN 25_CD years_NNS of_IN age_NN ,_, and_CC ,_, preferably_RB ,_, a_DT Musalman_NNP ._.
+A_DT Sikh_NNP or_CC Hindu_NNP ,_, before_IN admission_NN ,_, will_MD be_VB required_VBN to_TO sign_VB a_DT certificate_NN of_IN his_PRP$ willingness_NN to_TO handle_VB cattle_NNS ,_, dead_JJ or_CC alive_JJ ._.
+A_DT soldier_NN must_MD sign_VB an_DT agree-_JJ ment_NN to_TO serve_VB three_CD years_NNS with_IN his_PRP$ corps_NN after_IN leaving_VBG the_DT college_NN ._.
+Before_IN recommending_VBG an_DT applicant_NN ,_, his_PRP$ O._NNP C._NNP will_MD test_VB him_PRP in_IN the_DT follow-_JJ ing_NN subjects_NNS in_IN Urdu:9_NNP Punjab_NNP Veterinary_NNP College_NNP ._.
+Students_NNS who_WP may_MD be_VB allowed_VBN to_TO remain_VB at_IN the_DT college_NN ._.
+73_CD ._.
+A_DT student_NN failing_VBG only_RB in_IN one_CD subject_NN and_CC obtaining_VBG 50_CD per_IN cent_NN ._.
+of_IN marks_NNS in_IN the_DT third_JJ year_NN or_CC 45_CD per_IN cent_NN ._.
+in_IN the_DT second_JJ and_CC first_JJ year_NN 's_POS exami-_JJ nation_NN ,_, is_VBZ eligible_JJ for_IN re-examination_NN in_IN the_DT subject_NN in_IN which_WDT he_PRP failed_VBD after_IN a_DT further_JJ period_NN of_IN 3_CD months_NNS '_POS study_NN ._.
+Soldiers_NNS ,_, who_WP ,_, while_IN failing_VBG to_TO qualify_VB at_IN any_DT examination_NN obtain_VB 25_CD per_IN cent_NN ._.
+of_IN marks_NNS in_IN each_DT subject_NN ,_, and_CC 35_CD per_IN cent_NN ._.
+in_IN the_DT aggregate_NN ,_, or_CC are_VBP specially_RB recommended_VBN by_IN the_DT Principal_NNP ,_, may_MD be_VB allowed_VBN to_TO continue_VB their_PRP$ studies_NNS at_IN the_DT college_NN for_IN another_DT year_NN in_IN the_DT same_JJ class_NN ._.
+A_DT soldier_JJR failing_JJ twice_NN for_IN the_DT same_JJ examination_NN will_MD be_VB remanded_VBN to_TO his_PRP$ regiment_NN ._.
+Notification_NN of_IN result_NN of_IN examina-_JJ tion_NN ._.
+Text_NNP books_NNS ._.
+74_CD ._.
+The_DT result_NN of_IN examinations_NNS will_MD be_VB communicated_VBN to_TO regiments_NNS and_CC departments_NNS concerned_VBN through_IN the_DT G._NNP O._NNP C._NNP ,_, Lahore_NNP Dn_NNP ._.
+75_CD ._.
+Text_NNP books_NNS will_MD be_VB given_VBN to_TO soldiers_NNS ._.
+The_DT value_NN of_IN text_JJ books_NNS supplied_VBD to_TO students_NNS belonging_VBG to_TO the_DT remount_NN department_NN will_MD ,_, on_IN their_PRP$ appointment_NN as_IN salutries_NNS or_CC veterinary_JJ assistants_NNS ,_, be_VB recovered_VBN ,_, departmentally_RB ,_, by_IN five_CD equal_JJ monthly_JJ deductions_NNS from_IN their_PRP$ pay_NN ._.
+Books_NNP ,_, reports_NNS and_CC returns_NNS ._.
+Books_NNP ._.
+76_CD ._.
+The_DT following_JJ books_NNS and_CC orders_NNS will_MD be_VB supplied_VBN to_TO S._NNP V_NNP ._.
+Hs._NNP ,_, and_CC will_MD be_VB accounted_VBN for_IN in_IN a_DT register_NN :_: Glanders_NNS and_CC Farcy_NNP Act,11_NNP Appendix_NNP I.Nomenclature_NNP of_IN diseases13_NN Appendix_NNP II.Nomenclature_NNP of_IN diseases.15_NN Appendix_NNP III.Syllabus_NNP of_IN instraction_NN .17_NNP SyllabusAppendix_NNP VI.19_NNP S._NNP and_CC T._NNP Corps_NNP supplies.Appendix_VBD VI.21_NNP M._NNP S._NNP Dept_NNP ._.
+Supplies.Appendix_NNP VI.23_NNP M._NNP S._NNP Dept_NNP ._.
+SuppliesM_NNP ._.
+S._NNP Dept_NNP ._.
+Supplies.25_NNP Appendix_NNP VI.Stationery_NNP and_CC Supplies_NNP purchased_VBD locally27_JJ INDEX_NNP Paras._NNP ,_, etc_NN ._.
+A_DT Accounts_NNS of_IN Poona_NNP school_NN submitted_VBD to_TO Committee_NNP ._.
+._.
+._.
+._.
+58_CD Administrative_JJ veterinary_JJ offi-_JJ cers_NNS ._.
+(_( See_VB Officers_NNP ._. )_)
+Allotment_NN of_IN officers_NNS ,_, A._NNP V._NNP C._NNP and_CC N._NNP C._NNP Os_NNP ._.
+(_( U._NNP L._NNP )_) ._.
+._.
+._.
+._.
+1,2_CD AllowancesIndex_NNP ._.
+28_CD Paras._NNP ,_, etc_NN ._.
+Dry_NNP articles_NNS ,_, supply_NN of_IN ._.
+Appx.VI_NNP (_( II_NNP )_) I_PRP Duties29_NNP Index_NNP ._.
+Paras._NNP ,_, etc_NN ._.
+InstructionIndex_NN ._.
+30_CD Paras_NNP etc_NN ._.
+Q_NNP Qualifications_NNS
